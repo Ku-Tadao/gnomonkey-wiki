@@ -88,10 +88,10 @@ This article is compiled from the videos of [GnomonkeyRS](https://www.youtube.co
 ## See also
 
 * [Inquisitor's armour](Inquisitor's_armour.md)
-* [Rosewood blowpipe](Rosewood_blowpipe.md)
-* [Minimum hit adjustments](Minimum_hit_adjustments.md)
 * [Pets](Pets.md)
 * [Player versus player](Player_versus_player.md)
+* [Rosewood blowpipe](Rosewood_blowpipe.md)
+* [Minimum hit adjustments](Minimum_hit_adjustments.md)
 * [Sanguinesti staff](Sanguinesti_staff.md)
 
 ## References

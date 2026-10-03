@@ -61,8 +61,8 @@ This article is compiled from the videos of [GnomonkeyRS](https://www.youtube.co
 | 2022-03-19 | [PVM Boss Tier List (ALL BOSSES) OSRS](videos/2022-03-19_HkVt4enEesI.md) | Page created: 3 statements (opinion) |
 ## See also
 
-* [Group Hardcore Ironman: Big Dawgs V1](Group_Hardcore_Ironman_Big_Dawgs_V1.md)
 * [Cerberus](Cerberus.md)
+* [Group Hardcore Ironman: Big Dawgs V1](Group_Hardcore_Ironman_Big_Dawgs_V1.md)
 * [TzHaar Fight Cave](TzHaar_Fight_Cave.md)
 * [Theatre of Blood](Theatre_of_Blood.md)
 * [Nex](Nex.md)

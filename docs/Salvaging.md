@@ -11,78 +11,80 @@ This article is compiled from the videos of [GnomonkeyRS](https://www.youtube.co
 | | |
 |---|---|
 | **Type** | Activity |
+| **Skill** | [Sailing](Sailing.md) |
+| **Intensity levels** | Full AFK, semi-attentive, 1.5-tick hooks, tick manipulation[^KRl59CBUR8U-1037][^pwZKK8dpq8o-651] |
+| **Realistic AFK XP** | 40k to 60k per hour at level 87[^OeDcRft1_cU-184] |
+| **Major update** | Week 2 changes, partly reverted 4 December 2025[^6BvUKVInPTs-279][^OeDcRft1_cU-96] |
 | **Videos** | 4 (first 2025-11-04, latest 2025-12-04) |
 | **Main source** | [Sailing in Shambles (OSRS)](videos/2025-12-03_6BvUKVInPTs.md) |
 </div>
 
-**Salvaging** is an activity topic that Gnomonkey covers in 4 videos between 2025-11-04 and 2025-12-04. This article is a stub: his statements are grouped by type, repeated ones merged.
+**Salvaging** is a [Sailing](Sailing.md) training method in which players harvest shipwrecks from a boat. Gnomonkey considers it the best part of Sailing because it can be done AFK, and he asks Jagex not to nerf it; he says he needs it as an AFK method because he does not like the rest of Sailing.[^KRl59CBUR8U-1093][^KRl59CBUR8U-1500][^6BvUKVInPTs-245] In November 2025 he put real AFK XP at around 100k an hour, against about 60k an hour for redwoods.[^KRl59CBUR8U-1093] After the December 2025 changes and a revert he revised the realistic AFK figure down to 40k to 60k XP per hour.[^OeDcRft1_cU-184]
+
+He considers it fine for a skill to have a solid AFK method for once, since most skills have no AFK method above 20k XP per hour, and argues that the intensive methods ([Barracuda Trials](Barracuda_Trials.md) and Gwenith Glide) already gave over double Salvaging's XP per hour, so an AFK nerf was unnecessary.[^6BvUKVInPTs-995][^6BvUKVInPTs-1025][^KRl59CBUR8U-1093]
 
 [TOC]
 
 ## Methods
 
-* Shipwreck salvaging is a Sailing training method that can be tick manipulated, as shown in the beta by the player Hebox.[^pwZKK8dpq8o-624]
-* To tick manipulate salvaging, bring a knife and a log (mahogany or teak), step away from the winch, then step back in with the knife and log; this gives two harvest actions in a four-tick process, effectively two-tick salvaging.[^pwZKK8dpq8o-651]
-* Salvaging can also be done AFK for XP, with the tick-manipulated method being the sweaty fast option.[^pwZKK8dpq8o-679]
-* Salvaging has several intensity levels: full AFK (slowest), semi-attentive with a crewmate on another hook (more XP), or 1.5 tick the hooks for much faster XP.[^KRl59CBUR8U-1037]
+Salvaging has several intensity levels.[^KRl59CBUR8U-1037]
 
-## Stats and numbers
+| Intensity | Description | Cites |
+|---|---|---|
+| Full AFK | Slowest; can run a full 25 minutes, with lower efficiency, and gives useful loot for an iron such as herbs and seeds at higher spots |[^KRl59CBUR8U-1005][^KRl59CBUR8U-1037] |
+| Semi-attentive | A crewmate on another hook for more XP |[^KRl59CBUR8U-1037] |
+| 1.5-tick hooks | Much faster XP |[^KRl59CBUR8U-1037] |
+| Tick manipulation | The sweaty fast option, shown in the beta by the player Hebox |[^pwZKK8dpq8o-624][^pwZKK8dpq8o-679] |
 
-* In the Hebox footage, salvaging gave 30 XP drops, with a 60 XP drop when he got two rolls at once.[^pwZKK8dpq8o-679]
-* Salvaging in Sailing can be a full 25 minutes AFK, with less efficiency if you AFK that hard, and gives useful loot for an iron such as herbs and seeds at higher spots.[^KRl59CBUR8U-1005]
-* The crystal extractor from the elf Barracuda trial gives a 600 XP drop every minute while salvaging.[^KRl59CBUR8U-1037]
-* Salvaging gives real AFK XP of around 100k an hour, while even redwoods give about 60k an hour.[^KRl59CBUR8U-1093]
-* Crewmate success chances increased by about 11%, 14% and 15% per rank tier but crewmates harvest about 20% slower, with chance scaling with level (about 16% to 22%).[^6BvUKVInPTs-374]
-* Shipwreck XP changes: pirate shipwrecks 76 XP (from 63), mercenary 138 (from 127), Fremennik 162 (from 150), merchant 200 (from 190).[^6BvUKVInPTs-401]
-* Sorting salvage XP was reduced: Barracuda salvage gives 13 XP (from 15.5) and merchant salvage gives 34 XP (from 95).[^6BvUKVInPTs-430]
-* Jagex estimated the Salvage changes as a 20-30% nerf for AFK Salvaging from level 35 shipwrecks onward and around a 20% buff for high-intensity salvaging approaches.[^6BvUKVInPTs-462]
-* Deck handiness XP modifiers were reduced: level 4 from 70% to 40%, and level 3 from 60% to 30%, with a crewmate still able to have level 4 deck handiness so two can be at level 4.[^OeDcRft1_cU-128]
-* Realistic 25 minute AFK Salvaging at level 87 gave roughly 40k to 60k XP per hour, not the over 100k per hour some people claimed, because people counted more intensive methods such as hitting the extractor every minute and getting on the hooks themselves.[^OeDcRft1_cU-184]
-* Jagex's table: AFK salvaging with two crewmates on the hooks and the player sorting was at 60% of pre-adjustment XP and goes to 70% after the 4 December changes.[^OeDcRft1_cU-338]
-* Jagex's table: self-salvaging and sorting, where the player pulls salvage on a hook then puts a crewmate back on it while sorting, was at 75% of pre-adjustment XP and goes to 95%.[^OeDcRft1_cU-338]
+To tick manipulate, bring a knife and a log (mahogany or teak), step away from the winch, then step back in with the knife and log. This gives two harvest actions in a four-tick process, effectively two-tick salvaging.[^pwZKK8dpq8o-651] In the Hebox footage each roll gave a 30 XP drop and a double roll gave 60.[^pwZKK8dpq8o-679] The boat can be parked between two active salvage spots to make salvaging extra AFK.[^KRl59CBUR8U-1005] The crystal extractor from the elf [Barracuda trial](Barracuda_Trials.md) gives a 600 XP drop every minute while salvaging.[^KRl59CBUR8U-1037]
 
-## Tips
+## Week 2 update (3 December 2025)
 
-* You can park the boat between two active salvage spots to make salvaging extra AFK.[^KRl59CBUR8U-1005]
-* As of the week 2 update, Gnomonkey says it is better to drop all salvage and 1.5-tick the two hooks than to sort salvage, because sorting XP no longer makes sorting worth it.[^6BvUKVInPTs-702]
+Jagex's stated goals were to nerf AFK salvaging so that its top end sits slightly above AFK methods like redwood woodcutting (roughly 80k-90k XP per hour), keep moderately AFK crewmate-plus-sorting methods better than dropping salvage, and boost high-intensity salvaging to compete with Barracuda Trials.[^6BvUKVInPTs-246] They said they love AFK gameplay but never intended 20-30 minute AFK patterns, and were not looking to significantly increase the two-crewmates-plus-player-sorting method.[^6BvUKVInPTs-670] They estimated a 20-30% nerf for AFK Salvaging from level 35 shipwrecks onward and around a 20% buff for high-intensity approaches.[^6BvUKVInPTs-462]
 
-## Gnomonkey's opinion
+Changes:
 
-* Gnomonkey considers it fine for salvaging to be an AFK option as long as the intensive methods are better, which he says Barracuda Trials consistently are by about double; he asks Jagex not to nerf salvaging.[^KRl59CBUR8U-1093]
-* Gnomonkey says he really needs salvaging as an AFK method because he does not like the rest of Sailing.[^KRl59CBUR8U-1500]
-* Gnomonkey says Salvaging was his favourite part of Sailing because it was very AFK.[^6BvUKVInPTs-245]
-* Gnomonkey says the extra spots made several locations less AFK, so they are worse, while others like Fremennik were unchanged.[^6BvUKVInPTs-342]
-* Gnomonkey says he disliked a roughly one-third nerf on sorting XP in exchange for a roughly 5% shipwreck XP buff.[^6BvUKVInPTs-462]
-* Gnomonkey considers it fine for a skill to have a solid AFK method for once, noting redwoods are the closest comparison and most skills have no AFK method above 20k XP per hour, and argues players enjoyed AFK Salvaging so Jagex should not have nerfed it.[^6BvUKVInPTs-995]
-* Gnomonkey says AFK Salvaging did not need a nerf because Barracuda Trials and Gwenith Glide gave over double the XP per hour of Salvaging.[^6BvUKVInPTs-1025]
-* Gnomonkey considers the crew deck handiness nerf fair, saying Jagex found the roughly 25 minute AFK a bit higher than expected and it is pulled back only a bit.[^OeDcRft1_cU-128]
-* Gnomonkey says 40k to 60k XP per hour while AFK is a lot better than most skills offer and that Jagex only needed to nerf the extractor and then wait to see what happened.[^OeDcRft1_cU-211]
-* Gnomonkey thinks self-salvaging and sorting is basically back to what it was and might feel better than before because the player no longer has to leave the hooks to use the Crystal extractor.[^OeDcRft1_cU-366]
-* Gnomonkey notes the only method hit hard in the new numbers is 'giga AFK' salvaging, putting two crewmates on the hooks and only using the sort table.[^OeDcRft1_cU-428]
+* Player salvaging moved to a 5-tick cycle instead of 4-tick, with higher success rates at all shipwreck tiers to keep XP roughly the same while increasing AFK time; crewmates harvest a tick slower.[^6BvUKVInPTs-279]
+* Crewmates remember their assigned task over logout, which Gnomonkey calls much needed.[^6BvUKVInPTs-279]
+* Crewmate salvage range is calculated from the hook's position rather than the boat's, reducing cases where crewmates could salvage wrecks the player could not or vice versa.[^6BvUKVInPTs-308]
+* Crewmates salvage at the same rate as players instead of outperforming their captain.[^6BvUKVInPTs-308]
+* Every shipwreck hotspot gained more double salvage spots, and several locations went from three spots to four, with one boat spawn active at a time and resurfacing after roughly two and a half minutes. Gnomonkey says this made several locations less AFK and so worse, while others such as Fremennik were unchanged.[^6BvUKVInPTs-308][^6BvUKVInPTs-342]
+* Deck handiness was raised to four, so two crewmates can use dragon salvaging hooks for the cook, which he calls a good change.[^6BvUKVInPTs-342]
+* Crewmate success chances rose by about 11%, 14% and 15% per rank tier but crewmates harvest about 20% slower, with the chance scaling with level (about 16% to 22%).[^6BvUKVInPTs-374]
+* Sorting salvage XP was cut: Barracuda salvage 13 XP (from 15.5), merchant salvage 34 XP (from 95). Gnomonkey disliked a roughly one-third nerf to sorting XP in exchange for a roughly 5% shipwreck XP buff.[^6BvUKVInPTs-430][^6BvUKVInPTs-462]
 
-## Events
+| Shipwreck | New XP | Old XP | Cites |
+|---|---|---|---|
+| Pirate | 76 | 63 |[^6BvUKVInPTs-401] |
+| Mercenary | 138 | 127 |[^6BvUKVInPTs-401] |
+| Fremennik | 162 | 150 |[^6BvUKVInPTs-401] |
+| Merchant | 200 | 190 |[^6BvUKVInPTs-401] |
 
-* Jagex's stated goals for Salvaging were to nerf AFK salvaging so its top end is slightly above AFK methods like redwood woodcutting (roughly 80k-90k XP per hour), keep moderately AFK crewmate-plus-sorting methods better than dropping salvage, and boost high-intensity salvaging to compete with Barracuda Trials.[^6BvUKVInPTs-246]
-* Player salvaging now runs on a 5-tick cycle instead of 4-tick, with increased success rates across all shipwreck tiers to keep XP roughly the same while increasing AFK time, and crewmates also harvest a tick slower.[^6BvUKVInPTs-279]
-* Crewmates now remember their assigned salvage task over logout, which Gnomonkey calls a much-needed change.[^6BvUKVInPTs-279]
-* Crewmates' salvage range is now calculated from the hook's position rather than the boat's position, reducing cases where crewmates could salvage wrecks the player could not or vice versa.[^6BvUKVInPTs-308]
-* Crewmates now salvage at the same rate as players instead of outperforming their captain.[^6BvUKVInPTs-308]
-* More double salvage spots were added to every shipwreck hotspot, and several locations went from three spots to four, with one boat spawn active at a time and resurfacing after roughly two and a half minutes.[^6BvUKVInPTs-308]
-* A deck handiness value (transcribed as 'Dolly Jim's') was increased to four, meaning two crewmates can use dragon salvaging hooks for the cook, which Gnomonkey calls a good change.[^6BvUKVInPTs-342]
-* Jagex said they love AFK gameplay but never intended 20-30 minute AFK patterns in Salvaging, and are not looking to significantly increase the two-crewmates-plus-player-sorting method.[^6BvUKVInPTs-670]
-* Jagex said they would look at improving XP for the more active self-salvage and self-sort approach so players do not feel they must drop salvage and miss resources.[^6BvUKVInPTs-734]
-* A bug briefly made bronze salvaging hooks about 50% better than rune salvaging hooks, letting players get decent XP rates, and it was fixed within a few hours.[^6BvUKVInPTs-1180]
-* As of the 4 December 2025 revert, player salvaging was restored to a 4-tick cycle, with the increased success chance from the week 2 update retained, which Jagex said should give a nice XP increase.[^OeDcRft1_cU-96]
-* Jagex reduced the crew's XP modifier for salvaging, the one nerf kept, as a way to move extreme AFK methods into a healthier spot without hurting players salvaging themselves.[^OeDcRft1_cU-96]
+After this update he advised dropping all salvage and 1.5-ticking the two hooks rather than sorting, because sorting XP no longer made sorting worth it.[^6BvUKVInPTs-702] Jagex said they would look at improving XP for the more active self-salvage and self-sort approach so players do not feel they must drop salvage and miss resources.[^6BvUKVInPTs-734] A bug briefly made bronze salvaging hooks about 50% better than rune hooks, giving decent XP rates, and was fixed within a few hours.[^6BvUKVInPTs-1180]
+
+## 4 December 2025 revert
+
+Player salvaging returned to a 4-tick cycle with the week 2 success-chance increase retained, which Jagex said should give a nice XP increase.[^OeDcRft1_cU-96] The one nerf kept was a reduced crew XP modifier, as a way to move extreme AFK methods to a healthier spot without hurting players salvaging themselves.[^OeDcRft1_cU-96] Deck handiness XP modifiers fell from 70% to 40% at level 4 and from 60% to 30% at level 3, and a crewmate can still have level 4 deck handiness so two can be at level 4.[^OeDcRft1_cU-128] Gnomonkey considers this fair, saying Jagex found the roughly 25-minute AFK a bit higher than expected and pulled it back only a bit.[^OeDcRft1_cU-128]
+
+Jagex's table of XP relative to before the adjustment:
+
+| Method | Before revert | After revert | Cites |
+|---|---|---|---|
+| AFK, two crewmates on hooks, player sorting | 60% | 70% |[^OeDcRft1_cU-338] |
+| Self-salvaging and sorting (player pulls salvage on a hook, then puts a crewmate back on it while sorting) | 75% | 95% |[^OeDcRft1_cU-338] |
+
+Gnomonkey thinks self-salvaging and sorting is basically back to what it was and might feel better than before, because the player no longer has to leave the hooks to use the crystal extractor.[^OeDcRft1_cU-366] The only method hit hard is "giga AFK" salvaging, with two crewmates on the hooks and only the sort table in use.[^OeDcRft1_cU-428]
+
+He says realistic 25-minute AFK Salvaging at level 87 gave roughly 40k to 60k XP per hour, not the over 100k per hour some claimed, because those figures counted more intensive methods such as hitting the extractor every minute and getting on the hooks personally. He considers that still much better than most skills offer and says Jagex only needed to nerf the extractor and then wait.[^OeDcRft1_cU-184][^OeDcRft1_cU-211]
 
 ## Revision history
 
 | Date | Video | Change |
 |---|---|---|
-| 2025-12-04 | [Sailing NERFS REVERTED! (OSRS)](videos/2025-12-04_OeDcRft1_cU.md) | Added: 10 statements (event, opinion, stat) |
-| 2025-12-03 | [Sailing in Shambles (OSRS)](videos/2025-12-03_6BvUKVInPTs.md) | Added: 20 statements (event, opinion, stat, tip) |
-| 2025-11-26 | [Sailing's Future in OSRS](videos/2025-11-26_KRl59CBUR8U.md) | Added: 7 statements (method, opinion, stat, tip) |
-| 2025-11-04 | [SAILING PREP BLOG (OSRS)](videos/2025-11-04_pwZKK8dpq8o.md) | Page created: 4 statements (method, stat) |
+| 2025-12-04 | [Sailing NERFS REVERTED! (OSRS)](videos/2025-12-04_OeDcRft1_cU.md) | Added the 4 December revert and revised realistic AFK XP to 40k to 60k per hour (was 100k). |
+| 2025-12-03 | [Sailing in Shambles (OSRS)](videos/2025-12-03_6BvUKVInPTs.md) | Added the week 2 update (5-tick cycle, crewmate changes, XP table, sorting nerf) and Jagex's stated goals. |
+| 2025-11-26 | [Sailing's Future in OSRS](videos/2025-11-26_KRl59CBUR8U.md) | Added AFK duration, loot, boat parking, the crystal extractor, intensity levels and Gnomonkey's opinion, with AFK XP estimated at 100k per hour. |
+| 2025-11-04 | [SAILING PREP BLOG (OSRS)](videos/2025-11-04_pwZKK8dpq8o.md) | Page created: tick-manipulated salvaging, the knife-and-log method and Hebox beta XP drops. |
 ## See also
 
 * [Barracuda Trials](Barracuda_Trials.md)
@@ -95,35 +97,35 @@ This article is compiled from the videos of [GnomonkeyRS](https://www.youtube.co
 ## References
 
 ///Footnotes Go Here///
-[^pwZKK8dpq8o-624]: [SAILING PREP BLOG (OSRS)](videos/2025-11-04_pwZKK8dpq8o.md), 2025-11-04. [▶ 10:24](https://youtu.be/pwZKK8dpq8o?t=624)
-[^pwZKK8dpq8o-651]: [SAILING PREP BLOG (OSRS)](videos/2025-11-04_pwZKK8dpq8o.md), 2025-11-04. [▶ 10:51](https://youtu.be/pwZKK8dpq8o?t=651)
-[^pwZKK8dpq8o-679]: [SAILING PREP BLOG (OSRS)](videos/2025-11-04_pwZKK8dpq8o.md), 2025-11-04. [▶ 11:19](https://youtu.be/pwZKK8dpq8o?t=679)
 [^KRl59CBUR8U-1037]: [Sailing's Future in OSRS](videos/2025-11-26_KRl59CBUR8U.md), 2025-11-26. [▶ 17:17](https://youtu.be/KRl59CBUR8U?t=1037)
-[^KRl59CBUR8U-1005]: [Sailing's Future in OSRS](videos/2025-11-26_KRl59CBUR8U.md), 2025-11-26. [▶ 16:45](https://youtu.be/KRl59CBUR8U?t=1005)
-[^KRl59CBUR8U-1093]: [Sailing's Future in OSRS](videos/2025-11-26_KRl59CBUR8U.md), 2025-11-26. [▶ 18:13](https://youtu.be/KRl59CBUR8U?t=1093)
-[^6BvUKVInPTs-374]: [Sailing in Shambles (OSRS)](videos/2025-12-03_6BvUKVInPTs.md), 2025-12-03. [▶ 6:14](https://youtu.be/6BvUKVInPTs?t=374)
-[^6BvUKVInPTs-401]: [Sailing in Shambles (OSRS)](videos/2025-12-03_6BvUKVInPTs.md), 2025-12-03. [▶ 6:41](https://youtu.be/6BvUKVInPTs?t=401)
-[^6BvUKVInPTs-430]: [Sailing in Shambles (OSRS)](videos/2025-12-03_6BvUKVInPTs.md), 2025-12-03. [▶ 7:10](https://youtu.be/6BvUKVInPTs?t=430)
-[^6BvUKVInPTs-462]: [Sailing in Shambles (OSRS)](videos/2025-12-03_6BvUKVInPTs.md), 2025-12-03. [▶ 7:42](https://youtu.be/6BvUKVInPTs?t=462)
-[^OeDcRft1_cU-128]: [Sailing NERFS REVERTED! (OSRS)](videos/2025-12-04_OeDcRft1_cU.md), 2025-12-04. [▶ 2:08](https://youtu.be/OeDcRft1_cU?t=128)
+[^pwZKK8dpq8o-651]: [SAILING PREP BLOG (OSRS)](videos/2025-11-04_pwZKK8dpq8o.md), 2025-11-04. [▶ 10:51](https://youtu.be/pwZKK8dpq8o?t=651)
 [^OeDcRft1_cU-184]: [Sailing NERFS REVERTED! (OSRS)](videos/2025-12-04_OeDcRft1_cU.md), 2025-12-04. [▶ 3:04](https://youtu.be/OeDcRft1_cU?t=184)
-[^OeDcRft1_cU-338]: [Sailing NERFS REVERTED! (OSRS)](videos/2025-12-04_OeDcRft1_cU.md), 2025-12-04. [▶ 5:38](https://youtu.be/OeDcRft1_cU?t=338)
-[^6BvUKVInPTs-702]: [Sailing in Shambles (OSRS)](videos/2025-12-03_6BvUKVInPTs.md), 2025-12-03. [▶ 11:42](https://youtu.be/6BvUKVInPTs?t=702)
+[^6BvUKVInPTs-279]: [Sailing in Shambles (OSRS)](videos/2025-12-03_6BvUKVInPTs.md), 2025-12-03. [▶ 4:39](https://youtu.be/6BvUKVInPTs?t=279)
+[^OeDcRft1_cU-96]: [Sailing NERFS REVERTED! (OSRS)](videos/2025-12-04_OeDcRft1_cU.md), 2025-12-04. [▶ 1:36](https://youtu.be/OeDcRft1_cU?t=96)
+[^KRl59CBUR8U-1093]: [Sailing's Future in OSRS](videos/2025-11-26_KRl59CBUR8U.md), 2025-11-26. [▶ 18:13](https://youtu.be/KRl59CBUR8U?t=1093)
 [^KRl59CBUR8U-1500]: [Sailing's Future in OSRS](videos/2025-11-26_KRl59CBUR8U.md), 2025-11-26. [▶ 25:00](https://youtu.be/KRl59CBUR8U?t=1500)
 [^6BvUKVInPTs-245]: [Sailing in Shambles (OSRS)](videos/2025-12-03_6BvUKVInPTs.md), 2025-12-03. [▶ 4:05](https://youtu.be/6BvUKVInPTs?t=245)
-[^6BvUKVInPTs-342]: [Sailing in Shambles (OSRS)](videos/2025-12-03_6BvUKVInPTs.md), 2025-12-03. [▶ 5:42](https://youtu.be/6BvUKVInPTs?t=342)
 [^6BvUKVInPTs-995]: [Sailing in Shambles (OSRS)](videos/2025-12-03_6BvUKVInPTs.md), 2025-12-03. [▶ 16:35](https://youtu.be/6BvUKVInPTs?t=995)
 [^6BvUKVInPTs-1025]: [Sailing in Shambles (OSRS)](videos/2025-12-03_6BvUKVInPTs.md), 2025-12-03. [▶ 17:05](https://youtu.be/6BvUKVInPTs?t=1025)
-[^OeDcRft1_cU-211]: [Sailing NERFS REVERTED! (OSRS)](videos/2025-12-04_OeDcRft1_cU.md), 2025-12-04. [▶ 3:31](https://youtu.be/OeDcRft1_cU?t=211)
-[^OeDcRft1_cU-366]: [Sailing NERFS REVERTED! (OSRS)](videos/2025-12-04_OeDcRft1_cU.md), 2025-12-04. [▶ 6:06](https://youtu.be/OeDcRft1_cU?t=366)
-[^OeDcRft1_cU-428]: [Sailing NERFS REVERTED! (OSRS)](videos/2025-12-04_OeDcRft1_cU.md), 2025-12-04. [▶ 7:08](https://youtu.be/OeDcRft1_cU?t=428)
+[^KRl59CBUR8U-1005]: [Sailing's Future in OSRS](videos/2025-11-26_KRl59CBUR8U.md), 2025-11-26. [▶ 16:45](https://youtu.be/KRl59CBUR8U?t=1005)
+[^pwZKK8dpq8o-624]: [SAILING PREP BLOG (OSRS)](videos/2025-11-04_pwZKK8dpq8o.md), 2025-11-04. [▶ 10:24](https://youtu.be/pwZKK8dpq8o?t=624)
+[^pwZKK8dpq8o-679]: [SAILING PREP BLOG (OSRS)](videos/2025-11-04_pwZKK8dpq8o.md), 2025-11-04. [▶ 11:19](https://youtu.be/pwZKK8dpq8o?t=679)
 [^6BvUKVInPTs-246]: [Sailing in Shambles (OSRS)](videos/2025-12-03_6BvUKVInPTs.md), 2025-12-03. [▶ 4:06](https://youtu.be/6BvUKVInPTs?t=246)
-[^6BvUKVInPTs-279]: [Sailing in Shambles (OSRS)](videos/2025-12-03_6BvUKVInPTs.md), 2025-12-03. [▶ 4:39](https://youtu.be/6BvUKVInPTs?t=279)
-[^6BvUKVInPTs-308]: [Sailing in Shambles (OSRS)](videos/2025-12-03_6BvUKVInPTs.md), 2025-12-03. [▶ 5:08](https://youtu.be/6BvUKVInPTs?t=308)
 [^6BvUKVInPTs-670]: [Sailing in Shambles (OSRS)](videos/2025-12-03_6BvUKVInPTs.md), 2025-12-03. [▶ 11:10](https://youtu.be/6BvUKVInPTs?t=670)
+[^6BvUKVInPTs-462]: [Sailing in Shambles (OSRS)](videos/2025-12-03_6BvUKVInPTs.md), 2025-12-03. [▶ 7:42](https://youtu.be/6BvUKVInPTs?t=462)
+[^6BvUKVInPTs-308]: [Sailing in Shambles (OSRS)](videos/2025-12-03_6BvUKVInPTs.md), 2025-12-03. [▶ 5:08](https://youtu.be/6BvUKVInPTs?t=308)
+[^6BvUKVInPTs-342]: [Sailing in Shambles (OSRS)](videos/2025-12-03_6BvUKVInPTs.md), 2025-12-03. [▶ 5:42](https://youtu.be/6BvUKVInPTs?t=342)
+[^6BvUKVInPTs-374]: [Sailing in Shambles (OSRS)](videos/2025-12-03_6BvUKVInPTs.md), 2025-12-03. [▶ 6:14](https://youtu.be/6BvUKVInPTs?t=374)
+[^6BvUKVInPTs-430]: [Sailing in Shambles (OSRS)](videos/2025-12-03_6BvUKVInPTs.md), 2025-12-03. [▶ 7:10](https://youtu.be/6BvUKVInPTs?t=430)
+[^6BvUKVInPTs-401]: [Sailing in Shambles (OSRS)](videos/2025-12-03_6BvUKVInPTs.md), 2025-12-03. [▶ 6:41](https://youtu.be/6BvUKVInPTs?t=401)
+[^6BvUKVInPTs-702]: [Sailing in Shambles (OSRS)](videos/2025-12-03_6BvUKVInPTs.md), 2025-12-03. [▶ 11:42](https://youtu.be/6BvUKVInPTs?t=702)
 [^6BvUKVInPTs-734]: [Sailing in Shambles (OSRS)](videos/2025-12-03_6BvUKVInPTs.md), 2025-12-03. [▶ 12:14](https://youtu.be/6BvUKVInPTs?t=734)
 [^6BvUKVInPTs-1180]: [Sailing in Shambles (OSRS)](videos/2025-12-03_6BvUKVInPTs.md), 2025-12-03. [▶ 19:40](https://youtu.be/6BvUKVInPTs?t=1180)
-[^OeDcRft1_cU-96]: [Sailing NERFS REVERTED! (OSRS)](videos/2025-12-04_OeDcRft1_cU.md), 2025-12-04. [▶ 1:36](https://youtu.be/OeDcRft1_cU?t=96)
+[^OeDcRft1_cU-128]: [Sailing NERFS REVERTED! (OSRS)](videos/2025-12-04_OeDcRft1_cU.md), 2025-12-04. [▶ 2:08](https://youtu.be/OeDcRft1_cU?t=128)
+[^OeDcRft1_cU-338]: [Sailing NERFS REVERTED! (OSRS)](videos/2025-12-04_OeDcRft1_cU.md), 2025-12-04. [▶ 5:38](https://youtu.be/OeDcRft1_cU?t=338)
+[^OeDcRft1_cU-366]: [Sailing NERFS REVERTED! (OSRS)](videos/2025-12-04_OeDcRft1_cU.md), 2025-12-04. [▶ 6:06](https://youtu.be/OeDcRft1_cU?t=366)
+[^OeDcRft1_cU-428]: [Sailing NERFS REVERTED! (OSRS)](videos/2025-12-04_OeDcRft1_cU.md), 2025-12-04. [▶ 7:08](https://youtu.be/OeDcRft1_cU?t=428)
+[^OeDcRft1_cU-211]: [Sailing NERFS REVERTED! (OSRS)](videos/2025-12-04_OeDcRft1_cU.md), 2025-12-04. [▶ 3:31](https://youtu.be/OeDcRft1_cU?t=211)
 
 <div class="navbox" markdown="1" data-search-exclude>
 <div class="navbox-title">Activities</div>

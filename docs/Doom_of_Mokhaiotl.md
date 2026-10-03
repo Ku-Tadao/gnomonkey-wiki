@@ -135,7 +135,7 @@ See [Bugs and hotfixes (Doom of Mokhaiotl)](Bugs_and_hotfixes_(Doom_of_Mokhaiotl
 * [Avernic treads](Avernic_treads.md)
 * [Doom of Mokhaiotl: acid](Doom_of_Mokhaiotl_acid.md)
 * [Doom of Mokhaiotl: holy water](Doom_of_Mokhaiotl_holy_water.md)
-* [Diabolical Aegis](Diabolical_Aegis.md)
+* [Eldritch veil](Eldritch_veil.md)
 
 ## References
 

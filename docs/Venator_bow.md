@@ -69,8 +69,8 @@ This article is compiled from the videos of [GnomonkeyRS](https://www.youtube.co
 | 2023-03-29 | [Inferno Venator Bow Sub 44 (OSRS)](videos/2023-03-29_nQy3QN_PkBA.md) | Page created: 4 statements (method, opinion, stat, tip) |
 ## See also
 
-* [Rosewood blowpipe](Rosewood_blowpipe.md)
 * [Fortis Colosseum speedrun](Fortis_Colosseum_speedrun.md)
+* [Rosewood blowpipe](Rosewood_blowpipe.md)
 * [Sanguinesti staff](Sanguinesti_staff.md)
 * [Burning claws](Burning_claws.md)
 * [Soulreaper axe](Soulreaper_axe.md)

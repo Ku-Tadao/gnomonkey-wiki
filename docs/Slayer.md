@@ -123,9 +123,9 @@ Gnomonkey highly recommends the Gargoyle smasher unlock for [Grotesque Guardians
 
 * [Dwarf multicannon](Dwarf_multicannon.md)
 * [Aquanite hopper](Aquanite_hopper.md)
-* [Mage Training Arena](Mage_Training_Arena.md)
 * [Pets](Pets.md)
 * [Player versus player](Player_versus_player.md)
+* [Mage Training Arena](Mage_Training_Arena.md)
 * [Farming](Farming.md)
 
 ## References

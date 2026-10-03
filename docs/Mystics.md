@@ -59,9 +59,9 @@ This article is compiled from the videos of [GnomonkeyRS](https://www.youtube.co
 
 * [Shamans (Chambers of Xeric)](Shamans_%28Chambers_of_Xeric%29.md)
 * [Tekton](Tekton.md)
-* [Crabs (Chambers of Xeric)](Crabs_%28Chambers_of_Xeric%29.md)
 * [Great Olm 3-0 method](Great_Olm_3-0_method.md)
 * [Great Olm 4-1 method](Great_Olm_4-1_method.md)
+* [Crabs (Chambers of Xeric)](Crabs_%28Chambers_of_Xeric%29.md)
 * [Guardians](Guardians.md)
 
 ## References

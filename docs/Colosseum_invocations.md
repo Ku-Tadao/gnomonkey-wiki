@@ -102,9 +102,9 @@ Gnomonkey suggested Jagex add two reroll tokens, completely rebalance the invoca
 * [Sol Heredit](Sol_Heredit.md)
 * [Fortis Colosseum pillars](Fortis_Colosseum_pillars.md)
 * [Fortis Colosseum](Fortis_Colosseum.md)
-* [Manticore](Manticore.md)
 * [Minotaur](Minotaur.md)
 * [Fortis Colosseum setup](Fortis_Colosseum_setup.md)
+* [Manticore](Manticore.md)
 
 ## References
 

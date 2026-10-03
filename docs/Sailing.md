@@ -118,10 +118,10 @@ Overall he rates the launch offering as not enough for training but acceptable f
 
 * [Salvaging](Salvaging.md)
 * [Barracuda Trials](Barracuda_Trials.md)
-* [Bosun's bench](Bosun's_bench.md)
-* [Aquanite hopper](Aquanite_hopper.md)
-* [Deep sea trawling](Deep_sea_trawling.md)
-* [Opinion: Sailing community discourse](Opinion_Sailing_community_discourse.md)
+* [Crystal extractor](Crystal_extractor.md)
+* [Gwenith Glide](Gwenith_Glide.md)
+* [Port tasks](Port_tasks.md)
+* [Player Island Competition](Player_Island_Competition.md)
 
 ## References
 

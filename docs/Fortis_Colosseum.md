@@ -138,7 +138,7 @@ The Fortis Colosseum is the wave-based Varlamore combat encounter that Gnomonkey
 * [Arceuus spellbook](Arceuus_spellbook.md)
 * [Fortis Colosseum setup](Fortis_Colosseum_setup.md)
 * [Manticore](Manticore.md)
-* [Minotaur](Minotaur.md)
+* [Group Hardcore Ironman: Big Dawgs V1](Group_Hardcore_Ironman_Big_Dawgs_V1.md)
 
 ## References
 

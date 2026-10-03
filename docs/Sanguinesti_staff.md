@@ -64,12 +64,12 @@ This article is compiled from the videos of [GnomonkeyRS](https://www.youtube.co
 | 2020-07-11 | [Magic Gear Upgrade Guide (GP TO DAMAGE/PRAYER) OSRS 2020](videos/2020-07-11_6QEUIk_5nRU.md) | Page created: 3 statements (opinion, stat) |
 ## See also
 
-* [Rosewood blowpipe](Rosewood_blowpipe.md)
 * [Pets](Pets.md)
 * [Player versus player](Player_versus_player.md)
-* [Inquisitor's mace](Inquisitor's_mace.md)
+* [Rosewood blowpipe](Rosewood_blowpipe.md)
 * [Ghrazi rapier](Ghrazi_rapier.md)
 * [Imbued heart](Imbued_heart.md)
+* [Inquisitor's mace](Inquisitor's_mace.md)
 
 ## References
 

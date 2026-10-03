@@ -10,100 +10,77 @@ This article is compiled from the videos of [GnomonkeyRS](https://www.youtube.co
 
 | | |
 |---|---|
-| **Type** | Item |
+| **Type** | Special attack weapon |
+| **Special attack cost** | 35% (was 30% until 2026)[^6tsf-brc-sE-2386][^EPlArwCehYY-515] |
+| **Burn chance** | 45% on spec[^EZs7lRnEL0Y-1214] |
+| **Value** | ~20-23m in 2024; ~10m at 300 raid level[^vEs4Qvs_Rag-115][^S4Z7Mjjdt4I-268] |
+| **Bonus** | 5% damage against demon-type monsters[^eIAkPiQivJk-633] |
+| **Obtained** | Tormented Demon grind[^BVZEAFBsj10-206] |
 | **Videos** | 8 (first 2024-07-15, latest 2026-07-22) |
 | **Main source** | [Tormented Demons Guide + Triple KC CA (OSRS)](videos/2024-07-15_eIAkPiQivJk.md) |
 </div>
 
-**Burning claws** is an item topic that Gnomonkey covers in 8 videos between 2024-07-15 and 2026-07-22. This article is a stub: his statements are grouped by type, repeated ones merged.
+**Burning claws** are a special attack weapon similar to Dragon claws, but they apply a burn and had a lower special attack cost of 30% until 2026[^eIAkPiQivJk-621][^EZs7lRnEL0Y-1214][^6tsf-brc-sE-2386]. Ironmen need two Burning claws to combine them into the full set[^eIAkPiQivJk-621]. They are unique among spec weapons in that they can spec on either stab or slash, which makes them good in unusual situations[^eIAkPiQivJk-633]. The Tormented Demon grind is how they are obtained[^BVZEAFBsj10-206].
+
+Gnomonkey's verdict changed over time. In 2024 and 2025, after extensive testing, he calls them excellent and often better than Dragon claws; in mid-2026 he agrees they were overtuned, accepts the nerf and says they are now an early spec weapon outclassed by others[^eIAkPiQivJk-911][^6tsf-brc-sE-2386][^EPlArwCehYY-515][^EPlArwCehYY-515].
 
 [TOC]
 
-## Requirements
+## Mechanics
 
-* Ironmen need to get two Burning claws to combine them into the full set.[^eIAkPiQivJk-621]
+They apply a burn (45% chance to proc on spec) with a 30% spec cost at the time of the 2024 videos[^EZs7lRnEL0Y-1214]. Against demon-type monsters they get a slight 5% damage buff, usually about two max hits[^eIAkPiQivJk-633]. They take longer to spec with than normal claws because of the low spec cost, so the main-hand weapon is swung a bit less; Dragon claws equal out when the main hand is around 14 DPS[^eIAkPiQivJk-882]. Overall they are 2-6% better than the places Dragon claws would be used, unless the target has low HP or extremely low defence[^eIAkPiQivJk-633]. He guesses they max 42 against the Scythe's 50 but are close, without having calced it[^EZs7lRnEL0Y-1357].
 
-## Methods
+Special attack style is changeable: they can go on stab or slash, and because most of Tombs of Amascut is weak to stab, stab makes a super accurate special on every boss there[^S4Z7Mjjdt4I-268]. A remark in June 2025 puts the quirk differently, saying the special itself uses only one style[^BVZEAFBsj10-206].
 
-* Burning claws are unique among spec weapons in that they can spec on either stab or slash, which makes them good in some unusual situations.[^eIAkPiQivJk-633]
-* For Warden, Gnomonkey swaps burning claws to the slash style because Warden has no weakness to any style and the claws have more slash bonus (95) than stab (83), making them more accurate and hit harder.[^BVZEAFBsj10-1668]
+## Where they are used
 
-## Stats and numbers
+### Tombs of Amascut
 
-* Burning claws apply a burn and are similar to Dragon claws but with only a 30% special attack cost, and that he tested them extensively on stream with Mo Goat Kirby to find where they are good.[^eIAkPiQivJk-621]
-* Burning claws get a slight 5% damage buff against demon-type monsters, which usually equates to about two max hits.[^eIAkPiQivJk-633]
-* Burning claws take longer to spec with than normal claws because of the low spec cost, so you swing your main-hand weapon a bit less, and Dragon claws equal out when your main hand is around 14 DPS.[^eIAkPiQivJk-882]
-* Burning claws give damage over time with a 45% chance to proc a burn on spec and only a 30% spec cost.[^EZs7lRnEL0Y-1214]
-* He has not calced whether the Scythe beats Burning claws, and guesses the claws max 42 against the Scythe's 50 but are close.[^EZs7lRnEL0Y-1357]
-* Burning claw specs hit a consistent 40 on Kephri, and the red hitsplats are burn damage dealing an additional 10 damage over time.[^vEs4Qvs_Rag-967]
-* Burning claws were better than the Voidwaker up to invocation level 375 in Tombs of Amascut, which felt strange.[^6tsf-brc-sE-2438]
-* The Summer Sweep-up increased the burning claws' special attack energy cost to 35%, up from 30%.[^EPlArwCehYY-515]
+In 2024 he calls them the best spec weapon in Tombs of Amascut until raid level 375, extremely high value at around 20 to 23 mil[^vEs4Qvs_Rag-115]. They must be on stab, as most things are weak to stab over slash, or they will be very bad[^vEs4Qvs_Rag-144]. He prefers them to Dragon claws because Dragon claws do not spec using slash defence while Burning claws can[^vEs4Qvs_Rag-695]. By 2025 he calls them amazing against Baba, Kephri and Akkha, with best possible spec DPS until above raid level 375, where Akkha is avoided[^BVZEAFBsj10-264]. At a 300 raid level they cost about 10 million and beat a Voidwaker, and he recommends bringing them[^S4Z7Mjjdt4I-268].
 
-## Tips
+| Boss | Notes |
+|---|---|
+| Kephri | Specs hit a consistent 40; the red hitsplats are burn damage dealing an additional 10 over time[^vEs4Qvs_Rag-967]. He drops a brew, instantly specs, then summons a thrall; the claws hit well even on her fairly high defence[^BVZEAFBsj10-768] |
+| Akkha | Amazing, but Akkha jumps as soon as they are used, so he recommends two Keris pokes first, which makes him jump around less[^BVZEAFBsj10-1547]. Good on his shadows but not the final phase, because the burn makes him jump[^eIAkPiQivJk-664] |
+| Warden | He swaps to slash since Warden has no weakness and the claws have more slash bonus (95) than stab (83)[^BVZEAFBsj10-1668]. With adrenaline potions they allow many specs, which he calls incredibly strong[^BVZEAFBsj10-1698]. In 2024 he said they were not great here because of extremely high defence breakpoints[^eIAkPiQivJk-664] |
+| Ba-Ba, Zebak | Good on Ba-Ba; on Zebak only if a Zaryte crossbow is not available, and not great[^eIAkPiQivJk-633] |
+| Core | Significantly worse than a Dragon dagger special: lower max hit and the burn does not apply[^eIAkPiQivJk-664] |
 
-* Burning claws will be good in Tombs of Amascut anything under a 400 invocation with defence drain, on Ba-Ba and Kephri, and on Zebak if you do not have a Zaryte crossbow though not great there.[^eIAkPiQivJk-633]
-* Burning claws are good on Akkha's shadows but not on Akkha's final phase, because the burn actually makes him jump.[^eIAkPiQivJk-664]
-* Burning claws are not great on Tombs of Amascut's Warden because of his extremely high defence breakpoints, and are significantly worse on the core than a Dragon dagger special because of a lower max hit and the burn not applying to the core.[^eIAkPiQivJk-664]
-* In Chambers of Xeric the Zaryte crossbow and Voidwaker are still king because of the high defences in that raid, nothing in Chambers is really weak to slash or stab, and Burning claws were awful on Vasa Cristallus.[^eIAkPiQivJk-664]
-* Burning claws are very good on Sotetseg at all drains and will beat Dragon claws, since you usually have leftover spec at the end and Chally is god-awful at finishing Sotetseg.[^eIAkPiQivJk-688]
-* Burning claws are bugged on Xarpus because the burn triggers his turn and he kills you after Screech, so you should not use them there, and they only match regular Dragon claws' DPS if the team fully drains him.[^eIAkPiQivJk-728]
-* On Verzik, Burning claws should not be used in P1 even though the burn hits her, in P2 she heals the burn damage when dealing with red crabs so spec timing matters, and in P3 they are really good, especially post-tornadoes.[^eIAkPiQivJk-728]
-* Burning claws are not as good in the Inferno because nothing lives long enough for the burn to apply, and the point of claws is to finish targets quickly.[^eIAkPiQivJk-796]
-* Burning claws are best in slot in the Colosseum by about 5% over Dragon claws, especially on Soul where you have leftover spec at the end, and all Colosseum mobs have gigantic health pools allowing the burn to tick.[^eIAkPiQivJk-796]
-* Nex's defence is too high and she heals too much for Burning claws to be good, ranking them below the Voidwaker and far below the Zaryte crossbow as a spec, and that Bloodveld-style testing at Nex dragged on far longer than it should have.[^eIAkPiQivJk-828]
-* At Corporeal Beast you should still use a Voidwaker spec as it is the only thing not reduced due to his weird mechanics, and that Sarachnis is completely immune to burn despite being a demon, which he calls an oversight.[^eIAkPiQivJk-828]
-* Burning claws are best in slot at Vardorvis, with the spec best used around the beginning and middle of the kill to maximise burn DPS.[^eIAkPiQivJk-855]
-* At Vorkath you can triple spec and stack the burn, though the burn damage is halved during the acid phase and nullified during the freeze, and Burning claws are still the best option.[^eIAkPiQivJk-855]
-* Burning claws are a good spec if you do not have the Voidwaker yet or are an Ironman who does not want to grind Wilderness content for Voidwaker pieces, but anywhere you currently use a Zaryte crossbow they will not beat it.[^eIAkPiQivJk-882]
-* Burning claws must be put on the stab style in ToA, as most things there are weak to stab over slash, and if they are not on stab they will be very bad.[^vEs4Qvs_Rag-144]
-* Gnomonkey prefers Burning claws over dragon claws in ToA because dragon claws do not spec using slash defence while Burning claws can, so Burning claws are really strong in the raid.[^vEs4Qvs_Rag-695]
-* Burning claws are one of the few special attacks whose attack style can be changed, so everything in ToA being weak to stab means they can be set to stab for a super accurate special attack on every boss.[^S4Z7Mjjdt4I-268]
-* At the start of Kephri's room, Gnomonkey drops a brew, instantly specs with burning claws, then summons a thrall; he notes the claws hit well even on Kephri's fairly high defence.[^BVZEAFBsj10-768]
-* Burning claws are an amazing spec against Akkha, but as soon as you spec with them Akkha jumps, so Gnomonkey recommends two Keris pokes first and then burning claws, which makes him jump around the room less.[^BVZEAFBsj10-1547]
-* Burning claws combined with adrenaline potions let you use many special attacks on Warden; Gnomonkey calls it incredibly strong.[^BVZEAFBsj10-1698]
-* Gnomonkey described Burning claws as basically a max claw spec on Vorkath.[^qCsJAdpSeTU-894]
+In the 2024 videos he rated them good in ToA for anything under a 400 invocation with defence drain[^eIAkPiQivJk-633].
 
-## Gnomonkey's opinion
+### Theatre of Blood
 
-* Gnomonkey says overall Burning claws are 2-6% better than the places Dragon claws would be used, unless the target has low HP or extremely low defence.[^eIAkPiQivJk-633]
-* Gnomonkey says that currently Burning claws are worth bringing in addition to Dragon claws in Theatre of Blood but not replacing them, and that they absolutely do not replace Chally because of its huge last-hit value.[^eIAkPiQivJk-748]
-* Gnomonkey says Burning claws had controversy after release, with some calling them bad and some good, and that any item at the beginning of an update that has not been tested is volatile.[^eIAkPiQivJk-911]
-* Gnomonkey says Burning claws are very good on Sol Heredit because they give a bonus spec at the end of the kill you would not normally get, and for now are directly better than Dragon claws, though he expects they may be nerfed.[^EZs7lRnEL0Y-1214]
-* Gnomonkey calls Burning claws an extremely high-value special attack weapon at around 20 to 23 mil, and says they are the best spec weapon in ToA until you hit raid level 375.[^vEs4Qvs_Rag-115]
-* Gnomonkey says at a 300 raid level Burning claws cost about 10 million and will beat a Voidwaker, and he recommends bringing them.[^S4Z7Mjjdt4I-268]
-* Gnomonkey calls burning claws an amazing special attack weapon against Baba, Kephri and Akkha, and your best possible spec DPS until you get above 375 raid level, where you avoid Akkha.[^BVZEAFBsj10-264]
-* Gnomonkey calls the Burning claws an amazing spec weapon for Vorkath in the 50M budget setup.[^qCsJAdpSeTU-652]
-* Gnomonkey says he previously ranted about how good burning claws are, and agrees they were overtuned, being very good in Tombs of Amascut and the Colosseum and a sidegrade to dragon claws when they were supposed to be a worse stepping stone.[^6tsf-brc-sE-2386]
-* Gnomonkey thinks the burning claws nerf is justified but sad for the people who like using them everywhere, especially early on an ironman.[^6tsf-brc-sE-2438]
-* Gnomonkey had said burning claws were a little overpowered on release since they beat regular claws in a lot of places, and considers the nerf fair; he says regular claws, and probably Voidwaker, will now be better nearly all the time.[^EPlArwCehYY-515]
-* Gnomonkey enjoyed using burning claws everywhere as a strong spec weapon, for example super good for early Tombs of Amascut, and says they are now an early spec weapon that gets outclassed by other spec weapons.[^EPlArwCehYY-515]
+Technically better at Theatre of Blood but bugged: the burn is halved and rounded down to zero when Bloat stands up and runs around, and the Nylocas Vasilias is completely immune[^eIAkPiQivJk-688]. They are very good on Sotetseg at all drains and beat Dragon claws, since leftover spec is usually available and Chally is poor at finishing Sotetseg[^eIAkPiQivJk-688]. On Xarpus the burn triggers his turn and he kills you after Screech, so they should not be used unless the team fully drains him, and then they only match Dragon claws' DPS[^eIAkPiQivJk-728]. On Verzik they should not be used in P1 even though the burn hits her; in P2 she heals the burn damage with red crabs, so timing matters; in P3 they are really good, especially post-tornadoes[^eIAkPiQivJk-728]. Overall they are worth bringing in addition to Dragon claws but not replacing them, and absolutely do not replace the Chally for its last-hit value[^eIAkPiQivJk-748].
 
-## Records
+### Other content
 
-* He walked Vorkath on stream with Burning claws and on his very first attempt got a Grandmaster time with a simple melee camp, a 53.4 second personal best, where the typical time was a 60.[^eIAkPiQivJk-855]
+* **Colosseum:** best in slot by about 5% over Dragon claws, especially on Soul where there is leftover spec, and all mobs have gigantic health pools so the burn ticks[^eIAkPiQivJk-796]. On Sol Heredit they give a bonus spec at the end of the kill, and in 2024 he considered them directly better than Dragon claws while expecting a nerf[^EZs7lRnEL0Y-1214].
+* **Vardorvis:** best in slot, with the spec best used around the beginning and middle of the kill[^eIAkPiQivJk-855].
+* **Vorkath:** a simple melee camp walk gave his first-attempt Grandmaster time, a 53.4 second personal best against a typical 60[^eIAkPiQivJk-855]. Triple speccing stacks the burn, though it is halved during the acid phase and nullified during the freeze, and they are still the best option[^eIAkPiQivJk-855]. In September 2025 he calls them an amazing spec on the 50M budget setup, basically a max claw spec[^qCsJAdpSeTU-652][^qCsJAdpSeTU-894].
+* **Chambers of Xeric:** the Zaryte crossbow and Voidwaker remain king because of high defences and nothing being weak to slash or stab; they were awful on Vasa Cristallus[^eIAkPiQivJk-664].
+* **Inferno:** not as good, since nothing lives long enough for the burn, and claws exist to finish targets quickly[^eIAkPiQivJk-796].
+* **Nex:** defence too high and too much healing; ranked below the Voidwaker and far below the Zaryte crossbow, and testing there dragged on too long[^eIAkPiQivJk-828].
+* **Corporeal Beast and Sarachnis:** use a Voidwaker spec at Corp, the only thing not reduced by his mechanics. Sarachnis is completely immune to burn despite being a demon, which he calls an oversight[^eIAkPiQivJk-828].
+* **Alternatives:** a good spec if the Voidwaker is not yet owned or Wilderness content is being avoided on an Ironman, but wherever a Zaryte crossbow is used they will not beat it[^eIAkPiQivJk-882].
 
-## Events
+## Release and nerf
 
-* Burning claws are technically better at Theatre of Blood but are bugged there: the burn gets halved and rounded down to zero when Bloat stands up and runs around, and the Nylocas Vasilias is completely immune to burn.[^eIAkPiQivJk-688]
-* He spent every day, eight plus hours each day, testing Burning claws in every location he could, outside of calcs because calcs were not yet updated, lacked proper formulas or were bugged, and with Mo Goat Kirby concluded Burning claws are good.[^eIAkPiQivJk-911]
-* Burning claws special attack energy cost increased to 35% from 30%.[^6tsf-brc-sE-2386]
+After release there was controversy, with some calling them bad and some good, and he notes an untested item at the start of an update is volatile[^eIAkPiQivJk-911]. He tested them eight-plus hours a day in every location, outside of calcs that were not yet updated, lacked proper formulas or were bugged, and with Mo Goat Kirby concluded they are good[^eIAkPiQivJk-621][^eIAkPiQivJk-911].
 
-## Trivia
-
-* A quirk of burning claws: they can go on stab, and their special attack cannot have its style affected because it only uses one style; the Tormented Demon grind also gets you the burning claws.[^BVZEAFBsj10-206]
+In the Summer Sweep-up the special attack cost rose to 35% from 30%[^6tsf-brc-sE-2386][^EPlArwCehYY-515]. He agrees they were overtuned: very good in Tombs of Amascut and the Colosseum and a sidegrade to Dragon claws when they were supposed to be a worse stepping stone, and they were better than the Voidwaker up to invocation level 375, which felt strange[^6tsf-brc-sE-2386][^6tsf-brc-sE-2438]. He thinks the nerf is justified but sad for people who liked using them everywhere, especially early on an ironman[^6tsf-brc-sE-2438]. Regular claws, and probably the Voidwaker, are now better nearly all the time[^EPlArwCehYY-515]. He enjoyed using them everywhere, for example super good in early Tombs of Amascut, and they are now an early spec weapon that gets outclassed by others[^EPlArwCehYY-515].
 
 ## Revision history
 
 | Date | Video | Change |
 |---|---|---|
-| 2026-07-22 | [SUMMER SWEEP-UP CHANGES ARE HERE (OSRS)](videos/2026-07-22_EPlArwCehYY.md) | Added: 3 statements (opinion, stat) |
-| 2026-06-04 | [The New Summer Sweep Update is CRAZY (OSRS)](videos/2026-06-04_6tsf-brc-sE.md) | Added: 4 statements (event, opinion, stat) |
-| 2025-09-06 | [WIKI GUIDES - VORKATH V2 (OSRS)](videos/2025-09-06_qCsJAdpSeTU.md) | Added: 2 statements (opinion, tip) |
-| 2025-06-28 | [TOA 300 IRONMAN/BUDGET Guide (OSRS)](videos/2025-06-28_BVZEAFBsj10.md) | Added: 6 statements (method, opinion, tip, trivia) |
-| 2025-06-25 | [NEW 300 TOA BUDGET GUIDE (OSRS)](videos/2025-06-25_S4Z7Mjjdt4I.md) | Added: 2 statements (opinion, tip) |
-| 2024-10-24 | [EASY 300 ToA Budget Guide (OSRS)](videos/2024-10-24_vEs4Qvs_Rag.md) | Added: 4 statements (opinion, stat, tip) |
-| 2024-07-26 | [Colosseum SW Pillar Master Guide (OSRS)](videos/2024-07-26_EZs7lRnEL0Y.md) | Added: 3 statements (opinion, stat) |
-| 2024-07-15 | [Tormented Demons Guide + Triple KC CA (OSRS)](videos/2024-07-15_eIAkPiQivJk.md) | Page created: 25 statements (event, method, opinion, record, requirement, stat, tip) |
+| 2026-07-22 | [SUMMER SWEEP-UP CHANGES ARE HERE (OSRS)](videos/2026-07-22_EPlArwCehYY.md) | Confirmed the Summer Sweep-up nerf and changed opinion: now outclassed by other spec weapons. |
+| 2026-06-04 | [The New Summer Sweep Update is CRAZY (OSRS)](videos/2026-06-04_6tsf-brc-sE.md) | Added spec cost increase from 30% to 35% and the view that they were overtuned. |
+| 2025-09-06 | [WIKI GUIDES - VORKATH V2 (OSRS)](videos/2025-09-06_qCsJAdpSeTU.md) | Added Vorkath use in the 50M budget setup. |
+| 2025-06-28 | [TOA 300 IRONMAN/BUDGET Guide (OSRS)](videos/2025-06-28_BVZEAFBsj10.md) | Added trivia on style, Baba/Kephri/Akkha tactics and Warden on slash. |
+| 2025-06-25 | [NEW 300 TOA BUDGET GUIDE (OSRS)](videos/2025-06-25_S4Z7Mjjdt4I.md) | Added style switching in ToA and 300 raid level recommendation. |
+| 2024-10-24 | [EASY 300 ToA Budget Guide (OSRS)](videos/2024-10-24_vEs4Qvs_Rag.md) | Added value (20-23 mil) and Tombs of Amascut stab recommendation. |
+| 2024-07-26 | [Colosseum SW Pillar Master Guide (OSRS)](videos/2024-07-26_EZs7lRnEL0Y.md) | Added 45% burn proc chance, Sol Heredit use and Scythe comparison. |
+| 2024-07-15 | [Tormented Demons Guide + Triple KC CA (OSRS)](videos/2024-07-15_eIAkPiQivJk.md) | Page created: mechanics, per-boss testing results and release controversy. |
 ## See also
 
 * [Ambrosia](Ambrosia.md)
@@ -116,35 +93,35 @@ This article is compiled from the videos of [GnomonkeyRS](https://www.youtube.co
 ## References
 
 ///Footnotes Go Here///
-[^eIAkPiQivJk-621]: [Tormented Demons Guide + Triple KC CA (OSRS)](videos/2024-07-15_eIAkPiQivJk.md), 2024-07-15. [▶ 10:21](https://youtu.be/eIAkPiQivJk?t=621)
-[^eIAkPiQivJk-633]: [Tormented Demons Guide + Triple KC CA (OSRS)](videos/2024-07-15_eIAkPiQivJk.md), 2024-07-15. [▶ 10:33](https://youtu.be/eIAkPiQivJk?t=633)
-[^BVZEAFBsj10-1668]: [TOA 300 IRONMAN/BUDGET Guide (OSRS)](videos/2025-06-28_BVZEAFBsj10.md), 2025-06-28. [▶ 27:48](https://youtu.be/BVZEAFBsj10?t=1668)
-[^eIAkPiQivJk-882]: [Tormented Demons Guide + Triple KC CA (OSRS)](videos/2024-07-15_eIAkPiQivJk.md), 2024-07-15. [▶ 14:42](https://youtu.be/eIAkPiQivJk?t=882)
-[^EZs7lRnEL0Y-1214]: [Colosseum SW Pillar Master Guide (OSRS)](videos/2024-07-26_EZs7lRnEL0Y.md), 2024-07-26. [▶ 20:14](https://youtu.be/EZs7lRnEL0Y?t=1214)
-[^EZs7lRnEL0Y-1357]: [Colosseum SW Pillar Master Guide (OSRS)](videos/2024-07-26_EZs7lRnEL0Y.md), 2024-07-26. [▶ 22:37](https://youtu.be/EZs7lRnEL0Y?t=1357)
-[^vEs4Qvs_Rag-967]: [EASY 300 ToA Budget Guide (OSRS)](videos/2024-10-24_vEs4Qvs_Rag.md), 2024-10-24. [▶ 16:07](https://youtu.be/vEs4Qvs_Rag?t=967)
-[^6tsf-brc-sE-2438]: [The New Summer Sweep Update is CRAZY (OSRS)](videos/2026-06-04_6tsf-brc-sE.md), 2026-06-04. [▶ 40:38](https://youtu.be/6tsf-brc-sE?t=2438)
+[^6tsf-brc-sE-2386]: [The New Summer Sweep Update is CRAZY (OSRS)](videos/2026-06-04_6tsf-brc-sE.md), 2026-06-04. [▶ 39:46](https://youtu.be/6tsf-brc-sE?t=2386)
 [^EPlArwCehYY-515]: [SUMMER SWEEP-UP CHANGES ARE HERE (OSRS)](videos/2026-07-22_EPlArwCehYY.md), 2026-07-22. [▶ 8:35](https://youtu.be/EPlArwCehYY?t=515)
-[^eIAkPiQivJk-664]: [Tormented Demons Guide + Triple KC CA (OSRS)](videos/2024-07-15_eIAkPiQivJk.md), 2024-07-15. [▶ 11:04](https://youtu.be/eIAkPiQivJk?t=664)
-[^eIAkPiQivJk-688]: [Tormented Demons Guide + Triple KC CA (OSRS)](videos/2024-07-15_eIAkPiQivJk.md), 2024-07-15. [▶ 11:28](https://youtu.be/eIAkPiQivJk?t=688)
-[^eIAkPiQivJk-728]: [Tormented Demons Guide + Triple KC CA (OSRS)](videos/2024-07-15_eIAkPiQivJk.md), 2024-07-15. [▶ 12:08](https://youtu.be/eIAkPiQivJk?t=728)
-[^eIAkPiQivJk-796]: [Tormented Demons Guide + Triple KC CA (OSRS)](videos/2024-07-15_eIAkPiQivJk.md), 2024-07-15. [▶ 13:16](https://youtu.be/eIAkPiQivJk?t=796)
-[^eIAkPiQivJk-828]: [Tormented Demons Guide + Triple KC CA (OSRS)](videos/2024-07-15_eIAkPiQivJk.md), 2024-07-15. [▶ 13:48](https://youtu.be/eIAkPiQivJk?t=828)
-[^eIAkPiQivJk-855]: [Tormented Demons Guide + Triple KC CA (OSRS)](videos/2024-07-15_eIAkPiQivJk.md), 2024-07-15. [▶ 14:15](https://youtu.be/eIAkPiQivJk?t=855)
+[^EZs7lRnEL0Y-1214]: [Colosseum SW Pillar Master Guide (OSRS)](videos/2024-07-26_EZs7lRnEL0Y.md), 2024-07-26. [▶ 20:14](https://youtu.be/EZs7lRnEL0Y?t=1214)
+[^vEs4Qvs_Rag-115]: [EASY 300 ToA Budget Guide (OSRS)](videos/2024-10-24_vEs4Qvs_Rag.md), 2024-10-24. [▶ 1:55](https://youtu.be/vEs4Qvs_Rag?t=115)
+[^S4Z7Mjjdt4I-268]: [NEW 300 TOA BUDGET GUIDE (OSRS)](videos/2025-06-25_S4Z7Mjjdt4I.md), 2025-06-25. [▶ 4:28](https://youtu.be/S4Z7Mjjdt4I?t=268)
+[^eIAkPiQivJk-633]: [Tormented Demons Guide + Triple KC CA (OSRS)](videos/2024-07-15_eIAkPiQivJk.md), 2024-07-15. [▶ 10:33](https://youtu.be/eIAkPiQivJk?t=633)
+[^BVZEAFBsj10-206]: [TOA 300 IRONMAN/BUDGET Guide (OSRS)](videos/2025-06-28_BVZEAFBsj10.md), 2025-06-28. [▶ 3:26](https://youtu.be/BVZEAFBsj10?t=206)
+[^eIAkPiQivJk-621]: [Tormented Demons Guide + Triple KC CA (OSRS)](videos/2024-07-15_eIAkPiQivJk.md), 2024-07-15. [▶ 10:21](https://youtu.be/eIAkPiQivJk?t=621)
+[^eIAkPiQivJk-911]: [Tormented Demons Guide + Triple KC CA (OSRS)](videos/2024-07-15_eIAkPiQivJk.md), 2024-07-15. [▶ 15:11](https://youtu.be/eIAkPiQivJk?t=911)
+[^eIAkPiQivJk-882]: [Tormented Demons Guide + Triple KC CA (OSRS)](videos/2024-07-15_eIAkPiQivJk.md), 2024-07-15. [▶ 14:42](https://youtu.be/eIAkPiQivJk?t=882)
+[^EZs7lRnEL0Y-1357]: [Colosseum SW Pillar Master Guide (OSRS)](videos/2024-07-26_EZs7lRnEL0Y.md), 2024-07-26. [▶ 22:37](https://youtu.be/EZs7lRnEL0Y?t=1357)
 [^vEs4Qvs_Rag-144]: [EASY 300 ToA Budget Guide (OSRS)](videos/2024-10-24_vEs4Qvs_Rag.md), 2024-10-24. [▶ 2:24](https://youtu.be/vEs4Qvs_Rag?t=144)
 [^vEs4Qvs_Rag-695]: [EASY 300 ToA Budget Guide (OSRS)](videos/2024-10-24_vEs4Qvs_Rag.md), 2024-10-24. [▶ 11:35](https://youtu.be/vEs4Qvs_Rag?t=695)
-[^S4Z7Mjjdt4I-268]: [NEW 300 TOA BUDGET GUIDE (OSRS)](videos/2025-06-25_S4Z7Mjjdt4I.md), 2025-06-25. [▶ 4:28](https://youtu.be/S4Z7Mjjdt4I?t=268)
+[^BVZEAFBsj10-264]: [TOA 300 IRONMAN/BUDGET Guide (OSRS)](videos/2025-06-28_BVZEAFBsj10.md), 2025-06-28. [▶ 4:24](https://youtu.be/BVZEAFBsj10?t=264)
+[^vEs4Qvs_Rag-967]: [EASY 300 ToA Budget Guide (OSRS)](videos/2024-10-24_vEs4Qvs_Rag.md), 2024-10-24. [▶ 16:07](https://youtu.be/vEs4Qvs_Rag?t=967)
 [^BVZEAFBsj10-768]: [TOA 300 IRONMAN/BUDGET Guide (OSRS)](videos/2025-06-28_BVZEAFBsj10.md), 2025-06-28. [▶ 12:48](https://youtu.be/BVZEAFBsj10?t=768)
 [^BVZEAFBsj10-1547]: [TOA 300 IRONMAN/BUDGET Guide (OSRS)](videos/2025-06-28_BVZEAFBsj10.md), 2025-06-28. [▶ 25:47](https://youtu.be/BVZEAFBsj10?t=1547)
+[^eIAkPiQivJk-664]: [Tormented Demons Guide + Triple KC CA (OSRS)](videos/2024-07-15_eIAkPiQivJk.md), 2024-07-15. [▶ 11:04](https://youtu.be/eIAkPiQivJk?t=664)
+[^BVZEAFBsj10-1668]: [TOA 300 IRONMAN/BUDGET Guide (OSRS)](videos/2025-06-28_BVZEAFBsj10.md), 2025-06-28. [▶ 27:48](https://youtu.be/BVZEAFBsj10?t=1668)
 [^BVZEAFBsj10-1698]: [TOA 300 IRONMAN/BUDGET Guide (OSRS)](videos/2025-06-28_BVZEAFBsj10.md), 2025-06-28. [▶ 28:18](https://youtu.be/BVZEAFBsj10?t=1698)
-[^qCsJAdpSeTU-894]: [WIKI GUIDES - VORKATH V2 (OSRS)](videos/2025-09-06_qCsJAdpSeTU.md), 2025-09-06. [▶ 14:54](https://youtu.be/qCsJAdpSeTU?t=894)
+[^eIAkPiQivJk-688]: [Tormented Demons Guide + Triple KC CA (OSRS)](videos/2024-07-15_eIAkPiQivJk.md), 2024-07-15. [▶ 11:28](https://youtu.be/eIAkPiQivJk?t=688)
+[^eIAkPiQivJk-728]: [Tormented Demons Guide + Triple KC CA (OSRS)](videos/2024-07-15_eIAkPiQivJk.md), 2024-07-15. [▶ 12:08](https://youtu.be/eIAkPiQivJk?t=728)
 [^eIAkPiQivJk-748]: [Tormented Demons Guide + Triple KC CA (OSRS)](videos/2024-07-15_eIAkPiQivJk.md), 2024-07-15. [▶ 12:28](https://youtu.be/eIAkPiQivJk?t=748)
-[^eIAkPiQivJk-911]: [Tormented Demons Guide + Triple KC CA (OSRS)](videos/2024-07-15_eIAkPiQivJk.md), 2024-07-15. [▶ 15:11](https://youtu.be/eIAkPiQivJk?t=911)
-[^vEs4Qvs_Rag-115]: [EASY 300 ToA Budget Guide (OSRS)](videos/2024-10-24_vEs4Qvs_Rag.md), 2024-10-24. [▶ 1:55](https://youtu.be/vEs4Qvs_Rag?t=115)
-[^BVZEAFBsj10-264]: [TOA 300 IRONMAN/BUDGET Guide (OSRS)](videos/2025-06-28_BVZEAFBsj10.md), 2025-06-28. [▶ 4:24](https://youtu.be/BVZEAFBsj10?t=264)
+[^eIAkPiQivJk-796]: [Tormented Demons Guide + Triple KC CA (OSRS)](videos/2024-07-15_eIAkPiQivJk.md), 2024-07-15. [▶ 13:16](https://youtu.be/eIAkPiQivJk?t=796)
+[^eIAkPiQivJk-855]: [Tormented Demons Guide + Triple KC CA (OSRS)](videos/2024-07-15_eIAkPiQivJk.md), 2024-07-15. [▶ 14:15](https://youtu.be/eIAkPiQivJk?t=855)
 [^qCsJAdpSeTU-652]: [WIKI GUIDES - VORKATH V2 (OSRS)](videos/2025-09-06_qCsJAdpSeTU.md), 2025-09-06. [▶ 10:52](https://youtu.be/qCsJAdpSeTU?t=652)
-[^6tsf-brc-sE-2386]: [The New Summer Sweep Update is CRAZY (OSRS)](videos/2026-06-04_6tsf-brc-sE.md), 2026-06-04. [▶ 39:46](https://youtu.be/6tsf-brc-sE?t=2386)
-[^BVZEAFBsj10-206]: [TOA 300 IRONMAN/BUDGET Guide (OSRS)](videos/2025-06-28_BVZEAFBsj10.md), 2025-06-28. [▶ 3:26](https://youtu.be/BVZEAFBsj10?t=206)
+[^qCsJAdpSeTU-894]: [WIKI GUIDES - VORKATH V2 (OSRS)](videos/2025-09-06_qCsJAdpSeTU.md), 2025-09-06. [▶ 14:54](https://youtu.be/qCsJAdpSeTU?t=894)
+[^eIAkPiQivJk-828]: [Tormented Demons Guide + Triple KC CA (OSRS)](videos/2024-07-15_eIAkPiQivJk.md), 2024-07-15. [▶ 13:48](https://youtu.be/eIAkPiQivJk?t=828)
+[^6tsf-brc-sE-2438]: [The New Summer Sweep Update is CRAZY (OSRS)](videos/2026-06-04_6tsf-brc-sE.md), 2026-06-04. [▶ 40:38](https://youtu.be/6tsf-brc-sE?t=2438)
 
 <div class="navbox" markdown="1" data-search-exclude>
 <div class="navbox-title">Items</div>

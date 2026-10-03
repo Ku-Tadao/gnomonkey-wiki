@@ -72,12 +72,12 @@ Zulrah is a mid-level boss that Gnomonkey has covered with guides for max-effici
 | 2022-03-12 | [Pet Hunter Tier List (Bosses, Skilling, Etc) OSRS](videos/2022-03-12_vwCm9NKJhRE.md) | Page created: Zulrah pet at 1 in 4,000 and low B tier pet placement. |
 ## See also
 
-* [Snakeling](Snakeling.md)
 * [Skotizo](Skotizo.md)
-* [Noxious halberd](Noxious_halberd.md)
+* [Snakeling](Snakeling.md)
 * [Chaos Elemental](Chaos_Elemental.md)
 * [Corporeal Beast](Corporeal_Beast.md)
 * [Dagannoth Kings](Dagannoth_Kings.md)
+* [Kalphite Queen](Kalphite_Queen.md)
 
 ## References
 

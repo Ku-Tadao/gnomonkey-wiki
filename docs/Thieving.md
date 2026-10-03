@@ -90,8 +90,8 @@ This article is compiled from the videos of [GnomonkeyRS](https://www.youtube.co
 
 * [Woodcutting](Woodcutting.md)
 * [Mining](Mining.md)
-* [Sorceress's Garden](Sorceress's_Garden.md)
 * [Smithing](Smithing.md)
+* [Sorceress's Garden](Sorceress's_Garden.md)
 * [Fishing](Fishing.md)
 * [Hunter](Hunter.md)
 

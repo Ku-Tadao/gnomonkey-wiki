@@ -330,8 +330,8 @@ In August 2022 he said he would stay at Nex until he had all the gear wanted for
 * [Theatre of Blood](Theatre_of_Blood.md)
 * [Cerberus](Cerberus.md)
 * [Skotizo](Skotizo.md)
-* [Nex reset](Nex_reset.md)
 * [Desert Treasure II](Desert_Treasure_II.md)
+* [Nex reset](Nex_reset.md)
 
 ## References
 

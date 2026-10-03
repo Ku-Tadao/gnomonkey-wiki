@@ -47,8 +47,8 @@ This article is compiled from the videos of [GnomonkeyRS](https://www.youtube.co
 ## See also
 
 * [Fremennik warband](Fremennik_warband.md)
-* [Minotaur](Minotaur.md)
 * [Fortis Colosseum setup](Fortis_Colosseum_setup.md)
+* [Minotaur](Minotaur.md)
 * [Colosseum invocations](Colosseum_invocations.md)
 * [Sol Heredit](Sol_Heredit.md)
 * [Arceuus spellbook](Arceuus_spellbook.md)

@@ -69,12 +69,12 @@ This article is compiled from the videos of [GnomonkeyRS](https://www.youtube.co
 | 2025-03-26 | [Demonic Spade and WHY it was NERFED (OSRS)](videos/2025-03-26_uDhGFEjrpyc.md) | Page created: 9 statements (opinion) |
 ## See also
 
-* [Smithing](Smithing.md)
 * [Pets](Pets.md)
 * [Player versus player](Player_versus_player.md)
+* [Smithing](Smithing.md)
 * [Herblore](Herblore.md)
 * [Fletching](Fletching.md)
-* [Birdhouse run](Birdhouse_run.md)
+* [Ghrazi rapier](Ghrazi_rapier.md)
 
 ## References
 

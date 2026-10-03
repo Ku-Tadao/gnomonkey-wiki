@@ -94,8 +94,8 @@ The west and northwest pair and the east and southeast pair have tight timing, w
 
 * [Inferno waves](Inferno_waves.md)
 * [Prayer flicking](Prayer_flicking.md)
-* [Fire cape](Fire_cape.md)
 * [Inferno plugins](Inferno_plugins.md)
+* [Fire cape](Fire_cape.md)
 * [TzHaar Fight Cave](TzHaar_Fight_Cave.md)
 * [Jal-MejRah](Jal-MejRah.md)
 

@@ -90,10 +90,10 @@ This article is compiled from the videos of [GnomonkeyRS](https://www.youtube.co
 | 2020-10-01 | [What Is The BEST Ammo to Use? (Darts/Bolts/Arrows/Scythe) (OSRS 2020)](videos/2020-10-01_7dh6_0u13Nc.md) | Page created: 5 statements (opinion, stat, tip) |
 ## See also
 
-* [Special attack weapons](Special_attack_weapons.md)
-* [Crush](Crush.md)
 * [Opinion: Mega rares](Opinion_Mega_rares.md)
+* [Special attack weapons](Special_attack_weapons.md)
 * [Spawn manipulation](Spawn_manipulation.md)
+* [Crush](Crush.md)
 * [Update: Raids 4 rewards blog](Update_Raids_4_rewards_blog.md)
 * [Arceuus spellbook](Arceuus_spellbook.md)
 

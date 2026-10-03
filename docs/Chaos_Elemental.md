@@ -42,12 +42,12 @@ This article is compiled from the videos of [GnomonkeyRS](https://www.youtube.co
 | 2022-03-12 | [Pet Hunter Tier List (Bosses, Skilling, Etc) OSRS](videos/2022-03-12_vwCm9NKJhRE.md) | Page created: 1 statement (opinion) |
 ## See also
 
-* [Skotizo](Skotizo.md)
 * [Scorpia](Scorpia.md)
+* [Skotizo](Skotizo.md)
 * [Venenatis](Venenatis.md)
 * [Vet'ion](Vet'ion.md)
+* [Callisto](Callisto.md)
 * [Corporeal Beast](Corporeal_Beast.md)
-* [Dagannoth Kings](Dagannoth_Kings.md)
 
 ## References
 

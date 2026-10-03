@@ -89,8 +89,8 @@ Jagex then removed the planned upgrade from the rewards.[^kd6oHdt4BB0-385] He ha
 * [Great Olm 4-1 method](Great_Olm_4-1_method.md)
 * [Shamans (Chambers of Xeric)](Shamans_%28Chambers_of_Xeric%29.md)
 * [Thieving room (Chambers of Xeric)](Thieving_room_%28Chambers_of_Xeric%29.md)
-* [Avernic treads](Avernic_treads.md)
 * [Death Charge](Death_Charge.md)
+* [Avernic treads](Avernic_treads.md)
 
 ## References
 

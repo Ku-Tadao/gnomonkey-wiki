@@ -84,8 +84,8 @@ This article is compiled from the videos of [GnomonkeyRS](https://www.youtube.co
 ## See also
 
 * [Update: Yama](Update_Yama.md)
-* [Opinion: Developer communication and polls](Opinion_Developer_communication_and_polls.md)
 * [Opinion: Yama contract system and tradable contracts](Opinion_Yama_contract_system_and_tradable_contracts.md)
+* [Opinion: Developer communication and polls](Opinion_Developer_communication_and_polls.md)
 * [Yama contracts](Yama_contracts.md)
 * [Gnomonkey](Gnomonkey.md)
 
