@@ -88,10 +88,10 @@ This article is compiled from the videos of [GnomonkeyRS](https://www.youtube.co
 | 2020-06-27 | [Ranged Gear Upgrade Guide (BEST GP TO DAMAGE) OSRS 2020](videos/2020-06-27_bIShDvVDueM.md) | Page created: 4 statements (opinion, stat, trivia) |
 ## See also
 
-* [Hedron](Hedron.md)
 * [Zaryte crossbow](Zaryte_crossbow.md)
-* [Off-ticking](Off-ticking.md)
 * [Toxic blowpipe](Toxic_blowpipe.md)
+* [Off-ticking](Off-ticking.md)
+* [Hedron](Hedron.md)
 * [Void Knight equipment](Void_Knight_equipment.md)
 * [Vespula](Vespula.md)
 

@@ -131,11 +131,11 @@ See [Bugs and hotfixes (Doom of Mokhaiotl)](Bugs_and_hotfixes_(Doom_of_Mokhaiotl
 ## See also
 
 * [Doom of Mokhaiotl: car attack](Doom_of_Mokhaiotl_car_attack.md)
-* [Avernic treads](Avernic_treads.md)
 * [Doom of Mokhaiotl: shield phase](Doom_of_Mokhaiotl_shield_phase.md)
-* [Eldritch veil](Eldritch_veil.md)
-* [Doom of Mokhaiotl: gear and inventory](Doom_of_Mokhaiotl_gear_and_inventory.md)
+* [Avernic treads](Avernic_treads.md)
+* [Doom of Mokhaiotl: acid](Doom_of_Mokhaiotl_acid.md)
 * [Doom of Mokhaiotl: holy water](Doom_of_Mokhaiotl_holy_water.md)
+* [Diabolical Aegis](Diabolical_Aegis.md)
 
 ## References
 

@@ -74,8 +74,8 @@ This article is compiled from the videos of [GnomonkeyRS](https://www.youtube.co
 ## See also
 
 * [Mining](Mining.md)
-* [Smithing](Smithing.md)
 * [Thieving](Thieving.md)
+* [Smithing](Smithing.md)
 * [Lumberjack outfit](Lumberjack_outfit.md)
 * [Fishing](Fishing.md)
 * [Hunter](Hunter.md)

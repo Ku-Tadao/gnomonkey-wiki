@@ -77,8 +77,8 @@ This article is compiled from the videos of [GnomonkeyRS](https://www.youtube.co
 | 2026-06-16 | [Raids 4 Reward Blog ARE FINALLY HERE (OSRS)](videos/2026-06-16_mb_FoVFeXgA.md) | Page created: 13 statements (event, method, opinion, stat, tip, trivia) |
 ## See also
 
-* [Zeal](Zeal.md)
 * [Ascension crossbow](Ascension_crossbow.md)
+* [Zeal](Zeal.md)
 * [Update: Raids 4 rewards blog](Update_Raids_4_rewards_blog.md)
 
 ## References

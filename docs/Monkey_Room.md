@@ -102,8 +102,8 @@ This article is compiled from the videos of [GnomonkeyRS](https://www.youtube.co
 * [Ba-Ba](Ba-Ba.md)
 * [Zebak](Zebak.md)
 * [The Wardens](The_Wardens.md)
-* [Tombs of Amascut supplies](Tombs_of_Amascut_supplies.md)
 * [Ambrosia](Ambrosia.md)
+* [Tombs of Amascut supplies](Tombs_of_Amascut_supplies.md)
 
 ## References
 

@@ -54,8 +54,8 @@ This article is compiled from the videos of [GnomonkeyRS](https://www.youtube.co
 * [Jal-Ak](Jal-Ak.md)
 * [Blood Barrage](Blood_Barrage.md)
 * [TzKal-Zuk](TzKal-Zuk.md)
-* [Jal-Nib](Jal-Nib.md)
 * [Inferno gear](Inferno_gear.md)
+* [Jal-MejRah](Jal-MejRah.md)
 
 ## References
 

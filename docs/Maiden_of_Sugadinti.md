@@ -84,9 +84,9 @@ This article is compiled from the videos of [GnomonkeyRS](https://www.youtube.co
 * [Sotetseg](Sotetseg.md)
 * [Xarpus](Xarpus.md)
 * [Nylocas](Nylocas.md)
-* [Nylocas Vasilias](Nylocas_Vasilias.md)
 * [Pestilent Bloat](Pestilent_Bloat.md)
 * [Theatre of Blood: Hard Mode](Theatre_of_Blood_Hard_Mode.md)
+* [Nylocas Vasilias](Nylocas_Vasilias.md)
 
 ## References
 

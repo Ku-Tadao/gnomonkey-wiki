@@ -108,8 +108,8 @@ This article is compiled from the videos of [GnomonkeyRS](https://www.youtube.co
 * [Deadman All-Stars](Deadman_All-Stars.md)
 * [Smithing](Smithing.md)
 * [Farming](Farming.md)
-* [Fletching](Fletching.md)
 * [Woodcutting](Woodcutting.md)
+* [Fletching](Fletching.md)
 
 ## References
 

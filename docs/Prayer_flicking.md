@@ -76,8 +76,8 @@ This article is compiled from the videos of [GnomonkeyRS](https://www.youtube.co
 * [Jal-ImKot](Jal-ImKot.md)
 * [Inferno pillars](Inferno_pillars.md)
 * [TzKal-Zuk](TzKal-Zuk.md)
+* [TzTok-Jad](TzTok-Jad.md)
 * [Jal-MejRah](Jal-MejRah.md)
-* [Jal-Nib](Jal-Nib.md)
 
 ## References
 

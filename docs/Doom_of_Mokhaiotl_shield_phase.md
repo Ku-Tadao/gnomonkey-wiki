@@ -64,9 +64,9 @@ This article is compiled from the videos of [GnomonkeyRS](https://www.youtube.co
 ## See also
 
 * [Doom of Mokhaiotl: car attack](Doom_of_Mokhaiotl_car_attack.md)
-* [Doom of Mokhaiotl: grubs](Doom_of_Mokhaiotl_grubs.md)
 * [Orb phase (Doom of Mokhaiotl)](Orb_phase_%28Doom_of_Mokhaiotl%29.md)
-* [Doom of Mokhaiotl: gear and inventory](Doom_of_Mokhaiotl_gear_and_inventory.md)
+* [Doom of Mokhaiotl: grubs](Doom_of_Mokhaiotl_grubs.md)
+* [Doom of Mokhaiotl: acid](Doom_of_Mokhaiotl_acid.md)
 * [Doom of Mokhaiotl: holy water](Doom_of_Mokhaiotl_holy_water.md)
 * [Doom of Mokhaiotl: melee punish](Doom_of_Mokhaiotl_melee_punish.md)
 

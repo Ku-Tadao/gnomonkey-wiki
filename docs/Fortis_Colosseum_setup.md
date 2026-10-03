@@ -69,8 +69,8 @@ This article is compiled from the videos of [GnomonkeyRS](https://www.youtube.co
 
 * [Fremennik warband](Fremennik_warband.md)
 * [Arceuus spellbook](Arceuus_spellbook.md)
-* [Saradomin godsword](Saradomin_godsword.md)
 * [Manticore](Manticore.md)
+* [Saradomin godsword](Saradomin_godsword.md)
 * [Colosseum invocations](Colosseum_invocations.md)
 * [Sol Heredit](Sol_Heredit.md)
 

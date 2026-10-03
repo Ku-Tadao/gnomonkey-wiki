@@ -80,9 +80,9 @@ Sol Heredit is the final boss of the [Fortis Colosseum](Fortis_Colosseum.md). Gn
 * [Colosseum invocations](Colosseum_invocations.md)
 * [Fortis Colosseum pillars](Fortis_Colosseum_pillars.md)
 * [Fortis Colosseum](Fortis_Colosseum.md)
-* [Fortis Colosseum setup](Fortis_Colosseum_setup.md)
-* [Minotaur](Minotaur.md)
 * [Manticore](Manticore.md)
+* [Minotaur](Minotaur.md)
+* [Fortis Colosseum setup](Fortis_Colosseum_setup.md)
 
 ## References
 

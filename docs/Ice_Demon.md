@@ -75,7 +75,7 @@ This article is compiled from the videos of [GnomonkeyRS](https://www.youtube.co
 * [Tekton](Tekton.md)
 * [Vespula](Vespula.md)
 * [Vanguards](Vanguards.md)
-* [Tightrope skip](Tightrope_skip.md)
+* [Thieving room (Chambers of Xeric)](Thieving_room_%28Chambers_of_Xeric%29.md)
 
 ## References
 

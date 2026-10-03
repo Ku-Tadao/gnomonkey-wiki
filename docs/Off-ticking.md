@@ -65,8 +65,8 @@ This article is compiled from the videos of [GnomonkeyRS](https://www.youtube.co
 * [Inferno waves](Inferno_waves.md)
 * [Triple Jad](Triple_Jad.md)
 * [Blood Barrage](Blood_Barrage.md)
-* [JalTok-Jad](JalTok-Jad.md)
 * [Prayer flicking](Prayer_flicking.md)
+* [JalTok-Jad](JalTok-Jad.md)
 * [TzKal-Zuk](TzKal-Zuk.md)
 
 ## References

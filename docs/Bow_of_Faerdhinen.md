@@ -109,9 +109,9 @@ This article is compiled from the videos of [GnomonkeyRS](https://www.youtube.co
 
 * [Prayer alternating](Prayer_alternating.md)
 * [Inferno gear](Inferno_gear.md)
-* [Lightbearer](Lightbearer.md)
-* [Triple Jad](Triple_Jad.md)
 * [Eclipse atlatl](Eclipse_atlatl.md)
+* [Triple Jad](Triple_Jad.md)
+* [Lightbearer](Lightbearer.md)
 * [Jal-ImKot](Jal-ImKot.md)
 
 ## References

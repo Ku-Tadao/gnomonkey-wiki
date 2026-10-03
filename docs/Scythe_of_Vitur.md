@@ -91,9 +91,9 @@ This article is compiled from the videos of [GnomonkeyRS](https://www.youtube.co
 ## See also
 
 * [Special attack weapons](Special_attack_weapons.md)
+* [Crush](Crush.md)
 * [Opinion: Mega rares](Opinion_Mega_rares.md)
 * [Spawn manipulation](Spawn_manipulation.md)
-* [Crush](Crush.md)
 * [Update: Raids 4 rewards blog](Update_Raids_4_rewards_blog.md)
 * [Arceuus spellbook](Arceuus_spellbook.md)
 

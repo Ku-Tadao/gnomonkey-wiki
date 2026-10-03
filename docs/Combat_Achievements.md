@@ -68,8 +68,8 @@ This article is compiled from the videos of [GnomonkeyRS](https://www.youtube.co
 ## See also
 
 * [Tormented Demon](Tormented_Demon.md)
-* [Yama](Yama.md)
 * [Theatre of Blood](Theatre_of_Blood.md)
+* [Yama](Yama.md)
 * [Gnomonkey](Gnomonkey.md)
 * [Chambers of Xeric](Chambers_of_Xeric.md)
 * [Inferno](Inferno.md)

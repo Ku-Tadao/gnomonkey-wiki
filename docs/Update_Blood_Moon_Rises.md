@@ -68,11 +68,11 @@ This article is compiled from the videos of [GnomonkeyRS](https://www.youtube.co
 ## See also
 
 * [Maggot King](Maggot_King.md)
+* [Deadman All-Stars](Deadman_All-Stars.md)
 * [Leechfin sandwich](Leechfin_sandwich.md)
 * [Seeker arrows](Seeker_arrows.md)
-* [Deadman All-Stars](Deadman_All-Stars.md)
 * [Raids 4](Raids_4.md)
-* [Hunter](Hunter.md)
+* [Deadman Mode](Deadman_Mode.md)
 
 ## References
 

@@ -87,11 +87,11 @@ This article is compiled from the videos of [GnomonkeyRS](https://www.youtube.co
 | 2023-12-22 | [Death to Voidwaker and Fang - Weapon Rebalance (OSRS)](videos/2023-12-22_t5mXf8KJztU.md) | Page created: 3 statements (opinion) |
 ## See also
 
+* [Inquisitor's armour](Inquisitor's_armour.md)
 * [Rosewood blowpipe](Rosewood_blowpipe.md)
+* [Minimum hit adjustments](Minimum_hit_adjustments.md)
 * [Pets](Pets.md)
 * [Player versus player](Player_versus_player.md)
-* [Minimum hit adjustments](Minimum_hit_adjustments.md)
-* [Inquisitor's armour](Inquisitor's_armour.md)
 * [Sanguinesti staff](Sanguinesti_staff.md)
 
 ## References

@@ -10,129 +10,115 @@ This article is compiled from the videos of [GnomonkeyRS](https://www.youtube.co
 
 | | |
 |---|---|
-| **Type** | Activity |
+| **Type** | Minigame |
+| **Location** | Fossil Island |
+| **Requirements** | 50 Mining, 150 kudos, Bone Voyage, built museum camp[^JVLMN7939H4-27] |
+| **Xp rate** | 70k to 90k Mining xp/hr; about 75k at level 71 and 94k at 99 with a crystal pickaxe[^JVLMN7939H4-0][^m__uuaUV3rA-661] |
+| **Gp rate** | About 2 gp per xp, a little under 200k gp/hr[^m__uuaUV3rA-661] |
+| **Group size** | Optimal 3 to 5 players[^JVLMN7939H4-203] |
+| **Game length** | 10 minutes before the volcano erupts[^JVLMN7939H4-353] |
 | **Videos** | 2 (first 2021-02-10, latest 2021-03-01) |
 | **Main source** | [Volcanic Mine Guide (AFK 70k-90k Mining XP/HR)](videos/2021-02-10_JVLMN7939H4.md) |
 </div>
 
-**Volcanic Mine** is an activity topic that Gnomonkey covers in 2 videos between 2021-02-10 and 2021-03-01. This article is a stub: his statements are grouped by type, repeated ones merged.
+The **Volcanic Mine** is a group Mining activity on Fossil Island. Gnomonkey considers it an incredibly underutilised method, much better than people give it credit for.[^JVLMN7939H4-0] It resembles Wintertodt for Mining: a group mines a central boulder against a time limit while managing the mine's stability, then escapes the volcano.[^JVLMN7939H4-0][^m__uuaUV3rA-635] It requires some coordination but is about as AFK as Motherlode Mine, with AFK stretches of about 80 seconds at several points.[^JVLMN7939H4-0][^m__uuaUV3rA-635] He calls it one of the few Mining methods that did not make him hate his life and recommends learning it with friends or the VM Discord.[^m__uuaUV3rA-661] Much of his guide information comes from that Discord, which is also a way to find players.[^JVLMN7939H4-0][^JVLMN7939H4-234]
 
 [TOC]
 
-## Requirements
+## Requirements and rates
 
-* Volcanic Mine requires at least 50 Mining and 150 kudos, the Bone Voyage quest because it is on Fossil Island, a fully built museum camp on Fossil Island, and claiming your fossils from Peter on the shore.[^JVLMN7939H4-27]
-* Volcanic Mine requires Fossil Island and 150 kudos; if you lack kudos Gnomonkey recommends hunting fossils at Sulliuscep trees through Woodcutting.[^m__uuaUV3rA-635]
+* At least 50 Mining and 150 kudos, the Bone Voyage quest (the mine is on Fossil Island), a fully built museum camp, and fossils claimed from Peter on the shore.[^JVLMN7939H4-27] Without kudos, he recommends hunting fossils at Sulliuscep trees through Woodcutting.[^m__uuaUV3rA-635]
+* He recommends starting at 70 or 71 Mining so the crystal pickaxe can be used, a dramatic boost of around 10k extra xp/hr.[^JVLMN7939H4-27][^m__uuaUV3rA-604] He recommends Motherlode Mine until 70 for the Prospector's outfit, which also boosts xp here.[^JVLMN7939H4-59]
+* Mining level below the team's does not hurt it, since higher-level players get more fragments to compensate.[^JVLMN7939H4-59]
+* Rates: 70k to 90k xp/hr by Mining level and pickaxe[^JVLMN7939H4-0]; by March 2021 he gives about 75k at level 71 with a crystal pickaxe, scaling to 94k at 99, about 2 gp per xp (a little under 200k gp/hr), plus fossils.[^m__uuaUV3rA-661] About six fossils per hour are found, not the best fossil source (Sulliuscep trees are) but not terrible.[^JVLMN7939H4-841]
+* A game gives a mining xp drop of around 6k to 12k, set by the number and quality of fragments (iron to rune, as at Motherlode), with xp and points awarded on leaving.[^JVLMN7939H4-234][^JVLMN7939H4-262]
+* High Prayer helps: above 91 Prayer, a whole game can be completed without a prayer dose.[^JVLMN7939H4-59]
 
-## Methods
+## Gear and supplies
 
-* The Volcanic Mine is similar to Wintertodt for Mining: a group of players mines a central boulder under a time limit, then escapes the volcano.[^JVLMN7939H4-0]
-* Volcanic Mine quick starting: one person elects to quick start, taking a pile of brews and prayer potions and immediately restarting the game after leaving (the game takes 30 seconds to start) while the others restore and run back. Gnomonkey says quick starting boosts XP rates by about 3k to 4k XP per hour.[^JVLMN7939H4-176]
-* The Mining XP and points earned in a Volcanic Mine game depend on the number and quality of fragments you get while mining, ranging from iron to rune similar to Motherlode Mine; XP and reward points are awarded when you leave the game.[^JVLMN7939H4-234]
-* Additional Volcanic Mine points are granted for helping with the chambers: 50 points each time you mine the boulder in a chamber or cap it, up to 300 points per game; farming these is called capping, and it is usually better to mine the boulder than to cap, so players cap during downtime while the boulder is moving.[^JVLMN7939H4-262]
-* Most Volcanic Mine points are earned at the very end of the game on the final boulder position, so being uncoordinated and having to leave early loses a lot of points and XP.[^JVLMN7939H4-262]
-* There are three gas chambers in Volcanic Mine labelled A, B and C, each with a vent labelled the same, and each chamber has a percentage randomly set at the start that is unknown until someone checks the vent; the goal is to keep the chambers as close to 50% as possible.[^JVLMN7939H4-295]
-* If a Volcanic Mine chamber goes too low or high the mine stability reduces, and if stability reaches zero everyone in the mine instantly dies; keeping stability high lets you fully mine the central boulder.[^JVLMN7939H4-327]
-* Stability goes back up if the vents are close to 50%; a chamber at 51% or higher needs its boulder mined to lower it and a chamber at 49% or lower needs a boulder added to raise it, which is called fixing a chamber.[^JVLMN7939H4-353]
-* A Volcanic Mine game starts with 10 minutes on the clock before the volcano erupts; chamber C never needs fixing at the start (only potentially A or B), and at the five-minute mark all chamber percentages shuffle randomly, after which A is almost always fixed correctly but B and C usually are not.[^JVLMN7939H4-353]
-* With three miners the roles are A check/fix (A role), B check and C fix, and B fix and C check (B/C role); each role name is literal. With four or more players the B check/C fix role is split between two people, and a fifth player is the leech role who simply mines the boulder all game.[^JVLMN7939H4-386]
-* In Volcanic Mine you create platforms by throwing water on the lava to reach the central boulder and mine it; platforms last 90 seconds, changing colour repeatedly until a buttery colour that gives five seconds before they disappear, and being on one when it vanishes drops you into the lava.[^JVLMN7939H4-414]
-* Falling into the lava in Volcanic Mine washes you up nearby and deals around 60 damage, and the Volcanic Mine plugins can warn you when platforms are about to disappear.[^JVLMN7939H4-447]
-* The Volcanic Mine boulder moves five times as you mine it down; the community labels positions five, four, three, two and one, and the smaller the boulder, the more fragments it gives on average.[^JVLMN7939H4-447]
-* Whenever a lava beast is nearby in Volcanic Mine you need to pray ranged to avoid massive damage, since their attacks hit everyone on the tile they hit; their damage is calculated when the ball hits you, so you can easily flick prayer against them in a pinch.[^JVLMN7939H4-505]
-* The whole team can cap when the boulder moves from position three to four and from four to five; multiple players can pick up a boulder on the same tick and everyone gets one. Do not cap when you could be mining the boulder, and do not stay capping too long as the boulder moves to position five, since the team has to wait for you.[^JVLMN7939H4-534]
-* A role: at the start spam the west ladder, go down, create a bridge across to a chamber, pick up the small boulder, immediately build a bridge south and check a vent; then return and cap up to four times for 200 points, leave the chamber fixed, run back over the original bridge and start mining the boulder.[^JVLMN7939H4-595]
-* When the boulder moves from position three to four the A-role player touches the gas hole to join teammates mining for the rest of the game; typically even if chamber A has a horrible percentage, fixing both B and C chambers is enough to get through.[^JVLMN7939H4-625]
-* B check C fix is the combined role for trios; in fours or fives one person does B check and another does C fix. B check starts at the east ladder, immediately builds a bridge south toward the boulder, creates a bridge behind the boulder to check B so B fix knows how to fix their chamber, then returns and mines.[^JVLMN7939H4-686]
-* C fix just starts mining the boulder at the beginning; when the clock reaches five minutes (boulder around position three at about 6:30), wait for B check to check chamber C, and if it needs fixing immediately create a bridge east and fix it, otherwise keep mining. You can cap B chamber repeatedly while waiting for the boulder to move from three to four.[^JVLMN7939H4-713]
-* B/C role needs decent timing: go down the east ladder and run north to chamber B, cap repeatedly until B check checks the vent, leave it fixed, then go to the boulder and mine, always creating a new platform for the team; at about 5:20 run north to check C vent (not before five minutes), then run back, build a bridge north, check B, and rejoin teammates at the boulder.[^JVLMN7939H4-746]
-* At the end of a Volcanic Mine game you must escape before the volcano collapses; after 30 seconds the displayed stability always shows extremely low as a script, and in general if you reach the ladder with 11 seconds on the clock you can escape safely, otherwise you die instantly and lose all points.[^JVLMN7939H4-778]
-* Volcanic Mine is similar to Wintertodt for Mining: teams of 3 to 5 players mine a central boulder while managing the stability of the mine, requiring some coordination but allowing you to AFK for about 80 seconds at a time at several points.[^m__uuaUV3rA-635]
+* Wear the full Prospector's outfit if possible, then maximise the prayer bonus, filling missing slots with the next best prayer item. An Elysian spirit shield is best in slot if rich; a Thalador shield 4 gives the best prayer bonus and restores prayer twice daily.[^JVLMN7939H4-59]
+* Wear a regen bracelet, an elven signet whenever using a crystal pickaxe, and a ring of the gods (best for prayer; Ring of Suffering or Explorer's ring are fine). Keep the pickaxe in the inventory for the crozier's extra prayer bonus. With over 35 prayer bonus wear a hit points cape, otherwise an RD cloak 4 or Soul cape.[^JVLMN7939H4-86][^JVLMN7939H4-114]
+* Basic food, even wines, is fine; bring higher-healing food and karambwans on a first visit. Brews are unnecessary.[^JVLMN7939H4-114]
+* He uses a dragon pickaxe only because he started at 98 Mining, but urges making a crystal pickaxe. Calcite and pyrophosphite stack, and 30 new Mulite are needed to start a game, so bring a decent stack.[^JVLMN7939H4-148]
+* A Desert amulet 4 teleport fully restores and overheals between games and beats going to a house; otherwise use house tabs to an ornate pool, or Ardougne cloak.[^JVLMN7939H4-148]
+* Eight inventory slots must be free for fragments and the water vessel, plus space for fossils.[^JVLMN7939H4-203]
+* Dying is not a safe death, but reclaiming costs only 150 new Mulite (roughly 3k gp), so keep some VM teleports in the bank.[^JVLMN7939H4-327] VM teleport tablets are used every game but can only be bought after completing one[^JVLMN7939H4-176]; buy a big pile on the first completion at 200 points each.[^JVLMN7939H4-809]
+* Keep HP above 70 because rock falls can unluckily KO, and turn auto retaliate off.[^JVLMN7939H4-477]
+* Pray ranged whenever a lava beast is nearby: their attacks hit everyone on the tile they land on, and damage is calculated when the ball hits, so prayer can be flicked.[^JVLMN7939H4-505]
+* The Volcanic Mine and Volcanic Mine Stability plugin hub plugins give notifications so one can AFK a bit more and warn when platforms are about to disappear.[^JVLMN7939H4-203][^JVLMN7939H4-447]
 
-## Stats and numbers
+## Mechanics
 
-* Volcanic Mine provides 70k to 90k Mining XP per hour, scaling with Mining level and pickaxe, while being about as AFK as Motherlode Mine.[^JVLMN7939H4-0]
-* A Volcanic Mine game usually gives a mining XP drop of around 6k to 12k.[^JVLMN7939H4-262]
-* Dying in Volcanic Mine is not a safe death, but reclaiming items is cheap at only 150 new Mulite, roughly 3k GP, so Gnomonkey suggests keeping some VM teleports in your bank in case you die.[^JVLMN7939H4-327]
-* You find about six fossils per hour in Volcanic Mine, which Gnomonkey says is not the best way to get fossils (that prize goes to Sulliuscep trees) but is not a terrible rate.[^JVLMN7939H4-841]
-* At level 71 with a crystal pickaxe Volcanic Mine gives about 75k XP/hr, scaling to 94k XP/hr at level 99, with about 2 GP per XP, a little under 200k GP/hr, and it also gives fossils which help if the museum is not complete.[^m__uuaUV3rA-661]
+**Team size.** Three to five players is optimal; each player beyond five increases damage taken, and solos and duos are far more intensive and usually not worth doing.[^JVLMN7939H4-203]
 
-## Tips
+**Chambers.** There are three gas chambers, A, B and C, each with a same-labelled vent. Each has a percentage set randomly at the start that is unknown until someone checks the vent; the goal is to keep chambers near 50%.[^JVLMN7939H4-295] A chamber at 51% or higher needs a boulder mined to lower it; 49% or lower needs one added. This is called fixing a chamber.[^JVLMN7939H4-353] If a chamber is too low or high, stability falls, and at zero everyone dies. High stability allows fully mining the central boulder.[^JVLMN7939H4-327]
 
-* Gnomonkey recommends starting Volcanic Mine at 70 Mining so you can use the crystal pickaxe, which is a dramatic boost of around 10k extra XP per hour here.[^JVLMN7939H4-27]
-* Having a lower Mining level does not hurt your team in Volcanic Mine, since higher-level players get more fragments to compensate.[^JVLMN7939H4-59]
-* Gnomonkey recommends Motherlode Mine until 70 Mining to get the Prospector's outfit, which also boosts Volcanic Mine XP; high Prayer is beneficial too, as with over 91 Prayer you can get through a whole game without using a prayer potion dose.[^JVLMN7939H4-59]
-* For Volcanic Mine gear Gnomonkey wears the full Prospector's outfit if possible, then maximises prayer bonus, replacing any missing slot with your next best prayer item; if rich, an Elysian spirit shield (transcribed as Elijah and Spirit Shield) is best in slot because it reduces all damage taken, and a Thalador shield 4 is handy for the best prayer bonus and restoring prayer twice a day.[^JVLMN7939H4-59]
-* In Volcanic Mine wear a regen bracelet for health regeneration, always wear an elven signet when using a crystal pickaxe, and a ring of the gods is best in slot for prayer there, though a Ring of Suffering or Explorer's ring is also fine.[^JVLMN7939H4-86]
-* In Volcanic Mine Gnomonkey leaves his pickaxe in his inventory so he gets the additional prayer bonus of a crozier; if you can reach over 35 prayer bonus wear a hit points cape, otherwise an RD cloak 4 or Soul cape.[^JVLMN7939H4-114]
-* For standard Volcanic Mine, basic food is fine, even wines; for a first time bring some higher-healing food and karambwans for combo eats, and brews are completely unnecessary.[^JVLMN7939H4-114]
-* Gnomonkey only has a dragon pickaxe for Volcanic Mine because he started at 98 Mining, but says to make a crystal pickaxe as it is incredibly good here; calcite and pyrophosphite will stack in your inventory and you need 30 new Mulite to start a game, so bring a decent stack.[^JVLMN7939H4-148]
-* A Desert amulet 4 is great for Volcanic Mine since its teleport fully restores and overheals you between games and is faster than going to your house; without it, use house tabs to an ornate pool, or Ardougne cloak teleport for prayer and eating at the bank between games.[^JVLMN7939H4-148]
-* You need eight inventory slots free to hold fragments and the water vessel during a Volcanic Mine game, plus extra space for fossils found during the game.[^JVLMN7939H4-203]
-* The optimal Volcanic Mine team size is three to five players; each additional player beyond five increases the damage you take, and solos and duos are far more intensive and usually not worth doing.[^JVLMN7939H4-203]
-* Gnomonkey highly recommends the Volcanic Mine and Volcanic Mine Stability external plugins from the plugin hub, which give useful info and notifications so you can AFK a bit more.[^JVLMN7939H4-203]
-* The Volcanic Mine Discord is a good way to get paired up for games, and Gnomonkey's clan chat Gnomonkey also had a handful of people looking to do Mining.[^JVLMN7939H4-234]
-* At the final boulder position if your entire team is not there (for example someone died) it mines much more quickly, which is bad since that is where the most points are earned; make sure everyone is present and ready before mining. In a trio finishing the rock can be dicey, so someone should build a bridge back at 35 seconds remaining while the rest mine for the last five seconds.[^JVLMN7939H4-447]
-* To keep your HP above 70 in Volcanic Mine because rock falls can unluckily KO you, and to turn auto retaliate off.[^JVLMN7939H4-477]
-* Use the pickaxe special attack in Volcanic Mine before boulder position one and position five, and you can camp Preserve the whole game; it is especially worth it if the boost gets you to the next fragment tier (rune at level 85, matching Motherlode Mine), and it does not help above 99 so it is not worth it if maxed.[^JVLMN7939H4-505]
-* Gnomonkey recommends learners practise their role solo by entering and doing the first half of it before the five-minute mark, then leaving or re-entering for the second half, so they can practise without hurting others' XP.[^JVLMN7939H4-563]
-* A-role timing: if stability is dropping before six minutes on the clock, immediately fix a chamber; if stability is below 50% at 5:15, recheck and fix A if necessary; check the vent as soon as five minutes hits and the chambers shuffle, since unlucky shuffles can kill the whole team if you do not save them.[^JVLMN7939H4-653]
-* Gnomonkey recommends buying a big pile of VM teleports on your first completion; they are very cheap at 200 points each.[^JVLMN7939H4-809]
-* On a main, Gnomonkey says the best item to buy after VM teleports for GP is runite, coming to about 2 GP per XP, which is less GP per hour than methods like Motherlode Mine but not terrible; Ironmen usually should buy volcanic ash for farming, and the large vessel is only worth it for solos or duos since larger teams never run out of water.[^JVLMN7939H4-809]
-* If you are not quick starting, bank after each game at the nearby bank and restore at your restore point, then teleport back with a tablet and re-enter immediately for the next game.[^JVLMN7939H4-841]
-* Volcanic Mine can be started at level 50, but Gnomonkey recommends starting at 71 because the crystal pickaxe is incredibly good there.[^m__uuaUV3rA-604]
+**Timeline.** The game starts with 10 minutes on the clock. Chamber C never needs fixing at the start. At five minutes all percentages shuffle, after which A is almost always fixed correctly but B and C usually are not.[^JVLMN7939H4-353] Platforms, made by throwing water on lava, last 90 seconds, changing colour until a buttery colour that gives five seconds; being on one when it vanishes drops you in the lava, which washes you up nearby for around 60 damage.[^JVLMN7939H4-414][^JVLMN7939H4-447] The boulder moves five times as it is mined down, called positions five to one by the community; the smaller it is, the more fragments it gives on average.[^JVLMN7939H4-447]
 
-## Gnomonkey's opinion
+**Points.** Helping with chambers gives 50 points per boulder mined or capped, up to 300 per game. Capping is usually worse than mining the boulder, so players cap during downtime while the boulder moves.[^JVLMN7939H4-262] The whole team can cap when the boulder moves from three to four and from four to five; do not cap when you could mine, and do not linger.[^JVLMN7939H4-534] Most points come at the end on the final boulder position, so leaving early loses a lot.[^JVLMN7939H4-262] If the team is not all present there it mines much faster, which is bad; in a trio someone builds a bridge back at 35 seconds remaining while the rest mine for the last five.[^JVLMN7939H4-447]
 
-* Gnomonkey considers the Volcanic Mine an incredibly underutilised mining method, much better than people give it credit for.[^JVLMN7939H4-0]
-* Gnomonkey calls Volcanic Mine one of the few Mining methods that did not make him hate his life, and highly recommends learning it with friends or the VM Discord.[^m__uuaUV3rA-661]
+**Escape.** After 30 seconds the displayed stability always reads extremely low as a script. Reaching the ladder with 11 seconds on the clock is safe; otherwise you die and lose all points.[^JVLMN7939H4-778]
 
-## Trivia
+### Roles
 
-* Much of the guide's info comes from the Volcanic Mine Discord, a group with lots of information that can help you find people to play with, similar to We Do Raids.[^JVLMN7939H4-0]
-* VM teleport tablets are used every Volcanic Mine game but can only be bought after completing a game.[^JVLMN7939H4-176]
+With three miners the roles are A check/fix, B check and C fix, and B fix and C check (the B/C role), each name literal. With four or more, B check/C fix splits between two people, and a fifth player is the leech who simply mines all game.[^JVLMN7939H4-386]
+
+| Role | Duties |
+|---|---|
+| A | Spam the west ladder, bridge to a chamber, pick up the small boulder, bridge south and check a vent, then cap up to four times for 200 points, leave it fixed, return and mine.[^JVLMN7939H4-595] When the boulder moves from three to four, touch the gas hole to join the others; fixing B and C is typically enough even if A is horrible.[^JVLMN7939H4-625] If stability drops before six minutes, fix immediately; below 50% at 5:15, recheck and fix A; check the vent as soon as five minutes hits.[^JVLMN7939H4-653] |
+| B check | From the east ladder, bridge south, bridge behind the boulder to check B so B fix knows what to do, then return and mine.[^JVLMN7939H4-686] |
+| C fix | Mine from the start. At five minutes (boulder near position three, about 6:30) wait for B check to check C; fix it by bridging east if needed, else keep mining. Can cap B while waiting.[^JVLMN7939H4-713] |
+| B/C | East ladder, run north to B, cap until B check checks the vent, leave it fixed, mine and always make a new platform. At about 5:20 check C (not before five minutes), build a bridge north, check B, rejoin.[^JVLMN7939H4-746] |
+
+Learners can practise a role solo by doing the first half before the five-minute mark, then leaving or re-entering for the second half, without hurting others' xp.[^JVLMN7939H4-563]
+
+## Pickaxe special, quick starting and rewards
+
+* Use the pickaxe special before positions one and five; Preserve can be camped throughout. It is especially worth it when the boost reaches the next fragment tier (rune at level 85, as at Motherlode) and useless above 99.[^JVLMN7939H4-505]
+* **Quick starting:** one person takes a pile of brews and prayer potions and restarts the game immediately after leaving (starting takes 30 seconds) while the others restore and run back. He says it boosts rates by about 3k to 4k xp/hr.[^JVLMN7939H4-176] Otherwise bank after each game at the nearby bank, restore, teleport back by tablet and re-enter.[^JVLMN7939H4-841]
+* After VM teleports, the best purchase on a main is runite at about 2 gp per xp, less gp/hr than Motherlode but not terrible. Ironmen usually buy volcanic ash for farming; the large vessel is only worth it for solos or duos.[^JVLMN7939H4-809]
 
 ## Revision history
 
 | Date | Video | Change |
 |---|---|---|
-| 2021-03-01 | [1-99 Mining Guide (AFK/GP/EFFICIENT) OSRS](videos/2021-03-01_m__uuaUV3rA.md) | Added: 5 statements (method, opinion, requirement, stat, tip) |
-| 2021-02-10 | [Volcanic Mine Guide (AFK 70k-90k Mining XP/HR)](videos/2021-02-10_JVLMN7939H4.md) | Page created: 50 statements (method, opinion, requirement, stat, tip, trivia) |
+| 2021-03-01 | [1-99 Mining Guide (AFK/GP/EFFICIENT) OSRS](videos/2021-03-01_m__uuaUV3rA.md) | Corrected the recommended start to 71 Mining and gave updated rates of 75k to 94k xp/hr and about 2 gp per xp (was a 70k to 90k range). |
+| 2021-02-10 | [Volcanic Mine Guide (AFK 70k-90k Mining XP/HR)](videos/2021-02-10_JVLMN7939H4.md) | Page created: overview, requirements, gear, chamber and role mechanics, points, quick starting and rewards. |
 ## References
 
 ///Footnotes Go Here///
 [^JVLMN7939H4-27]: [Volcanic Mine Guide (AFK 70k-90k Mining XP/HR)](videos/2021-02-10_JVLMN7939H4.md), 2021-02-10. [▶ 0:27](https://youtu.be/JVLMN7939H4?t=27)
-[^m__uuaUV3rA-635]: [1-99 Mining Guide (AFK/GP/EFFICIENT) OSRS](videos/2021-03-01_m__uuaUV3rA.md), 2021-03-01. [▶ 10:35](https://youtu.be/m__uuaUV3rA?t=635)
 [^JVLMN7939H4-0]: [Volcanic Mine Guide (AFK 70k-90k Mining XP/HR)](videos/2021-02-10_JVLMN7939H4.md), 2021-02-10. [▶ 0:00](https://youtu.be/JVLMN7939H4)
-[^JVLMN7939H4-176]: [Volcanic Mine Guide (AFK 70k-90k Mining XP/HR)](videos/2021-02-10_JVLMN7939H4.md), 2021-02-10. [▶ 2:56](https://youtu.be/JVLMN7939H4?t=176)
-[^JVLMN7939H4-234]: [Volcanic Mine Guide (AFK 70k-90k Mining XP/HR)](videos/2021-02-10_JVLMN7939H4.md), 2021-02-10. [▶ 3:54](https://youtu.be/JVLMN7939H4?t=234)
-[^JVLMN7939H4-262]: [Volcanic Mine Guide (AFK 70k-90k Mining XP/HR)](videos/2021-02-10_JVLMN7939H4.md), 2021-02-10. [▶ 4:22](https://youtu.be/JVLMN7939H4?t=262)
-[^JVLMN7939H4-295]: [Volcanic Mine Guide (AFK 70k-90k Mining XP/HR)](videos/2021-02-10_JVLMN7939H4.md), 2021-02-10. [▶ 4:55](https://youtu.be/JVLMN7939H4?t=295)
-[^JVLMN7939H4-327]: [Volcanic Mine Guide (AFK 70k-90k Mining XP/HR)](videos/2021-02-10_JVLMN7939H4.md), 2021-02-10. [▶ 5:27](https://youtu.be/JVLMN7939H4?t=327)
-[^JVLMN7939H4-353]: [Volcanic Mine Guide (AFK 70k-90k Mining XP/HR)](videos/2021-02-10_JVLMN7939H4.md), 2021-02-10. [▶ 5:53](https://youtu.be/JVLMN7939H4?t=353)
-[^JVLMN7939H4-386]: [Volcanic Mine Guide (AFK 70k-90k Mining XP/HR)](videos/2021-02-10_JVLMN7939H4.md), 2021-02-10. [▶ 6:26](https://youtu.be/JVLMN7939H4?t=386)
-[^JVLMN7939H4-414]: [Volcanic Mine Guide (AFK 70k-90k Mining XP/HR)](videos/2021-02-10_JVLMN7939H4.md), 2021-02-10. [▶ 6:54](https://youtu.be/JVLMN7939H4?t=414)
-[^JVLMN7939H4-447]: [Volcanic Mine Guide (AFK 70k-90k Mining XP/HR)](videos/2021-02-10_JVLMN7939H4.md), 2021-02-10. [▶ 7:27](https://youtu.be/JVLMN7939H4?t=447)
-[^JVLMN7939H4-505]: [Volcanic Mine Guide (AFK 70k-90k Mining XP/HR)](videos/2021-02-10_JVLMN7939H4.md), 2021-02-10. [▶ 8:25](https://youtu.be/JVLMN7939H4?t=505)
-[^JVLMN7939H4-534]: [Volcanic Mine Guide (AFK 70k-90k Mining XP/HR)](videos/2021-02-10_JVLMN7939H4.md), 2021-02-10. [▶ 8:54](https://youtu.be/JVLMN7939H4?t=534)
-[^JVLMN7939H4-595]: [Volcanic Mine Guide (AFK 70k-90k Mining XP/HR)](videos/2021-02-10_JVLMN7939H4.md), 2021-02-10. [▶ 9:55](https://youtu.be/JVLMN7939H4?t=595)
-[^JVLMN7939H4-625]: [Volcanic Mine Guide (AFK 70k-90k Mining XP/HR)](videos/2021-02-10_JVLMN7939H4.md), 2021-02-10. [▶ 10:25](https://youtu.be/JVLMN7939H4?t=625)
-[^JVLMN7939H4-686]: [Volcanic Mine Guide (AFK 70k-90k Mining XP/HR)](videos/2021-02-10_JVLMN7939H4.md), 2021-02-10. [▶ 11:26](https://youtu.be/JVLMN7939H4?t=686)
-[^JVLMN7939H4-713]: [Volcanic Mine Guide (AFK 70k-90k Mining XP/HR)](videos/2021-02-10_JVLMN7939H4.md), 2021-02-10. [▶ 11:53](https://youtu.be/JVLMN7939H4?t=713)
-[^JVLMN7939H4-746]: [Volcanic Mine Guide (AFK 70k-90k Mining XP/HR)](videos/2021-02-10_JVLMN7939H4.md), 2021-02-10. [▶ 12:26](https://youtu.be/JVLMN7939H4?t=746)
-[^JVLMN7939H4-778]: [Volcanic Mine Guide (AFK 70k-90k Mining XP/HR)](videos/2021-02-10_JVLMN7939H4.md), 2021-02-10. [▶ 12:58](https://youtu.be/JVLMN7939H4?t=778)
-[^JVLMN7939H4-841]: [Volcanic Mine Guide (AFK 70k-90k Mining XP/HR)](videos/2021-02-10_JVLMN7939H4.md), 2021-02-10. [▶ 14:01](https://youtu.be/JVLMN7939H4?t=841)
 [^m__uuaUV3rA-661]: [1-99 Mining Guide (AFK/GP/EFFICIENT) OSRS](videos/2021-03-01_m__uuaUV3rA.md), 2021-03-01. [▶ 11:01](https://youtu.be/m__uuaUV3rA?t=661)
+[^JVLMN7939H4-203]: [Volcanic Mine Guide (AFK 70k-90k Mining XP/HR)](videos/2021-02-10_JVLMN7939H4.md), 2021-02-10. [▶ 3:23](https://youtu.be/JVLMN7939H4?t=203)
+[^JVLMN7939H4-353]: [Volcanic Mine Guide (AFK 70k-90k Mining XP/HR)](videos/2021-02-10_JVLMN7939H4.md), 2021-02-10. [▶ 5:53](https://youtu.be/JVLMN7939H4?t=353)
+[^m__uuaUV3rA-635]: [1-99 Mining Guide (AFK/GP/EFFICIENT) OSRS](videos/2021-03-01_m__uuaUV3rA.md), 2021-03-01. [▶ 10:35](https://youtu.be/m__uuaUV3rA?t=635)
+[^JVLMN7939H4-234]: [Volcanic Mine Guide (AFK 70k-90k Mining XP/HR)](videos/2021-02-10_JVLMN7939H4.md), 2021-02-10. [▶ 3:54](https://youtu.be/JVLMN7939H4?t=234)
+[^m__uuaUV3rA-604]: [1-99 Mining Guide (AFK/GP/EFFICIENT) OSRS](videos/2021-03-01_m__uuaUV3rA.md), 2021-03-01. [▶ 10:04](https://youtu.be/m__uuaUV3rA?t=604)
 [^JVLMN7939H4-59]: [Volcanic Mine Guide (AFK 70k-90k Mining XP/HR)](videos/2021-02-10_JVLMN7939H4.md), 2021-02-10. [▶ 0:59](https://youtu.be/JVLMN7939H4?t=59)
+[^JVLMN7939H4-841]: [Volcanic Mine Guide (AFK 70k-90k Mining XP/HR)](videos/2021-02-10_JVLMN7939H4.md), 2021-02-10. [▶ 14:01](https://youtu.be/JVLMN7939H4?t=841)
+[^JVLMN7939H4-262]: [Volcanic Mine Guide (AFK 70k-90k Mining XP/HR)](videos/2021-02-10_JVLMN7939H4.md), 2021-02-10. [▶ 4:22](https://youtu.be/JVLMN7939H4?t=262)
 [^JVLMN7939H4-86]: [Volcanic Mine Guide (AFK 70k-90k Mining XP/HR)](videos/2021-02-10_JVLMN7939H4.md), 2021-02-10. [▶ 1:26](https://youtu.be/JVLMN7939H4?t=86)
 [^JVLMN7939H4-114]: [Volcanic Mine Guide (AFK 70k-90k Mining XP/HR)](videos/2021-02-10_JVLMN7939H4.md), 2021-02-10. [▶ 1:54](https://youtu.be/JVLMN7939H4?t=114)
 [^JVLMN7939H4-148]: [Volcanic Mine Guide (AFK 70k-90k Mining XP/HR)](videos/2021-02-10_JVLMN7939H4.md), 2021-02-10. [▶ 2:28](https://youtu.be/JVLMN7939H4?t=148)
-[^JVLMN7939H4-203]: [Volcanic Mine Guide (AFK 70k-90k Mining XP/HR)](videos/2021-02-10_JVLMN7939H4.md), 2021-02-10. [▶ 3:23](https://youtu.be/JVLMN7939H4?t=203)
-[^JVLMN7939H4-477]: [Volcanic Mine Guide (AFK 70k-90k Mining XP/HR)](videos/2021-02-10_JVLMN7939H4.md), 2021-02-10. [▶ 7:57](https://youtu.be/JVLMN7939H4?t=477)
-[^JVLMN7939H4-563]: [Volcanic Mine Guide (AFK 70k-90k Mining XP/HR)](videos/2021-02-10_JVLMN7939H4.md), 2021-02-10. [▶ 9:23](https://youtu.be/JVLMN7939H4?t=563)
-[^JVLMN7939H4-653]: [Volcanic Mine Guide (AFK 70k-90k Mining XP/HR)](videos/2021-02-10_JVLMN7939H4.md), 2021-02-10. [▶ 10:53](https://youtu.be/JVLMN7939H4?t=653)
+[^JVLMN7939H4-327]: [Volcanic Mine Guide (AFK 70k-90k Mining XP/HR)](videos/2021-02-10_JVLMN7939H4.md), 2021-02-10. [▶ 5:27](https://youtu.be/JVLMN7939H4?t=327)
+[^JVLMN7939H4-176]: [Volcanic Mine Guide (AFK 70k-90k Mining XP/HR)](videos/2021-02-10_JVLMN7939H4.md), 2021-02-10. [▶ 2:56](https://youtu.be/JVLMN7939H4?t=176)
 [^JVLMN7939H4-809]: [Volcanic Mine Guide (AFK 70k-90k Mining XP/HR)](videos/2021-02-10_JVLMN7939H4.md), 2021-02-10. [▶ 13:29](https://youtu.be/JVLMN7939H4?t=809)
-[^m__uuaUV3rA-604]: [1-99 Mining Guide (AFK/GP/EFFICIENT) OSRS](videos/2021-03-01_m__uuaUV3rA.md), 2021-03-01. [▶ 10:04](https://youtu.be/m__uuaUV3rA?t=604)
+[^JVLMN7939H4-477]: [Volcanic Mine Guide (AFK 70k-90k Mining XP/HR)](videos/2021-02-10_JVLMN7939H4.md), 2021-02-10. [▶ 7:57](https://youtu.be/JVLMN7939H4?t=477)
+[^JVLMN7939H4-505]: [Volcanic Mine Guide (AFK 70k-90k Mining XP/HR)](videos/2021-02-10_JVLMN7939H4.md), 2021-02-10. [▶ 8:25](https://youtu.be/JVLMN7939H4?t=505)
+[^JVLMN7939H4-447]: [Volcanic Mine Guide (AFK 70k-90k Mining XP/HR)](videos/2021-02-10_JVLMN7939H4.md), 2021-02-10. [▶ 7:27](https://youtu.be/JVLMN7939H4?t=447)
+[^JVLMN7939H4-295]: [Volcanic Mine Guide (AFK 70k-90k Mining XP/HR)](videos/2021-02-10_JVLMN7939H4.md), 2021-02-10. [▶ 4:55](https://youtu.be/JVLMN7939H4?t=295)
+[^JVLMN7939H4-414]: [Volcanic Mine Guide (AFK 70k-90k Mining XP/HR)](videos/2021-02-10_JVLMN7939H4.md), 2021-02-10. [▶ 6:54](https://youtu.be/JVLMN7939H4?t=414)
+[^JVLMN7939H4-534]: [Volcanic Mine Guide (AFK 70k-90k Mining XP/HR)](videos/2021-02-10_JVLMN7939H4.md), 2021-02-10. [▶ 8:54](https://youtu.be/JVLMN7939H4?t=534)
+[^JVLMN7939H4-778]: [Volcanic Mine Guide (AFK 70k-90k Mining XP/HR)](videos/2021-02-10_JVLMN7939H4.md), 2021-02-10. [▶ 12:58](https://youtu.be/JVLMN7939H4?t=778)
+[^JVLMN7939H4-386]: [Volcanic Mine Guide (AFK 70k-90k Mining XP/HR)](videos/2021-02-10_JVLMN7939H4.md), 2021-02-10. [▶ 6:26](https://youtu.be/JVLMN7939H4?t=386)
+[^JVLMN7939H4-595]: [Volcanic Mine Guide (AFK 70k-90k Mining XP/HR)](videos/2021-02-10_JVLMN7939H4.md), 2021-02-10. [▶ 9:55](https://youtu.be/JVLMN7939H4?t=595)
+[^JVLMN7939H4-625]: [Volcanic Mine Guide (AFK 70k-90k Mining XP/HR)](videos/2021-02-10_JVLMN7939H4.md), 2021-02-10. [▶ 10:25](https://youtu.be/JVLMN7939H4?t=625)
+[^JVLMN7939H4-653]: [Volcanic Mine Guide (AFK 70k-90k Mining XP/HR)](videos/2021-02-10_JVLMN7939H4.md), 2021-02-10. [▶ 10:53](https://youtu.be/JVLMN7939H4?t=653)
+[^JVLMN7939H4-686]: [Volcanic Mine Guide (AFK 70k-90k Mining XP/HR)](videos/2021-02-10_JVLMN7939H4.md), 2021-02-10. [▶ 11:26](https://youtu.be/JVLMN7939H4?t=686)
+[^JVLMN7939H4-713]: [Volcanic Mine Guide (AFK 70k-90k Mining XP/HR)](videos/2021-02-10_JVLMN7939H4.md), 2021-02-10. [▶ 11:53](https://youtu.be/JVLMN7939H4?t=713)
+[^JVLMN7939H4-746]: [Volcanic Mine Guide (AFK 70k-90k Mining XP/HR)](videos/2021-02-10_JVLMN7939H4.md), 2021-02-10. [▶ 12:26](https://youtu.be/JVLMN7939H4?t=746)
+[^JVLMN7939H4-563]: [Volcanic Mine Guide (AFK 70k-90k Mining XP/HR)](videos/2021-02-10_JVLMN7939H4.md), 2021-02-10. [▶ 9:23](https://youtu.be/JVLMN7939H4?t=563)
 
 <div class="navbox" markdown="1" data-search-exclude>
 <div class="navbox-title">Activities</div>

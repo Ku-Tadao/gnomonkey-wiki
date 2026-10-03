@@ -118,10 +118,10 @@ Gnomonkey considers stackable resources probably the biggest change ([^6tsf-brc-
 ## See also
 
 * [Corrupted Hunllef](Corrupted_Hunllef.md)
+* [Ghommal's lucky penny](Ghommal's_lucky_penny.md)
 * [Rosewood blowpipe](Rosewood_blowpipe.md)
 * [Pets](Pets.md)
 * [Player versus player](Player_versus_player.md)
-* [Ghommal's lucky penny](Ghommal's_lucky_penny.md)
 * [Sanguinesti staff](Sanguinesti_staff.md)
 
 ## References
