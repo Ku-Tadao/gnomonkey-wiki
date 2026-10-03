@@ -1,0 +1,251 @@
+{
+  "id": "lJexGv6dxu8",
+  "title": "PVM to PVP: My DMM Allstars Experience (OSRS)",
+  "date": "2026-06-25",
+  "type": "other",
+  "summary": "A long 'dear diary' retrospective from Gnomonkey after returning from the Deadman Mode Allstars finale in Chicago with the Odablock Warriors. He covers the event's reception and his Twitch growth, why the Odablock Warriors started so badly, his role grinding Tombs of Amascut for fangs, the stream sniping and ref controversies, a breakdown of his two finale fights, changes he wants for next year, and a comparison of PvM and PvP.",
+  "outline": [
+    {"t": 0, "text": "Intro: back from Deadman Allstars in Chicago, outline of the video"},
+    {"t": 32, "text": "Twitch growth during the event and the community's support"},
+    {"t": 196, "text": "Photos with content creators at the event"},
+    {"t": 254, "text": "Why the Odablock Warriors were underdogs: draft and skill-set mismatch"},
+    {"t": 448, "text": "Evscape's original plan and why it was changed (gauntlets and ice barrage)"},
+    {"t": 505, "text": "How the new plan failed: Ice Giants versus Green Dragons"},
+    {"t": 568, "text": "Playing from behind, the oak tree with dead roots speech and skipping breaches"},
+    {"t": 802, "text": "Gnomonkey becoming the team's economy: Coliseum, Tombs of Amascut and Hunter"},
+    {"t": 925, "text": "The 61M attack, taking a break and the Zamorak spear moment"},
+    {"t": 1049, "text": "Response to criticism of his emotional moment on stream"},
+    {"t": 1140, "text": "The turnaround: each teammate's contribution to building a foundation"},
+    {"t": 1232, "text": "How hard the week was: 18 hour days, sleep, weight loss"},
+    {"t": 1380, "text": "Stream delay, stream sniping allegations and ref decisions"},
+    {"t": 1654, "text": "Last half of the week: Tombs of Amascut for fangs and criticism of his role"},
+    {"t": 1864, "text": "Escorts, the dangers of exiting Tombs of Amascut, and his PvP experience"},
+    {"t": 2159, "text": "Drops pulled from Tombs of Amascut and Chambers of Xeric, and why he stayed on PvM duty"},
+    {"t": 2251, "text": "Breaches and missions: Varlamore breach, Victim Has It, the Inferno and Coliseum"},
+    {"t": 2472, "text": "Not blaming teammates and willingness to do Deadman again"},
+    {"t": 2558, "text": "Finale fight 1: Gnomonkey versus Mika and Zuriel's staff blood barrage"},
+    {"t": 3068, "text": "Finale fight 2: Gnomonkey versus Coxie and Skilly specs, plus analysis"},
+    {"t": 3803, "text": "Changes for next year: downtime, mission count, finality sigil, safe zone, captains"},
+    {"t": 4013, "text": "PvM versus PvP comparison and perfect PvP bots"},
+    {"t": 4163, "text": "Closing and Blood Moon Rises World's First announcement"}
+  ],
+  "topics": [
+    {
+      "name": "Deadman Mode",
+      "kind": "activity",
+      "claims": [
+        {"t": 0, "kind": "event", "text": "Gnomonkey returned from the Deadman Mode Allstars finale in Chicago, where his team, the Odablock Warriors, did not win."},
+        {"t": 1232, "kind": "stat", "text": "Deadman Allstars had a 120 hour play cap over eight days, which Gnomonkey says meant 18-hour play days for his team versus about 14 hours for other teams, plus 20 to 30 hours logged out discussing plans, so he estimates about 150 hours total."},
+        {"t": 1260, "kind": "stat", "text": "Gnomonkey streamed 18 hours a day on usually two to four hours of sleep, lost 13 pounds from stress, and fell asleep face down on the carpet for three hours after the last day."},
+        {"t": 1380, "kind": "event", "text": "Players voted on whether to use a stream delay in Deadman Allstars and voted no; Gnomonkey voted no but says he would vote yes next time, even for a three-minute chat delay."},
+        {"t": 1598, "kind": "event", "text": "During the victim mission a ref made a bad call and everybody killed someone who did not have the totem the ref claimed they had; Mammal was punished for dropping the totem."},
+        {"t": 1626, "kind": "opinion", "text": "Gnomonkey says refs let captains decide their own punishments, that captains should not decide punishments, and that all teams should have been punished equally for their infractions rather than only Mammal."},
+        {"t": 2251, "kind": "event", "text": "At the Varlamore breach the Odablock Warriors held a very solid position, lost a couple of people to the Westham Weasels at the end, and got a lot of tier five totems, which finally got Odablock and Dubies their prayers."},
+        {"t": 2282, "kind": "event", "text": "In the Victim Has It mission the Odablock Warriors sat on the outskirts casting barrages at clumps of players and still had all five alive at the end, and Perp stole the VLS in a power move."},
+        {"t": 2444, "kind": "event", "text": "Odablock killed Lake in the last hour of the week, which got the team six blood money for brews and venge trinkets; Gnomonkey says he saved the team about 10 of their 40 blood money by pulling prayer scrolls from Chambers of Xeric."}
+      ]
+    },
+    {
+      "name": "Opinion: Deadman Mode changes",
+      "kind": "opinion",
+      "claims": [
+        {"t": 3803, "kind": "opinion", "text": "Gnomonkey wants minimum downtime of eight to ten hours in Deadman Allstars, because six hours of downtime led teams to play the full 18 hours and adrenaline meant it took about two hours to wind down, leaving two to four hours of sleep."},
+        {"t": 3831, "kind": "opinion", "text": "Gnomonkey notes other players suggested removing the play cap and downtime entirely so players could go 30+ hour streams early and normal hours later, and says he liked the day off and wants two or three of them."},
+        {"t": 3863, "kind": "opinion", "text": "Gnomonkey says every day except the last had two missions and a breach, which was too much because a team wipe costs hours of recovery, and he would have fewer or more spread-out missions."},
+        {"t": 3893, "kind": "opinion", "text": "Gnomonkey says players had to stay logged in whenever a breach or mission was happening to avoid losing ground, which made naps very difficult."},
+        {"t": 3925, "kind": "opinion", "text": "Gnomonkey would remove the finality sigil next time and prefer normal multi fights, because the sigil guarantees your next special attack lands, making low-accuracy specs like Arcane blades, AGS and javelin spam insanely broken."},
+        {"t": 3955, "kind": "opinion", "text": "Gnomonkey liked that most areas were not safe except Varrock, but would have added a small safe zone at the Warriors Guild so tired players could train or chill without being on edge."},
+        {"t": 3981, "kind": "opinion", "text": "Gnomonkey suggests rookies or planners such as Foe could be captains instead of the best PvPers, so people with clear insight into the game lead."},
+        {"t": 4163, "kind": "opinion", "text": "Gnomonkey says he would do Deadman again, but hopes nobody picks him in the second row again and would be happier in the third or fourth row with lower expectations."}
+      ]
+    },
+    {
+      "name": "Odablock Warriors",
+      "kind": "other",
+      "claims": [
+        {"t": 254, "kind": "opinion", "text": "Gnomonkey says the Odablock Warriors were underdogs and had probably the most deaths in Deadman history, which he attributes to a skill-set mismatch in the draft."},
+        {"t": 254, "kind": "opinion", "text": "Gnomonkey says captain Odablock is insanely good at PvP and fairly good at PvM but is not super good at delegating roles."},
+        {"t": 283, "kind": "opinion", "text": "Gnomonkey says Raikesy is incredibly good at PvP but struggled with early Ironman routing and quick early-game gearing."},
+        {"t": 283, "kind": "opinion", "text": "Gnomonkey says Evscape did a very good job grinding Doom without drops, doing the grinds nobody else wanted, and was the backbone of the team."},
+        {"t": 316, "kind": "opinion", "text": "Gnomonkey says Dubie Dobies is an insanely good NH player and was the team's first pick, but is less suited to Ironman-style gearing and planning, and never had gear to shine until the finale."},
+        {"t": 350, "kind": "opinion", "text": "Gnomonkey says he was picked second row by Odablock only because Odablock thought he would not be available later, with very little PvP and no Deadman experience beyond about two days of seasonal Deadman."},
+        {"t": 383, "kind": "opinion", "text": "Gnomonkey says Odablock should have picked Mika (strong planning and shot-calling in multi) and Mutz (more Deadman and PvP experience, and capable of all of Gnomonkey's PvM) instead of him and Dubie Dobies."},
+        {"t": 568, "kind": "opinion", "text": "Gnomonkey says the Odablock Warriors were used to playing ahead, with winner mentalities, so they struggled to pivot after being killed early; the team included two-time winner Rexy and Evscape and Dubies from Bodhi's team."},
+        {"t": 601, "kind": "event", "text": "Early on the Odablock Warriors put all their resources into Odablock, with temporary grinds, instead of grinding skills and quests, which put them further behind."},
+        {"t": 628, "kind": "event", "text": "Gnomonkey gave a speech comparing the team to a big oak tree with dead roots that any wind knocks over, arguing they needed to fortify, skip breaches and rebuild, but the team struggled to do it."},
+        {"t": 657, "kind": "opinion", "text": "Gnomonkey says the team played for content and fun, chasing every breach and mission, which made the slow, boring rebuilding strategy unattractive."},
+        {"t": 1140, "kind": "event", "text": "After the plan changed, the Odablock Warriors stopped feeding Odablock every resource, raised stats, did quests and built a foundation, and Gnomonkey says it started working and they might have won if they had done it earlier."},
+        {"t": 1168, "kind": "event", "text": "Odablock got all five Zenyte shards quickly on his own, Raikesy got toxic staffs and a blowpipe from Zulrah and several Serp helms, Dubie Dobies kept the team stocked with Barrows and Moons gear and got the team's one Void Waker after a long grind, and Gnomonkey farmed Tombs of Amascut for fangs."},
+        {"t": 2472, "kind": "opinion", "text": "Gnomonkey says he does not hate or blame any teammate; Raikesy did not know how to make a pie, Evscape had terrible gear and bad Doom luck, Dubies could not do other PvM tasks, and Odablock had to PK to get the team blood money."}
+      ]
+    },
+    {
+      "name": "Evscape's plan",
+      "kind": "other",
+      "claims": [
+        {"t": 448, "kind": "event", "text": "Evscape's original plan, worked on for several months before Deadman, was to rush Arcane blades and have five of them before the first breach."},
+        {"t": 448, "kind": "event", "text": "The team changed the plan a couple of days before the event after finding that gauntlets did not work with Ice Barrage, which devalued the Doom grind."},
+        {"t": 505, "kind": "event", "text": "The replacement plan was cobbled together at the last minute, and Evscape himself said he did not fully trust it; it worked okay in practice but there were no enemy teams to fight against."},
+        {"t": 505, "kind": "method", "text": "The replacement plan was to send three players to the Ice Giants in the Deep Wilderness, kill them with fire spells using the starter staff, train Magic, use big bones at the Chaos Altar for overhead prayers, then rush toward Wilderness agility."},
+        {"t": 539, "kind": "event", "text": "Other teams went to the Green Dragons for prayer first, since about six dragon bones give overheads, and rushed and killed the Odablock Warriors, which Gnomonkey calls a naive plan that expected nobody to come."}
+      ]
+    },
+    {
+      "name": "Confliction gauntlets",
+      "kind": "item",
+      "claims": [
+        {"t": 448, "kind": "event", "text": "Mod Ash found in the gauntlets' code that the barrage effect applied only to the target being cast at, and noted that the code was not checking for ice spells."},
+        {"t": 479, "kind": "stat", "text": "After testing three to four thousand casts, Gnomonkey's team found Ice Barrage was getting 7% less accuracy than it should with gauntlets, while blood barrage worked normally, so ice spells do not work with the gauntlets even in PvM."},
+        {"t": 505, "kind": "opinion", "text": "Gnomonkey says gauntlets were not very good for the finale because freezing the opponent adds a lot of damage in PvP, so the team decided Doom was not as valuable and did not need to be rushed."}
+      ]
+    },
+    {
+      "name": "Tombs of Amascut",
+      "kind": "raid",
+      "claims": [
+        {"t": 802, "kind": "method", "text": "Gnomonkey locked himself into Tombs of Amascut for most of the week because the Kirus partisan gems alch for 180k, its drops give good GP, and all the purples alch for a lot, making him effectively the team's economy."},
+        {"t": 802, "kind": "stat", "text": "Tombs of Amascut gem drops are boosted, and the Kirus partisan gems alch for 180k."},
+        {"t": 834, "kind": "stat", "text": "Raids give 3x XP instead of 15x in Deadman instances, one fifth the XP, so Gnomonkey's stats stayed very low while he provided GP for the team."},
+        {"t": 1680, "kind": "opinion", "text": "Gnomonkey says fangs or Galiths were necessary for the finale, that he was the only teammate who could do Tombs of Amascut semi-efficiently in rag gear, and that he calculated about 12 hours per fang, so five fangs would take 60 hours."},
+        {"t": 1736, "kind": "requirement", "text": "Gnomonkey entered Tombs of Amascut with only Earth wave as his mage and a four-tick Zombie axe, and did about a 165 raid level before getting the fang and moving on to 300s."},
+        {"t": 1765, "kind": "opinion", "text": "Gnomonkey says the best level to grind for fangs in Deadman is about a 350 raid level, which Lake agreed with, and that Lake only did one 500 to flex on the enemy team."},
+        {"t": 1799, "kind": "event", "text": "Odablock killed Framed mid-week, who dropped an Eye of Ayak and a Light Bearer, which Gnomonkey says shaved about five minutes off every raid."},
+        {"t": 1830, "kind": "event", "text": "Server lag cost Gnomonkey about a tick every other room, with 450 ping spikes in Akkha and Warden, and he took about 80 damage in an Akkha memory puzzle."},
+        {"t": 1830, "kind": "tip", "text": "Each wiped raid costs about 30 minutes of the roughly 60 total hours of raiding needed to get the team's items, and each trip also required a teammate to scout and run him back to the raid."},
+        {"t": 1977, "kind": "tip", "text": "Gnomonkey says exiting Tombs of Amascut safely is impossible: on exit the fade-in resets stats to base 99 hit points and removes overheal, and the reward room is Deep Wilderness so you cannot teleport out before exiting."},
+        {"t": 2031, "kind": "tip", "text": "A player exiting Tombs of Amascut has a few ticks where they cannot pray or eat, so enemies spam-clicking the exit tile can land a Void Waker (over 80) then an instant granite maul (about 60) and kill them, which is why exiting without a scout is a hard chance."},
+        {"t": 2159, "kind": "record", "text": "Gnomonkey pulled four fangs, two Masori masks, a Shadow and Masori legs from Tombs of Amascut during the week."}
+      ]
+    },
+    {
+      "name": "Osmumten's fang",
+      "kind": "item",
+      "claims": [
+        {"t": 1680, "kind": "opinion", "text": "Gnomonkey says that in the finale if you did not have fangs or Galiths you basically lose, which is why the Odablock Warriors prioritised getting fangs."},
+        {"t": 1709, "kind": "opinion", "text": "Gnomonkey says the team never planned to do quests or Slayer, so they had no plan for quests that would have been solid for getting a Purging staff, or for Dragon Slayer 2 for dragon crossbows, and so they had to get fangs without questing."},
+        {"t": 2222, "kind": "event", "text": "The Odablock Warriors got four of their five needed fangs before Odablock told Gnomonkey to stop Tombs of Amascut and move to Chambers of Xeric."}
+      ]
+    },
+    {
+      "name": "Chambers of Xeric",
+      "kind": "raid",
+      "claims": [
+        {"t": 2222, "kind": "record", "text": "In Chambers of Xeric Gnomonkey pulled three scrolls, the final prayer scroll the team needed, and on the final day Ancestral robe bottoms and a dragon hunter crossbow, which were huge for the finale."},
+        {"t": 2444, "kind": "stat", "text": "Gnomonkey says getting prayers from Chambers of Xeric saved the team about 10 blood money out of their total 40."}
+      ]
+    },
+    {
+      "name": "Hunter",
+      "kind": "skill",
+      "claims": [
+        {"t": 865, "kind": "method", "text": "At one point Gnomonkey pivoted to Hunter in Deadman to get moths because the team was out of prayer, then mixed hide for ranged gear, sunlight antelope crossbows (sunlight crossbows) and chinchompas for ranged levels."},
+        {"t": 897, "kind": "tip", "text": "Gnomonkey says the 99 Hunter cape teleport to the Hunter Guild was a very safe bank teleport since he never saw anyone there, and the daily teleports to black chinchompas were good for reaching revenants."}
+      ]
+    },
+    {
+      "name": "Fortis Colosseum",
+      "kind": "activity",
+      "claims": [
+        {"t": 802, "kind": "tip", "text": "Gnomonkey chose the Colosseum for GP because it is incredibly good GP and basically safe: if someone attacks you outside, you can go right back in, and tanking one freeze is enough to escape."},
+        {"t": 2379, "kind": "event", "text": "Odablock escorted Gnomonkey to the Colosseum and camped outside while Gnomonkey completed the Colosseum mission, scaring off Lake."},
+        {"t": 2411, "kind": "event", "text": "Gnomonkey died once on his first Colosseum attempt after anti-flicking a Manticore with Relentless 3, then got a four stack on the next run, and eventually got three souls for a second corrupted Void Waker."}
+      ]
+    },
+    {
+      "name": "Inferno",
+      "kind": "activity",
+      "claims": [
+        {"t": 2313, "kind": "event", "text": "Gnomonkey almost did not attempt the Inferno mission because other teams had corrupted twisted bows, but Raikesy having a blowpipe meant the team had rune darts, which pushed him to try."},
+        {"t": 2313, "kind": "method", "text": "Gnomonkey did the Inferno mission with his rune crossbow and bolts made for Nex, while Evscape scouted the area naked beforehand and saw nobody, since the TzHaar area is multi-combat and dangerous."},
+        {"t": 2347, "kind": "opinion", "text": "Gnomonkey considers the Inferno run his best moment in all of Deadman, perhaps in Deadman history for PvM clips, and says he doubts anyone else in the draft could have got the cape first try with his gear and speed."},
+        {"t": 2347, "kind": "trivia", "text": "Gnomonkey learned that Mutz was only 10 minutes behind him on the Inferno mission, and says Mutz would have taken the mission if he had not used speedrun Inferno tactics and dangerous plays."},
+        {"t": 132, "kind": "event", "text": "Fifteen to twenty people told Gnomonkey at the event that he got them their Fire cape or that his Inferno run inspired them to start going for it."}
+      ]
+    },
+    {
+      "name": "Deadman Allstars finale",
+      "kind": "other",
+      "claims": [
+        {"t": 2558, "kind": "event", "text": "Gnomonkey fought Mika from the Westham Weasels in the finale for his row; Mika is arguably the best PvPer in that row, and there was a giant gear difference."},
+        {"t": 2617, "kind": "event", "text": "Mika used both Void Wakers to finish Raikesy, who was on 65 hitpoints with a fang spec, before fighting Gnomonkey; Gnomonkey calls this a smart play."},
+        {"t": 2650, "kind": "method", "text": "Mika wore a Zuriel's staff and Malediction ward and spammed only mage with blood barrage, since Zuriel's increases blood barrage efficiency by 50% and healing does not change even if the barrage is prayed against."},
+        {"t": 2716, "kind": "opinion", "text": "Gnomonkey says his gear had dragon boots and a crystal shield, both with negative magic accuracy, so he splashed a lot when forced to mage, and that sitting in the dead centre of the arena was exactly where Mika wanted him."},
+        {"t": 2743, "kind": "opinion", "text": "Gnomonkey says he went for javelins like an idiot while Mika outranged them, when crossbow might have reached and done a lot of damage."},
+        {"t": 2828, "kind": "opinion", "text": "Gnomonkey says his biggest mistake, which the refs would not let him change, was not having a Karil's skirt, which would have given much more magic defence and might have let him win the fight."},
+        {"t": 2925, "kind": "stat", "text": "Gnomonkey died to a 27 barrage after running out of food while getting Mika almost completely out of food; the stats showed Mika dealt 666 damage to Gnomonkey's 229, with 103 attacks versus 44."},
+        {"t": 2983, "kind": "stat", "text": "Mika healed 154 total health with blood barrage, which Gnomonkey says is probably the most healing in any finale fight, equal to two and a half extra brews, versus 15 healed by Gnomonkey."},
+        {"t": 3037, "kind": "opinion", "text": "Gnomonkey says he made mistakes in the Mika fight, such as not dumping his spec early with a javelin spec, dying with 75% spec left, and forgetting a final venge, but played okay considering the gear difference."},
+        {"t": 3068, "kind": "event", "text": "In the second finale fight Gnomonkey fought Coxie, who had extremely lucky RNG; Gnomonkey says he played great, but lost, and Coxie apologised afterwards for how good his RNG was."},
+        {"t": 3166, "kind": "stat", "text": "The opposing team landed many freezes with Purging staff, which has about 35 magic accuracy, and Mystic boots, giving them slightly higher magic accuracy than the Odablock Warriors in Blue Moon and dragon boots."},
+        {"t": 3510, "kind": "stat", "text": "In the Coxie fight Gnomonkey had 46 total attacks, 28 off prayer, about 15 off prayer and on robes, and only 171 damage despite many fang specs, with a freeze success of 3 out of 15."},
+        {"t": 3542, "kind": "method", "text": "Against Skilly specs, Gnomonkey planned to venge, full tank the opening VLS special and then hit an AGS special to KO him, but he had used both venge trinkets on Coxie and could not execute it."},
+        {"t": 3743, "kind": "opinion", "text": "Gnomonkey says the Odablock Warriors lost partly because Odablock faced Skilly with half his food and then had to kill Perp as well, with a gear gap, and says every team played to win and played very well."},
+        {"t": 3776, "kind": "opinion", "text": "Gnomonkey says he is happy with his finale because he was not KO'd with food, which was his only condition for coming home happy."}
+      ]
+    },
+    {
+      "name": "Blood Barrage",
+      "kind": "mechanic",
+      "claims": [
+        {"t": 2650, "kind": "stat", "text": "Gnomonkey says Zuriel's staff increases blood barrage efficiency by 50% and that blood barrage heals the same amount even if it is prayed against."},
+        {"t": 3010, "kind": "opinion", "text": "Gnomonkey says Mika's strategy of pure blood barrage mage with Zuriel's staff was the right play against a team with only javelins and no ACBs, and he cannot blame him for it."}
+      ]
+    },
+    {
+      "name": "Void Waker",
+      "kind": "item",
+      "claims": [
+        {"t": 1799, "kind": "tip", "text": "Gnomonkey says Void Waker is an okay stab weapon with a very good spec and 10% more damage, hitting well over 80."},
+        {"t": 1168, "kind": "event", "text": "Dubie Dobies went very unlucky on the Void Waker grind but got the team one Void Waker, and Gnomonkey got a second corrupted Void Waker from the Colosseum, which helped because the team was dry on Void Wakers."}
+      ]
+    },
+    {
+      "name": "Gnomonkey",
+      "kind": "person",
+      "claims": [
+        {"t": 32, "kind": "stat", "text": "Gnomonkey says his Twitch rank went from about 2000 overall to 516 after the Deadman event, and he gained 6,300 subscriptions, over four times his previous all-time peak of around 1500."},
+        {"t": 66, "kind": "event", "text": "At the event Gnomonkey took hundreds of pictures with fans and received gifts including a hand-printed air traffic control flight strip, a custom holo magic card of him in a twisted bow, and a framed picture of him against Zuk."},
+        {"t": 66, "kind": "trivia", "text": "Gnomonkey did air traffic control training and failed it."},
+        {"t": 163, "kind": "event", "text": "Gnomonkey credits his wife for doing videos and for supporting the chat, and says he could not do what he does without his community."},
+        {"t": 925, "kind": "event", "text": "Early in Deadman, completely exhausted with a two-tick reaction time, Gnomonkey was attacked by 61M in the tunnel to the Grand Exchange fairy ring and took a 32 barrage and two 30s from a dragon dagger spec on the same hitsplat due to PID swap, losing a lot of gear."},
+        {"t": 985, "kind": "event", "text": "Gnomonkey logged out for two hours, and returned to find the team killing Zamorak at God Wars to get him a Zamorak spear for Tombs of Amascut, which got it on the first kill count and made him emotional on stream."},
+        {"t": 1049, "kind": "opinion", "text": "Gnomonkey says people should not judge others for emotional responses to things they care about, after criticism of his breakdown on stream, noting players were on 18-hour days and sleep deprived."},
+        {"t": 1083, "kind": "trivia", "text": "Gnomonkey says he has worked as a ditch digger in Arizona heat, a plumber, in retail, at McDonald's and Target, and as an air traffic control trainee, and calls Deadman the hardest thing he has ever done."},
+        {"t": 1140, "kind": "opinion", "text": "Gnomonkey says he made tons of misplays as a rookie, including suggesting the team go fishing at Caramwan, but was trying to find anything that moved the team forward."},
+        {"t": 1864, "kind": "stat", "text": "Gnomonkey says he has about three months of PvP experience in total, trained with Kyle (AIIQ), did a few fights for Vanks and HFC, and trained with Odablock for about half an hour."},
+        {"t": 2098, "kind": "opinion", "text": "Gnomonkey says he put ego aside to do what the team needed, such as Hunter and grinding mixed hide, because he is strong at PvM and it would have been silly to put the best PvMer in the draft on PvP duty when behind."},
+        {"t": 4193, "kind": "event", "text": "Gnomonkey says he does not think he is ready to be a captain because he lacks PvP experience, though he considers himself a really good leader and might be ready next time."}
+      ]
+    },
+    {
+      "name": "Opinion: PvM versus PvP",
+      "kind": "opinion",
+      "claims": [
+        {"t": 4013, "kind": "opinion", "text": "Gnomonkey says PvM and PvP overlap a lot but are not the same: PvM is about understanding the tick system, solid movement and accurate execution, with a correct solve for every Inferno wave."},
+        {"t": 4070, "kind": "trivia", "text": "Gnomonkey fought a perfect PvP bot, which one-ticks every barrage, never sits in robes, keeps maximum tank armour uptime, predicts patterns, fakes attacks to land hits off prayer, and does two-to-one melee hits with proper PID."},
+        {"t": 4099, "kind": "opinion", "text": "Gnomonkey says PvP requires less reaction time than most people think and much more prediction and pattern recognition on the fly, with a very high skill ceiling; attacks are one-ticked, so you cannot react to them like a PvMer catching an attack."},
+        {"t": 4131, "kind": "tip", "text": "Gnomonkey says in PvP, playing oddly can throw opponents off, for example holding an AGS for six ticks, because a good PKer one-ticks specs."},
+        {"t": 4163, "kind": "opinion", "text": "Gnomonkey compares high-level PvM to a slower game of chess and PvP to bullet chess, saying PvP rewards momentum and punishes mistakes while PvM rewards recovery and pre-planning, and that strong PvMers can transition to PvP by minimizing tick loss and damage taken."}
+      ]
+    },
+    {
+      "name": "Stream sniping",
+      "kind": "other",
+      "claims": [
+        {"t": 1412, "kind": "event", "text": "Early in the event Odablock was attacked by Frame's team at Spider Hill while losing all his gear on a spider task, and Odablock pulled up stream clips, against the rules, implying Pip was stream sniping."},
+        {"t": 1445, "kind": "opinion", "text": "Gnomonkey does not think the Spider Hill attack was stream sniping, since there are three Mage Arena 2 hotspots near Spider Hill, and says the incident led to a lot of harassment of Frame's team."},
+        {"t": 1478, "kind": "event", "text": "Gnomonkey was training melee on spiders on Spider Island when Skidler teleported in via the fairy ring to try to kill him; Gnomonkey had counted the ticks to the fairy ring beforehand and escaped, so he says it was not stream sniping."},
+        {"t": 1510, "kind": "event", "text": "Genuine stream sniping occurred when Torvesta relayed a chat hopper's message to check Edgeville Dungeon, where Odablock was killing black demons; Reese's team drained him to two brews and camped him there for about two hours."},
+        {"t": 1565, "kind": "event", "text": "Refs stepped in because the information came from a chat hopper and let Odablock go; Gnomonkey says Reese's team wasted two hours across their team."}
+      ]
+    },
+    {
+      "name": "Update: Blood Moon Rises",
+      "kind": "update",
+      "claims": [
+        {"t": 4193, "kind": "event", "text": "Gnomonkey announces that Blood Moon Rises is coming on the following Tuesday and that he will be rushing World's First on Twitch, Kick and YouTube the instant the update goes live."},
+        {"t": 4193, "kind": "opinion", "text": "Gnomonkey says the Jagex mods seem really excited about Blood Moon Rises, which makes him extra hyped."}
+      ]
+    }
+  ]
+}

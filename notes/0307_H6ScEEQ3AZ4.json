@@ -1,0 +1,72 @@
+{
+  "id": "H6ScEEQ3AZ4",
+  "title": "ONE OF THE BEST DMM ALLSTARS MOMENTS (OSRS)",
+  "date": "2026-06-14",
+  "type": "challenge",
+  "summary": "Gnomonkey completes the Inferno in the Deadman Mode Allstars event with almost no gear (90 Ranged, no prayers, limited bolts and darts, paper armour) while the TzHaar area is multi-combat and enemy teams could kill him outside. He kills TzKal-Zuk with the very last shot, earns a Corrupted weapon and calls it the best moment of his OSRS career.",
+  "outline": [
+    {"t": 0, "text": "Preparing for Zuk: avoiding melee flicking, trapping healers and running through to the boss"},
+    {"t": 172, "text": "TzKal-Zuk battle begins, with Ruby bolts used on the boss"},
+    {"t": 358, "text": "Executing the final burn: brewing, bolt choice and Jad damage"},
+    {"t": 868, "text": "Victory: Zuk dies, the kill count registers and Gnomonkey teleports out"},
+    {"t": 1076, "text": "Post-game reflection and choosing the Corrupted weapon reward"}
+  ],
+  "topics": [
+    {
+      "name": "TzKal-Zuk",
+      "kind": "boss",
+      "claims": [
+        {"t": 172, "kind": "event", "text": "In the Deadman Mode Allstars mission, Gnomonkey fights TzKal-Zuk inside the Inferno with no proper gear: 90 Ranged, no prayers, limited bolts and darts, and paper armour."},
+        {"t": 180, "kind": "opinion", "text": "Gnomonkey says the damage from the Jads was bad, but Ruby bolts are very good against TzKal-Zuk."},
+        {"t": 506, "kind": "tip", "text": "Once TzKal-Zuk is below about 340 health, Gnomonkey says he cannot shoot the crossbow anymore, then finds he still can and that it hits about 80."},
+        {"t": 506, "kind": "method", "text": "Gnomonkey uses diamond bolts for the last stretch of the TzKal-Zuk fight and brews up before continuing."},
+        {"t": 567, "kind": "tip", "text": "During the TzKal-Zuk fight Gnomonkey tells himself to save the shield and to kill Zuk first, worrying about other damage afterwards."},
+        {"t": 1175, "kind": "tip", "text": "Gnomonkey explains that the TzKal-Zuk shield has a long death animation, so while it is dying it still blocks one more shot, which is what happened to his shot at the end."},
+        {"t": 1237, "kind": "record", "text": "Gnomonkey says he hit about seven zeros in the final DPS race and the very last shot killed TzKal-Zuk, with 10 prayer points, no restore, no range potion, Zuk at 100 health and the next set of monsters spawning."}
+      ]
+    },
+    {
+      "name": "Inferno",
+      "kind": "activity",
+      "claims": [
+        {"t": 0, "kind": "event", "text": "The Deadman Mode Allstars mission of the day was to defeat TzKal-Zuk inside the Inferno, with a Corrupted weapon of the player's choice as the reward."},
+        {"t": 0, "kind": "opinion", "text": "Gnomonkey says the TzHaar area is multi-combat, making it extremely dangerous to even enter the Inferno, and that one mistake could mean being killed outside by a waiting team with no time to retry."},
+        {"t": 122, "kind": "tip", "text": "While running through the Inferno toward Zuk, Gnomonkey says that if he cannot trap the healers again he has to run through, and asks for a healer trap behind him."},
+        {"t": 0, "kind": "opinion", "text": "Gnomonkey says this Inferno run was the best moment of his life of playing OSRS, better than any world first or his sub-40 Inferno."},
+        {"t": 961, "kind": "opinion", "text": "A teammate calls it the most insane Inferno they have ever witnessed, and Gnomonkey says it was the most insane Inferno he has ever done."},
+        {"t": 1141, "kind": "opinion", "text": "Gnomonkey says he played the run flawlessly apart from the Jads taking all of his prayer points."}
+      ]
+    },
+    {
+      "name": "Deadman Mode",
+      "kind": "activity",
+      "claims": [
+        {"t": 0, "kind": "event", "text": "The Deadman Mode Allstars team had no gear for the whole week, which Gnomonkey says made the Inferno mission extremely dangerous."},
+        {"t": 0, "kind": "opinion", "text": "Gnomonkey says that in hindsight the Corrupted weapon reward was not really worth the risk of the Inferno mission, but the moment itself made it worth it."},
+        {"t": 776, "kind": "tip", "text": "After killing Zuk a teammate tells Gnomonkey not to celebrate on the spot and to go to Draynor, then to grab a ring of returning and go to the Grand Exchange, because enemy teams are coming."},
+        {"t": 866, "kind": "event", "text": "Gnomonkey did not know whether the mission needed only the kill count or something more, and the team confirms the kill count registered after Zuk died."},
+        {"t": 993, "kind": "event", "text": "The team had already agreed beforehand to take a Corrupted Void Waker as the reward for the mission."},
+        {"t": 1141, "kind": "opinion", "text": "Gnomonkey says he hoped the mission was not both the Fire cape and the kill count, because the team does not share the cape; he was glad the kill count was enough."},
+        {"t": 1175, "kind": "opinion", "text": "Gnomonkey hopes this Inferno run redeems the team's last breach in Deadman Mode."}
+      ]
+    },
+    {
+      "name": "Crossbow bolts",
+      "kind": "item",
+      "claims": [
+        {"t": 180, "kind": "opinion", "text": "Gnomonkey considers Ruby bolts very good against TzKal-Zuk and keeps trying to land Ruby procs for burst damage."},
+        {"t": 506, "kind": "method", "text": "Gnomonkey switches to diamond bolts later in the TzKal-Zuk kill when Ruby procs stop landing."},
+        {"t": 743, "kind": "opinion", "text": "Near the end of the Zuk fight Gnomonkey says he would love a couple of bolt procs, but accepts he is not going to get another set."}
+      ]
+    },
+    {
+      "name": "Gnomonkey",
+      "kind": "person",
+      "claims": [
+        {"t": 0, "kind": "opinion", "text": "Gnomonkey says the Inferno run was better than any of his world firsts or his sub-40 Inferno, and that nothing compares to it."},
+        {"t": 1237, "kind": "tip", "text": "Gnomonkey says that even with 10 prayer points, no restore and no range potion, you should keep clicking at Zuk, because you do not know whether it is possible until you try."},
+        {"t": 1141, "kind": "trivia", "text": "Gnomonkey says he shakes a little after the run and had been very worried the game would not give him the kill."}
+      ]
+    }
+  ]
+}

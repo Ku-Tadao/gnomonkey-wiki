@@ -1,0 +1,88 @@
+{
+  "id": "8hDdqKnk2cw",
+  "title": "WHY BRONZEMAN MODE FAILED THE POLLS (OSRS)",
+  "date": "2026-08-21",
+  "type": "news-opinion",
+  "summary": "Gnomonkey explains why the Bronzeman Mode poll failed with 64% yes against the 70% required, blaming vague design, a single poll question, bundling Unbound Bronzeman, and unresolved integrity and dev-cost concerns rather than spite voters. He walks through Jagex's follow-up feedback survey, argues Bronzeman deserves a fairer re-poll, and says he would have voted yes if it were clearly Ironman without supply upkeep.",
+  "outline": [
+    {"t": 0, "text": "Bronzeman poll failure: 64% yes, 70% needed"},
+    {"t": 99, "text": "Addressing community backlash and blame on no voters"},
+    {"t": 178, "text": "Critique of the design, Unbound bundling and the poll format"},
+    {"t": 250, "text": "Mechanics: unlock definition, skipped skilling and PvM grinds"},
+    {"t": 486, "text": "Concerns over game mode identity and integrity (GE selling, bonds)"},
+    {"t": 756, "text": "Development cost and the burden on every future update"},
+    {"t": 918, "text": "Analysing Jagex's feedback survey options"},
+    {"t": 1142, "text": "Should Jagex re-poll Bronzeman and Unbound"},
+    {"t": 1281, "text": "What would have made Bronzeman a yes vote for Gnomonkey"},
+    {"t": 1403, "text": "Hardcore main servers and closing"}
+  ],
+  "topics": [
+    {
+      "name": "Poll: Bronzeman Mode",
+      "kind": "update",
+      "claims": [
+        {"t": 0, "kind": "event", "text": "The Bronzeman Mode poll failed, receiving 64% yes votes when 70% was needed to pass."},
+        {"t": 0, "kind": "event", "text": "After the failed poll, Jagex posted a new survey asking those who voted no why they did and what could be done better next time."},
+        {"t": 29, "kind": "event", "text": "Jagex's post said that even with a majority voting yes, the poll fell short of the required 70% super majority, and that Jagex could see poll results before they became public."},
+        {"t": 99, "kind": "opinion", "text": "Gnomonkey says he did not campaign against Bronzeman and was on the fence, and that blaming him or 'spite voters' for the failure is silly because people had real problems with the design."},
+        {"t": 178, "kind": "opinion", "text": "Gnomonkey says that if Jagex had addressed his concerns he could very easily have been swung to a yes vote."},
+        {"t": 319, "kind": "opinion", "text": "Gnomonkey says the vague single-question poll reeks of Jagex assuming it would pass easily and fleshing out details later, and that Bronzeman deserved its own blog instead of being packaged with the dog quest and crab quest, which had about four poll questions."},
+        {"t": 350, "kind": "opinion", "text": "Gnomonkey thinks the Bronzeman rollout looked rushed to secure more memberships, noting there was no mention of additional account slots."},
+        {"t": 1142, "kind": "opinion", "text": "Gnomonkey believes Jagex should re-poll Bronzeman because it screwed up the first poll, and should also re-poll Unbound Bronzeman with clarity, probably without highscores, even though he has seen people say a failed poll should never be re-polled."},
+        {"t": 1200, "kind": "opinion", "text": "Gnomonkey says polls on big additions like game modes should have many questions (maybe eight) and the blog should list all details instead of players digging through Discord, Reddit, Twitter or podcasts."}
+      ]
+    },
+    {
+      "name": "Bronzeman Mode",
+      "kind": "account",
+      "claims": [
+        {"t": 266, "kind": "opinion", "text": "Gnomonkey notes the blog never defined what an item unlock entails, and says details such as getting a potion drop from a clue scroll counting as an unlock were only discussed by a Jagex developer (J Mod) on a podcast and in Reddit replies."},
+        {"t": 383, "kind": "opinion", "text": "Gnomonkey says Bronzeman unlocks skip entire skilling grinds, for example one super combat drop would let you buy super combats without Herblore."},
+        {"t": 414, "kind": "opinion", "text": "Gnomonkey says Bronzeman would also skip PvM grinds, which he considers a bigger problem than skipping skilling, because PvM grinds are why people play ironman at all."},
+        {"t": 441, "kind": "stat", "text": "Gnomonkey lists items whose grinds Bronzeman would skip: one armor seed lets you buy all six, one enhanced seed lets you buy a Blade of Saeldor, one tormented synapse unlocks all Tormented Demon weapons, one burning claw lets you buy the other, one Venator shard lets you buy the other four, one Oathplate shard lets you buy a full Oathplate, and one Zenyte lets you buy all four Zenytes."},
+        {"t": 456, "kind": "tip", "text": "Gnomonkey suggests Jagex could have added a trade blacklist for items such as armor seeds, enhanced weapon seeds and synapses, polled as an option."},
+        {"t": 512, "kind": "opinion", "text": "Gnomonkey says Jagex calling it 'Iron Man Light' or 'Diet Iron' left no clear identity (Ironman without upkeep versus a main with few restrictions), making it easy for people to find something they disliked."},
+        {"t": 579, "kind": "opinion", "text": "Gnomonkey raises an integrity concern: a Bronzeman could sell a low-volume item on the Grand Exchange and a main could buy it for 100 million, effectively giving the Bronzeman unlimited GP."},
+        {"t": 642, "kind": "opinion", "text": "Gnomonkey says there was no mention of how bonds would work, and that restricting Bronzeman to buying only (no selling) would have solved both the low-volume item and bond problems."},
+        {"t": 753, "kind": "opinion", "text": "Gnomonkey argues Bronzeman is not zero dev cost, because every new boss drop, skilling update or dry-protection system (like Oathplate shards) must be considered for Bronzeman, comparing it to Ultimate Ironman needing consideration for updates like Sailing cargo."},
+        {"t": 804, "kind": "opinion", "text": "Gnomonkey says one option would be no highscores for Bronzeman so it is a purely for-fun mode that gets no future consideration."},
+        {"t": 1281, "kind": "opinion", "text": "Gnomonkey says he would have voted yes if Bronzeman were clearly Ironman without supply upkeep: no selling on the Grand Exchange, blacklisted shard and synapse items, and unlocks only once you have the level to make the item, so you never worry about Zulrah scales, blowpipe darts or dragon arrows."},
+        {"t": 1380, "kind": "opinion", "text": "Gnomonkey says less clearly defined in-between modes (play your own way with some restrictions) work better as a plugin, since an official mode becomes hard to balance."}
+      ]
+    },
+    {
+      "name": "Unbound Bronzeman",
+      "kind": "account",
+      "claims": [
+        {"t": 152, "kind": "opinion", "text": "Gnomonkey says bundling Unbound Bronzeman, the PvP variant that was the original purpose of the plugin, with regular Bronzeman in one brief paragraph with no explanation of integrity or item drops to other accounts was a mistake."},
+        {"t": 232, "kind": "opinion", "text": "Gnomonkey finds it unfair to the PvP community that Jagex dropped Unbound Bronzeman from the poll but kept regular Bronzeman."},
+        {"t": 1057, "kind": "opinion", "text": "In the survey, Gnomonkey would vote for an unranked Unbound Bronzeman with no highscores purely for fun, and says people who argued it doesn't affect them should vote that way."}
+      ]
+    },
+    {
+      "name": "Opinion: Voting no on content you won't use",
+      "kind": "opinion",
+      "claims": [
+        {"t": 83, "kind": "opinion", "text": "Gnomonkey says people can vote however they like, but thinks 'it doesn't affect me, so I vote no' is a weak, short-sighted reason, and that he votes no only when he thinks something is a bad addition to the game."},
+        {"t": 1018, "kind": "opinion", "text": "Gnomonkey says every single update affects every player in some way, so the argument that Bronzeman does not concern you is inaccurate."}
+      ]
+    },
+    {
+      "name": "Bronzeman feedback survey",
+      "kind": "update",
+      "claims": [
+        {"t": 918, "kind": "stat", "text": "Jagex's survey asked how much each reason contributed to a no vote, including that Old School doesn't need new game modes, the plugin already exists, it devalues existing Ironman modes, concerns about its impact on the Grand Exchange economy, unclear key design points, the poll coming too soon, membership costs for new characters, unbound being removed from the poll, and confusion about the poll."},
+        {"t": 990, "kind": "opinion", "text": "Gnomonkey says for him the biggest issue was that key design points were not clear before the poll, and that he finds the membership-cost reason very valid because you get one character per membership."},
+        {"t": 1062, "kind": "opinion", "text": "Gnomonkey expects the survey to show no single major problem, since Bronzeman sits between two game modes and everyone imagines it differently."}
+      ]
+    },
+    {
+      "name": "Hardcore main",
+      "kind": "account",
+      "claims": [
+        {"t": 1410, "kind": "opinion", "text": "Gnomonkey says hardcore main cannot be replicated with a plugin because he wants it on completely separate servers with a separate economy, and that putting it on the default world would affect the economy and not differ enough from hardcore Ironman."},
+        {"t": 1437, "kind": "opinion", "text": "Gnomonkey would like Jagex to try a temporary hardcore server with boosted drop and XP rates, like the Grid Master event, noting issues such as muling, bots and swapping, and says he would vote no a million times if it were packaged as an afterthought like Bronzeman was."}
+      ]
+    }
+  ]
+}

@@ -1,0 +1,82 @@
+{
+  "id": "U6bZhE88Tp0",
+  "title": "FINAL RAIDS 4 REWARD BLOG VOTING (OSRS)",
+  "date": "2026-07-30",
+  "type": "news-opinion",
+  "summary": "Gnomonkey reacts to the Raids 4 reward blog that moves the rewards to a poll. He goes through the new middle-ground Tzhaar-ket-breaker damage rolls, the reworked Zorya's Tome two-handed mage spec weapon, the Zeal requirement change and the breaker redesigns, and concludes the rewards are solid and ready to be added. He also praises Jagex's quick refinement process and the fact that every raid purple is useful.",
+  "outline": [
+    {"t": 0, "text": "Introduction: Raids 4 reward blog is now the poll blog"},
+    {"t": 22, "text": "Breaker weapon damage roll adjustments"},
+    {"t": 89, "text": "Zorya's Tome and Zeal changes"},
+    {"t": 200, "text": "Tome design and gear nuances"},
+    {"t": 240, "text": "Breaker visual redesigns"},
+    {"t": 337, "text": "Breaker charging and Nex balancing"},
+    {"t": 412, "text": "Reward philosophy: how useful each raid's purples are"},
+    {"t": 498, "text": "How Jagex refined the rewards"},
+    {"t": 560, "text": "Closing and Golden Gnome plug"}
+  ],
+  "topics": [
+    {
+      "name": "Poll: Raids 4 rewards",
+      "kind": "update",
+      "claims": [
+        {"t": 0, "kind": "event", "text": "The Raids 4 reward blog became the poll blog: Jagex felt the rewards were refined enough to go into the game and polled whether players are happy for them to be added."},
+        {"t": 0, "kind": "event", "text": "Gnomonkey notes the Rondache and Ascension crossbows remain unchanged from the last blog, since they were already balanced."},
+        {"t": 498, "kind": "opinion", "text": "Gnomonkey praises how efficiently Jagex refined the Raids 4 rewards: put out an initial reward blog, took feedback that the armor set and hybrid armor were poorly received, tried something else (Zeal), and went to the polls quickly without ignoring player feedback."},
+        {"t": 560, "kind": "opinion", "text": "Gnomonkey says he thinks the Raids 4 rewards are really solid at this point, expects all of them to be solid chase items with decent value, and is ready to see them in the game."}
+      ]
+    },
+    {
+      "name": "Tzhaar-ket-breaker",
+      "kind": "item",
+      "claims": [
+        {"t": 22, "kind": "event", "text": "In the second Raids 4 reward blog the Tzhaar-ket-breaker was felt to be too weak after its earlier nerf (it had been too strong in the first blog), and Jagex chose a middle ground."},
+        {"t": 29, "kind": "stat", "text": "The Tzhaar-ket-breaker now rolls damage two times by default, plus an extra roll for every melee defence that is higher than crush, so it rolls four times against an enemy weakest to crush."},
+        {"t": 29, "kind": "opinion", "text": "Jagex says the Tzhaar-ket-breaker still beats the Scythe of Vitur against enemies weakest to crush but is more competitive against neutral defence NPCs, though the Scythe should win out a little on neutral NPCs."},
+        {"t": 56, "kind": "opinion", "text": "Gnomonkey likes that the Tzhaar-ket-breaker does not completely invalidate the Scythe of Vitur but becomes usable in more situations than only crush-weak targets."},
+        {"t": 337, "kind": "stat", "text": "The Tzhaar-ket-breaker must be charged using a rune (not yet decided; Gnomonkey guesses nature runes) and Ascension shards obtained from the raid, like the Scythe of Vitur needs charging."},
+        {"t": 346, "kind": "event", "text": "Jagex will lower the Nex's crush defence so that the Tzhaar-ket-breaker becomes the new best in slot weapon at Nex and benefits from all of its damage rolls."},
+        {"t": 380, "kind": "opinion", "text": "Gnomonkey says that even before the buff the breaker was only slightly better than the Fang at Nex, but with the lowered crush defence it should be a heavy buff, worth wearing paper (Inquisitor's) armor to kill Nex faster."},
+        {"t": 240, "kind": "event", "text": "Jagex offered a ranked choice survey question pitting three distinct Tzhaar-ket-breaker concepts against each other; the redesigns Gnomonkey describes include a blue one with a holy aura and a green one with thorny gothic spikes and a green aura, compared with the original design."},
+        {"t": 320, "kind": "opinion", "text": "Gnomonkey's favourite breaker redesign is the green spiky ball, which he thinks matches the raid a little better, though he would be fine with any of them."}
+      ]
+    },
+    {
+      "name": "Zorya's Tome",
+      "kind": "item",
+      "claims": [
+        {"t": 89, "kind": "event", "text": "The Guthixian cane/Gatekeeper's cane was changed into a Guthixian book called Zorya's Tome, now a two-handed mage special attack weapon."},
+        {"t": 113, "kind": "stat", "text": "The Zorya's Tome special attack and subsequent buff now hit with 150% increased accuracy and 60% increased damage, up from 100% and 50%."},
+        {"t": 113, "kind": "stat", "text": "To compensate for becoming two-handed, Zorya's Tome's magic accuracy was raised to 45 from 30 and magic damage to 15% from 0%."},
+        {"t": 145, "kind": "opinion", "text": "Gnomonkey considers the Zorya's Tome change especially good for ironmen, because the spec no longer needs an upgraded ward (which requires an arcane and very high requirements and is one of the last upgrades on an iron)."},
+        {"t": 200, "kind": "opinion", "text": "Gnomonkey loves the look of Zorya's Tome, hopes the sigil on the book spins or floats, and thinks it would look good with mage robes such as twisted ancestral."},
+        {"t": 233, "kind": "tip", "text": "Confliction gauntlets only work with one-handed weapons, so Zorya's Tome does not get their bonus accuracy, although its accuracy buff is large."}
+      ]
+    },
+    {
+      "name": "Zeal",
+      "kind": "update",
+      "claims": [
+        {"t": 173, "kind": "event", "text": "Zeal now requires 75 Attack and Strength on top of the existing Piety unlock, to avoid further imbalance between some PvP builds."},
+        {"t": 173, "kind": "opinion", "text": "Gnomonkey says he is not into PvP so cannot judge the Zeal change, but he heard the prayer would have been extremely broken in PvP and assumes the requirement tones it back."}
+      ]
+    },
+    {
+      "name": "Opinion: Raid reward usefulness",
+      "kind": "opinion",
+      "claims": [
+        {"t": 412, "kind": "opinion", "text": "Gnomonkey says nearly every purple from Chambers of Xeric is useful but there are too many items (about 12), and people want to move away from that."},
+        {"t": 443, "kind": "opinion", "text": "Gnomonkey argues Theatre of Blood has only about two clearly useful rewards (the Avernic and the Scythe), perhaps four counting Sanguinesti staff and rapier, and Justiciar is not useful."},
+        {"t": 443, "kind": "opinion", "text": "Gnomonkey says Tombs of Amascut has about five solid rewards where nearly everything is useful, with the ward iffy and the Masori mask not great for a main."},
+        {"t": 471, "kind": "opinion", "text": "Gnomonkey considers it a breath of fresh air that Raids 4 would have no troll rares and says raids should not have purples that are useless to your account."}
+      ]
+    },
+    {
+      "name": "Golden Gnome Awards",
+      "kind": "update",
+      "claims": [
+        {"t": 560, "kind": "event", "text": "Gnomonkey says voting for the Golden Gnomes runs through Monday and asks for votes for best streamer, best guide (the Inferno Golden Trio video) and gamer of the year for the Deadman Inferno clutch."}
+      ]
+    }
+  ]
+}

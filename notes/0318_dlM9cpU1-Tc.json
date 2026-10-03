@@ -1,0 +1,66 @@
+{
+  "id": "dlM9cpU1-Tc",
+  "title": "NEW MAD ANGEL QUICK BOSS GUIDE (OSRS)",
+  "date": "2026-07-29",
+  "type": "guide",
+  "summary": "A quick budget guide to the Mad Angel, the new low-level boss on Wyrmscraig. Gnomonkey covers rewards, budget gear, ways to reach the boss, the attack mechanics that let you punch her with guaranteed damage, and weapon choices, with the Granite hammer far ahead and a Zombie axe a fine budget option.",
+  "outline": [
+    {"t": 0, "text": "Boss overview: Wyrmscraig, Fallen from Grace and how easy the Mad Angel is"},
+    {"t": 20, "text": "Rewards and profitability"},
+    {"t": 56, "text": "Gear recommendations and Granite hammer"},
+    {"t": 101, "text": "Travel options to the boss"},
+    {"t": 124, "text": "Combat mechanics walkthrough"},
+    {"t": 244, "text": "Advanced strategies and weapon comparisons"},
+    {"t": 298, "text": "Golden Gnome nomination plug"}
+  ],
+  "topics": [
+    {
+      "name": "Mad Angel",
+      "kind": "boss",
+      "claims": [
+        {"t": 0, "kind": "event", "text": "The Mad Angel is a new boss on Wyrmscraig, reached in the church there after the new quest Fallen from Grace."},
+        {"t": 0, "kind": "opinion", "text": "Gnomonkey rates the Mad Angel as a very low level and easy boss on the tier of the Titans and Scurrius."},
+        {"t": 32, "kind": "tip", "text": "Gnomonkey says base 70 to 75 melee stats are enough to kill the Mad Angel."},
+        {"t": 32, "kind": "stat", "text": "The Mad Angel drops granite dust (which upgrades cannonballs), many alchables such as rune full helms and other rune items, and super combats."},
+        {"t": 62, "kind": "tip", "text": "Gnomonkey's budget gear for the Mad Angel is a Zombie axe, dragon defender, barrows gloves, berserker ring, mixed hide boots or some melee boots, fire cape, glory and Blood moon; he says armor barely matters and even rune armor would do fine."},
+        {"t": 62, "kind": "tip", "text": "A Zombie axe on crush is nice against the Mad Angel because she is quite tanky and crush punches through her defense."},
+        {"t": 120, "kind": "method", "text": "Open the Mad Angel fight with protect from melee and Piety, and use your special attacks right away; the dragon mace is okay as a budget spec and a Dragon warhammer would be better for draining her defence."},
+        {"t": 147, "kind": "method", "text": "Mad Angel mage attack: this timed mage attack is guaranteed to be a max hit for you if you click protect from magic as soon as her wings are all the way backwards, and you take zero damage."},
+        {"t": 147, "kind": "method", "text": "Mad Angel sweeping arc attack: run across and attack every time she turns to you; she repeats this about five times."},
+        {"t": 177, "kind": "tip", "text": "You can one-tick the protect from magic prayer to catch the Mad Angel's mage attack without timing the wing cue, and it also works with an offensive prayer up."},
+        {"t": 177, "kind": "method", "text": "Mad Angel's last attack: stand on the orb so it bounces off her repeatedly (the third bounce is the last) doing a lot of damage; if you miss it she hits the whole arena with a shockwave that damages you."},
+        {"t": 206, "kind": "tip", "text": "Near the end of the kill the Mad Angel spams the mage attack repeatedly, which Gnomonkey says means the boss dies quickly."},
+        {"t": 240, "kind": "record", "text": "Gnomonkey's example Mad Angel kill with a Zombie axe took 1:43, while a kill with a Granite hammer took 49 seconds."},
+        {"t": 298, "kind": "tip", "text": "The Mad Angel has a heavy weakness to crush; the Fang is okay because she is not very tanky against stab, but you should ideally use a crush weapon."}
+      ]
+    },
+    {
+      "name": "Granite hammer",
+      "kind": "item",
+      "claims": [
+        {"t": 62, "kind": "opinion", "text": "Gnomonkey says the Granite hammer is best in slot against the Mad Angel, better than the Scythe, Inquisitor's mace and Soulreaper axe, because the Mad Angel is one of the few bosses in the game with the weakness the hammer exploits."},
+        {"t": 93, "kind": "stat", "text": "Gnomonkey says the Granite hammer is about 25% better than the Zombie axe against the Mad Angel (22% on the gear calculator)."},
+        {"t": 244, "kind": "opinion", "text": "Gnomonkey considers the Granite hammer by far the best weapon for the Mad Angel and says it does a ton of damage."},
+        {"t": 298, "kind": "stat", "text": "Gnomonkey says the Granite maul does not get the hammer's bonus against the Mad Angel, so its instant special attack swing is not that good."}
+      ]
+    },
+    {
+      "name": "Wyrmscraig",
+      "kind": "update",
+      "claims": [
+        {"t": 0, "kind": "event", "text": "Wyrmscraig is the player-designed island competition winner, newly added to the game, and comes with the quest Fallen from Grace that unlocks the Mad Angel boss."},
+        {"t": 93, "kind": "tip", "text": "Ways to reach the Mad Angel: a necklace of passage, a Slayer ring and then going through Wyrmscraig Cavern past the 'Skollem' (as auto-transcribed) up the stairs (the second closest), or the tradable scroll dropped by the boss herself, which teleports you right to her and is the fastest."},
+        {"t": 32, "kind": "opinion", "text": "Gnomonkey says the Hallowfell sword is not very useful and kind of weak for melee training, though the regular Mad Angel drops are quite good."}
+      ]
+    },
+    {
+      "name": "Melee weapons",
+      "kind": "item",
+      "claims": [
+        {"t": 244, "kind": "stat", "text": "Gnomonkey says Bludgeon is a bit better than the Zombie axe against the Mad Angel, and the Fang is a decent budget option about 10% better than the Zombie axe."},
+        {"t": 244, "kind": "opinion", "text": "Gnomonkey says he would not bring the weapons he calls 'Maqua Heedle' against the Mad Angel, as they are worse than a Zombie axe because she is tanky and they are inaccurate."},
+        {"t": 244, "kind": "opinion", "text": "Gnomonkey says the Baronite mace is terrible against the Mad Angel even though it has a damage bonus on her, calling it really weak."}
+      ]
+    }
+  ]
+}

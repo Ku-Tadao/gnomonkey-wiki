@@ -1,0 +1,68 @@
+{
+  "id": "3qB8AKXsvWs",
+  "title": "New OSRS Agility Course Meta: Everything You Need to Know (OSRS)",
+  "date": "2026-09-14",
+  "type": "news-opinion",
+  "summary": "Gnomonkey goes through Jagex's blog on the Graveyard master-level quest and its proposed new level 65 to 80 Agility course, with rooftop-style obstacles plus a choice between AFK and high-intensity sections. He covers its XP, marks of grace and pet rates, the Graceful rework proposal, and says he likes the course and the Graceful changes but dislikes the partial-AFK design and thinks Agility needs real low-intensity or more high-intensity methods.",
+  "outline": [
+    {"t": 0, "text": "Introduction and the new master-level quest"},
+    {"t": 32, "text": "Quest requirements and course concept"},
+    {"t": 62, "text": "Jagex design: rooftop mechanics with AFK or one-tick stepping stone choices"},
+    {"t": 190, "text": "Gnomonkey's criticism of partial AFK courses like the Worm Course"},
+    {"t": 281, "text": "XP and marks of grace rates"},
+    {"t": 347, "text": "Giant squirrel pet rates and the graceful cosmetic set"},
+    {"t": 385, "text": "Graceful rework: one-time unlock and refunds"},
+    {"t": 509, "text": "Value for Sailing progression"},
+    {"t": 566, "text": "State of Agility as a skill and low-intensity options"},
+    {"t": 666, "text": "RuneFest, Golden Gnomes and stream incentives"}
+  ],
+  "topics": [
+    {
+      "name": "Graveyard Agility Course",
+      "kind": "activity",
+      "claims": [
+        {"t": 32, "kind": "event", "text": "Jagex's blog announced a new master-level quest, following Olaf's quest and tied to Sailing, that unlocks a new level 65 to 80 Agility course called the Graveyard, set among worn-down old ghost ships you jump across."},
+        {"t": 32, "kind": "requirement", "text": "The Graveyard quest requires completing Olaf's quest, Fremennik Exiles and Pandemonium, plus 65 Sailing, 65 Agility, 56 Woodcutting and 54 Fletching, according to Gnomonkey (the requirements were not listed in the blog)."},
+        {"t": 62, "kind": "event", "text": "Jagex says the Graveyard is a hybrid course aimed at players between level 65 and 80, with traditional rooftop mechanics for about two-thirds of the course and the remaining third offering a choice between an AFK option and a more intense one."},
+        {"t": 95, "kind": "event", "text": "Jagex's example for the Graveyard's choice obstacle is a narrow ledge (slower, less XP, lets you do something else) versus Yama-style stepping stones where you click once every tick to pass substantially faster."},
+        {"t": 129, "kind": "event", "text": "Jagex says Graveyard stepping stone sections will step up in difficulty, requiring you to identify the right stones while keeping a one-tick rhythm, and take inspiration from Maud Rice's work on Vampyrium, such as an obstacle needing a double or triple click in one tick."},
+        {"t": 190, "kind": "stat", "text": "Jagex says the AFK sections of the Graveyard are targeted to take about the same time each, in the region of 20 to 30 seconds."},
+        {"t": 281, "kind": "stat", "text": "At the top end of the Graveyard, Jagex expects 65,000 to 75,000 Agility XP per hour, around the Ardougne rooftop course and just below Hallowed Sepulchre floor four, and more than 30 marks of grace per hour."},
+        {"t": 315, "kind": "stat", "text": "On the slower, more AFK Graveyard route, Jagex expects around 55,000 to 60,000 Agility XP per hour and about 14 to 15 marks of grace per hour, which keeps it ahead of Seers' Village while leaving higher level methods relevant."},
+        {"t": 281, "kind": "stat", "text": "Gnomonkey says the best current marks of grace source is the Ardougne rooftop at 23 marks of grace per hour, so the Graveyard's 30 plus per hour at a much lower level without a diary requirement would be the best marks source in the game."},
+        {"t": 347, "kind": "event", "text": "Jagex says the Graveyard is intended as a competitive alternative to the Penguin Agility course for hunting the giant squirrel pet, which is currently the most efficient place."},
+        {"t": 347, "kind": "opinion", "text": "Gnomonkey notes the second-best pet option was Hallowed Sepulchre floor five, so the Graveyard would be the best or equal to the Penguin course and the best option for money and marks of grace."},
+        {"t": 392, "kind": "event", "text": "The Graveyard adds a new graceful cosmetic set as a rare drop from a picklockable chest just before the final obstacle, which requires 65 Thieving."},
+        {"t": 392, "kind": "opinion", "text": "Gnomonkey likes the new graceful cosmetic set and thinks it would look great during hunter rumours, but wonders if the chest will slow your rates too much."},
+        {"t": 509, "kind": "opinion", "text": "Gnomonkey believes the Graveyard speeds up Agility training and graceful unlocks so much that it is probably worth doing on a main too, and gives Sailing a worthwhile progression use beyond Wyrmscraig."}
+      ]
+    },
+    {
+      "name": "Graceful outfit",
+      "kind": "item",
+      "claims": [
+        {"t": 385, "kind": "event", "text": "Jagex proposes making graceful pieces a one-time unlock: after spending the required marks of grace, the piece is permanently unlocked for your account."},
+        {"t": 385, "kind": "stat", "text": "Under the proposal, a duplicate graceful set costs only GP from Perdu, a total of 430k, and marks of grace spent on existing duplicate pieces will be refunded."},
+        {"t": 450, "kind": "opinion", "text": "Gnomonkey strongly approves of the Graceful rework, saying it makes cosmetics less frustrating, lets extra marks go to other rewards, and makes losing graceful in the wilderness easy to recover from."}
+      ]
+    },
+    {
+      "name": "Opinion: Agility low-intensity methods",
+      "kind": "opinion",
+      "claims": [
+        {"t": 190, "kind": "opinion", "text": "Gnomonkey dislikes partial-AFK Agility design: with the Worm Course after the Summer Sweep-up you click every roughly five seconds for several obstacles and then get a 30 second AFK chunk, which means you pay attention about 50% of the time and cannot truly do something else on the side."},
+        {"t": 190, "kind": "opinion", "text": "Gnomonkey says if every Agility step took 30 seconds it would be a genuine AFK method, and says he would rather Jagex add 15 to 20 second steps if they want low-intensity Agility."},
+        {"t": 566, "kind": "opinion", "text": "Gnomonkey says Hallowed Sepulchre is probably the most intensive and fun skilling method in the game, so high intensity is covered, while the mid-level rooftops are the rest; he thinks Agility feels awful for most people if you aren't doing Hallowed Sepulchre."},
+        {"t": 600, "kind": "opinion", "text": "Gnomonkey says when he needs to AFK he just does not train Agility, and suggests Jagex either add genuine low-intensity options or focus on more high-intensity methods like the Graveyard, noting Agility is most people's least favourite skill."}
+      ]
+    },
+    {
+      "name": "Gnomonkey",
+      "kind": "person",
+      "claims": [
+        {"t": 0, "kind": "event", "text": "Gnomonkey reached 1,500 Twitch subs for September (1,600 later in the video), and says he will have purple hair at RuneFest and wear a golden suit there."},
+        {"t": 666, "kind": "event", "text": "For his September streams Gnomonkey is aiming for 2,000 total subs for a 100 million GP PvP arc in the wilderness, and rolls a boss randomizer made by Sax per every five-pack or 50 subs that gives a random boss with random setup and sometimes a challenge like a time limit or one prayer point."}
+      ]
+    }
+  ]
+}

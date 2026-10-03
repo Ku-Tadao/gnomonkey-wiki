@@ -1,0 +1,58 @@
+{
+  "id": "FwjOiTIPQXE",
+  "title": "THE GREAT ESCAPE BREACH 1 - ODABLOCK WARRIORS (OSRS)",
+  "date": "2026-06-06",
+  "type": "series-episode",
+  "summary": "Voice-comms footage from the first breach of Deadman Mode Season 3, where Gnomonkey's team, the Odablock Warriors, clear out the Dino Nuggets and are then chased into a retreat by Westham Weasels. The team coordinates a distraction, regroups at Falador and tries to stall the pursuing clans.",
+  "outline": [
+    {"t": 0, "text": "Gnomonkey escapes the pursuit but is frozen by Westham after he teleports in"},
+    {"t": 36, "text": "Planning counter-play around a three-minute skull and sharing blood runes"},
+    {"t": 101, "text": "Executing the distraction: teammates keep committing while Gnomonkey waits out his skull"},
+    {"t": 143, "text": "Regrouping at Falador and scouting the centre"},
+    {"t": 218, "text": "Stalling for survival: Gnomonkey is out of teleport charges while teammates plan to sneak back in"},
+    {"t": 277, "text": "Final regroup at Falador, borrowing a spade, candle and tinderbox, and planning to repeat the entry"}
+  ],
+  "topics": [
+    {
+      "name": "Deadman Mode",
+      "kind": "activity",
+      "claims": [
+        {"t": 0, "kind": "event", "text": "During the first breach of Deadman Mode Season 3, Gnomonkey escapes a chase but is frozen by a Westham Weasels player who teleported in on him."},
+        {"t": 36, "kind": "tip", "text": "Gnomonkey notes that with three minutes left on his skull he could go back with his tier five sacks and become a little stronger again, and asks a teammate for their blood runes to use."},
+        {"t": 94, "kind": "tip", "text": "A teammate suggests the team should not give up the pursuit and should keep committing to random targets, so the chasing clans cannot concentrate on one player."},
+        {"t": 121, "kind": "tip", "text": "Gnomonkey is told to wait out his skull before teleporting, and the team tells a teammate to waste the pursuer's time by running while the skull expires."},
+        {"t": 206, "kind": "tip", "text": "A teammate says Validor teleports are free, and suggests players use them to teleport back in."},
+        {"t": 233, "kind": "event", "text": "Gnomonkey runs out of teleport charges and cannot teleport or log off while being chased, so he stalls the enemy while the rest of the team moves."},
+        {"t": 305, "kind": "tip", "text": "After an escape the team can use a home teleport once the pursuing players give up, logging back in and teleporting after the one-minute window."}
+      ]
+    },
+    {
+      "name": "Odablock Warriors",
+      "kind": "other",
+      "claims": [
+        {"t": 0, "kind": "event", "text": "The Odablock Warriors, Gnomonkey's Deadman Mode Season 3 team, clear out the Dino Nuggets during the first breach and are then chased into a retreat."},
+        {"t": 94, "kind": "opinion", "text": "The Odablock Warriors assume the Dino Nuggets are stalling like the Westham Weasels and Rhinos, so they discuss how to play the stand-off."},
+        {"t": 147, "kind": "tip", "text": "The Odablock Warriors tell all remaining team members to meet at Falador after the chase, with Gnomonkey waiting on his skull before joining."},
+        {"t": 265, "kind": "event", "text": "The Odablock Warriors see one of the Rhinos die and conclude the Rhinos were probably pushed by the Dino Nuggets, so they plan to sneak in again."},
+        {"t": 293, "kind": "event", "text": "At Falador the Odablock Warriors share a spade, a lit candle and a tinderbox so every teammate can re-enter, and say they are doing well for the cards they have been dealt."}
+      ]
+    },
+    {
+      "name": "Westham Weasels",
+      "kind": "other",
+      "claims": [
+        {"t": 0, "kind": "event", "text": "A Westham Weasels player teleports in on Gnomonkey and freezes him as he tries to escape during the first Deadman Season 3 breach."},
+        {"t": 94, "kind": "event", "text": "The Odablock Warriors treat the Westham Weasels and the Rhinos as two clans pursuing them while the Dino Nuggets stall."},
+        {"t": 180, "kind": "opinion", "text": "The Odablock Warriors expect the Rhinos to have won the first breach and to be camping the rope after the team is flushed out."}
+      ]
+    },
+    {
+      "name": "Chronicle",
+      "kind": "item",
+      "claims": [
+        {"t": 0, "kind": "event", "text": "Gnomonkey uses a Chronicle teleport to get out of the chase in the first Deadman breach and calls Camelot teleport 'safe'."},
+        {"t": 233, "kind": "event", "text": "When the Chronicle runs out of charges Gnomonkey cannot teleport away, which leaves him stuck while the enemy closes in."}
+      ]
+    }
+  ]
+}

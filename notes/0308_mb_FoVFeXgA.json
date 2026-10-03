@@ -1,0 +1,158 @@
+{
+  "id": "mb_FoVFeXgA",
+  "title": "Raids 4 Reward Blog ARE FINALLY HERE (OSRS)",
+  "date": "2026-06-16",
+  "type": "news-opinion",
+  "summary": "Gnomonkey reacts to Jagex's Raids 4 rewards blog for the Fractured Archive, covering untradeable rewards, a tradable hybrid armour set, the Rondache shield, the Ascension crossbows and the TzHaar-Ket Breaker mega rare. He likes the crossbows, shield and mega rare, thinks the hybrid armour is the one bad idea, and gives general vibes rather than calcs.",
+  "outline": [
+    {"t": 0, "text": "Introduction: the reward blog lands the day after Deadman ends, and no calcs yet"},
+    {"t": 46, "text": "Untradeable rewards: unlimited teleport to the Fractured Archive"},
+    {"t": 102, "text": "Elemental motes and their impact on fire spells versus the eye"},
+    {"t": 151, "text": "Hybrid armour overview and the blog's stats"},
+    {"t": 216, "text": "Hybrid armour analysis: stab accuracy, defence, prayer bonus, strength"},
+    {"t": 389, "text": "Hybrid armour critique: why he dislikes it"},
+    {"t": 656, "text": "Rondache shield: flat armour, charges and shield bash"},
+    {"t": 1045, "text": "Ascension crossbows: two-tick dual crossbows and ascension bolts"},
+    {"t": 1316, "text": "TzHaar-Ket Breaker: design, lore speculation and how its damage rolls work"},
+    {"t": 1669, "text": "Mega rare critique: devaluing Scythe and balance concerns"},
+    {"t": 1847, "text": "Closing thoughts and Deadman finale plans"}
+  ],
+  "topics": [
+    {
+      "name": "Update: Raids 4 reward blog",
+      "kind": "update",
+      "claims": [
+        {"t": 0, "kind": "event", "text": "Jagex released the Raids 4 rewards blog (for the Fractured Archive raid) the day after Deadman Mode ended."},
+        {"t": 27, "kind": "tip", "text": "Gnomonkey says he will not be doing calcs in this video, only giving general vibes on where items will be good from a design standpoint."},
+        {"t": 27, "kind": "event", "text": "The blog proposes an untradeable ancient convenience item that gives unlimited teleports back to the Fractured Archive, so players no longer run out of Gethixian temple teleport scrolls."},
+        {"t": 56, "kind": "opinion", "text": "Gnomonkey thinks the teleport reward is fair because Tormented Demon scrolls will be fairly close anyway, so players choose between a slightly closer teleport or these scrolls from Tormented Demons."},
+        {"t": 0, "kind": "opinion", "text": "Gnomonkey considers the Raids 4 rewards very solid overall: the crossbows are incredibly cool and powerful, the Rondache is a neat idea for an offensive shield, and the Breaker will shake up the meta at bosses such as Doom and Nex."},
+        {"t": 1842, "kind": "opinion", "text": "Gnomonkey says the only reward he does not like from the blog is the hybrid armour, saying really strong hybrid armour is not a good direction for the game, while everything else sounds really good on paper."},
+        {"t": 1870, "kind": "opinion", "text": "Gnomonkey says he has no numbers yet to tell whether anything is broken or too weak and that there could be blind spots in his takes."}
+      ]
+    },
+    {
+      "name": "Elemental motes",
+      "kind": "item",
+      "claims": [
+        {"t": 56, "kind": "stat", "text": "Per the Raids 4 blog, consuming one elemental mote for each element increases the max hit of all the elements' spells by two; they are untradeable."},
+        {"t": 56, "kind": "trivia", "text": "The blog says the elemental motes work like the jewels for the Kirus partisan inside Tombs of Amascut and should be fairly common, with pity RNG mechanics so players can finish them in a reasonable time frame."},
+        {"t": 90, "kind": "opinion", "text": "Gnomonkey says the elemental motes will not be insanely impactful but will buff certain things at certain bosses a little."},
+        {"t": 90, "kind": "opinion", "text": "Gnomonkey says the harm staff is currently a little worse than the eye on bosses like Zulrah (he says 'Zolra') and maybe Nightmare, and the extra fire max hit could push fire spells over the line to beat the eye there, which he likes because the eye being best in slot on things with big elemental weaknesses is silly."}
+      ]
+    },
+    {
+      "name": "Update: Raids 4 hybrid armour",
+      "kind": "item",
+      "claims": [
+        {"t": 150, "kind": "event", "text": "The Raids 4 blog proposes a tradable melee-magic hybrid armour set with no set effects or passives, just solid numbers, after the community showed more interest in armour that serves multiple combat styles than in an elemental weakness armour."},
+        {"t": 182, "kind": "opinion", "text": "Gnomonkey says the hybrid armour looks very cool, praising its Guthix design."},
+        {"t": 216, "kind": "stat", "text": "Each piece of the proposed hybrid armour gives 2% magic damage, and the melee strength bonuses are 6 on the helmet, 4 on the body and 3 on the legs, plus a lot of prayer bonus and mostly melee and magic accuracy."},
+        {"t": 242, "kind": "stat", "text": "The proposed hybrid armour is the first armour set with a stab accuracy bonus of any kind, which Gnomonkey says could be very useful in Tombs of Amascut where players bring both magic and melee armour for stab on a Fang."},
+        {"t": 276, "kind": "stat", "text": "The blog says the hybrid armour's melee accuracy is more than Bandos (which has none) but less than style-specific options like Earthplate or Ink, and its magic accuracy is a smidge below ancestral robes."},
+        {"t": 276, "kind": "stat", "text": "The hybrid armour has no negative defence bonuses and is slightly worse than Bandos against melee and ranged, with +28 magic defence, which is lower than ancestral robes."},
+        {"t": 310, "kind": "stat", "text": "The proposed hybrid armour has a plus 16 prayer bonus, close to Proselyte's plus 18, and below the plus 24 of Sunfire armour."},
+        {"t": 341, "kind": "stat", "text": "The hybrid armour has more melee strength than Bandos and Oathplate but 5 less than Torva for the full set, and its magic damage is in line with Virtus but less than ancestral."},
+        {"t": 427, "kind": "opinion", "text": "Gnomonkey notes that with a melee-magic hybrid set a player would still need separate ranged armour such as Masori or Eclipse, so armour pieces end up mixed all over the inventory when switching."}
+      ]
+    },
+    {
+      "name": "Opinion: Hybrid armour",
+      "kind": "opinion",
+      "claims": [
+        {"t": 368, "kind": "opinion", "text": "Gnomonkey says he does not like the Raids 4 hybrid armour set at all."},
+        {"t": 398, "kind": "opinion", "text": "Gnomonkey says hybrid armour has a lot of use in raids even when it is bad, citing his budget guides that use Blue Moon in Chambers of Xeric and Blue Moon with mixed hide for a first 500 Tombs of Amascut, because it saves two slots."},
+        {"t": 454, "kind": "opinion", "text": "Gnomonkey says hybrid armour is awkward and annoying in raids despite fewer switches, and he would rather always bring two full sets of armour than hybrid."},
+        {"t": 484, "kind": "opinion", "text": "Gnomonkey says a hybrid set would be used everywhere in raids, giving the example of challenge mode Chambers of Xeric speedruns, where the meta is to bring no healing, rely on potion drops from bosses and bring a full 28-slot inventory of gear."},
+        {"t": 513, "kind": "opinion", "text": "Gnomonkey thinks a raid should not drop a super good hybrid armour because it would be used everywhere and be an annoying, unfun addition to the game."},
+        {"t": 573, "kind": "opinion", "text": "Gnomonkey says he would prefer a new best-in-slot armour from the raid, and is fine with low-tier hybrid armour like Blue Moon that is bad but useful in certain cases, suggesting any future hybrid armour should be lower tier, for example dropped from a Desert Treasure 2 boss."},
+        {"t": 604, "kind": "opinion", "text": "Gnomonkey expects the hybrid armour to pass a poll because players like camping a set and avoiding switches, but he says he would rather Jagex focus on making single styles better than armour that does everything pretty well."},
+        {"t": 633, "kind": "opinion", "text": "Gnomonkey says the hybrid armour gives him the same vibe as the Fang: it is not quite as good as everything else but is good on everything, so it becomes the new default armour you bring everywhere."}
+      ]
+    },
+    {
+      "name": "Rondache",
+      "kind": "item",
+      "claims": [
+        {"t": 664, "kind": "event", "text": "The Raids 4 blog proposes the Rondache, a tradable offensive shield, because players asked for interesting offhands and the best defence in Old School is usually killing the boss faster."},
+        {"t": 722, "kind": "stat", "text": "The Rondache has two flat armour, which reduces all incoming melee and ranged damage by two but does not work on magic."},
+        {"t": 748, "kind": "method", "text": "Damage mitigated by the Rondache's flat armour is stored as charges, and the shield bash special attack unleashes the stored damage instantly like a granite maul special."},
+        {"t": 778, "kind": "event", "text": "The Rondache's flat armour is active whenever the shield is equipped after you attack, which prevents tedious shield swapping; Gnomonkey is torn on whether Jagex should avoid shield switching."},
+        {"t": 810, "kind": "tip", "text": "Gnomonkey says the Rondache is good for mitigating chip damage and may be a nice pickup for combat achievements at The Great Ulm, melee Inferno and Araxxor, but at Ulm half of the attacks are magic, so it only works on the ranged ones."},
+        {"t": 843, "kind": "stat", "text": "The Rondache gives 8 melee strength, the same as the Avernic defender, but the Avernic defender has 30 accuracy in each style, so Gnomonkey says the Rondache will not matter much in Theatre of Blood where bosses are drained to zero defence."},
+        {"t": 876, "kind": "stat", "text": "The Rondache holds up to 20 mitigated damage (10 charges, since each block mitigates two), and the shield bash consumes charges to deal more damage; Gnomonkey reads that 20 charges would deal 20 plus 20%, totalling 24."},
+        {"t": 910, "kind": "stat", "text": "The Rondache's shield bash has plus six bonus accuracy per charge consumed; Gnomonkey says he assumes it is not a guaranteed hit but is a guaranteed 24 if it lands, and wants clarification on how accuracy is rolled."},
+        {"t": 974, "kind": "opinion", "text": "Gnomonkey says the Rondache should be decent at Ulm because Ulm has neutral melee defences, still good in Theatre of Blood where everything has zero defence, and possibly good on regular Nightmare if shield bash is crush."},
+        {"t": 974, "kind": "stat", "text": "The blog says there is a short cooldown after shield bash before charges can be gained, but the flat armour stays active, which prevents spamming shield bash at fast attackers like Thermonuclear smoke devil."},
+        {"t": 1004, "kind": "opinion", "text": "Gnomonkey notes the Rondache has very low defences for a shield but better defensive stats than a defender including ranged defence, and says it is pretty good given the bonus damage, though not for places needing extra accuracy with a one-handed weapon."},
+        {"t": 722, "kind": "opinion", "text": "Gnomonkey thinks the Rondache looks a little gaudy, and says it will rarely match an armour set such as Oathplate with a rapier."}
+      ]
+    },
+    {
+      "name": "Ascension crossbow",
+      "kind": "item",
+      "claims": [
+        {"t": 1035, "kind": "event", "text": "The Raids 4 blog proposes tradable dual crossbows copied from RuneScape 3's Ascension crossbows."},
+        {"t": 1035, "kind": "stat", "text": "The Ascension crossbows can only fire ascension (fractured) bolts, which can be tipped with diamond or onyx; they cannot shoot ruby bolts."},
+        {"t": 1068, "kind": "stat", "text": "The Ascension crossbows attack every two ticks, which Gnomonkey describes as like a heavy blowpipe, and enchanted bolt effects have a 50% reduced chance to trigger."},
+        {"t": 1068, "kind": "stat", "text": "Diamond ascension bolts are a guaranteed hit when they proc and give a little damage bonus, while onyx ascension bolts heal the player."},
+        {"t": 1100, "kind": "stat", "text": "Gnomonkey says a 50% reduced proc chance on a two-tick crossbow is still a higher proc chance than a normal five-tick crossbow, equivalent to a two-and-a-half-tick crossbow."},
+        {"t": 1100, "kind": "stat", "text": "The Ascension crossbows have 34 range, 3 magic attack, some negative melee bonuses and 10 magic defence, have no special attack, and can only use ascension bolts."},
+        {"t": 1100, "kind": "method", "text": "Ascension bolts will be readily obtainable by chiselling down ascension shards from the Fractured Archive, because Jagex concluded the crossbows could not be balanced around existing bolts and their effects."},
+        {"t": 1133, "kind": "opinion", "text": "Gnomonkey says onyx ascension bolts will be insanely expensive (an onyx bolt tip is 8k) at two-tick speed, comparing it to dragon darts costing 8k each, but thinks it is fine for the best items to be expensive ammo sinks."},
+        {"t": 1191, "kind": "stat", "text": "The ascension bolts have 53 ranged strength, 58 with a gem; Gnomonkey says that after accounting for their two-tick speed they are a bit stronger than dragon bolts."},
+        {"t": 1224, "kind": "opinion", "text": "Gnomonkey says the passive onyx healing could be very good for content like the Inferno, and the blog expects the crossbows to be a raid-tier replacement for the Toxic blowpipe."},
+        {"t": 1257, "kind": "opinion", "text": "Gnomonkey says he thinks the Ascension crossbows are the best thing in the blog: a blowpipe upgrade is the perfect raid reward, they look awesome, and he is glad they cannot use rubies because that would be problematic."},
+        {"t": 1286, "kind": "opinion", "text": "Gnomonkey says he expects most players to use diamond bolts, thinks the crossbows are good anywhere a blowpipe is good, and calls them a super blowpipe that is much more accurate."}
+      ]
+    },
+    {
+      "name": "TzHaar-Ket Breaker",
+      "kind": "item",
+      "claims": [
+        {"t": 1316, "kind": "event", "text": "The TzHaar-Ket Breaker is the mega rare in the Raids 4 blog, a crush weapon with a chain attack based on a fractured chain concept suggested by community artist Hunt OSRS."},
+        {"t": 1316, "kind": "trivia", "text": "Gnomonkey finds the TzHaar name interesting because the Fractured Archive's other bosses are Guthix or god themed, and speculates it could bring RuneScape 3's ancient god lore into Old School."},
+        {"t": 1441, "kind": "stat", "text": "The TzHaar-Ket Breaker's thrust style has a five-tick attack speed, hits up to three targets in a line like a Scythe, and damage scales with NPC size, up to 50% bonus damage on larger targets."},
+        {"t": 1468, "kind": "stat", "text": "The TzHaar-Ket Breaker's smash style is a three-tick crush attack that loses the piercing and damage-roll effects of thrust."},
+        {"t": 1501, "kind": "stat", "text": "The TzHaar-Ket Breaker has a very low strength bonus and an insanely high crush bonus, and rolls damage up to seven times depending on how many of the target's defences are higher than its crush defence, taking the highest hit."},
+        {"t": 1564, "kind": "method", "text": "Gnomonkey explains the Breaker's damage rolls using Nex: Nex has some defences tankier than its crush defence (like stab), giving six damage rolls, and the Breaker picks the largest of them; a boss weak to crush would get an extra seventh roll."},
+        {"t": 1533, "kind": "tip", "text": "Gnomonkey says the smash style will support niche uses against small targets, especially Nylocas."},
+        {"t": 1655, "kind": "method", "text": "Like the Scythe of Vitur, the TzHaar-Ket Breaker needs to be charged using a resource, in this case ascension shards obtained from the raid."},
+        {"t": 1685, "kind": "opinion", "text": "Gnomonkey says the Breaker could beat the Scythe on many bosses in the Theatre of Blood because many of its defences are neutral, though not on Verzik, and he sees that as a problem Jagex may need to fix."},
+        {"t": 1685, "kind": "opinion", "text": "Gnomonkey expects the Breaker to be best in slot on Nex and on Doom, because Doom of Mokhaiotl is weak to crush and would give seven rolls, which would make melee the meta on both bosses."},
+        {"t": 1747, "kind": "opinion", "text": "Gnomonkey says the Breaker's thrust and smash design is much easier to understand than the original fractured chain concept with five, four and three tick styles, and says mega rares need to be strong but simple."},
+        {"t": 1810, "kind": "opinion", "text": "Gnomonkey says the Breaker is about as good as a new mega rare could be and he does not hate it, adding that Jagex 'smashed it' even though he previously suggested Jagex should stay away from mega rares."},
+        {"t": 1901, "kind": "opinion", "text": "Gnomonkey likes that the Breaker changes how Nex and Doom are approached instead of being just a better Scythe everywhere, and says he will need DPS calcs because the Breaker is very hard to calc."}
+      ]
+    },
+    {
+      "name": "Opinion: Mega rares",
+      "kind": "opinion",
+      "claims": [
+        {"t": 1715, "kind": "opinion", "text": "Gnomonkey says any new mega rare will devalue whatever weapon category it is put in, so he does not think a mega rare can avoid devaluing something, and the Breaker's devaluing of the Scythe is his main concern."},
+        {"t": 1777, "kind": "opinion", "text": "Gnomonkey says mega rares should be interesting but simple to understand, giving Shadow as an example that is simple (rolling all your gear, big hit, big accuracy) yet interesting."},
+        {"t": 1777, "kind": "opinion", "text": "Gnomonkey says the Breaker has potential to be really hard to balance in the future."},
+        {"t": 1810, "kind": "opinion", "text": "In his original Raids reward video Gnomonkey argued Jagex should steer away from mega rares because they are so hard to balance and fit in the game, but he says if you want a mega rare, this is the best Jagex could have come up with."}
+      ]
+    },
+    {
+      "name": "Scythe of Vitur",
+      "kind": "item",
+      "claims": [
+        {"t": 1412, "kind": "event", "text": "The blog compares the TzHaar-Ket Breaker to the Scythe of Vitur, saying a crush mega rare was a safe option but one that gains many use cases over time, like the Scythe has over the last couple of years."},
+        {"t": 1685, "kind": "opinion", "text": "Gnomonkey says the Scythe will still win on Verzik, but the Breaker may beat it on many other Theatre of Blood bosses with neutral defences."},
+        {"t": 1747, "kind": "opinion", "text": "Gnomonkey says the Breaker might devalue the Scythe somewhat, but that this is unavoidable for a new mega rare in the melee weapon space."}
+      ]
+    },
+    {
+      "name": "Deadman Mode",
+      "kind": "activity",
+      "claims": [
+        {"t": 1928, "kind": "event", "text": "Deadman Mode had just concluded when Gnomonkey recorded this video and his team was getting ready for the finale; he was flying to Chicago in a few days for it."},
+        {"t": 1928, "kind": "opinion", "text": "Gnomonkey says his team is not in the best standing for the finale but had a big comeback, and he thinks they have lower odds than the Westham Weasels but a genuine shot at winning."},
+        {"t": 1957, "kind": "event", "text": "Gnomonkey plans to practise hard before the finale and then make a video on his thoughts coming into Deadman as a rookie new to PvP and a PvM master, plus an overall review."},
+        {"t": 1987, "kind": "stat", "text": "Deadman Mode involved 120 hours of streaming over a week, so Gnomonkey wants to give full context for the story behind everything, since many viewers jumped between streams and clips."}
+      ]
+    }
+  ]
+}

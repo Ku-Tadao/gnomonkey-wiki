@@ -1,0 +1,105 @@
+{
+  "id": "FrZfpY0uoko",
+  "title": "Bronzeman Mode: Is It Time for New OSRS Game Modes?",
+  "date": "2026-08-12",
+  "type": "news-opinion",
+  "summary": "Gnomonkey reacts to Jagex polling Bronzeman Mode for Old School RuneScape, including an Unbound variant that allows unlocks through PvP. He criticises the vague blog and the single poll question, argues Bronzeman does not solve the real reasons ironmen quit, pushes back on the idea that Ironman is the intended way to play, and says he will vote no. He also proposes a hardcore main server instead, and closes with his Golden Gnome nominations.",
+  "outline": [
+    {"t": 0, "text": "Bronzeman mode overview and questions about what counts as an unlock"},
+    {"t": 159, "text": "Unbound Bronzeman concerns"},
+    {"t": 322, "text": "Polling process criticism: one poll question"},
+    {"t": 436, "text": "Existing game modes and where Bronzeman fits"},
+    {"t": 674, "text": "Community psychology: Ironman as a challenge, main as the default"},
+    {"t": 931, "text": "De-ironing and player burnout"},
+    {"t": 1122, "text": "New player experience and the Iron Man tutor text"},
+    {"t": 1353, "text": "Bronzeman does not fix the grind problem; plugins can restrict a main"},
+    {"t": 1353, "text": "Hardcore main server proposal"},
+    {"t": 1531, "text": "Final verdict: voting no"},
+    {"t": 1685, "text": "Golden Gnome nominations"}
+  ],
+  "topics": [
+    {
+      "name": "Bronzeman Mode",
+      "kind": "account",
+      "claims": [
+        {"t": 0, "kind": "event", "text": "Jagex polled Bronzeman Mode for Old School RuneScape, a community-designed game mode described as Iron Man Light where, once you have unlocked an item legitimately, you can buy and sell that item exclusively through the Grand Exchange."},
+        {"t": 0, "kind": "event", "text": "Jagex said Bronzeman was the most popular option in its recent quarterly survey, that the mods worked on an official implementation during Game Jam 8, and that it is essentially ready to go; it would show unlocks in an interface and possibly have collection-log-like milestone ranks."},
+        {"t": 60, "kind": "opinion", "text": "Gnomonkey thinks the Bronzeman blog needs far more detail, such as what counts as unlocking an item, and asks whether killing a Mad Angel for a super combat would permanently bypass the Herblore requirement, or a dragon dart from a dragon impling would bypass Fletching."},
+        {"t": 90, "kind": "opinion", "text": "Gnomonkey says if Bronzeman unlocks completely bypass skilling requirements, that would change people's opinion of the mode, since many players care about meeting skilling requirements as well as PvM drops."},
+        {"t": 570, "kind": "opinion", "text": "Gnomonkey says Bronzeman solves supply upkeep, such as unlocking toxic blowpipe scales from Zulrah with a single kill, but does not solve the real problem that ironmen get stuck on stupidly long grinds, which is why people quit."},
+        {"t": 617, "kind": "opinion", "text": "Gnomonkey says a Bronzeman would still have to sit through the Corrupted Gauntlet grind for the Bow of Faerdhinen, possibly only buying the Blade of Saeldor or leftover armor seeds, and an endgame Bronzeman is basically a main."},
+        {"t": 1353, "kind": "opinion", "text": "Gnomonkey says Bronzeman feels gimmicky as a slightly different Ironman, that a hundred Ironman variants should not exist and each would bloat the highscores, and that Bronzeman-like restrictions can be done on a main with a plugin."},
+        {"t": 1531, "kind": "opinion", "text": "Gnomonkey says he personally would not play Bronzeman and, after weighing it, would vote no on both regular and Unbound Bronzeman, although a better fleshed-out version might win him over."},
+        {"t": 1531, "kind": "opinion", "text": "Gnomonkey says 'why not, it has no dev cost' is not a good reason to add it, comparing it to RuneScape 3 adding unused content such as minigames outside Falador that later had to be cleaned up."}
+      ]
+    },
+    {
+      "name": "Unbound Bronzeman",
+      "kind": "account",
+      "claims": [
+        {"t": 159, "kind": "event", "text": "Jagex also described Unbound Bronzeman, a variant allowing unlocks from items gained by killing players in PvP, which would have separate highscores and a slightly different icon, like GIM and Unranked GIM."},
+        {"t": 218, "kind": "opinion", "text": "Gnomonkey really dislikes Unbound Bronzeman, saying that previous creator series with the idea always ran into accusations that viewers donated gear, so an official mode would have no stakes and an Unbound Bronzeman is effectively just a main."},
+        {"t": 282, "kind": "opinion", "text": "Gnomonkey says Unbound Bronzeman would only have integrity as its own server with separate worlds, but that would invite swapping and probably lack the player base to populate worlds; he doubts it would last."}
+      ]
+    },
+    {
+      "name": "Poll: Bronzeman Mode",
+      "kind": "update",
+      "claims": [
+        {"t": 322, "kind": "event", "text": "The Bronzeman poll was a single question: 'Should we add Bronzeman Mode to Old School RuneScape as described in the news post?', with no separate question for Unbound Bronzeman."},
+        {"t": 375, "kind": "opinion", "text": "Gnomonkey calls the single poll question absurd, saying it could easily have been ten questions, such as whether finding a potion should unlock super combats or whether Bronzeman should be able to pass potions to other Bronzemen for raiding."},
+        {"t": 1560, "kind": "opinion", "text": "Gnomonkey says polls should be more granular because many players would vote yes to regular Bronzeman and no to Unbound, and that packaging everything into one question makes it more likely to fail."},
+        {"t": 150, "kind": "opinion", "text": "Gnomonkey finds it a little crazy to ask about new game modes when character slots are still limited to one character per membership, and says it feels like a cash grab."}
+      ]
+    },
+    {
+      "name": "Opinion: Main is the default way to play",
+      "kind": "opinion",
+      "claims": [
+        {"t": 674, "kind": "opinion", "text": "Gnomonkey says Ironman started as a challenge mode but over time the community shifted to treating it as the right way to play, which he calls absolute nonsense."},
+        {"t": 737, "kind": "opinion", "text": "Gnomonkey says a main has complete freedom, so you do not have to grind the best moneymaker (such as Doom) all day; he himself plays for PvM and speedrunning and earned a lot of his money from pet hunting."},
+        {"t": 851, "kind": "opinion", "text": "Gnomonkey says progress on a main is liquid, so for example doing Vorkath is progress towards the Bow of Faerdhinen if you want it to be, and that if you cannot play under Ironman restrictions you should just play a main."},
+        {"t": 931, "kind": "opinion", "text": "Gnomonkey says it is valid to play an Ironman or a main, and that you should play whichever you enjoy most."},
+        {"t": 1122, "kind": "opinion", "text": "Gnomonkey says the Tutorial Island game mode menu and Iron Man tutor text are atrocious and should say that main is the intended way to play, and that the warning that Iron Man is not recommended for new players should be at the top rather than buried after about 15 text prompts."},
+        {"t": 1229, "kind": "opinion", "text": "Gnomonkey says the Iron Man tutor line that restrictions are imposed so 'everyone knows you're doing it properly' is misleading and implies Iron Man is the proper game mode."}
+      ]
+    },
+    {
+      "name": "De-ironing",
+      "kind": "account",
+      "claims": [
+        {"t": 976, "kind": "opinion", "text": "When viewers in his chat ask how he gets through the Corrupted Gauntlet grind while burning out, Gnomonkey jokes 'de-iron' but says it is only kind of a joke, because you can de-iron and play a main with complete freedom."},
+        {"t": 1031, "kind": "trivia", "text": "Gnomonkey says the streamer Sardako, a World of Warcraft refugee who was racing to be first to the Inferno on an ironman, received a wave of toxicity from his chat when he made a main."},
+        {"t": 1088, "kind": "opinion", "text": "Gnomonkey believes more people would keep playing if players allowed others to play how they want, and says many players feel strong-armed into continuing Ironman until they burn out and quit."},
+        {"t": 1288, "kind": "opinion", "text": "Gnomonkey suggests a hypothetical Bronzish Man where you can buy up to five items per account to skip five grinds, and questions how many steps from Ironman to main are enough."}
+      ]
+    },
+    {
+      "name": "Hardcore main",
+      "kind": "account",
+      "claims": [
+        {"t": 1393, "kind": "opinion", "text": "In the survey of potential game modes, the one Gnomonkey wanted most was a hardcore main, which he says cannot be recreated with plugins."},
+        {"t": 1413, "kind": "method", "text": "Gnomonkey's hardcore main proposal is a separate server with its own economy and Grand Exchange, like WoW hardcore or Deadman, where you start fresh, item value is tied to how dangerous they are to obtain, and dying resets you to Lumbridge with zero stats, quests and diaries gone."},
+        {"t": 1467, "kind": "method", "text": "In Gnomonkey's hardcore main idea, dying lets you keep only what is in your bank, which he suggests solves the mule problem by making every account a mule by default."},
+        {"t": 1500, "kind": "opinion", "text": "Gnomonkey acknowledges bots, swapping and higher GP value as big problems for a hardcore main server and suggests Jagex test it temporarily for two to three months with boosted drop rates and XP to see if there is enough interest."}
+      ]
+    },
+    {
+      "name": "Ironman Mode",
+      "kind": "account",
+      "claims": [
+        {"t": 492, "kind": "opinion", "text": "Gnomonkey goes through the game modes, saying each has a distinct appeal: Ironman (get everything yourself), Hardcore Ironman (lose status on death), Ultimate Ironman (no bank), Group Ironman (shared bank with friends) and Hardcore Group Ironman, while Unranked GIM is harder to defend."},
+        {"t": 570, "kind": "opinion", "text": "Gnomonkey says the real reason everybody quits Ironman at some point is getting stuck on a long grind, with the Corrupted Gauntlet grind for the Bow of Faerdhinen being the common 'prison'."}
+      ]
+    },
+    {
+      "name": "Golden Gnome Awards",
+      "kind": "update",
+      "claims": [
+        {"t": 1685, "kind": "event", "text": "Gnomonkey is a finalist in four Golden Gnome categories: best streamer, best new video guide (with both the Corrupted Gauntlet guide and the Inferno Golden Trio guide nominated), gamer of the year, and best Old School RuneScape video creator; voting ended August 14th."},
+        {"t": 1749, "kind": "event", "text": "Gnomonkey's gamer-of-the-year case lists the Deadman Mode Inferno clutch, a five million GP budget Theatre of Blood with no untradables, first to complete Delve level 8, second in Gielinor Games, his own Pillarless Colosseum, and devising Oathplate contract methods with Saxer Pillar."},
+        {"t": 1813, "kind": "trivia", "text": "Gnomonkey says he will wear a golden suit at RuneFest, and that his channel recently received the Purple Heart Twitch Award for five million hours of streams watched."}
+      ]
+    }
+  ]
+}

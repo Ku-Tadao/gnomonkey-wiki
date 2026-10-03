@@ -1,0 +1,177 @@
+{
+  "id": "O4np4ssz6iw",
+  "title": "SUMMER ROADMAP REVEAL (OSRS)",
+  "date": "2026-05-29",
+  "type": "news-opinion",
+  "summary": "Gnomonkey goes through Jagex's surprise Summer Campfire blog and video, covering Blood Moon Rises and its Maggot King boss, the Summer Sweep-up plans, the Wormscraig player-designed island with a new Slayer master, a PvP tutorial, mobile changes and teasers for Raids 4: The Fractured Archive. He is excited about most of it but worried the new Slayer master and Gauntlet prep changes could skew the game.",
+  "outline": [
+    {"t": 0, "text": "Introduction: Jagex's surprise Summer Campfire reveal"},
+    {"t": 57, "text": "Blood Moon Rises quest requirements and the Vampirium region"},
+    {"t": 151, "text": "Leechfin fishing and the new rewards: seeker arrows, necklace of rupture"},
+    {"t": 215, "text": "The Maggot King boss footage"},
+    {"t": 305, "text": "Summer Sweep-up plans: Hunter, gear rebalancing, Corrupted Gauntlet, Agility"},
+    {"t": 497, "text": "Wormscraig: quest, Mad Angel boss and the Mortimer Slayer master"},
+    {"t": 700, "text": "Golem crafting and goat hunting"},
+    {"t": 788, "text": "Graveyard quest, bingo system"},
+    {"t": 847, "text": "PvP tutorial in Ferox"},
+    {"t": 937, "text": "Mobile changes and new worlds"},
+    {"t": 964, "text": "Raids 4: Bork, the smorks and the Archive Guardian"},
+    {"t": 1057, "text": "Closing thoughts and Deadman All-Stars"}
+  ],
+  "topics": [
+    {
+      "name": "Update: Summer Campfire 2026",
+      "kind": "update",
+      "claims": [
+        {"t": 0, "kind": "event", "text": "Jagex held a surprise summer summit in the form of a Summer Campfire blog and video, which Gnomonkey says is not something they have done in the past."},
+        {"t": 0, "kind": "event", "text": "The Summer Campfire revealed details on Blood Moon Rises, the Summer Sweep-up, Wormscraig and teasers for Raids 4."},
+        {"t": 27, "kind": "opinion", "text": "Gnomonkey says many players have complained there have been few major updates recently because Jagex focused on competitions and temporary game modes, so players are a little starved for updates."},
+        {"t": 27, "kind": "event", "text": "According to the Summer Campfire, the big things coming are Blood Moon Rises, the Summer Sweep-up, and Raids 4 at the end of the year."},
+        {"t": 1022, "kind": "opinion", "text": "Gnomonkey is curious about Raids 4 and notes Jagex says it comes out shortly after RuneFest, earlier than the beginning of next year that many expected, which makes him nervous that it might be rushed."},
+        {"t": 1022, "kind": "event", "text": "Jagex is adding new worlds for various regions, including servers for Asia, after previously adding Brazil servers."}
+      ]
+    },
+    {
+      "name": "Update: Blood Moon Rises",
+      "kind": "update",
+      "claims": [
+        {"t": 57, "kind": "event", "text": "Blood Moon Rises is the new Grandmaster quest at the end of the vampire questline and adds a new solo repeatable endgame boss."},
+        {"t": 57, "kind": "requirement", "text": "Blood Moon Rises requires A Night at the Theatre, which Gnomonkey jokes will now make people beg for carries, and 74 Slayer, a high requirement, plus 74 Woodcutting."},
+        {"t": 91, "kind": "stat", "text": "The rest of the Blood Moon Rises requirements are manageable and line up with the needs for Song of the Elves on a new Ironman, and Gnomonkey believes the hard one is 74 Slayer."},
+        {"t": 91, "kind": "event", "text": "Completing Blood Moon Rises unlocks the new area Vampirium, with dangerous encounters, repeatable activities, new creatures and skilling activities."},
+        {"t": 120, "kind": "event", "text": "Vampirium skilling includes bloodwood trees for Woodcutting and Leechfin fishing."},
+        {"t": 182, "kind": "stat", "text": "The Blood Moon Rises rewards include a best-in-slot ranged amulet upgrade (necklace of rupture), a devastating new crush spec weapon (the crimson kiston), and an ammunition upgrade for all arrows (seeker arrows)."},
+        {"t": 182, "kind": "stat", "text": "Gnomonkey says the Blood Moon Rises rewards will tremendously buff ranged, giving about an 8 percent DPS increase across the board for both the Twisted bow and the Scorching bow."},
+        {"t": 1057, "kind": "tip", "text": "Gnomonkey plans to do Blood Moon Rises on day one on stream, trying for day-one drops."}
+      ]
+    },
+    {
+      "name": "Maggot King",
+      "kind": "boss",
+      "claims": [
+        {"t": 215, "kind": "event", "text": "The Maggot King is the new boss from Blood Moon Rises, where survival relies on quick repositioning, reacting to environmental threats and adapting as the arena shifts and hazards spread."},
+        {"t": 215, "kind": "opinion", "text": "Gnomonkey loves how disgusting the Maggot King looks, thinks the animations and art design are great, and says it reminds him of a Bloodborne boss."},
+        {"t": 247, "kind": "opinion", "text": "In the five seconds of Maggot King footage, Gnomonkey notices two types of acid on the ground, a green poison and a yellow acid, and speculates one may venom the player and the other act like the Griffin-style shield acid."},
+        {"t": 278, "kind": "opinion", "text": "Gnomonkey thinks the Maggot King, which stands raised on a cliff while the player shoots it at distance among acid and attacks little maggot minions, gives him Doom of Mokhaiotl vibes."},
+        {"t": 278, "kind": "opinion", "text": "Gnomonkey notes the Maggot King has a thrust attack that hits an area, like Sol Heredit, and wonders about diagonal variations."},
+        {"t": 305, "kind": "event", "text": "Jagex said the Maggot King is planned to be similar in difficulty to Phosani's Nightmare, so it will not be easy."}
+      ]
+    },
+    {
+      "name": "Leechfin fishing",
+      "kind": "activity",
+      "claims": [
+        {"t": 151, "kind": "opinion", "text": "Gnomonkey says the new Leechfin fishing method in Vampirium is extremely click-intensive, described as like Moons fishing, and he jokes that people who complain about wrist pain from 3-tick barbarian fishing should expect lots of clicking."},
+        {"t": 151, "kind": "event", "text": "According to Gnomonkey, the click-heavy Leechfin fishing passed a poll with flying colours, so players who find it intensive and unpleasant are getting what was described."}
+      ]
+    },
+    {
+      "name": "Update: Summer Sweep-up",
+      "kind": "update",
+      "claims": [
+        {"t": 305, "kind": "event", "text": "Jagex said it will share a detailed blog the following week on everything it is eyeing for the Summer Sweep-up, saying it was inundated with player suggestions and a good number are already on its shortlist."},
+        {"t": 332, "kind": "event", "text": "The Summer Sweep-up will include changes to various skilling methods, including long overdue improvements to core Hunter training, gear rebalancing focused on buffing items not living up to their potential, improvements to common PvM pain points like the Corrupted Gauntlet, and new Agility shortcuts and improvements to existing ones."},
+        {"t": 366, "kind": "opinion", "text": "Gnomonkey says Hunter is really bad, especially early Hunter, where players skip it by doing bird houses or use poor hunter rumours with rings of pursuit."},
+        {"t": 399, "kind": "event", "text": "In the video, Jagex said there will be big Agility changes in the Summer Sweep-up, including changing Hallowed Sepulchre requirements, improving the AFK of the Colossal Wyrm course, and adding new shortcuts."},
+        {"t": 427, "kind": "opinion", "text": "Gnomonkey says lowering the level to access the Hallowed Sepulchre floors would be amazing, and hopes the Colossal Wyrm AFK change lets players do bigger chunks per click so the course is worth doing."},
+        {"t": 427, "kind": "event", "text": "Jagex did not mention Corrupted Gauntlet drop rate changes but said it will make massive improvements to Gauntlet prep."},
+        {"t": 460, "kind": "opinion", "text": "Gnomonkey is nervous about faster Gauntlet prep because he is one of the few players who likes the prep, thinks it takes more skill than credited, and worries a much faster prep will affect the economy by increasing Bow of Faerdhinen supply and Gauntlet clears."},
+        {"t": 493, "kind": "opinion", "text": "Gnomonkey says Gauntlet prep can get old, and he does not mind it being treated as a pain point so that players can get through it more consistently without feeling short of resources."}
+      ]
+    },
+    {
+      "name": "Update: Wormscraig",
+      "kind": "update",
+      "claims": [
+        {"t": 493, "kind": "event", "text": "Wormscraig is the winner of the Player Island Competition and offers an introductory quest, a repeatable boss encounter, a new high-level Slayer master and two new skilling activities."},
+        {"t": 493, "kind": "requirement", "text": "Wormscraig is accessible at 62 Sailing."},
+        {"t": 526, "kind": "event", "text": "The Wormscraig quest introduces a new boss, the Mad Angel, whose arena has a throne with handcuffs chaining the boss down in an old decaying chapel."},
+        {"t": 526, "kind": "event", "text": "Completing the Wormscraig quest unlocks the same boss as a repeatable encounter, with rewards still being finalised but expected to include a new weapon, a teleport unlock and a pet."},
+        {"t": 558, "kind": "opinion", "text": "Gnomonkey notes Jagex said in the video that the Mad Angel is aimed as a mid-level boss, which fits the low requirements of 62 Sailing and a basic quest."}
+      ]
+    },
+    {
+      "name": "Mortimer",
+      "kind": "person",
+      "claims": [
+        {"t": 558, "kind": "event", "text": "Mortimer is an undead skeleton Slayer master from Wormscraig who offers multiple task choices instead of assigning a single task, so players can choose between tasks instead of regularly skipping."},
+        {"t": 558, "kind": "event", "text": "After completing a certain number of tasks with Mortimer, players see task modifiers, powerful bonuses that might include enhanced Slayer XP, Slayer points, clue scroll rates, superior spawns and more."},
+        {"t": 586, "kind": "requirement", "text": "Mortimer requires 70 Slayer and 100 combat, or 99 Slayer; the only existing Slayer master with a Slayer requirement is Duradel at 50 Slayer."},
+        {"t": 612, "kind": "event", "text": "Jagex said Duradel would still be better if you are not picky about tasks and that Konar would still be the best for Slayer points."},
+        {"t": 586, "kind": "opinion", "text": "Gnomonkey expects Mortimer to become the meta Slayer master because of the choice of multiple tasks, with everyone moving over unless he has many bad tasks."},
+        {"t": 640, "kind": "opinion", "text": "Gnomonkey finds the Slayer task modifier bonuses like better clue scroll rates feel a little private server and unnecessary, since choosing multiple tasks is already plenty of incentive."},
+        {"t": 668, "kind": "opinion", "text": "Gnomonkey asks why Mortimer also needs to be best for superior spawns for imbued heart grinds and for clue scroll rates, so that everybody is forced to use him."}
+      ]
+    },
+    {
+      "name": "Golem crafting",
+      "kind": "activity",
+      "claims": [
+        {"t": 700, "kind": "event", "text": "Golem crafting at Wormscraig involves mining the new resource Sunstone, sculpting golems and clothing them using Hunter furs, designed as an alternative to glassblowing."},
+        {"t": 700, "kind": "event", "text": "Sunstone mining introduces a new mechanic called Momentum, rewarding active rhythmic gameplay, which Gnomonkey compares to RS3 shiny rocks or Giants' Foundry."},
+        {"t": 729, "kind": "event", "text": "Golem crafting rewards are still to be finalised but Jagex aims for it to be primarily focused on XP, with uniques possibly including a main-hand glass pipe, a new teleport and an unlockable second station."},
+        {"t": 668, "kind": "opinion", "text": "Gnomonkey says the crafting mini-game is much needed because Crafting is horrible on Ironman, so Ironmen should rejoice."}
+      ]
+    },
+    {
+      "name": "Goat hunting",
+      "kind": "activity",
+      "claims": [
+        {"t": 729, "kind": "event", "text": "Goat hunting at Wormscraig involves herding the island's massively growing goat population into trap pits."},
+        {"t": 729, "kind": "requirement", "text": "Goat hunting is accessible at level 60 Hunter and Jagex aims for it to sit just under red and black salamanders for XP."},
+        {"t": 758, "kind": "event", "text": "Goat hunting rewards are still to be finalised but will be primarily Hunter XP, and the activity also provides goat fur for golem crafting, goat horns and a goat pet."},
+        {"t": 120, "kind": "opinion", "text": "Gnomonkey says he would much rather have a beetle pet than the goat pet being added."}
+      ]
+    },
+    {
+      "name": "Graveyard quest",
+      "kind": "quest",
+      "claims": [
+        {"t": 788, "kind": "event", "text": "Jagex is adding a new master-tier quest called the Graveyard, near the end of the Fremennik questline after Fremennik Exiles."},
+        {"t": 788, "kind": "stat", "text": "The Graveyard quest rewards 35k Agility XP, 15k Runecrafting XP and 35k Sailing XP, plus an agility course between 65 and 80 Agility with a hybrid intensity pattern like the Colossal Wyrm course."}
+      ]
+    },
+    {
+      "name": "Bingo system",
+      "kind": "update",
+      "claims": [
+        {"t": 816, "kind": "event", "text": "Jagex is adding an in-game bingo system for clans, built using the code from Gridmaster."}
+      ]
+    },
+    {
+      "name": "PvP tutorial",
+      "kind": "update",
+      "claims": [
+        {"t": 828, "kind": "event", "text": "Jagex is adding a PvP tutorial in Ferox Enclave, with an NPC called Pete Ker offering a series of challenges."},
+        {"t": 847, "kind": "event", "text": "The PvP tutorial NPC switches overhead prayers in response to gear switches, including fake switches and sneaky weapons like the Voidwaker, and teaches switching equipment, triple eating (combo eating), one-tick specials with weapons like the granite maul, and escaping snares and freezes, in a risk-free encounter."},
+        {"t": 873, "kind": "opinion", "text": "Gnomonkey thinks the PvP tutorial is desperately needed, because currently the only way to learn PvP is to jump into Last Man Standing or the Wilderness and get beaten."},
+        {"t": 906, "kind": "event", "text": "Jagex hasn't locked in rewards for the PvP tutorial but mentioned in the video there would be cosmetics; Gnomonkey would like a tough PvP bot as aspirational PvP content."}
+      ]
+    },
+    {
+      "name": "Mobile client",
+      "kind": "update",
+      "claims": [
+        {"t": 937, "kind": "event", "text": "Jagex is adding tag tabs on mobile, picture in picture so players can browse while playing, and an overhaul of menu entry swap from scratch to fix its bugs."},
+        {"t": 937, "kind": "event", "text": "Jagex is still working on the new renderer and HD."}
+      ]
+    },
+    {
+      "name": "Raids 4: The Fractured Archive",
+      "kind": "raid",
+      "claims": [
+        {"t": 964, "kind": "event", "text": "Raids 4 teased a new boss, Bork, a boss from RS2 now added as a raid boss with little goblin helpers called the smorks, a Bandos-themed encounter with Warhammer 40k vibes."},
+        {"t": 994, "kind": "event", "text": "Jagex also showed the Archive Guardian from the winter summit with new animations, including a hyper-beam-style attack."},
+        {"t": 994, "kind": "event", "text": "Jagex said it will share its first Raids 4 rewards proposal in a blog releasing in mid-June, with concept art, while the numbers and ideas are already together."},
+        {"t": 1022, "kind": "opinion", "text": "Gnomonkey is hyped for the Bork and Archive Guardian animations, but is nervous that Raids 4 might be rushed and not the cleanest raid, since rewards have taken a while to get up."}
+      ]
+    },
+    {
+      "name": "Deadman Mode",
+      "kind": "activity",
+      "claims": [
+        {"t": 1091, "kind": "event", "text": "Gnomonkey says he is part of the Deadman All-Stars roster and will be on stage in Chicago in the middle of June, with streams for the whole week of Deadman."}
+      ]
+    }
+  ]
+}

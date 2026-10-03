@@ -1,0 +1,125 @@
+{
+  "id": "0iIPIZTfsBU",
+  "title": "MAGGOT KING BUDGET IRONMAN GUIDE",
+  "date": "2026-06-30",
+  "type": "guide",
+  "summary": "A day-one budget Ironman guide to the Maggot King, the new boss from the Blood Moon Rises update. Gnomonkey gives a rough 'mouthfeel' setup using a Zombie axe and Twinflame staff for two and a half to three minute kills, walks through the access route, the burn mechanic, prayer swaps and melee phases, and lists likely upgrades, with the caveat that nothing can be calculated yet.",
+  "outline": [
+    {"t": 0, "text": "Introduction: day-one disclaimer and budget setup"},
+    {"t": 27, "text": "Accessing the boss: bank chest, Draken's medallion and the mosquito shortcut"},
+    {"t": 81, "text": "Gear and preparations: burn damage, Twinflame staff, Zombie axe, Warhammer special"},
+    {"t": 202, "text": "Supplies: sunfire runes, antidote, restores and divine super combat"},
+    {"t": 228, "text": "Combat mechanics: prayer swaps, screech, acid, poison and the maggot"},
+    {"t": 350, "text": "Executing the kill: the 66% melee phase and double hits"},
+    {"t": 502, "text": "Below 20% the boss is perma-melee"},
+    {"t": 548, "text": "Upgrades and conclusion: Scythe, Ink mace, harm staff, Shadow, ZCB"}
+  ],
+  "topics": [
+    {
+      "name": "Maggot King",
+      "kind": "boss",
+      "claims": [
+        {"t": 0, "kind": "opinion", "text": "Gnomonkey calls his Maggot King guide a day-one guide for the new boss from Blood Moon Rises: nothing is known for certain, things are hard to calculate, and everything he says could be wrong or change."},
+        {"t": 26, "kind": "method", "text": "To reach the Maggot King, teleport with a Draken's medallion to outside Castle Draken, run east and cross an agility shortcut, and the boss is nearby."},
+        {"t": 56, "kind": "method", "text": "A faster route to the Maggot King: go past the boss to find a man being hit by mosquitoes, save him by killing the mosquitoes and talk to him; he reappears elsewhere and takes you via a transport to the shortcut leading into the boss."},
+        {"t": 88, "kind": "stat", "text": "Gnomonkey's best Maggot King kill time with his budget setup is 2:30 (he says '230'), and he says an average of about three minutes is achievable."},
+        {"t": 173, "kind": "stat", "text": "Gnomonkey reports two and a half to three minute Maggot King kills with his budget setup despite not-great gear."},
+        {"t": 231, "kind": "method", "text": "On entering the Maggot King arena, pray Protect from Missiles and Augury, then run to the left side of the arena (the right side also works) to put all the boss's rag poison in one corner."},
+        {"t": 259, "kind": "method", "text": "The Maggot King's ranged attack is poison that hits for 8, so sip an antidote; when it screeches you turn your protection prayer off, and after each screech you swap between Protect from Missiles and Protect from Magic."},
+        {"t": 259, "kind": "stat", "text": "The Maggot King's screech drops rocks that do minor damage, and the acid it spits is mage-based, so Gnomonkey turns on Protect from Magic after the screech."},
+        {"t": 292, "kind": "stat", "text": "Acid on the floor at the Maggot King hurts a little and drains melee stats, while poison on the floor only hits a little and does nothing more if you are immune to poison, so Gnomonkey says nothing at the boss is super punishing."},
+        {"t": 319, "kind": "method", "text": "Each Maggot King screech launches carrion on the ground, which a grub eats while moving back and forth, healing the boss one per bite; roughly one maggot is shot out per screech."},
+        {"t": 319, "kind": "tip", "text": "Gnomonkey found it better to leave the Maggot King's maggots alone rather than kill them, though he says there is a trick to one-shot them that he does not cover in this video."},
+        {"t": 349, "kind": "method", "text": "At 66% health the Maggot King begins a melee phase where it comes down off the ramp so you can melee it, and from then on it comes down to melee after each screech."},
+        {"t": 376, "kind": "method", "text": "In the Maggot King melee phase it uses a thrust melee attack that can be dodged by stepping out of the way, and it shoots out small bits of acid; you can punish the attack by clicking right as it pops out."},
+        {"t": 409, "kind": "tip", "text": "In the Maggot King melee phase the maggot attack ignores your attack cooldown, so you can step aside, attack, and immediately swing again for a double hit."},
+        {"t": 442, "kind": "tip", "text": "Gnomonkey puts all the acid on one side of the room, then when the Maggot King comes down to melee he slowly walks it to the other side of the room."},
+        {"t": 442, "kind": "stat", "text": "The only thing that hits hard at the Maggot King is its melee attacks, which hit about 50; Gnomonkey says those are what will kill you."},
+        {"t": 473, "kind": "tip", "text": "You can hit the Maggot King's maggot neck from just about anywhere in the room as long as you are next to it, which gives many options for dodging acid."},
+        {"t": 502, "kind": "method", "text": "Below 20% health the Maggot King is permanently in melee and never stops meleeing, so you just spam your attacks to finish the kill."},
+        {"t": 502, "kind": "tip", "text": "Gnomonkey says you can make the Maggot King attack faster, so if you are using a faster weapon such as an Ink mace or a bludgeon you would want to do that."},
+        {"t": 534, "kind": "stat", "text": "With a Zombie axe, a five-tick weapon, Gnomonkey's Maggot King kills run about two and a half to three minutes once the fight is understood."},
+        {"t": 619, "kind": "opinion", "text": "Gnomonkey admits this guide is sloppy with no numbers, a 'mouthfeel' guide, because DPS calcs cannot currently handle the boss, and he promises a more fleshed-out guide in a few days."}
+      ]
+    },
+    {
+      "name": "Burn",
+      "kind": "mechanic",
+      "claims": [
+        {"t": 56, "kind": "opinion", "text": "Gnomonkey says the Maggot King's burn mechanic is incredibly complicated and no one is sure how it works."},
+        {"t": 88, "kind": "method", "text": "Casting fire spells at the Maggot King gives bonus burn damage, which wears off fairly fast when the boss comes down off the ramp."},
+        {"t": 88, "kind": "opinion", "text": "Gnomonkey says nobody can calc how much damage the burn adds yet, but it is pretty good."},
+        {"t": 88, "kind": "requirement", "text": "The burn damage on the Maggot King only procs if you land the hit, so you need good mage accuracy gear."},
+        {"t": 619, "kind": "opinion", "text": "Gnomonkey says the burn status damage is hard to calculate until Gearscape and Wiki calcs are updated."}
+      ]
+    },
+    {
+      "name": "Twinflame staff",
+      "kind": "item",
+      "claims": [
+        {"t": 117, "kind": "opinion", "text": "Gnomonkey says Twinflame staff is the go-to for budget accounts at the Maggot King, and he says harm staff seems best right now with Shadow extremely close."},
+        {"t": 117, "kind": "tip", "text": "Gauntlets are massive for the Twinflame staff against the Maggot King, according to Gnomonkey."},
+        {"t": 562, "kind": "opinion", "text": "Gnomonkey says the harm staff is a direct upgrade over the Twinflame staff and Shadow is also really good for the Maggot King."},
+        {"t": 562, "kind": "opinion", "text": "Gnomonkey thinks a ZCB could be better than a Twinflame staff if you have no better mage options, but Twinflame might be easier because you do not take Ruby damage."},
+        {"t": 592, "kind": "tip", "text": "If you lack gear like a Tome of fire or general mage accuracy gear such as a Blue Moon helm, Gnomonkey says you probably do not want to mage and should bring a rune crossbow for rubies."},
+        {"t": 592, "kind": "opinion", "text": "Gnomonkey calls gauntlets a massive deal for mage at the Maggot King and says mage is always going to be good."}
+      ]
+    },
+    {
+      "name": "Zombie axe",
+      "kind": "item",
+      "claims": [
+        {"t": 143, "kind": "opinion", "text": "Gnomonkey says the Zombie axe is really good at the Maggot King because in the melee phases you get bonus damage for free, effectively clones of whatever you are using."},
+        {"t": 143, "kind": "stat", "text": "The slower the weapon, the more bonus damage Gnomonkey gets from the Maggot King's clone hits, and the Zombie axe is a super accurate, slow, heavy-hitting crush weapon."},
+        {"t": 534, "kind": "stat", "text": "The Zombie axe is a five-tick weapon, which Gnomonkey describes as pretty easy and straightforward to use against the Maggot King."},
+        {"t": 548, "kind": "opinion", "text": "Gnomonkey says the Maggot King is weak to crush, and that Scythe, Ink mace and Soul Reaper axe are generally going to be better than a Zombie axe."}
+      ]
+    },
+    {
+      "name": "Warhammer",
+      "kind": "item",
+      "claims": [
+        {"t": 173, "kind": "opinion", "text": "Gnomonkey says the Warhammer special attack is amazing at the Maggot King because you can use it on the bonus clone hits."},
+        {"t": 173, "kind": "stat", "text": "The Warhammer special hits over a hundred on the Maggot King and drains its defence, which Gnomonkey says is important because the melee damage is so high."},
+        {"t": 376, "kind": "stat", "text": "Gnomonkey says he has hit over 100 on the Maggot King with the Warhammer, and he shows a hit of 72."}
+      ]
+    },
+    {
+      "name": "Scythe of Vitur",
+      "kind": "item",
+      "claims": [
+        {"t": 173, "kind": "opinion", "text": "Gnomonkey says the Scythe is best in slot for melee at the Maggot King."},
+        {"t": 548, "kind": "opinion", "text": "Gnomonkey says the Scythe is amazing for melee at the Maggot King, and he rates the Ink mace very, very good and the Soul Reaper axe very good as well."}
+      ]
+    },
+    {
+      "name": "Sunfire runes",
+      "kind": "item",
+      "claims": [
+        {"t": 202, "kind": "tip", "text": "Gnomonkey says it is extra important to add searing pages to your tome or use sunfire runes at the Maggot King, because sunfire runes increase your minimum hit a lot."},
+        {"t": 202, "kind": "tip", "text": "Gnomonkey says getting sunfire runes will be kind of annoying for an Ironman but is pretty important to do before fighting the Maggot King."}
+      ]
+    },
+    {
+      "name": "Update: Blood Moon Rises",
+      "kind": "update",
+      "claims": [
+        {"t": 0, "kind": "event", "text": "The Blood Moon Rises update added the Maggot King as a new boss."},
+        {"t": 26, "kind": "requirement", "text": "The bank chest near Castle Draken must be built using items, and for an Ironman this requires Sailing."},
+        {"t": 0, "kind": "opinion", "text": "Gnomonkey says the Maggot King loot needs a bit of tweaking as it is on the low side, but the new drops are incredibly valuable at well over 200m each."},
+        {"t": 0, "kind": "opinion", "text": "Gnomonkey says DH bombing looks super fun, and that the Scythe with the harm staff look to be best in slot, with Shadow, ZCB and Twinflame staff in max mage close behind."}
+      ]
+    },
+    {
+      "name": "Ironman Mode",
+      "kind": "account",
+      "claims": [
+        {"t": 0, "kind": "opinion", "text": "Gnomonkey's Maggot King setup is fairly budget and fairly Ironman-friendly, aimed at bare minimum to get your first kill counts."},
+        {"t": 117, "kind": "requirement", "text": "The Maggot King budget setup uses Torms, the Mage cape, full switches and a Tome of fire, and Gnomonkey calls it pretty good."},
+        {"t": 143, "kind": "tip", "text": "Gnomonkey says not to cut down your gear switches when using fire spells against the Maggot King, because you need the accuracy; even dropping a cape swap costs about 30 seconds per kill."},
+        {"t": 202, "kind": "tip", "text": "Gnomonkey brings an antidote (the boss poisons for 8), three restores (he has used two to four), and a divine super combat to the Maggot King."},
+        {"t": 592, "kind": "tip", "text": "Gnomonkey says to bring full mage switches to the Maggot King and not cut the switches down."}
+      ]
+    }
+  ]
+}

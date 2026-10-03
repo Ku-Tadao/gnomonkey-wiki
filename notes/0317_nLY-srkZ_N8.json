@@ -1,0 +1,85 @@
+{
+  "id": "nLY-srkZ_N8",
+  "title": "New Slayer Master MORTIMER: Is He Better? (OSRS)",
+  "date": "2026-07-24",
+  "type": "news-opinion",
+  "summary": "Gnomonkey breaks down Mortimer, the new Slayer master arriving with Wyrmscraig, covering his requirements, two-choice task system, expensive skipping and blocking, and unlock progression of task modifiers. He concludes Mortimer will be a solid alternative for players still working to 99 Slayer or chasing several goals, and that he is unlikely to replace Duradel for players already at 99 who are just chasing the imbued heart.",
+  "outline": [
+    {"t": 0, "text": "Introduction: Mortimer's requirements"},
+    {"t": 66, "text": "Mortimer mechanics: two assignments, costly skips and blocks, superiors only"},
+    {"t": 242, "text": "Task types and variety"},
+    {"t": 324, "text": "Deep dive into the five modifiers"},
+    {"t": 415, "text": "Strategic use: blocks and task unlocks"},
+    {"t": 469, "text": "Developer FAQ answers"},
+    {"t": 507, "text": "Impact on existing Slayer masters"},
+    {"t": 600, "text": "Imbued heart impact estimates"},
+    {"t": 711, "text": "When to choose Mortimer"},
+    {"t": 760, "text": "Golden Gnome nominations"},
+    {"t": 834, "text": "Closing and community question"}
+  ],
+  "topics": [
+    {
+      "name": "Mortimer",
+      "kind": "person",
+      "claims": [
+        {"t": 0, "kind": "event", "text": "Mortimer is the new Slayer master coming with Wyrmscraig; he has a Sailing level requirement to reach his island and is the highest level Slayer master in the game, requiring 70 Slayer and 100 combat."},
+        {"t": 33, "kind": "event", "text": "Jagex says Mortimer presents multiple assignments each with its own modifier rather than letting players choose a task outright, offering an alternative style of play and not replacing existing masters."},
+        {"t": 66, "kind": "stat", "text": "Mortimer presents two assignments to choose from, and after completing enough tasks for him a third choice is unlocked."},
+        {"t": 92, "kind": "stat", "text": "Skipping a Mortimer assignment costs 100 Slayer points, Turael cannot reset Mortimer assignments so Turael skipping is not possible, and while using Mortimer you only have two block slots, each costing 120 Slayer points."},
+        {"t": 119, "kind": "stat", "text": "If you get a Mortimer task you do not want, you can skip it, store it (task stores are shared with the normal Slayer system and use one of your store slots), or finish it before taking another assignment."},
+        {"t": 119, "kind": "stat", "text": "Mortimer exclusively offers tasks with superior monsters, which gives more agency over superior unique grinds such as the imbued heart, but means he cannot assign tasks that have no superiors."},
+        {"t": 149, "kind": "stat", "text": "Because Mortimer only assigns superior tasks, demons such as tormented demons and demonic gorillas, and bosses such as Cerberus, are not assigned by him, so a different Slayer master is needed for those grinds."},
+        {"t": 149, "kind": "stat", "text": "Mortimer gives zero Slayer points per task; the only way to get Slayer points from him is to take the points modifier, which ranges from 5 to 40 points depending on the task."},
+        {"t": 449, "kind": "stat", "text": "Task extensions work with Mortimer, but task unlocks that specify certain masters do not, so Mortimer can assign Griffins, Aquanites, Basilisks, warped terror birds and more from the start without unlocking them."},
+        {"t": 511, "kind": "opinion", "text": "Gnomonkey thinks Mortimer's two blocks would probably go on warped creatures and drakes, but admits he is unsure because almost everything has the same weight."}
+      ]
+    },
+    {
+      "name": "Mortimer modifiers",
+      "kind": "mechanic",
+      "claims": [
+        {"t": 149, "kind": "stat", "text": "Every Mortimer task has a modifier that can add Slayer points, increase or decrease task quantity, boost Slayer XP, improve clue scroll drop rates, or boost the chance to hit the superior creature's unique table."},
+        {"t": 175, "kind": "stat", "text": "Mortimer modifier unlocks by number of tasks completed: at first only Slayer points and task quantity modifiers, clue scroll bonuses after 25 tasks, Slayer XP modifiers at 50, superior drop rate modifiers at 75, and a third task choice at 100."},
+        {"t": 211, "kind": "stat", "text": "Mortimer's modifier strength varies by task: superior unique modifiers give a small increase on tasks like Araxytes and a massive increase on slower ones like Dark beasts, where the drop rate increase goes from 200% to 300%."},
+        {"t": 249, "kind": "stat", "text": "Mortimer tasks include very low-level ones like crawling hands and cave crawlers with low quantities and decreased-quantity modifiers, which help you reach the 100-task unlock faster."},
+        {"t": 336, "kind": "stat", "text": "Mortimer's clue scroll modifier ranges from about 35% up to 150% increase, and Gnomonkey notes most seem to be hard clues, which he says are not the clues people usually go for."},
+        {"t": 384, "kind": "stat", "text": "Mortimer's Slayer XP modifier is balanced per creature: tasks that are already good such as smoke devils get only 5% to 15%, while worse tasks like Dark beasts get 35% to 75%."},
+        {"t": 417, "kind": "stat", "text": "The unique modifier on Mortimer tasks gives only small increases on tasks already good for the heart such as smoke devils and Araxytes, but up to a 300% increase on tasks with a bad heart chance."},
+        {"t": 480, "kind": "stat", "text": "In the Mortimer FAQ, all five modifier types have an equal chance of appearing, multiple task choices can have the same modifier, and Mortimer never offers the same creature twice within one set of choices."},
+        {"t": 508, "kind": "stat", "text": "Jagex says Slayer XP bonuses on Mortimer tasks vary because tasks already vary significantly in efficiency, so XP modifiers are balanced individually per creature."},
+        {"t": 319, "kind": "opinion", "text": "Gnomonkey says he is unsure whether Mortimer's points modifier is multiplied by task streak and wants clarification, and thinks it will not be a good way to get points."},
+        {"t": 336, "kind": "opinion", "text": "Gnomonkey says he does not see much benefit in the clue scroll modifier at a glance and sees the XP modifier as odd, because he believes Duradel with a solid block list and many burst tasks will still be best for XP."}
+      ]
+    },
+    {
+      "name": "Imbued heart",
+      "kind": "item",
+      "claims": [
+        {"t": 600, "kind": "stat", "text": "Jagex says Mortimer should become the new best Slayer master for the imbued heart, estimating 65 to 80 hours at the top end once his third task selection is unlocked, compared with the current meta of 80 to 100 hours using Turael skipping for Araxytes and smoke devils at Duradel."},
+        {"t": 600, "kind": "opinion", "text": "Gnomonkey agrees that 80 to 100 hours is correct for the current imbued heart meta."},
+        {"t": 633, "kind": "opinion", "text": "Gnomonkey thinks the difference is small and not worth switching for someone already 99 Slayer on an iron with a block list for Araxytes and smoke devils, since they would first have to grind 100 Mortimer tasks."},
+        {"t": 664, "kind": "stat", "text": "Jagex expects players to still do their fair share of Araxytes and smoke devils on Mortimer, completing fast tasks in between and occasionally selecting a task with a superior modifier active."},
+        {"t": 249, "kind": "opinion", "text": "Gnomonkey says Mortimer adds variety to the heart grind, because tasks like Dark beasts become decent with big drop rate modifiers instead of only repeating Araxytes and smoke devils with lots of Turael skips."}
+      ]
+    },
+    {
+      "name": "Slayer",
+      "kind": "skill",
+      "claims": [
+        {"t": 507, "kind": "stat", "text": "Jagex says Mortimer is not designed to replace Duradel, Konar or other masters, that Duradel and Mortimer are currently extremely close in XP per hour, and that Duradel should eventually pull ahead as more block slots unlock."},
+        {"t": 567, "kind": "stat", "text": "Duradel offers tasks Mortimer cannot assign, notably many more boss tasks, which may appeal to iron players, collection log hunters and pet hunters."},
+        {"t": 567, "kind": "opinion", "text": "Gnomonkey says Konar, who assigns Hydras, is still the best choice if you only want a Dragon hunter lance or to grind Hydra, because Turael skipping cannot be used with Mortimer."},
+        {"t": 711, "kind": "opinion", "text": "Gnomonkey thinks Mortimer is best for players not yet at 99 Slayer who have several goals at once (the heart, Slayer XP, clue scrolls), and less beneficial for players at 99 Slayer who only want the heart."},
+        {"t": 834, "kind": "opinion", "text": "Gnomonkey says that on a fresh hardcore ironman he might train Sailing to reach Mortimer."}
+      ]
+    },
+    {
+      "name": "Golden Gnome Awards",
+      "kind": "update",
+      "claims": [
+        {"t": 760, "kind": "event", "text": "Gnomonkey asks viewers to nominate him for the Golden Gnomes in categories including best Old School RuneScape video creator, best new guide of the year (such as his Inferno or Tombs of Amascut guides or the new Gauntlet guide), best streamer, and gamer of the year for the Inferno and Deadman."},
+        {"t": 813, "kind": "trivia", "text": "Gnomonkey says he won Best Guide Creator in the previous Golden Gnomes and painted himself gold in celebration."}
+      ]
+    }
+  ]
+}

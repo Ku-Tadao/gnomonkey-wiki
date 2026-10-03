@@ -1,0 +1,115 @@
+{
+  "id": "0_DI-SbhksU",
+  "title": "RIP HCIM 6THBROTHER - OFFSTREAM DEATH - (OSRS)",
+  "date": "2025-10-29",
+  "type": "series-episode",
+  "summary": "Gnomonkey announces that his Hardcore Ironman 6thBrother died off-stream in the Fortis Colosseum, recreates the death with a drawn render, reflects on how lucky the account was, and addresses people blaming Hedron. He then reviews the backup HCIM that Hedron has been building and the collection log of the fallen account.",
+  "outline": [
+    {"t": 0, "text": "The Colosseum death: why he was in the Colosseum and why it was off-stream"},
+    {"t": 67, "text": "Recreating the death on wave 11 with an artist render"},
+    {"t": 217, "text": "Reflecting on the loss and the earlier near-deaths on the account"},
+    {"t": 372, "text": "Addressing conspiracy theories about the death and Hedron"},
+    {"t": 541, "text": "Looking at the backup Hardcore Ironman and its stats and items"},
+    {"t": 663, "text": "Plans for the backup account and Corrupted Gauntlet"},
+    {"t": 755, "text": "Final account review of 6thBrother's collection log"},
+    {"t": 930, "text": "Closing thoughts on restarting"}
+  ],
+  "topics": [
+    {
+      "name": "6thBrother death",
+      "kind": "account",
+      "claims": [
+        {"t": 0, "kind": "event", "text": "Gnomonkey's Hardcore Ironman 6thBrother died in the Fortis Colosseum, off-stream, while he was trying to get dragon arrows for Doom of Mokhaiotl."},
+        {"t": 0, "kind": "opinion", "text": "Gnomonkey does not like doing the Colosseum on stream because chat backseats badly, telling him which pillar to use."},
+        {"t": 33, "kind": "event", "text": "He did not set up a recording for the death run because he always forgets to record, so there is no clip of the death."},
+        {"t": 33, "kind": "event", "text": "Gnomonkey was flying through the Colosseum, had no thought that he could die, and reached wave 11."},
+        {"t": 67, "kind": "trivia", "text": "Gnomonkey has death screenshots turned off because the folder filled up from dying so many times on his main account; he turned it off about two years before this video, so he showed an artist render of the death instead."},
+        {"t": 94, "kind": "event", "text": "On wave 11 in the Colosseum, he started on the southwest side and cleared the manticores, a Minotaur and the mage block easily, but finished the wave at around 60 hitpoints with no ranging potion left."},
+        {"t": 123, "kind": "event", "text": "At around 60 hitpoints with no ranging potion left on wave 11, Gnomonkey decided to kill the remaining stack, planning to brew up for the soul and drink a super combat before killing it."},
+        {"t": 154, "kind": "event", "text": "His prayers stopped changing during the fight with the Manticore because of an approximately 10-tick lag spike, so all the attacks landed at once and he died; he calls it effectively a disconnect and takes only partial credit."},
+        {"t": 186, "kind": "opinion", "text": "Gnomonkey says he still had two brews left and might have survived a two-second crystal at full health, but at 60 hitpoints there was no chance once the prayer swap failed."},
+        {"t": 217, "kind": "opinion", "text": "When asked if he finally admits that the North Pillar is better in the Colosseum, Gnomonkey says maybe it is time."},
+        {"t": 243, "kind": "opinion", "text": "Gnomonkey says he felt awful and was depressed for a couple of hours after the death, but had settled with it by the time of the video."},
+        {"t": 277, "kind": "opinion", "text": "He says he should have been dead long before, because the account had many near-deaths: Blood Moon, Tormented Demons, Bloat (hit for 35), Baba throwing a rock for 92 when he usually entered at 85, around 170 potential damage from four hits at Doom of Mokhaiotl, and the Doom chance being the worst by far."},
+        {"t": 541, "kind": "opinion", "text": "Gnomonkey says he does not regret playing aggressively and doing PvM grinds on the Hardcore Ironman, because it made Ironman mode actually enjoyable."}
+      ]
+    },
+    {
+      "name": "Hardcore Ironman",
+      "kind": "account",
+      "claims": [
+        {"t": 298, "kind": "opinion", "text": "Gnomonkey says he was close to getting Grandmaster combat achievements on the account, so he would never kill an account on purpose for content."},
+        {"t": 308, "kind": "opinion", "text": "Gnomonkey was nervous about being dry at Doom of Mokhaiotl, seeing people post 2000 deep delve collection logs without boots, and says he would not have made it to 1000 Doom kills."},
+        {"t": 308, "kind": "record", "text": "6thBrother had a six-hour session at Doom of Mokhaiotl without success, and Gnomonkey never got to Theatre of Blood on the account."},
+        {"t": 339, "kind": "tip", "text": "Gnomonkey says that to get Grandmaster combat achievements time for Nightmare he would need roughly full Ink potentially plus the scythe, which would also have meant doing the Phosani's Nightmare grind that he hates, and a lot of combat achievements from God Wars and Desert Treasure 2 bosses."},
+        {"t": 339, "kind": "opinion", "text": "Gnomonkey says he was somewhat relieved to be free of the upcoming dangerous combat achievement grinds, and says he does not particularly like combat achievements."},
+        {"t": 521, "kind": "opinion", "text": "Gnomonkey says he never cared about the prestige of doing everything himself and came to play Hardcore just to try the game mode; getting Grandmaster was never the goal."},
+        {"t": 521, "kind": "opinion", "text": "Gnomonkey says the Hardcore account was living on borrowed time with dangerous grinds coming up, and calls it a pretty good run for what is technically his third Hardcore Ironman, given the other two did not get as far."},
+        {"t": 521, "kind": "record", "text": "Gnomonkey has levelled three Hardcore Ironmen and had never died on one before 6thBrother; Hedron has never died on one."},
+        {"t": 721, "kind": "opinion", "text": "Gnomonkey says getting spooned everything made him skip big chunks of the game, so he expects a more natural Hardcore progression on the backup account to be nicer and different."},
+        {"t": 755, "kind": "opinion", "text": "Gnomonkey says getting Grandmaster on some account would be great, but the plan has always just been to play a Hardcore Ironman."}
+      ]
+    },
+    {
+      "name": "Hedron",
+      "kind": "person",
+      "claims": [
+        {"t": 372, "kind": "event", "text": "Some people claimed Gnomonkey killed the account for content or that Hedron (his wife) logged in and killed it; Gnomonkey says that is untrue and that Hedron had not touched the account in months, only doing things like glass blowing and mining before then."},
+        {"t": 405, "kind": "opinion", "text": "Gnomonkey says he will permanently ban anyone in chat who blames his wife for his own mistake on the account, regardless of how many subs they gave."},
+        {"t": 466, "kind": "opinion", "text": "Gnomonkey says people claiming his account does not matter because Hedron did some grinds is fine with him, since he does not care about the prestige of doing everything himself."},
+        {"t": 494, "kind": "method", "text": "Hedron does terrible grinds such as crafting grinds off-stream so that Gnomonkey does not have to stream them, which makes the content more interesting."},
+        {"t": 541, "kind": "event", "text": "Hedron has been building a backup Hardcore Ironman for Gnomonkey, which is in a good place to start the Corrupted Gauntlet grind."},
+        {"t": 631, "kind": "event", "text": "Hedron completed the Barrows Gloves requirements off-stream, and got a dragon axe in three kill count."}
+      ]
+    },
+    {
+      "name": "Backup Hardcore Ironman",
+      "kind": "account",
+      "claims": [
+        {"t": 541, "kind": "event", "text": "Gnomonkey plans to de-iron the backup account's settings after the 6thBrother death; he will keep a spare alt similar to Raddy with the same stats, and the GP on it becomes his."},
+        {"t": 558, "kind": "stat", "text": "The backup Hardcore Ironman is fairly close to Song of the Elves; the furthest requirement is 70 Construction, and Gnomonkey is working on 70 Hunter."},
+        {"t": 578, "kind": "stat", "text": "The backup account has a black mask, some Moons of Peril armour pieces, lots of tank legs but no tank body, a completed Warhammer, a dexterity prayer scroll for Rigor, and claws."},
+        {"t": 605, "kind": "stat", "text": "The backup account has 74 Prayer, enough for Rigor; it does not have Augury yet, which is the only thing Gnomonkey would want as a drop from the Corrupted Gauntlet grind."},
+        {"t": 631, "kind": "method", "text": "Gnomonkey plans to try to get the backup account to Song of the Elves, and to send the Corrupted Gauntlet in parts of streams, switching to other tasks such as the Moons grind, quests like Unlocking While Gothic Sleeps, or Tormented Demons when he is not feeling it."},
+        {"t": 663, "kind": "opinion", "text": "Gnomonkey says he feels you burn out very quickly doing the Corrupted Gauntlet all day, so having other grinds on the side means he does not have to do it straight."},
+        {"t": 663, "kind": "opinion", "text": "Gnomonkey says he has never done the Corrupted Gauntlet on a Hardcore Ironman and is kind of excited to learn something new there, even though he always says he hates it."},
+        {"t": 663, "kind": "opinion", "text": "Gnomonkey says restarting on the backup is a perfect position to be in, because he has other grinds to work on and does not need a Bow of Faerdhinen to send Tormented Demons."}
+      ]
+    },
+    {
+      "name": "6thBrother collection log",
+      "kind": "account",
+      "claims": [
+        {"t": 755, "kind": "record", "text": "6thBrother was a very spooned account overall, with very little dryness; Araxxor and Rex were a little dry, and basically everything else was handed to him."},
+        {"t": 785, "kind": "record", "text": "6thBrother had the Alchemical Hydra basically completed at 701 kill count, and Araxxor done, though it went a little dry at around 1400 kill count."},
+        {"t": 785, "kind": "record", "text": "Cerberus on 6thBrother was basically done except pegasian crystals at 374 kill count; Dagannoth Kings was slow and took forever to get the Berserker ring."},
+        {"t": 785, "kind": "record", "text": "Gnomonkey went giga dry at Doom of Mokhaiotl on 6thBrother but still held rank one on the Doom of Mokhaiotl leaderboard, which he expects to hold until Wide's Hardcore reaches it."},
+        {"t": 816, "kind": "record", "text": "6thBrother never completed Song of the Elves, never got gauntlets, and only had a crystal seed because he bought it from Last Man Standing."},
+        {"t": 816, "kind": "record", "text": "6thBrother got 23 fire capes because he was doing the Inferno for Slayer, and had a good Inferno kill count, with the Inferno pet Jal-Nib-Rek."},
+        {"t": 842, "kind": "record", "text": "6thBrother got a dragon pickaxe from the Kalphite Queen, had a very dry K'ril Tsutsaroth log (Gnomonkey mentions 15 for the spear), and was two out of three on the Vardorvis ring but never got it."},
+        {"t": 876, "kind": "record", "text": "The raids loot on 6thBrother was two Twisted bows; he had six purples in 34 kill count in Tombs of Amascut with the Tumeken's shadow, and got the Theatre of Blood pet without much else."},
+        {"t": 876, "kind": "record", "text": "6thBrother got an imbued heart on the fifth superior slayer creature, and a dragon warhammer at 600 kill count from the Lizardmen shamans."},
+        {"t": 930, "kind": "opinion", "text": "Gnomonkey says it was fun being so spooned and doing crazy content with all those items, though it made the death more painful given he had a shadow, a Twisted bow and near-max gear."}
+      ]
+    },
+    {
+      "name": "Fortis Colosseum",
+      "kind": "activity",
+      "claims": [
+        {"t": 0, "kind": "tip", "text": "Gnomonkey was doing the Fortis Colosseum to get dragon arrows for Doom of Mokhaiotl."},
+        {"t": 94, "kind": "method", "text": "On wave 11 of the Colosseum, Gnomonkey stacked the enemies and started on the southwest side, killing the manticore first and using the mage block against the Minotaur."},
+        {"t": 123, "kind": "method", "text": "In his recreated wave 11 plan, Gnomonkey stepped out to have enemies off-ticked so the ranger attacked just before the mage and the manticore, giving an order of ranged, mage, ranged, melee."},
+        {"t": 154, "kind": "opinion", "text": "Gnomonkey says the Colosseum is dangerous at low health and no range potion; a lag spike that stops prayers from switching can kill you."}
+      ]
+    },
+    {
+      "name": "Gnomonkey",
+      "kind": "person",
+      "claims": [
+        {"t": 243, "kind": "event", "text": "Because there was no recording or death screenshot of the 6thBrother death, Gnomonkey showed an MS Paint-style rendition of it instead."},
+        {"t": 541, "kind": "opinion", "text": "Gnomonkey says he does not care if people meme that he had an ego about the death, but he will not accept claims blaming other people."},
+        {"t": 930, "kind": "opinion", "text": "Gnomonkey says he hopes to restart with a more natural Hardcore progression and is fine with the new account being less spooned than 6thBrother."}
+      ]
+    }
+  ]
+}

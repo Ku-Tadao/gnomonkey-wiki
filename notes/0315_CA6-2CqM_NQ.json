@@ -1,0 +1,336 @@
+{
+ "id": "CA6-2CqM_NQ",
+ "title": "NEW CORRUPTED GAUNTLET IS FREE (Tier 1 + Tier 2 Prep)",
+ "date": "2026-07-22",
+ "type": "guide",
+ "summary": "A guide to the post-Summer Sweep-up Corrupted Gauntlet, showing a full tier two armor run with explanations and then a faster tier one run. Gnomonkey covers stat and prayer requirements, RuneLite plugins, prep priorities, how Hunllef's attacks and prayer switching work, how eating food interacts with attack ticks, and how to use the performance tracker to improve. His main takeaway is that tier two prep is now only about a 30 second loss, so learners should use tier two armor, then move to tier one once comfortable.",
+ "outline": [
+  {
+   "t": 0,
+   "text": "Gauntlet update overview: stacking resources and shards magnetised to the inventory"
+  },
+  {
+   "t": 51,
+   "text": "Requirements: base 80 combat stats and Titan prayers"
+  },
+  {
+   "t": 111,
+   "text": "Essential plugins and setup"
+  },
+  {
+   "t": 298,
+   "text": "Intro room explained and what to collect for a tier two run"
+  },
+  {
+   "t": 360,
+   "text": "Tier two preparation run: weapon frame, tier two staff, resources and demi-bosses"
+  },
+  {
+   "t": 658,
+   "text": "Completion of prep, vials and cooking"
+  },
+  {
+   "t": 782,
+   "text": "Boss fight strategy: Hunllef attack styles, prayers, tiles and tornadoes"
+  },
+  {
+   "t": 988,
+   "text": "How food delay works and when to eat"
+  },
+  {
+   "t": 1215,
+   "text": "Performance tracker review"
+  },
+  {
+   "t": 1281,
+   "text": "Tier one armor run with Wooxwalk demonstration"
+  },
+  {
+   "t": 1769,
+   "text": "Pro tips: which armor tier to make, Steel Skin, and conclusion"
+  }
+ ],
+ "topics": [
+  {
+   "name": "Corrupted Gauntlet",
+   "kind": "activity",
+   "claims": [
+    {
+     "t": 0,
+     "kind": "event",
+     "text": "As of the Summer Sweep-up, resources in the Corrupted Gauntlet now stack in your inventory, so you never have to drop them on the ground, and shards from killing NPCs are magnetised into your inventory."
+    },
+    {
+     "t": 27,
+     "kind": "opinion",
+     "text": "Gnomonkey says that after the Summer Sweep-up changes, making tier two armor in the Corrupted Gauntlet is a much better option and 'not terrible', and getting kills is much faster and easier overall."
+    },
+    {
+     "t": 57,
+     "kind": "requirement",
+     "text": "Gnomonkey says at least base 80 combat stats lets you get Corrupted Gauntlet kills consistently; AFKing combat stats (for example at Crab Boss) before the grind makes it easier."
+    },
+    {
+     "t": 298,
+     "kind": "method",
+     "text": "In Corrupted Gauntlet prep you need a set of armor, two tier three weapons, three prayer potions (two if you have a very high Prayer level), and as much fish as you can hold while learning."
+    },
+    {
+     "t": 298,
+     "kind": "stat",
+     "text": "You carry a sceptre to open the Corrupted Gauntlet side rooms; if you drop it you cannot open rooms. The middle object gives back any resources you dropped, a singing bowl crafts items, and the hub has a water pump for filling vials and a range for cooking fish."
+    },
+    {
+     "t": 386,
+     "kind": "event",
+     "text": "The first mob you kill in the Corrupted Gauntlet is now guaranteed to drop a weapon frame, which is needed to craft weapons; you need two weapon frames to craft two tier three weapons."
+    },
+    {
+     "t": 450,
+     "kind": "tip",
+     "text": "Gnomonkey says always make a tier two staff early in a Corrupted Gauntlet run, because it does much higher damage than the other early weapons and is the best weapon for killing things early regardless of stats."
+    },
+    {
+     "t": 450,
+     "kind": "stat",
+     "text": "You have seven and a half minutes to finish Corrupted Gauntlet prep, which Gnomonkey says is no longer difficult because prep is much faster than it used to be."
+    },
+    {
+     "t": 472,
+     "kind": "tip",
+     "text": "In the Gauntlet RuneLite plugin, entering a required resource count (for example seven ore) makes that resource grey out and stop highlighting once you have enough, so you can drop tools such as the pickaxe once done."
+    },
+    {
+     "t": 476,
+     "kind": "event",
+     "text": "Corrupted Gauntlet rooms directly opposite the boss now have a guaranteed demi-boss (the type is random: bear, dark beast or dragon), and demi-bosses can now spawn in any outer-edge room rather than only three outer rooms."
+    },
+    {
+     "t": 506,
+     "kind": "tip",
+     "text": "Gnomonkey says you need two different demi-bosses for weapon upgrade drops; dragons drop the staff upgrade, dark beasts drop a bow upgrade (but a second dark beast drops the orb instead of a second bow upgrade)."
+    },
+    {
+     "t": 506,
+     "kind": "opinion",
+     "text": "Gnomonkey considers a bow and a staff the easiest weapons to run in Corrupted Gauntlet; the halberd is still very good and worth learning, but is awkward to drag towards the boss for beginners, so he skips it until more confident."
+    },
+    {
+     "t": 628,
+     "kind": "tip",
+     "text": "You can break down demi-boss items for 80 shards each if you need extra shards."
+    },
+    {
+     "t": 659,
+     "kind": "method",
+     "text": "To make potions in Corrupted Gauntlet, each needs an herb and 10 shards ground with the pestle; vials can be filled at the water pump or at any fishing spot, and potions can be decanted to free inventory space."
+    },
+    {
+     "t": 752,
+     "kind": "tip",
+     "text": "There is a guaranteed triple fish spot in one of the rooms surrounding the Corrupted Gauntlet boss, so check those rooms if you are struggling to find fish."
+    },
+    {
+     "t": 782,
+     "kind": "stat",
+     "text": "If you run out of prep time in the Corrupted Gauntlet you are automatically teleported in to fight the boss, or you can walk in yourself."
+    },
+    {
+     "t": 1281,
+     "kind": "opinion",
+     "text": "Gnomonkey says tier one armor is the fastest option and what you should move to once comfortable with the boss, while tier two is about a 30 second time loss now, whereas before he said never make tier two because it was a minute and a half loss."
+    },
+    {
+     "t": 1349,
+     "kind": "stat",
+     "text": "In the tier one run, Gnomonkey says tier one armor only needs one resource node of each type (three of each resource) and the bear is now more common than other demi-bosses."
+    },
+    {
+     "t": 1349,
+     "kind": "tip",
+     "text": "Gnomonkey says never enter a Corrupted Gauntlet room without checking whether it holds demi-bosses and having the right protection prayer on, since a demi-boss can hit for 50."
+    },
+    {
+     "t": 1749,
+     "kind": "opinion",
+     "text": "Gnomonkey says making tier three armor is only about two minutes faster to prep and is not worth it; he recommends tier two for first kills and says tier three is only worth making on hardcore accounts to avoid dying in the event of a disconnect."
+    },
+    {
+     "t": 1857,
+     "kind": "requirement",
+     "text": "Gnomonkey says base 80 combat stats is enough to start doing tier one armor in the Corrupted Gauntlet, though higher stats make the transition easier and low-combat players may find the much harder boss fight not worth it."
+    },
+    {
+     "t": 1857,
+     "kind": "opinion",
+     "text": "Gnomonkey recommends doing the Corrupted Gauntlet to get the Bow of Faerdhinen on an early iron and says the grind is cut down so much it is easier than ever, even calling it effectively free money on a main."
+    }
+   ]
+  },
+  {
+   "name": "Corrupted Hunllef",
+   "kind": "boss",
+   "claims": [
+    {
+     "t": 782,
+     "kind": "stat",
+     "text": "Corrupted Hunllef starts by attacking with ranged and swaps to mage after several attacks; turn on protect from range when you enter, since ranged is his first attack."
+    },
+    {
+     "t": 812,
+     "kind": "stat",
+     "text": "While Corrupted Hunllef is using mage, he can send a dagger-shaped attack that turns your protection prayer off, so you must turn it back on; this can only happen during his mage attacks."
+    },
+    {
+     "t": 838,
+     "kind": "stat",
+     "text": "Floor tiles that light up under Corrupted Hunllef damage you, and tornadoes deal that damage every game tick if they catch you; armor reduces the boss damage, the floor damage and the tornado damage."
+    },
+    {
+     "t": 866,
+     "kind": "stat",
+     "text": "Every sixth attack you land on Corrupted Hunllef changes his overhead prayer, which is why you need to swap to a different weapon (two tier three weapons)."
+    },
+    {
+     "t": 894,
+     "kind": "opinion",
+     "text": "Gnomonkey describes Corrupted Hunllef as one of the harder boss fights players meet early on an account and says it was probably the hardest boss he did early in his own RuneScape progress."
+    },
+    {
+     "t": 928,
+     "kind": "stat",
+     "text": "At 66% and again at 33% health Corrupted Hunllef adds an extra tornado, so there are four tornadoes at the end of the fight, and floor patterns activate faster as the fight goes on."
+    },
+    {
+     "t": 959,
+     "kind": "tip",
+     "text": "Gnomonkey's general Corrupted Hunllef strategy is to not eat during the fight except when he spawns tornadoes, then spam food while running from the tornadoes."
+    },
+    {
+     "t": 1167,
+     "kind": "stat",
+     "text": "If you stand under Corrupted Hunllef when he attacks he will melee you; Gnomonkey says your default reaction on a mistake should be to eat a piece of food before the hit lands."
+    },
+    {
+     "t": 1288,
+     "kind": "tip",
+     "text": "Running in straight lines helps dodge the Corrupted Hunllef tornadoes because they tend to move diagonally towards you only on their last step."
+    },
+    {
+     "t": 1679,
+     "kind": "stat",
+     "text": "Gnomonkey says about three minutes is a pretty average Corrupted Hunllef kill with two tier three weapons."
+    }
+   ]
+  },
+  {
+   "name": "Food",
+   "kind": "mechanic",
+   "claims": [
+    {
+     "t": 1008,
+     "kind": "stat",
+     "text": "In Old School RuneScape, each piece of food eaten extends your attack delay by three game ticks, and eating can be spammed (such as with pies) so that you cannot attack for a long time."
+    },
+    {
+     "t": 1017,
+     "kind": "tip",
+     "text": "Gnomonkey says eating works in reverse too: if you have lost ticks by running around, eating a piece of food and then attacking lets you regain those game ticks because the attack counter has gone negative."
+    },
+    {
+     "t": 1073,
+     "kind": "tip",
+     "text": "Because eating costs three ticks no matter when you do it, the easiest time to eat in the Corrupted Hunllef fight is while tornadoes are up, since it is easier to eat and run than attack and run."
+    }
+   ]
+  },
+  {
+   "name": "Prayer",
+   "kind": "skill",
+   "claims": [
+    {
+     "t": 57,
+     "kind": "requirement",
+     "text": "Gnomonkey would not attempt the Corrupted Gauntlet without at least the Titan prayers, Deadeye and Mystic Vigour; on an iron he would grab these first and on a main he would buy Rigor and Augury."
+    },
+    {
+     "t": 84,
+     "kind": "opinion",
+     "text": "Gnomonkey says Deadeye and Mystic Vigour are close in power to Rigor and Augury but take half the prayer cost, and he would not go to the Corrupted Gauntlet until the Titans grind is done."
+    },
+    {
+     "t": 1886,
+     "kind": "tip",
+     "text": "Gnomonkey says you can run Steel Skin alongside Deadeye or Mystic Vigour in the Corrupted Gauntlet for more defence and less food needed; together they drain the same as Piety and are sustainable with three prayer potions."
+    }
+   ]
+  },
+  {
+   "name": "RuneLite",
+   "kind": "other",
+   "claims": [
+    {
+     "t": 111,
+     "kind": "tip",
+     "text": "Gnomonkey's plugins for the Corrupted Gauntlet are the Gauntlet plugin, tile indicators, CoX recolor (CG recolor), the weapon attack timer and the CG performance tracker."
+    },
+    {
+     "t": 145,
+     "kind": "tip",
+     "text": "Gnomonkey recommends setting the Gauntlet plugin's required resources (for the video: seven ore, seven bark, seven linum and 450 crystal shards) and enabling True Tile on the tornadoes at minimum."
+    },
+    {
+     "t": 174,
+     "kind": "tip",
+     "text": "Gnomonkey says to enable NPC indicators for Hunllef including his true tile and south-west true tile, and your own true tile, because the Corrupted Gauntlet is the first content where movement is so important."
+    },
+    {
+     "t": 203,
+     "kind": "tip",
+     "text": "The attack timer metronome plugin shows a number over your head indicating when you can attack again, helping avoid lost ticks at the boss."
+    },
+    {
+     "t": 204,
+     "kind": "tip",
+     "text": "A CG recolor plugin lets you change the red Corrupted Gauntlet colour to any hex colour or a random one each run, which Gnomonkey says makes the grind much more tolerable."
+    },
+    {
+     "t": 235,
+     "kind": "tip",
+     "text": "The CG performance tracker works like the PvP performance tracker but for the boss, showing prayer mistakes, wrong-style attacks, and total ticks lost."
+    },
+    {
+     "t": 1215,
+     "kind": "stat",
+     "text": "In his first demonstration run Gnomonkey's tracker showed 124 lost game ticks, four hits taken from wrong prayer and seven attacks with the wrong style; in his tier one run he lost four ticks plus a wrong style twice, about 12 ticks."
+    },
+    {
+     "t": 1251,
+     "kind": "tip",
+     "text": "Gnomonkey aims for a 95% 'use ticks' figure on the tracker and says you improve it by eating during tornadoes and keeping constant weapon uptime."
+    },
+    {
+     "t": 1705,
+     "kind": "tip",
+     "text": "Gnomonkey notes the tracker's lost tick count does not include wrong attack style hits, so those add to the true ticks lost."
+    }
+   ]
+  },
+  {
+   "name": "Woox walking",
+   "kind": "mechanic",
+   "claims": [
+    {
+     "t": 1491,
+     "kind": "tip",
+     "text": "Gnomonkey likes the halberd in the Corrupted Gauntlet because you can Woox walk the tornadoes with it, a more advanced strategy that makes the fight easier once learned."
+    },
+    {
+     "t": 1584,
+     "kind": "tip",
+     "text": "Gnomonkey says Woox walking the Corrupted Gauntlet tornadoes is not foolproof, since he took a tornado hit while setting it up, but you can move back and forth to avoid most tornadoes."
+    }
+   ]
+  }
+ ]
+}
