@@ -1,0 +1,10 @@
+site_name: GnomonkeyRS Wiki
+theme:
+  name: readthedocs
+nav:
+  - Home: index.md
+  - Topics: topics.md
+  - Videos: videos/index.md
+validation:
+  links:
+    unrecognized_links: warn
