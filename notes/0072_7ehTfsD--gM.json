@@ -1,0 +1,324 @@
+{
+  "id": "7ehTfsD--gM",
+  "title": "Alchemical Hydra Guide 2021 (4-4.5M GP/HR) OSRS",
+  "date": "2021-12-03",
+  "type": "guide",
+  "summary": "A full guide to solo Alchemical Hydra: requirements, gear, inventory, attack and special-attack patterns, the pool-luring phases, the lightning and fire skips, and expected rewards. Gnomonkey says it is one of the most profitable soloable bosses (over 4.5m gp/hr in the intro, about 3.5-4m gp/hr after supplies) and is basically Vorkath with valuable rare drops.",
+  "outline": [
+    {
+      "t": 0,
+      "text": "Intro: why Hydra is profitable and easy to learn"
+    },
+    {
+      "t": 26,
+      "text": "Requirements"
+    },
+    {
+      "t": 66,
+      "text": "Gear"
+    },
+    {
+      "t": 186,
+      "text": "Inventory"
+    },
+    {
+      "t": 264,
+      "text": "Basics: travel, instance, attack styles and special attacks"
+    },
+    {
+      "t": 434,
+      "text": "Rundown of the phases and pool luring"
+    },
+    {
+      "t": 561,
+      "text": "Lightning skip"
+    },
+    {
+      "t": 594,
+      "text": "Fire skip"
+    },
+    {
+      "t": 646,
+      "text": "Final phase and standard run, respawn and end of trip"
+    },
+    {
+      "t": 757,
+      "text": "Rewards, gp/hr, Slayer xp and getting to 99 Slayer"
+    }
+  ],
+  "topics": [
+    {
+      "name": "Alchemical Hydra",
+      "kind": "boss",
+      "claims": [
+        {
+          "t": 0,
+          "kind": "opinion",
+          "text": "Gnomonkey calls the Alchemical Hydra one of the most profitable soloable bosses in the game, averaging over 4.5m gp/hr, and says it is a pretty easy boss to learn even compared to Vorkath, being basically Vorkath with valuable rare drops."
+        },
+        {
+          "t": 0,
+          "kind": "stat",
+          "text": "Gnomonkey says you will easily make 3m gp/hr at Hydra even without finding any uniques."
+        },
+        {
+          "t": 0,
+          "kind": "requirement",
+          "text": "Hydra requires 95 Slayer and a Hydra task from Konar, since only Konar can assign Hydras."
+        },
+        {
+          "t": 32,
+          "kind": "requirement",
+          "text": "Gnomonkey recommends at least 90 Ranged, a high Prayer level with Rigor unlocked for much more DPS, and the current elite Karamja/Kourend-style diary (as said, \"elite diary\") so you can wear Devout boots and ignore floor heat damage; the hard diary gives the teleport to the mountain with three daily teleports."
+        },
+        {
+          "t": 264,
+          "kind": "tip",
+          "text": "Hydra is located in the Karuulm Slayer Dungeon; the fastest way there is a teleport with Rada's blessing, or otherwise Fairy ring code CIR and climbing the nearby cliffside."
+        },
+        {
+          "t": 264,
+          "kind": "tip",
+          "text": "Inside the Karuulm dungeon, with 88 Agility you can take the pipe straight to Hydra, which is not faster but avoids walking through the nearby hydras."
+        },
+        {
+          "t": 281,
+          "kind": "stat",
+          "text": "Past the rock before the Hydra entrance you are in your own instance, so Gnomonkey advises picking the lowest-ping world to make skips easier; items dropped on the floor stay for over 30 minutes instead of the standard two minutes, so you can keep extra food and potions on the ground."
+        },
+        {
+          "t": 308,
+          "kind": "stat",
+          "text": "Hydra has two regular attacks, magic and ranged; it attacks three times with one style, then swaps to the other, and special attacks are ignored in this rotation."
+        },
+        {
+          "t": 308,
+          "kind": "event",
+          "text": "Jagex added an animation swap for when Hydra changes attack styles, so you do not necessarily need to count attacks anymore, though you still need to know if Hydra is on his third attack after the fire phase ends."
+        },
+        {
+          "t": 339,
+          "kind": "stat",
+          "text": "Hydra has three special attacks, one per phase type, used after his first three attacks in a phase and again after nine more attacks if the phase lasts; the counter resets when a phase ends, and with high DPS you typically see a single special per phase."
+        },
+        {
+          "t": 370,
+          "kind": "stat",
+          "text": "It is safe to walk under Hydra because he has no stomp or melee attack."
+        },
+        {
+          "t": 370,
+          "kind": "stat",
+          "text": "In the first (green) and last (grey/black) phases Hydra uses a poison attack that fires poison on one tile or a shotgun spread around you; move a couple of tiles away to avoid the guaranteed splotch where you stand, which is why Gnomonkey brings an Antidote++."
+        },
+        {
+          "t": 399,
+          "kind": "stat",
+          "text": "In the second (blue) phase Hydra shoots four electrical tornadoes that chase you; if they hit they deal about 10 damage and freeze you in place."
+        },
+        {
+          "t": 399,
+          "kind": "stat",
+          "text": "In the third (red) phase Hydra walls you off with fire in a small area and shoots fire behind you, so you must keep moving; getting hit deals an extra 10 to 20 damage plus five hits of 5 damage each, and Gnomonkey calls it the most punishing special attack."
+        },
+        {
+          "t": 424,
+          "kind": "stat",
+          "text": "Three coloured chemicals spout from the arena and Hydra must be lured onto a specific colour each phase except the last; if he is not lured, damage is reduced by 75%, and a roar plus chat message confirms a correct lure."
+        },
+        {
+          "t": 455,
+          "kind": "method",
+          "text": "Phase 1 (green): lure Hydra onto the south-eastern red pool. Below 825 HP (75%) he loses a head and turns blue and must be lured onto the north-eastern green pool; below 550 HP (50%) he turns red and must be lured onto the north-western blue pool; below 275 HP (25%) he turns grey and needs no luring."
+        },
+        {
+          "t": 455,
+          "kind": "tip",
+          "text": "Luring Hydra onto a pool early increases his max hit each time it spouts but reduces time spent in damage-reduction mode; Gnomonkey would avoid luring early while learning the fight."
+        },
+        {
+          "t": 482,
+          "kind": "method",
+          "text": "Hydra's first attacks are random but magic is slightly more dangerous than ranged, so start by praying Protect from Magic and swap accordingly."
+        },
+        {
+          "t": 512,
+          "kind": "tip",
+          "text": "After each kill, stand on the south-eastern red-pool tile since it will always lure him after he respawns; on the first kill of a trip you may need to move around to lure him adequately. Poison globules stay on the floor, and you can run over a single tile of poison by starting on the tile before and running to the tile after."
+        },
+        {
+          "t": 542,
+          "kind": "method",
+          "text": "In the blue phase, when Hydra shoots electricity after his third attack, wait until the nearest electricity forms, then run to the western side to lure him next to the pool; starting too early gets you hit by the lightning."
+        },
+        {
+          "t": 561,
+          "kind": "tip",
+          "text": "Lightning skip: when there is a one-tile gap between you and the approaching lightning, step diagonally one tile and then back one tile to trap the lightning under you and avoid it entirely; the lightning does not despawn until the next phase starts, so run a good distance away before leaving that tile."
+        },
+        {
+          "t": 604,
+          "kind": "tip",
+          "text": "Fire skip: after three attacks in the red phase Hydra walks to the middle of the room and you must already be on the lure tile; when his head moves and he spits two fire walls east and south of you, run to the lower tile, which gives you several ticks to complete."
+        },
+        {
+          "t": 604,
+          "kind": "tip",
+          "text": "If you mess up the fire skip and get hit, turn off run and walk around the room until the fire stops following you; if Hydra stuns you off the tile, spam click to the right tile as soon as he moves his head and then click to the fire skip tile, which also skips it."
+        },
+        {
+          "t": 633,
+          "kind": "tip",
+          "text": "Gnomonkey recommends saving blowpipe specs for the fire phase or the last phase as the most dangerous parts, since specs do 50% more damage."
+        },
+        {
+          "t": 649,
+          "kind": "stat",
+          "text": "In the final grey phase (which people call the Jad phase, though Gnomonkey disagrees) you simply alternate prayers each attack; the first attack is the opposite of the last attack received during the fire phase, so change prayers when the phase starts."
+        },
+        {
+          "t": 660,
+          "kind": "stat",
+          "text": "If you miss a prayer in the final phase, Hydra's max hit goes from two hits with a max of 17 each to one massive hit with a max of 52, which can quickly kill you; after three attacks he shoots a poison blob again, and a second one if it takes another nine attacks."
+        },
+        {
+          "t": 686,
+          "kind": "stat",
+          "text": "Hydra takes about 20 seconds to respawn; you can leave and re-enter from the rock outside to respawn him slightly faster, but Gnomonkey does not bother because it saves little time and despawns items left on the floor."
+        },
+        {
+          "t": 686,
+          "kind": "tip",
+          "text": "At the end of a trip Gnomonkey fills his inventory with bones (worth under 5k each, not worth banking), then teleports to Mount Karuulm with Rada's blessing and then to Clan Wars using the minigame teleport; bring a teleport if you lack Rada's blessing since you cannot leave through the door while Hydra is alive."
+        },
+        {
+          "t": 720,
+          "kind": "tip",
+          "text": "Tile indicators help a lot; you can add all the indicators from outside the boss room, and Gnomonkey provides an import code in the description (copy to clipboard, right-click the world map and hit import)."
+        },
+        {
+          "t": 747,
+          "kind": "tip",
+          "text": "If you die at Hydra you can reclaim items from the NPC outside the boss room, but bring new boots of stone if you lack the diary; dying a second time loses everything permanently."
+        },
+        {
+          "t": 747,
+          "kind": "stat",
+          "text": "An average Hydra kill takes about 2 minutes plus about 20 seconds respawn; including banking time (30 to 40 minutes after the first kill) that is 24-25 kills per hour with max gear and blowpipe, giving over 4m gp/hr in loot, much of it from the Hydra claw used to make the Dragon hunter lance, valued at 50m."
+        },
+        {
+          "t": 778,
+          "kind": "stat",
+          "text": "Supplies cost roughly 500k gp per hour (less with a twisted bow), leaving about 3.5m gp/hr with a blowpipe and about 4m gp/hr with a twisted bow."
+        },
+        {
+          "t": 805,
+          "kind": "stat",
+          "text": "You receive on average 3 to 4 brimstone keys per Hydra task, which the OSRS Wiki's calculator leaves out, adding about 50k gp/hr."
+        },
+        {
+          "t": 805,
+          "kind": "stat",
+          "text": "Hydra gives around 30k Slayer xp per hour and 130k Ranged xp per hour, which Gnomonkey calls surprisingly one of the best boss tasks in the game for Slayer xp."
+        }
+      ]
+    },
+    {
+      "name": "Alchemical Hydra gear and inventory",
+      "kind": "item",
+      "claims": [
+        {
+          "t": 65,
+          "kind": "tip",
+          "text": "Gnomonkey wears a slayer helmet at Hydra since you are always on task, which makes Void a terrible choice."
+        },
+        {
+          "t": 65,
+          "kind": "opinion",
+          "text": "Gnomonkey considers the twisted bow with dragon arrows the best weapon for Hydra, giving about 2 extra kills per hour over a blowpipe for a total of 27; the blowpipe has slightly less DPS but much higher supply cost."
+        },
+        {
+          "t": 94,
+          "kind": "tip",
+          "text": "The Dragon hunter crossbow also works on Hydra, up to a 6.5% DPS increase over the blowpipe if ruby bolts hit 100, and can be a switch with the pipe; with Amethyst darts switch back to the pipe at 22% (240 HP) remaining, and with Dragon darts at 38% (420 HP), but Gnomonkey says not to bother with the crossbow if you have a twisted bow."
+        },
+        {
+          "t": 94,
+          "kind": "opinion",
+          "text": "Gnomonkey says Dragon darts gain only one max set against Hydra so Amethyst darts are the more profitable choice, though Dragon darts make sense if you want the pet faster."
+        },
+        {
+          "t": 127,
+          "kind": "tip",
+          "text": "Because Hydra has very low defence, Gnomonkey prioritises prayer bonus: Necklace of anguish, Ring of the gods (Ring of suffering acceptable), and Crystal armour, which gives two extra prayer bonus and uses barely any charges since it only takes a charge when you take damage."
+        },
+        {
+          "t": 127,
+          "kind": "tip",
+          "text": "Blessed dragonhide or Armadyl armour are also acceptable, Rada's blessing should be kept in the inventory if you bring a twisted bow or DHCB for teleporting to the mountain, and Devout boots are best; blessed dragonhide boots are also fine, and without the diary the next best boot is Brimstone boots."
+        },
+        {
+          "t": 158,
+          "kind": "opinion",
+          "text": "Gnomonkey says the Bow of Faerdhinen is about 8% worse DPS than the blowpipe at Hydra even with Crystal armour, so he would never bring it."
+        },
+        {
+          "t": 158,
+          "kind": "tip",
+          "text": "For gloves any god bracers are best for prayer bonus; the Max cape is best-in-slot (the Assembler gives no max hit), next best a ranged cape for its prayer bonus, and an Assembler is acceptable."
+        },
+        {
+          "t": 186,
+          "kind": "method",
+          "text": "Gnomonkey's inventory is an Antidote++, three Divine ranging potions, a rune pouch with alching runes and a free slot for rune drops (usually stocked with blood runes), about 11 food that heals 22 and 12 prayer potions, adjusted if you run out of one before the other."
+        },
+        {
+          "t": 186,
+          "kind": "tip",
+          "text": "Gnomonkey does not recommend bringing thralls with an Explorer's ring 4 because you will run out of alchs before finishing a task; Hydra drops a lot of alchables."
+        },
+        {
+          "t": 217,
+          "kind": "tip",
+          "text": "You take a small amount of guaranteed damage no matter how good you are, so Gnomonkey would bring at least 4 food that heals 22 if very consistent."
+        },
+        {
+          "t": 217,
+          "kind": "tip",
+          "text": "A bonecrusher necklace can be switched in at the end of a kill for extra prayer; Jagex removed the delay before it could restore prayer points, so you can switch after the killing blow."
+        },
+        {
+          "t": 248,
+          "kind": "stat",
+          "text": "Hydra bones are worth four prayer points and Hydra drops two, so eight prayer points are refunded per kill; every 17 kills with the bonecrusher necklace switch equals one super restore at 99 Prayer with a holy wrench."
+        }
+      ]
+    },
+    {
+      "name": "Slayer",
+      "kind": "skill",
+      "claims": [
+        {
+          "t": 817,
+          "kind": "stat",
+          "text": "Gnomonkey calculated that getting from 95 to 99 Slayer purely on Hydra needs 3,230 kills, which averages 21 Hydra tasks."
+        },
+        {
+          "t": 838,
+          "kind": "tip",
+          "text": "With the highest-weight Konar task blocked and every other task skipped, it takes an average of 570 skip points to get 21 Hydra tasks, so around 1,000 points should near-guarantee skipping every non-Hydra task to reach 99."
+        },
+        {
+          "t": 838,
+          "kind": "tip",
+          "text": "Using a slaughter bracelet switch every kill would need only an average of 16 tasks and 450 skip points to reach the same kill count, which Gnomonkey considers a good option if you want the pet anyway."
+        },
+        {
+          "t": 868,
+          "kind": "tip",
+          "text": "Task cancelling (as heard, \"Turael canceling for hydras\") is also not a terrible option if you really want to do only Hydra."
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,102 @@
+{
+  "id": "_nMz6X90hb0",
+  "title": "WIKI GUIDES - KRIL/ZAMMY (OSRS)",
+  "date": "2024-05-12",
+  "type": "challenge",
+  "summary": "Gnomonkey fights K'ril Tsutsaroth with the OSRS Wiki's worst allowed mage downgrade (a Skull sceptre casting Demon Bane) and fails to face-tank, so he switches to the 5-0 method to finish. He then builds a 6.7 million gp budget setup with Gearscape and finds it roughly 50% better in DPS, cutting the expected kill from about two minutes to 75 seconds. He calls it possibly the worst wiki guide he has seen.",
+  "outline": [
+    {"t": 0, "text": "Intro: K'ril with Demon Bane and the wiki's Skull sceptre downgrade"},
+    {"t": 86, "text": "Demon Bane, Mark of Darkness and Ward of Arceuus details; first face-tank attempt fails"},
+    {"t": 206, "text": "Switching to the 5-0 method after failing the face tank"},
+    {"t": 288, "text": "Successful 5-0 kill with the downgraded gear"},
+    {"t": 375, "text": "Building a 6.7 million gp budget setup with Gearscape"},
+    {"t": 467, "text": "Budget setup kill much faster; checking max hit"},
+    {"t": 521, "text": "DPS comparison between the wiki setup and the budget setup"},
+    {"t": 565, "text": "Critique of the wiki's Skull sceptre and skill cape recommendations"}
+  ],
+  "topics": [
+    {
+      "name": "K'ril Tsutsaroth",
+      "kind": "boss",
+      "claims": [
+        {"t": 0, "kind": "event", "text": "Gnomonkey attempts K'ril Tsutsaroth using Demon Bane spells with the OSRS Wiki's worst recommended mage downgrades, choosing it because the wiki suggests a Skull sceptre."},
+        {"t": 123, "kind": "stat", "text": "Gnomonkey's downgraded K'ril setup has 20 melee defence, 17 range defence and 74 mage defence, which he describes as essentially no defence."},
+        {"t": 123, "kind": "tip", "text": "The imps in the K'ril Tsutsaroth room are demons, so Demon Bane can be used on them."},
+        {"t": 206, "kind": "event", "text": "Gnomonkey's attempt to face-tank K'ril in the wiki's worst mage gear failed after he got K'ril to about half health, so he switched to the 5-0 method."},
+        {"t": 288, "kind": "method", "text": "Gnomonkey completed a K'ril kill on his first try using the 5-0 method with the wiki's downgraded mage gear, estimating from Ward of Arceuus that the kill took about two and a half minutes."},
+        {"t": 270, "kind": "tip", "text": "On the 5-0 method Gnomonkey notes you need full run energy, and a stamina potion helps because the bridge drains some run energy."},
+        {"t": 278, "kind": "opinion", "text": "Gnomonkey says that normally with Shadow you would kill K'ril in about three hits, and that the wiki's downgraded setup is what you would use only if going for a combat achievement."},
+        {"t": 623, "kind": "stat", "text": "Gnomonkey states K'ril Tsutsaroth has 200 mage level and 130 mage defence, so magic accuracy matters a lot against him."},
+        {"t": 623, "kind": "opinion", "text": "Gnomonkey says that against K'ril, where he has 200 mage and 130 mage defence, accuracy starts mattering a lot, so about 20% more accuracy gives a big improvement."}
+      ]
+    },
+    {
+      "name": "Demon Bane",
+      "kind": "mechanic",
+      "claims": [
+        {"t": 29, "kind": "stat", "text": "Gnomonkey reads that Demon Bane spells have an accuracy bonus of 20% with the Mark of Darkness spell active, and the accuracy bonus is increased to 40% with the player additionally gaining a 25% damage bonus."},
+        {"t": 25, "kind": "tip", "text": "A Skull sceptre can autocast Demon Bane spells, which is why the wiki recommends it for K'ril Tsutsaroth."},
+        {"t": 270, "kind": "opinion", "text": "Gnomonkey says Demon Bane is so bad that it seems like it was designed never to be used, speculating that Jagex did not want to power creep Shadow at K'ril; he says manually casting Demon Bane with Shadow would be overpowered."},
+        {"t": 375, "kind": "opinion", "text": "Gnomonkey says Gearscape will not choose Demon Bane for K'ril even when he tries to force it, which he takes as proof of how bad the spell is."},
+        {"t": 405, "kind": "opinion", "text": "Gnomonkey says you would have to be stupid to use Demon Bane at K'ril right now and that the only way to make the tool use it is to exclude about 80% of the mage weapons."}
+      ]
+    },
+    {
+      "name": "Ward of Arceuus",
+      "kind": "mechanic",
+      "claims": [
+        {"t": 91, "kind": "stat", "text": "Ward of Arceuus makes demons hit you 10% less, reducing the damage by 10% rounded down, which Gnomonkey says makes it not great."},
+        {"t": 91, "kind": "tip", "text": "Gnomonkey says he does not need death runes for the Ward of Arceuus and Mark of Darkness casts he plans against K'ril."}
+      ]
+    },
+    {
+      "name": "Skull sceptre",
+      "kind": "item",
+      "claims": [
+        {"t": 0, "kind": "opinion", "text": "Gnomonkey says the Skull sceptre is a very bad weapon and that a basic staff would technically be better."},
+        {"t": 29, "kind": "stat", "text": "Imbuing the Skull sceptre only adds more teleport charges and does not change its stats, according to Gnomonkey."},
+        {"t": 59, "kind": "stat", "text": "In Gnomonkey's downgraded K'ril setup the staff's maximum hit with a Skull sceptre casting Demon Bane is 30."},
+        {"t": 580, "kind": "opinion", "text": "Gnomonkey says the Skull sceptre is the second worst magic weapon in the game, with only the regular staff worse, yet it is what the wiki recommends."}
+      ]
+    },
+    {
+      "name": "Wiki Guides challenge series",
+      "kind": "challenge",
+      "claims": [
+        {"t": 0, "kind": "event", "text": "This episode of Gnomonkey's Wiki Guides series uses the wiki's worst allowed K'ril Tsutsaroth gear: Skull sceptre, glory, skill cape and Wizard boots."},
+        {"t": 585, "kind": "opinion", "text": "Gnomonkey says the wiki's K'ril page downgrades straight to a skill cape, whereas other magic setups often downgrade imbued cape, a 'majorina' cape (as transcribed), fire cape or Inferno cape in that order before a skill cape."},
+        {"t": 600, "kind": "opinion", "text": "Gnomonkey questions why the wiki setup includes things that can autocast when users would just face-tank K'ril and need to cast manually if they run under him and eat."},
+        {"t": 621, "kind": "opinion", "text": "Gnomonkey says he found the challenge more fun than expected and the upgrade quite a bit better than he thought."}
+      ]
+    },
+    {
+      "name": "Opinion: OSRS Wiki gear setup layout",
+      "kind": "opinion",
+      "claims": [
+        {"t": 0, "kind": "opinion", "text": "Gnomonkey says the K'ril Tsutsaroth wiki guide may be one of the worst he has come across, and the Skull sceptre recommendation makes him think ChatGPT autofilled these guides."},
+        {"t": 0, "kind": "opinion", "text": "Gnomonkey suggests the wiki should use a simple three-column High, Medium, Low loadout format on all boss pages instead of its messy, irrelevant charts."}
+      ]
+    },
+    {
+      "name": "Gearscape",
+      "kind": "other",
+      "claims": [
+        {"t": 377, "kind": "stat", "text": "For K'ril Tsutsaroth, Gnomonkey gave Gearscape a 6.7 million gp budget, and it suggested a void-based setup."},
+        {"t": 391, "kind": "opinion", "text": "Gnomonkey says Gearscape is a very good tool but wouldn't let him force Demon Bane spells and instead preferred something like an ancient sceptre."},
+        {"t": 447, "kind": "stat", "text": "Gnomonkey notes Infinity kits cost 160k each when considering budget upgrades."},
+        {"t": 462, "kind": "stat", "text": "With the Gearscape budget setup Gnomonkey hit a 42 and notes that is not even the max; the max hit is 43, up from 30 in the wiki's downgraded setup."},
+        {"t": 521, "kind": "stat", "text": "Mage attack bonus rose from 88 in the wiki setup to 131 in the Gearscape budget setup."},
+        {"t": 530, "kind": "stat", "text": "Gnomonkey says the budget setup raised accuracy against K'ril from 34% to 50%, max hit from 37 to 43, and average hit from 6.4 to 10.7, a DPS increase of 50%."},
+        {"t": 538, "kind": "stat", "text": "The expected K'ril kill time fell from two minutes in the wiki setup to 75 seconds in the budget setup."}
+      ]
+    },
+    {
+      "name": "Gnomonkey",
+      "kind": "person",
+      "claims": [
+        {"t": 0, "kind": "event", "text": "Gnomonkey plans to do Duke Sucellus, Vardorvis and Challenge Mode Chambers of Xeric next in the Wiki Guides series."},
+        {"t": 0, "kind": "trivia", "text": "Gnomonkey streams on Twitch for an hour and then moves to Kick, where there are no ads, and Hedron edits the videos quickly."}
+      ]
+    }
+  ]
+}

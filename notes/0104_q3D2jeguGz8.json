@@ -1,0 +1,187 @@
+{
+  "id": "q3D2jeguGz8",
+  "title": "TOA Advanced Tactics (24M GP/HR) OSRS",
+  "date": "2022-11-18",
+  "type": "guide",
+  "summary": "Gnomonkey details the advanced tactics he uses in the Tombs of Amascut to reach an average of 24M GP/hr, covering his invocation setup, gear, boss order, and room-by-room tricks for Baba, Kephri, Zebak, Akkha and the Warden. The main takeaway is that Warden is by far the best point source, so the goal is to reach it fast at the highest raid level you can consistently clear, boosting points with chinning agile scarabs and skipping skulls in P3.",
+  "outline": [
+    {"t": 0, "text": "Introduction: the drop rate blog confirms Warden is the best point source"},
+    {"t": 43, "text": "Invocation breakdown for money runs and his 510 raid level setup"},
+    {"t": 133, "text": "Optimal gear and boss order"},
+    {"t": 195, "text": "Path of Apmeken: monkey room caps and chins"},
+    {"t": 296, "text": "Baba combat methods, including the red X method"},
+    {"t": 379, "text": "Path of Scabaras puzzles"},
+    {"t": 422, "text": "Kephri combat strategies"},
+    {"t": 515, "text": "Path of Het puzzles"},
+    {"t": 583, "text": "Zebak combat techniques"},
+    {"t": 624, "text": "Path of Crondis puzzles"},
+    {"t": 656, "text": "Akkha combat strategies"},
+    {"t": 822, "text": "Warden phases 1 and 2"},
+    {"t": 972, "text": "Warden phases 3 and 4"},
+    {"t": 1079, "text": "GP per hour calculation and wrap-up"}
+  ],
+  "topics": [
+    {
+      "name": "Tombs of Amascut",
+      "kind": "raid",
+      "claims": [
+        {"t": 0, "kind": "event", "text": "Jagex recently released a drop rate blog post explaining how the points system works inside the Tombs of Amascut; Gnomonkey says it did not change much about how raids are approached."},
+        {"t": 0, "kind": "tip", "text": "The points blog confirmed that the Warden is by far the best point source of the Tombs of Amascut, similar to Ulm in the Chambers of Xeric."},
+        {"t": 29, "kind": "tip", "text": "Raid level dramatically increases GP per hour in the Tombs of Amascut, so Gnomonkey's goal is to reach the Warden as fast as possible at the highest raid level he can consistently complete."},
+        {"t": 133, "kind": "method", "text": "Gnomonkey's optimal boss order for speed in the Tombs of Amascut is Baba, Kephri, then typically Zebak, then Akkha."},
+        {"t": 195, "kind": "tip", "text": "Doing Baba first lets you pre-pot every useful potion for the monkey room, so you do not need to bring a ranged potion or stamina; he notes this matches the OSRS Wiki's assumptions in its Tombs of Amascut calculator."},
+        {"t": 195, "kind": "trivia", "text": "Most of the footage in the video comes from the 1500 raid level runs Gnomonkey was doing on stream, which is why bosses show odd mechanics or high HP; he says these are technically even more efficient for GP but incredibly difficult."},
+        {"t": 1079, "kind": "stat", "text": "Using his tactics of chinning agile scarabs and skipping skulls, an average 510 raid level completion gave just under 16M GP at the time of writing the script."},
+        {"t": 1079, "kind": "stat", "text": "At about 16M GP per raid and 40 minutes per raid including banking, Gnomonkey completes one and a half raids an hour, which comes out to an average of 24M GP/hr."},
+        {"t": 1079, "kind": "opinion", "text": "Gnomonkey says the 24M GP/hr rate is Tombs of Amascut taken to its extreme and requires incredibly consistent play, but can be reached with practice."}
+      ]
+    },
+    {
+      "name": "Invocations (Tombs of Amascut)",
+      "kind": "mechanic",
+      "claims": [
+        {"t": 29, "kind": "tip", "text": "Gnomonkey's rule of thumb is that any Tombs of Amascut invocation that slows the raid down too much is probably not worth using for money, such as overly draining or quiet prayers, which waste several minutes a raid; Boulder Dash wasting about 20 seconds in Baba is not what he means."},
+        {"t": 61, "kind": "tip", "text": "All the path invocations except Pathmaster are worth using for money in the Tombs of Amascut, because the large raid level increase outweighs the extra HP and defence they give bosses up to the Warden."},
+        {"t": 61, "kind": "opinion", "text": "Gnomonkey says Pathmaster is only an extra 10 raid level and slows the raid down and adds difficulty, so it is not worth using for money."},
+        {"t": 89, "kind": "tip", "text": "Hardcore and the best speed invocations are a given for money runs; No Help Needed is excellent at 40 raid level."},
+        {"t": 89, "kind": "tip", "text": "For money runs Gnomonkey always takes Power and brings enough restore for the whole raid, keeps Quiet Prayers off because it makes the raid dramatically harder and wastes time, and treats Deadly Prayers as free raid level."},
+        {"t": 89, "kind": "tip", "text": "On a Diet and Dehydration are both worth using if you have Yellow Kiris."},
+        {"t": 89, "kind": "tip", "text": "Every boss unique invocation is worth using for money except Medic and Overlords; Medic wastes way too much time in Kephri."},
+        {"t": 119, "kind": "stat", "text": "Overlords wastes a little time, and its additional scarab spawns only have a 0.5x point multiplier."},
+        {"t": 119, "kind": "tip", "text": "Double Trouble, Feeling Special and Keep Back are all difficult to use, but Gnomonkey says they are absolutely worth using if you can deal with them."},
+        {"t": 119, "kind": "method", "text": "Gnomonkey's optimal money run setup is a raid level of 510, with the 40 minute timer invocation turned off until you are consistently getting 35 minute raids (or when doing a one plus one team)."}
+      ]
+    },
+    {
+      "name": "Tombs of Amascut gear setup",
+      "kind": "item",
+      "claims": [
+        {"t": 148, "kind": "method", "text": "Gnomonkey's Tombs of Amascut gear setup is seven ways for each combat style, and notes each ranged switch is a max hit salted."},
+        {"t": 148, "kind": "method", "text": "He camps Lightbearer and Blood fury with max melee."},
+        {"t": 148, "kind": "opinion", "text": "Gnomonkey considers the Bandos godsword hugely important for solos: it can re-spec bosses if it misses and can hit the core on final hits, making it better than the Bone dagger despite how much he liked the dagger."},
+        {"t": 148, "kind": "method", "text": "His inventory includes Yellow Kiris, a Toxic blowpipe and 5 restores; to flick heavily he suggests bringing a Zaryte crossbow instead of claws with 4 restores."},
+        {"t": 181, "kind": "method", "text": "The rest of his inventory is all runes and the book, a small stack of chinchompas, a divine super combat potion and a rapier for P2 of the Warden."},
+        {"t": 181, "kind": "opinion", "text": "Gnomonkey calls Eternal boots and Pegasian boots an absolute waste of space in the Tombs of Amascut, as both are sub 1% DPS increases in the rooms where you use them."},
+        {"t": 181, "kind": "tip", "text": "Zebak has a 1 in 6 chance of being level 4 by the third room with Pathseeker, and Gnomonkey wants to keep him below level 4 if possible."},
+        {"t": 210, "kind": "tip", "text": "The boss order puts melee-heavy bosses first because melee benefits less from Salt than Tumeken's shadow or the Twisted bow do, since melee gets a much smaller max hit increase."}
+      ]
+    },
+    {
+      "name": "Baba",
+      "kind": "boss",
+      "claims": [
+        {"t": 243, "kind": "tip", "text": "In Baba's monkey room, all monkeys except thralls (brawler, thrower, mage, shaman and volatile) count toward a cap that stops the next wave from advancing."},
+        {"t": 243, "kind": "stat", "text": "In Baba's monkey room the first two waves require zero monkeys alive before the next wave, the second to last wave has a cap of two monkeys, and all other waves have a cap of one monkey."},
+        {"t": 243, "kind": "tip", "text": "The goal in the monkey room is to kill the low HP monkeys and blow up the volatiles as quickly as possible to send the next wave."},
+        {"t": 276, "kind": "tip", "text": "Chinchompas are great in the monkey room because they roll off the defence of the target, so you can kill throwers and brawlers with chins off thralls."},
+        {"t": 276, "kind": "tip", "text": "Summoned thralls will not attack cursed baboons, so if you leave something at low HP you can attack the cursed baboons for a bit while your thrall continues on your last target."},
+        {"t": 276, "kind": "opinion", "text": "Gnomonkey says fighting Baba conventionally is always fastest, but with Dehydration on she becomes much less consistent to face tank."},
+        {"t": 276, "kind": "method", "text": "The red X method negates all of Baba's damage by forcing her to proc her Shadow Stomp repeatedly, which prevents her from attacking."},
+        {"t": 309, "kind": "stat", "text": "Baba attacks on a six tick speed, so using the red X method slows your melee attacks down to that attack speed."},
+        {"t": 309, "kind": "method", "text": "Gnomonkey's red X setup: wait on the right side of the gap when entering, hit Baba once, walk right one tile, right click the obelisk, walk three tiles under, click Baba to walk three tiles back, then cycle by walking two tiles under and two tiles back, waiting outside for your animation."},
+        {"t": 309, "kind": "method", "text": "When Baba drops boulders during the red X method you avoid them by walking diagonally a tile, and you can continue the red X the same way right after."},
+        {"t": 337, "kind": "method", "text": "To restart the red X after boulders, drop a potion to the left of Baba (not the right), run to the top right of her, hit her once, step a tile back, step three under when she approaches, attack, then cycle two under and two back."},
+        {"t": 364, "kind": "tip", "text": "During the red X cycle there is time to fit in switches between attacks, so you can switch to a Zaryte crossbow, use a spec, then switch back to melee."},
+        {"t": 364, "kind": "tip", "text": "Baba can be drained 20 defence levels, so Gnomonkey uses the Bandos godsword until at least that much is drained; it is six tick, so it can still be used while red Xing."}
+      ]
+    },
+    {
+      "name": "Kephri",
+      "kind": "boss",
+      "claims": [
+        {"t": 379, "kind": "tip", "text": "For Kephri's puzzle room Gnomonkey recommends the Tombs of Amascut plugin to speed it up."},
+        {"t": 379, "kind": "tip", "text": "Kephri benefits dramatically from Death Charge and thralls because there are tons of targets to proc Death Charge from."},
+        {"t": 390, "kind": "tip", "text": "If you use a Tumeken's shadow you can pull soul runes out of it and use those for thralls."},
+        {"t": 390, "kind": "stat", "text": "Kephri can be drained 20 defence levels, and she resets her defence only once you remove her shield completely in the final phase."},
+        {"t": 390, "kind": "tip", "text": "The Bone dagger special is not guaranteed on the first hit on Kephri because of a bug, but it works in teams if someone else hits first, which Gnomonkey abuses in 1s."},
+        {"t": 390, "kind": "opinion", "text": "In solo, Gnomonkey says the Bandos godsword is worth using over Osmumten's fang specs on Kephri if you will do more than 1000 damage to her in the coming phases; the godsword has under 50% accuracy so it may take quite a few specs."},
+        {"t": 419, "kind": "tip", "text": "Agile scarabs often stack up in corners of Kephri's room; a stack of three or more is worth chinning for points because of their extremely low defence, even without a ranged boost, and they have a 1x point multiplier."},
+        {"t": 419, "kind": "tip", "text": "Agile scarabs can also be used to proc Death Charge."},
+        {"t": 419, "kind": "stat", "text": "If Kephri is level 2 or higher, the healing scarab swarms come in two batches of 3 each time she goes down, so you need chins to prevent her healing."},
+        {"t": 449, "kind": "tip", "text": "Perfectly catching Kephri's swarms cuts her HP by roughly 70%, so Gnomonkey says it is incredibly worth catching them if you can do it safely."},
+        {"t": 449, "kind": "tip", "text": "If you are at full HP on Kephri's second down, a decent option is to pray protect from magic and ignore the arcane scarab, which hits between 30 and 60 through magic and which you typically only need to tank once."},
+        {"t": 449, "kind": "stat", "text": "The arcane scarab jumps if it is hit by three hit splats plus the number of team members, so in a one plus one it jumps on four hits, or if you hit a 40 or higher."},
+        {"t": 481, "kind": "tip", "text": "Against the arcane scarab, the Twisted bow is the best DPS if you have a ranged potion; without one the Osmumten's fang overtakes, though the bow may still overtake if you waste ticks running after it with melee."},
+        {"t": 481, "kind": "tip", "text": "The melee scarab heals Kephri less the lower its HP is; it is not worth keeping alive, but hitting it once as the arcane scarab jumps may prevent some healing."},
+        {"t": 481, "kind": "tip", "text": "In Kephri's room you can use Dragon dagger-style (Kerris) specs on the eggs, which trades 4 ticks for 12 HP and a Death Charge, and might be worth it in a pinch."}
+      ]
+    },
+    {
+      "name": "Zebak",
+      "kind": "boss",
+      "claims": [
+        {"t": 515, "kind": "tip", "text": "Zebak's puzzle room is simple: water the tree quickly without making a mistake; you can run through the spikes with a running start from the correct tile, avoiding their line of sight."},
+        {"t": 515, "kind": "tip", "text": "Using the water jug on the waterfall and using the full water jug on the tree each save a tick, and Gnomonkey highly recommends swapping the left click of the jug to use."},
+        {"t": 515, "kind": "stat", "text": "Zebak can be drained 20 defence levels, so Gnomonkey uses the Bandos godsword until that much is damaged in."},
+        {"t": 540, "kind": "tip", "text": "When Zebak melees, flinch by running two tiles away; if you walk back you still get hit by the melee, which maxes over a hundred."},
+        {"t": 540, "kind": "tip", "text": "Gnomonkey highly recommends spending an adrenaline dose at the start of Zebak because Zaryte crossbow specs are incredibly powerful there."},
+        {"t": 540, "kind": "tip", "text": "When Zebak throws out barricades, be at the left side of the arena, as that typically gives an easy first solve; jugs can be pushed or pulled diagonally and are affected by weapon travel time."},
+        {"t": 572, "kind": "tip", "text": "You can catch all of Zebak's blood barrages if he is level 2 or 3 by watching for the blood indicator beneath him and praying mage, even after he enrages."},
+        {"t": 572, "kind": "stat", "text": "If Zebak is a higher or lower path level, the blood barrage lines up with his attacks, so you are forced to take barrages when they line up with his ranged attack."},
+        {"t": 601, "kind": "tip", "text": "When Zebak fires waves you can wave skip on a bad layout: walk away from the wave for one tile then run through it with a running start, otherwise line of sight catches you; the true tile NPC called Wave helps with this."}
+      ]
+    },
+    {
+      "name": "Akkha",
+      "kind": "boss",
+      "claims": [
+        {"t": 624, "kind": "requirement", "text": "For Akkha's puzzle you need a Mining level of at least 85 to get a one-down puzzle, and boosting Mining over 100 increases your max hit by 2."},
+        {"t": 624, "kind": "tip", "text": "The Tombs of Amascut plugin has an indicator for when to click in Akkha's puzzle: click when it turns green while standing at least a tile away to get the one down."},
+        {"t": 624, "kind": "tip", "text": "Shadow orbs in Akkha's puzzle room can spawn on top of each other and hit for over 60, so you can easily die in the puzzle before Akkha; the plugin can also remove the exit option from left click when you have a pickaxe in your inventory."},
+        {"t": 656, "kind": "opinion", "text": "Gnomonkey calls Akkha the hardest room of the raid, with loads of little intricacies."},
+        {"t": 656, "kind": "method", "text": "He uses radius markers to give Akkha a true tile matching the colour of the style he is using, and links Kirby's butterfly guide as better than his own old guide."},
+        {"t": 656, "kind": "stat", "text": "Akkha can be drained 10 defence levels but recovers roughly a level every 15 seconds, so Gnomonkey says draining him is not worth bothering with."},
+        {"t": 656, "kind": "tip", "text": "Akkha's shadows proc Death Charge, and Tumeken's shadow is the best DPS on Akkha and his shadows, so ideally you keep Akkha in melee form as long as possible."},
+        {"t": 692, "kind": "stat", "text": "Akkha has a chance to switch styles each time he does a special attack, which is every 60 seconds, and each time he melees you, so avoid letting him hit you."},
+        {"t": 692, "kind": "stat", "text": "Augury is a 3% DPS increase against Akkha, while Mystic Lore is a 1.5% DPS increase at four times less prayer drain, which may be worthwhile if prayer is tight."},
+        {"t": 720, "kind": "method", "text": "To skip the shadows DPS check, Gnomonkey uses his line of red tiles to a red tile on the outside, clicking as the shadow slams the spear into the ground; any tile in that area works, but you typically tank a melee hit and Akkha can change styles."},
+        {"t": 720, "kind": "tip", "text": "Double Trouble plus Feeling Special is one of the hardest invocation combinations but manageable with practice: when Akkha begins Simon Says, make sure every time you move you run two tiles, with one tick of leeway."},
+        {"t": 747, "kind": "method", "text": "Gnomonkey has four tiles he uses for transitions after Akkha spawns shadows: attack on the upper butterfly tile, run to the diagonal you are transitioning to, attack, run to the lower butterfly tile, attack and start running; this works tick perfectly only in the directions he marked, and the tile indicators are in the description."},
+        {"t": 747, "kind": "tip", "text": "You can manipulate Akkha's positioning after Simon Says to gain an extra attack by body blocking; the time needed to stop him differs in each quadrant."},
+        {"t": 780, "kind": "tip", "text": "Keep Back is easily dealt with when Akkha is ranged: step back right before he attacks to avoid the melee damage, at the cost of using a six tick Osmumten's fang."},
+        {"t": 780, "kind": "tip", "text": "When Akkha is maging with Keep Back, you can do two blowpipe attacks, step back for a third, then step back in to dodge all melee damage without wasting ticks."},
+        {"t": 780, "kind": "stat", "text": "Mage prayer does nothing beyond 375 raid level in Akkha's final phase."},
+        {"t": 811, "kind": "tip", "text": "True tiles on Akkha's orbs (the NPC called ultimate stable orb) help; make sure you do not have a thrall active, and resummon a zombie thrall if you forgot."}
+      ]
+    },
+    {
+      "name": "Warden",
+      "kind": "boss",
+      "claims": [
+        {"t": 822, "kind": "tip", "text": "In Warden P1 you can stand on the far side of the arena to avoid the UFOs, but only a weapon with 10 tile range works for this; Tumeken's shadow is the best DPS anyway."},
+        {"t": 822, "kind": "tip", "text": "Without a Shadow in Warden P1, Gnomonkey says Bandos godsword on the obelisk for 30 defence drain and the blowpipe is the next best option."},
+        {"t": 822, "kind": "stat", "text": "Each set of orbs in Warden P1 deals 75 damage to you, or 9D in his 1s, but this can be mitigated by tick-eating them with Kiris."},
+        {"t": 841, "kind": "method", "text": "In Warden P1 the skinny orb from the right Warden has the same timing as Yellow's at P3 Verzik (spec when it is roughly in the middle of the screen), and the big orb from the left Warden has the same timing as Sotetseg (tick eat when the ball touches your head)."},
+        {"t": 841, "kind": "tip", "text": "You can keep both orbs on the same timing by not tanking skulls, which lets you tick eat both at once; at 1 HP when tick eating you take only 2 damage instead of 75, and the lower your HP the better."},
+        {"t": 874, "kind": "method", "text": "Gnomonkey tanks the first set of orbs, then tanks skulls on the left side until he is at 1 HP while the second set comes out, keeping the orbs on the same tick and preparing the correct Warden for P2."},
+        {"t": 874, "kind": "stat", "text": "Tick eating with Kiris does not negate the prayer drain: you are still drained 15 prayer points with Deadly Prayers on."},
+        {"t": 874, "kind": "tip", "text": "Do not tank skulls as you kill the P1 obelisk or the explosion hits for roughly 30; Gnomonkey says he has died to that repeatedly."},
+        {"t": 904, "kind": "tip", "text": "For Warden P2 summon a zombie or skeletal thrall, because the ghost thrall cannot hit through magic prayer while the other two hit no matter what."},
+        {"t": 904, "kind": "tip", "text": "In P2, marking two tiles lets you avoid the windmill and radial specials easily without dragging the Warden."},
+        {"t": 904, "kind": "stat", "text": "Accuracy affects your minimum hit while damage bonuses affect your maximum hit, so things like boot takeoffs and Augury do affect your DPS in P2; the Warden's max hit through prayer is 10, so cure yourself when below 10 HP."},
+        {"t": 931, "kind": "tip", "text": "The P2 skull special can be avoided by standing one or two cardinal steps away from the Shadow indicator, which can fall under the Warden or near the Obelisk."},
+        {"t": 931, "kind": "stat", "text": "When the core is ejected on the first down you get five four-tick hits then a final sixth hit; later downs give 8 hits if the Warden is below 80% HP and 10 hits if below 60%."},
+        {"t": 931, "kind": "method", "text": "Five Dragon dagger specs into a Bandos godsword whack gets the Warden below 60% on the first down, and after three downs the Warden stops giving points, so it is optimal to set up gear to kill on the third down."},
+        {"t": 959, "kind": "tip", "text": "When the core is sucked back into the Warden it procs Death Charge, so you can get 15% spec energy every down."},
+        {"t": 972, "kind": "tip", "text": "In Warden P3 standing right against the Warden is optimal, as standing far away makes projectiles hit more slowly and any attack going toward the Warden is nulled when Skull Phase starts."},
+        {"t": 972, "kind": "stat", "text": "Killing all the skulls in P3 damages the Warden for 5% of his total HP, which is not credited to you as points."},
+        {"t": 990, "kind": "stat", "text": "P3 is worth the most points of the entire raid, with a 2.5 times multiplier, so Gnomonkey says skipping the skulls is worth it for GP per hour."},
+        {"t": 990, "kind": "method", "text": "To skip P3 skulls, kill all but one skull (so a mistake is not lethal), run to one of his marked tiles, wait for the skull explosion, then click to the center of the room, running over the damage similar to the DPS skip at Akkha."},
+        {"t": 990, "kind": "stat", "text": "Skipping all four skulls in Warden P3 gives 20% more damage, which works out to roughly 5% more total loot for the entire raid."},
+        {"t": 1018, "kind": "method", "text": "In Warden P4, sip adrenaline and dump a couple of DPS specs while leaving enough energy for a Kerris spec."},
+        {"t": 1018, "kind": "tip", "text": "In P4's final row, watch for lightning shadows, move to a tile next to the one about to strike, then step onto it as it does; it becomes safe for a few seconds."},
+        {"t": 1018, "kind": "stat", "text": "In P4 boulders hit for around 50 damage and typically mean instant death, so Gnomonkey says to avoid them at all costs."},
+        {"t": 1046, "kind": "tip", "text": "In P4, tank a lightning before anything else; below 70 HP use the Kerris spec, as you can be comboed for huge damage; stay toward the middle and knock the outside edges because the lightning can hit all but one tile at once."},
+        {"t": 1046, "kind": "tip", "text": "Zebak being above level 4 affects both P3 and P4 of the Warden, so be faster on the prayers because projectiles travel a tick faster in that case."}
+      ]
+    },
+    {
+      "name": "Gnomonkey",
+      "kind": "person",
+      "claims": [
+        {"t": 0, "kind": "event", "text": "Gnomonkey says he has been searching on stream for the most efficient GP per hour methods in the Tombs of Amascut and has the best invocations and methods down to a science."},
+        {"t": 1108, "kind": "event", "text": "As of this video Gnomonkey was still running Tombs of Amascut one plus one 1500 raid level runs on Twitch looking for new tech."}
+      ]
+    }
+  ]
+}

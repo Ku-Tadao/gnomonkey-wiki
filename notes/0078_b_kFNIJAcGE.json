@@ -1,0 +1,168 @@
+{
+  "id": "b_kFNIJAcGE",
+  "title": "Grotesque Guardians Guide MAX EFFICIENT (OSRS)",
+  "date": "2022-03-16",
+  "type": "guide",
+  "summary": "A max-efficiency guide to Grotesque Guardians (Dawn and Dusk), which Gnomonkey calls the hardest main Slayer boss. It covers requirements, gear and inventory, each fight phase including the heal skip, the loot table, and kills per hour for the pet grind.",
+  "outline": [
+    {"t": 0, "text": "Intro: Grotesque Guardians as the hardest main Slayer boss, and why they are killed for the pet"},
+    {"t": 31, "text": "Requirements: 75 Slayer, Gargoyle task, brittle key, recommended unlocks"},
+    {"t": 93, "text": "Gear: max melee Scythe with Torva, Blood Fury, dragon darts in the blowpipe"},
+    {"t": 150, "text": "Inventory: torture switch, halberd/SGS, heavy ballista, prayer potions, rune pouch"},
+    {"t": 241, "text": "Getting there, starting the fight and the Dawn/Dusk overview"},
+    {"t": 301, "text": "Phase 1: killing Dawn with ranged and the ballista tech"},
+    {"t": 332, "text": "Phase 2: Dusk, falling rocks and the halberd spec"},
+    {"t": 427, "text": "Phase 3: portals, healing orbs and the heal skip"},
+    {"t": 524, "text": "Phase 4: the prison attack and finishing Dusk"},
+    {"t": 614, "text": "Looting, food drops and trip length"},
+    {"t": 648, "text": "Drop table, granite dust, pet rate and kills per hour"}
+  ],
+  "topics": [
+    {
+      "name": "Grotesque Guardians",
+      "kind": "boss",
+      "claims": [
+        {"t": 0, "kind": "opinion", "text": "Gnomonkey calls Dawn and Dusk (the Grotesque Guardians, also called grotesques, guardians or GGs) easily the hardest main Slayer boss in the game; they require a gargoyle Slayer task."},
+        {"t": 0, "kind": "trivia", "text": "The Grotesque Guardians are fought on the roof of the Slayer Tower and require both ranged and melee to kill."},
+        {"t": 0, "kind": "opinion", "text": "Gnomonkey says the Grotesque Guardians' loot is not exceptional because the main rewards are tank gear (granite ring, granite gloves, guardian boots), and that in max efficiency gear you lose a little money here."},
+        {"t": 31, "kind": "opinion", "text": "Gnomonkey says most people kill the Grotesque Guardians for the pet and the passive granite dust, and that the guide focuses on max efficiency because they are not worth doing for loot."},
+        {"t": 31, "kind": "requirement", "text": "To fight the Grotesque Guardians you need 75 Slayer and a gargoyle Slayer task; Gnomonkey recommends only fighting them at max melee and ranged levels, especially ranged."},
+        {"t": 62, "kind": "requirement", "text": "The Grotesque Guardians roof is unlocked by a brittle key dropped by gargoyles at 1/150; once the roof is unlocked the boss is permanently accessible."},
+        {"t": 241, "kind": "method", "text": "To reach the Grotesque Guardians, teleport to the Slayer Tower with a Slayer ring, climb the chain, go up the stairs, then climb the fence stairs; ring the bell across the room to start the fight."},
+        {"t": 241, "kind": "tip", "text": "The first five Grotesque Guardians kills have a short cutscene before the fight; after five kills the bell gets a quick start option that skips it."},
+        {"t": 241, "kind": "tip", "text": "Gnomonkey says to start the Grotesque Guardians fight in ranged equipment."},
+        {"t": 274, "kind": "trivia", "text": "In the Grotesque Guardians fight Dawn is the female purple flying ranged gargoyle and Dusk is the big orange melee gargoyle; the fight swaps between them over several phases, ending with Dawn killed and Dusk, who has absorbed Dawn's essence, finished off."},
+        {"t": 274, "kind": "tip", "text": "Dusk has a trample attack when fought on his own, so at no point should you stand under him in those phases; while fighting Dawn you can stand under Dusk safely."},
+        {"t": 614, "kind": "tip", "text": "Because the Grotesque Guardians fight is an instance, the loot stays on the ground practically forever, so Gnomonkey picks up only the main items he can carry during the trip and loots everything once out of supplies."},
+        {"t": 614, "kind": "stat", "text": "Grotesque Guardians drop two rolls per kill, with lots of ores, bars, alchables, coins, and combat potions, prayer potions or mushroom potatoes."},
+        {"t": 648, "kind": "stat", "text": "A standard Grotesque Guardians trip at max efficiency lasts around 30 minutes."},
+        {"t": 648, "kind": "stat", "text": "At max efficiency Gnomonkey gets 36 Grotesque Guardians kills per hour, which he says is an 83 hour grind on average for the pet."},
+        {"t": 641, "kind": "tip", "text": "After the fight, Gnomonkey teleports to his house to resupply before the next Grotesque Guardians kill."}
+      ]
+    },
+    {
+      "name": "Grotesque Guardians loot",
+      "kind": "item",
+      "claims": [
+        {"t": 648, "kind": "stat", "text": "The Grotesque Guardians granite maul, granite ring, granite gloves and granite hammer drops are all under 150k and are unexceptional rare drops, per Gnomonkey."},
+        {"t": 648, "kind": "stat", "text": "The only decent Grotesque Guardians drop is the black tourmaline core (1/500), which creates guardian boots."},
+        {"t": 648, "kind": "stat", "text": "The Jar of Stone from the Grotesque Guardians is worth about 1.2 million gp and drops at 1/5,000."},
+        {"t": 648, "kind": "stat", "text": "The Grotesque Guardians pet drops at 1/3,000; it is a flying purple gargoyle in its noon form or a huge grounded glowing orange gargoyle in its midnight form, which Gnomonkey calls one of the coolest pets in the game."},
+        {"t": 31, "kind": "opinion", "text": "Gnomonkey considers the Grotesque Guardians pet (a large glowing orange or flying purple gargoyle) one of the best pets in the game."}
+      ]
+    },
+    {
+      "name": "Granite dust",
+      "kind": "item",
+      "claims": [
+        {"t": 648, "kind": "stat", "text": "Grotesque Guardians drop 50 to 100 granite dust per kill, which coats cannonballs and raises their max hit from 30 to 35."},
+        {"t": 681, "kind": "tip", "text": "Gnomonkey says granite-dust cannonballs are really useful for Giant Mole, Venenatis, and minorly at Corporeal Beast, and extremely good if you do not have 99 Slayer yet for general Slayer tasks."},
+        {"t": 681, "kind": "tip", "text": "Gnomonkey suggests using up granite-dust cannonballs whenever possible because they have few uses in the late game, including on Slayer task skips."}
+      ]
+    },
+    {
+      "name": "Slayer",
+      "kind": "skill",
+      "claims": [
+        {"t": 62, "kind": "tip", "text": "Gnomonkey highly recommends having the Gargoyle smasher (Gargoyle Auto Smasher) unlocked from a Slayer Master for Grotesque Guardians trips, and says you will use it constantly."},
+        {"t": 62, "kind": "tip", "text": "Gnomonkey would not recommend extending the gargoyle Slayer task, as it is already a pretty long task."},
+        {"t": 95, "kind": "opinion", "text": "Gnomonkey says not to unlock the double treble (smashing Dawn also counts as a kill for the Slayer task): it only ends the task faster and costs 500 points."},
+        {"t": 62, "kind": "tip", "text": "A crystal halberd helps tremendously for the Grotesque Guardians Slayer task, though Gnomonkey says there are other decent options."}
+      ]
+    },
+    {
+      "name": "Scythe of Vitur",
+      "kind": "item",
+      "claims": [
+        {"t": 95, "kind": "method", "text": "Gnomonkey's Grotesque Guardians melee setup is a max melee Scythe of Vitur with Torva armour; he says the gargoyle boss is not weak to crush, despite what you might expect."},
+        {"t": 123, "kind": "tip", "text": "With Torva armour the Scythe's max hit is high enough that you no longer lose a max hit by wearing a Blood Fury instead of an amulet of torture at the Grotesque Guardians."},
+        {"t": 123, "kind": "tip", "text": "Gnomonkey recommends waiting until you have Torva before doing Grotesque Guardians if you seriously want the pet; the Torva defence also helps you survive until food drops start."}
+      ]
+    },
+    {
+      "name": "Toxic blowpipe",
+      "kind": "item",
+      "claims": [
+        {"t": 150, "kind": "tip", "text": "At the Grotesque Guardians the blowpipe should be filled with dragon darts; Gnomonkey says any less and you will not get the heal skip often."},
+        {"t": 150, "kind": "tip", "text": "Gnomonkey says Zaryte vambraces are only a very small upgrade over Barrows gloves for the blowpipe switch and that Barrows gloves are perfectly acceptable at the Grotesque Guardians."},
+        {"t": 332, "kind": "tip", "text": "During the Dawn phase, Gnomonkey moves between blowpipe shots to a set tile while praying ranged and Rigor, which two-tick offs both bosses."},
+        {"t": 427, "kind": "tip", "text": "In the heal-orb phase, Gnomonkey stands next to Dawn praying melee and Rigor and DPSes her with the blowpipe rather than chasing the orbs."}
+      ]
+    },
+    {
+      "name": "Heal skip",
+      "kind": "mechanic",
+      "claims": [
+        {"t": 427, "kind": "trivia", "text": "In the Grotesque Guardians portal phase, Dawn throws out three healing orbs that slowly grow; if allowed to fully grow (roughly 20 seconds) they flow to Dawn and heal 90 HP each."},
+        {"t": 460, "kind": "tip", "text": "Gnomonkey estimates roughly 95% of the time Dawn dies before the healing orbs are a problem, so he DPSes Dawn with the blowpipe instead of running around absorbing orbs."},
+        {"t": 460, "kind": "tip", "text": "If a healing orb lands next to Dawn, Gnomonkey optionally absorbs it between blowpipe shots for insurance; the closer an orb is to Dawn, the faster she absorbs it when it has grown."},
+        {"t": 492, "kind": "tip", "text": "To make the heal skip more consistent, Gnomonkey does not wait for the auto smasher but uses the rock hammer on Dawn right after a blowpipe shot that brings her to zero HP, saving a tick or two."},
+        {"t": 492, "kind": "tip", "text": "If Dawn hovers around 50 HP and Gnomonkey thinks he will miss the heal skip, he sends a desperation heavy ballista shot (which can hit over a 60) and readies the rock hammer, but says he would not count on it."},
+        {"t": 524, "kind": "tip", "text": "Dawn's freezing orb landing next to you almost always makes you fail the heal skip, though it is rare; Gnomonkey still got the heal skip twice after being frozen, so he says not to stop attacking."},
+        {"t": 332, "kind": "tip", "text": "Gnomonkey's ballista tech: when an XP drop will put Dawn below 250 HP, switch to the ballista and fire one final time; this adds DPS during downtime and makes the later heal skip more consistent because the HP carries over."},
+        {"t": 332, "kind": "tip", "text": "Gnomonkey says a dark bow loses so many ticks that you lose a tick scything on the next phase, so he does not use it for the Dawn ballista tech."}
+      ]
+    },
+    {
+      "name": "Heavy ballista",
+      "kind": "item",
+      "claims": [
+        {"t": 181, "kind": "tip", "text": "Gnomonkey brings a heavy ballista to Grotesque Guardians and calls this the one PvM encounter where it has any use; it costs about 1k per shot because the ammo is always used up, so it is optional."},
+        {"t": 123, "kind": "tip", "text": "Gnomonkey says the ranged weapon setup with the ballista is optional if you do not want to sweat, but it helps you get the heal skip more consistently."}
+      ]
+    },
+    {
+      "name": "Dusk phase",
+      "kind": "mechanic",
+      "claims": [
+        {"t": 364, "kind": "trivia", "text": "When Dawn flies up, switch to protect from melee and quickly switch to melee; as soon as Dawn's hull indicator disappears you can attack Dusk, and a quick swap gets three Scythe swings before Dusk hunkers down and glows orange."},
+        {"t": 364, "kind": "trivia", "text": "While Dusk glows orange he drops rocks from the sky; you must step at least one tile back to avoid being thrown back for 30 to 50 damage."},
+        {"t": 364, "kind": "trivia", "text": "Avoid a 3x3 area around each falling-rock shadow at the Grotesque Guardians, since a rock deals 20 damage and stones you in place for about five seconds."},
+        {"t": 397, "kind": "tip", "text": "When Dusk is below 300 HP according to RuneLite, Gnomonkey swaps to a halberd and torture amulet and sends a spec; forced downtime begins after 250 HP remaining and extra damage carries over to the next phase."},
+        {"t": 397, "kind": "opinion", "text": "Gnomonkey prefers a halberd over claws for the Dusk spec because of the forced downtime and carry-over damage."},
+        {"t": 397, "kind": "trivia", "text": "After Dusk goes below 250 HP, he and Dawn dash to the center of the room; being hit by a rock around this transition is dangerous because the next portal spawn special attack is nearly guaranteed to kill you if you cannot move, which Gnomonkey says is the only way he has ever died there."},
+        {"t": 427, "kind": "trivia", "text": "During the portal special attack, portals deal 5 to 10 damage per tick if you stand in a 3x3 area near any of them; look for a hole on the outer square of Dawn, or wait for the portals to dissipate and move next to Dawn."}
+      ]
+    },
+    {
+      "name": "Chally",
+      "kind": "item",
+      "claims": [
+        {"t": 150, "kind": "tip", "text": "Gnomonkey brings a torture amulet switch at Grotesque Guardians for his chally spec, which loses a max hit when wearing Blood Fury, or when many food drops let him save money and boost DPS slightly."},
+        {"t": 150, "kind": "opinion", "text": "Gnomonkey says using a Saradomin godsword instead of the chally makes sense for a longer trip and saving money, but kills are slower, and he suggests speccing at the same times as for the chally."},
+        {"t": 524, "kind": "tip", "text": "If Dusk is below 80 HP in the final phase and you have a lot of spec left, Gnomonkey recommends a chally spec plus the rock hammer to finish him, but prioritises chally specs in phase two where they are far more effective."},
+        {"t": 402, "kind": "stat", "text": "The video's chapter list says the chally spec maxes an absurd 146 at the Grotesque Guardians."}
+      ]
+    },
+    {
+      "name": "Prayer",
+      "kind": "mechanic",
+      "claims": [
+        {"t": 301, "kind": "tip", "text": "When Dusk approaches during the Dawn phase, pray melee to catch his hit, then alternate between ranged and melee prayers while killing Dawn, who usually fires only two ranged orbs but may throw a freezing orb like the superior gargoyle."},
+        {"t": 301, "kind": "tip", "text": "If a shadow appears next to you during the Dawn phase, move away quickly to avoid it."},
+        {"t": 150, "kind": "tip", "text": "Gnomonkey brings about seven prayer potions and a restore to Grotesque Guardians so he can drink brew drops if forced to."},
+        {"t": 181, "kind": "opinion", "text": "Gnomonkey is torn on bringing crystal dust at Grotesque Guardians because the boss rarely drops enough prayer potions for the trip to last long enough to make divines; it may be better to bring another prayer potion."},
+        {"t": 614, "kind": "tip", "text": "If you receive many potato and prayer potion drops, Gnomonkey turns combat potion drops into divines with crystal dust to extend the trip."}
+      ]
+    },
+    {
+      "name": "Blood fury",
+      "kind": "item",
+      "claims": [
+        {"t": 123, "kind": "opinion", "text": "Gnomonkey says Blood Fury is incredibly important at Grotesque Guardians."},
+        {"t": 614, "kind": "tip", "text": "Gnomonkey camps Blood Fury while scything unless he has a steady stack of about 8 or more mushroom potato drops on the ground."},
+        {"t": 614, "kind": "stat", "text": "Even camping Blood Fury at Grotesque Guardians, Gnomonkey loses roughly 10 HP per kill because of divine damage and the bosses' auto attacks."}
+      ]
+    },
+    {
+      "name": "Dusk prison",
+      "kind": "mechanic",
+      "claims": [
+        {"t": 524, "kind": "trivia", "text": "After Dawn is smashed, Dusk absorbs her remains and flings you into a prison of purple fire with one tile opening; after a few seconds fires appear under you and heavily damage you, so you must run outside the prison."},
+        {"t": 524, "kind": "tip", "text": "If the prison spawns next to a wall, the gap can be placed next to the wall; Gnomonkey has never been hit by the attack but believes it hits over a 60."},
+        {"t": 556, "kind": "tip", "text": "Use the prison downtime to eat if you are under 30 HP, since 30 is Dusk's max hit."},
+        {"t": 556, "kind": "trivia", "text": "In Dusk's final vulnerable phase he alternates between ranged and melee, and Gnomonkey says he most likely repeats the same attack style again, so swap to whatever style he used last; start the phase praying ranged, which has a higher max hit."}
+      ]
+    }
+  ]
+}

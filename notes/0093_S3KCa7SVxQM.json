@@ -1,0 +1,217 @@
+{
+  "id": "S3KCa7SVxQM",
+  "title": "The Runescape \"Rich Man Mindset\" (OSRS)",
+  "date": "2022-06-29",
+  "type": "guide",
+  "summary": "Gnomonkey explains his 'rich man mindset': using opportunity cost to decide what to do, treating supplies as a non-concern once you can afford them, and skipping low-value activities like herb runs once you can boss. He illustrates with Construction training, Hallowed Sepulchre coffins, Vorkath versus herb runs, and his own pet and Inferno PB supply spending, and compares it to real life.",
+  "outline": [
+    {
+      "t": 0,
+      "text": "Defining the rich man mindset and its pitfalls"
+    },
+    {
+      "t": 56,
+      "text": "Disclaimer: generalities, not hard rules"
+    },
+    {
+      "t": 69,
+      "text": "Opportunity cost and Construction example"
+    },
+    {
+      "t": 146,
+      "text": "Application in gameplay: Hallowed Sepulchre coffins"
+    },
+    {
+      "t": 204,
+      "text": "Low-intensity methods and efficiency for your time"
+    },
+    {
+      "t": 236,
+      "text": "Potential money and grind timing"
+    },
+    {
+      "t": 298,
+      "text": "Herb run efficiency"
+    },
+    {
+      "t": 353,
+      "text": "Supplies and investing in high-end gear"
+    },
+    {
+      "t": 442,
+      "text": "Combat achievements, Inferno PB supply spending"
+    },
+    {
+      "t": 504,
+      "text": "Real life parallels"
+    }
+  ],
+  "topics": [
+    {
+      "name": "Rich man mindset",
+      "kind": "opinion",
+      "claims": [
+        {
+          "t": 0,
+          "kind": "trivia",
+          "text": "'The rich man mindset' is a line Gnomonkey uses with his friends in his Discord: you either have it or you don't."
+        },
+        {
+          "t": 0,
+          "kind": "opinion",
+          "text": "Gnomonkey says someone lacks the rich man mindset if they use lower-tier ammo than they should, uncharge their Scythe for a Gargoyles task, do an herb run with a 2b+ bank, or go to the Grand Exchange between raids out of prayer potions and buy only 50."
+        },
+        {
+          "t": 0,
+          "kind": "opinion",
+          "text": "Gnomonkey says the rich man mindset does not come from your bank value but from your state of mind: guzzling Sanfew serums, gobbling sweets, dumping dragon darts on foes."
+        },
+        {
+          "t": 28,
+          "kind": "trivia",
+          "text": "Gnomonkey says he worked up to almost an 8b bank from scratch and made many dumb mistakes managing his growing bank."
+        },
+        {
+          "t": 56,
+          "kind": "opinion",
+          "text": "Gnomonkey notes nothing in the video is a hard rule, only generalities he follows as a player, and says to do what makes you happy."
+        },
+        {
+          "t": 504,
+          "kind": "opinion",
+          "text": "Gnomonkey says RuneScape parallels real life: slowly putting money into upgrades that help you earn faster has an exponential effect, and eventually with enough PvM supply costs become a distant concern."
+        }
+      ]
+    },
+    {
+      "name": "Opportunity cost",
+      "kind": "mechanic",
+      "claims": [
+        {
+          "t": 56,
+          "kind": "tip",
+          "text": "Gnomonkey defines opportunity cost (quoting Google) as the loss of potential gain from other alternatives when one alternative is chosen; basically time spent doing something is time not spent doing something else, and it is a simple concept that is not common sense."
+        },
+        {
+          "t": 87,
+          "kind": "stat",
+          "text": "Gnomonkey's Construction example: about 350k XP/hr with oak dungeon doors versus 700k XP/hr with mahogany tables; for 8m more XP to 99, oak doors take 23 hours and cost 56m, mahogany tables take 11.5 hours and cost 120m."
+        },
+        {
+          "t": 114,
+          "kind": "stat",
+          "text": "Because the 64m cost difference over 11.5 hours equals about 5.6m gp per hour, the mahogany tables are worth it only if your best moneymaker earns more than that; Gnomonkey calls this a 5.6m gp/hr opportunity cost."
+        },
+        {
+          "t": 146,
+          "kind": "stat",
+          "text": "In Hallowed Sepulchre, Gnomonkey says the floor four coffins have a 4m gp/hr opportunity cost, floor five coffins 10m, the final regular coffin 20m (double loot), and the grand coffin 50m."
+        },
+        {
+          "t": 146,
+          "kind": "opinion",
+          "text": "Gnomonkey says someone who can do Hydra should logically skip floor four coffins, and someone who can do Nex at max efficiency (16m gp/hr) should skip floor five's first two basic coffins, which are only a 10m gp/hr opportunity."
+        },
+        {
+          "t": 175,
+          "kind": "opinion",
+          "text": "Gnomonkey says opportunity cost applies to everything in the game, including lower-intensity or AFK methods versus efficient ones, e.g. camping Twisted bow at Zulrah instead of hybrid costs about ten kills in that hour."
+        },
+        {
+          "t": 204,
+          "kind": "opinion",
+          "text": "Gnomonkey says low-intensity methods can be the efficient choice for your time if you would be watching a movie anyway; he has seen people burn out worrying about being max efficient at all times, and himself mines Amethyst while writing scripts for the pet chance even though gem rocks would be faster."
+        }
+      ]
+    },
+    {
+      "name": "Potential money and grind order",
+      "kind": "other",
+      "claims": [
+        {
+          "t": 236,
+          "kind": "tip",
+          "text": "Gnomonkey describes 'potential money' as money you have not earned yet but will earn as a byproduct of a grind you will do anyway; grinding Agility or Runecrafting to 99 can each net roughly 250m gp depending on method, and many profitable boss pet grinds are worth well over 500m gp."
+        },
+        {
+          "t": 268,
+          "kind": "tip",
+          "text": "The timing of grinds affects other grinds: if you do not own a Scythe, going for the Thermonuclear smoke devil pet ASAP may not be best, but if you have max gear for Venenatis, doing that grind first may be worth it."
+        },
+        {
+          "t": 268,
+          "kind": "opinion",
+          "text": "Gnomonkey says doing methods with subpar gear is often not the best play compared with waiting until you can afford all the equipment and doing it the fastest way."
+        }
+      ]
+    },
+    {
+      "name": "Herb runs",
+      "kind": "activity",
+      "claims": [
+        {
+          "t": 298,
+          "kind": "stat",
+          "text": "Gnomonkey says with all nine herb patches, all diaries and quests done, 99 Farming with the cape, magic secateurs and efficient teleports, a full herb run profits on average about 250k gp."
+        },
+        {
+          "t": 298,
+          "kind": "stat",
+          "text": "Assuming a generous five minutes per run (he found a video of an efficient run in four minutes), Gnomonkey says you can do 12 runs per hour for about 3m gp per hour profit at absolute maximum efficiency, versus 3m to 5m gp per hour at Vorkath depending on gear."
+        },
+        {
+          "t": 353,
+          "kind": "opinion",
+          "text": "Gnomonkey says herb runs make a lot of sense earlier in an account, but if you have access to Vorkath or better you are probably better off skipping herb runs and bossing."
+        }
+      ]
+    },
+    {
+      "name": "Supplies and high-end gear spending",
+      "kind": "opinion",
+      "claims": [
+        {
+          "t": 353,
+          "kind": "opinion",
+          "text": "Gnomonkey says he penny-pinched with weaker supplies as a poor noob, but there comes a point where supply cost should be a non-concern; he has seen people use an uncharged Scythe at Gargoyles on a main, non-dragon arrows in a Twisted bow, and a trident instead of a Sanguinesti staff to save money."
+        },
+        {
+          "t": 385,
+          "kind": "opinion",
+          "text": "Gnomonkey says you make more total profit at Kraken with a trident than a Sanguinesti staff, but you waste time banking; since the boss gives little money, he would grind the pet at maximum efficiency with his best weapons and use the saved time for raids, Nightmare, Nex, Gauntlet, Hydra or other pets."
+        },
+        {
+          "t": 415,
+          "kind": "opinion",
+          "text": "Gnomonkey says Blood fury and Scythe cost a lot at Grotesque Guardians but are worth it to get the pet significantly faster, and that he loves alts for pet hunts because they speed kills and reduce supply costs, letting him use the strongest weapons with reckless abandon."
+        },
+        {
+          "t": 442,
+          "kind": "method",
+          "text": "On his Challenge Mode Chambers combat achievements grind, Gnomonkey used Blood fury and Scythe for almost all achievements and about 100 Purple sweets, which sped up finishing even though supplies were costly."
+        },
+        {
+          "t": 442,
+          "kind": "method",
+          "text": "While grinding an Inferno PB, Gnomonkey says each run uses 11 Sanfew serums (named Sandfuse in the transcript), many hundred chinchompas and loads of dragon darts, which he says are 100% worth it because they make the time possible; he treats a PB grind like a pet grind."
+        },
+        {
+          "t": 475,
+          "kind": "opinion",
+          "text": "Gnomonkey says people penny-pinching blood runes and dragon darts on a first Infernal cape run actually eat up brain power and play worse; you should use the supplies you need and worry about getting more later."
+        }
+      ]
+    },
+    {
+      "name": "Gnomonkey",
+      "kind": "person",
+      "claims": [
+        {
+          "t": 520,
+          "kind": "event",
+          "text": "Gnomonkey says he had been doing a lot of melee Nex with his clan and getting 'spooned left and right', and was still working on a sub-48-minute Inferno grind."
+        }
+      ]
+    }
+  ]
+}

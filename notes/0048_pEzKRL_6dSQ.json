@@ -1,0 +1,371 @@
+{
+  "id": "pEzKRL_6dSQ",
+  "title": "1-99 Agility Guide BEST GP AND XP (OSRS 2020)",
+  "date": "2020-07-25",
+  "type": "guide",
+  "summary": "A 1-99 Agility training guide from 2020 covering the best course at each level range, with the Graceful outfit, quests for early XP, and the Hallowed Sepulchre as the best XP and GP method from level 72 onward. Gnomonkey argues Agility is the most profitable skill in the game and recommends doing it early.",
+  "outline": [
+    {
+      "t": 0,
+      "text": "Introduction: why Agility is worth training, run energy benefits and profitability"
+    },
+    {
+      "t": 30,
+      "text": "Graceful outfit and Marks of Grace"
+    },
+    {
+      "t": 96,
+      "text": "Quests that skip the early levels"
+    },
+    {
+      "t": 117,
+      "text": "Magic and Fletching actions to do between obstacles"
+    },
+    {
+      "t": 152,
+      "text": "Gnome Stronghold course (levels 1-10)"
+    },
+    {
+      "t": 168,
+      "text": "Draynor course (10-20, optionally to 30)"
+    },
+    {
+      "t": 196,
+      "text": "Al Kharid course and why to skip Werewolf Skullball"
+    },
+    {
+      "t": 234,
+      "text": "Varrock course (30-40)"
+    },
+    {
+      "t": 248,
+      "text": "Canifis course and Wilderness course (40-60)"
+    },
+    {
+      "t": 284,
+      "text": "Seers' Village course (60-72/75) and the Kandarin Hard Diary"
+    },
+    {
+      "t": 323,
+      "text": "Hallowed Sepulchre floor 3 from level 72"
+    },
+    {
+      "t": 384,
+      "text": "Prifddinas course from level 75"
+    },
+    {
+      "t": 438,
+      "text": "Sepulchre floor 4 from level 82 and looting coffins"
+    },
+    {
+      "t": 485,
+      "text": "Ardougne rooftop course from level 90"
+    },
+    {
+      "t": 562,
+      "text": "Sepulchre floor 5 from level 92, Ring of Endurance and GP rates"
+    },
+    {
+      "t": 649,
+      "text": "Comparison with Blood Runecrafting and closing thoughts"
+    }
+  ],
+  "topics": [
+    {
+      "name": "Agility",
+      "kind": "skill",
+      "claims": [
+        {
+          "t": 0,
+          "kind": "opinion",
+          "text": "Gnomonkey considers Agility one of the few skills that passively benefits you at all times, and the most profitable skill in the game as of 2020."
+        },
+        {
+          "t": 0,
+          "kind": "stat",
+          "text": "Every seven Agility levels increases the speed of run energy regeneration by 5 to 10%; you recover energy two times faster at level 50 and three times faster at level 99."
+        },
+        {
+          "t": 0,
+          "kind": "opinion",
+          "text": "Many people dislike Agility for being click-intensive, but Gnomonkey says the Hallowed Sepulchre changed this for him and made him enjoy the skill."
+        },
+        {
+          "t": 30,
+          "kind": "method",
+          "text": "The main Agility training method is rooftop courses, which have a small chance to spawn a Mark of Grace."
+        },
+        {
+          "t": 96,
+          "kind": "method",
+          "text": "Completing Recruitment Drive, Tourist Trap, The Depths of Despair and The Grand Tree gives 19,700 Agility XP, taking you from level 1 to level 33."
+        },
+        {
+          "t": 117,
+          "kind": "tip",
+          "text": "Between Agility obstacles you can cast Humidify or High Level Alchemy for Magic XP, or fletch darts or bolts, to gain extra XP."
+        },
+        {
+          "t": 117,
+          "kind": "opinion",
+          "text": "Gnomonkey typically cast High Level Alchemy on rooftop courses because it keeps him focused on Agility instead of watching something else on the side, which would lower his XP rate."
+        },
+        {
+          "t": 152,
+          "kind": "method",
+          "text": "From level 1 to 10 only the Gnome Stronghold Agility course can be used; it takes 14 laps (about 15 minutes) to reach level 10, and it gives no Marks of Grace because it is not a rooftop course."
+        },
+        {
+          "t": 284,
+          "kind": "tip",
+          "text": "Gnomonkey advises holding Agility training at level 60 until the Kandarin Hard Diary is done, since it lets you set your Camelot Teleport to land next to the Seers' Village course start."
+        },
+        {
+          "t": 284,
+          "kind": "stat",
+          "text": "The Kandarin Hard Diary raises the Seers' Village rooftop course from about 45k to 55k XP an hour and also gives some Magic experience."
+        },
+        {
+          "t": 284,
+          "kind": "stat",
+          "text": "Doing the Seers' Village course from 60 to 75 takes 1,644 laps, or 1,098 laps to level 72."
+        }
+      ]
+    },
+    {
+      "name": "Graceful outfit",
+      "kind": "item",
+      "claims": [
+        {
+          "t": 30,
+          "kind": "requirement",
+          "text": "The Graceful outfit costs 260 Marks of Grace to buy in full."
+        },
+        {
+          "t": 30,
+          "kind": "stat",
+          "text": "The full Graceful set increases run energy restoration by 30%; since a later update, individual pieces also give restoration, and the full set gives an extra 10% bonus."
+        },
+        {
+          "t": 30,
+          "kind": "tip",
+          "text": "The most efficient order to buy Graceful pieces for run energy restoration is gloves, hood, boots, cape, top, then legs."
+        },
+        {
+          "t": 30,
+          "kind": "tip",
+          "text": "Marks of Grace spawn at 20% of their normal rate if you are 20 levels above a rooftop course's requirement, so Gnomonkey says not to stay long at a single rooftop course."
+        },
+        {
+          "t": 30,
+          "kind": "opinion",
+          "text": "Gnomonkey always tries to rush the Graceful outfit on new accounts because it is extremely useful for most skilling methods and questing."
+        },
+        {
+          "t": 30,
+          "kind": "stat",
+          "text": "After buying the Graceful outfit, Marks of Grace can be traded 10 at a time for Amylase packs containing 100 Amylase crystals, used for stamina potions, making each Mark of Grace worth roughly 9.7k GP in 2020."
+        }
+      ]
+    },
+    {
+      "name": "Rooftop Agility courses",
+      "kind": "activity",
+      "claims": [
+        {
+          "t": 168,
+          "kind": "method",
+          "text": "From level 10 to 20 use the Draynor Village rooftop course, the first course that can give Marks of Grace; it gives about 9k XP an hour and takes 28 laps to reach level 20."
+        },
+        {
+          "t": 168,
+          "kind": "tip",
+          "text": "Gnomonkey recommends staying at Draynor until level 30 (102 laps) because the Al Kharid course is only about 400 XP an hour faster and needs stamina potions."
+        },
+        {
+          "t": 196,
+          "kind": "method",
+          "text": "The Al Kharid rooftop course from 20 to 30 is marginally faster than Draynor, needs stamina potions, and would take an additional 50 laps from level 20 to 30."
+        },
+        {
+          "t": 196,
+          "kind": "opinion",
+          "text": "Gnomonkey tells players to skip Werewolf Skullball, joking that you will regret it."
+        },
+        {
+          "t": 234,
+          "kind": "method",
+          "text": "From level 30 to 40 use the Varrock rooftop course, which gives about 13k XP an hour, drains a small amount of run energy each lap so needs stamina potions, and takes 101 laps to level 40."
+        },
+        {
+          "t": 248,
+          "kind": "method",
+          "text": "From level 40 to 60 Gnomonkey typically uses the Canifis rooftop course, which is very good for Marks of Grace and gives up to 20k XP an hour without failing; 40 to 60 there takes 986 laps."
+        },
+        {
+          "t": 248,
+          "kind": "method",
+          "text": "The Wilderness Agility Course from level 52 to 60 gives upwards of 35k XP an hour but gives no Marks of Grace; Gnomonkey recommends it if you do not mind getting the Graceful outfit later."
+        },
+        {
+          "t": 284,
+          "kind": "method",
+          "text": "From level 60 to 72 or 75 use the Seers' Village rooftop course."
+        },
+        {
+          "t": 485,
+          "kind": "method",
+          "text": "At level 90 the Ardougne rooftop course unlocks; it is very low intensity and, with the Elite Ardougne Diary giving 25% more Marks of Grace, is the best course for Marks of Grace in the game."
+        },
+        {
+          "t": 485,
+          "kind": "trivia",
+          "text": "On the Ardougne rooftop course Marks of Grace only spawn on a single tile, and they do not disappear for ten minutes, with the timer resetting each time a mark drops."
+        },
+        {
+          "t": 485,
+          "kind": "tip",
+          "text": "Gnomonkey left Marks of Grace on the ground until they hit a stack of ten and then picked them up, because a disconnect instantly despawns all marks on the ground."
+        },
+        {
+          "t": 485,
+          "kind": "stat",
+          "text": "The Ardougne rooftop course gives a maximum of about 62k XP an hour and about 220k GP an hour, slightly less XP than the Prifddinas course but more GP."
+        }
+      ]
+    },
+    {
+      "name": "Hallowed Sepulchre",
+      "kind": "activity",
+      "claims": [
+        {
+          "t": 323,
+          "kind": "method",
+          "text": "At Agility level 72 it becomes efficient to start the Hallowed Sepulchre, beginning with floor 3; it is more intensive and needs skill, but is by far the most efficient method up to level 99."
+        },
+        {
+          "t": 323,
+          "kind": "stat",
+          "text": "Without looting coffins, Hallowed Sepulchre floor 3 at level 72 gives about 65k XP an hour, the best XP in the game at that point, but you lose the money from Marks of Grace."
+        },
+        {
+          "t": 323,
+          "kind": "tip",
+          "text": "Gnomonkey suggests looting only floor 3 at first, since floor 2 has poor loot and reduces XP rates quite a bit."
+        },
+        {
+          "t": 323,
+          "kind": "opinion",
+          "text": "Gnomonkey says the Hallowed Sepulchre is great practice for general movement useful in places like raids and the Inferno, and that it practically turns Agility into a boss."
+        },
+        {
+          "t": 323,
+          "kind": "opinion",
+          "text": "Gnomonkey calls the Hallowed Sepulchre genuinely one of the most fun training methods for any skill and did 92 to 99 Agility there."
+        },
+        {
+          "t": 323,
+          "kind": "trivia",
+          "text": "Hallowed marks from the Sepulchre can be used to buy the Dark Graceful outfit and the Dark Swirl recolor."
+        },
+        {
+          "t": 438,
+          "kind": "stat",
+          "text": "At level 82 floor 4 unlocks, boosting XP to about 70k an hour, or 65k an hour if looting coffins."
+        },
+        {
+          "t": 438,
+          "kind": "stat",
+          "text": "Floor 4 coffins drop none of the low-quality loot like monk robes and air runes and have a much higher chance of high drops such as rune bolts (up to 150k GP) and blood runes (up to 100k GP)."
+        },
+        {
+          "t": 438,
+          "kind": "stat",
+          "text": "Looting floors 3 and 4 roughly doubles Sepulchre GP, giving 700k to 1m GP an hour depending on luck."
+        },
+        {
+          "t": 562,
+          "kind": "stat",
+          "text": "At level 92 floor 5 unlocks, making the Sepulchre by far the best Agility method; very fast players can get 80 to 85k XP an hour looting floors 4 and 5, or 90 to 95k XP an hour by skipping all but the final grand coffin."
+        },
+        {
+          "t": 562,
+          "kind": "stat",
+          "text": "The grand coffin on floor 5 has a 1 in 200 chance of a Ring of Endurance, worth about 60m GP in 2020; Gnomonkey estimates about 150m GP on average (roughly 2.5 rings) from ring drops alone between levels 92 and 99."
+        },
+        {
+          "t": 562,
+          "kind": "record",
+          "text": "Gnomonkey looted the Grand Coffin 485 times by level 99 and failed about 20 runs while learning."
+        },
+        {
+          "t": 562,
+          "kind": "stat",
+          "text": "Taking floor 4 and 5 coffin loot, a very fast player averages about 3.5m GP an hour at the Sepulchre in 2020, with an average of 25 hours per Ring of Endurance."
+        },
+        {
+          "t": 562,
+          "kind": "opinion",
+          "text": "Gnomonkey says Hallowed Sepulchre GP is better than Vorkath because supply cost is very low, though it is inconsistent income since the money mostly comes from ring drops."
+        },
+        {
+          "t": 649,
+          "kind": "opinion",
+          "text": "Gnomonkey does not consider the Hallowed Sepulchre overpowered and asks Jagex not to nerf it, since it is one of the most difficult skilling methods and most of its value comes from ring drops."
+        },
+        {
+          "t": 649,
+          "kind": "opinion",
+          "text": "Gnomonkey says only the very last part of floor 5 needs very intense focus, and he intended to go for the Agility pet at the Sepulchre after 99 as the best pet chance before the penguin course."
+        }
+      ]
+    },
+    {
+      "name": "Prifddinas Agility Course",
+      "kind": "activity",
+      "claims": [
+        {
+          "t": 384,
+          "kind": "requirement",
+          "text": "The Prifddinas Agility Course unlocks at Agility level 75."
+        },
+        {
+          "t": 384,
+          "kind": "stat",
+          "text": "The Prifddinas course is one of the most relaxed courses in the game, giving about 53k XP an hour at the start and up to 66k XP an hour from level 90 on, where you stop failing."
+        },
+        {
+          "t": 384,
+          "kind": "stat",
+          "text": "The Prifddinas course gives no Marks of Grace but has a 1 in 3 chance of a crystal shard when using a portal shortcut, averaging 15 crystal shards an hour, which if used for super combats is about 180k GP an hour profit."
+        },
+        {
+          "t": 384,
+          "kind": "method",
+          "text": "If skipping the Sepulchre, Gnomonkey would use the Prifddinas course from 75 to 92, which takes about 4,000 laps."
+        },
+        {
+          "t": 562,
+          "kind": "stat",
+          "text": "Doing the Prifddinas course from 92 to 99 instead of Sepulchre would lose roughly 200m GP, earning only about 24m, and take about 25 extra hours to reach 99."
+        }
+      ]
+    },
+    {
+      "name": "Blood Runecrafting",
+      "kind": "skill",
+      "claims": [
+        {
+          "t": 649,
+          "kind": "opinion",
+          "text": "Gnomonkey describes Blood Runecrafting as the GP juggernaut since it came out."
+        },
+        {
+          "t": 649,
+          "kind": "stat",
+          "text": "Blood Runecrafting from levels 77 to 99 nets roughly the same GP as the Hallowed Sepulchre from levels 92 to 99 even with the high blood rune price; blood runes to 99 are a bit under 200m GP and the Sepulchre is a bit more on average."
+        }
+      ]
+    }
+  ]
+}

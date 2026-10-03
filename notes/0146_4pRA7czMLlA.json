@@ -1,0 +1,52 @@
+{
+  "id": "4pRA7czMLlA",
+  "title": "17:32 WORLD RECORD COLOSSEUM (OSRS)",
+  "date": "2024-03-30",
+  "type": "speedrun",
+  "summary": "Gnomonkey's 17:32 world record Fortis Colosseum speedrun, the record having passed through many hands in the previous week. The transcript is mostly silent gameplay with short reactions, while the description lays out the strategy: Northeast pillar for Venator bow setups on waves 1 to 6, then melee camping with a scythe from the south, using claws for Serpent Mage skips and a Dragon warhammer on Sol. He stresses it is for pure speed with no safety and not what he would do on a first cape.",
+  "outline": [
+    {"t": 0, "text": "Start of run and wave 1-2 cash out tech chat"},
+    {"t": 115, "text": "Saving claw spec for next wave"},
+    {"t": 397, "text": "Record pace to wave seven"},
+    {"t": 690, "text": "Waves 8-9 with Myopia"},
+    {"t": 722, "text": "Saving spec to skip reinforcements"},
+    {"t": 903, "text": "Melee camp and free store spawn"},
+    {"t": 968, "text": "Pace estimate: about 15:30 to the boss"},
+    {"t": 1022, "text": "Sol Heredit fight, wave pace 15:12"},
+    {"t": 1173, "text": "Record achieved"}
+  ],
+  "topics": [
+    {
+      "name": "Colosseum speedrun world record",
+      "kind": "activity",
+      "claims": [
+        {"t": 0, "kind": "record", "text": "Gnomonkey obtained the Fortis Colosseum world record again with a time of 17:32, after the record had been passing through many hands over the previous week, and hopes to hold it for a while."},
+        {"t": 0, "kind": "opinion", "text": "Gnomonkey thinks a sub-16 Colosseum run is possible, but it would have to include all the reinforcement skips as well as extremely good RNG with invocations and spawns."},
+        {"t": 0, "kind": "tip", "text": "Gnomonkey notes that rich PvMers were also abusing the wave one to two cash-out tech at this time."},
+        {"t": 397, "kind": "record", "text": "Gnomonkey notes that his 5:37 time at the end of wave six is record pace to wave seven."},
+        {"t": 968, "kind": "record", "text": "Gnomonkey estimates the run will reach the boss at roughly 15:30, which he calls absolute record pace, and later the pace shows 15:12 at the boss."},
+        {"t": 0, "kind": "opinion", "text": "Gnomonkey stresses the run is not what he would do on a first cape and nothing in the video reflects that; it is for pure speed and no safety."}
+      ]
+    },
+    {
+      "name": "Venator bow",
+      "kind": "item",
+      "claims": [
+        {"t": 0, "kind": "method", "text": "Gnomonkey uses the Northeast pillar for the perfect Venator bow setups on waves 1 to 6, then goes back south and melee camps with the scythe afterwards."},
+        {"t": 0, "kind": "stat", "text": "The Venator bow maxes a 91 in Gnomonkey's setup (with the ring), which out-DPSes the scythe."},
+        {"t": 0, "kind": "opinion", "text": "Gnomonkey says the Northeast pillar is by far the worst pillar for safety to start from, and that he otherwise prefers southwest pillar starts."}
+      ]
+    },
+    {
+      "name": "Colosseum speedrun gear",
+      "kind": "item",
+      "claims": [
+        {"t": 0, "kind": "method", "text": "Gnomonkey uses claws to nuke the Serpent Mage for skips, and saves the claw special when he may need it to skip something."},
+        {"t": 0, "kind": "tip", "text": "Gnomonkey uses the Moonlight meat to help him on wave 6 early."},
+        {"t": 0, "kind": "stat", "text": "Dragon warhammer saves 7 seconds each time on the boss and Gnomonkey says it is better than double clawing the boss."},
+        {"t": 0, "kind": "opinion", "text": "Gnomonkey tried the Bulwark but says its line of sight issues need to be flushed out a lot more before it beats just clawing targets."},
+        {"t": 0, "kind": "tip", "text": "The plugins Gnomonkey uses are Fortis Colosseum by LemonDuck, Better NPC Highlight with orb ID 12826, and a Line Marker plugin for his Sol tiles."}
+      ]
+    }
+  ]
+}

@@ -1,0 +1,357 @@
+{
+  "id": "Y2KvOrUXUeA",
+  "title": "NEX Advanced Tactics (16M GP/HR) OSRS",
+  "date": "2022-04-11",
+  "type": "guide",
+  "summary": "An advanced follow-up to Gnomonkey's main Nex guide, written after Jagex reverted Nex's drop-rate nerf. He argues melee is the most efficient way to kill Nex in a 6-man and presents new techs (Bone dagger special attack, Fumus resets, P2 resets, Umbra tank, stalling) that reduce risk and raise kill speed to about 14 kills and 16m gp per hour.",
+  "outline": [
+    {
+      "t": 0,
+      "text": "Nex introduction: drop rate reverted to 1/43, 16m gp/hr in a 6-man"
+    },
+    {
+      "t": 39,
+      "text": "Melee versus ranged debate and percentage comparisons"
+    },
+    {
+      "t": 123,
+      "text": "Revised gear setup with ZCB switch and shield switch"
+    },
+    {
+      "t": 187,
+      "text": "Bone dagger tech and its Backstab special attack"
+    },
+    {
+      "t": 301,
+      "text": "Fumus reset strategy (the 'clown tech' tiles)"
+    },
+    {
+      "t": 404,
+      "text": "P2 reset mechanics under Nex"
+    },
+    {
+      "t": 451,
+      "text": "Umbra tank method"
+    },
+    {
+      "t": 519,
+      "text": "Stalling / zoning and final tips"
+    }
+  ],
+  "topics": [
+    {
+      "name": "Nex",
+      "kind": "boss",
+      "claims": [
+        {
+          "t": 0,
+          "kind": "event",
+          "text": "Jagex reverted the nerf to Nex's drop rate, back down to 1/43 for any drop, which raised her gp/hr even higher than before even though most individual drops went down slightly (the ZCB excepted)."
+        },
+        {
+          "t": 0,
+          "kind": "stat",
+          "text": "As of writing the script, a Nex kill is worth about 7m gp in total."
+        },
+        {
+          "t": 0,
+          "kind": "record",
+          "text": "With Gnomonkey's team strategies in a 6-man, the team can hit 14 Nex kills per hour and make just over 16m gp/hr, which he calls by far the best money making method in the game."
+        },
+        {
+          "t": 21,
+          "kind": "tip",
+          "text": "This video is a follow-up to Gnomonkey's main Nex guide, and he recommends watching that first."
+        },
+        {
+          "t": 90,
+          "kind": "method",
+          "text": "The goal in a Nex trip is to hit 40 KC before banking; Gnomonkey says this is always doable in a six-man regardless of supply drops, thanks to the tankiness of Carols (Torva-style melee tank gear) plus the healing of Blood fury, even with inventory slots lost to switches."
+        },
+        {
+          "t": 270,
+          "kind": "stat",
+          "text": "Nex has a 10-tile range, which when she is in the centre of the room perfectly ends at the lines from the corners of all the minions. A player outside her range cannot be chosen as her target and takes no damage from her."
+        },
+        {
+          "t": 270,
+          "kind": "tip",
+          "text": "Gnomonkey says he heavily abuses Nex's 10-tile range throughout the fight; all his P2 safety techs revolve around keeping Nex in the centre of the room and away from Umbra."
+        },
+        {
+          "t": 302,
+          "kind": "tip",
+          "text": "Gnomonkey dislikes Embrace Darkness' guaranteed death, so his team uses techs to avoid it, in the order they are used in the fight."
+        }
+      ]
+    },
+    {
+      "name": "Opinion: Melee is better than ranged at Nex",
+      "kind": "opinion",
+      "claims": [
+        {
+          "t": 39,
+          "kind": "opinion",
+          "text": "Gnomonkey considers it obvious that melee is better than ranged at Nex and says rangers are adamant about their weapon choice; he personally wants the most efficient methods anywhere he does content, not the most relaxing."
+        },
+        {
+          "t": 57,
+          "kind": "stat",
+          "text": "According to Gnomonkey, his tanky Blood fury Carol (Torva) setup with Rapier is 30% better than max range ZCB with Buckler and 37% better than ZCB with Spectral or Elysian; most people he sees use Elysian or Spectral rather than Buckler."
+        },
+        {
+          "t": 57,
+          "kind": "stat",
+          "text": "Each of these setups gets about 2% higher with Gnomonkey's Bone dagger tech."
+        },
+        {
+          "t": 60,
+          "kind": "opinion",
+          "text": "Gnomonkey says that if your switches are so bad you lose 30% of your ticks through a kill to a four-way switch, camping ranged makes sense, but Nex is so much money that it is worth learning to switch until you do not lose that many ticks."
+        },
+        {
+          "t": 100,
+          "kind": "opinion",
+          "text": "Gnomonkey calls the argument that melee is not viable for trip length 'pretty silly' from his experience, though he admits melee takes practice because you need to avoid taking pointless damage."
+        },
+        {
+          "t": 117,
+          "kind": "opinion",
+          "text": "Gnomonkey states melee is absolutely the best method for Nex kill speed and that his techs have boosted its viability further."
+        }
+      ]
+    },
+    {
+      "name": "Nex gear setup",
+      "kind": "item",
+      "claims": [
+        {
+          "t": 123,
+          "kind": "method",
+          "text": "Gnomonkey's revised Nex setup adds a ZCB (Zaryte crossbow) switch and a shield switch, which also requires bolts."
+        },
+        {
+          "t": 123,
+          "kind": "stat",
+          "text": "ZCB is around 15% better DPS on Nex than Twisted bow in his setup, without counting its special attack, but Twisted bow is still incredibly good against the minions."
+        },
+        {
+          "t": 123,
+          "kind": "opinion",
+          "text": "For the shield switch Gnomonkey ranks Elysian greater than Spectral; with neither, he suggests running no shield, and says Buckler is not worth the inventory slot over a brew."
+        },
+        {
+          "t": 148,
+          "kind": "stat",
+          "text": "From Gnomonkey's experience, Elysian saves roughly two doses of brew per kill depending on how you use it; Spectral saves a bit less but also saves prayer."
+        },
+        {
+          "t": 148,
+          "kind": "method",
+          "text": "Whenever Nex targets him, Gnomonkey camps his shield to prevent the damage and then switches back to a Vernic; he also flicks the shield whenever possible to lengthen trips, and supplies are shared with teammates depending on who was targeted most."
+        },
+        {
+          "t": 148,
+          "kind": "tip",
+          "text": "At the start of the fight Gnomonkey hits Nex a tick before she is vulnerable on purpose to make shield flicking very easy."
+        },
+        {
+          "t": 181,
+          "kind": "tip",
+          "text": "With a Spectral shield you can help your team by taking the virus and camping the Spectral, which reduces the prayer drain of the virus."
+        }
+      ]
+    },
+    {
+      "name": "Bone dagger",
+      "kind": "item",
+      "claims": [
+        {
+          "t": 187,
+          "kind": "tip",
+          "text": "Gnomonkey calls the Bone dagger special attack a real strategy, not a meme, and says it is actually really good at Nex."
+        },
+        {
+          "t": 194,
+          "kind": "stat",
+          "text": "The Bone dagger has the exact same stats as an iron dagger and is also four-tick like the rapier."
+        },
+        {
+          "t": 214,
+          "kind": "stat",
+          "text": "The Bone dagger's special attack, Backstab, uses 75% of the special attack meter; if someone else was the last to attack your target (not you) it is a guaranteed hit with the same effect as a BGS, draining defence directly equal to damage dealt."
+        },
+        {
+          "t": 214,
+          "kind": "opinion",
+          "text": "Gnomonkey says Backstab is pretty terrible on paper, but against very defensive monsters that cannot be drained much, which he says is basically just Nex and Callisto, it is an incredibly good special attack for one team member."
+        },
+        {
+          "t": 243,
+          "kind": "method",
+          "text": "At Nex, one member should send the Bone dagger special right after the team's first hit on Nex for a guaranteed hit that also drains her."
+        },
+        {
+          "t": 243,
+          "kind": "stat",
+          "text": "Nex can only be drained to 10 defence levels, and in Gnomonkey's setup the Bone dagger special maxes a 31 due to the team's strength bonus."
+        },
+        {
+          "t": 243,
+          "kind": "stat",
+          "text": "Gnomonkey estimates the Bone dagger special is roughly 90 to 100 total DPS over a Nex kill because it boosts the whole team's damage, versus around 20 DPS for a ZCB special."
+        },
+        {
+          "t": 274,
+          "kind": "tip",
+          "text": "If someone is not bringing a ZCB, Gnomonkey suggests they swap their claws for a Bone dagger; even if everyone owns a ZCB he would still have one person bring the dagger."
+        },
+        {
+          "t": 274,
+          "kind": "opinion",
+          "text": "Gnomonkey considers the Bone dagger a much better option than BGS or Warhammer on Nex because of their low accuracy, high weight and low tick speed."
+        },
+        {
+          "t": 274,
+          "kind": "stat",
+          "text": "A Bone dagger special is about 1% better than a rapier swing because it skips the accuracy check; it effectively replaces a rapier swing and also drains Nex."
+        }
+      ]
+    },
+    {
+      "name": "Nex Fumus reset",
+      "kind": "mechanic",
+      "claims": [
+        {
+          "t": 329,
+          "kind": "method",
+          "text": "Gnomonkey's 'clown tech' uses colourful ground-marker tiles (pastebin link in the description); each starting tile around Nex is tied to a set of tiles by Fumus."
+        },
+        {
+          "t": 358,
+          "kind": "method",
+          "text": "When Nex is pushed down to Fumus HP, each player runs to their inner tile set based on where they started; the team then narrows down who the tank is and moves everyone else to their outer set of tiles."
+        },
+        {
+          "t": 358,
+          "kind": "tip",
+          "text": "The Fumus tile setup forces the team to be spread out for the virus, prevents Nex from switching targets so only one person needs to tank damage, and lets that tank reset Nex back to the centre if she enters melee mode."
+        },
+        {
+          "t": 385,
+          "kind": "tip",
+          "text": "The Fumus tiles are one extra tile past the corridors because Nex can melee from her corners; this stops her meleeing as she sprints up towards the team."
+        }
+      ]
+    },
+    {
+      "name": "Nex P2 reset",
+      "kind": "mechanic",
+      "claims": [
+        {
+          "t": 385,
+          "kind": "trivia",
+          "text": "Gnomonkey says the P2 reset technique was known for a long time and he did not invent it."
+        },
+        {
+          "t": 385,
+          "kind": "method",
+          "text": "For the P2 reset the team stands at the back wall; crossbow users flinch shots, Twisted bow users camp, and others AFK at the back wall until Nex runs up in melee mode."
+        },
+        {
+          "t": 417,
+          "kind": "method",
+          "text": "When Nex is a tile away from you in melee mode, run underneath her to reset her back to the centre; this prevents deaths when Nex enters melee mode after Embrace Darkness and keeps damage low by keeping her at max range."
+        },
+        {
+          "t": 417,
+          "kind": "tip",
+          "text": "Nex moves two tiles per tick, so if she has smudged a tile off where she should be, you need to go under her a lot earlier than you would think."
+        },
+        {
+          "t": 417,
+          "kind": "tip",
+          "text": "If someone misses a reset, the tank should immediately go under her and pray to get the reset then; if that fails, someone must go behind Nex and drag her back. Gnomonkey says missing the reset causes a ton of problems."
+        }
+      ]
+    },
+    {
+      "name": "Nex Umbra tank",
+      "kind": "mechanic",
+      "claims": [
+        {
+          "t": 447,
+          "kind": "stat",
+          "text": "Umbra's max hit is a 28 and she is fairly accurate."
+        },
+        {
+          "t": 447,
+          "kind": "method",
+          "text": "Because the team prays ranged during the Umbra phase, an Umbra tank is assigned ahead of time to avoid Nex and Protect from Magic; usually it is the person without a Twisted bow so they can use the blowpipe, or a random player if everyone has the gear."
+        },
+        {
+          "t": 474,
+          "kind": "method",
+          "text": "At between 2200 and 2300 HP left on Nex, the Umbra tank moves to the north-eastern corner next to Umbra and Protect from Magic; when Umbra becomes active she randomly picks from anyone in range, so if only the Umbra tank is in range they are guaranteed to be chosen."
+        },
+        {
+          "t": 474,
+          "kind": "tip",
+          "text": "The rest of the team stays at the reset wall until Nex shouts Umbra; because Nex can only pick a new target when she starts an attack, the Umbra tank can flinch shots at Nex from that tile and lose almost no DPS."
+        },
+        {
+          "t": 507,
+          "kind": "method",
+          "text": "Once Umbra has picked the Umbra tank, the whole team moves to a tile one past the corridor and fires at Umbra, which still allows resets if Nex tries to melee; the Umbra tank is 100% safe as long as the rest of the team nails every reset."
+        }
+      ]
+    },
+    {
+      "name": "Nex stalling",
+      "kind": "mechanic",
+      "claims": [
+        {
+          "t": 507,
+          "kind": "method",
+          "text": "Stalling or zoning applies to any Nex phase: anytime you are dragging Nex or standing under her she is not attacking, so doing so without losing ticks saves supplies and trip length."
+        },
+        {
+          "t": 536,
+          "kind": "method",
+          "text": "While attacking Crewor/Glacies minions Gnomonkey thinks about how to drag or stall as the tank; the goal is to end the phase with Nex near you but having stalled as much as possible, and not to reset her to the centre if the minion is about to die."
+        },
+        {
+          "t": 536,
+          "kind": "tip",
+          "text": "If a minion phase has just started, resetting Nex to the centre makes sense because you can immediately begin dragging her back."
+        },
+        {
+          "t": 562,
+          "kind": "method",
+          "text": "When a Blood Reaver spawns near or under Nex, the tank can stand under Nex while attacking the Reaver, losing no DPS."
+        },
+        {
+          "t": 562,
+          "kind": "method",
+          "text": "During Contain-less (Contain), if the tank is outside Nex's range she will not attack at all until it ends and then she dashes up; towards the end of Glacies' HP this lets you dash an X right next to you for the start of P5."
+        },
+        {
+          "t": 592,
+          "kind": "opinion",
+          "text": "Gnomonkey tried a follow stall (the tank follows a teammate to stop Nex moving, like the old red click door stall) and found it not worth it: it wastes a lot of DPS, risks Nex dashing around the room, and slowed his team's kill time without usually squeezing out an extra kill."
+        }
+      ]
+    },
+    {
+      "name": "Gnomonkey",
+      "kind": "person",
+      "claims": [
+        {
+          "t": 621,
+          "kind": "event",
+          "text": "Gnomonkey says he will be streaming Nex around the time of this video and plans to stream pet hunts and raids in the future on his Twitch."
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,231 @@
+{
+  "id": "iG23QZE9pds",
+  "title": "A Plea To Jagex (OSRS)",
+  "date": "2023-07-30",
+  "type": "news-opinion",
+  "summary": "Gnomonkey makes an appeal to Jagex on behalf of high-level OSRS players, arguing that endgame players have received almost no meaningful updates for years. He reviews update quality year by year since 2016, criticises Forestry, Tombs of Amascut, QA and daily-item limits, compares OSRS to RS3 endgame content, reviews Desert Treasure 2 and Awakened Leviathan, and reads feedback from other high-level players.",
+  "outline": [
+    {"t": 0, "text": "State of the community and the purpose of the appeal"},
+    {"t": 99, "text": "Defining high-level / endgame content"},
+    {"t": 194, "text": "Golden years of updates: 2016-2019 review"},
+    {"t": 320, "text": "Declining update quality: 2020-2022 review"},
+    {"t": 480, "text": "Current state of the game in 2023"},
+    {"t": 535, "text": "Quality of life solutions for speedrunners (spellbook swaps, Validor Shield, Inferno tasks)"},
+    {"t": 652, "text": "Forestry and skill updates"},
+    {"t": 711, "text": "Comparing OSRS to RS3 endgame content"},
+    {"t": 843, "text": "Issues with quality assurance and bugs"},
+    {"t": 944, "text": "Disappointments with Tombs of Amascut"},
+    {"t": 1097, "text": "Desert Treasure 2 review, including Awakened Leviathan"},
+    {"t": 1465, "text": "Community testimonials from high-level players"}
+  ],
+  "topics": [
+    {
+      "name": "Opinion: Lack of high-level content",
+      "kind": "opinion",
+      "claims": [
+        {"t": 0, "kind": "opinion", "text": "Gnomonkey says a big chunk of the OSRS player base feels disregarded and neglected, not just for weeks or months but for years, and he frames the video as an appeal to Jagex to listen to the concerns of himself and the community."},
+        {"t": 17, "kind": "opinion", "text": "Gnomonkey says that although the community has a polling system, high-level players still feel unheard, and their main forms of contact with Jagex are still Reddit and Twitter."},
+        {"t": 63, "kind": "opinion", "text": "Gnomonkey says he has personally been told many times that his thoughts do not matter because he represents a small portion of the community, and that most of his friends at a similar skill level have given up reaching out and moved on to other games or quit."},
+        {"t": 99, "kind": "opinion", "text": "Gnomonkey defines high-level content (HLC) as content with mechanical depth, such as the Inferno, Chambers of Xeric and Theatre of Blood, which are significant to the speedrunning community and offer rewards like kits and the Infernal cape."},
+        {"t": 123, "kind": "opinion", "text": "Gnomonkey says Tombs of Amascut, Desert Treasure 2 bosses, Corrupted Gauntlet, Muspah, Nightmare, Phosani's Nightmare, Nex and the Fight Caves are wrongly labelled difficult or high-level by Jagex and lower-level players, because in his view they need minimal practice and have straightforward mechanics."},
+        {"t": 150, "kind": "opinion", "text": "Gnomonkey says the most recent truly challenging content release was the Theatre of Blood, five years before this video, so high-level players had been deprived of updates for half a decade."},
+        {"t": 182, "kind": "opinion", "text": "Gnomonkey argues the high-level community inspires others, produces guides and entertainment through streaming, and acts as free advertising and a testament to the game's health from a corporate standpoint."},
+        {"t": 520, "kind": "opinion", "text": "Gnomonkey says the endgame player base has been completely ignored and cries out for quality-of-life changes, and that many speedruns are hampered by things that could be fixed very easily."},
+        {"t": 1465, "kind": "opinion", "text": "Gnomonkey collected feedback in his Discord asking whether people were happy with the state of the game, what their priority would be, what makes the game fun and what makes it unenjoyable, to show that high-level players exist and care; he kept the feedback channel open after the video."},
+        {"t": 1750, "kind": "opinion", "text": "Gnomonkey says he has over 13,000 hours in Old School RuneScape and a similar amount in RS3, and that the feeling of excitement about new updates now feels like a distant memory and he is hesitant to get hopes up for announcements."},
+        {"t": 1805, "kind": "opinion", "text": "Gnomonkey says he wants OSRS to flourish like it did in 2017 and 2018, and asks viewers to spread the video to anyone who might listen."}
+      ]
+    },
+    {
+      "name": "Update history 2016-2023",
+      "kind": "update",
+      "claims": [
+        {"t": 183, "kind": "event", "text": "Gnomonkey went through the update list on the OSRS Wiki (he says Jagex's website is much worse to parse) and gathered every major update since 2016, excluding quality-of-life changes such as shift-click drop."},
+        {"t": 194, "kind": "opinion", "text": "Gnomonkey concludes that 2017 and 2018 were two great years when the mods found their footing, and that quality dropped off after that."},
+        {"t": 212, "kind": "event", "text": "Gnomonkey says 2016 was somewhat weak, with the Catacombs of Kourend and Skotizo as the biggest additions and no high-level content."},
+        {"t": 224, "kind": "opinion", "text": "Gnomonkey calls 2017 the best year OSRS has ever had, the golden year, with Chambers of Xeric, the Inferno, Fossil Island, Grotesque Guardians, the Chaos Altar and Revenants."},
+        {"t": 274, "kind": "event", "text": "2018 saw the release of Theatre of Blood, Challenge Mode Chambers of Xeric, Dragon Slayer 2 and Vorkath, which Gnomonkey calls an amazing year for content."},
+        {"t": 336, "kind": "event", "text": "2019 had no major high-level content but added the Kebos Lowlands (including Konar, Hydra and the Farming Guild) and Song of the Elves with the Gauntlet and Elf Agility."},
+        {"t": 363, "kind": "opinion", "text": "Gnomonkey says 2020 is when things started going downhill, with Hallowed Sepulchre (which he calls the best skilling update of all time) and Nightmare of Ashihama (lukewarm at best), and Trailblazer as the only other notable update."},
+        {"t": 390, "kind": "opinion", "text": "Gnomonkey says 2021 had attempts at hard content that fell flat: Theatre of Blood hard mode, the Jad challenges, Combat Achievements, Phosani's Nightmare, Soul Wars, Group Ironman and A Kingdom Divided."},
+        {"t": 453, "kind": "event", "text": "The major PvM releases of 2022 were Nex and Tombs of Amascut; Gnomonkey also mentions quest speedrunning and the PvP arena as updates that are completely dead, saying he saw 11 people in quest speedrunning worlds while writing the script."},
+        {"t": 519, "kind": "event", "text": "Up to July 2023 (six and a half months), 2023 had added the Wilderness boss rework (which Gnomonkey calls a bot-ridden mess), Forestry and \"Muzzbow\" (as transcribed), which he cites as everything the game had received that year."}
+      ]
+    },
+    {
+      "name": "Chambers of Xeric",
+      "kind": "raid",
+      "claims": [
+        {"t": 240, "kind": "opinion", "text": "Gnomonkey says Chambers of Xeric was janky when it came out, but Olm is an incredible boss fight regardless of whether Jagex intended him to be fought the way he currently is."},
+        {"t": 240, "kind": "opinion", "text": "Gnomonkey says Chambers of Xeric added new prayers and a ridiculous amount of items, arguably too many, and calls it easily one of the best pieces of PvM content in the game, which is good for a first attempt at a raid."},
+        {"t": 305, "kind": "opinion", "text": "Gnomonkey describes Challenge Mode Chambers of Xeric as Chambers cranked to 11: doing every boss in a row with immense stats requires mastery to survive, and it needs careful inventory management, banking and route planning."},
+        {"t": 305, "kind": "opinion", "text": "Gnomonkey personally enjoys speedrunning Challenge Mode Chambers solo, and notes there are also speed scenes for trio and five-person teams."},
+        {"t": 520, "kind": "tip", "text": "Gnomonkey says Challenge Mode Chambers speedruns require swapping spellbook with the Max cape right after Ice Demon, six minutes into a roughly 30-minute raid, which limits him to a maximum of five Challenge Mode runs per day."},
+        {"t": 1550, "kind": "opinion", "text": "Gnomonkey says Challenge Mode Tekton is an example of annoying high-defence design, and that CM is one of the few pieces of content with mechanical depth along with Theatre of Blood and the Inferno."}
+      ]
+    },
+    {
+      "name": "Inferno",
+      "kind": "boss",
+      "claims": [
+        {"t": 240, "kind": "opinion", "text": "Gnomonkey says the Inferno is the best PvM in the game, an incredibly difficult challenge for only the best players that requires mastery of prayer control and positioning."},
+        {"t": 240, "kind": "opinion", "text": "Gnomonkey says Inferno speedruns are the most difficult content in the game with the most room for mastery."},
+        {"t": 575, "kind": "tip", "text": "Gnomonkey says the Validor Shield (as transcribed) is worth one and a half prayer restores in one inventory slot, making it practically required to complete an Inferno speedrun because prayer points are that tight; once the shield is used for the day he might as well stop running."},
+        {"t": 576, "kind": "opinion", "text": "Inferno speedruns require a slayer task for TzKal-Zuk (to use a Slayer helmet), so in order to run it you must first obtain the task, which Gnomonkey says the community does by Turael cancelling to get a task from Nieve."},
+        {"t": 608, "kind": "stat", "text": "Gnomonkey says that even with an optimised block list, unlocks and an efficient Turael setup, getting a Zuk task takes about 30 minutes on average and can go as dry as 4+ hours; with a Slayer helmet you get 3 attempts per task, which is still around 30 minutes per 3 attempts."},
+        {"t": 637, "kind": "opinion", "text": "Gnomonkey proposes letting the Jad Challenge Master assign TzHaar tasks after completing the 6 Jad challenge once, as a separate task streak that gives no slayer points or XP and exists only to provide the Slayer helmet bonus in the Inferno or Fight Caves."},
+        {"t": 1007, "kind": "event", "text": "Gnomonkey reports that Inferno had unlimited stamina for about a week due to a bug, forcing the Inferno speedrun Discord to stop accepting runs until it was patched."},
+        {"t": 1050, "kind": "opinion", "text": "Gnomonkey compares the Inferno to chess: there is a correct way to solve every wave, but there are so many permutations that learning them all is almost impossible."},
+        {"t": 1770, "kind": "trivia", "text": "Gnomonkey recalls the first days of Inferno's release, when streamers like Woox and Bodhi attempted it to tens of thousands of viewers with ridiculous gear setups."}
+      ]
+    },
+    {
+      "name": "Theatre of Blood",
+      "kind": "raid",
+      "claims": [
+        {"t": 274, "kind": "opinion", "text": "Gnomonkey says Theatre of Blood is the best raid in the game, with an extremely high skill ceiling and unique mechanical depth in every room."},
+        {"t": 274, "kind": "opinion", "text": "Gnomonkey calls Nylocas the best raid room in the game, with a lot of depth from semi-random spawns; a speedrunner there runs all over the room doing seemingly thoughtless actions that are carefully calculated to keep the room as empty as possible."},
+        {"t": 305, "kind": "opinion", "text": "Gnomonkey says Maiden, Bloat, Sotetseg, Xarpus and Verzik all have an incredible level of depth with an immense amount to learn for improving times."},
+        {"t": 390, "kind": "opinion", "text": "Gnomonkey says Theatre of Blood hard mode is a complete step down from regular in every way: Bloat is more random and loses depth, the Nylocas room's cap is so high you just kill every big Nylo, and Xarpus has lower defence and is simply AFKed after the scream."},
+        {"t": 420, "kind": "opinion", "text": "Gnomonkey says the only hard mode room that was an improvement is Verzik, because she gets more health after the tornadoes."},
+        {"t": 540, "kind": "tip", "text": "Gnomonkey says Theatre of Blood speedruns use a spellbook swap with the Max cape at Sotetseg, so together with Challenge Mode Chambers you have a pool of 5 runs per day."},
+        {"t": 765, "kind": "opinion", "text": "Gnomonkey says you can solo Theatre of Blood, but you have to eat tick-by-tick for 15 minutes straight in Xarpus's phase 2, and suggests fixing it with one red crab spawn like in hard mode."},
+        {"t": 1020, "kind": "opinion", "text": "Gnomonkey says Theatre of Blood has incredible mechanical depth, with something new to learn at every encounter in every raid, and that hitting its ceiling is almost impossible."},
+        {"t": 1590, "kind": "opinion", "text": "Gnomonkey says several high-level players (quoted in the feedback section) call Theatre of Blood their favourite or the only fun thing to do in the game."}
+      ]
+    },
+    {
+      "name": "Tombs of Amascut",
+      "kind": "raid",
+      "claims": [
+        {"t": 944, "kind": "opinion", "text": "Gnomonkey says he was incredibly hopeful for Tombs of Amascut, four years after Theatre of Blood, hoping the scaling invocations would give veterans a challenge and others an accessible raid, but instead he considers it the mid-level raid for people getting into raids."},
+        {"t": 973, "kind": "opinion", "text": "Gnomonkey says raising raid level in Tombs of Amascut only makes enemies hit harder, have more defence and the raid last longer, without adding mechanical depth, and that for a while it was not even worth going above 150 raid level for loot."},
+        {"t": 973, "kind": "opinion", "text": "Gnomonkey says he hoped for additional interesting invocations that add rather than detract and for clean-up of major issues like the Monkey Room, but the raid was abandoned for many months."},
+        {"t": 1000, "kind": "stat", "text": "Gnomonkey says he has cataloged over 50 bugs and flaws in Tombs of Amascut, and that the changes Jagex did make initially added as many bugs as they fixed."},
+        {"t": 1000, "kind": "opinion", "text": "Gnomonkey says Akkha is difficult only because he can combo you for 270 damage on a mistake, Baba is difficult because you must learn to Red X to avoid the fight or it is impossible, and the Warden is difficult because standing on the corner of the Skull attack in phase 2 pulls your prayer off and hits you for 50."},
+        {"t": 1029, "kind": "opinion", "text": "Gnomonkey says the Tombs of Amascut lacks the depth for improvement that Chambers of Xeric and Theatre of Blood have, asking how you improve at Kephri besides walking back and forth better, and saying his best way to improve at Baba is learning to spin his camera while Red X-ing."},
+        {"t": 1050, "kind": "opinion", "text": "Gnomonkey says the best GP per hour in the game is still Nex, followed by Tombs of Amascut, and that they are not good money because they are the hardest but because high-level players are beating dead horses out of desperation for something to chew on."},
+        {"t": 1007, "kind": "event", "text": "Gnomonkey says Tombs of Amascut introduced a bug where a thrall standing on top of something loses its clickbox, which was still unpatched at the time of the video."},
+        {"t": 1590, "kind": "opinion", "text": "Gnomonkey says quoted high-level players find Tombs of Amascut's invocations underwhelming, high invocation scaling an HP/defence buff instead of fun mechanics, and the Monkey puzzle universally regarded as terrible."}
+      ]
+    },
+    {
+      "name": "Desert Treasure II",
+      "kind": "quest",
+      "claims": [
+        {"t": 1097, "kind": "opinion", "text": "Gnomonkey says Desert Treasure II brought potential and disappointment: the Duke Sucellus is a wall you fight after a skilling portion, Vardorvis is a walk back and forth between two tiles, the Whisperer does not damage you throughout the fight, and the Leviathan is stand in place and swap prayers with the occasional barrage to get behind him."},
+        {"t": 1097, "kind": "event", "text": "Gnomonkey says there was an issue on release day with the ring drops where none were dropping, and not a single Ultor ring dropped on day one."},
+        {"t": 1126, "kind": "stat", "text": "Gnomonkey says over 100 Vardorvis kills he averaged roughly 25k GP per kill, half as much as a demonic gorilla, and one of his drops was 64 bronze javelins."},
+        {"t": 1126, "kind": "trivia", "text": "Gnomonkey says that on day two a developer explained in the QA that the Desert Treasure II rings use a unique drop system where you must roll a ring three times to receive it, effectively an invisible, untradeable shard system like the Venator bow's from Muspah, or more like Sire's bludgeon."},
+        {"t": 1155, "kind": "opinion", "text": "Gnomonkey criticises the ring shard system because you cannot see your shards, which encourages camping one boss, and the Soul Reaper axe needing an untradeable hilt piece from each of the four bosses forces you to choose between grinding for a ring or moving on; it prevents people from getting lucky and from going dry."},
+        {"t": 1184, "kind": "opinion", "text": "Gnomonkey calls Desert Treasure II almost exactly what he expected: four additional Muspahs (really three, as Duke is a meme boss fight), a host of bugs, and an overall hollow update because of the lack of the Ancient prayer book addition."},
+        {"t": 1184, "kind": "event", "text": "Gnomonkey says the Soul Reaper axe was maxing over 400 with its special attack for several hours after the first was obtained."},
+        {"t": 1184, "kind": "event", "text": "The Awakened bosses were released a few days after Desert Treasure II, much earlier than expected, which worried Gnomonkey that it was a rush job to appease complaining players."}
+      ]
+    },
+    {
+      "name": "Awakened Leviathan",
+      "kind": "boss",
+      "claims": [
+        {"t": 1217, "kind": "record", "text": "Gnomonkey finished Awakened Whisperer in two orbs and the Awakened Duke in seven or eight orbs, taking seven and a half minutes to kill the Duke, who he finds more awful than the normal variant."},
+        {"t": 1243, "kind": "record", "text": "Gnomonkey needed 12 orbs for Awakened Vardorvis, finding it surprisingly decent with a lot of precise rapid clicks required, but not the challenge he hoped for."},
+        {"t": 1277, "kind": "opinion", "text": "Gnomonkey calls Awakened Leviathan genuinely the best addition to the game since Theatre of Blood and the hardest piece of content Jagex has ever intentionally added, yet fair and not reliant on heavy RNG."},
+        {"t": 1277, "kind": "method", "text": "Gnomonkey describes the Awakened Leviathan fight: he drops a larger pile of rocks each roar filling the arena over time, mistakes punish you for around 50 damage, after stunning he drops ten rocks on your location each tick, at 50% HP he spawns a tornado that follows you like P3 Verzik and hits 50, and at 20% HP he spawns a damage orb and relentlessly hails one-tick prayer orbs."},
+        {"t": 1307, "kind": "method", "text": "Gnomonkey says the final phase of Awakened Leviathan requires about 600 damage to Leviathan while avoiding the tornado, flicking prayers each tick, staying inside the orb to avoid 25 chip damage per one-tick orb, and attacking fast enough that falling rocks do not fill the arena."},
+        {"t": 1334, "kind": "opinion", "text": "Gnomonkey says the final section of Awakened Leviathan is far harder than Sixjad (the six-Jad challenge), and that completing it is far harder than any combat achievement, probably harder than a pillarless Inferno or solo Theatre of Blood."},
+        {"t": 1361, "kind": "record", "text": "Gnomonkey needed 40 orbs to kill Awakened Leviathan, which he says is far fewer than most players took."},
+        {"t": 1391, "kind": "opinion", "text": "Gnomonkey says the Awakened bosses are a complete waste of money to fight, since they only give Blood Torva cosmetics; his reward for killing Leviathan was 51 rune arrows, and even when orb prices fall they would never recoup the orb cost."},
+        {"t": 1423, "kind": "opinion", "text": "Gnomonkey says he hopes Jagex adds scaling content that is truly rewarding at the top end, imagining Leviathan lucrative to kill if killed consistently, and suggests that with a 1/10 to 1/20 chance of the rare table the 2.5 million entry cost would be worth it for consistent players."},
+        {"t": 1451, "kind": "opinion", "text": "Gnomonkey says Awakened Leviathan is not as difficult as a 4000% Telos in RS3, which took 13 and a half months to be killed for the first time, but that it is a step towards that and gives him hope for good PvM updates."}
+      ]
+    },
+    {
+      "name": "Forestry",
+      "kind": "update",
+      "claims": [
+        {"t": 652, "kind": "opinion", "text": "Gnomonkey describes Forestry as woodcutting with random events that turned every main tree, including Redwoods, into Motherlode Mine-style timed resource nodes with incredibly high XP rates."},
+        {"t": 652, "kind": "opinion", "text": "Gnomonkey says the Forestry random events are as simple as repeatedly clicking a log on the ground, adding a huge chunk of XP for players who interact with them."},
+        {"t": 670, "kind": "opinion", "text": "Gnomonkey says the only draw of Forestry is doing it with a large group, and that although increased XP feels good, the update added nothing substantial gameplay-wise; he finds it lazy, weak and unnecessary."},
+        {"t": 670, "kind": "event", "text": "Gnomonkey notes Forestry worlds were still near full when he made the video, and says he is unsure whether that is mostly bots or players enjoying it."},
+        {"t": 698, "kind": "opinion", "text": "Gnomonkey says Woodcutting already had varied training methods, naming two-tick and AFK teak, Sulliusceps, Redwoods, Urium and Blisterwood as good methods with differing intensity, and that Forestry removed any reason to use Sulliusceps because any Forestry tree gives the same or more XP per hour."}
+      ]
+    },
+    {
+      "name": "RS3",
+      "kind": "other",
+      "claims": [
+        {"t": 698, "kind": "opinion", "text": "Gnomonkey says RS3 receives update after update for its endgame PvM while the best OSRS players are left kicking sand."},
+        {"t": 711, "kind": "opinion", "text": "Gnomonkey says RS3 has loads of non-raid endgame PvM, including three Elite Dungeons mini-raids tied into Dungeoneering, which are Diablo-style dungeons ending in a huge final boss."},
+        {"t": 731, "kind": "opinion", "text": "Gnomonkey says RS3 has multiple difficult endgame raid bosses (he names Kalphite King, Vorago, Barrows: Rise of the Six, Solak and Zamorak) and difficult solo bosses including Araxxor, Zuk, Arch-Glacor and Telos, while OSRS only has Nex and Nightmare as similar content."},
+        {"t": 762, "kind": "opinion", "text": "Gnomonkey says Telos in RS3 has a risk mechanic where you can leave loot in the chest and do another kill, increasing your loot modifier but risking the stored loot, with difficulty rising each kill up to 4,000%; Arch-Glacor has a similar Rage Meter."},
+        {"t": 793, "kind": "opinion", "text": "Gnomonkey says RS3 has horrible problems such as microtransactions and dailies, but with that and the lack of polls the developers have total freedom to make cool endgame content, and OSRS should take ideas like Telos streaking and raid bosses and implement them with the old school touch."}
+      ]
+    },
+    {
+      "name": "Opinion: OSRS quality assurance and bugs",
+      "kind": "opinion",
+      "claims": [
+        {"t": 825, "kind": "opinion", "text": "Gnomonkey says QA over the past year or two has felt non-existent, with every update introducing a game-breaking bug, the most recent being Rainbow Text crashing players' clients."},
+        {"t": 852, "kind": "event", "text": "Gnomonkey lists bugs including the Red X being patched out of the whole game by accident (which players rioted over), unlimited Inferno stamina for about a week, and Tombs of Amascut's thrall clickbox disappearing."},
+        {"t": 864, "kind": "event", "text": "Gnomonkey says a Hallowed Sepulchre bug let players at 1 HP wearing the Hallowed ring avoid all traps; it was in the game for a week, the record was beaten by over a full minute, no one was banned and the leaderboard was not reverted."},
+        {"t": 884, "kind": "event", "text": "Gnomonkey lists further bugs: Barbarian Assault Poisoning Healers broken for over two months, ranged accuracy broken when beta prayers were released, and a pathing bug that made players run in a boat arc when running diagonally."},
+        {"t": 910, "kind": "event", "text": "Gnomonkey also lists inventories being wiped at the Gauntlet, Hunter being broken on Tombs of Amascut's release, Tumeken's shadow accuracy bugged for months, the Osmumten's fang bugged for a couple of weeks, and Phosani's Nightmare unable to drop rare items for over 12 hours."},
+        {"t": 910, "kind": "opinion", "text": "Gnomonkey says it is now easier to list updates that did not break something than ones that did, and asks at what point this stops being acceptable just because the game is old."}
+      ]
+    },
+    {
+      "name": "Opinion: Daily item limits on speedruns",
+      "kind": "opinion",
+      "claims": [
+        {"t": 535, "kind": "opinion", "text": "Gnomonkey proposes giving the Max cape spellbook swap some kind of recharge, such as syncing items or resources, or lowering the total swaps to one or two, so speedrunners are not limited to five Challenge Mode or Theatre of Blood speedruns per day."},
+        {"t": 575, "kind": "opinion", "text": "Gnomonkey says the Explorer's ring run energy charges, used in many setups, are limited to one run per day, and that both the Validor Shield and the Explorer's ring could be made rechargeable in some way."},
+        {"t": 1781, "kind": "opinion", "text": "Gnomonkey quotes a player complaining that being limited by daily items, mainly the Magic cape but also the Fally shield / Explorer's ring, limits runs per day for no reason."}
+      ]
+    },
+    {
+      "name": "Nex",
+      "kind": "boss",
+      "claims": [
+        {"t": 453, "kind": "opinion", "text": "Gnomonkey says he has come around to Nex after fighting her quite a bit lately, saying no boss except maybe Inferno speedruns requires switching like Nex does."},
+        {"t": 486, "kind": "opinion", "text": "Gnomonkey says step-unders and resetting are underrated mechanics in Nex, and that although she still lacks much depth she is a lot better than Jagex's other attempts before her."},
+        {"t": 1050, "kind": "stat", "text": "Gnomonkey says Nex is still the best GP per hour in the game, followed by Tombs of Amascut."},
+        {"t": 762, "kind": "opinion", "text": "Gnomonkey says Nex is the best Jagex can come up with for endgame team encounters."}
+      ]
+    },
+    {
+      "name": "Phosani's Nightmare",
+      "kind": "boss",
+      "claims": [
+        {"t": 453, "kind": "opinion", "text": "Gnomonkey says Phosani's Nightmare, added in 2021, removed the one aspect the Nightmare had going for it, the ability to do it with friends, by making it solo only."},
+        {"t": 453, "kind": "opinion", "text": "Gnomonkey says Phosani's mechanics are not harder than the regular Nightmare except that she punishes mistakes with very high damage, and argues that solo she is easier than the regular Nightmare because the fight is much shorter and there is no chip damage through prayer."},
+        {"t": 363, "kind": "opinion", "text": "Gnomonkey says the regular Nightmare of Ashihama requires catching prayers before they land and some very basic movement, and that its only real difficulty is that it is a very long fight."}
+      ]
+    },
+    {
+      "name": "Combat Achievements",
+      "kind": "update",
+      "claims": [
+        {"t": 420, "kind": "opinion", "text": "Gnomonkey says 90% of Combat Achievements are a slog, either simple kill-count tasks or very basic one-off things, and that he can count the good ones on one hand despite there being 485 of them."},
+        {"t": 420, "kind": "opinion", "text": "Gnomonkey says the Jad challenges added in 2021 were a fun distraction for a day or two but are very simple and reward nothing besides combat achievements."}
+      ]
+    },
+    {
+      "name": "The Gauntlet",
+      "kind": "boss",
+      "claims": [
+        {"t": 336, "kind": "opinion", "text": "Gnomonkey says the Gauntlet (2019, with Song of the Elves) has a lot of mechanical depth and was the hardest content of that year; completions are not very difficult but fast completions and speedruns require a lot of game knowledge."},
+        {"t": 363, "kind": "opinion", "text": "Gnomonkey says the Gauntlet is not his favourite content because at a high level you basically need to chance death to go faster."}
+      ]
+    },
+    {
+      "name": "Gnomonkey",
+      "kind": "person",
+      "claims": [
+        {"t": 305, "kind": "record", "text": "Gnomonkey says he personally enjoys speedrunning Challenge Mode Chambers of Xeric solo."},
+        {"t": 520, "kind": "record", "text": "Gnomonkey does speedruns of Challenge Mode Chambers of Xeric, Theatre of Blood and the Inferno, and says he can complete a maximum of five Challenge Mode runs per day because of the Max cape spellbook swap."},
+        {"t": 1465, "kind": "record", "text": "Gnomonkey says he has over 13,000 hours played in Old School RuneScape and a similar amount in RS3."},
+        {"t": 1465, "kind": "event", "text": "Gnomonkey collected high-level player feedback via his Discord, and quoted respondents including Sax, Sam Squantus and Smork in the video."}
+      ]
+    }
+  ]
+}

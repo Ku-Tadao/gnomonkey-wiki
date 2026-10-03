@@ -1,0 +1,119 @@
+{
+  "id": "cmLBaxdoHpQ",
+  "title": "TOA 500 NO KERIS Teaching Stream",
+  "date": "2023-06-30",
+  "type": "guide",
+  "summary": "Gnomonkey completes a 500 invocation Tombs of Amascut raid without a Keris, explaining the invocation set, supplies, and room-by-room strategy (Monkey room, Baba, Zebak, Akkha, Wardens). He says no Keris is not much harder if you play cleanly and that it is likely his last TOA teaching stream, as the most challenging realistic completion for most players.",
+  "outline": [
+    {"t": 0, "text": "Introduction, invocations for a no Keris 500"},
+    {"t": 74, "text": "Gear and inventory: brews, restores, Void Waker and BGS"},
+    {"t": 142, "text": "Monkey (Scabaras) room strategy and thralls"},
+    {"t": 357, "text": "Ba-Ba boss fight and the zero supply goal"},
+    {"t": 453, "text": "Akkha boss fight"},
+    {"t": 605, "text": "Zebak boss fight and puzzle mechanics (Het pillar BGS thresholds)"},
+    {"t": 794, "text": "Puzzles and mechanics, Pathmaster and waves"},
+    {"t": 1170, "text": "Wave skip and Zebak safe tiles"},
+    {"t": 1476, "text": "Boss mechanics revisited: Kephri, mining and Akkha prep"},
+    {"t": 1724, "text": "Akkha final phase: double trouble and Augury"},
+    {"t": 2022, "text": "Final boss preparation for the Wardens"},
+    {"t": 2264, "text": "Wardens phase 1"},
+    {"t": 2421, "text": "Wardens phases 2 and 3"},
+    {"t": 2545, "text": "Wardens phase 4"},
+    {"t": 2634, "text": "Conclusion, loot and invocation recap"}
+  ],
+  "topics": [
+    {
+      "name": "Tombs of Amascut",
+      "kind": "raid",
+      "claims": [
+        {"t": 30, "kind": "tip", "text": "For a no Keris 500 invocation raid, Gnomonkey says Dehydration must be off, and you do not use Pathmaster or Medic; the rest of the invocations are on to reach 500."},
+        {"t": 0, "kind": "opinion", "text": "Gnomonkey says no Keris is not technically harder if you know every room, but without a Keris you have no healing at all if you make mistakes at places like Akkha or P4, so you need to play very cleanly."},
+        {"t": 0, "kind": "event", "text": "The video description says this is likely Gnomonkey's last Tombs of Amascut teaching stream, as no Keris 500 is the most challenging realistic completion for most players."},
+        {"t": 74, "kind": "tip", "text": "Gnomonkey's no Keris 500 inventory has four brews and three restores; three brews are needed to get through the Wardens, with one spare, and the three restores get you through the raid."},
+        {"t": 96, "kind": "tip", "text": "Without a Keris you use much less restore than expected because you flick a lot."},
+        {"t": 96, "kind": "opinion", "text": "Gnomonkey says Void Waker with a Berserker ring is good enough to get a three-down on the Wardens; if you do not have max melee you can use a mace, Saradomin sword, or rapier, which all work."},
+        {"t": 96, "kind": "tip", "text": "Gnomonkey says BGS is good for drain defence in this raid."},
+        {"t": 2634, "kind": "record", "text": "Gnomonkey completed the no Keris 500 raid in about 41 minutes (he reads out 41:22 and says that is not too bad)."},
+        {"t": 2750, "kind": "tip", "text": "On the Wardens' phase 1 orb, tick eat one tick sooner than you would with a Keris and brew; Gnomonkey says to tick eat the smaller orb because it does more damage."},
+        {"t": 2721, "kind": "tip", "text": "Gnomonkey says the invocation set for no Keris 500 is the same as before: no Medic, everything else on."}
+      ]
+    },
+    {
+      "name": "Scabaras monkey room",
+      "kind": "mechanic",
+      "claims": [
+        {"t": 142, "kind": "tip", "text": "In the monkey room, Gnomonkey says not to tank thralls because they drain prayer, and not to tank a clump of them at once."},
+        {"t": 142, "kind": "tip", "text": "If you get through the monkey room with any prayer remaining, Gnomonkey says you can do Baba with zero prayer point use, meaning zero supplies in that room, which is the goal."},
+        {"t": 142, "kind": "tip", "text": "In the monkey room Gnomonkey uses chinchompas to clear out thralls and flicks lots of prayer; you can play offensive prayer in the room."},
+        {"t": 278, "kind": "tip", "text": "When tanking a bunch of thralls you should step to the side; Gnomonkey says not to tank them."},
+        {"t": 334, "kind": "tip", "text": "Gnomonkey says not to turn on Smite in the monkey room."}
+      ]
+    },
+    {
+      "name": "Baba",
+      "kind": "boss",
+      "claims": [
+        {"t": 367, "kind": "tip", "text": "At Baba, Gnomonkey steps in, drops his restore, equips his gear, summons a thrall and clicks the boss, then goes three under and three back."},
+        {"t": 392, "kind": "stat", "text": "Gnomonkey says Baba drops a boulder at 90 and he specs again because it only costs fifty spec."},
+        {"t": 421, "kind": "opinion", "text": "Gnomonkey says nothing in the room is weak to crush, so he does not use Dragon warhammer or Arclight at Baba, and a low defence cap is arguable but cannot be respecced."},
+        {"t": 451, "kind": "tip", "text": "At Baba, Gnomonkey says he is not thralling constantly in this one room because he wants to not use a dose."},
+        {"t": 484, "kind": "tip", "text": "Gnomonkey's Baba sequence is a four-tick hit into a Fang hit into two steps under; otherwise a Fang hit then three under, three back."},
+        {"t": 571, "kind": "tip", "text": "At Baba the gap does not kill you from the top row, so make sure that when you run the red X you start from those tiles."},
+        {"t": 0, "kind": "tip", "text": "The video description says you need a firm understanding of Red-X Baba and Butterfly to use no supplies in those rooms."}
+      ]
+    },
+    {
+      "name": "Akkha",
+      "kind": "boss",
+      "claims": [
+        {"t": 630, "kind": "opinion", "text": "Gnomonkey says you hope for a high-level Akkha and a low-level Zebak, since a level four Zebak is bad; he says a lower-level Akkha matters less in a duo-style setup and a level three Akkha is just a little more annoying because you have less time to react to Simon says."},
+        {"t": 1724, "kind": "tip", "text": "Gnomonkey says that if you do not want to flick Augury at Akkha you can camp a lesser magic prayer instead: it gives a 1.5% DPS increase versus Augury's 3% at one fifth the drain, and it works well with boot takeoffs."},
+        {"t": 1735, "kind": "tip", "text": "At Akkha, Gnomonkey casts from the standing tile where the boss has a delay in his attack, so no ticks are lost; casting from the magic tile and then another tile puts you on butterfly the other way, again losing zero ticks."},
+        {"t": 1798, "kind": "tip", "text": "For Akkha's double trouble orbs, Gnomonkey says to just move two tiles every time, every single click."},
+        {"t": 1865, "kind": "opinion", "text": "Gnomonkey says the big difference without a Keris at Akkha is you pretty much have to do it perfectly; tanking 70 melees or Simon says hits means you do not have the health for it."},
+        {"t": 1921, "kind": "mechanic", "text": "Gnomonkey says Akkha can be switched to ranged at any point with any special and you have to deal with it."},
+        {"t": 2062, "kind": "tip", "text": "Gnomonkey says to use a BGS on the last hit of an Akkha phase and notes each phase of Akkha reduces defence, though he regenerates defence very fast."}
+      ]
+    },
+    {
+      "name": "Zebak",
+      "kind": "boss",
+      "claims": [
+        {"t": 660, "kind": "opinion", "text": "Gnomonkey says level four Zebak sucks really bad and that he rolled level two and level three rooms, calling them the worst possible levels again, while hoping for a high-level Akkha and a low-level Zebak."},
+        {"t": 1168, "kind": "opinion", "text": "Gnomonkey says a level four Zebak is bad not because the room is hard but because it makes the Wardens harder: it makes the P4 projectiles faster."},
+        {"t": 1168, "kind": "opinion", "text": "Gnomonkey says if your Zebak is level four you could theoretically do Akkha first, but you are kind of screwed because Zebak is level four."},
+        {"t": 1412, "kind": "opinion", "text": "Gnomonkey would not reset for or do weird tricks over a level four Zebak, saying it is not bad enough to end a run."},
+        {"t": 1288, "kind": "tip", "text": "In the Zebak room Gnomonkey says the green line is the max range you can hit him from with the T-Bow line, and the red tiles on the sides of the room are safe spots from the blood spawns on the opposite side."},
+        {"t": 1358, "kind": "tip", "text": "In Zebak's wave attack you step into a tile and then through it to wave skip, and when the waves spawn next to you just go to the other side."},
+        {"t": 1448, "kind": "tip", "text": "Gnomonkey says the Zebak room should use no doses of anything, even at level four; he had 64 prayer points and camped prayer."}
+      ]
+    },
+    {
+      "name": "Kephri",
+      "kind": "boss",
+      "claims": [
+        {"t": 1025, "kind": "stat", "text": "Gnomonkey says there are two ways to make the boss in this room (the Kephri room) jump: land a hit of 39 or higher to instantly teleport it, or land three hit slots with damage between 4 and 38."},
+        {"t": 1025, "kind": "stat", "text": "Hits of 1 to 3 do not count towards the jump, so thralls do not count, according to Gnomonkey."},
+        {"t": 1056, "kind": "stat", "text": "Gnomonkey says the 39 threshold and three hit slots are not specific to 500 raids; each extra person raises the required max hit by one and the number of hits by one, so a duo needs four hits of at least 39 and a hit of 40 to instantly jump."},
+        {"t": 750, "kind": "tip", "text": "Gnomonkey says to wait for the second swarm and the dung if you are doing crazy DPS and land a big BGS, or bad things happen."},
+        {"t": 841, "kind": "tip", "text": "Gnomonkey says he needs chinchompas partly to clear certain scarabs, which otherwise you cannot get and must let heal fully; with Overlords you do not have to tag the second set."}
+      ]
+    },
+    {
+      "name": "Wardens",
+      "kind": "boss",
+      "claims": [
+        {"t": 2126, "kind": "stat", "text": "Gnomonkey tanks the Wardens' orbs down to 78 HP (or 76 if you regenerate), which leaves him on exactly one health."},
+        {"t": 2152, "kind": "tip", "text": "In a no Keris Wardens fight, Gnomonkey says to nuke the pillar so you do not get a second orb set, noting hitting 80 every hit would be good."},
+        {"t": 2185, "kind": "tip", "text": "Gnomonkey says tanking melee hits at the Wardens is good because prayer makes them max four instead of ten, and he melees you the tick after you take damage; if he does a special you need to get out of melee range."},
+        {"t": 2252, "kind": "tip", "text": "Gnomonkey says Wardens' skulls go two tiles out so you can stand in spots out of them."},
+        {"t": 2372, "kind": "tip", "text": "Gnomonkey needs one BGS spec on one of the downs, because a regular BGS back is not enough damage, in the phase."},
+        {"t": 2395, "kind": "opinion", "text": "Gnomonkey says Augury matters quite a bit at the Wardens, saying it is six percent DPS, so you definitely want to flick it."},
+        {"t": 2440, "kind": "opinion", "text": "Gnomonkey says not to skull skip at the Wardens because it does five percent damage and a level four Zebak would make the hits arrive one tick earlier; completion matters more than loot."},
+        {"t": 2494, "kind": "tip", "text": "Gnomonkey says the faster the Wardens die the less you have to deal with, so do normal skulls to make him take damage, and double Void Waker on P4."},
+        {"t": 2527, "kind": "tip", "text": "On P4, Gnomonkey stands at the back for an extra cast, and clicks on the first set of lightning as it strikes to avoid all damage, making it a zero damage fight."},
+        {"t": 2634, "kind": "event", "text": "Gnomonkey says the Wardens used much less brew than expected: only one orb set in P1 instead of the normal two, so he walked out with lots of brew."}
+      ]
+    }
+  ]
+}

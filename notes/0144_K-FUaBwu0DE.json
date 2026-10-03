@@ -1,0 +1,52 @@
+{
+  "id": "K-FUaBwu0DE",
+  "title": "NO BREW COLOSSEUM (OSRS)",
+  "date": "2024-03-27",
+  "type": "speedrun",
+  "summary": "Gnomonkey does a speedrun-style Fortis Colosseum completion with no brews and no food, relying on thralls, Blood Fury and Saradomin godsword for healing. The setup is built around the Venator bow, with special pillar starting tiles to get triple ricochets. He finishes the run with a very low-health boss fight, not a record or personal best but a no-brew Colosseum completion.",
+  "outline": [
+    {"t": 0, "text": "Intro: the Venator bow and a 91 max hit"},
+    {"t": 31, "text": "No-brew speedrun setup and Venator bow switch"},
+    {"t": 58, "text": "Why Venator bow ricochets and the northeast pillar start"},
+    {"t": 121, "text": "Weapon ranking: Venator, scythe, Twisted bow"},
+    {"t": 154, "text": "Waves 1-6 with no healing besides godsword"},
+    {"t": 600, "text": "Mid waves, flare and manticores"},
+    {"t": 870, "text": "Wave 11 and picking up sand fuse"},
+    {"t": 1073, "text": "Sol Heredit fight begins"},
+    {"t": 1244, "text": "Result: no food, no brew completion, not a PB"}
+  ],
+  "topics": [
+    {
+      "name": "No brew Colosseum",
+      "kind": "challenge",
+      "claims": [
+        {"t": 0, "kind": "opinion", "text": "Gnomonkey calls no brews the future of Colosseum speedruns, and says he expected to be grinding a few more weeks before no-brew became meta, as it is in Inferno speedruns."},
+        {"t": 31, "kind": "method", "text": "Gnomonkey's no-brew Colosseum speedrun setup uses thralls, max melee, max ranged with Twisted bow and Venator bow, a three-way mage, claws, Saradomin godsword and Blood Fury as the only healing, and Chally for a 7-second time save after a perfect grapple on Sol."},
+        {"t": 31, "kind": "tip", "text": "Gnomonkey says brews are unnecessary in this speedrun setup."},
+        {"t": 154, "kind": "method", "text": "For waves 1 to 6 Gnomonkey camps the Venator bow, mixing in Twisted bow shots until it is set up, so he has no Blood Fury or healing other than the godsword for those waves and simply needs to survive."},
+        {"t": 154, "kind": "tip", "text": "After wave 6, when the tiny mages stop spawning and Venator bow stops being useful, Gnomonkey rotates back to his safe southwest pillar."},
+        {"t": 1244, "kind": "record", "text": "Gnomonkey completed a no-food, no-brew Colosseum run that was not a wreck-level time or a personal best; he went down to 11 health and Blood Fury brought it back, and he was happy to still get the no-brew completion."},
+        {"t": 1073, "kind": "tip", "text": "Gnomonkey brings Chally for the boss, saying that Chally with a perfect parry on Sol is a chef's kiss."}
+      ]
+    },
+    {
+      "name": "Venator bow",
+      "kind": "item",
+      "claims": [
+        {"t": 0, "kind": "stat", "text": "Gnomonkey says the Venator bow maxes more than a scythe in max melee, and in this setup the full 8-way switch raises his max hit from 88 to 91."},
+        {"t": 58, "kind": "stat", "text": "Gnomonkey says the Venator bow is the highest DPS weapon in the game in almost every case where it gets a triple ricochet, and in this setup it is 35 percent better DPS than a max melee scythe in that case."},
+        {"t": 88, "kind": "method", "text": "The Venator bow will triple ricochet if a mage is against the west or south side tiles of a larger target; the east and north sides do not ricochet."},
+        {"t": 121, "kind": "opinion", "text": "Gnomonkey ranks the Venator bow much greater than everything else in Colosseum, the scythe better than the Twisted bow, and the Twisted bow the weakest option but with long range for setups."},
+        {"t": 0, "kind": "tip", "text": "Gnomonkey tries not to pick up Myopia until wave 3 or later when running the Venator bow, because Venator bow is in melee mode otherwise; Myopia, a popular best-in-slot invocation for melee builds, is now less of an option."}
+      ]
+    },
+    {
+      "name": "Colosseum pillar starting positions",
+      "kind": "mechanic",
+      "claims": [
+        {"t": 58, "kind": "method", "text": "Gnomonkey starts speedrun waves at the Northeast pillar, by far the most dangerous starting position, because it does not trap any melee enemies and gets the most Venator bow setups for maximum DPS."},
+        {"t": 58, "kind": "trivia", "text": "A 1x1 Serpent Mage spawns in waves 1 through 6 in Colosseum, which lets Gnomonkey create specific setups so the Venator bow triple ricochets."}
+      ]
+    }
+  ]
+}

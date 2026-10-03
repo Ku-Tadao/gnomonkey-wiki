@@ -1,0 +1,88 @@
+{
+  "id": "NjF_kFyA02E",
+  "title": "25 Most Useful EXTERNAL Runelite Plugins (OSRS 2020)",
+  "date": "2020-05-14",
+  "type": "showcase",
+  "summary": "Gnomonkey presents his 25 favourite external RuneLite plugins, installed from the plugin hub at the bottom of the plugins tab. They are not in the main build but he says all have worked well for over a year; he explains what each does and why it is useful.",
+  "outline": [
+    {"t": 0, "text": "Intro: the plugin hub, the use-at-your-own-risk warning, and what is not covered"},
+    {"t": 68, "text": "Spec Regen Timer"},
+    {"t": 85, "text": "Chompy Hunter"},
+    {"t": 107, "text": "Banked Experience"},
+    {"t": 154, "text": "Inventory Setups"},
+    {"t": 195, "text": "Skills Progress Bars"},
+    {"t": 220, "text": "Flipping Utilities"},
+    {"t": 247, "text": "Herb Sack Price Calculator"},
+    {"t": 268, "text": "RL Tray Notifications"},
+    {"t": 310, "text": "Equipment Inspector"},
+    {"t": 324, "text": "Probability Calculator"},
+    {"t": 350, "text": "Player Tile"},
+    {"t": 370, "text": "Zulrah Helper"},
+    {"t": 391, "text": "Calculator"},
+    {"t": 407, "text": "Bank Value"},
+    {"t": 427, "text": "Essence Pouch"},
+    {"t": 452, "text": "Custom Left Click Drop"},
+    {"t": 473, "text": "Menu Swapper Extended"},
+    {"t": 498, "text": "World Hider"},
+    {"t": 517, "text": "Green Screen"},
+    {"t": 532, "text": "Detached Camera"},
+    {"t": 545, "text": "RSN Hider"},
+    {"t": 568, "text": "Ground Markers With Labels"},
+    {"t": 590, "text": "NPC Idle Timer"},
+    {"t": 614, "text": "NMZ Utilities"},
+    {"t": 640, "text": "OSRS Wiki Crowdsourcing"}
+  ],
+  "topics": [
+    {
+      "name": "RuneLite",
+      "kind": "other",
+      "claims": [
+        {"t": 0, "kind": "event", "text": "Gnomonkey says he never knew for a long time that RuneLite has a plugin hub at the bottom of the plugins tab, which lets players install external plugins."},
+        {"t": 0, "kind": "stat", "text": "External RuneLite plugins do not come with vanilla RuneLite and did not quite make the official release build, but Gnomonkey says they are confirmed safe by the RuneLite developers."},
+        {"t": 0, "kind": "tip", "text": "External plugins come with a use-at-your-own-risk warning because they are not necessarily maintained and may cause client instability if the developer abandons them; all plugins in the video had worked well for over a year."},
+        {"t": 32, "kind": "opinion", "text": "Gnomonkey names Inventory Scrabble as his personal favourite external plugin and says custom game mode plugins like Bronzeman Mode and Region Locker are very cool, but does not cover them."},
+        {"t": 68, "kind": "opinion", "text": "Gnomonkey says the Spec Regen Timer, which adds a timer to the spec orb on the minimap, should be part of the main RuneLite build and is very useful for bossing and Slayer."},
+        {"t": 107, "kind": "method", "text": "The Banked Experience plugin needs a bank visit in the current session to populate; you choose a skill and it shows total banked XP and the XP from each individual resource."},
+        {"t": 107, "kind": "opinion", "text": "Gnomonkey says Banked Experience would be extremely useful on an Iron Man or on a main to confirm you bought enough resources for a level goal."},
+        {"t": 154, "kind": "method", "text": "Inventory Setups is described as the bank tag tab plugin without clutter and easier to set up: gear up, fill the inventory, click the green plus in the side panel and name the setup, and it highlights missing items in red when filtering in the bank."},
+        {"t": 154, "kind": "opinion", "text": "Gnomonkey says Inventory Setups is extremely helpful for Slayer where there are many slightly different setups and he does not want a tag tab for each one."},
+        {"t": 195, "kind": "tip", "text": "Skills Progress Bars puts colour-coded bars on skills in the skill tab, shows no bar at level 99 which can help count 99s, and Gnomonkey reduced the default three-pixel size to one."},
+        {"t": 220, "kind": "method", "text": "Flipping Utilities adds a side panel that, after a basic margin check, shows profit each and potential profit for the item's buy limit, and tracks total flips and profit in a statistics tab; Gnomonkey calls it incredibly useful for any merchant."},
+        {"t": 247, "kind": "opinion", "text": "Gnomonkey says the Herb Sack Price Calculator, which shows the value of the herbs in your herb sack, is so simple and useful that it should be in the main build, and there is no equivalent for gem and coal bags."},
+        {"t": 268, "kind": "tip", "text": "RuneLite Tray Notifications creates custom notification boxes on a chosen monitor and lets you block the Windows tray notifications; with custom sounds on, a file named notification.wav in the RuneLite folder replaces the default shrill sound."},
+        {"t": 310, "kind": "tip", "text": "Equipment Inspector adds a right-click option to inspect other players' equipment, which Gnomonkey says is useful in the Wilderness because things like rings are not visible on the character."},
+        {"t": 324, "kind": "method", "text": "The Probability Calculator takes a drop rate, kill count and drops received to show how lucky you were; Gnomonkey's example was four 1/3,000 drops by kill count 266 at the Hydra, a chance the calculator rounded to about 0%."},
+        {"t": 350, "kind": "tip", "text": "The Player Tile plugin shows your tile position relative to the RuneScape server, which Gnomonkey says is helpful for exact positioning at Vorkath Woox walking and most of Theatre of Blood, or when playing with high ping."},
+        {"t": 370, "kind": "method", "text": "The Zulrah Helper plugin adds a side panel where you input the Zulrah rotation and it shows the next phase; it is not automatic and works like the Zulrah Helper website, useful for learning rotations."},
+        {"t": 391, "kind": "tip", "text": "The Calculator plugin adds a small basic calculator to the sidebar, which Gnomonkey uses to separate RuneScape calculations from other things."},
+        {"t": 407, "kind": "tip", "text": "The Bank Value plugin lists items in your bank with quantities and values; Gnomonkey found his most valuable item was his Dragon hunter crossbow and his highest-quantity item besides coins was feathers, and says it helps clear junk."},
+        {"t": 427, "kind": "opinion", "text": "Gnomonkey says the Essence Pouch plugin, which shows essence in each pouch, should be part of the Runecraft plugin in the main build because he has often run to an altar with empty pouches."},
+        {"t": 452, "kind": "method", "text": "Custom Left Click Drop lets you type item names so their left-click option becomes drop; Gnomonkey uses it for crust gems, ashes, regular bones and unidentified minerals he picks up by accident."},
+        {"t": 473, "kind": "tip", "text": "Menu Swapper Extended adds menu swapper entries that did not make the main build, such as left-click Karamja gloves to Duradel and changing Wilderness lover teleport to Edgeville instead of Ardougne; Gnomonkey says the RuneLite devs confirmed the plugin safe by it being an external plugin."},
+        {"t": 498, "kind": "tip", "text": "World Hider hides your world on friends list or clan chat and can randomise it, which Gnomonkey says is most useful for streamers and in the Wilderness, or against people crashing you or harassing you."},
+        {"t": 517, "kind": "tip", "text": "The Green Screen plugin turns the screen green except the player for chroma use, and Detached Camera stops the camera following the character; both are for content creators."},
+        {"t": 545, "kind": "tip", "text": "RSN Hider garbles your username and chat to random characters, which Gnomonkey says helps when posting screenshots because social engineers can find hints to passwords or recovery answers in post history."},
+        {"t": 568, "kind": "tip", "text": "Ground Markers With Labels replaces the ground markers plugin and lets you add a text label to each marked tile, useful for encounters with many markers like the Inferno or Theatre of Blood."},
+        {"t": 590, "kind": "method", "text": "The NPC Idle Timer puts a 300-second timer over named NPCs, the maximum time an NPC can stand still before teleporting to its respawn point, which Gnomonkey says is useful for thieving such as Master Farmers and Ardougne Knights."},
+        {"t": 614, "kind": "tip", "text": "NMZ Utilities changes the rock cake's left click to guzzle and gives an HP notification above a threshold rather than below, which Gnomonkey says makes Nightmare Zone rock caking even more AFK."},
+        {"t": 640, "kind": "event", "text": "The OSRS Wiki Crowdsource plugin sends data from play sessions to the OSRS Wiki team, which at the time was only tracking cooking burn rates; Gnomonkey says it could determine drop rates of monsters or bosses after release."}
+      ]
+    },
+    {
+      "name": "Chompy bird hunting",
+      "kind": "activity",
+      "claims": [
+        {"t": 85, "kind": "tip", "text": "The Chompy Hunter RuneLite plugin outlines chompies that fly in and adds a 60-second timer over each, since chompies fly away after exactly 60 seconds, helping prioritise targets."},
+        {"t": 85, "kind": "opinion", "text": "Gnomonkey says the Chompy Hunter plugin is a huge help if you hunt chompies at any point, though not one used every day."}
+      ]
+    },
+    {
+      "name": "Alchemical Hydra",
+      "kind": "boss",
+      "claims": [
+        {"t": 154, "kind": "method", "text": "Gnomonkey's example Inventory Setups entry in the video is a setup for the Alchemical Hydra."},
+        {"t": 324, "kind": "record", "text": "Gnomonkey had received four 1/3,000 drops at the Alchemical Hydra by kill count 266."}
+      ]
+    }
+  ]
+}

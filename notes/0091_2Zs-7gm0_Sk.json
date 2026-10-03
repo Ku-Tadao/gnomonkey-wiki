@@ -1,0 +1,31 @@
+{
+  "id": "2Zs-7gm0_Sk",
+  "title": "The Dramatic Inferno Sub 50 Zuk (OSRS)",
+  "date": "2022-06-15",
+  "type": "speedrun",
+  "summary": "An 80-second clip of Gnomonkey's sub-50-minute Inferno completion, with no spoken commentary (the transcript is empty). According to the description, the sub-50 came after a month of struggling and finished in the most dramatic possible way.",
+  "outline": [
+    {
+      "t": 0,
+      "text": "Sub-50 Inferno finish clip with music (no commentary)"
+    }
+  ],
+  "topics": [
+    {
+      "name": "Inferno",
+      "kind": "activity",
+      "claims": [
+        {
+          "t": 0,
+          "kind": "record",
+          "text": "Gnomonkey completed a sub-50-minute Inferno, which he says came after a month of struggling to get it."
+        },
+        {
+          "t": 0,
+          "kind": "event",
+          "text": "Gnomonkey says the finish against Zuk was the most dramatic possible finish, which was not what he wanted but is how it worked out."
+        }
+      ]
+    }
+  ]
+}

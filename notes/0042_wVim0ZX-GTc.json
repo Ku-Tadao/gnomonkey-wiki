@@ -1,0 +1,199 @@
+{
+  "id": "wVim0ZX-GTc",
+  "title": "Hallowed Sepulchre Agility Guide (70-85k XP/HR and 1-2.8M GP/HR) OSRS",
+  "date": "2020-06-14",
+  "type": "guide",
+  "summary": "A long guide to the newly released Hallowed Sepulchre agility minigame: requirements, gear, RuneLite setup, every trap type, coffin challenges, the layout variants of all five floors, reward shop priorities, loot and pet chance. Gnomonkey calls it objectively the fastest agility XP and best agility GP method in the game, with 70-80k XP/hr and 1.5M+ gp/hr, but one that takes real practice.",
+  "outline": [
+    {"t": 0, "text": "Intro: rates, difficulty and why Sepulchre is the best agility method"},
+    {"t": 162, "text": "Requirements and gear"},
+    {"t": 349, "text": "RuneLite plugin setup"},
+    {"t": 467, "text": "Basic trap rundown"},
+    {"t": 752, "text": "Coffin challenges"},
+    {"t": 945, "text": "Floors intro and how the timer and layouts work"},
+    {"t": 1085, "text": "Floor one variants"},
+    {"t": 1239, "text": "Floor two variants"},
+    {"t": 1480, "text": "Floor three variants"},
+    {"t": 1707, "text": "Floor four variants"},
+    {"t": 2031, "text": "Floor five (three levels)"},
+    {"t": 2409, "text": "Rewards shop purchase order"},
+    {"t": 2562, "text": "Loot from coffins and the Ring of endurance"},
+    {"t": 2721, "text": "Pet chance"},
+    {"t": 2757, "text": "Final thoughts"}
+  ],
+  "topics": [
+    {
+      "name": "Hallowed Sepulchre",
+      "kind": "activity",
+      "claims": [
+        {"t": 0, "kind": "event", "text": "The Hallowed Sepulchre was added with the Sins of the Father quest."},
+        {"t": 0, "kind": "opinion", "text": "Gnomonkey calls the Hallowed Sepulchre objectively the fastest agility XP in the game and the best agility training method for gp."},
+        {"t": 0, "kind": "method", "text": "The Sepulchre is similar to Pyramid Plunder in that a timer locks you out of looting coffins if you are too slow, but it is mechanically challenging on top of that."},
+        {"t": 0, "kind": "stat", "text": "Looting the five coffins on floors four and five before the final coffin, plus the Grand Hallowed Coffin at the end, nets about 1.5M gp an hour without rare drops if you are consistent."},
+        {"t": 30, "kind": "stat", "text": "With the Ring of endurance at about 50M and an assumed drop rate of 1/256 from the final coffin, the Sepulchre gp rate goes up to 2.8M gp an hour while looting coffins; at a 30M ring it would be 2.25M an hour."},
+        {"t": 62, "kind": "stat", "text": "Later coffins give items such as rune items, big piles of blood and soul runes, ranarr weed and seeds, as well as four to six hallowed marks each."},
+        {"t": 62, "kind": "record", "text": "Following a recent update that lowered XP rates by about 10k an hour, Gnomonkey hit 70k agility XP an hour while looting five coffins and the Grand Coffin."},
+        {"t": 89, "kind": "stat", "text": "80k agility XP an hour is possible by skipping all coffins and going only for the Grand Coffin at the end at a pretty quick speed."},
+        {"t": 89, "kind": "opinion", "text": "Gnomonkey says Sepulchre XP and gp rates are tremendously better than any other agility method, but don't expect them without practice."},
+        {"t": 89, "kind": "record", "text": "It took Gnomonkey about two days straight of Sepulchre before he could hit consistent rates, and he was still improving with each run."},
+        {"t": 120, "kind": "opinion", "text": "Gnomonkey equates the difficulty of the Sepulchre to a decently difficult boss like Vorkath or Zulrah, requiring a lot of effort and practice."},
+        {"t": 120, "kind": "opinion", "text": "As someone who typically only does AFK methods, Gnomonkey found the Sepulchre incredibly fun and played it 12 hours a day without getting bored."},
+        {"t": 147, "kind": "requirement", "text": "The Sepulchre is located in Darkmire and requires the Sins of the Father quest to be completed before you can enter."},
+        {"t": 147, "kind": "stat", "text": "The Sepulchre has five floors, with agility requirements from level 52 for floor one to level 92 for floor five."},
+        {"t": 178, "kind": "opinion", "text": "XP rates are lower the lower the floor you can access; Gnomonkey thinks it is really only worth doing with 92 Agility, though lower-level rates were not yet well tested."},
+        {"t": 178, "kind": "requirement", "text": "To loot any coffin you need at least 66 Thieving; certain coffins also need 54 Prayer, 56 Construction and a high Magic level, with the highest enchant jewelry spell being best (93 Magic for the top one)."},
+        {"t": 208, "kind": "tip", "text": "The prayer coffins are not found on floor five, so the Prayer level could possibly be skipped, but Gnomonkey likes to loot the floor four coffins as well for more loot."},
+        {"t": 333, "kind": "method", "text": "After entering the Sepulchre, talk to the mysterious stranger, who gives you five hallowed crystal shards that can teleport you back to the Sepulchre later; more can be bought from his shop for one mark each, so Gnomonkey recommends always keeping some in the bank."},
+        {"t": 333, "kind": "tip", "text": "Wear the Vyre noble robes while running through Darkmire to the northeastern Sepulchre to avoid being attacked by the Vyrewatch."},
+        {"t": 959, "kind": "tip", "text": "The Sepulchre does not kick you out if you run out of time, it only prevents you from looting coffins; you still get the agility XP and pet chance if you reach the end of the floor, so Gnomonkey never resets by logging out after a failed attempt."},
+        {"t": 989, "kind": "stat", "text": "The timer is paused as soon as you take the stepping stone to the next floor or cross the stones to the Grand Hallowed Coffin."},
+        {"t": 989, "kind": "stat", "text": "Floors always have the same layout when you enter them as they reset on entry, unless another player is on the floor when you get there; Gnomonkey wishes it did not work this way, since the Sepulchre is not instanced."},
+        {"t": 1021, "kind": "tip", "text": "Other players on a floor can sometimes speed runs up and give personal bests by giving layouts you would not normally get, but most of the time they waste time, so look for a low-population world with the lowest ping."},
+        {"t": 1050, "kind": "tip", "text": "On early runs Gnomonkey would avoid looting coffins entirely to have more time to finish the Sepulchre, then slowly add coffins starting from the end of your run to earlier ones as you get more comfortable."},
+        {"t": 959, "kind": "tip", "text": "Gnomonkey recommends doing slow runs and copying his tile markers; once on floor five you can slowly lay out every marker, eventually in one long run, because the flame statues there have very complicated patterns."},
+        {"t": 2367, "kind": "tip", "text": "If you have more than a minute left at the end of floor five, take the bridge coffin, then run to the final stepping stones and enter the final portal for the Grand Coffin."},
+        {"t": 2367, "kind": "trivia", "text": "Gnomonkey had a run a tick from failing where the timer said zero seconds, but he could still loot the Grand Coffin."},
+        {"t": 2400, "kind": "method", "text": "After looting the Grand Coffin, back out of the portal, restore run energy if needed, then right-click the obelisk and choose quick exit to begin at the lobby again."},
+        {"t": 2553, "kind": "record", "text": "Getting the Dark Graceful recolor took Gnomonkey just over a hundred Grand Coffin loots, with about twelve fails, so roughly that many runs."},
+        {"t": 2765, "kind": "opinion", "text": "Gnomonkey says the Sepulchre feels like it is in a great spot, and a comment by Mod Husky, the lead developer on the Sepulchre, said he would like to see more agility XP added for completing mini challenges but felt it was in a fairly good place."},
+        {"t": 2765, "kind": "opinion", "text": "Gnomonkey jokes that he would not be opposed to a buff to the Sepulchre."}
+      ]
+    },
+    {
+      "name": "Hallowed Sepulchre gear and inventory",
+      "kind": "other",
+      "claims": [
+        {"t": 208, "kind": "method", "text": "When starting the Sepulchre Gnomonkey equipped full Graceful, a Mithril grapple, a Dorgeshuun crossbow (lightest crossbow, which matters because several heavy rune platebody drops can be received) and a Saradomin stole."},
+        {"t": 208, "kind": "requirement", "text": "Any Saradomin item (such as the stole, Book of Law or Holy Symbol) is needed to restore run energy between floors; any hallowed item, including the ring, also counts."},
+        {"t": 237, "kind": "method", "text": "Eventually equip a hallowed ring, focus, grapple and symbol to help looting coffins."},
+        {"t": 237, "kind": "method", "text": "Gnomonkey's inventory: a saw and hammer (hallowed hammer once bought), a decent stack of rune nails, runes for the highest enchant jewelry spell, and he does not use a rune pouch because the coffins give blood, soul and cosmic runes that he does not want to place in it; with a lower Magic level he would bring the pouch."},
+        {"t": 271, "kind": "method", "text": "Bring eight mahogany planks, since two mahogany planks are needed per bridge, and a strange old lockpick."},
+        {"t": 271, "kind": "stat", "text": "Strange old lockpicks cost about 175k when recorded, and Gnomonkey expected them to go lower over time."},
+        {"t": 271, "kind": "method", "text": "Bring about four vampyre dust with a hallowed symbol (more without it), as each shrine takes two dust to open, or one with the symbol, and leave a slot for hallowed marks."},
+        {"t": 300, "kind": "tip", "text": "Stamina potions are not needed in the Sepulchre since run energy is recharged with a Saradomin item between floors; an Explorer's ring might help if you forget, as walking after forgetting to recharge run energy on floor five wastes precious time."}
+      ]
+    },
+    {
+      "name": "RuneLite",
+      "kind": "other",
+      "claims": [
+        {"t": 333, "kind": "tip", "text": "Gnomonkey says RuneLite plugins are so important for the Sepulchre that he cannot imagine doing it on mobile."},
+        {"t": 363, "kind": "tip", "text": "The Sepulchre highlighting of arrow and sword trap hitboxes was moved into the Agility plugin and is on by default."},
+        {"t": 363, "kind": "tip", "text": "The GPU plugin's increased render distance is incredibly important in the Sepulchre because it lets you see upcoming traps, especially arrow statues, which play an animation at the location they will fire; Gnomonkey keeps it at 90 so the whole chunk renders, but suggests lowering it on a weaker computer because the area lags more than others."},
+        {"t": 393, "kind": "tip", "text": "The animation smoothing plugin makes the fire clearly bellow each tick, allowing you to count and run tick-perfectly."},
+        {"t": 393, "kind": "tip", "text": "The 'highlight current true tile' option in the Tile Indicators plugin shows the tile you are actually on according to the server, making trap dodging easier; the 'highlight hovered tile' option shows where you will walk when you click."},
+        {"t": 422, "kind": "tip", "text": "Ground Markers is practically necessary in the Sepulchre; Gnomonkey lays out an entire map of player tiles throughout the Sepulchre in the video and uses markers more here than in any other content."},
+        {"t": 422, "kind": "tip", "text": "The Widget Hider external plugin from the Plugin Hub, added with the Friday RuneLite update, hides the UI on a keybind (Ctrl+H by default), giving more room to click and letting you reopen the UI between floors to check chat."}
+      ]
+    },
+    {
+      "name": "Hallowed Sepulchre traps",
+      "kind": "mechanic",
+      "claims": [
+        {"t": 456, "kind": "stat", "text": "Getting damaged by a Sepulchre trap, unless stated otherwise, sends you back to a checkpoint; each trap type has three variants that become more common the deeper you go."},
+        {"t": 483, "kind": "stat", "text": "Saradomin sword traps are thrown by a giant statue and cover a nine-tile area; the regular variant on floors one and two moves at two tiles per tick (same as a running player), the blessed Saradomin sword variant on floor three moves at three tiles per tick, and the giant blue variant on floors four and five moves at four tiles per tick."},
+        {"t": 512, "kind": "tip", "text": "Sword traps typically require you to run past when you have a free moment, use blue teleporter tiles to teleport past them, or run around them before the statue catches them using clever tile placement."},
+        {"t": 539, "kind": "stat", "text": "Teleporter tiles appear on every floor in clumps of nine and are only active for four ticks at a time; yellow tiles teleport you backwards a decent way and blue tiles teleport you forward."},
+        {"t": 539, "kind": "stat", "text": "Both teleporter colours make you invulnerable to all traps for a short period (Gnomonkey estimates about two ticks), so blue tiles can be used to skip sections and avoid traps."},
+        {"t": 569, "kind": "tip", "text": "If you run over a teleporter from the tile before it, you avoid it completely even when it is activated; Gnomonkey lays out tile placements so he runs over more blue tiles than yellow."},
+        {"t": 569, "kind": "stat", "text": "Lightning traps appear only on floors four and five and stun you for about two ticks instead of sending you to a checkpoint; they can be avoided completely by standing on the tile before the first lightning spot and running through, due to their checkerboard pattern."},
+        {"t": 601, "kind": "tip", "text": "You can safely walk diagonally through lightning to a safe spot, which is often needed to avoid arrows, but lightning can be very dangerous in the last section so run straight through it every time."},
+        {"t": 601, "kind": "stat", "text": "Crossbow statues come in groups of three, typically at the end of long hallways, and fire bolts at three tiles per tick; the plain variant on floors one and two fires from only one statue at a time."},
+        {"t": 633, "kind": "stat", "text": "The gold-trim and gold-and-blue-trim crossbow statues on floors three to five fire two bolts at once randomly at three tiles per tick and cannot be run through even with perfect timing; the statues playing an animation show the next pattern."},
+        {"t": 633, "kind": "tip", "text": "When forced to avoid a bolt pattern, click two tiles ahead in the direction you need to go to keep running speed instead of walking for a tick."},
+        {"t": 665, "kind": "stat", "text": "Flame wizard statues shoot flames in a specific pattern, cannot be run through, and scorch marks show where flames can hit and from which statue; all have a four-tick delay between attacks but different intervals for when they fire."},
+        {"t": 665, "kind": "stat", "text": "Stone flame statues on floors one and two fire a three-tick flame in the same direction every time; golden-trim statues on floors three and four also last three ticks but run cycles; blue-and-gold statues on floor five last only two ticks and have long, very complicated cycles."},
+        {"t": 728, "kind": "tip", "text": "The counting rule at flame statues: for stone statues wait three ticks then run, for golden statues count the flames three times then run, and for golden-blue statues count two times then run."},
+        {"t": 728, "kind": "event", "text": "A bug that made statue flames sometimes start a tick late was fixed by Jagex, so the fire is now always accurate and can be counted by tick rate."}
+      ]
+    },
+    {
+      "name": "Hallowed Sepulchre coffins",
+      "kind": "mechanic",
+      "claims": [
+        {"t": 728, "kind": "stat", "text": "Coffin mini challenges scattered through the floors can be failed but never send you back, they just waste a little time."},
+        {"t": 759, "kind": "tip", "text": "Gnomonkey typically only bothers with coffin challenges on floors four and five because loot scales with deeper floors, though looting more floors is possible if you are fast and may be worth testing."},
+        {"t": 759, "kind": "stat", "text": "Earlier coffins have a similar loot table to later ones but with more junk and fewer hallowed marks; the first floor gives only one hallowed mark per coffin, though valuable rune drops, runeplate bodies and ranarrs can still occur."},
+        {"t": 791, "kind": "stat", "text": "Lockpicking a coffin has a small chance to fail and poison you for two damage; a regular lockpick reduces that chance and a strange old lockpick reduces it further, and with the Hallowed ring the poison is outhealed automatically."},
+        {"t": 818, "kind": "stat", "text": "Failing the grapple challenge is pretty common, wastes about five ticks per fail, and requires grappling twice (across and back), making it the most time-wasting coffin challenge; the hallowed grapple raises the success rate but you can still fail."},
+        {"t": 846, "kind": "stat", "text": "In the portal frame challenge you cast an enchant jewelry spell to open a portal, float across, lockpick the coffin and float back; failing costs about one tick to recast, but failing a second time cracks the portal and blocks the coffin."},
+        {"t": 846, "kind": "record", "text": "Using level 7 enchant Gnomonkey has never cracked a portal and failed only once in about fifty runs with the Hallowed focus; with Onyx Enchant he failed only once in ten enchants with the focus."},
+        {"t": 877, "kind": "tip", "text": "Bring a lava staff and, once you have the Hallowed focus, skip Zenyte Enchant; if you get blood and soul runes before a portal enchant you can cast a spell manually in the portal to avoid using it."},
+        {"t": 877, "kind": "stat", "text": "The bridge challenge has you build a bridge with two planks and five nails, walk across, lockpick the coffin and walk back; failing wastes about one tick and bends five nails per fail."},
+        {"t": 904, "kind": "tip", "text": "Gnomonkey uses runite nails for bridges since failing is uncommon and the bridge is built faster; mahogany planks give a lot of extra Construction XP, so he sees no reason to use anything else if you want Construction XP."},
+        {"t": 904, "kind": "stat", "text": "Braziers cannot be failed and give 60 Prayer XP per dust used; you sacrifice two vampyre dust on the brazier (one with the Hallowed symbol) and then can walk through the barrier, lockpick the coffin and walk back."}
+      ]
+    },
+    {
+      "name": "Hallowed Sepulchre floors",
+      "kind": "mechanic",
+      "claims": [
+        {"t": 931, "kind": "stat", "text": "The first and second floors each have four variants (north, east, south, west), the third and fourth each have two variants that converge at the same point, and the fifth floor has only one variant."},
+        {"t": 1082, "kind": "method", "text": "Floor one north: run through the arrow statues quickly, dodging only one to two arrows; with a perfect run the fires start as soon as you arrive, so count three bellows, run to the middle tile marker, count three again, run to the next marker, count three final bellows, then run to the stairs."},
+        {"t": 1142, "kind": "method", "text": "Floor one south needs extremely fast clicks to make the sword cycle: click as you enter, make it past the spinning sword with one tick to spare, wait one tick for the fires to stop, run to the tile marker, count three bellows, then run past the arrows, typically dodging only one."},
+        {"t": 1227, "kind": "method", "text": "Floor two north: run to the platforms and jump (automatic, cannot fail), run to the tile marker and past the arrows (usually avoiding one), wait about a tick for the sword, then continue; after the stairs run to the marker before the teleporters, running through the middle so you can only hit yellow teleporters in the second group."},
+        {"t": 1410, "kind": "tip", "text": "Gnomonkey calls the floor two west variant notoriously easy: just start running and run to the tile marker by the northwest teleporters, and you always avoid the sword; blue teleporters added in the last update there make running through the middle avoid yellow ones entirely."},
+        {"t": 1469, "kind": "method", "text": "Floor three has only east and west variants; Gnomonkey advises running over blue tiles as much as possible and remembering you are invincible to arrows for about two ticks after being teleported."},
+        {"t": 1590, "kind": "tip", "text": "On floor three the sword-throwing window is very tight and getting hit by a yellow tile makes you get hit by the sword; running across the middle hits only blue tiles and is safer."},
+        {"t": 1650, "kind": "tip", "text": "The final part of floor three is the same for both variants and many players struggle with it: wait until fires come from the lower statues to step closer, avoid arrows while counting three bellows, and note you cannot run tick-perfectly from the outer fires because you are one tile too slow."},
+        {"t": 1712, "kind": "method", "text": "Floor four north: run to the tile marker and then the next marker before the sword to avoid all lightning; with perfect timing you can step on the third set of teleporters the tick it activates to bypass the sword."},
+        {"t": 1743, "kind": "stat", "text": "On floor four a fire-statue section has a long cycle where four cycles alternate sides and the fifth fires from both directions, making it impossible to dodge; Gnomonkey typically waits until both fire at the same time and then goes."},
+        {"t": 1834, "kind": "tip", "text": "Catching a blue teleporter at the end of floor four's north path teleports you really far and saves a lot of time, so Gnomonkey always tries to grab one."},
+        {"t": 2009, "kind": "tip", "text": "The brazier before the floor four exit is worth doing if you want money and are comfortable with the floors; after the gate, recharge run energy and go down to the final floor."},
+        {"t": 2009, "kind": "opinion", "text": "Gnomonkey calls floor five by far the hardest floor and the longest, with three total levels."},
+        {"t": 2037, "kind": "tip", "text": "Gnomonkey recommends slowly following floor five the first time and laying out all his tile markers, and skipping coffins on early runs; all fire statues on floor five stay active for only two ticks, so count twice instead of three times."},
+        {"t": 2037, "kind": "stat", "text": "Floor five is very often warped by other players being there because it is the only variant."},
+        {"t": 2097, "kind": "tip", "text": "On floor five's first sword section you need to catch two blue teleporters; with a wonky cycle you can run after the sword is thrown and step on the teleporter on its fourth active tick to get past the sword."},
+        {"t": 2097, "kind": "tip", "text": "Gnomonkey almost always grabs the floor five portal challenge, saying all the coffins on the final floor are very rewarding for money and marks."},
+        {"t": 2246, "kind": "opinion", "text": "Gnomonkey calls the last section of floor five by far the hardest section of the entire Sepulchre, the longest single checkpoint section, and says it took many run throughs to get through consistently."},
+        {"t": 2280, "kind": "method", "text": "In the last floor five section Gnomonkey does not use tile indicators because of the arrows: he notes which statue just fired, counts two bellows, runs to a safe position where the opposite statues will not hit him (using the charred ground as an indicator), lines up for the gap in arrows, and runs through."},
+        {"t": 2336, "kind": "tip", "text": "In the final fire trap of floor five take it slow: walk to the tile before the flames, count two bellows, run only midway so you can make it on the next cycle, count two more, then run through; a mistake here can cost up to a minute."}
+      ]
+    },
+    {
+      "name": "Hallowed marks",
+      "kind": "item",
+      "claims": [
+        {"t": 2400, "kind": "tip", "text": "None of the Sepulchre reward shop items can be used outside the Sepulchre and really only help there; they also work at God Wars Dungeon but are not a great choice there as they have no stats, and Gnomonkey does not think the grapple works for Path to Armadyl."},
+        {"t": 2432, "kind": "opinion", "text": "Gnomonkey says the first thing to buy with hallowed marks is the Hallowed ring (250 marks versus 100 for the other pieces), because it completely prevents trap damage when you fail them and lets you retry sections more quickly."},
+        {"t": 2462, "kind": "method", "text": "Gnomonkey's purchase order after the ring: hallowed grapple (grapple coffin challenges have the highest failure rate and waste the most time), then the hallowed hammer (bridge failures cost five rune nails each), then the hallowed focus (reduces enchant jewelry failure chance in portal challenges)."},
+        {"t": 2494, "kind": "opinion", "text": "Gnomonkey bought the hallowed symbol last, since it reduces the vampyre dust needed at braziers from two to one but also reduces the Prayer XP and the brazier cannot be failed anyway."},
+        {"t": 2494, "kind": "stat", "text": "The Dark Graceful recolor costs 300 marks per piece or 1,800 for a full set, and the Dark Acorn Squirrel recolor costs 5,000 marks."},
+        {"t": 2526, "kind": "stat", "text": "Hallowed crystal shards cost one mark each, and tokens cost ten marks each; popping a token gives an extra minute in the Sepulchre and multiple can be used in a single run."},
+        {"t": 2526, "kind": "opinion", "text": "Gnomonkey thinks tokens may be worth buying to get out of sticky situations, but does not think using them to loot earlier-floor coffins is worth it, though he has not tested this."},
+        {"t": 2613, "kind": "stat", "text": "Any coffin gives 0-6 marks of grace; the fifth floor seems to give a minimum of four marks and a single loot item, and the Grand Coffin gives six to ten marks, two items from its pool and a chance at the Ring of endurance."}
+      ]
+    },
+    {
+      "name": "Strange old lockpick",
+      "kind": "item",
+      "claims": [
+        {"t": 2553, "kind": "stat", "text": "The strange old lockpick can drop from any Sepulchre coffin, gives a higher chance to open coffins in the Sepulchre, and can also open any door in the Barrows crypt."},
+        {"t": 2579, "kind": "stat", "text": "Strange old lockpicks have 50 charges each, one charge is good for a set of two Barrows doors, and their price has varied from 80k to 200k."},
+        {"t": 2579, "kind": "opinion", "text": "Gnomonkey says strange old lockpicks substantially increase profit an hour for anyone doing Barrows as a main, as well as elite clue farming speed, and even at 200k he thinks they are very worth using for Barrows."},
+        {"t": 2579, "kind": "stat", "text": "Gnomonkey got a strange old lockpick roughly every two Sepulchre runs, and the deeper the floor the more likely lockpicks come from coffins."}
+      ]
+    },
+    {
+      "name": "Ring of endurance",
+      "kind": "item",
+      "claims": [
+        {"t": 30, "kind": "stat", "text": "The Ring of endurance can come from the final Grand Hallowed Coffin with a drop rate that seems to be around 1 in 256, in Gnomonkey's estimate."},
+        {"t": 30, "kind": "stat", "text": "The Ring of endurance price held at about 50M for the week before recording, more than Gnomonkey expected."},
+        {"t": 2643, "kind": "stat", "text": "The Ring of endurance can be charged with stamina doses, each dose giving one charge; with over 500 charges it reduces run drain rate by 15%, and drinking a stamina dose uses a charge and doubles the effect, giving 40% run regeneration and four minutes of stamina effect."},
+        {"t": 2674, "kind": "opinion", "text": "Gnomonkey says the ring is useful anywhere stamina potions are used, mainly runecrafting and Blast Furnace, and also for questing and clue hunting."},
+        {"t": 2674, "kind": "record", "text": "Gnomonkey received a Ring of endurance at Sepulchre kill count 18 and another at kill count 21, which he thinks may bias his rarity guess; online it seemed to take people a couple hundred coffins to get one."},
+        {"t": 2707, "kind": "opinion", "text": "Gnomonkey can see the ring staying above 30M for quite a long time because of how difficult its source content is."}
+      ]
+    },
+    {
+      "name": "Agility",
+      "kind": "skill",
+      "claims": [
+        {"t": 2707, "kind": "stat", "text": "The Sepulchre pet chance depends on the floor you exit at, from 1 in 35,000 when leaving floor one to 1 in 2,000 at floor five."},
+        {"t": 2733, "kind": "stat", "text": "At 9-minute laps to floor five, the Sepulchre would take almost exactly 300 hours for the giant squirrel pet, compared with an average of almost 500 hours for the Prifddinas agility course, 400 hours for the Ardougne course, and about 150 hours for the Penguin course."},
+        {"t": 2733, "kind": "opinion", "text": "Gnomonkey calls the Sepulchre pet chance really good compared to other agility methods, much better than Prifddinas or Ardougne but not as good as the Penguin course."}
+      ]
+    }
+  ]
+}

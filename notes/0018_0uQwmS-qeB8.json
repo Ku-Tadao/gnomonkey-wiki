@@ -1,0 +1,164 @@
+{
+  "id": "0uQwmS-qeB8",
+  "title": "Which AFK Fishing Method is best?",
+  "date": "2020-03-19",
+  "type": "guide",
+  "summary": "Gnomonkey compares AFK fishing methods: infernal eels, sacred eels, dark crabs and monkfish. He tested each for an hour, reports gp and XP rates, and concludes dark crabs are the clear winner if the player has the requirements, with eels and monkfish as lesser alternatives.",
+  "outline": [
+    {
+      "t": 0,
+      "text": "Scope of the comparison and Rada's Blessing"
+    },
+    {
+      "t": 0,
+      "text": "Infernal eel requirements"
+    },
+    {
+      "t": 31,
+      "text": "Sacred eel requirements and dissecting eels"
+    },
+    {
+      "t": 62,
+      "text": "One-hour test results for sacred and infernal eels"
+    },
+    {
+      "t": 118,
+      "text": "Dark crabs"
+    },
+    {
+      "t": 146,
+      "text": "Monkfish"
+    },
+    {
+      "t": 178,
+      "text": "Recommendation: which method to use"
+    }
+  ],
+  "topics": [
+    {
+      "name": "Dark crab",
+      "kind": "item",
+      "claims": [
+        {
+          "t": 118,
+          "kind": "opinion",
+          "text": "Gnomonkey thinks people are sleeping on dark crabs, which he calls incredibly good, and says his method for fishing them was covered in the next week's video."
+        },
+        {
+          "t": 118,
+          "kind": "requirement",
+          "text": "To fish dark crabs efficiently the player needs the Elite Wilderness Diary complete and 85 Fishing."
+        },
+        {
+          "t": 118,
+          "kind": "tip",
+          "text": "The dark crab fishing spot never moves or disappears, making it the most AFK fishing method, period, similar to redwood trees, according to Gnomonkey."
+        },
+        {
+          "t": 118,
+          "kind": "stat",
+          "text": "Dark crabs provide 40k Fishing XP an hour and 400k GP an hour, which Gnomonkey calls a straight upgrade over the eels and far more AFK."
+        },
+        {
+          "t": 178,
+          "kind": "opinion",
+          "text": "Gnomonkey says that if the player has access to dark crabs and can check back occasionally, dark crabs are the clear winner."
+        }
+      ]
+    },
+    {
+      "name": "Sacred eel",
+      "kind": "item",
+      "claims": [
+        {
+          "t": 31,
+          "kind": "requirement",
+          "text": "Sacred eels require 87 Fishing and completion of Regicide, plus at least 72 Cooking to grind them up; more scales are received from cutting them the higher the Cooking level, up to 96."
+        },
+        {
+          "t": 31,
+          "kind": "tip",
+          "text": "Both eel types can be rapidly dissected by using the tool on the fish repeatedly, like blood or soul rune crafting, and RuneLite's anti-drag plugin makes it faster; players can also AFK harder and slowly auto-dissect."
+        },
+        {
+          "t": 62,
+          "kind": "stat",
+          "text": "In Gnomonkey's one-hour test sacred eels gave 400k GP in scales, which he calls really good for an AFK method, but only 22k Fishing XP and 28k Cooking XP."
+        },
+        {
+          "t": 178,
+          "kind": "opinion",
+          "text": "Gnomonkey says players with high but not 99 Cooking and the requirements for sacred eels, or who want decent cash, can use sacred eels as a good option."
+        }
+      ]
+    },
+    {
+      "name": "Infernal eel",
+      "kind": "item",
+      "claims": [
+        {
+          "t": 0,
+          "kind": "requirement",
+          "text": "Infernal eels require 80 Fishing and a fire cape to even enter the area, plus Heroes' Quest, because the player uses an oily fishing rod and ice gloves to catch them."
+        },
+        {
+          "t": 62,
+          "kind": "stat",
+          "text": "In Gnomonkey's one-hour test infernal eels gave roughly 300k GP in lava scale shards, onyx bolt tips and tackle, valuing tackle at 8.8 GP assuming it is saved to buy onyxes."
+        },
+        {
+          "t": 89,
+          "kind": "stat",
+          "text": "Infernal eel fishing spots moved a bit less than sacred eels in testing, making them a bit more AFK, and he got 28k Fishing XP in the hour, better than sacred eels."
+        },
+        {
+          "t": 178,
+          "kind": "opinion",
+          "text": "Gnomonkey does infernal eels at work where he might not be able to save himself with dark crabs, and says their slightly lower GP an hour but better Fishing XP rate beats sacred eels in his opinion."
+        }
+      ]
+    },
+    {
+      "name": "Monkfish",
+      "kind": "item",
+      "claims": [
+        {
+          "t": 146,
+          "kind": "requirement",
+          "text": "Monkfish require Swan Song and 62 Fishing to catch, the lowest requirement of the methods compared."
+        },
+        {
+          "t": 146,
+          "kind": "stat",
+          "text": "Monkfish only pull in around 100k GP an hour and 35k Fishing XP an hour, and their fishing spots move often so they are less AFK."
+        },
+        {
+          "t": 146,
+          "kind": "opinion",
+          "text": "Gnomonkey would honestly recommend sticking with barbarian fishing until a player can do eels or dark crabs, saying monkfish should really only be used if they are the only option."
+        }
+      ]
+    },
+    {
+      "name": "Fishing",
+      "kind": "skill",
+      "claims": [
+        {
+          "t": 0,
+          "kind": "opinion",
+          "text": "Gnomonkey does not discuss barbarian fishing or minnows in the comparison because he does not consider them as AFK as they are great for XP and money."
+        },
+        {
+          "t": 0,
+          "kind": "stat",
+          "text": "All the discussed methods benefit from Rada's Blessing in the Kourend/Kebos diaries, from a 2% chance of doubling the catch with the easy diary to 8% with the elite diary."
+        },
+        {
+          "t": 205,
+          "kind": "event",
+          "text": "Gnomonkey says he started checking out these methods because he was beginning to despise barbarian fishing a little and wanted something more relaxed."
+        }
+      ]
+    }
+  ]
+}

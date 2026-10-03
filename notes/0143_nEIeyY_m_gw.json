@@ -1,0 +1,154 @@
+{
+  "id": "nEIeyY_m_gw",
+  "title": "BUDGET COLOSSEUM GUIDE (OSRS)",
+  "date": "2024-03-26",
+  "type": "guide",
+  "summary": "A teaching stream on doing the Fortis Colosseum with a budget (about 180m) melee setup built around the Atlatl, Trident, Arceuus spellbook and Saradomin godsword, played through waves with commentary. He explains pillar positioning, the three-tiles-back pillar stack solve, invocation choices, and the Sol Heredit boss attack patterns. His main takeaway is that this is the bare minimum gear he would recommend and that players should grind GP rather than learn the content in worse gear.",
+  "outline": [
+    {"t": 0, "text": "Gear setup and Atlatl mechanics"},
+    {"t": 135, "text": "Spellbook choices: Arceuus with Mark of Darkness and Undead Grasp"},
+    {"t": 220, "text": "Supplies, setup cost and preparation"},
+    {"t": 335, "text": "Waves 1-3 strategy"},
+    {"t": 415, "text": "Pillar positioning and Fremennik priorities"},
+    {"t": 488, "text": "Handling enemy types"},
+    {"t": 622, "text": "Coliseum invocation choices"},
+    {"t": 745, "text": "Wave 10 preparation"},
+    {"t": 961, "text": "High wave combat and the pillar stack solve"},
+    {"t": 1241, "text": "Endgame gear advice (scythe, shadow, whip)"},
+    {"t": 1419, "text": "Advanced pillar solves: three tiles back"},
+    {"t": 1729, "text": "Final waves"},
+    {"t": 2111, "text": "Sol Heredit boss fight prep"},
+    {"t": 2342, "text": "Boss attack patterns and dodging"},
+    {"t": 2734, "text": "Boss fight attempt"}
+  ],
+  "topics": [
+    {
+      "name": "Fortis Colosseum",
+      "kind": "activity",
+      "claims": [
+        {"t": 0, "kind": "opinion", "text": "Gnomonkey describes this video as a BUDGET teaching stream on the Colosseum: the bare minimum he would recommend for mid-level players, and he says he would never recommend gear worse than this setup for Colosseum for any reason."},
+        {"t": 0, "kind": "opinion", "text": "Gnomonkey's advice is that players should spend time grinding GP and learn Colosseum with proper gear, rather than spend many hours learning out-of-reach content in poor gear; he compares doing it with a whip/Saradomin sword to doing a first-cape Inferno with an Armadyl crossbow."},
+        {"t": 233, "kind": "stat", "text": "Gnomonkey prices his budget Colosseum melee setup at 180 million gp, and says if that is not budget for you, you should explore ways to make GP."},
+        {"t": 410, "kind": "tip", "text": "In Colosseum, anything near the player at the start of a wave is discounted, and the wave spawns enemies further away from the player; standing between the two key green tiles prevents close spawns."},
+        {"t": 443, "kind": "tip", "text": "Gnomonkey prefers starting waves at the South pillar rather than the other tile, because a melee enemy exiting the gate on that side gets corner-trapped or safe-spotted on the side of the pillar, while one coming out on the other side pulls around the pillar and hits you."},
+        {"t": 1152, "kind": "tip", "text": "Gnomonkey says the boss has equal defence on everything except that stab is worse than slash, so a rapier is not good enough, and the scythe is 30 percent better than the whip."},
+        {"t": 1513, "kind": "opinion", "text": "Gnomonkey says you definitely do not need a shadow for Colosseum and that the scythe is the big item; he considers doing it without a scythe equivalent to doing Inferno with an Armadyl crossbow."},
+        {"t": 2409, "kind": "tip", "text": "Gnomonkey advises divining before the end of a wave to get health back from Blood Fury, then starting the next wave."}
+      ]
+    },
+    {
+      "name": "Atlatl",
+      "kind": "item",
+      "claims": [
+        {"t": 27, "kind": "stat", "text": "The Atlatl is a ranged weapon that scales with the player's melee strength from melee armour, so higher melee strength raises its max hit."},
+        {"t": 27, "kind": "tip", "text": "Gnomonkey notes the Fremennik at the start of Colosseum are weak to the Atlatl's style, so its hits are guaranteed max hits; it is a three-tick weapon that kills the Fremennik mage in two hits, the same as a Webweaver bow or blowpipe."},
+        {"t": 27, "kind": "opinion", "text": "Gnomonkey thinks the Atlatl is probably the easiest and cheapest Colosseum weapon to obtain, and says the hardest part of the run is buying its ammo, the darts."},
+        {"t": 59, "kind": "stat", "text": "Atlatl darts are worth around 10 gp each but have a buy limit of 100; Gnomonkey considers an ammunition buy limit of 100 absurd, and says having two or three hundred darts is enough."},
+        {"t": 86, "kind": "tip", "text": "Gnomonkey says Atlatl ammo is very cheap and suggests doing some Perilous Moons to get a lot of it."},
+        {"t": 2202, "kind": "stat", "text": "Super combat potions affect the Atlatl, which Gnomonkey finds strange; he wonders whether it is just a Colosseum item."},
+        {"t": 2170, "kind": "tip", "text": "With piety on, the Atlatl maxes high enough that you do not need to pray Rigor, according to Gnomonkey."}
+      ]
+    },
+    {
+      "name": "Arceuus spellbook",
+      "kind": "mechanic",
+      "claims": [
+        {"t": 120, "kind": "opinion", "text": "Gnomonkey considers the Ancient spellbook complete trolling for Colosseum and recommends the Arceuus spellbook, because Death Charge and the Saradomin godsword give more healing across the run than Blood Barrage would."},
+        {"t": 148, "kind": "tip", "text": "The Arceuus spellbook also provides thralls, and Gnomonkey combines Mark of Darkness with Undead Grasp; his inventory ends up with Death Charge, thrall, Mark of Darkness and Undead Grasp using a single rune pouch slot."},
+        {"t": 148, "kind": "stat", "text": "Undead Grasp has a chance to bind enemies in place for four ticks and maxes 24 by default; with Mark of Darkness active and cast before the wave, it is guaranteed to freeze for four ticks."},
+        {"t": 177, "kind": "method", "text": "When a wave has a quartet with two Berserkers, Gnomonkey casts Undead Grasp on the first, then the second, goes behind the pillar, and as each unfreezes and pulls up he casts the Trident to kill it, so he takes no melee hits and does not have to tank."},
+        {"t": 1424, "kind": "tip", "text": "Undead Grasp is a manually cast spell so Myopia does not affect its range, which is always 10 tiles, and from wave nine on Gnomonkey starts waves with Undead Grasp."},
+        {"t": 2381, "kind": "trivia", "text": "Gnomonkey says Thrall does not work on the Colosseum boss, so no prayer points should be spent on that."}
+      ]
+    },
+    {
+      "name": "Trident of the swamp",
+      "kind": "item",
+      "claims": [
+        {"t": 86, "kind": "tip", "text": "Gnomonkey uses a Trident for the budget setup and says a Sanguinesti staff is better if you have one: Sanguinesti has a one in six chance to heal for half of what it hits, and it hits for 32, healing 16 on both casts on the Berserker."},
+        {"t": 86, "kind": "tip", "text": "Every mage weapon can store the extra rune needed: the Trident holds death and fire runes, the Sanguinesti staff holds blood runes and the Tumeken's shadow holds soul runes, so no inventory slot is wasted."},
+        {"t": 261, "kind": "method", "text": "Gnomonkey sets his Trident to 75 charges for the run using his calculator, by uncharging it and dropping the rest of the fire runes and extra brews on the ground."},
+        {"t": 1237, "kind": "tip", "text": "For a Trident of the seas, Gnomonkey notes that as long as you can grab the fire runes it works the same; he says it is not worth it if you cannot recharge after uncharging, since you lose a whole slot."}
+      ]
+    },
+    {
+      "name": "Saradomin godsword",
+      "kind": "item",
+      "claims": [
+        {"t": 531, "kind": "stat", "text": "Any melee attack on the Fremennik archer is a guaranteed max hit, so a Saradomin godsword special on it heals 30 health, or 50 if Blood Fury procs."},
+        {"t": 531, "kind": "tip", "text": "Gnomonkey leaves the Fremennik archer alive because it does only 1 damage max and acts as a walking medkit next to you that is always available for a special attack."},
+        {"t": 985, "kind": "opinion", "text": "Gnomonkey says that without a Saradomin godsword the late waves of Colosseum become dramatically harder, and that its healing is the reason it is so good, for example going from about 60 to 90 health."},
+        {"t": 1118, "kind": "tip", "text": "A Blood Fury proc combined with a Saradomin godsword special on the archer heals about 30 HP to full in one special, according to Gnomonkey."},
+        {"t": 2415, "kind": "tip", "text": "Gnomonkey uses his godsword special partway through the boss fight; he says Fang is still worse than spec off the rip followed by Death Charge."}
+      ]
+    },
+    {
+      "name": "Fremennik warband enemies",
+      "kind": "mechanic",
+      "claims": [
+        {"t": 477, "kind": "tip", "text": "In Colosseum Gnomonkey's kill priority is the Fremennik Berserker first, which maxes about 50, then the mage, which maxes about 15."},
+        {"t": 477, "kind": "tip", "text": "Gnomonkey says to train yourself not to attack the Fremennik archer, as it maxes one damage and attacking it wastes time that can get you killed."},
+        {"t": 355, "kind": "trivia", "text": "The Fremennik javelin enemies throw a spear in the air that lands on top of the player every fifth attack, forcing the player to move."},
+        {"t": 0, "kind": "tip", "text": "Gnomonkey's custom menu entry swaps attack the Fremennik warband archer, seer and berserker (level 104) and the serpent shaman (level 161), tagged with the Better NPC Highlight plugin."}
+      ]
+    },
+    {
+      "name": "Colosseum pillar stacks",
+      "kind": "mechanic",
+      "claims": [
+        {"t": 868, "kind": "method", "text": "For a common pillar stack where one enemy attacks differently at the back than the front, Gnomonkey stands two tiles out from the pillar and steps to the corner tile, praying against the thing in the back first, then the thing in the front, which sees you a tick later."},
+        {"t": 868, "kind": "tip", "text": "Gnomonkey says the pillar stack solve only works if you step to the correct corner of the pillar, and recommends practising the first stack repeatedly because you must execute stacks quickly or you will die."},
+        {"t": 1029, "kind": "tip", "text": "Gnomonkey died on a stack with a mage in the front because a mage in the front is too small and changes the line of sight, so he had to approach from the other side of the pillar."},
+        {"t": 1545, "kind": "method", "text": "When something is hanging over the edge of the pillar, Gnomonkey goes three tiles back for the thing in front; the thing in front sees you before the thing in the back, so the order is reversed."},
+        {"t": 1900, "kind": "tip", "text": "Gnomonkey says the three-tiles-back tile works regardless of where you start, that it is due to the size of the NPCs, and that the southwest pillar is the absolute best position."},
+        {"t": 2231, "kind": "tip", "text": "The Minotaur only heals if there is line of sight from its centre tile to the other NPC's centre tile, so if the other mob is two tiles behind the pillar it will not heal, but if both are two tiles out it will."}
+      ]
+    },
+    {
+      "name": "Colosseum invocations",
+      "kind": "mechanic",
+      "claims": [
+        {"t": 623, "kind": "tip", "text": "Gnomonkey says to always try to lock in a new invocation rather than upgrade an existing one, because the game keeps offering upgrades, so taking a new upgradable invocation like Solar Flare keeps good options popping up."},
+        {"t": 596, "kind": "tip", "text": "Gnomonkey considers Myopia a free invocation for a melee build because it only reduces your range, and calls Solar Flare great: it disables prayer on only the third tier, for one game tick, and does about 20 damage before then."},
+        {"t": 684, "kind": "stat", "text": "The Solar Flare orb spends two ticks on each tile and five ticks on a corner; after the upgrade it stops spending extra time on corners, and at tier three it spends two ticks on corners and one tick otherwise."},
+        {"t": 745, "kind": "opinion", "text": "Gnomonkey tries to wait on taking Blasphemy as long as possible because it wastes a chunk of prayer, and takes anything else that is not Blasphemy."},
+        {"t": 713, "kind": "tip", "text": "When standing next to a pillar with Solar Flare active, Gnomonkey recommends standing away from the pillar to avoid the flare when it comes up."},
+        {"t": 2106, "kind": "event", "text": "By wave 12 Gnomonkey's invocations are Myopia three, Solar Flare three, Duo, Blasphemy three and Quartet."}
+      ]
+    },
+    {
+      "name": "Manticore",
+      "kind": "mechanic",
+      "claims": [
+        {"t": 698, "kind": "tip", "text": "For the Manticore, Gnomonkey flicks through the three protection prayers as soon as the animation starts moving."},
+        {"t": 2259, "kind": "tip", "text": "When a Fremennik ranger is lined up with the Manticores' start tick, Gnomonkey watches the ranger's animation to start flicking and does not need to look at the Manticores."}
+      ]
+    },
+    {
+      "name": "Sol Heredit",
+      "kind": "boss",
+      "claims": [
+        {"t": 2439, "kind": "tip", "text": "Gnomonkey says Sol Heredit's main attacks are a spear thrust and a shield slam, and what his last attack was modifies the next one; after a shield slam you dodge one tile back, and after a second shield slam in a row you dodge two tiles back."},
+        {"t": 2469, "kind": "method", "text": "A spear attack is two-pronged, so you dodge back from the middle top; a repeated spear is three-pronged and you dodge back diagonally from the side of his middle."},
+        {"t": 2500, "kind": "method", "text": "To avoid thinking, Gnomonkey dodges to the tile that avoids both possible next attacks: after a spear he dodges back diagonally, and after a shield he runs back two tiles."},
+        {"t": 2533, "kind": "tip", "text": "Sol Heredit has a grapple attack that targets a body part (body, legs, boots, gloves or cape) shown in text over him and in the chat box; click the gear piece as his hand starts moving towards you for a perfect parry."},
+        {"t": 2562, "kind": "tip", "text": "A perfect parry guarantees a max hit, so Gnomonkey says to wait and not click too early, and you can follow with a Saradomin godsword special for a guaranteed max hit."},
+        {"t": 2618, "kind": "stat", "text": "Sol Heredit's triple protect melee attack is three ticks then an attack, three ticks then an attack, then four ticks then an attack, so you must have protect melee on the tick it hits; below 50 percent health it delays longer: three, three, then five ticks."},
+        {"t": 2651, "kind": "stat", "text": "The lasers that spawn around the arena deal more damage than anything else, hitting for 70, so Gnomonkey says to take any other hit rather than a laser."},
+        {"t": 2352, "kind": "stat", "text": "With a whip, Gnomonkey says you do 30 percent less DPS than with a scythe and lose ticks because you have to flinch away from the boss every five ticks, as the boss is five-tick and the whip is four-tick."},
+        {"t": 2381, "kind": "tip", "text": "Gnomonkey says the boss fight requires melee, and that you should keep clicking the boss at all times, even while brewing."},
+        {"t": 2381, "kind": "tip", "text": "Death Charge helps against Sol Heredit because you can Death Charge off the first minion."}
+      ]
+    },
+    {
+      "name": "Budget Colosseum setup",
+      "kind": "other",
+      "claims": [
+        {"t": 0, "kind": "stat", "text": "Gnomonkey wears a crystal shield as his tank shield for rotating pillars and starts waves with it on, and says the setup has 367 ranged defence, which he says is about as tanky as Torva casting with the shadow."},
+        {"t": 0, "kind": "stat", "text": "Gnomonkey says the max hit in his budget setup is about 51, that the Avernic defender is not actually a max hit upgrade, and that Saradomin sword is slightly better than a whip."},
+        {"t": 233, "kind": "tip", "text": "Gnomonkey says to wear the B ring rather than the Lightbearer for the melee budget setup because it is better."},
+        {"t": 261, "kind": "tip", "text": "Barrows gloves would not be a worthwhile swap for mage or range here, since the Atlatl and Trident hits are guaranteed max regardless of accuracy."}
+      ]
+    }
+  ]
+}

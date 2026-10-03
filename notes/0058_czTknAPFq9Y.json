@@ -1,0 +1,175 @@
+{
+  "id": "czTknAPFq9Y",
+  "title": "Nightmare Zone Guide (AFK, Points, XP) NEW METHOD (OSRS 2021)",
+  "date": "2020-12-24",
+  "type": "guide",
+  "summary": "A guide to the Nightmare Zone (NMZ) covering requirements, gear, inventory, plugins, how a dream works, and four boss-loadout methods: max XP, a newly discovered mixed XP/points method, max points, and a hyper AFK setup. Gnomonkey says NMZ is the best place to train melee for XP, and that his new mixed method gives over 500k points an hour for only about a 10% XP loss versus max XP.",
+  "outline": [
+    {"t": 0, "text": "Intro: what NMZ is and Skull64's points research"},
+    {"t": 32, "text": "Requirements and when to start training in NMZ"},
+    {"t": 82, "text": "Basics: overloads and absorption potions, first-time run"},
+    {"t": 136, "text": "Gear: obsidian, Dharok's, chaotics, scythe, and inventory"},
+    {"t": 301, "text": "RuneLite plugins for NMZ"},
+    {"t": 339, "text": "Overview: starting a hard customisable rumble, power-ups, rapid heal"},
+    {"t": 472, "text": "Max XP method"},
+    {"t": 514, "text": "New mixed XP/points method"},
+    {"t": 601, "text": "Max points method and annoying bosses"},
+    {"t": 773, "text": "Hyper AFK method"},
+    {"t": 910, "text": "Ranged and magic in NMZ"},
+    {"t": 978, "text": "Rewards: imbues, herb boxes, scrolls of redirection"}
+  ],
+  "topics": [
+    {
+      "name": "Nightmare Zone",
+      "kind": "activity",
+      "claims": [
+        {"t": 0, "kind": "opinion", "text": "Gnomonkey calls Nightmare Zone, located just north of Yanille, the best place to train combat in the game for XP, because many bosses give a bonus XP multiplier and it provides rewards like ring imbues and scrolls of redirection."},
+        {"t": 0, "kind": "event", "text": "Much of the video's information comes from Skull64's Reddit post, where he collected a lot of data to determine the base point value of each NMZ boss and personally gave Gnomonkey his spreadsheet."},
+        {"t": 32, "kind": "requirement", "text": "NMZ has no stat requirements, but a majority of quests must be completed to get optimal points from the bosses."},
+        {"t": 32, "kind": "tip", "text": "Having a quest cape reduces the cost to enter NMZ by 10k, so Gnomonkey recommends unlocking it if you are close."},
+        {"t": 32, "kind": "opinion", "text": "Gnomonkey would not recommend training hard in NMZ with lower than base 70 melee stats; before then he sticks with Ammonite Crabs and Obsidian armour, because overloads benefit you much less at lower levels."},
+        {"t": 56, "kind": "tip", "text": "A decent Prayer level saves a lot of money if you intend to use Piety while training in NMZ."},
+        {"t": 56, "kind": "opinion", "text": "Gnomonkey says NMZ is amazing for melee, which is the one set of skills that usually cannot be maxed through Slayer slash bossing alone."},
+        {"t": 56, "kind": "tip", "text": "The best way to get to NMZ is the mid-game teleport directly to it."},
+        {"t": 339, "kind": "method", "text": "You need to fill the coffers with a decent amount of cash to start a customisable hard rumble; each run costs 26k, or 16k with a quest cape, and you can retrieve overloads and absorption potions from the barrels beforehand."},
+        {"t": 352, "kind": "method", "text": "To start a run, talk to Dominic Onion, ask for a customisable hard rumble, then drink the potion he fills in the area. Gnomonkey chooses hard because it increases both the points per monster and the monsters' health without boosting their defence."},
+        {"t": 352, "kind": "method", "text": "The customisable rumble lets you disable bosses you do not want, and at least five bosses must be enabled."},
+        {"t": 352, "kind": "method", "text": "When you enter a dream there is a 30-second cooldown before bosses spawn; after that four random bosses from your loadout spawn (often several of the same boss), and killing one gives points and spawns a replacement."},
+        {"t": 381, "kind": "tip", "text": "Use the 30-second cooldown to drink an overload and reduce your health to one and to drink absorption potions, but do not lower health too quickly while the overload is proccing since that can get you killed and ejected from the dream."},
+        {"t": 420, "kind": "tip", "text": "You can keep health low by flicking rapid heal before every 60 seconds elapse, which resets the health regeneration timer; Gnomonkey uses a 50-second interval timer video that beeps every 50 seconds."},
+        {"t": 711, "kind": "stat", "text": "The most points you can earn in a single NMZ run is just over one million, after which you gain no more, so you must leave and start a new run, usually every 30 to 40 minutes."},
+        {"t": 1004, "kind": "opinion", "text": "Gnomonkey says herb boxes are a daily he is never a fan of, but 150k worth of herb boxes for 95k points quickly pays for the admission fees."}
+      ]
+    },
+    {
+      "name": "Overload (NMZ)",
+      "kind": "item",
+      "claims": [
+        {"t": 86, "kind": "stat", "text": "Overloads and absorption potions are used exclusively inside NMZ and must be bought with points."},
+        {"t": 86, "kind": "stat", "text": "An overload dramatically boosts all combat stats, drains 50 HP, and refunds it after 5 minutes, at which point the potion loses its stat boosting effect."},
+        {"t": 694, "kind": "stat", "text": "Overloads recover their stat boost every 15 seconds, so stat-draining bosses in NMZ are not a huge problem."},
+        {"t": 233, "kind": "tip", "text": "Gnomonkey usually brings twelve doses of overload and twenty-four doses of absorption, which lasts a full hour inside NMZ."}
+      ]
+    },
+    {
+      "name": "Absorption potion",
+      "kind": "item",
+      "claims": [
+        {"t": 86, "kind": "stat", "text": "Each dose of an absorption potion adds 50 damage that will be absorbed by the next attacks of any monster in NMZ."},
+        {"t": 113, "kind": "stat", "text": "If your health is drained to 1 with absorption potions active, the maximum hit of any monster is also capped at 1, which keeps the absorption lasting much longer and stops you dying."},
+        {"t": 113, "kind": "tip", "text": "On a first visit to NMZ without points, Gnomonkey says to start a hard endurance rumble with prayer potions and your best melee gear, pray melee and Piety until you reach Elvarg, then die, which gives enough points to buy some overloads and absorptions."},
+        {"t": 56, "kind": "requirement", "text": "To use absorption potions you need a form of self-damage: a dwarven rock cake from the free-the-dwarf subquest in Recipe for Disaster, or better a locator orb from Dragon Slayer II, which damages you more quickly."}
+      ]
+    },
+    {
+      "name": "NMZ gear and inventory",
+      "kind": "other",
+      "claims": [
+        {"t": 113, "kind": "method", "text": "Below 92 hitpoints, Gnomonkey says Obsidian armour with a Berserker necklace and Obsidian sword is amazing DPS: very low accuracy and defence but insane damage, perfect for NMZ where most bosses have low defence."},
+        {"t": 147, "kind": "tip", "text": "Armour defence does not matter in NMZ when using absorption potions because every max hit is one anyway; cape, boots, gloves and defender can be downgraded but add DPS if you can afford them, and a fire cape is perfectly acceptable."},
+        {"t": 174, "kind": "stat", "text": "One of the chaotic weapons with absolute max gear beats Obsidian by a very small margin until 92 hitpoints, where Dharok's set overtakes everything."},
+        {"t": 174, "kind": "stat", "text": "Gnomonkey says the Dharok's set effect scales with maximum health and is boosted by constantly reduced health in NMZ; on paper it would be the best DPS at around level 85, but because it is slow and often overkills it actually overtakes at 92."},
+        {"t": 207, "kind": "stat", "text": "The only setup that beats Dharok's after 92 hitpoints is a charged scythe of Vitur with max gear, about 15% more DPS than Dharok's at 99 HP, with a bigger difference at lower HP levels."},
+        {"t": 207, "kind": "stat", "text": "Gnomonkey says a scythe costs just under 1.5m gp an hour to use in NMZ, so it is only worth it if your best moneymaker makes over 11.2m gp an hour, which he says is technically possible for people with a lot of vaults or high-level Theatre of Blood raiders."},
+        {"t": 233, "kind": "opinion", "text": "For the other 99.9% of the community, Gnomonkey would just stick with the Dharok's setup."},
+        {"t": 261, "kind": "method", "text": "Gnomonkey's NMZ inventory is a locator orb or dwarven rock cake for self-damage, a holy wrench to save prayer potions, dragon claws or a granite maul with ornate handle for specials, overloads and absorptions, and the rest prayer potions."},
+        {"t": 261, "kind": "tip", "text": "Gnomonkey says claws are a better spec weapon than a granite maul but a maul is acceptable; the ornate maul handle costs about 1m gp and reduces the maul's spec cost."},
+        {"t": 261, "kind": "opinion", "text": "Gnomonkey is not a fan of using the Saradomin godsword or Ancient mace specs to save prayer in NMZ because they waste a lot of potential XP and defeat the purpose of using prayer."},
+        {"t": 289, "kind": "requirement", "text": "The maximum points an hour method additionally requires ice gloves (to fight Fareed) and practically requires nearly every quest boss to be unlocked."}
+      ]
+    },
+    {
+      "name": "RuneLite NMZ plugins",
+      "kind": "other",
+      "claims": [
+        {"t": 289, "kind": "tip", "text": "The built-in NMZ plugin improves the UI and sends notifications for specific power-ups, when your overload is about to run out, or when your absorption stockpile is low."},
+        {"t": 321, "kind": "tip", "text": "The plugin hub has NMZ Utilities, which adds left-click changes such as left-click guzzle on rock cakes and notifications when your health regains too much."},
+        {"t": 321, "kind": "tip", "text": "The plugin hub also has NMZ Optimal Points, which highlights the bosses worth the most points and is incredibly useful for a points run."}
+      ]
+    },
+    {
+      "name": "NMZ power-ups",
+      "kind": "mechanic",
+      "claims": [
+        {"t": 409, "kind": "stat", "text": "NMZ power-ups spawn randomly every few minutes: the white Ultimate Force kills every currently spawned boss and replaces them, the yellow Power Surge rapidly refills your special attack meter, the purple Zapper constantly damages nearby bosses, and the red Recurrent Damage makes each attack leave a second hitsplat of the same damage."},
+        {"t": 409, "kind": "stat", "text": "The only power-up that gives additional XP is Power Surge, through the extra special attacks, and Ultimate Force gives no points or XP for the bosses wiped by it."},
+        {"t": 502, "kind": "tip", "text": "On the max XP method, Gnomonkey says to use only the Power Surge power-up, since the others lower boss health or kill them outright and take you out of combat faster."},
+        {"t": 667, "kind": "tip", "text": "On a points run the Ultimate Force power-up is extremely useful because it wipes annoying or low-point bosses that have stacked up so you can return to killing high-point bosses."}
+      ]
+    },
+    {
+      "name": "NMZ max XP method",
+      "kind": "activity",
+      "claims": [
+        {"t": 472, "kind": "method", "text": "The max XP an hour method disables all bosses except Arrg, Moss Guardian, Headless Beast, Count Draynor and Sand Snake; Headless Beast replaced the Kindle (as transcribed), which was the previous best, after the Getting Ahead quest release."},
+        {"t": 472, "kind": "stat", "text": "Those five bosses have regular mechanics with no freezes or stuns and either the lowest defence or an XP boosting multiplier, but each gives very few points, roughly 200k points an hour."},
+        {"t": 472, "kind": "opinion", "text": "Gnomonkey says the max XP method is typically the best way to go for XP if you already have enough points for ring imbues."}
+      ]
+    },
+    {
+      "name": "NMZ mixed XP/points method",
+      "kind": "activity",
+      "claims": [
+        {"t": 514, "kind": "event", "text": "Using Skull64's data, a new meta was discovered shortly before the video: enabling only the Dream Mentor bosses without the Desert Treasure bosses divides the points from each boss by six, while leaving both off or both on avoids the penalty."},
+        {"t": 533, "kind": "method", "text": "The mixed method turns the Dream Mentor and Desert Treasure bosses off and enables most non-annoying bosses: Arrg, Moss Guardian, Headless Beast, Count Draynor, Sand Snake, Ice Troll King, Khazard Warlord, King Roald, Black Knight Titan, Tree Spirit, Bouncer, The Kendal, Me, Black Demon, Skeleton Hellhound, Nezikchened and Jungle Demon."},
+        {"t": 562, "kind": "stat", "text": "The mixed method earns over 500k points an hour, almost 2.5 times the points of the max XP method, for about a 10% XP an hour loss compared with max XP, and you can still AFK as in the XP method."},
+        {"t": 562, "kind": "tip", "text": "Gnomonkey recommends only using Power Surge among the power-ups with the mixed method, and not disabling extra bosses to eke out more XP because each disabled boss is roughly a negative ten percent points multiplier."}
+      ]
+    },
+    {
+      "name": "NMZ max points method",
+      "kind": "activity",
+      "claims": [
+        {"t": 595, "kind": "method", "text": "The max points method enables every boss except Corrupt Lizardman, Witch's Experiment, Elvarg, Nazastarool, Dagannoth Mother, Glod, the Recipe for Disaster bosses, Chronozon, Barrelchest, Slagilith and Tanglefoot, because they are slow to kill or annoying."},
+        {"t": 595, "kind": "stat", "text": "The max points method is not AFK and gives much less XP an hour, but provides double the points an hour of the mixed method."},
+        {"t": 595, "kind": "opinion", "text": "Gnomonkey would not recommend max points to most players unless rushing points ASAP."},
+        {"t": 624, "kind": "method", "text": "Annoying bosses left on in max points include Kamil (prevents auto-retaliate and freezes with each attack, countered with Protect from Magic or spam clicking), Agrith-Naar (teleports you into melee range), the Giant Roc and Dad (both stun), and Essyllt (stuns and drains stats by five at a time)."},
+        {"t": 624, "kind": "method", "text": "On a points run you prioritise the bosses worth the most points and let lower-priority bosses stack up, using the NMZ Optimal Points plugin to see the best boss at any time."},
+        {"t": 685, "kind": "tip", "text": "If a points run gives four horrible bosses with no Ultimate Force in sight, Gnomonkey would often die or drink the potion to leave and start a new run."},
+        {"t": 711, "kind": "tip", "text": "Fareed requires ice gloves to stop your weapon being unequipped, which is dangerous with a full inventory since your weapon would go to the ground; Gnomonkey says to avoid attacking Damis because his second form rapidly drains your prayer."},
+        {"t": 743, "kind": "stat", "text": "Gnomonkey names Essyllt from Song of the Elves and the Dream Mentor bosses as the juiciest bosses, and says the Inadequacy is worth 80k points, the highest point value of any NMZ boss."},
+        {"t": 743, "kind": "tip", "text": "If a boss teleports you, you usually want to kill it first even if it is not the most points."}
+      ]
+    },
+    {
+      "name": "NMZ hyper AFK method",
+      "kind": "activity",
+      "claims": [
+        {"t": 773, "kind": "opinion", "text": "Gnomonkey says the hyper AFK method is the most AFK training method in the game, tied with splashing."},
+        {"t": 773, "kind": "event", "text": "The old method let players AFK for a full six hours, but it was changed so your character stops auto-retaliating after 20 minutes and needs client interaction; you still will not log out until the six-hour log or you die."},
+        {"t": 773, "kind": "method", "text": "For hyper AFK Gnomonkey takes about five super strength potions, a locator orb, and fills the rest with absorption potions, with no prayer because that makes it less AFK."},
+        {"t": 799, "kind": "method", "text": "Hyper AFK uses a normal customisable rumble to reduce damage taken, with only Count Draynor, Sand Snake, King Roald, The Kendal and Me enabled, to avoid ranged attackers that could pull you out of combat and log you out and anything hitting harder."},
+        {"t": 799, "kind": "tip", "text": "Super combats cost six times more than super strengths and give from less than 1% to 2% more DPS depending on the boss, so which to take is up to you."},
+        {"t": 833, "kind": "tip", "text": "Do not use Dharok's for hyper AFK because you will not be lowering health as often; use max melee with a chaotic weapon or Obsidian armour, and Gnomonkey says max melee is significantly better for its higher defence, which extends absorption trips."},
+        {"t": 833, "kind": "method", "text": "On entering for hyper AFK, fill the locator orb down to 1 HP, drink around 1000 HP of absorption potions, then a super strength, and stand in the centre of NMZ since standing at a corner eventually makes you leave combat and log out."},
+        {"t": 859, "kind": "stat", "text": "In hyper AFK you can AFK up to 20 minutes before your character leaves combat, then drink another super strength and fill the orb to 1 HP again; usually about 200 absorption HP per 20 minutes, less with max melee."},
+        {"t": 859, "kind": "stat", "text": "Hyper AFK gives about 85k XP an hour, extremely similar to Ammonite Crabs, but you cannot get logged out in NMZ."},
+        {"t": 886, "kind": "tip", "text": "Gnomonkey says Ammonite Crabs are still not a bad option all the way up to 99s if you still need fossils for the museum, though they are less AFK."},
+        {"t": 886, "kind": "opinion", "text": "Hyper AFK gives no points: you either break even on absorptions or lose more points than you gain, so Gnomonkey suggests doing a couple of XP/points mix runs for points, then using those points to supply absorptions for hyper AFK."}
+      ]
+    },
+    {
+      "name": "NMZ ranged and magic",
+      "kind": "opinion",
+      "claims": [
+        {"t": 891, "kind": "opinion", "text": "Gnomonkey finds AFK ranging in NMZ with a blowpipe counterintuitive: it yields around 120k ranged XP an hour, about the same as a Dragon hunter crossbow at Vorkath, and costs around 3 gp per XP with Amethyst darts."},
+        {"t": 917, "kind": "stat", "text": "Gnomonkey says AFK chinning in the MM2 tunnels with red chinchompas costs again around 3 gp per XP but is 4 to 5 times faster."},
+        {"t": 917, "kind": "tip", "text": "If you really want to AFK range in NMZ, Gnomonkey suggests something like a magic shortbow imbued with rune arrows, but highly recommends training Ranged via Slayer or bossing on a main, or cannoning or chinning on an ultimate ironman."},
+        {"t": 950, "kind": "trivia", "text": "Gnomonkey says he did 90 to 99 Ranged completely at Vorkath and Hydra, and that if you get a twisted bow you will use it on almost every boss for insane XP."},
+        {"t": 950, "kind": "opinion", "text": "Gnomonkey says magic in NMZ is the same as ranged but worse, with very poor XP rates, and you should really never use magic in NMZ because you could splash, burst in the MM2 tunnels, or train through burst Slayer tasks."}
+      ]
+    },
+    {
+      "name": "NMZ rewards",
+      "kind": "other",
+      "claims": [
+        {"t": 978, "kind": "stat", "text": "Imbues are NMZ's most substantial reward and double the stats of most rings, costing 650k points for the vast majority of rings."},
+        {"t": 978, "kind": "stat", "text": "Imbuing a salve amulet costs 800k points and makes it work for any combat style, which Gnomonkey says you need for ranging Vorkath and Chambers of Xeric."},
+        {"t": 978, "kind": "stat", "text": "Imbuing a black mask or slayer helmet makes it work for any combat style and costs 1.25m points, the most expensive imbue."},
+        {"t": 1009, "kind": "stat", "text": "You can buy 15 herb boxes a day for 9,500 points each, worth on average 10k apiece."},
+        {"t": 1009, "kind": "stat", "text": "Scrolls of redirection cost 775 points each and let you redirect house tablets to any house portal or Trollheim; Gnomonkey says many of these teleports are very powerful for Clue Scrolls and God Wars Dungeon."},
+        {"t": 1009, "kind": "tip", "text": "Gnomonkey highly recommends buying a small stockpile of scrolls of redirection for general use."}
+      ]
+    }
+  ]
+}

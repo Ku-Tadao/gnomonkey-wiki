@@ -1,0 +1,277 @@
+{
+  "id": "Kgm0VYX_4no",
+  "title": "The NEW Raids 3 Twisted Bow is INSANE (Shadow of Tumeken OSRS)",
+  "date": "2022-05-18",
+  "type": "news-opinion",
+  "summary": "Gnomonkey reacts to Jagex's Raids 3 rewards poll blog, in which the proposed Tumeken's heka staff is replaced by the Shadow of Tumeken. He analyses where the new staff would be best in slot, compares it to the heka, and gives his views on the Osmumten's fang changes, a fourth rune pouch slot and the Keris partisan of breaching.",
+  "outline": [
+    {
+      "t": 0,
+      "text": "Intro: Raids 3 poll blog replaces Tumeken's heka with the Shadow"
+    },
+    {
+      "t": 32,
+      "text": "How the Shadow of Tumeken works"
+    },
+    {
+      "t": 127,
+      "text": "Boss analysis: where the Shadow is best in slot"
+    },
+    {
+      "t": 315,
+      "text": "Heka versus Shadow design comparison"
+    },
+    {
+      "t": 399,
+      "text": "Gnomonkey's qualms with the Shadow and poll format"
+    },
+    {
+      "t": 463,
+      "text": "Osmumten's fang changes"
+    },
+    {
+      "t": 526,
+      "text": "Fourth rune pouch slot"
+    },
+    {
+      "t": 558,
+      "text": "Keris partisan of breaching"
+    }
+  ],
+  "topics": [
+    {
+      "name": "Update: Raids 3 rewards poll blog",
+      "kind": "update",
+      "claims": [
+        {
+          "t": 0,
+          "kind": "event",
+          "text": "Jagex released a poll blog about Raids 3 rewards offering to replace the old mega-rare reward staff, Tumeken's heka, with a new staff called the Shadow of Tumeken."
+        },
+        {
+          "t": 0,
+          "kind": "opinion",
+          "text": "Gnomonkey thinks his earlier Heka discussion video reached Jagex in some way, as they went in the direction he figured they had to: punching through monsters' magic defence."
+        },
+        {
+          "t": 427,
+          "kind": "opinion",
+          "text": "Gnomonkey says it is good to see Jagex take a step back from their stance on the Heka and respect community feedback."
+        }
+      ]
+    },
+    {
+      "name": "Shadow of Tumeken",
+      "kind": "item",
+      "claims": [
+        {
+          "t": 32,
+          "kind": "stat",
+          "text": "The proposed Shadow of Tumeken is a two-handed powered staff with a flat five-tick attack speed, 35 magic attack and no inherent magic strength; at 99 Magic its base max hit is 34 compared with Sanguinesti staff's base max of 32."
+        },
+        {
+          "t": 59,
+          "kind": "method",
+          "text": "The Shadow has a unique passive like the Twisted bow: it triples the magic accuracy and magic strength bonuses of your gear, including from Slayer helmet or Salve amulet, so packing many magic switches raises the staff's effectiveness dramatically."
+        },
+        {
+          "t": 87,
+          "kind": "opinion",
+          "text": "Gnomonkey's favourite thing about the Shadow is that it does not take 30 minutes to read about and understand what it does, unlike the Heka."
+        },
+        {
+          "t": 87,
+          "kind": "opinion",
+          "text": "Gnomonkey loves that the Shadow encourages max-mage switches (usually where players skimp), gives major benefits to items like Ancestral hat, Seers ring and Brimstone ring that are typically worthless, and encourages less tanky gear, making it interesting at places like God Wars Dungeon: take more damage but deal much more."
+        },
+        {
+          "t": 121,
+          "kind": "opinion",
+          "text": "Gnomonkey expects the Shadow to be best in slot at a multitude of bosses, and where the Harmonised nightmare staff was best in slot the Shadow would be best by roughly four percent; his calculations assume best gear for each style (Bis range, Torva melee, and Ward with Sanguinesti)."
+        },
+        {
+          "t": 366,
+          "kind": "opinion",
+          "text": "Gnomonkey says the Shadow's design is much simpler than the Heka but deceptively complex, and there will be times you will not want to use it even when it is best in slot because of worse defence and the many switches required."
+        },
+        {
+          "t": 366,
+          "kind": "opinion",
+          "text": "Gnomonkey loves the idea of a glass-cannon meta for magic to rise, says Heal Other will become much more important for solo bossers like him, and likes that the weapon mostly avoids regular defence, which is why it is good at undrainable bosses like Armadyl."
+        }
+      ]
+    },
+    {
+      "name": "Shadow of Tumeken boss analysis",
+      "kind": "other",
+      "claims": [
+        {
+          "t": 152,
+          "kind": "stat",
+          "text": "According to Gnomonkey's calculations, the Shadow is about 4% better than the Harmonised staff at Kraken, only 1% better on Zulrah's green phase but 22% better on crimson (red) phase due to accuracy."
+        },
+        {
+          "t": 152,
+          "kind": "stat",
+          "text": "Gnomonkey says the Harmonised staff still has use at Scorpia and Ice Demon because you cannot bring the full switch needed to make the Shadow powerful."
+        },
+        {
+          "t": 152,
+          "kind": "stat",
+          "text": "At Thermonuclear smoke devil, the Harmonised staff was roughly equal to Scythe but the Shadow would be about 6% better than Scythe; at Abyssal Sire it would be about equal to Scythe once one hammer has landed, making magic viable."
+        },
+        {
+          "t": 186,
+          "kind": "stat",
+          "text": "At Kalphite Queen phase 2 the Shadow beats a blowpipe with no hammers and may be the best option anyway because you can walk under the KQ with it; at Dagannoth Rex it beats the Harmonised staff by 2% and Sanguinesti by 13%."
+        },
+        {
+          "t": 186,
+          "kind": "stat",
+          "text": "Gnomonkey calculates the Shadow would be best at every God Wars Dungeon boss: it beats Twisted bow by 8% on task or 16% off task at Zamorak, Chinchompas by 5% on task or 4.5% off task at Armadyl (though the lost-defence set is painful), Bow of Faerdhinen by 29% at Bandos even with two hammers landed, and Twisted bow by 5% at Saradomin."
+        },
+        {
+          "t": 218,
+          "kind": "stat",
+          "text": "In Theatre of Blood the Shadow's only use is Sotetseg with no hammers landed where it beats Scythe, so Gnomonkey doubts it would be taken in."
+        },
+        {
+          "t": 218,
+          "kind": "stat",
+          "text": "In Chambers (assuming Challenge Mode and overloaded), the Shadow beats Sanguinesti by 34% on melee Vanguard, Twisted bow by 24% on Vespula's portal, Twisted bow by 21% on Mystics (thanks to the Salve triple bonus), blowpipe by 3% on baby Muttadile, and Sanguinesti by 28% on Olm's magic hand."
+        },
+        {
+          "t": 272,
+          "kind": "stat",
+          "text": "Against a fully drained Corporeal Beast the Shadow beats Zamorakian spear and max melee by about 3%, since magic still does full damage against Corp; it would be amazing for solo Corp with an alt; against Giant Mole it beats Twisted bow by half a percent."
+        },
+        {
+          "t": 272,
+          "kind": "stat",
+          "text": "On Slayer monsters the Shadow is 20% better than a Lance or DHCB against Skeletal Wyverns (named 'Skeletal Vibrance' in the transcript) and slightly beats an uncharged Scythe on Gargoyles; Gnomonkey calls neither exceptional."
+        }
+      ]
+    },
+    {
+      "name": "Opinion: Shadow of Tumeken versus Tumeken's heka",
+      "kind": "opinion",
+      "claims": [
+        {
+          "t": 308,
+          "kind": "opinion",
+          "text": "Gnomonkey says the Shadow is a landslide better than the Heka, which did not introduce any new bosses where magic would be good and was purely a slightly better Harmonised staff with awkward utility and a hard-to-use attack speed."
+        },
+        {
+          "t": 308,
+          "kind": "opinion",
+          "text": "Gnomonkey says the Heka would have been new best in slot only at Scorpia, Zulrah (awkward with her diving), Theatre of Blood Nylocas, Olm's magic hand, melee Vanguards, Thermonuclear smoke devil and Dagannoth Rex, bosses magic was already slightly good at, which he found very boring."
+        },
+        {
+          "t": 366,
+          "kind": "opinion",
+          "text": "Gnomonkey says the thought process with the old staff was just whether you can use a variable attack speed weapon at a location and whether your spellbook is correct, rather than something more substantial like extra damage from your gear and the switches you bring."
+        },
+        {
+          "t": 399,
+          "kind": "opinion",
+          "text": "Gnomonkey thinks the Heka's marginal spellbook effects would have been near useless at all those bosses, with only the Arceuus spellbook likely used."
+        }
+      ]
+    },
+    {
+      "name": "Opinion: Shadow of Tumeken design qualms",
+      "kind": "opinion",
+      "claims": [
+        {
+          "t": 399,
+          "kind": "opinion",
+          "text": "Gnomonkey finds the Shadow being two-handed a little weird because it makes the Ward drop from Raids 3 much less substantial, effectively only boosting the Sanguinesti staff's DPS; he suggests a one-handed version with a lower multiplier like 2.5 times, though a one-handed five-tick weapon would also be weird."
+        },
+        {
+          "t": 430,
+          "kind": "opinion",
+          "text": "Gnomonkey would have preferred a more interesting effect like draining magic levels from the boss or ramping damage or accuracy over time, though he respects that Jagex may have kept it simple to avoid complexity."
+        },
+        {
+          "t": 430,
+          "kind": "opinion",
+          "text": "Gnomonkey says the Shadow would be an excellent addition and a huge improvement over the Heka, but it still needs to pass a poll to replace the Heka; he hopes the poll is a 50-50 choice between the two instead of a 75-25 yes or no vote, which could fail."
+        }
+      ]
+    },
+    {
+      "name": "Osmumten's fang",
+      "kind": "item",
+      "claims": [
+        {
+          "t": 462,
+          "kind": "event",
+          "text": "The poll blog changed Osmumten's fang, the five-tick hyper-accurate one-handed spear: it now has a 105 stab bonus instead of 175, and melee strength reduced to 103 (from 115), but it re-rolls for accuracy if the first roll fails."
+        },
+        {
+          "t": 488,
+          "kind": "opinion",
+          "text": "Gnomonkey says the re-roll makes the Fang a bit more accurate than before and not awkwardly high on stab bonus, but he finds the strength cut from 115 to 103 strange, perhaps because it beat Rapier in too many places."
+        },
+        {
+          "t": 488,
+          "kind": "opinion",
+          "text": "Gnomonkey says the change makes the Fang worse DPS than Zamorakian spear on a fully drained Corp but far more DPS than before on Nex due to her insane defence; he regards it as a neutral change that solidifies its niche status, though he expects it to be useful inside Raids 3 itself."
+        }
+      ]
+    },
+    {
+      "name": "Rune pouch",
+      "kind": "item",
+      "claims": [
+        {
+          "t": 522,
+          "kind": "event",
+          "text": "The Raids 3 poll blog adds a fourth slot rune pouch upgrade; players had asked for it with Guardians of the Rift, but Gnomonkey says Raids 3 was a prime candidate for such a reward."
+        },
+        {
+          "t": 522,
+          "kind": "opinion",
+          "text": "Gnomonkey says a fourth slot dramatically boosts spellbook swapping and Arceuus spellbook use with thralls and death charge, which needs at least five rune slots (it would cost one slot loss instead of two), and lets alts hold the runes for spec transfer and Heal Other in one pouch."
+        }
+      ]
+    },
+    {
+      "name": "Keris partisan of breaching",
+      "kind": "item",
+      "claims": [
+        {
+          "t": 558,
+          "kind": "event",
+          "text": "The poll blog adds a Breach of the Scarab upgrade for the Keris partisan, giving it a 33% accuracy multiplier against Kalphite fights."
+        },
+        {
+          "t": 558,
+          "kind": "stat",
+          "text": "Gnomonkey calculates, assuming his maths is right, that the partisan is dramatically better than Scythe on Kalphite Queen: at one hammer it should be 100% accurate on task, making it already better than a two-hammer Scythe with no hammers landed."
+        },
+        {
+          "t": 584,
+          "kind": "opinion",
+          "text": "Gnomonkey expects the accuracy increase to see players bring Torva instead of Inquisitor's because the hammer hit is less impactful: Torva is barely worse at zero hammers and much better at one hammer plus, and it allows claws, boosted by Torva, to be used after one hammer like at Sire."
+        },
+        {
+          "t": 584,
+          "kind": "stat",
+          "text": "Gnomonkey says Kalphite Queen would be decimated by Keris partisan of breaching on phase 1 plus Shadow of Tumeken on phase 2, for roughly a 20% total DPS increase with the Raids 3 items."
+        }
+      ]
+    },
+    {
+      "name": "Gnomonkey",
+      "kind": "person",
+      "claims": [
+        {
+          "t": 611,
+          "kind": "event",
+          "text": "Gnomonkey says he was live on Twitch around the video's upload doing a mix of Inferno and possibly finishing his master combat achievements if his team logged in."
+        }
+      ]
+    }
+  ]
+}

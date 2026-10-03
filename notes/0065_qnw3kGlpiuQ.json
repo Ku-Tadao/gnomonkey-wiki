@@ -1,0 +1,997 @@
+{
+  "id": "qnw3kGlpiuQ",
+  "title": "Inferno Guide OSRS (Waves + Triple Jads + Zuk)",
+  "date": "2021-05-21",
+  "type": "guide",
+  "summary": "A full first-cape Inferno guide covering requirements, gear, inventory, RuneLite setup, how the waves and monsters work, pillar and safe-spot tactics, wave-by-wave advice, Jad, triple Jads and TzKal-Zuk, plus rewards. Gnomonkey recommends a twisted bow for a first cape, says flicking is required but one-tick flicking is not, and treats Zuk as the hardest part of the Inferno.",
+  "outline": [
+    {
+      "t": 0,
+      "text": "Intro: what the Inferno is, twisted bow vs armadyl crossbow for a first cape, cost, flicking"
+    },
+    {
+      "t": 80,
+      "text": "Requirements: stat levels"
+    },
+    {
+      "t": 196,
+      "text": "Gear priorities, Justiciar, armour, ammo, switches and inventory"
+    },
+    {
+      "t": 602,
+      "text": "Overview: 69 waves, pillars, monsters and priorities"
+    },
+    {
+      "t": 1135,
+      "text": "Pausing waves, dropping potions"
+    },
+    {
+      "t": 1195,
+      "text": "RuneLite setup and tile markers"
+    },
+    {
+      "t": 1320,
+      "text": "Mechanics: safe spotting, corner trapping, phantom heal"
+    },
+    {
+      "t": 1383,
+      "text": "Waves 1-17"
+    },
+    {
+      "t": 1535,
+      "text": "Waves 18-34"
+    },
+    {
+      "t": 1570,
+      "text": "Waves 34-49"
+    },
+    {
+      "t": 1664,
+      "text": "Waves 50-66"
+    },
+    {
+      "t": 1982,
+      "text": "Jad"
+    },
+    {
+      "t": 2080,
+      "text": "Triple Jads"
+    },
+    {
+      "t": 2211,
+      "text": "TzKal-Zuk"
+    },
+    {
+      "t": 2688,
+      "text": "Rewards, Inferno Slayer tasks, speedrunning and further resources"
+    }
+  ],
+  "topics": [
+    {
+      "name": "Inferno",
+      "kind": "raid",
+      "claims": [
+        {
+          "t": 0,
+          "kind": "stat",
+          "text": "Gnomonkey describes the Inferno as one of the toughest pieces of content in RuneScape: 69 waves, topped off with three Jads at once and a tough last boss, TzKal-Zuk."
+        },
+        {
+          "t": 0,
+          "kind": "opinion",
+          "text": "His guide is directed at players going for their first Inferno cape, not people looking to speedrun Slayer tasks."
+        },
+        {
+          "t": 55,
+          "kind": "stat",
+          "text": "Gnomonkey says an Inferno attempt costs a mil or two in supplies, mainly blood runes used to Blood Barrage things, and a long run can use as much as 4,000 blood runes."
+        },
+        {
+          "t": 55,
+          "kind": "tip",
+          "text": "For a first cape you absolutely need to flick prayers, but one-tick flicking is not necessary; you could technically bring way fewer brews and not flick at all, but Gnomonkey says that is harder than learning to flick properly."
+        },
+        {
+          "t": 85,
+          "kind": "tip",
+          "text": "One-ticking lets you pray Rigor and a protection prayer at no prayer cost, which Gnomonkey says is unnecessary unless you are worried about the time on the cape."
+        },
+        {
+          "t": 85,
+          "kind": "tip",
+          "text": "Being able to alternate prayers every one tick or every two ticks consistently solves basically every wave with blobs, and one-tick alternating solves almost every ranger/mager stack behind the pillar."
+        },
+        {
+          "t": 115,
+          "kind": "tip",
+          "text": "Gnomonkey says the most useful Inferno skills are quickly safe spotting monsters and understanding how monster pathfinding works."
+        },
+        {
+          "t": 602,
+          "kind": "stat",
+          "text": "The Inferno has 69 waves, more than the Fight Caves because an in-between wave of six nibblers comes before the first blob, first melee, first ranger and first mage, plus two extra waves after Jad (triple Jads and Zuk)."
+        },
+        {
+          "t": 602,
+          "kind": "stat",
+          "text": "Waves work like the Fight Caves: a monster is added every wave and two monsters combine into the next harder monster each wave, but spawn points are completely random, unlike the Fight Caves."
+        },
+        {
+          "t": 650,
+          "kind": "stat",
+          "text": "There are three pillars usable as safe spots: north, west and south; you start waves behind or near the north pillar and can rotate to the south pillar when things get sticky, and the west pillar is rarely used except in the earlier waves as a chew-toy for nibblers."
+        },
+        {
+          "t": 671,
+          "kind": "stat",
+          "text": "Every Inferno monster is a souped-up version of the Fight Caves variant and can melee you if you enter its melee range; the mages in particular have devastating melee attacks."
+        },
+        {
+          "t": 1135,
+          "kind": "tip",
+          "text": "Clicking logout during a wave pauses it after you kill everything, creating a state where you cannot recover run energy but special attack still recovers; clicking logout twice logs you out and restarts the wave from the beginning with monsters respawning in the same locations."
+        },
+        {
+          "t": 1135,
+          "kind": "tip",
+          "text": "Gnomonkey recommends pausing the wave before the single Jad, the triple Jads and Zuk to get prepared."
+        },
+        {
+          "t": 1178,
+          "kind": "tip",
+          "text": "Because the Inferno is instanced, dropped potions do not despawn for 30 minutes; Gnomonkey drops a couple of brews to unequip negative-magic-accuracy items in early waves, and you must pick them up before logging out as they will not be there when you log back in."
+        },
+        {
+          "t": 2688,
+          "kind": "stat",
+          "text": "A successful Inferno rewards the infernal cape, and the first completion lets you select the Inferno on Slayer tasks."
+        }
+      ]
+    },
+    {
+      "name": "Inferno requirements",
+      "kind": "mechanic",
+      "claims": [
+        {
+          "t": 115,
+          "kind": "requirement",
+          "text": "Gnomonkey would not try the Inferno before 99 Ranged and Hitpoints, saying each Ranged level is 1% DPS, which can be the difference between life and death."
+        },
+        {
+          "t": 115,
+          "kind": "requirement",
+          "text": "He calls 94 Magic a pretty hard requirement for Ice Barrage, and says 99 is better because bats drain stats and lower Magic removes your autocast."
+        },
+        {
+          "t": 146,
+          "kind": "requirement",
+          "text": "96 Prayer is the last level that benefits prayer gained per divine dose, and for a first cape it is about the lowest Gnomonkey would send an attempt with; 99 is best."
+        },
+        {
+          "t": 146,
+          "kind": "requirement",
+          "text": "Gnomonkey says 90 Defence is a good minimum, noting he was smashed by rangers on his ultimate ironman when sending attempts at 80 Defence, and that defence levels are noticeable."
+        },
+        {
+          "t": 173,
+          "kind": "tip",
+          "text": "Agility in the 80s would be pretty good but is not a hard requirement, and other melee stats do not matter; he would not get 99 melee stats to cheese special attacks with the Saradomin godsword."
+        },
+        {
+          "t": 28,
+          "kind": "opinion",
+          "text": "Gnomonkey recommends a twisted bow for first-cape players because an armadyl crossbow makes the Zuk fight incredibly difficult and grueling, typically requiring you to off-tick the ranger and mage spawns and prayer flick them repeatedly."
+        },
+        {
+          "t": 28,
+          "kind": "opinion",
+          "text": "Gnomonkey says doing the Inferno with an armadyl crossbow because you do not have the money is typically a sign you are going for it too early, as PvMing for money gives you experience with bossing that also helps in the Inferno."
+        },
+        {
+          "t": 55,
+          "kind": "opinion",
+          "text": "Gnomonkey recommends going for an armadyl crossbow cape if you have already done the Inferno on your main or are doing it on an ironman."
+        }
+      ]
+    },
+    {
+      "name": "Inferno gear",
+      "kind": "activity",
+      "claims": [
+        {
+          "t": 196,
+          "kind": "opinion",
+          "text": "Gnomonkey's Inferno gear priorities are first prayer bonus (restores must last through Zuk, aiming for at least four restores left on reaching Zuk), then ranged and melee defence, then ranged accuracy and damage bonus; mage defence does not help as you pray mage against mages."
+        },
+        {
+          "t": 211,
+          "kind": "tip",
+          "text": "Gnomonkey says a common mistake is worrying about magic accuracy to kill nibblers faster; nibblers have zero defence, you will almost always land the freeze, and accuracy only affects whether the hit lands, not damage rolls."
+        },
+        {
+          "t": 211,
+          "kind": "tip",
+          "text": "When Blood Barraging for HP there is no time limit, so you can remove negative magic bonus pieces and flick the monster as you barrage it."
+        },
+        {
+          "t": 297,
+          "kind": "method",
+          "text": "Gnomonkey's first cape setup: Justiciar faceguard for 67 ranged defence and melee defences in the 60s with only -2 ranged accuracy and +2 prayer; a Ring of the Gods for +8 prayer and the holy wrench effect (or a Ring of suffering if wearing a max cape)."
+        },
+        {
+          "t": 297,
+          "kind": "tip",
+          "text": "Gnomonkey says not to use a granite ring or archer ring since their stats matter little compared to prayer bonus."
+        },
+        {
+          "t": 354,
+          "kind": "tip",
+          "text": "Armadyl armour has slightly better ranged and melee defence than god d'hide and slightly better ranged accuracy; the cape is doable without it and blessed d'hide is acceptable."
+        },
+        {
+          "t": 354,
+          "kind": "tip",
+          "text": "On task the Assembler does not give a max hit with the blowpipe or twisted bow, so the ranged cape is better for its +4 prayer and defensive bonuses, with a Vorkath head added to avoid wasting ammunition; a max cape is better still."
+        },
+        {
+          "t": 385,
+          "kind": "tip",
+          "text": "A max cape has the same stats as a ranged cape, collects ammunition, counts as a holy wrench, has negative weight like a graceful cape and doubles health regeneration."
+        },
+        {
+          "t": 385,
+          "kind": "method",
+          "text": "Gnomonkey prefers Devout boots for +5 prayer; Pegasian boots speed up the triple Jad and Zuk fights, and Guardian boots give defensive bonuses in the 30s and +2 prayer but -1 ranged accuracy."
+        },
+        {
+          "t": 413,
+          "kind": "method",
+          "text": "Gnomonkey's go-to shield is the crystal shield for its insane ranged defence; an Elysian spirit shield is the obvious choice if you have one, and an arcane spirit shield is decent with 52 ranged defence, +3 prayer and a slightly reduced splash chance on nibblers."
+        },
+        {
+          "t": 440,
+          "kind": "tip",
+          "text": "Use dragon arrows with the twisted bow; Gnomonkey used rune darts in his blowpipe until reaching Zuk then switched to dragon darts, and would not use anything below rune darts because you waste so much money on Blood Barrage anyway."
+        },
+        {
+          "t": 467,
+          "kind": "method",
+          "text": "He wants a three- or four-way mage switch; the Kodai wand is basically mandatory (a nightmare staff needs a brew slot for water runes), the occult necklace helps insta-kill nibblers, and the ancestral top is optional and only used for waves 1 to 47."
+        },
+        {
+          "t": 495,
+          "kind": "method",
+          "text": "Inventory for a first cape: the mage switch, a blowpipe, about eight brews to start (aim to arrive at Zuk with at least four), restores for the rest, a rune pouch with maximum soul, death and blood runes, and at least a stamina and a Bastion potion for Zuk."
+        },
+        {
+          "t": 528,
+          "kind": "tip",
+          "text": "A Falador shield 4 fully restores prayer twice a day, which is extra prayer over a restore; use it early in attempts as it is annoying to use in waves, and it resets daily so could be cheesed."
+        },
+        {
+          "t": 559,
+          "kind": "tip",
+          "text": "If bringing Justiciar, swap two restores for Justiciar pieces; a Saradomin godsword can replace a third restore as melee gear to restore prayer and drive-by nibblers, but Gnomonkey says never bring it to cheese specs and only bring it once you have reached Zuk."
+        },
+        {
+          "t": 591,
+          "kind": "method",
+          "text": "Before entering, drink a divine ranging/Bastion, heal to full, eat an anglerfish, drink a stamina and use an imbued heart if you have one; you can also overcharge prayer points in your house with max melee gear."
+        }
+      ]
+    },
+    {
+      "name": "Justiciar armour",
+      "kind": "item",
+      "claims": [
+        {
+          "t": 264,
+          "kind": "opinion",
+          "text": "Gnomonkey used Justiciar for his first cape and does not regret it, but if you plan to grind the pet and do every Inferno task he recommends not taking it and properly learning the caves."
+        },
+        {
+          "t": 264,
+          "kind": "tip",
+          "text": "The purpose of Justiciar is not to wear it constantly but to escape sticky situations by slapping it on and running south while praying magic; brute-forcing and tanking everything turns the waves into an RNG fest."
+        },
+        {
+          "t": 294,
+          "kind": "opinion",
+          "text": "Gnomonkey says you will get the cape faster using Justiciar as a tool, since you get through the waves more consistently; if your goal is just to get the cape and be done, he recommends using it."
+        },
+        {
+          "t": 1388,
+          "kind": "tip",
+          "text": "Do not use Justiciar armour until the waves with mages, since you pray ranged against rangers and Justiciar has negative magic defence."
+        },
+        {
+          "t": 1632,
+          "kind": "tip",
+          "text": "On wave 48 with a bad spawn, pray Rigor, put on Justiciar and chug brew as you run south, without going near the mage's melee distance."
+        }
+      ]
+    },
+    {
+      "name": "Prayer flicking",
+      "kind": "mechanic",
+      "claims": [
+        {
+          "t": 55,
+          "kind": "tip",
+          "text": "Gnomonkey says flicking is required for a first Inferno cape but one-tick flicking is not."
+        },
+        {
+          "t": 1530,
+          "kind": "method",
+          "text": "When a blob can see you and a ranger is away from a safe spot, you can one-tick or two-tick alternate between ranged and mage prayer to avoid all damage."
+        },
+        {
+          "t": 1548,
+          "kind": "method",
+          "text": "Pray ranged until you see the ranger's animation start, then start alternating; it may hit once more if you start on an unfortunate tick, but after that it will not hit you if you keep one-tick alternating properly."
+        },
+        {
+          "t": 1574,
+          "kind": "method",
+          "text": "For a mage plus blob, pray magic until the light flickers under the mage, then one-tick alternate ranged and mage prayer as you kill it."
+        },
+        {
+          "t": 1802,
+          "kind": "tip",
+          "text": "You cannot just one-tick alternate if a ranger and mager are on you two ticks apart; you need to two-tick alternate to flick both along with blobs."
+        }
+      ]
+    },
+    {
+      "name": "Jal-Nib",
+      "kind": "mechanic",
+      "claims": [
+        {
+          "t": 671,
+          "kind": "stat",
+          "text": "Nibblers spawn every wave in groups of three, except the in-between waves where there are six and no other monsters, and they stop spawning on the final three waves."
+        },
+        {
+          "t": 671,
+          "kind": "stat",
+          "text": "Each wave three nibblers head to a random pillar (all nibblers go to the same pillar); each maxes a 4 and rapidly damages pillars when they arrive."
+        },
+        {
+          "t": 711,
+          "kind": "opinion",
+          "text": "On a first cape, Gnomonkey says nibblers are the absolute top priority to kill, since losing the north or south pillar can end a run."
+        },
+        {
+          "t": 711,
+          "kind": "stat",
+          "text": "Nibblers have negative magic defence and extremely low stats (15 defence), making them the best target for Saradomin godsword specs and a great target for Blood Barrage."
+        },
+        {
+          "t": 1035,
+          "kind": "tip",
+          "text": "Pillar priority is north first, south second and west lowest; the more aggressive you are with nibblers early, the more you can ignore them later."
+        },
+        {
+          "t": 1035,
+          "kind": "tip",
+          "text": "At the start of a wave send an Ice or Blood Barrage at the nibblers depending on your health; if you cannot kill them safely, send one cast and get behind the pillar until the monsters fall into place."
+        },
+        {
+          "t": 1950,
+          "kind": "tip",
+          "text": "On wave 66, nibblers can kill whichever pillar they go to; do not stand next to a pillar when it goes down or you take massive damage."
+        }
+      ]
+    },
+    {
+      "name": "Jal-MejRah",
+      "kind": "mechanic",
+      "claims": [
+        {
+          "t": 711,
+          "kind": "stat",
+          "text": "Bats spawn from the very first wave and max a 19 with ranged attacks, which can be devastating if you tank two at once."
+        },
+        {
+          "t": 742,
+          "kind": "stat",
+          "text": "Bats have a short range of four tiles whereas the blowpipe has a max range of five, so you can pipe them safely from max range even on rapid; they and nibblers are the only Inferno monsters with short range."
+        },
+        {
+          "t": 742,
+          "kind": "stat",
+          "text": "Bats drain run energy by three on every hit, including zeros, and have a chance to drain a combat stat by one that they add to their own; being drained below 94 Magic removes your autocast."
+        },
+        {
+          "t": 774,
+          "kind": "event",
+          "text": "As of a Jagex patch, bats can no longer drain your stats if you pray ranged correctly against them, but they still drain run energy each attack."
+        },
+        {
+          "t": 1418,
+          "kind": "tip",
+          "text": "A bat safe spot one tile away from the corner of the pillar lets you shoot bats even on rapid with a blowpipe without them attacking you, and Gnomonkey says to avoid tanking bats where possible."
+        }
+      ]
+    },
+    {
+      "name": "Jal-Ak",
+      "kind": "mechanic",
+      "claims": [
+        {
+          "t": 774,
+          "kind": "opinion",
+          "text": "Gnomonkey says blobs will be the bane of your existence on a first cape."
+        },
+        {
+          "t": 774,
+          "kind": "stat",
+          "text": "Blobs appear after wave 4, attack with mage or ranged from a very long distance, max a 29 and are on a six-tick attack cycle."
+        },
+        {
+          "t": 774,
+          "kind": "stat",
+          "text": "A blob reads your current prayer (mage or ranged) on the third tick of its attack and fires the opposite on the sixth tick; if you are praying nothing or protect from melee it fires a random attack, and if you step out of a safe spot it reads your prayer the first tick it sees you and fires three ticks later."
+        },
+        {
+          "t": 803,
+          "kind": "tip",
+          "text": "Gnomonkey recommends entering the Inferno with just a blowpipe, killing waves up to the first blob and practising flicking them; alternating mage and ranged prayer every tick, or every two ticks, completely negates them."
+        },
+        {
+          "t": 836,
+          "kind": "stat",
+          "text": "When killed, a blob splits into three smaller blobs (red melee, green ranged, blue mage) that max an 18 and have 15 HP; they cannot realistically be tanked and must be killed or safe spotted immediately, ideally by switching to mage gear and sending an Ice or Blood Barrage."
+        },
+        {
+          "t": 836,
+          "kind": "tip",
+          "text": "Mini blobs are one of the best targets for regaining health with Blood Barrage because phantom heals work on all three, but they and the Mother Blob have 95 defence so they are a poor target for Saradomin godsword specs."
+        },
+        {
+          "t": 1452,
+          "kind": "tip",
+          "text": "Sending a phantom Blood Barrage after killing all three mini blobs can heal as much as 40 health; Gnomonkey did not know this on his first cape and now uses it all the time."
+        },
+        {
+          "t": 1530,
+          "kind": "opinion",
+          "text": "Gnomonkey says any wave with double blobs is dangerous, since missing two sets of flicks on two blobs risks a knockout."
+        }
+      ]
+    },
+    {
+      "name": "Jal-ImKot",
+      "kind": "mechanic",
+      "claims": [
+        {
+          "t": 870,
+          "kind": "stat",
+          "text": "Melee monsters spawn after wave 9 (flipped from the Fight Caves, where rangers come third), max a 49, are extremely accurate and cannot realistically be tanked."
+        },
+        {
+          "t": 870,
+          "kind": "tip",
+          "text": "Melees can be safe spotted, corner trapped or frozen, or you can pray melee."
+        },
+        {
+          "t": 900,
+          "kind": "stat",
+          "text": "If a melee has not attacked you for 20 seconds it digs to your current location with a short window before it can attack; the timer resets if you pray melee and let it hit you once, or take an off-prayer hit."
+        },
+        {
+          "t": 900,
+          "kind": "opinion",
+          "text": "Gnomonkey says melees alone are not very threatening but combined with blobs or other dangerous monsters they can easily get you killed."
+        },
+        {
+          "t": 1485,
+          "kind": "tip",
+          "text": "Gnomonkey says you cannot realistically flick a melee and a blob; instead safe spot the melee away from the blobs, with corner traps possible on any corner north or south of the north pillar."
+        },
+        {
+          "t": 1514,
+          "kind": "tip",
+          "text": "The first time you reach a melee in the waves, Gnomonkey suggests keeping it alive and experimenting to see how it can be safe spotted, since it matters a lot later."
+        }
+      ]
+    },
+    {
+      "name": "Jal-Xil",
+      "kind": "mechanic",
+      "claims": [
+        {
+          "t": 900,
+          "kind": "stat",
+          "text": "Rangers start spawning on wave 18, max a 46 and have no unique mechanics, attacking with ranged or melee every four ticks."
+        },
+        {
+          "t": 932,
+          "kind": "tip",
+          "text": "You start waves praying ranged until mages spawn; rangers are the first enemy you primarily flick, as their attack is calculated when the crouch animation starts."
+        },
+        {
+          "t": 960,
+          "kind": "stat",
+          "text": "Rangers have 60 defence, bats 55 and nibblers 15, so rangers have the lowest defence of any Inferno monster besides bats and nibblers; they also have a big pile of health, making them free medkits for Blood Barrage and a squishy target for Saradomin godsword specs."
+        },
+        {
+          "t": 1672,
+          "kind": "tip",
+          "text": "A ranger can instantly hit you for as much as a 46 at the start of a wave, so keep health at 99 when starting the waves with rangers."
+        }
+      ]
+    },
+    {
+      "name": "Jal-Zek",
+      "kind": "mechanic",
+      "claims": [
+        {
+          "t": 990,
+          "kind": "stat",
+          "text": "Mages are one of the most dangerous standard Inferno monsters, max a 70 with magic and appear from wave 35 on; you start waves praying mage and their attack is calculated when the light under them flickers."
+        },
+        {
+          "t": 990,
+          "kind": "stat",
+          "text": "Instead of a regular attack, a mage can respawn any monster you have killed (except nibblers) at half health in the centre of the room; this takes eight ticks instead of the standard four and a monster can only be respawned once."
+        },
+        {
+          "t": 1023,
+          "kind": "tip",
+          "text": "If a mage respawns a blob, the blob has half HP but the blobs it splits into have full health; Gnomonkey notes mage respawns can be used as a tool to regain health with Blood Barrage."
+        },
+        {
+          "t": 1574,
+          "kind": "tip",
+          "text": "At full health it is usually best to kill the mage first to prevent respawns, but if you need health it can be good to kill the blob, Blood Barrage it, and let the mage respawn it for more HP."
+        },
+        {
+          "t": 1950,
+          "kind": "tip",
+          "text": "On wave 66 (double mages) just pray mage; mages can respawn each other so you may need to kill four, and a mage whose southwest tile is next to a falling pillar takes massive damage, over a hundred in Gnomonkey's experience."
+        }
+      ]
+    },
+    {
+      "name": "Inferno pillars and safe spotting",
+      "kind": "mechanic",
+      "claims": [
+        {
+          "t": 1281,
+          "kind": "tip",
+          "text": "Gnomonkey says to play around the north pillar as much as possible, since it is always possible to solve a wave from there (though it may involve flicking), and learners often panic and run west or south, which is usually a bad instinct."
+        },
+        {
+          "t": 1302,
+          "kind": "method",
+          "text": "Gnomonkey starts waves west of the pillar then moves to the tile north of the north pillar for more dangerous waves, as it is more likely to protect from the ranger's attacks; going to the northeast corner after casting at nibblers also lets you corner trap dangerous monsters east of the pillar."
+        },
+        {
+          "t": 1328,
+          "kind": "stat",
+          "text": "Monsters work off their southwestern tile, the only part that tries to reach or attack you; if a monster's southwest tile can see you but the rest is stuck behind something, it is safe spotted."
+        },
+        {
+          "t": 1328,
+          "kind": "stat",
+          "text": "Any monster can be corner trapped because monsters always try to move west or east before north or south, so pillars keep them stuck; this is why the north pillar is primarily used, as most things spawn south of it."
+        },
+        {
+          "t": 1241,
+          "kind": "tip",
+          "text": "Gnomonkey marks the nibbler spawn tile, a tile three tiles behind the pillar where he starts later waves (also the melee corner-trap tile, and a spot to Blood Barrage nibblers on the north pillar), a tile for luring Jad healers at triples, and four tiles for Zuk."
+        },
+        {
+          "t": 1331,
+          "kind": "tip",
+          "text": "Gnomonkey says to commit safe-spot knowledge to instinct, as you need to rapidly safe spot melees in the later waves to survive."
+        },
+        {
+          "t": 1722,
+          "kind": "method",
+          "text": "For a mage and ranger stacked behind the pillar, start in the middle of the pillar and click the monster in the back or step out to the corner; the back monster sees you the first tick you step out and the front monster a tick later, so switch your prayer to the front monster when the back one starts its attack."
+        },
+        {
+          "t": 1748,
+          "kind": "method",
+          "text": "If a bat is in the front, start one tile away from the pillar in the centre; if a blob is in the front, start two tiles away; blobs elsewhere in the stack are solved the same way by alternating prayer against the back then front monster."
+        },
+        {
+          "t": 1775,
+          "kind": "tip",
+          "text": "If your timing is off, immediately get back behind the pillar and drink brew; Gnomonkey points to the We Do Raids Inferno guide by Hayo for almost every pillar stack."
+        }
+      ]
+    },
+    {
+      "name": "Blood Barrage",
+      "kind": "mechanic",
+      "claims": [
+        {
+          "t": 1361,
+          "kind": "stat",
+          "text": "Phantom heal: if you are at least 8 tiles away when you cast Blood Barrage (range 10, same as a twisted bow) and the cast will kill the target, you can send another barrage right before it dies and get the healing for both casts."
+        },
+        {
+          "t": 1361,
+          "kind": "tip",
+          "text": "Phantom healing only works with manual casting; autocast never grants a phantom heal."
+        },
+        {
+          "t": 1452,
+          "kind": "stat",
+          "text": "Blood Barrage heals for damage you would have dealt even if the monster has low HP, so even 15 HP blobs can give massive healing."
+        },
+        {
+          "t": 1035,
+          "kind": "tip",
+          "text": "Gnomonkey says you can always Blood Barrage your health back, so tanking some damage to kill nibblers is fine; the final wave priority is to reach 99 health before the next wave using Blood Barrage or special attacks."
+        },
+        {
+          "t": 1142,
+          "kind": "tip",
+          "text": "You can get knocked out extremely quickly in the Inferno, so having maximum health on tough waves is a must."
+        }
+      ]
+    },
+    {
+      "name": "Inferno waves",
+      "kind": "mechanic",
+      "claims": [
+        {
+          "t": 1388,
+          "kind": "tip",
+          "text": "Until wave 48 the goal is to maintain prayer and pillar health; Gnomonkey says you realistically shouldn't have used any brew until at least wave 48, but this is only a soft goal while learning."
+        },
+        {
+          "t": 1388,
+          "kind": "tip",
+          "text": "On first attempts it is a good idea to use up your brews and restores to confirm you get later into the waves to learn them."
+        },
+        {
+          "t": 1452,
+          "kind": "tip",
+          "text": "For waves with mages you can start waves without your crystal shield on to increase your chance of landing barrages."
+        },
+        {
+          "t": 1568,
+          "kind": "event",
+          "text": "Wave 32 is when the first mage spawns."
+        },
+        {
+          "t": 1568,
+          "kind": "stat",
+          "text": "Gnomonkey calls wave 48 the first difficult wave, with a mage, melee and two blobs: you need to isolate the melee from the mage and the blobs under a strict time limit as it can dig to your position."
+        },
+        {
+          "t": 1664,
+          "kind": "tip",
+          "text": "From wave 49 (which introduces a ranger) do not put the ancestral top on at the start of waves; stay in Armadyl with an occult, Kodai and your shield, and start waves praying Augury to cut splash chance and damage from the ranger and blobs."
+        },
+        {
+          "t": 1692,
+          "kind": "tip",
+          "text": "On waves with a mage and ranger, you must rapidly isolate them; if both are on you the same tick you will probably die, so get a pillar between you and one of them or off-tick and flick them if confident."
+        },
+        {
+          "t": 1799,
+          "kind": "stat",
+          "text": "Wave 56 is one of the most dangerous waves, with a mage, ranger and two blobs."
+        },
+        {
+          "t": 1829,
+          "kind": "tip",
+          "text": "From wave 57 each wave has a mage, ranger and melee, all of which must be isolated under the melee's dig timer; priorities are melee first, then mage, then ranger, and the west pillar is irrelevant by then."
+        },
+        {
+          "t": 1860,
+          "kind": "stat",
+          "text": "Gnomonkey considers wave 63 the most difficult wave of the Inferno, 'the works': a mage, ranger, melee and two blobs; never start it below 99 HP and be prepared to rotate south."
+        },
+        {
+          "t": 1889,
+          "kind": "stat",
+          "text": "Wave 64 is still very dangerous with a mage, ranger and double melee, but safer than the double blob waves."
+        },
+        {
+          "t": 1922,
+          "kind": "stat",
+          "text": "Wave 65 is double ranger and mage, easy to solve but with the risk of a 'wombo combo' spawn where both instantly see you; get away from the mage and pray ranged."
+        },
+        {
+          "t": 1922,
+          "kind": "stat",
+          "text": "Wave 66 is free: just double mages, so pray mage and start with only the twisted bow on."
+        },
+        {
+          "t": 1950,
+          "kind": "tip",
+          "text": "As soon as the last mage of wave 66 dies all pillars instantly go down, so do not stand next to one, and pause this wave as Jad is next."
+        }
+      ]
+    },
+    {
+      "name": "TzTok-Jad",
+      "kind": "boss",
+      "claims": [
+        {
+          "t": 1982,
+          "kind": "stat",
+          "text": "In the Inferno, Jad spawns in the northwest corner, can max a 113, has more health than Fight Caves Jad, and its healers are more dangerous with a max of 18."
+        },
+        {
+          "t": 1982,
+          "kind": "tip",
+          "text": "Gnomonkey would not pray Rigor during the single Jad wave unless you have around 6 restores, and with fewer than 4 restores you should flick Jad as much as possible; damage is calculated when the projectile is on screen so you can safely turn the prayer off."
+        },
+        {
+          "t": 2011,
+          "kind": "method",
+          "text": "Stand west of where Jad spawns since healers never spawn east of Jad, letting you tag them easily; five healers spawn when Jad reaches half HP."
+        },
+        {
+          "t": 2011,
+          "kind": "method",
+          "text": "Gnomonkey tags healers by manually Blood Barraging clumps of them with the bow on, or by standing close to Jad and piping all five, or with the twisted bow if uncomfortable."
+        },
+        {
+          "t": 2037,
+          "kind": "method",
+          "text": "After tagging all five, enter melee range of Jad praying melee, run up and down in front of him so the healers stack, wait for his next attack to protect, then run through Jad so the healers get stuck behind him, then Blood Barrage them to get to 99 HP before triples."
+        },
+        {
+          "t": 2080,
+          "kind": "opinion",
+          "text": "Gnomonkey says triple Jads are a lot easier than people make them out to be, just really intimidating; before starting you can overbrew, restore stats and optionally drink a Bastion."
+        },
+        {
+          "t": 2092,
+          "kind": "method",
+          "text": "Start triples by praying Rigor and attacking the southern Jad, doing one action per protected attack, exactly as with a single Jad."
+        },
+        {
+          "t": 2092,
+          "kind": "stat",
+          "text": "The triple Jads are nine-tick attackers instead of the usual eight-tick, giving a clean 3 ticks (nearly 2 full seconds) between each attack, and each has only three healers."
+        },
+        {
+          "t": 2120,
+          "kind": "method",
+          "text": "Start triples one tile away from Jad in line with the southern Jad's southwest tile to get healers stuck on each other; a healer behind you does not need tagging, and walking backwards two tiles can make healers stick on each other."
+        },
+        {
+          "t": 2153,
+          "kind": "method",
+          "text": "After the first Jad move to the next, standing southwest of the northwestern Jad for the same healer trap; Gnomonkey once tagged all three healers with one barrage when they surrounded Jad's southwest tile."
+        },
+        {
+          "t": 2182,
+          "kind": "tip",
+          "text": "Before the final Jad pause the wave, probably turn Rigor off unless you have a ton of resources, stand west of the Jad and tag healers like the single Jad, then do not run around afterwards as run energy does not recover once a wave pauses and you need it for Zuk."
+        }
+      ]
+    },
+    {
+      "name": "TzKal-Zuk",
+      "kind": "boss",
+      "claims": [
+        {
+          "t": 2211,
+          "kind": "opinion",
+          "text": "Gnomonkey argues Zuk is the hardest part of the Inferno: not particularly difficult mechanics, but a mistake likely gets you killed instantly."
+        },
+        {
+          "t": 2211,
+          "kind": "stat",
+          "text": "You must stay behind a moving shield wall at all times during Zuk; if he catches you outside the wall his max hit is 251, which Gnomonkey says is the highest damage of any NPC in the game."
+        },
+        {
+          "t": 2237,
+          "kind": "stat",
+          "text": "There are four safe-spot tiles from Zuk's attacks; as soon as Zuk juts his leg forward his attack is calculated and hits you or the wall, and as soon as his leg moves you can move to the next safe spot, always staying ahead of the wall (which is further than it looks, like a true tile)."
+        },
+        {
+          "t": 2269,
+          "kind": "stat",
+          "text": "The wall starts moving in a random direction; after it bounces three times and hits the third side, the first set of rangers and mages spawns and a 3.5 minute timer starts, after which another set spawns (usually two sets with a twisted bow)."
+        },
+        {
+          "t": 2295,
+          "kind": "stat",
+          "text": "Zuk has 1,200 HP; when damaged to 600 HP the timer pauses and 1 minute 45 seconds is added, and at 480 HP he spawns a Jad behind you and the timer resumes."
+        },
+        {
+          "t": 2295,
+          "kind": "tip",
+          "text": "Gnomonkey recommends having a friend time you on Discord or using an external timer plugin with a sidebar and big start button: start when the first set spawns, pause at 600 HP and start again at 480 HP."
+        },
+        {
+          "t": 2328,
+          "kind": "stat",
+          "text": "At 240 HP Zuk becomes enraged and spawns healers; from then the safe spots are irrelevant and you must stay with the wall as he attacks much more quickly."
+        },
+        {
+          "t": 2328,
+          "kind": "stat",
+          "text": "Zuk's healers are the most dangerous part of the fight: they rapidly heal him until tagged, then throw fireballs for 5 to 10 damage each, and two on you at once can stack for as much as a 50, which is why Gnomonkey wants four brews for Zuk."
+        },
+        {
+          "t": 2362,
+          "kind": "tip",
+          "text": "There are dead zones, the three tiles between the right and left safe spots, where clicking Zuk makes your character run to the inner safe spot before shooting, which can cost you a Zuk hit."
+        },
+        {
+          "t": 2362,
+          "kind": "method",
+          "text": "Before the Zuk fight overbrew with a spare brew, restore stats and sip a Bastion; with four or more restores leave Rigor on and do not take it off, as Zuk is a DPS fight."
+        },
+        {
+          "t": 2392,
+          "kind": "method",
+          "text": "On starting the wave a cutscene spawns you three tiles from the centre of the shield; if timed well you can get two shots off before the shield reaches a wall and Zuk fires his first attack, then follow the wall moving to the next safe spot whenever he fires."
+        },
+        {
+          "t": 2422,
+          "kind": "opinion",
+          "text": "Gnomonkey does not like off-ticking the sets and does not usually recommend it on a first cape, since it is unnecessary with a twisted bow and good supplies."
+        },
+        {
+          "t": 2422,
+          "kind": "method",
+          "text": "On a left-side wall spawn the ranger spawns in front of you: dump blowpipe specs for damage, kill it before tagging the mage, and as a last resort send a twisted bow shot from the third safe spot; if it still lives, put on Justiciar, tag the mage and tank the ranger."
+        },
+        {
+          "t": 2453,
+          "kind": "method",
+          "text": "On a right-side wall spawn the mage spawns in front: tag it immediately, wait on the inner safe spot until Zuk fires with your pipe equipped, kill the ranger quickly, and save pipe specs until the ranger damages you to recover health."
+        },
+        {
+          "t": 2486,
+          "kind": "method",
+          "text": "After the ranger dies keep mage prayer and Rigor on, ignore the mage and DPS Zuk to 600 HP, which should take about a minute on average; then you can kill the mage."
+        },
+        {
+          "t": 2518,
+          "kind": "method",
+          "text": "At 480 HP tag the spawned Jad immediately before it hits your shield; you can hit Jad from any safe spot, its healers always spawn on the near side so one barrage tags all three, then get back on Zuk."
+        },
+        {
+          "t": 2549,
+          "kind": "method",
+          "text": "Get Zuk as close to 240 HP as you safely can, because below 310 health your twisted bow can start the healers; Gnomonkey sends healers if he has at least a minute on the clock, otherwise waits for the next set."
+        },
+        {
+          "t": 2580,
+          "kind": "method",
+          "text": "Send healers as the wall is about to move away from the wall with a twisted bow shot (a second if needed), then equip the pipe and tag them all, praying Rigor and Redemption; if healers do not start, wait for the wall to hit the other side and retry."
+        },
+        {
+          "t": 2610,
+          "kind": "method",
+          "text": "After tagging the first healer there is a pause when you cannot attack them as they turn towards you; tag the first then second, hit them again if time allows, then tag the third and fourth, moving to the end of the wall to avoid damage, and brew up when HP drops below 50."
+        },
+        {
+          "t": 2637,
+          "kind": "tip",
+          "text": "A really common death is not being aggressive with healers, losing ticks and letting them live too long; keep sending pipe shots even while brewing."
+        },
+        {
+          "t": 2666,
+          "kind": "tip",
+          "text": "After the healers die, return to Zuk, stay with the shield and handle any new sets; you can leave the mage alive and keep DPSing Zuk until he dies, even with two mages up and mage prayer on."
+        }
+      ]
+    },
+    {
+      "name": "Infernal cape",
+      "kind": "item",
+      "claims": [
+        {
+          "t": 0,
+          "kind": "stat",
+          "text": "The infernal cape provides a +4 strength bonus over the fire cape."
+        },
+        {
+          "t": 2688,
+          "kind": "stat",
+          "text": "A first Inferno completion rewards the infernal cape and allows you to select the Inferno on Slayer tasks."
+        }
+      ]
+    },
+    {
+      "name": "Jal-nibRak",
+      "kind": "item",
+      "claims": [
+        {
+          "t": 0,
+          "kind": "opinion",
+          "text": "Gnomonkey considers the Nibbler pet one of the cooler pets in the game."
+        },
+        {
+          "t": 2696,
+          "kind": "stat",
+          "text": "A standard Inferno completion has a 1 in 100 chance of the Nibbler pet, 1 in 50 if done on task, and another 1 in 100 chance if you sacrifice the cape."
+        },
+        {
+          "t": 2696,
+          "kind": "stat",
+          "text": "For pet grinding, Gnomonkey gives rates of 1 in 50 off task with cape sacrifices and 1 in 43 on task with sacrifices."
+        }
+      ]
+    },
+    {
+      "name": "Inferno Slayer task",
+      "kind": "activity",
+      "claims": [
+        {
+          "t": 2696,
+          "kind": "opinion",
+          "text": "Gnomonkey says Inferno tasks are some of the best experience rates in the game for Slayer if completed relatively quickly."
+        },
+        {
+          "t": 2696,
+          "kind": "stat",
+          "text": "Zuk grants 100,000 Slayer XP himself and each monster gives its own Slayer XP, netting roughly 125,000 Slayer XP per task."
+        },
+        {
+          "t": 2726,
+          "kind": "tip",
+          "text": "Gnomonkey says speedrunning the Inferno on task is completely different from a regular run and highly recommends trying it after your first cape; the Inferno Speedrun Discord and Gear Discord have resources."
+        }
+      ]
+    },
+    {
+      "name": "Inferno RuneLite setup",
+      "kind": "activity",
+      "claims": [
+        {
+          "t": 1195,
+          "kind": "tip",
+          "text": "The most important RuneLite setup is tagging all monsters via NPC indicators by typing 'Jal*', which tags anything starting with Jal, and showing tiles on the monsters so you can see how they stack behind the pillar like Tetris pieces."
+        },
+        {
+          "t": 1211,
+          "kind": "tip",
+          "text": "Gnomonkey recommends the external Fight Caves Waves plugin, set to show common monster names, to display which monsters appear next wave, and the GPU plugin to show the whole arena."
+        },
+        {
+          "t": 1241,
+          "kind": "tip",
+          "text": "He advises against marking too many tiles, only what you need; his tile markers can be imported by copying the code from the description and right-clicking the world map and selecting import while inside the Inferno."
+        }
+      ]
+    },
+    {
+      "name": "Gnomonkey",
+      "kind": "person",
+      "claims": [
+        {
+          "t": 2696,
+          "kind": "record",
+          "text": "As of May 2021, Gnomonkey says he had just recently gotten his first sub-60-minute Inferno run after some attempts."
+        },
+        {
+          "t": 2726,
+          "kind": "tip",
+          "text": "Gnomonkey also recommends the full 6 Jad Challenge after the Inferno, saying it is truly difficult but fun and yields a transmog for your Jad pet."
+        },
+        {
+          "t": 2756,
+          "kind": "opinion",
+          "text": "Gnomonkey says he rewatched 25X's Twisted Bow teaching stream repeatedly 'like a Bible' before going for his first cape, and recommends Hayo and Xzact for more information."
+        },
+        {
+          "t": 2296,
+          "kind": "trivia",
+          "text": "Gnomonkey says he was a solo player until he made his YouTube channel."
+        },
+        {
+          "t": 2749,
+          "kind": "opinion",
+          "text": "Gnomonkey highly recommends watching full Inferno runs to get ideas for solving waves."
+        }
+      ]
+    }
+  ]
+}

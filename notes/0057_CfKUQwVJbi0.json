@@ -1,0 +1,108 @@
+{
+  "id": "CfKUQwVJbi0",
+  "title": "Movement Guide (High Level PVM (Raids/Inferno)/Skilling) OSRS 2020",
+  "date": "2020-12-09",
+  "type": "guide",
+  "summary": "A guide to OSRS movement mechanics for high-level PvM and skilling: the tick system, true tile, running over hazards, diagonal and L running, pathfinding, click-queue priority, ping effects, training tools, and how monsters path. Gnomonkey argues that knowing exactly where your character will go gives huge control for avoiding hazards.",
+  "outline": [
+    {"t": 0, "text": "Why movement is an overlooked mechanic"},
+    {"t": 26, "text": "The tick system and walking versus running"},
+    {"t": 47, "text": "True tile and running over hazards"},
+    {"t": 82, "text": "Boss mechanics you can run through, and ones with line of sight checks"},
+    {"t": 124, "text": "Diagonal movement and L running"},
+    {"t": 204, "text": "Predictable pathfinding and the Pathfinder plugin"},
+    {"t": 251, "text": "Being dragged towards a monster: moving and attacking on the same tick"},
+    {"t": 290, "text": "Tick queues: the second click takes priority"},
+    {"t": 330, "text": "How world ping affects timing"},
+    {"t": 365, "text": "Training: Hallowed Sepulchre, True Tile, Metronome plugins"},
+    {"t": 408, "text": "Bank standing manoeuvres"},
+    {"t": 436, "text": "Monster pathfinding, safespots and corner trapping"}
+  ],
+  "topics": [
+    {
+      "name": "Game tick",
+      "kind": "mechanic",
+      "claims": [
+        {"t": 0, "kind": "opinion", "text": "Gnomonkey says movement is one of the most overlooked mechanics in RuneScape, and that knowing where your character will go after you click gives a huge degree of control and helps avoid hazards in PvM and skilling."},
+        {"t": 26, "kind": "stat", "text": "The game updates every 0.6 seconds, which is a game tick, so 100 game ticks pass per minute."},
+        {"t": 26, "kind": "stat", "text": "You move one tile per tick while walking and two tiles per tick while running."},
+        {"t": 26, "kind": "method", "text": "Clicking something queues that action for the next tick, so your character moves towards where you clicked as soon as the next tick starts."},
+        {"t": 290, "kind": "method", "text": "Because actions are queued per tick, if you click somewhere at the start of a tick and somewhere else near the end of the same tick, the second click takes priority as the next tick's action."},
+        {"t": 290, "kind": "tip", "text": "Gnomonkey says this threw him off while learning Raids 2 in particular because so many actions in the raid are tick perfect."},
+        {"t": 303, "kind": "trivia", "text": "While learning the Scythe walk at Verzik phase 2, Gnomonkey was clicking off Verzik and back onto her so fast that both clicks landed in the same tick, which stopped his character from running away and got him bounced by Verzik every time."},
+        {"t": 303, "kind": "opinion", "text": "Gnomonkey says OSRS is basically a rhythm game and getting a rhythm for the tick system greatly improves clicks and timings in all aspects of the game."}
+      ]
+    },
+    {
+      "name": "True tile",
+      "kind": "mechanic",
+      "claims": [
+        {"t": 56, "kind": "method", "text": "While running you are not moving the whole distance from the game's perspective; you effectively teleport two tiles per game tick, skipping every other tile."},
+        {"t": 56, "kind": "method", "text": "The highlight current true tile option and the tile indicators plugin show this: the blue tile is where you actually are from the server's perspective."},
+        {"t": 56, "kind": "tip", "text": "Because of the true tile, you can run over traps in the Rogues' Den without getting hit, and the same applies in many PvM situations."},
+        {"t": 56, "kind": "tip", "text": "Gnomonkey says lightning in the Hydra fight, the Olm fight, the Gauntlet, and Verzik phase 3 can all be run through if properly timed."},
+        {"t": 89, "kind": "tip", "text": "Bosses' ground splats that damage you can be run over for free, including Maiden's blood splats from her and her blood spawns, Vorkath's acid (though Gnomonkey would not recommend running in that fight), and Zalcano's red ground traps, which can be run over the corners."},
+        {"t": 89, "kind": "tip", "text": "You can also run right over the skull bombs in Verzik's phase two."},
+        {"t": 89, "kind": "stat", "text": "Some attacks have line of sight checks that hit you regardless of running: Xarpus's poison, Galvek's wave walls, and the arrow trap in the Hallowed Sepulchre."},
+        {"t": 365, "kind": "tip", "text": "Gnomonkey says the True Tile plugin feature is extremely useful because it is always accurate to the server, so you always know where you are."}
+      ]
+    },
+    {
+      "name": "L running",
+      "kind": "mechanic",
+      "claims": [
+        {"t": 122, "kind": "method", "text": "You can move two tiles in any direction in one tick, including diagonally, so you technically cover distance fastest diagonally; a shorter distance is not always faster."},
+        {"t": 122, "kind": "method", "text": "L running means running in an L to any of the eight tiles two away from you, all of which can be reached in a single game tick."},
+        {"t": 149, "kind": "tip", "text": "On Verzik phase 1, Gnomonkey and a teammate left at the same time to the right side of her and arrived on the same tick even though his character ran diagonally rather than a shorter path."},
+        {"t": 149, "kind": "tip", "text": "On floor four of the Hallowed Sepulchre, clearing the long arrow trap most efficiently requires clicking two tiles ahead of your true tile to avoid the next arrow, and you can always move out of the way in one tick when clicking properly."},
+        {"t": 179, "kind": "method", "text": "You cannot run through objects, so the best you can do is path around them in an L or directly around a corner."},
+        {"t": 179, "kind": "stat", "text": "Running diagonally one tile normally uses no run energy because you can walk a diagonal tile in one tick, but pathing around an obstacle wastes run energy for very little distance covered, which comes into play at Bloat in the Theatre of Blood."},
+        {"t": 211, "kind": "method", "text": "Your character always runs in a straight line before moving diagonally, so L running means running straight along any sized L you click to and then diagonally for the last tile."},
+        {"t": 211, "kind": "tip", "text": "Gnomonkey says mastery of this is useful for nearly any boss that requires movement, with the most obvious use being the Sotetseg mazes in the Theatre, where L movements and diagonal running let you get through the maze without wasting ticks."}
+      ]
+    },
+    {
+      "name": "Pathfinding",
+      "kind": "mechanic",
+      "claims": [
+        {"t": 179, "kind": "method", "text": "The game always paths you the shortest distance, and this is predictable if you know how it works."},
+        {"t": 211, "kind": "tip", "text": "Turning on the Pathfinder external plugin shows exactly how your character will path to any game tile."},
+        {"t": 396, "kind": "tip", "text": "Gnomonkey says the Pathfinding plugin on the plugin hub may help you understand where your character is going to go; he learned before it existed so did not use it, but calls it a great training tool."},
+        {"t": 436, "kind": "method", "text": "Monsters path differently from your character: the game calculates everything for monsters from their south-westernmost tile, and as far as the game sees it that is the only tile that matters."},
+        {"t": 454, "kind": "method", "text": "Monsters always path their south-westernmost tile east or west towards you before they path north or south, and a one-tile monster's south-western tile is its only tile."},
+        {"t": 454, "kind": "method", "text": "Safespots work on monsters because if the south-western tile tries to walk towards you but the rest of the body is blocked, the monster stands motionless unable to reach you."},
+        {"t": 482, "kind": "method", "text": "Corner trapping a monster is used a lot in the Inferno and in raids for mystics. If a monster is diagonally a tile away from you it always tries to path east or west towards you, so if you stand east or west of it and its east and west directions are blocked by obstacles, it never reaches you."}
+      ]
+    },
+    {
+      "name": "Dragging",
+      "kind": "mechanic",
+      "claims": [
+        {"t": 241, "kind": "method", "text": "If you click a monster outside your attack range, you are dragged towards it and attack, so your character moves and attacks on the exact same game tick."},
+        {"t": 241, "kind": "tip", "text": "This is visible when players take a first-hit twisted bow shot running up to a boss in the Theatre of Blood, then click to continue running so they reach the boss at the same time as the rest of the team."},
+        {"t": 273, "kind": "tip", "text": "Gnomonkey says this is most heavily abused at Olm in the Chambers of Xeric, but is useful for almost every boss."},
+        {"t": 273, "kind": "tip", "text": "When meleeing, if a boss exits an invulnerability period you can stand up to two tiles away and still hit it on the first tick, as if you were standing right next to it."}
+      ]
+    },
+    {
+      "name": "Ping",
+      "kind": "mechanic",
+      "claims": [
+        {"t": 330, "kind": "method", "text": "World ping does not affect what you click, but visual or sound cues you react to are delayed by the ping time, so you need to click a bit earlier to offset it."},
+        {"t": 339, "kind": "stat", "text": "On a standard West Coast world, Gnomonkey usually gets 20 to 30 ms of ping, roughly one twentieth of a tick of lag; on an Australian server he gets about 200 ms, about one third of a tick to correct for."},
+        {"t": 339, "kind": "tip", "text": "If you are not used to higher ping you can lose ticks even while moving if you do not click earlier."}
+      ]
+    },
+    {
+      "name": "Movement training tools",
+      "kind": "other",
+      "claims": [
+        {"t": 365, "kind": "tip", "text": "Gnomonkey highly suggests training Agility at the Hallowed Sepulchre to get a feel for L running, diagonal running and ticks in general; it is how he got his own feel for them."},
+        {"t": 365, "kind": "opinion", "text": "Gnomonkey says Hallowed Sepulchre agility makes ridiculous money at then-current ring prices and is the best Agility XP in the game."},
+        {"t": 365, "kind": "tip", "text": "The Metronome plugin is always accurate to game ticks; Gnomonkey finds it annoying to use but says it is great for training you to the tick timings."},
+        {"t": 408, "kind": "trivia", "text": "Gnomonkey lists named bank-standing movement tricks: the loop-de-loop and pull, the box trot, the boxer, the baby spike dance, the spike dance, the super spike dance, the slip and slide, and more yet to be named."},
+        {"t": 424, "kind": "tip", "text": "Bank-standing manoeuvres efficiently waste run energy as quickly as possible, and Gnomonkey suggests practising them while waiting in the Chambers of Xeric lobby for teammates to gear up."}
+      ]
+    }
+  ]
+}

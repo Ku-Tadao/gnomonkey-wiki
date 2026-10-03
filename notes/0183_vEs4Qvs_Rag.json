@@ -1,0 +1,237 @@
+{
+  "id": "vEs4Qvs_Rag",
+  "title": "EASY 300 ToA Budget Guide (OSRS)",
+  "date": "2024-10-24",
+  "type": "guide",
+  "summary": "A beginner-friendly walkthrough of a full 300 raid level Tombs of Amascut run in roughly 65-70 mil of budget gear, completed in about 40 minutes. Gnomonkey explains his gear, invocations, the monkey room, each path boss, and the Wardens including Insanity, and argues learners should work their raid level up to 400 for double the purple chance.",
+  "outline": [
+    {"t": 0, "text": "Gear setup: Blue Moon armour, Fang, Burning claws, bone dagger and switches"},
+    {"t": 171, "text": "Invocations for a 300 (softcore, walk the path, deadly prayers, Insanity)"},
+    {"t": 255, "text": "Using Gearscape to check the best weapon per boss; total setup cost about 65 mil"},
+    {"t": 428, "text": "Prepotting and the monkey room"},
+    {"t": 551, "text": "Baba fight"},
+    {"t": 752, "text": "Kephri fight"},
+    {"t": 1037, "text": "Supply ghost: salts, and the Akkha puzzle"},
+    {"t": 1157, "text": "Akkha fight"},
+    {"t": 1514, "text": "Zebak puzzle and fight"},
+    {"t": 1793, "text": "Wardens part one: taking life, supplies, skulls"},
+    {"t": 2163, "text": "Wardens Insanity phase"},
+    {"t": 2389, "text": "Final Wardens phase with ambrosia"},
+    {"t": 2617, "text": "Loot, raid progression to 400s and which invocations to add"}
+  ],
+  "topics": [
+    {
+      "name": "Tombs of Amascut",
+      "kind": "raid",
+      "claims": [
+        {"t": 0, "kind": "tip", "text": "Gnomonkey says you do not need much gear or advanced tech to get through a 300 raid level Tombs of Amascut, and shows a full 300 run as a beginner-friendly guide."},
+        {"t": 2542, "kind": "record", "text": "Gnomonkey completes this 300 ToA in about 40 minutes (he says roughly 39 minutes) while explaining as he goes, in about 70 mil of gear."},
+        {"t": 2563, "kind": "opinion", "text": "Gnomonkey says raid level is always worth increasing for loot as long as you can still complete the raid, and that this stops being true above roughly 500."},
+        {"t": 2619, "kind": "stat", "text": "Gnomonkey believes a 300 raid level gives about a 1 in 20 purple chance and a 400 raid level about 1 in 9 to 1 in 11, roughly double the purple chance, and tells viewers not to quote him exactly."},
+        {"t": 2619, "kind": "opinion", "text": "Gnomonkey recommends that people learning Tombs of Amascut work their way up to 400 raid levels because 400s have a much better purple chance and are where the money is, and says you do not need much gear for 400s."},
+        {"t": 2563, "kind": "tip", "text": "Gnomonkey advises raising raid level a little at a time, adding another 25 raid level whenever you are comfortable."},
+        {"t": 2647, "kind": "opinion", "text": "Gnomonkey says 300s still make a decent amount of money, but 400s are what everybody making good money from Tombs of Amascut does."},
+        {"t": 2642, "kind": "event", "text": "Gnomonkey's 300 run ends with a roughly 600k drop, which he calls pretty good for a 300."},
+        {"t": 0, "kind": "trivia", "text": "Gnomonkey says he made this guide on request for beginner-friendly ToA guides after returning to his main account, noting that with Moons of Peril out, getting into ToA and other raids is faster and easier than the typical Barrows grind (video description)."}
+      ]
+    },
+    {
+      "name": "Tombs of Amascut gear setup",
+      "kind": "item",
+      "claims": [
+        {"t": 26, "kind": "method", "text": "For this 300 ToA, Gnomonkey wears Blue Moon armour instead of melee armour because it has a strength bonus, so it works as melee armour, and it also has noticeable crush defence for tanking Baba's punches."},
+        {"t": 59, "kind": "method", "text": "Gnomonkey wears a Serpentine helm in ToA because it is fairly tanky and protects against venom, and says buying a Neitiznot faceguard later when you have money is great but the Serpentine helm works for now."},
+        {"t": 59, "kind": "method", "text": "Gnomonkey wears an Amulet of fury as a one-way setup and uses Barrows gloves as his ranging gloves too, so he needs few gear switches; he also wears a Fire cape and dragon boots."},
+        {"t": 85, "kind": "opinion", "text": "Gnomonkey calls the Osmumten's fang (about 13 mil at the time) the most powerful weapon in his inventory for this raid."},
+        {"t": 85, "kind": "tip", "text": "Gnomonkey reminds viewers to charge their Trident of the swamp, because it does nothing without charges; his mage switch also uses an imbued mage cape, Book of the Dead offhand and an occult necklace."},
+        {"t": 115, "kind": "method", "text": "Gnomonkey's range switch for ToA is a blowpipe with Barrows gloves and an assembler, plus a crossbow; he also brings a dragon dagger (DDS) for the Warden core."},
+        {"t": 355, "kind": "stat", "text": "Gnomonkey says the whole 300 ToA setup costs about 65 mil (he first reads it as about 70 mil), and the video later describes it as roughly 70 mil gear."},
+        {"t": 376, "kind": "tip", "text": "Gnomonkey says anyone who has a Phosani's-style upgrade (sand few) can bring it as anti-poison; he wears anti-poison at all times with his Serpentine helm."},
+        {"t": 376, "kind": "opinion", "text": "Gnomonkey tells beginners not to bring Barrage to ToA and to bring thralls instead, saying the monkey room is easy these days and does not require ancient magicks."},
+        {"t": 409, "kind": "stat", "text": "Gnomonkey says thralls usually make up around 5 to 10 percent of your DPS in ToA, and matter even more with weak or budget gear, so they noticeably speed up the raid."}
+      ]
+    },
+    {
+      "name": "Burning claws",
+      "kind": "item",
+      "claims": [
+        {"t": 115, "kind": "opinion", "text": "Gnomonkey calls Burning claws an extremely high-value special attack weapon at around 20 to 23 mil, and says they are the best spec weapon in ToA until you hit raid level 375."},
+        {"t": 144, "kind": "tip", "text": "Gnomonkey says Burning claws must be put on the stab style in ToA, as most things there are weak to stab over slash, and if they are not on stab they will be very bad."},
+        {"t": 695, "kind": "tip", "text": "Gnomonkey prefers Burning claws over dragon claws in ToA because dragon claws do not spec using slash defence while Burning claws can, so Burning claws are really strong in the raid."},
+        {"t": 967, "kind": "stat", "text": "Gnomonkey notes Burning claw specs hit a consistent 40 on Kephri, and the red hitsplats are burn damage dealing an additional 10 damage over time."}
+      ]
+    },
+    {
+      "name": "Bone dagger",
+      "kind": "item",
+      "claims": [
+        {"t": 144, "kind": "tip", "text": "Gnomonkey explains that the Bone dagger special attack uses 75% of the spec meter and is a guaranteed hit if it is the first hit of the fight, draining whatever you hit."},
+        {"t": 171, "kind": "opinion", "text": "Gnomonkey calls the Bone dagger a discount Bandos godsword in ToA, and opens boss fights with its special attack to make bosses squishy."},
+        {"t": 571, "kind": "stat", "text": "Gnomonkey says the maximum Bone dagger drain on Baba is 20, and a hit of 16 is almost the maximum; the bigger the hit, the easier the room."},
+        {"t": 850, "kind": "tip", "text": "Gnomonkey says Kephri has a bug where the Bone dagger cannot normally be used on her, but if you use it right as she gets up from the phase and spam click, it is a guaranteed hit and lasts until her health turns red at the end of the fight."}
+      ]
+    },
+    {
+      "name": "Tombs of Amascut invocations",
+      "kind": "mechanic",
+      "claims": [
+        {"t": 171, "kind": "method", "text": "Gnomonkey's invocation setup for this 300 ToA is softcore, walk the path and deadly prayers, with Insanity and upset stomach on, no timers and no supply invocations."},
+        {"t": 198, "kind": "tip", "text": "Gnomonkey says ToA is all about having many invocation options, so if one is giving you a struggle you can turn it off and turn something else on."},
+        {"t": 224, "kind": "opinion", "text": "Gnomonkey says the invocation Feeling Special is one of the only ones that makes your life easier."},
+        {"t": 224, "kind": "tip", "text": "Gnomonkey says softcore gives you three lives, so you can get back into the raid if you die."},
+        {"t": 2653, "kind": "tip", "text": "Gnomonkey says hardcore is an obvious invocation to add while learning because you only lose money when you die, giving a free 10 raid level."},
+        {"t": 2653, "kind": "tip", "text": "Gnomonkey recommends Pathseeker as a really obvious invocation, worth 15 raid level, as it gives all bosses an extra path level."},
+        {"t": 2683, "kind": "tip", "text": "Gnomonkey says Aerial assault makes Kephri's bombs hit a 3x3 and can be added, and that Akkha invocations are hard but can be learned slowly."},
+        {"t": 2683, "kind": "tip", "text": "Gnomonkey says Mind the gap is easy as long as you do not stand in the middle when Baba phases, and Boulder dash can be handled by killing the boulders faster and running through."},
+        {"t": 2683, "kind": "tip", "text": "Gnomonkey says Acceleration and Penetration only make the Wardens a little tougher and are doable; as you improve, start cranking the supplies invocation down."},
+        {"t": 2717, "kind": "opinion", "text": "Gnomonkey says he would never turn on overly draining (all specs cost 100 percent) or dehydration (you cannot drink brews), calling them 500 raid level things that are not worth it."},
+        {"t": 2749, "kind": "tip", "text": "Gnomonkey says timer invocations are only worth turning on if you will actually make the time (such as 40 minutes); otherwise you get less raid level and a lower purple chance."},
+        {"t": 2776, "kind": "opinion", "text": "Gnomonkey jokes that the Overlords invocation is trolling, but says it is an option if you just want harder raids."}
+      ]
+    },
+    {
+      "name": "Gearscape",
+      "kind": "other",
+      "claims": [
+        {"t": 224, "kind": "tip", "text": "Gnomonkey uses the Gearscape DPS calculator (gearscape.net) for all his calcs and says to plug your setup in before a raid, entering every weapon combination and the potions you will use."},
+        {"t": 284, "kind": "tip", "text": "Gnomonkey says Gearscape has a groups option that lets you put the entire ToA raid into the calculator at once and scroll through the best weapon for each boss."},
+        {"t": 284, "kind": "tip", "text": "Gnomonkey uses Gearscape to answer questions like whether the Osmumten's fang is worth using on a given boss; for example he found the blowpipe better than the fang on Akkha's shadows, and the fang better on the obelisk and very close on Wardens P3."},
+        {"t": 316, "kind": "tip", "text": "Gnomonkey says Gearscape also has a best setup tool where you can import gear with a RuneLite plugin or enter an amount of money and pick bosses, and it tells you the best option for that boss."},
+        {"t": 343, "kind": "opinion", "text": "Gnomonkey advises checking the calculator rather than doing things blindly in a raid, noting he covered this in depth in his ultimate account building guide."}
+      ]
+    },
+    {
+      "name": "Baba",
+      "kind": "boss",
+      "claims": [
+        {"t": 428, "kind": "tip", "text": "Gnomonkey does Baba first in ToA because his prepotting helps most in that room."},
+        {"t": 571, "kind": "method", "text": "Gnomonkey opens Baba by entering and immediately using the Bone dagger special to drain her, then continues with a crossbow, melee claws and specs."},
+        {"t": 597, "kind": "tip", "text": "In Baba's fight, Gnomonkey says to avoid her AoE attack and the rocks she drops, and to pull her towards a fallen rock because if you are not standing next to one when her thrown rock lands it does ten times more damage."},
+        {"t": 629, "kind": "tip", "text": "Gnomonkey says that if things go badly and you are not near a rock, you can take half damage by standing next to a sarcophagus in Baba's room, and that the open sarcophagi are worth keeping in mind."},
+        {"t": 629, "kind": "tip", "text": "Gnomonkey says to kill the small baboons in Baba's room because they do a lot of damage, and that a crossbow one-shots them easily; you can run straight through the yellow line."},
+        {"t": 663, "kind": "tip", "text": "Gnomonkey says Baba throws boulders again every 33% of her health, so you should stay ahead of where the boulders spawn and get near them."},
+        {"t": 722, "kind": "stat", "text": "Gnomonkey used one brew on Baba and says you should expect to use between one and two brews on average."},
+        {"t": 629, "kind": "tip", "text": "Gnomonkey says every time you full brew you should re-pot with a super combat."}
+      ]
+    },
+    {
+      "name": "Monkey room",
+      "kind": "mechanic",
+      "claims": [
+        {"t": 428, "kind": "method", "text": "In the ToA monkey room Gnomonkey drops three potions, prays melee, grabs a hammer and grabs a potion before starting."},
+        {"t": 428, "kind": "method", "text": "In the monkey room, colour-coded baboons take a guaranteed max hit if you use the correct style: melee the green ones, ranged the blue ones and mage the red ones, so one-way switches can kill them all."},
+        {"t": 476, "kind": "tip", "text": "Gnomonkey says the only baboons that do not get one-shot in the monkey room are the shamans, which summon little thralls that hit you."},
+        {"t": 508, "kind": "tip", "text": "Gnomonkey says you do need Piety and that prayer one-way is enough to kill everything in the monkey room."},
+        {"t": 508, "kind": "tip", "text": "Cursed baboons leave a trail of venom that still does damage even with a Serpentine helm, so Gnomonkey says not to run through it."},
+        {"t": 508, "kind": "tip", "text": "Volatile baboons (the red ones, killed with mage) walk up and explode, and can blow up other monkeys; Gnomonkey says to avoid them while learning and later use their volleys to your advantage."},
+        {"t": 538, "kind": "trivia", "text": "Gnomonkey says a little known fact is that the small blue baboon thralls summoned by shamans also damage your prayer, so you want to avoid tanking many of them."},
+        {"t": 538, "kind": "opinion", "text": "Gnomonkey says that with the changes Jagex made, the monkey room is a lot easier than it used to be."}
+      ]
+    },
+    {
+      "name": "Kephri",
+      "kind": "boss",
+      "claims": [
+        {"t": 752, "kind": "method", "text": "Gnomonkey always does Kephri second, praying ranged through her puzzle room because small scarabs spawn and damage you, and does one puzzle, climbs through the hole and then does the next, avoiding the obelisk puzzle because it is slow."},
+        {"t": 784, "kind": "method", "text": "Gnomonkey opens Kephri with a claw special since she is weak to stab; when she surrounds you with bugs, step away from her to create a line, because you cannot walk through those lines."},
+        {"t": 817, "kind": "tip", "text": "Kephri summons eggs that explode, so Gnomonkey says not to stand next to them."},
+        {"t": 850, "kind": "tip", "text": "Gnomonkey says that once you are better at the raid you can shoot Kephri's swarms with a blowpipe to avoid her healing, though it does not matter while learning."},
+        {"t": 879, "kind": "method", "text": "Gnomonkey uses the swarm lines to trap one of the two bugs she summons when her health hits zero; the trapped one is melee only, leaving only the Magic scarab to deal with."},
+        {"t": 906, "kind": "opinion", "text": "Gnomonkey says everyone who knows ToA hates the Magic scarab, and says to kill it as fast as possible, using the fang or mage since it is weak to mage."},
+        {"t": 906, "kind": "tip", "text": "Every three large hitsplats on Kephri's Magic scarab make it jump to a different side of the room, per Gnomonkey."},
+        {"t": 939, "kind": "stat", "text": "Gnomonkey says if Kephri charges up the red swarms underneath her she slams you for around 60 damage; you can pray mage and survive, but it does a ton of damage."},
+        {"t": 967, "kind": "tip", "text": "Gnomonkey says to always kill the melee scarab on Kephri because it heals the boss consistently."},
+        {"t": 996, "kind": "tip", "text": "Gnomonkey says Kephri regains full defence on her last health bar once the Bone dagger drain wears off, and it is not worth bone daggering again."}
+      ]
+    },
+    {
+      "name": "Supply ghost",
+      "kind": "mechanic",
+      "claims": [
+        {"t": 1037, "kind": "event", "text": "Gnomonkey says you get a supply ghost in ToA every two bosses you kill."},
+        {"t": 1037, "kind": "opinion", "text": "Gnomonkey says to put a big red X on every supply ghost option except the salts, which you should take first every single time, even if other options look stacked."},
+        {"t": 1058, "kind": "stat", "text": "Gnomonkey says the salts from the supply ghost give the effect of an overload for a very long time (he believes ten minutes) and recharge your run energy, and are slightly better than an overload."},
+        {"t": 1082, "kind": "stat", "text": "Gnomonkey says the liquid adrenaline option gives half spec cost for two and a half minutes, so he saves it for the last boss."},
+        {"t": 1166, "kind": "tip", "text": "Gnomonkey notes the salts act as an overload, which restores your stats every 15 seconds, so you can drink the yellow potions a lot without causing issues."}
+      ]
+    },
+    {
+      "name": "Akkha",
+      "kind": "boss",
+      "claims": [
+        {"t": 1109, "kind": "stat", "text": "Gnomonkey says walk the path makes bosses level up as you complete them, and the only important thing is making sure Zebak does not reach level four, which he says is extremely rare or possibly impossible."},
+        {"t": 1140, "kind": "tip", "text": "For the Akkha mining puzzle, Gnomonkey uses the ToA plugin, which shows where to place the mirror and turns the statue green; clicking the obelisk as it turns green mines it a few ticks earlier."},
+        {"t": 1140, "kind": "stat", "text": "Gnomonkey says with 85 Mining and a dragon pickaxe you are guaranteed to one-down the Akkha puzzle rock; otherwise it takes two tries."},
+        {"t": 1167, "kind": "opinion", "text": "Gnomonkey calls Akkha the hardest room of the raid and very difficult."},
+        {"t": 1196, "kind": "method", "text": "Akkha swaps styles through the fight and starts red, meaning you must mage him; Gnomonkey notes he hits hard with melee while the other two styles do not hit as hard, so you take a lot of damage at the start."},
+        {"t": 1229, "kind": "tip", "text": "Gnomonkey explains Akkha's Simon says special: at level one it does four tiles, and they go off every two ticks."},
+        {"t": 1262, "kind": "tip", "text": "Akkha's shadows have low defence, so Gnomonkey uses a blowpipe on them, and says a crossbow may be slightly better than the blowpipe on regular Akkha."},
+        {"t": 1291, "kind": "tip", "text": "Gnomonkey says to stand still when your character turns black during Akkha's fight because moving spawns orbs that damage you."},
+        {"t": 1320, "kind": "tip", "text": "Gnomonkey says Akkha must be left in a quadrant until you damage him another 20% before the other shadows become vulnerable, and that you can only hit him down to the next 20% threshold, so finish with the blowpipe when he is low."},
+        {"t": 1412, "kind": "tip", "text": "Gnomonkey says Zebak uses basically no supplies, so your brews are only for Baba and Akkha, and a good time to brew is while running over to Akkha's phase because your stats recover while you are not damaging."},
+        {"t": 1439, "kind": "method", "text": "For Akkha's final phase Gnomonkey prays mage, uses claws, can summon a melee thrall, keeps true tiles on, and just spams damage while dodging; he says to spam brew if you drop below about 40 health, and he used two brews on it."}
+      ]
+    },
+    {
+      "name": "Zebak",
+      "kind": "boss",
+      "claims": [
+        {"t": 1514, "kind": "method", "text": "Gnomonkey uses a crossbow on Zebak and says you can guarantee finishing the puzzle by running up and using your jug on the water, which is a tick faster, then on the tree, so you beat the first lizard spawn."},
+        {"t": 1559, "kind": "method", "text": "Gnomonkey re-ups his salt before entering Zebak's room, turns on Piety, runs straight at Zebak and uses the Bone dagger special before running away, as getting bitten kills you; he hit a 20, the full drain."},
+        {"t": 1559, "kind": "opinion", "text": "Gnomonkey says the Osmumten's fang looks like better DPS on Zebak but he checked and it is close yet surprisingly not better than the crossbow."},
+        {"t": 1589, "kind": "tip", "text": "Gnomonkey stays on the left side of Zebak's room because the acid puzzle solution is always there, blocking three tiles behind it so you can stand on either of two tiles to avoid the roar."},
+        {"t": 1621, "kind": "tip", "text": "Zebak's waves come from behind you, and the solution for that attack is always in the middle of the room, so staying on the left then the middle always gives a solve; Gnomonkey notes the waves are only eight tiles."},
+        {"t": 1659, "kind": "tip", "text": "Gnomonkey says Zebak's blood clots (the tomatoes) run you over and heal the boss if they hit you, but they are dumb and disappear if you avoid them; standing on the red tiles on the other side of the room stops them reaching you."},
+        {"t": 1715, "kind": "tip", "text": "Gnomonkey says to keep the jugs while fighting Zebak and throw them into the crocodile's mouth to feed him during the rage phase, with attacks three ticks apart."},
+        {"t": 1747, "kind": "tip", "text": "Gnomonkey says you can flick prayer to catch Zebak's blood barrage so you are not forced to tank it, or you can just tank it for about a 9 hit."}
+      ]
+    },
+    {
+      "name": "Wardens",
+      "kind": "boss",
+      "claims": [
+        {"t": 1793, "kind": "tip", "text": "Gnomonkey says to take life from the final supply ghost every time, which gives unlimited potions so you can throw unused pots into the jar."},
+        {"t": 1860, "kind": "tip", "text": "Gnomonkey recommends changing your shift click to Resupply so shift-clicking the life jar refills a dose of any potion, including scarabs, salts and ambrosia."},
+        {"t": 1875, "kind": "method", "text": "Gnomonkey opens the Wardens by drinking liquid adrenaline, spamming claws and tanking skulls while doing no damage, then using the fang as his best DPS; the first phase involves taking a lot of damage."},
+        {"t": 1894, "kind": "tip", "text": "Which Warden you fight is decided by tanking the skulls on the left side, per Gnomonkey, who says the skull damage is unavoidable with no mechanic."},
+        {"t": 1928, "kind": "method", "text": "Gnomonkey starts the Wardens mage phase every time, brewing as needed, and says you can tank melee hits to take a little less damage."},
+        {"t": 1960, "kind": "stat", "text": "Gnomonkey tests augury at the Wardens and finds it makes a difference of three max hit, concluding you must pray augury."},
+        {"t": 1991, "kind": "method", "text": "When the Wardens' core comes out, Gnomonkey uses a dragon dagger, hits his adrenaline and spams specs, getting five specs into one big hit; he says the number of hits depends on how much damage you dealt at the beginning."},
+        {"t": 2023, "kind": "tip", "text": "Gnomonkey says skulls do not hit you if you stand in a line two tiles away from them, and says this is probably the most dangerous special attack; he also says to remember your salt or you will do no damage."},
+        {"t": 2074, "kind": "stat", "text": "Gnomonkey says if you have a scarab active you basically have unlimited prayer, and that Wardens P2 is the biggest supply drain and does a lot of damage."}
+      ]
+    },
+    {
+      "name": "Insanity",
+      "kind": "mechanic",
+      "claims": [
+        {"t": 198, "kind": "opinion", "text": "Gnomonkey says the Insanity invocation is not as bad as people think and is easy to deal with once taught."},
+        {"t": 2177, "kind": "tip", "text": "Gnomonkey explains that Insanity gives the Wardens a three tick attack speed, so you need to walk every three ticks: two ticks safe, one tick where you take damage."},
+        {"t": 2177, "kind": "tip", "text": "Gnomonkey says under Insanity the skulls kill you if you do not kill them fast enough; the first set spawns at 20% health down in the middle, so you stand where you are."},
+        {"t": 2241, "kind": "tip", "text": "Gnomonkey says that during Insanity you should stand at the back because it takes longer for attacks to hit there, giving you time to react to where they were, and that Insanity picks up where it left off so you do not have to remember anything."},
+        {"t": 2270, "kind": "method", "text": "Gnomonkey says for the second set of skulls under Insanity you stand on the left side, and for the last set it is the same as the second, left side all the way."},
+        {"t": 2300, "kind": "tip", "text": "Gnomonkey says there is no tick to react to the animation from the front row, so you must pre-move; standing further than the green lines means you will get hit every time."},
+        {"t": 2331, "kind": "stat", "text": "Gnomonkey says at 60% Zebak spawns and shoots random prayers at you, and Baba drops rocks, but as long as you are moving every three ticks the rocks never hit you."},
+        {"t": 2300, "kind": "tip", "text": "Gnomonkey says to start at the bottom and work your way up for one of the Insanity skull sequences."}
+      ]
+    },
+    {
+      "name": "Ambrosia",
+      "kind": "item",
+      "claims": [
+        {"t": 1860, "kind": "stat", "text": "Gnomonkey describes Ambrosia as a cheat code potion that gives full overhealed health and full prayer, and he has four doses in his bag."},
+        {"t": 2392, "kind": "tip", "text": "Gnomonkey says that if you have four sips of ambrosia for the last Wardens phase you have effectively unlimited health, which is the part that trips people up."},
+        {"t": 2501, "kind": "tip", "text": "Gnomonkey says that in a 300 you do not even have to dodge at the end of the Wardens fight as long as you have doses of ambrosia; you can just camp a prayer and hit it."}
+      ]
+    },
+    {
+      "name": "Wardens final phase",
+      "kind": "mechanic",
+      "claims": [
+        {"t": 2392, "kind": "method", "text": "Once the Wardens drop to 5% health, Gnomonkey says to dodge lightning, do shots, and hit a scarab for unlimited prayer; he switches to the fang when the boss is low because ruby bolts are not worth it at low health."},
+        {"t": 2419, "kind": "tip", "text": "Gnomonkey says to keep waiting for ruby bolt procs on the final Wardens phase and that if you do not get them you may panic and brew and tank damage, but the boss still dies."},
+        {"t": 2501, "kind": "tip", "text": "Gnomonkey says he has a bunch of damage-avoiding methods for the final phase but you do not need any of them in a 300; just bring your ambrosia."}
+      ]
+    }
+  ]
+}

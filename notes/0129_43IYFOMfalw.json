@@ -1,0 +1,106 @@
+{
+  "id": "43IYFOMfalw",
+  "title": "SOLO HMT ft.  Cersei Lannister (OSRS)",
+  "date": "2023-10-29",
+  "type": "challenge",
+  "summary": "Gnomonkey's first completed solo Theatre of Blood hard mode run, achieved after days of trial and error and roughly 200-300 attempts, with a Cersei Lannister Halloween cosplay incentive from September's 1000 subs. He narrates the room-by-room differences from regular solo ToB and finishes with zero deaths and an overall time of 11148 ticks (as stated). He sums up the experience as brutal, with Nylocus the hardest part.",
+  "outline": [
+    {"t": 0, "text": "Introduction: why solo hard mode ToB is so hard"},
+    {"t": 35, "text": "Maiden of Sugadinti attempts"},
+    {"t": 332, "text": "Nylocus Vasilias room strategy and priorities"},
+    {"t": 645, "text": "Sotetseg: two balls, zero-supply room"},
+    {"t": 982, "text": "Xarpus: limited space and back-tiling"},
+    {"t": 1283, "text": "Supply planning before Verzik"},
+    {"t": 1377, "text": "Verzik P1 and P2 differences"},
+    {"t": 2012, "text": "Verzik P3, green ball redemption trick"},
+    {"t": 2424, "text": "Completion, chest, and review of the experience"}
+  ],
+  "topics": [
+    {
+      "name": "Theatre of Blood: Hard Mode",
+      "kind": "raid",
+      "claims": [
+        {"t": 0, "kind": "opinion", "text": "Gnomonkey considers a solo Theatre of Blood hard mode run the hardest thing in Old School RuneScape outside of speedrunning: take solo ToB and multiply its difficulty several times over."},
+        {"t": 0, "kind": "stat", "text": "In hard mode ToB, each room is harder, fewer supplies are given, and more supplies are needed to complete a run than in regular ToB."},
+        {"t": 0, "kind": "opinion", "text": "Gnomonkey says the Nylocus Vasilias room is easily the hardest boss in the entire game, even harder than Awakened Leviathan."},
+        {"t": 0, "kind": "trivia", "text": "Only a handful of people had completed a solo hard mode ToB; the description puts it at approximately 20-30 people, and Gnomonkey did not think he would ever attempt it."},
+        {"t": 2424, "kind": "record", "text": "Gnomonkey completed his first solo hard mode ToB with zero deaths and an overall time stated as 11148 and a tick, after days of trial and error and roughly 200-300 attempts."},
+        {"t": 2424, "kind": "event", "text": "The successful solo HMT run was the very last run of a Halloween Cersei Lannister cosplay stream, which was a subscriber incentive for reaching 1000 subs in September."},
+        {"t": 2451, "kind": "trivia", "text": "The completion chest gave no purple (no unique drop); the loot was around 400k."},
+        {"t": 2484, "kind": "opinion", "text": "Gnomonkey summarises the solo hard mode ToB experience as one that sucks: Maiden is an RNG-dependent room with roughly a two in three chance of getting through, Bloat is six minutes of nothing, Nylocus is interesting but probably the hardest thing in the game, Sotetseg is normal Sotetseg with two balls, Xarpus is hard with limited tiles, and Verzik is winnable."},
+        {"t": 0, "kind": "tip", "text": "The description credits SamSquanches, Chriskies and Flash, described as solo HMT masters, for guidance."}
+      ]
+    },
+    {
+      "name": "Maiden of Sugadinti",
+      "kind": "boss",
+      "claims": [
+        {"t": 2484, "kind": "opinion", "text": "Gnomonkey says solo hard mode Maiden of Sugadinti depends heavily on RNG, giving something like a two in three chance of even getting through the room."},
+        {"t": 123, "kind": "event", "text": "During the Maiden attempts, Gnomonkey comments that the Dragon Warhammer RNG was bad, a factor he cites in the description alongside misplays."},
+        {"t": 304, "kind": "event", "text": "The Maiden room took around seven minutes in the successful run, which Gnomonkey says is unusually long and attributes to unlucky swings."}
+      ]
+    },
+    {
+      "name": "Nylocus Vasilias",
+      "kind": "boss",
+      "claims": [
+        {"t": 331, "kind": "method", "text": "Hard mode Nylocus Vasilias is about priorities and making the best possible move at all times."},
+        {"t": 331, "kind": "method", "text": "In hard mode, hitting the wrong Nylocus damages the player for 8 damage, unlike regular ToB, so spamming Blood Barrage does not work."},
+        {"t": 331, "kind": "tip", "text": "Gnomonkey still protects the bottom right pillar as in regular solo ToB, because all four pillars dropping kills the player on the spot."},
+        {"t": 365, "kind": "tip", "text": "There are three demiboss spawns in the hard mode Nylocus room, and Gnomonkey uses them as cover from Nylocus aggro the entire time, preventing damage without needing to kill them."},
+        {"t": 365, "kind": "method", "text": "Moving a demiboss to a bad tile by accident instantly ends a hard mode Nylocus run, because all the aggro Nylocus can then reach the player."},
+        {"t": 398, "kind": "tip", "text": "The highest priority in hard mode Nylocus is killing any aggro Nylocus, as off-prayer hits from them stack up very fast and can max over 20; Gnomonkey pre-fires any Nylocus coming down that will attack him."},
+        {"t": 398, "kind": "tip", "text": "A second priority is killing the small Nylocus and eating the pillars, because a pillar dropping too early sends all the Nylocus after you and you cannot feasibly tank all of them."},
+        {"t": 398, "kind": "tip", "text": "Gnomonkey says piping Nylocus with the Toxic blowpipe is his top priority whenever possible, as it is by far the best weapon for killing them."},
+        {"t": 425, "kind": "tip", "text": "Melee is by far Gnomonkey's best style for DPS in the Nylocus room, so he tosses it a swing when possible."},
+        {"t": 451, "kind": "tip", "text": "The boss needs to die at a specific time and be low enough that Gnomonkey can finish it when needed; keeping health high is the last priority, using blood blitz, blood barrage and pipe specs to keep HP up."},
+        {"t": 510, "kind": "tip", "text": "When the third demiboss is about to drop, Gnomonkey clears enough Nylocus out of the room for it to spawn, pulling the aggro Nylocus from the fallen pillars to the far end of the room, tanking them, then running through the boss to get them stuck."},
+        {"t": 2484, "kind": "opinion", "text": "Gnomonkey calls the hard mode Nylocus room interesting but probably the hardest thing in the entire game."}
+      ]
+    },
+    {
+      "name": "Sotetseg",
+      "kind": "boss",
+      "claims": [
+        {"t": 632, "kind": "method", "text": "Hard mode Sotetseg is basically the same as regular ToB, except the player has to tick two balls."},
+        {"t": 632, "kind": "tip", "text": "Gnomonkey treats hard mode Sotetseg as a zero-supply room by using a prayer flicking pattern to reduce prayer usage."},
+        {"t": 2484, "kind": "opinion", "text": "Gnomonkey describes hard mode Sotetseg as just normal Sotetseg, but with two balls."}
+      ]
+    },
+    {
+      "name": "Xarpus",
+      "kind": "boss",
+      "claims": [
+        {"t": 984, "kind": "method", "text": "Hard mode Xarpus is very similar to regular ToB, except there is far less space to work with, meaning you have to play perfectly."},
+        {"t": 1010, "kind": "method", "text": "In hard mode Xarpus the sides are covered, so the poison cannot go there, which leaves less space to work with."},
+        {"t": 1010, "kind": "tip", "text": "Gnomonkey had to learn how to back tile in entry mode, an awkward attack pattern that allows poison to be placed a little more freely."},
+        {"t": 1100, "kind": "tip", "text": "Once out of room at hard mode Xarpus, Gnomonkey keeps doing a walk underneath Xarpus, similar to the Vespula technique, and says he would have run out of prayer without playing well; he hit every hammer."},
+        {"t": 2514, "kind": "opinion", "text": "Gnomonkey says he loves Xarpus and describes the hard mode version as Xarpus with limited tiles that is really hard."}
+      ]
+    },
+    {
+      "name": "Verzik Vitur",
+      "kind": "boss",
+      "claims": [
+        {"t": 1377, "kind": "tip", "text": "Verzik P1 in hard mode is the same as in regular solo ToB; Gnomonkey alternates sides because she drops rocks around the pillars, and a mage hit can hit over ninety-nine."},
+        {"t": 1501, "kind": "method", "text": "In hard mode, Verzik P2 is very different from regular ToB: her lightning only maxes at 14, so the player does not need to constantly tick-eat it."},
+        {"t": 1501, "kind": "method", "text": "In hard mode Verzik P2, her bombs drop poison, so the player has to avoid the crab pop tile."},
+        {"t": 1718, "kind": "method", "text": "At 35%, only one red crab spawns in hard mode Verzik instead of two, so the fight can be done completely normally without tick-eating for 15 minutes."},
+        {"t": 1718, "kind": "opinion", "text": "Gnomonkey asks Jagex to change regular solo ToB so the 35% red crab phase works like the hard mode one."},
+        {"t": 2021, "kind": "method", "text": "Verzik P3 in hard mode is just an extremely long normal P3 fight; the player has to make as few mistakes as possible so supplies hold out, and uses ancient godsword effects where possible for health."},
+        {"t": 2133, "kind": "tip", "text": "Gnomonkey describes a green ball redemption trick: it works the same as tick-eating the green ball, but only works with Redemption prayer, not by eating normal food."},
+        {"t": 2133, "kind": "tip", "text": "He takes his Blood Fury off while swinging at Verzik P3 to prevent healing, because healing too much can prevent Redemption from going off and kill him."},
+        {"t": 1283, "kind": "tip", "text": "Before Verzik, Gnomonkey and his helpers discuss supplies: five extra doses of prayer, divine potion at the start of P2, three restores for P3, no flicking in P3 and two shield charges for the red phase."},
+        {"t": 2514, "kind": "opinion", "text": "Gnomonkey concludes hard mode Verzik is winnable."}
+      ]
+    },
+    {
+      "name": "Gnomonkey",
+      "kind": "person",
+      "claims": [
+        {"t": 0, "kind": "event", "text": "Gnomonkey says he would do anything for money, even something as torturous as attempting solo hard mode ToB; the video was tied to a subscriber and gifted-sub incentive."},
+        {"t": 0, "kind": "event", "text": "The description credits subs and gifters in September for helping the channel reach 1000 subs in the month, which unlocked the Halloween Cersei Lannister cosplay incentive."}
+      ]
+    }
+  ]
+}

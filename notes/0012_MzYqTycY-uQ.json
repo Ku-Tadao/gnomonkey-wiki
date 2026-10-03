@@ -1,0 +1,182 @@
+{
+  "id": "MzYqTycY-uQ",
+  "title": "Nechryael BURSTING GUIDE OSRS (250k+ magic xp/70k+ slayer xp)",
+  "date": "2019-08-27",
+  "type": "guide",
+  "summary": "A guide to bursting Nechryael in the Slayer Tower catacombs with ancient magicks for 250k+ Magic XP and 70k+ Slayer XP an hour. It covers requirements, gear, inventory, using an alt account to loot, the bursting method, and dealing with Nechryarch superiors.",
+  "outline": [
+    {
+      "t": 0,
+      "text": "Intro and requirements"
+    },
+    {
+      "t": 29,
+      "text": "Gear: weapon, armor and prayer bonus"
+    },
+    {
+      "t": 86,
+      "text": "Accessories and boots"
+    },
+    {
+      "t": 117,
+      "text": "Inventory"
+    },
+    {
+      "t": 144,
+      "text": "Alt account and alchemy"
+    },
+    {
+      "t": 171,
+      "text": "Where and how to burst"
+    },
+    {
+      "t": 203,
+      "text": "Death spawn damage and superior Nechryarch"
+    },
+    {
+      "t": 241,
+      "text": "Loot example and closing thoughts"
+    }
+  ],
+  "topics": [
+    {
+      "name": "Nechryael",
+      "kind": "boss",
+      "claims": [
+        {
+          "t": 0,
+          "kind": "opinion",
+          "text": "Gnomonkey considers Nechryael one of the best monsters to get as a Slayer task and one of the most rewarding in the game for gp and XP, making 80 Slayer worth pursuing."
+        },
+        {
+          "t": 0,
+          "kind": "stat",
+          "text": "Bursting Nechryael can provide upwards of 250k Magic XP an hour and 70k+ Slayer XP an hour with the Magic level for Ice Barrage."
+        },
+        {
+          "t": 0,
+          "kind": "requirement",
+          "text": "Nechryael take 80 Slayer to damage, and bursting needs at minimum 70 Magic to cast Ice Burst and Blood Burst."
+        },
+        {
+          "t": 29,
+          "kind": "requirement",
+          "text": "94 Magic unlocks Ice Barrage and boosts kill speed by about 25%; the player must also pray Protect from Melee at all times, requiring 43+ Prayer."
+        },
+        {
+          "t": 29,
+          "kind": "stat",
+          "text": "Nechryael only have level 1 Magic, so they have basically no magic defence, which allows wearing armor such as proselyte while still bursting effectively."
+        },
+        {
+          "t": 171,
+          "kind": "method",
+          "text": "There are two rooms in the Slayer Tower catacombs where Nechryael can be burst, right next to each other; players typically hop a couple of times to find a free room."
+        },
+        {
+          "t": 171,
+          "kind": "method",
+          "text": "Once in a room, flick on Protect from Melee, tag all the Nechryael with darts since they are not aggressive, and run back and forth on the corner of the room until they stack into a giant pile, then autocast the best ice spell."
+        },
+        {
+          "t": 203,
+          "kind": "stat",
+          "text": "Death spawn released by Nechryael hit with typeless damage that maxes at 1, draining health slowly over time; casting the best Blood Burst restores 20 to 40 HP immediately, and a Saradomin godsword can supplement to save runes."
+        },
+        {
+          "t": 241,
+          "kind": "stat",
+          "text": "Gnomonkey made 1.3 million from a single 30 minute Nechryael task, plus two totem pieces and a hard clue casket, which easily paid for the runes used."
+        }
+      ]
+    },
+    {
+      "name": "Nechryarch",
+      "kind": "boss",
+      "claims": [
+        {
+          "t": 203,
+          "kind": "stat",
+          "text": "If the Nechryarch superior comes within melee range, it spawns three types of chaotic spawn using magic, melee and ranged, each of which can max 7 with very high accuracy and quickly tear through health."
+        },
+        {
+          "t": 218,
+          "kind": "tip",
+          "text": "The best approach is to get the Nechryarch stuck behind other Nechryael and keep bursting it until it dies, since if it cannot reach the player it never spawns chaotic spawn."
+        },
+        {
+          "t": 218,
+          "kind": "tip",
+          "text": "If chaotic spawn do appear, run a few rooms away until it loses aggro, then keep bursting it as before."
+        }
+      ]
+    },
+    {
+      "name": "Nechryael bursting gear",
+      "kind": "other",
+      "claims": [
+        {
+          "t": 29,
+          "kind": "tip",
+          "text": "For burst tasks the only gear stats that matter are magic damage and prayer bonus."
+        },
+        {
+          "t": 58,
+          "kind": "tip",
+          "text": "The weapon should be able to autocast ancient magicks: an ancient staff, master wand or Kodai wand; Gnomonkey brings a Kodai wand but notes it is very expensive."
+        },
+        {
+          "t": 58,
+          "kind": "tip",
+          "text": "The ancient staff reduces prayer bonus by 5, so Gnomonkey would try to bring at least a master wand."
+        },
+        {
+          "t": 58,
+          "kind": "tip",
+          "text": "Ancestral robes give a massive magic damage bonus; without them wear the best prayer-boosting armor, and void is not a bad option if bursting off task."
+        },
+        {
+          "t": 86,
+          "kind": "tip",
+          "text": "A cult necklace (Occult necklace) gives a 10% damage bonus for around 800k and an imbued god cape gives 2%; a Book of Darkness gives +5 prayer bonus and Gnomonkey would bring it over an arcane spirit shield."
+        },
+        {
+          "t": 86,
+          "kind": "tip",
+          "text": "Gnomonkey recommends a tormented bracelet (5% damage bonus) or Barrows gloves, devout boots for +5 prayer bonus (he used mystic boots in the video), and a blessing for prayer bonus."
+        },
+        {
+          "t": 117,
+          "kind": "tip",
+          "text": "Inventory: runes for Blood and Ice Burst or Barrage (a rune pouch saves space), darts to tag Nechryael, optionally a holy wrench, gem and herb bag, a Xeric's talisman and teleport gloves back to Duradel, a Saradomin godsword and around ten prayer potions."
+        },
+        {
+          "t": 144,
+          "kind": "tip",
+          "text": "Gnomonkey says the Saradomin godsword is not needed and is only a tiny bit of prayer and health restoration."
+        }
+      ]
+    },
+    {
+      "name": "Alternate account",
+      "kind": "account",
+      "claims": [
+        {
+          "t": 144,
+          "kind": "tip",
+          "text": "An alt account makes bursting easier: a brand new level 3 account can loot drops and run back and forth to the bank since monsters up to Nechryael are not aggressive."
+        },
+        {
+          "t": 144,
+          "kind": "tip",
+          "text": "An account with level 55 Magic that can cast high alchemy can stay until the task is finished alching drops."
+        },
+        {
+          "t": 171,
+          "kind": "tip",
+          "text": "Without an alt account Gnomonkey suggests an Explorer's ring 4, which can cast high and low alchemy 30 times each, allowing only one burst task per day if the player wants to pick up the loot."
+        }
+      ]
+    }
+  ]
+}

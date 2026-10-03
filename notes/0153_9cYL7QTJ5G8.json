@@ -1,0 +1,90 @@
+{
+  "id": "9cYL7QTJ5G8",
+  "title": "WIKI GUIDES - Whisperer",
+  "date": "2024-05-10",
+  "type": "challenge",
+  "summary": "Gnomonkey fights the Whisperer twice in his 'Wiki Guides' series: first with the OSRS Wiki's worst-allowed mage downgrades (Infinity hat, Amulet of power, etc.), then with a budget setup from the Gearscape tool. The worst-gear kill took 448.6 seconds and the budget setup about 3:50, which he found a smaller gain than the stat difference suggested. He also criticises the wiki's downgrades as unrealistic for accounts with Desert Treasure 2 done.",
+  "outline": [
+    {"t": 0, "text": "Setting up the wiki's worst Whisperer mage downgrades given Desert Treasure 2 is required"},
+    {"t": 85, "text": "Fighting the Whisperer in the downgraded gear; Rune thrownaxe special for Lost Souls"},
+    {"t": 210, "text": "Sanity mechanic, soul bounce and enrage observations"},
+    {"t": 298, "text": "First kill time of 448.6 seconds"},
+    {"t": 314, "text": "Using Gearscape to build a 9 million gp budget setup"},
+    {"t": 400, "text": "Second kill attempt with Infinity boots and Sears ring"},
+    {"t": 467, "text": "Expected time to kill checked; opinions on the boss and the budget bank tab export"},
+    {"t": 570, "text": "Comparing both setups' DPS and max hits"},
+    {"t": 586, "text": "Critique of the wiki's gear recommendations on Desert Treasure 2 boss pages"}
+  ],
+  "topics": [
+    {
+      "name": "Whisperer",
+      "kind": "boss",
+      "claims": [
+        {"t": 0, "kind": "requirement", "text": "The Whisperer requires the grandmaster quest Desert Treasure 2, which Gnomonkey says should make many low-tier gear downgrades irrelevant."},
+        {"t": 83, "kind": "stat", "text": "In Gnomonkey's setup the powered staff has nine tile range, the same as a Sanguinesti staff or Toxic trident, so he did not need freezes."},
+        {"t": 83, "kind": "method", "text": "Gnomonkey uses a powered staff on the Whisperer so he can use thralls, and drinks forgotten brews for a 10 magic level boost."},
+        {"t": 83, "kind": "method", "text": "Gnomonkey uses the Rune thrownaxe special attack to kill the Whisperer's Lost Souls."},
+        {"t": 194, "kind": "stat", "text": "Gnomonkey says the Whisperer's attack that bounces back only hits two targets rather than all three."},
+        {"t": 204, "kind": "opinion", "text": "Gnomonkey says awakening sanity loss is more concerning than the Whisperer's damage, and the end of the fight is the only scary part."},
+        {"t": 414, "kind": "stat", "text": "In the budget setup Gnomonkey's expected time to kill was 140 seconds, which the calculator says should be about two and a half minutes without downtime."},
+        {"t": 450, "kind": "opinion", "text": "Gnomonkey says the Whisperer is a boring boss in general and that it feels slow without Shadow, since the boss is balanced around having Shadow."},
+        {"t": 511, "kind": "opinion", "text": "Gnomonkey ranks the Whisperer roughly third among the Desert Treasure 2 bosses, saying Duke Sucellus is definitely worse."},
+        {"t": 585, "kind": "opinion", "text": "Gnomonkey finds the Whisperer's reduced damage taken while it does its special attack to be what makes the fight annoying."},
+        {"t": 630, "kind": "opinion", "text": "Gnomonkey suggests mage gear helps little against the Whisperer because there is so much downtime on the boss, so mage just does not do well here until you have Shadow."}
+      ]
+    },
+    {
+      "name": "Wiki Guides challenge series",
+      "kind": "challenge",
+      "claims": [
+        {"t": 0, "kind": "event", "text": "In this episode Gnomonkey fights the Whisperer using the worst possible gear downgrades listed on the OSRS Wiki's Whisperer page."},
+        {"t": 29, "kind": "stat", "text": "The wiki's Whisperer downgrades include Infinity hat and Farseer, a prayer mitre as a downgrade for the Farseer helmet, an Amulet of power instead of a glory, a skill cape instead of a Mage Arena 1 cape, a combat bracelet instead of Barrows gloves, Wizard boots and a Seers ring."},
+        {"t": 55, "kind": "opinion", "text": "Gnomonkey notes the wiki lists Mage's book as a downgrade to Malediction ward even though Mage's book is more expensive and harder to obtain."},
+        {"t": 109, "kind": "opinion", "text": "Gnomonkey says the wiki's highest-tier Whisperer gear is fairly accurate (Slayer helm or Ancestral, max mage, Shadow, Eternal boots, Torm, Magus), though Eldritch nightmare staff special over a Cursed sceptre is questionable."},
+        {"t": 454, "kind": "opinion", "text": "Gnomonkey says the point of the series is not to attack the wiki, and that some people were offended; he says it is a fun series meant to shed light on bad downgrade entries so the wiki can clean them up."},
+        {"t": 578, "kind": "record", "text": "The first Whisperer kill in the wiki's worst downgraded gear took 448.6 seconds (about 7:28), which Gnomonkey calls not that bad all considered."}
+      ]
+    },
+    {
+      "name": "Whisperer gear setups",
+      "kind": "other",
+      "claims": [
+        {"t": 29, "kind": "stat", "text": "Gnomonkey's downgraded setup has a max hit of 26 on the Whisperer with an Amulet of power, and the amulet's effect decays instantly."},
+        {"t": 314, "kind": "method", "text": "Gnomonkey used the Gearscape budget tool with a 9 million gp budget; its setup uses void mage and Infinity boots and reaches a max hit of 38 after boosting."},
+        {"t": 329, "kind": "opinion", "text": "Gnomonkey was surprised the budget tool recommends Infinity boots (about 400k) and a Sears ring, but says accuracy matters so the choice is plausible."},
+        {"t": 338, "kind": "opinion", "text": "Gnomonkey says Moon (Lunar-themed) gear is turning out more okay than he expected, and that it is very cheap and great for budgets."},
+        {"t": 457, "kind": "tip", "text": "Gnomonkey notes the Gearscape budget tool lets you export the generated setup straight to a bank tab."},
+        {"t": 570, "kind": "stat", "text": "The wiki's worst downgrade setup had a mage attack bonus of 143 and a 38 max hit; Gnomonkey says the budget setup had about 50% more magic accuracy and 50% higher max hit."},
+        {"t": 586, "kind": "record", "text": "The budget setup killed the Whisperer in about 3 minutes 50 seconds, roughly a minute faster and about 20% faster than the worst-gear kill, whereas Gnomonkey expected about two minutes saved."},
+        {"t": 598, "kind": "opinion", "text": "Gnomonkey says that despite the budget setup having 13 extra max hits, the improvement was smaller than he expected, and speculates bad gear is just bad at the Whisperer."}
+      ]
+    },
+    {
+      "name": "Opinion: OSRS Wiki gear recommendations",
+      "kind": "opinion",
+      "claims": [
+        {"t": 750, "kind": "opinion", "text": "Gnomonkey says the wiki's Desert Treasure 2 boss pages recommend downgrades such as Amulet of power or a God mitre when a Farseer helm is missing, which he calls insane for account progression."},
+        {"t": 780, "kind": "opinion", "text": "Gnomonkey criticises the wiki for listing Mage's book as a downgrade to Malediction ward and a combat bracelet when Barrows gloves are not owned on an account with Desert Treasure 2 done."},
+        {"t": 807, "kind": "opinion", "text": "Gnomonkey says some wiki downgrades are reasonable: the boot recommendations (an account might lack them) and the Seers ring make sense."},
+        {"t": 807, "kind": "opinion", "text": "Gnomonkey says listing a Mage Arena 1 cape as not the minimum is silly because an account with Desert Treasure 2 unlocked would have to be a maniac not to own a regular god cape."}
+      ]
+    },
+    {
+      "name": "Gearscape",
+      "kind": "other",
+      "claims": [
+        {"t": 479, "kind": "opinion", "text": "Gnomonkey calls the DPS calculator he uses (Gearscape) the best calculator available and says it is even better than the Oblivion spreadsheet and has replaced everything else."},
+        {"t": 457, "kind": "tip", "text": "Gnomonkey says Gearscape's budget tool can find the best setup for a given budget and export it as a bank tab."},
+        {"t": 414, "kind": "tip", "text": "Gearscape gives an expected time to kill (140 seconds for his budget setup on the Whisperer), which excludes downtime and specials."}
+      ]
+    },
+    {
+      "name": "Duke Sucellus",
+      "kind": "boss",
+      "claims": [
+        {"t": 0, "kind": "event", "text": "Gnomonkey says he will probably do Duke Sucellus next in the Wiki Guides series, followed by the rest of the Desert Treasure 2 bosses."},
+        {"t": 511, "kind": "opinion", "text": "Gnomonkey says Duke Sucellus is definitely a worse boss than the Whisperer."}
+      ]
+    }
+  ]
+}

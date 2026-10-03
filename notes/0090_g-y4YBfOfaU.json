@@ -1,0 +1,297 @@
+{
+  "id": "g-y4YBfOfaU",
+  "title": "Why Raids 3 Needs to be REWARDING (OSRS)",
+  "date": "2022-06-03",
+  "type": "news-opinion",
+  "summary": "Gnomonkey argues that Tombs of Amascut (Raids 3) and its invocation difficulty system must reward the highest-level players, using RS3's Telos with its enrage and killstreak loot system as his gold standard. He says past hard modes were effectively cosmetic, that elite players drive viewership, and that invocation rewards should scale exponentially.",
+  "outline": [
+    {
+      "t": 0,
+      "text": "The state of OSRS PvM: no original PvM since Nightmare"
+    },
+    {
+      "t": 47,
+      "text": "Raids 3 and invocations"
+    },
+    {
+      "t": 81,
+      "text": "Difficulty scaling goals"
+    },
+    {
+      "t": 138,
+      "text": "Existing raid limitations: Theatre of Blood versus Chambers"
+    },
+    {
+      "t": 173,
+      "text": "The elite player experience: Inferno speedruns, solo Theatre of Blood"
+    },
+    {
+      "t": 245,
+      "text": "Telos as a gold standard (RS3)"
+    },
+    {
+      "t": 324,
+      "text": "Mechanics of Telos: enrage and killstreaks"
+    },
+    {
+      "t": 461,
+      "text": "Risk versus reward analysis and Evil Lucario's gp/hr"
+    },
+    {
+      "t": 579,
+      "text": "Why high-level play matters"
+    },
+    {
+      "t": 647,
+      "text": "Concerns for Raids 3 rewards"
+    },
+    {
+      "t": 739,
+      "text": "The importance of the meta and viewership"
+    }
+  ],
+  "topics": [
+    {
+      "name": "Opinion: OSRS lacks rewarding end-game PvM",
+      "kind": "opinion",
+      "claims": [
+        {
+          "t": 0,
+          "kind": "opinion",
+          "text": "Gnomonkey says PvMers have been dying for content: there has been no original new PvM since the Nightmare released two years and four months earlier, and arguably none since Theatre of Blood four years earlier (skipping Sarachnis), as Nightmare's design pulled from Nex: Angel of Death in RS3."
+        },
+        {
+          "t": 0,
+          "kind": "opinion",
+          "text": "Gnomonkey says OSRS PvM has been living off hit-or-miss hard mode versions of existing content: Challenge Mode Chambers cranked defence on half the bosses and Muttadile exists, Phosani's Nightmare effectively replaced the original Nightmare, and Hard Mode Theatre of Blood is just a cosmetic grind before returning to regular mode."
+        },
+        {
+          "t": 579,
+          "kind": "opinion",
+          "text": "Gnomonkey says every other hard mode raid released ended up hilariously worse gp per hour than its regular counterpart, and that each hard mode raid was effectively only for cosmetics; Jagex seems afraid to reward players who put in more effort."
+        },
+        {
+          "t": 651,
+          "kind": "opinion",
+          "text": "Gnomonkey says a 13% increased rare drop rate for a 20% longer raid in Hard Mode Theatre of Blood, ignoring how much harder and more annoying it is, felt like a slap in the face."
+        },
+        {
+          "t": 579,
+          "kind": "opinion",
+          "text": "Gnomonkey says he knows many high-level PvMers who quit out of boredom after doing every piece of content and that many top streamers seem to play out of necessity more than joy."
+        }
+      ]
+    },
+    {
+      "name": "Tombs of Amascut",
+      "kind": "raid",
+      "claims": [
+        {
+          "t": 32,
+          "kind": "opinion",
+          "text": "Gnomonkey says the Raids 3 reward designs are now in an excellent place compared to other raid rewards, many players have tested the raid, and from community murmurs it lives up to design expectations."
+        },
+        {
+          "t": 60,
+          "kind": "event",
+          "text": "Tombs of Amascut (Raids 3) will add a difficulty scaling system called invocations: negative modifiers chosen ahead of the raid that make it harder but more rewarding."
+        },
+        {
+          "t": 94,
+          "kind": "opinion",
+          "text": "Gnomonkey guesses invocations might be things like the boss sapping prayer each attack or damaging tiles appearing periodically, giving complete customisability of difficulty; hyper-gamers like Woox and Exact would pile on invocations, and Jagex said the base-level raid with no invocations will likely be easier than Chambers or Theatre of Blood."
+        },
+        {
+          "t": 646,
+          "kind": "opinion",
+          "text": "Gnomonkey has serious concerns that Jagex will not make invocations rewarding enough, picturing rewards capped at a certain number of invocations (e.g. none past 10), which would make a set meta optimal and leave him incredibly disappointed."
+        },
+        {
+          "t": 680,
+          "kind": "opinion",
+          "text": "Gnomonkey says Raids 3 rewards should scale exponentially with each invocation, so whoever can consistently complete the raid with the most invocations gets by far the best loot and the best gp per hour in the game, though not necessarily 50m gp per hour."
+        },
+        {
+          "t": 646,
+          "kind": "opinion",
+          "text": "Gnomonkey believes if Raids 3 becomes the best gp by far for players willing to take many invocations, it could revitalise the PvM community, encouraging everyone from newbies to hardened players with a perfectly fleshed-out difficulty scaling."
+        },
+        {
+          "t": 765,
+          "kind": "opinion",
+          "text": "Gnomonkey warns that if invocation rewards are not worth it, the best players will make one piece of content about the hardest-difficulty raid and go back into hibernation, and says Jagex needs to blow this out of the park."
+        }
+      ]
+    },
+    {
+      "name": "Raid difficulty curves",
+      "kind": "opinion",
+      "claims": [
+        {
+          "t": 120,
+          "kind": "opinion",
+          "text": "Gnomonkey says a proper fleshed-out difficulty curve is really important for a good raid and the hyper-gamers are the players he worries about, having been shafted hardest by the lack of updates."
+        },
+        {
+          "t": 138,
+          "kind": "opinion",
+          "text": "Gnomonkey says Theatre of Blood is incredibly difficult and deep (with the Nylocas room a great example) but extremely punishing for new players, even with the entry mode; the raid ends if the whole team dies and everyone pays 100k to get their stuff back."
+        },
+        {
+          "t": 157,
+          "kind": "opinion",
+          "text": "Gnomonkey says Chambers of Xeric is incredibly easy to get into since you can die as many times as you want, but lacks Theatre of Blood's difficulty spice at a higher level."
+        },
+        {
+          "t": 173,
+          "kind": "opinion",
+          "text": "Gnomonkey says what is completely unexplored in OSRS is rewarding extremely high-level players; the deepest skill ceilings are very fast Inferno speedruns and solo Theatre of Blood."
+        }
+      ]
+    },
+    {
+      "name": "Inferno speedrunning",
+      "kind": "activity",
+      "claims": [
+        {
+          "t": 184,
+          "kind": "opinion",
+          "text": "Gnomonkey calls a fast Inferno speedrun 'a game of chess': the order monsters are killed in, where they are pulled to, and the reaction to each wave all change with your hits, how you get hit and the waves you get."
+        },
+        {
+          "t": 208,
+          "kind": "stat",
+          "text": "Gnomonkey says Inferno is negative money, which he cites as an example of pushing skill to the extreme without reward."
+        },
+        {
+          "t": 197,
+          "kind": "opinion",
+          "text": "Gnomonkey says solo Theatre of Blood (which he has not done yet and few have) requires near-perfect play: losing ticks in the Nylocas room, wasting tiles at Xarpus or missing a single tick eat over hundreds results in death; it is technically profitable if consistent but worse than duo Theatre of Blood for gp."
+        },
+        {
+          "t": 797,
+          "kind": "record",
+          "text": "Gnomonkey says his Inferno time had been pushed down to 51:23 at the time of the video and that he planned to get sub-50 on his stream."
+        }
+      ]
+    },
+    {
+      "name": "Telos",
+      "kind": "boss",
+      "claims": [
+        {
+          "t": 248,
+          "kind": "opinion",
+          "text": "Gnomonkey says you cannot talk about scaling difficulty in RuneScape without mentioning Telos; he killed Telos only once before moving to Old School, so most of his information comes from a video by Evil Lucario, who he calls effectively RS3's Woox."
+        },
+        {
+          "t": 248,
+          "kind": "event",
+          "text": "In March 2016 Jagex added God Wars Dungeon 2 to RuneScape 3 with four new generals (representing Saradomin-type gods Seren, Zamorak, Zaros and Sliske) and a final solo boss in the centre, Telos, accessible by killing each general, in a similar way to Nex; Telos was available a few months after the dungeon's release."
+        },
+        {
+          "t": 278,
+          "kind": "opinion",
+          "text": "Gnomonkey calls Telos easily the coolest boss added to RS3, mostly because of his reward system rather than his mechanics."
+        },
+        {
+          "t": 309,
+          "kind": "stat",
+          "text": "Telos dropped the first set of tier 92 weapons; Gnomonkey says OSRS Twisted bow and Scythe would be the equivalent of level 85 weapons in RS3."
+        },
+        {
+          "t": 309,
+          "kind": "method",
+          "text": "After a Telos kill, the game shows the drop, places it in a loot chest and rolls to increase his difficulty for the next kill by 5 to 20% randomly, called enrage."
+        },
+        {
+          "t": 339,
+          "kind": "method",
+          "text": "After a kill you can claim the chest loot and choose the enraged difficulty for the next kill (up to what you have unlocked), or leave the loot in the chest and fight him at the game-set difficulty; if you die in the next attempt you lose a huge chunk of the reward, you cannot teleport out of the fight, and dying ends your killstreak."
+        },
+        {
+          "t": 366,
+          "kind": "method",
+          "text": "On a consecutive kill the game checks your current killstreak and Telos' enrage to increase loot, places extra loot in the chest, and rolls enrage again; enrage scales up to a cap of 4000%."
+        },
+        {
+          "t": 395,
+          "kind": "stat",
+          "text": "It took the player base 13.5 months after release to obtain the first 4000% enraged kill; the chest stores a maximum of 200 kills of loot before you must claim it."
+        },
+        {
+          "t": 395,
+          "kind": "record",
+          "text": "Per a spreadsheet Gnomonkey checked, only 86 people had completed a single 200 killstreak, and only Evil Lucario and Mr. Bob had done a 4000% enrage for the entire 200 killstreak; for most streaks players started at 0% enrage and ended at roughly 2300%."
+        },
+        {
+          "t": 428,
+          "kind": "stat",
+          "text": "At 100% enrage on the first streak kill the base chance of a unique is 1/263; roughly every kill after 100 it caps at a maximum of 1/15."
+        },
+        {
+          "t": 461,
+          "kind": "method",
+          "text": "After 15 kills into a streak the loss on death caps at 25% of all rewards, so players must decide whether continuing is worth risking a valuable item; Gnomonkey says the loot system is rewarding enough that if you are confident, doing the next kill is always worth it."
+        },
+        {
+          "t": 491,
+          "kind": "method",
+          "text": "Elite Telos players spend on far more expensive ammunition and degradable armour to minimise risk, e.g. a Zenite-equivalent gem bolt costing the equivalent of 10k per bolt; Gnomonkey compares this to using Sandfuse in Inferno or sweets in a solo Theatre of Blood."
+        },
+        {
+          "t": 502,
+          "kind": "stat",
+          "text": "Evil Lucario tracked a month with eight successful Telos killstreaks and four failed ones, making 232m gp per hour with about 25m per hour supply cost, which Gnomonkey converts to roughly 46.4m gp per hour OSRS-equivalent with 5m per hour supplies; a third of the loot was not unique but regular loot from the high streak."
+        },
+        {
+          "t": 552,
+          "kind": "opinion",
+          "text": "Gnomonkey says the best way to make gp outside of getting a job and buying bonds was to not play OSRS but to do Telos in RS3 and swap the gold over, which he says is not more feasible than a real job."
+        }
+      ]
+    },
+    {
+      "name": "Opinion: High-level players drive OSRS viewership",
+      "kind": "opinion",
+      "claims": [
+        {
+          "t": 579,
+          "kind": "opinion",
+          "text": "Gnomonkey says high-level PvMers are the backbone of the game and players like Woox come out of hiding only with major content releases then go back to hibernation; these are the players who generate buzz and bring in new players."
+        },
+        {
+          "t": 615,
+          "kind": "opinion",
+          "text": "Gnomonkey says the best possible money in OSRS is either Nex (because most of the playerbase does not want to kill her while Torva has high demand) or boosting methods that do not progress an account."
+        },
+        {
+          "t": 651,
+          "kind": "opinion",
+          "text": "Gnomonkey says the thing that pulled him into the game originally was the gigantic Woox Inferno streams with thousands of viewers; he says Nex is not rewarding from an engagement standpoint so most of the high-level community moved on."
+        },
+        {
+          "t": 739,
+          "kind": "opinion",
+          "text": "Gnomonkey answers those who say the game need not cater to high-level players by saying their content drives viewership, which makes them the most important chunk of the playerbase; a skilling minigame or PvP update does not compare to a gigantic PvM release because even non-participants watch it."
+        },
+        {
+          "t": 767,
+          "kind": "opinion",
+          "text": "Gnomonkey says encouraging extreme high-level players to do content in the hardest way possible drives viewership, which gets people logging in, and the game cannot thrive without them."
+        }
+      ]
+    },
+    {
+      "name": "Gnomonkey",
+      "kind": "person",
+      "claims": [
+        {
+          "t": 797,
+          "kind": "event",
+          "text": "Gnomonkey says he was live on Twitch around the video's upload still chasing a sub-50 Inferno, with his best at 51:23, and that he was done 'throwing for content'."
+        }
+      ]
+    }
+  ]
+}

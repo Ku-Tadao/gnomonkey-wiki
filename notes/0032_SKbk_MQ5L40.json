@@ -1,0 +1,50 @@
+{
+  "id": "SKbk_MQ5L40",
+  "title": "Suqah Slayer Guide (60k SLAYER XP/HR) OSRS",
+  "date": "2020-05-01",
+  "type": "guide",
+  "summary": "A guide to Suqah Slayer tasks on Lunar Isle using a cannon. Gnomonkey says they are terrible for loot but give a clean 60k Slayer XP an hour and are a short task from Duradel.",
+  "outline": [
+    {"t": 0, "text": "Introduction, XP, task length and requirements"},
+    {"t": 18, "text": "Gear"},
+    {"t": 41, "text": "Inventory"},
+    {"t": 68, "text": "Fastest way to get to the Suqah"},
+    {"t": 86, "text": "Fighting them: prayer and tips"},
+    {"t": 118, "text": "Loot and results"}
+  ],
+  "topics": [
+    {
+      "name": "Suqah",
+      "kind": "other",
+      "claims": [
+        {"t": 0, "kind": "stat", "text": "Gnomonkey says Suqah give a clean 60k Slayer XP an hour, but their only drops are from the rare drop table."},
+        {"t": 0, "kind": "stat", "text": "Suqah tasks from Duradel are incredibly short, each taking about ten minutes, and have a weight of eight, so they come up fairly often."},
+        {"t": 0, "kind": "requirement", "text": "Suqah have no requirements to fight, but to be assigned them the player needs to have progressed Lunar Diplomacy up to getting to the island."},
+        {"t": 27, "kind": "tip", "text": "Gnomonkey says Suqah can smack you around quite a bit, so you may need more food with worse defensive gear."},
+        {"t": 68, "kind": "method", "text": "The fastest way to the Suqah is a lunar teleport portal at a player-owned house; Gnomonkey instead uses Fremennik sea boots and takes the boat to Lunar Isle, and a lyre or Relleka house teleport also work."},
+        {"t": 86, "kind": "method", "text": "On arrival Gnomonkey drops his cannon on a specific tile, drinks his divine super combat, and turns on piety and protect from magic."},
+        {"t": 86, "kind": "tip", "text": "Suqah randomly use magic attacks that do little damage but freeze the player, which is annoying, so Gnomonkey protects from magic."},
+        {"t": 86, "kind": "tip", "text": "Gnomonkey recommends grabbing some Suqah teeth on a first task, as they are used to protect spirit trees from disease."},
+        {"t": 113, "kind": "record", "text": "A task of 67 Suqah took Gnomonkey eight minutes, which he says is definitely one of the shorter tasks in the game."},
+        {"t": 113, "kind": "stat", "text": "Gnomonkey got 60k Slayer XP an hour on Suqah, which he calls incredibly good compared with most cannon tasks, but the loot was two rubies, about 6k gp."},
+        {"t": 113, "kind": "opinion", "text": "Gnomonkey says you do not do Suqah tasks for the loot but the incredible XP easily makes up for it."}
+      ]
+    },
+    {
+      "name": "Slayer",
+      "kind": "skill",
+      "claims": [
+        {"t": 27, "kind": "tip", "text": "For Suqah Gnomonkey says Bandos can be downgraded to fighter torso and obsidian legs, primordial boots to dragon boots, ferocious gloves to Barrows gloves, and torture to fury."},
+        {"t": 27, "kind": "tip", "text": "Gnomonkey brings a gem sack but skips the herb sack on Suqah because they only drop low-value herbs like guam and marrentill."},
+        {"t": 57, "kind": "tip", "text": "Gnomonkey brings a Saradomin godsword, bone crusher, wrench and cannon for Suqah, plus a divine super combat and six prayer potions, filling the rest of the inventory with food as they drop no loot."}
+      ]
+    },
+    {
+      "name": "Dwarf multicannon",
+      "kind": "item",
+      "claims": [
+        {"t": 57, "kind": "tip", "text": "Gnomonkey brings a cannon for Suqah tasks and says the Slayer XP rate is incredibly good compared with most cannon tasks."}
+      ]
+    }
+  ]
+}

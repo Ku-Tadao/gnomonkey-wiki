@@ -1,0 +1,133 @@
+{
+  "id": "Kkpwp3hQeSQ",
+  "title": "SUPER GIGA CM COX Speedrun (Leagues)",
+  "date": "2023-12-02",
+  "type": "speedrun",
+  "summary": "Gnomonkey does a Challenge Mode Chambers of Xeric solo speedrun in Leagues, finishing at 19:54, which he believes is the fastest in Leagues. He explains the new CoX update shaved at least a minute off everyone's time, and gives a short explanation of how to correct the blob prayer cycle.",
+  "outline": [
+    {
+      "t": 0,
+      "text": "Tekton opening, fastest Tekton ever at 1:24"
+    },
+    {
+      "t": 177,
+      "text": "Sub 21 hopes, early rooms"
+    },
+    {
+      "t": 282,
+      "text": "Explaining two-ticking blobs and correcting the blob cycle"
+    },
+    {
+      "t": 399,
+      "text": "Current record discussion (25:45 mentioned) and Leagues vs main game"
+    },
+    {
+      "t": 603,
+      "text": "Update impact: at least a minute saved for everyone"
+    },
+    {
+      "t": 716,
+      "text": "Could this be sub 20?"
+    },
+    {
+      "t": 835,
+      "text": "Finish at 19:54, Elder Mole"
+    }
+  ],
+  "topics": [
+    {
+      "name": "Chambers of Xeric",
+      "kind": "raid",
+      "claims": [
+        {
+          "t": 835,
+          "kind": "record",
+          "text": "Gnomonkey finishes a Challenge Mode Chambers of Xeric solo run in Leagues at 19:54 and believes nobody in Leagues has a faster time."
+        },
+        {
+          "t": 0,
+          "kind": "stat",
+          "text": "Gnomonkey gets a 1:24 Tekton, which he says is his fastest Tekton ever."
+        },
+        {
+          "t": 0,
+          "kind": "stat",
+          "text": "The description says the new CoX update shaved massive time off Tekton, Thieving and Muttadile, which helped make a sub 20-minute run possible."
+        },
+        {
+          "t": 603,
+          "kind": "opinion",
+          "text": "Gnomonkey says the new CoX update is insane and shaves at least a minute off everyone's time, guaranteed."
+        },
+        {
+          "t": 399,
+          "kind": "stat",
+          "text": "Gnomonkey mentions the current CM Chambers record as 25:45 when discussing times in chat."
+        },
+        {
+          "t": 0,
+          "kind": "trivia",
+          "text": "The description says Gnomonkey ran out of cape swaps for world record attempts in the main game, so he moved to Leagues for fun; Newtype beat him by 20 seconds for the near-record time."
+        },
+        {
+          "t": 399,
+          "kind": "trivia",
+          "text": "Gnomonkey says he had been attempting main game runs until he ran out of capes and then went to Leagues."
+        }
+      ]
+    },
+    {
+      "name": "Blob cycle (Chambers of Xeric)",
+      "kind": "mechanic",
+      "claims": [
+        {
+          "t": 282,
+          "kind": "tip",
+          "text": "Standing on the Addy tile lets Gnomonkey automatically two-tick blobs, according to a chat answer."
+        },
+        {
+          "t": 282,
+          "kind": "tip",
+          "text": "There is one spawn where a blob sees you late, but it is two ticks before it sees you, so it is back on a two-tick cycle by default; that is the one behind the north pillar."
+        },
+        {
+          "t": 311,
+          "kind": "method",
+          "text": "To correct the blob cycle, you check whether they attack: with two ticks on mage and two ticks on range, if you swap from mage to range and a blob attacks you, it is hitting on the second tick of your prayer rather than the first, so it is off-tick and you need to stall a tick."
+        }
+      ]
+    },
+    {
+      "name": "Leagues build for Chambers of Xeric",
+      "kind": "other",
+      "claims": [
+        {
+          "t": 0,
+          "kind": "method",
+          "text": "Gnomonkey's relic setup for the run, per the description, is Production, Fairy, Banker's, Sorcerer's, Bloodthirsty, Farmer's, Berserker and Guardian."
+        },
+        {
+          "t": 0,
+          "kind": "method",
+          "text": "The regions for the run were Khand, Desert and Kourend."
+        }
+      ]
+    },
+    {
+      "name": "Gnomonkey",
+      "kind": "person",
+      "claims": [
+        {
+          "t": 0,
+          "kind": "event",
+          "text": "The description says the video is Gnomonkey's Leagues CM CoX speedrun with a Goth make-up cosplay for Hoshi as a thank-you for 100 subs."
+        },
+        {
+          "t": 0,
+          "kind": "opinion",
+          "text": "Gnomonkey says in the description he cannot wait to keep pushing times in both Leagues and main game OSRS."
+        }
+      ]
+    }
+  ]
+}

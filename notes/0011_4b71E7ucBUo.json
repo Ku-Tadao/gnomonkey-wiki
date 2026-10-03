@@ -1,0 +1,161 @@
+{
+  "id": "4b71E7ucBUo",
+  "title": "Master Clue Efficiency Guide (BLOODHOUND GUIDE) OSRS",
+  "date": "2019-08-14",
+  "type": "guide",
+  "summary": "A guide to completing master clue scrolls efficiently, covering requirements, the gear and bank tabs Gnomonkey uses, how to handle the Brassican and ancient wizards, and tips for the slowest steps. Master clues are grinded for the bloodhound pet and 3rd age items.",
+  "outline": [
+    {
+      "t": 0,
+      "text": "Intro and requirements"
+    },
+    {
+      "t": 26,
+      "text": "Why do master clues: bloodhound, mimic, profit"
+    },
+    {
+      "t": 41,
+      "text": "Setup: master clue gear tab and Watson tab"
+    },
+    {
+      "t": 135,
+      "text": "Wizards: Brassican mage and ancient wizards"
+    },
+    {
+      "t": 220,
+      "text": "Tips and tricks: fire shade, dragon's eye step, buying items"
+    }
+  ],
+  "topics": [
+    {
+      "name": "Master clue scroll",
+      "kind": "item",
+      "claims": [
+        {
+          "t": 0,
+          "kind": "requirement",
+          "text": "Master clues require various skills and several unlocked items: the Lumberjack outfit, prospector's kit, angler's outfit, full graceful, a fire cape, a fighter torso, infernal axe and Barrows gloves."
+        },
+        {
+          "t": 26,
+          "kind": "requirement",
+          "text": "Master clues require 100% Arceuus favour, 75% Hosidius favour, 100% Piscarilius favour, 100% Shayzien favour, and a huge variety of quests up to and including Song of the Elves."
+        },
+        {
+          "t": 26,
+          "kind": "stat",
+          "text": "Master clue scrolls are six to eight step clues that drop the bloodhound pet at a 1 in 5000 rate, which Gnomonkey says makes it one of, if not the rarest, pets in the game."
+        },
+        {
+          "t": 57,
+          "kind": "stat",
+          "text": "After completing a master clue there is a reasonable 1 in 15 chance to fight the mimic, which is required for the music cape."
+        },
+        {
+          "t": 57,
+          "kind": "stat",
+          "text": "Master clues give around 200k to 500k per clue in regular drops alone; all six of the 3rd age items in the set are worth over 300 million, with the 3rd age pickaxe at 1.1 billion at the time."
+        },
+        {
+          "t": 135,
+          "kind": "tip",
+          "text": "Gnomonkey does not explain how to solve the clues because RuneLite does that for the most part."
+        },
+        {
+          "t": 240,
+          "kind": "tip",
+          "text": "When a master clue requires buying items like an Armadyl helmet or dragon chainbody, Gnomonkey advises taking the chance for a profitable flip if planning to sell right after, since there is no point rushing if the loss on selling matches the clue's gain."
+        }
+      ]
+    },
+    {
+      "name": "Master clue setup",
+      "kind": "other",
+      "claims": [
+        {
+          "t": 90,
+          "kind": "tip",
+          "text": "Gnomonkey's master clue gear tab has basic void ranged gear, desert amulet 4 for regen and banking, quest point cape for fairy rings, Kandarin headgear 4 for teleports to Sherlock, and a music cape for teleporting to Falador (which he cannot use until he finds a mimic)."
+        },
+        {
+          "t": 90,
+          "kind": "tip",
+          "text": "He also brings a full set of basic runes for teleports, five sharks, and a ranging potion; a crafting cape is very smart to bring if available."
+        },
+        {
+          "t": 119,
+          "kind": "tip",
+          "text": "Gnomonkey used RuneLite to create a tab for items Watson may want and does not keep an Armadyl helmet in the bank since it would only be used for clues; tabs can be imported from codes in the pinned comments via the import tag button."
+        }
+      ]
+    },
+    {
+      "name": "Clue scroll wizards",
+      "kind": "mechanic",
+      "claims": [
+        {
+          "t": 135,
+          "kind": "tip",
+          "text": "Brassican mages are the easier wizards; they do not use melee and attack with magic and ranged, hit fairly accurately, so Gnomonkey brings food and prays ranged since ranged gear gives decent magic defence."
+        },
+        {
+          "t": 150,
+          "kind": "tip",
+          "text": "Ancient wizards are much harder and appear for any coordinate or hot-cold clue located in multi-combat."
+        },
+        {
+          "t": 180,
+          "kind": "tip",
+          "text": "Ancient wizards spawn in a set of three: a melee wizard that poisons with a dagger (needing anti-poison), a ranged wizard with a crossbow, and a magic wizard."
+        },
+        {
+          "t": 180,
+          "kind": "method",
+          "text": "Gnomonkey with a ranged setup prays melee and immediately kills the melee wizard, who can hit up to 36 and is the most dangerous, then prays ranged and kills the ranger, then prays magic and kills the mage."
+        },
+        {
+          "t": 206,
+          "kind": "tip",
+          "text": "For a Wilderness step Gnomonkey brings only a blowpipe, a clue box, spade, ranging potion, a few prayer potions, antidote++ and the rest sharks; with Ranged above 90 the wizards should be no problem."
+        }
+      ]
+    },
+    {
+      "name": "Fire shade clue step",
+      "kind": "mechanic",
+      "claims": [
+        {
+          "t": 206,
+          "kind": "tip",
+          "text": "One master clue step requires feeding a fire shade in Shades of Mort'ton; the first time needs several pyrelogs and fighting through the caves, obtaining more keys until reaching a fire shade."
+        },
+        {
+          "t": 239,
+          "kind": "tip",
+          "text": "Gnomonkey says to keep the silver key after the first time, as it can be banked and allows skipping every door if the step appears again."
+        }
+      ]
+    },
+    {
+      "name": "Dragon's eye clue step",
+      "kind": "mechanic",
+      "claims": [
+        {
+          "t": 239,
+          "kind": "opinion",
+          "text": "Gnomonkey considers the clue step 'if you're feeling brave, dig beneath the dragon's eye' the longest step to complete in the game."
+        },
+        {
+          "t": 239,
+          "kind": "tip",
+          "text": "The step requires an unpowered orb and runes to charge the orb through the Legends' Quest cave, casting charge orb to get through a door, going down the agility section of the hill and digging beneath a section of wall."
+        },
+        {
+          "t": 270,
+          "kind": "tip",
+          "text": "Forgetting an item means redoing a roughly five minute section, so if the step appears, save it for last, as there is a decent chance of getting it twice in a row and digging in the same spot."
+        }
+      ]
+    }
+  ]
+}

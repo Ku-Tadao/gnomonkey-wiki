@@ -1,0 +1,90 @@
+{
+  "id": "pSBxLCy7-44",
+  "title": "Raids 3 TOA Akkha \"Butterfly Tech\" OSRS",
+  "date": "2022-08-30",
+  "type": "guide",
+  "summary": "Gnomonkey explains Butterfly Tech, a method found by his clanmate Saxerpillar for fighting Akkha in the Tombs of Amascut without taking damage or triggering special attacks. It uses a 5-tick cycle around Akkha's attack tiles with several RuneLite plugin setups, and the video covers the steps, supply savings, and common problems.",
+  "outline": [
+    {"t": 0, "text": "Intro: Butterfly Tech discovered by Saxerpillar and how Akkha's behavior makes it work"},
+    {"t": 55, "text": "Why use it: avoiding supply drain, damage and special attacks"},
+    {"t": 88, "text": "Speed benefit and 150 raid level solo time saving"},
+    {"t": 116, "text": "Plugin setup: tile markers, Shift Click Walk, Akkha radius markers, Custom Swapper, monster HP percentage"},
+    {"t": 173, "text": "Method: entering the fight, starting the cycle"},
+    {"t": 261, "text": "Handling the shadows at 80% HP"},
+    {"t": 290, "text": "Moving between quadrants for each 20% phase"},
+    {"t": 356, "text": "Problems and fixes: pathing, potions, team play"},
+    {"t": 416, "text": "Closing thoughts on a possible patch"}
+  ],
+  "topics": [
+    {
+      "name": "Akkha",
+      "kind": "boss",
+      "claims": [
+        {"t": 0, "kind": "trivia", "text": "Gnomonkey says Akkha does not change attack styles or use special attacks if he does not hit you, and has unique smart pathing unlike other NPCs."},
+        {"t": 55, "kind": "opinion", "text": "Gnomonkey calls Akkha easily the most supply-draining boss of the Tombs of Amascut besides the Wardens, with Baba a close second."},
+        {"t": 55, "kind": "tip", "text": "Gnomonkey says that if Akkha is unable to land a hit on you he cannot change styles or use special attacks, so with Butterfly Tech you can use as many Akkha invocations as you want without interacting with them."},
+        {"t": 146, "kind": "method", "text": "Gnomonkey says the person who enters the Akkha fight first is always the person Akkha targets, so in a team the player performing Butterfly Tech should enter first."},
+        {"t": 356, "kind": "method", "text": "Gnomonkey says Akkha is unusual in that most NPCs hit you when they approach on the same tick, but his smart pathing prevents this."},
+        {"t": 416, "kind": "method", "text": "Gnomonkey says if Akkha melees more than six times he will switch styles and Butterfly Tech will stop working."},
+        {"t": 261, "kind": "method", "text": "Gnomonkey says shadows spawn when Akkha reaches 80% HP, and that if they are not killed quickly enough they will hit you with an area-of-effect attack, which is never a problem at 300 raid level or below or in teams but can be at extreme raid levels."}
+      ]
+    },
+    {
+      "name": "Butterfly Tech",
+      "kind": "mechanic",
+      "claims": [
+        {"t": 0, "kind": "trivia", "text": "Butterfly Tech is the name Gnomonkey and his clan use for a method for the Akkha fight found by his clanmate and Discord member Saxerpillar, whom Gnomonkey calls the greatest piece of tech found so far in Raids 3."},
+        {"t": 28, "kind": "requirement", "text": "Butterfly Tech is a 5-tick attack cycle, so it is only really good with the new Tumeken's shadow, although it can be done with a Sanguinesti staff or Trident while losing a tick each attack."},
+        {"t": 28, "kind": "requirement", "text": "Butterfly Tech requires at least one dose of stamina potion, which must be brought into the raid."},
+        {"t": 28, "kind": "tip", "text": "Gnomonkey says you could even manually cast Ice Barrage on each attack, but it would be very hard to click Barrage and then Akkha after pathing to the attack tile on a single game tick."},
+        {"t": 173, "kind": "method", "text": "Gnomonkey's preparation for the method is to creep out of the stamina boost, activate Augury, take salts, summon a maze troll if available, and start the ring; starting from the north or south quadrant makes no difference."},
+        {"t": 200, "kind": "method", "text": "Stand still attacking Akkha until he crosses the attack tile, then run to the furthest quadrant's attack tile; starting the cycle correctly is the hardest part and takes practice."},
+        {"t": 233, "kind": "method", "text": "To start the cycle, look at which side of the quadrant Akkha is on and start on the opposite side, attack Akkha until his tile is one tile away, then click to start the cycle and follow the red tiles around Akkha, attacking him from each attack tile."},
+        {"t": 261, "kind": "method", "text": "At 80% HP when the shadows spawn, attack Akkha again but hold shift when clicking the run tiles so you can walk through the shadow, attack the shadow from the attack tiles, and once the cast killed it click Akkha again from the attack tiles."},
+        {"t": 290, "kind": "method", "text": "Each time Akkha is nearly down another 20%, finish the phase with a cast and move to the next quadrant, and Gnomonkey says it is very important to run vertically to the next quadrant or Akkha will not drag properly, since going horizontally causes many problems."},
+        {"t": 290, "kind": "method", "text": "In Gnomonkey's sequence he runs vertically to the next quadrant first, then diagonally to the other quadrant, then vertically again for the final 20% of Akkha's HP."}
+      ]
+    },
+    {
+      "name": "Butterfly Tech setup",
+      "kind": "mechanic",
+      "claims": [
+        {"t": 116, "kind": "tip", "text": "Gnomonkey provides tile markers via a pastebin link in the description; copy them to the clipboard and right-click the world map and choose import to load them all into RuneLite."},
+        {"t": 143, "kind": "tip", "text": "Gnomonkey says to enable Shift Click Walk Here in the Menu Entry Swapper plugin."},
+        {"t": 143, "kind": "tip", "text": "To show Akkha's true tile, use NPC Indicators or copy Gnomonkey's Akkha radius markers; they also show which style Akkha is attacking with."},
+        {"t": 143, "kind": "tip", "text": "Gnomonkey adds the line 'attack Akkha's Shadow *' in the Custom Swapper plugin so that Attack is prioritized on the shadows and not Akkha."},
+        {"t": 173, "kind": "tip", "text": "Gnomonkey adds Akkha to the monster HP percentage plugin, which shows a green percent over Akkha so he knows when Akkha will phase each 20% HP at any raid level."}
+      ]
+    },
+    {
+      "name": "Tombs of Amascut",
+      "kind": "raid",
+      "claims": [
+        {"t": 0, "kind": "event", "text": "Gnomonkey says that shortly after the release of Raids 3 (Tombs of Amascut), new tech was being discovered constantly to make it faster and more efficient."},
+        {"t": 88, "kind": "stat", "text": "In 150 raid level solos, Gnomonkey found his average Akkha time dropped from 3 minutes to 2.5 minutes with Butterfly Tech."},
+        {"t": 88, "kind": "opinion", "text": "Gnomonkey calls Butterfly Tech by far the fastest method of dispatching Akkha, mainly because it avoids the Simon Says attack, which wastes a lot of time while you do zero DPS."},
+        {"t": 88, "kind": "tip", "text": "Gnomonkey says it can be worth using Butterfly Tech even with a Sanguinesti staff in larger teams because you ignore the very slow Simon Says attack, and the team can use Tumeken's shadows while one person keeps running Akkha in the circle."},
+        {"t": 416, "kind": "opinion", "text": "Gnomonkey hopes Jagex does not patch Butterfly Tech and compares it to old mage hand running, calling it incredibly interesting and difficult tech."},
+        {"t": 416, "kind": "event", "text": "Gnomonkey says he is working hard in the Tombs of Amascut looking for tech for his guide."}
+      ]
+    },
+    {
+      "name": "Tumeken's shadow",
+      "kind": "item",
+      "claims": [
+        {"t": 88, "kind": "opinion", "text": "Gnomonkey says Tumeken's shadow seems to be the best possible DPS on Akkha himself, while being a bit worse than the Toxic blowpipe on Akkha's shadows."},
+        {"t": 28, "kind": "requirement", "text": "The 5-tick cast speed of the Tumeken's shadow is why Butterfly Tech works best with it."}
+      ]
+    },
+    {
+      "name": "Problems with Butterfly Tech",
+      "kind": "mechanic",
+      "claims": [
+        {"t": 356, "kind": "tip", "text": "If Akkha paths to you directly from his center tile, the method is impossible until he hits you, so Gnomonkey says to tank the hit and stand still for a couple of ticks before starting the cycle."},
+        {"t": 356, "kind": "tip", "text": "Gnomonkey says it is extremely hard to take other actions such as drinking potions during the cycle, so use the time transitioning between quadrants to drink stamina doses or heal."},
+        {"t": 384, "kind": "stat", "text": "Gnomonkey says at most raid levels you will kill Akkha before your run energy runs out if you drank one stamina dose."},
+        {"t": 384, "kind": "tip", "text": "In teams, if Akkha passes over a teammate he will melee them while still going towards the tank, so Gnomonkey says to communicate and stand in one of the quadrant corners out of Akkha's way."}
+      ]
+    }
+  ]
+}

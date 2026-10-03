@@ -1,0 +1,616 @@
+{
+  "id": "EVOs96kyHSM",
+  "title": "Colosseum GUIDE Teaching Stream #1 (OSRS)",
+  "date": "2024-03-25",
+  "type": "guide",
+  "summary": "A live teaching stream in which Gnomonkey explains his max melee Fortis Colosseum setup, spawn-tile and pillar-stacking technique, invocation preferences and the Sol Heredit fight while playing a run to the boss. His core points are to keep a 50 Scythe max with Torva, use Arceuus spells and Blood Fury for sustain, use the B5 tiles, and keep attacking the boss at all times.",
+  "outline": [
+    {
+      "t": 0,
+      "text": "Stream introduction and plan for a full teaching run"
+    },
+    {
+      "t": 14,
+      "text": "Setup and gear analysis: max melee, mace, Arceuus spellbook, four-way Shadow, Venator bow"
+    },
+    {
+      "t": 182,
+      "text": "Wave initiation strategy and tile markers"
+    },
+    {
+      "t": 238,
+      "text": "Pillar positioning: the B5 tiles and why the south pillar is better"
+    },
+    {
+      "t": 352,
+      "text": "Inventory management: soul runes, brews, restores"
+    },
+    {
+      "t": 441,
+      "text": "First wave walkthrough"
+    },
+    {
+      "t": 562,
+      "text": "Managing invocations: take upgradable ones"
+    },
+    {
+      "t": 646,
+      "text": "Advanced pillar tactics: tick order and manticore timing"
+    },
+    {
+      "t": 841,
+      "text": "Healing with special attacks: leave the ranger alive"
+    },
+    {
+      "t": 1013,
+      "text": "Handling mistakes: off-ticked pillar stacks"
+    },
+    {
+      "t": 1174,
+      "text": "Using special attack energy; Blood Fury erases mistakes"
+    },
+    {
+      "t": 1241,
+      "text": "Mid-run inventory updates and Minotaur handling"
+    },
+    {
+      "t": 1407,
+      "text": "Overcoming difficult spawns and bad invocation choices"
+    },
+    {
+      "t": 1567,
+      "text": "Efficient wave clearing"
+    },
+    {
+      "t": 1853,
+      "text": "Preparation for later waves (wave 10 and 11)"
+    },
+    {
+      "t": 2049,
+      "text": "Final wave preparation"
+    },
+    {
+      "t": 2254,
+      "text": "Reviewing the run: staying calm when smited"
+    },
+    {
+      "t": 2515,
+      "text": "Final boss fight mechanics and attempt"
+    }
+  ],
+  "topics": [
+    {
+      "name": "Fortis Colosseum",
+      "kind": "activity",
+      "claims": [
+        {
+          "t": 0,
+          "kind": "method",
+          "text": "Gnomonkey's recommended setup for a first Colosseum run is max melee, bringing a mace and Ellie."
+        },
+        {
+          "t": 56,
+          "kind": "tip",
+          "text": "Gnomonkey brings roughly seven brews and as many restores for a Colosseum run, normally dropping a super combat, though on a first run he says to bring all of them because the boss involves a lot of brewing and super combat spam."
+        },
+        {
+          "t": 212,
+          "kind": "tip",
+          "text": "Gnomonkey says the Colosseum has almost no useful tile markers, unlike the Inferno; the only tiles that matter are the two B5 tiles."
+        },
+        {
+          "t": 402,
+          "kind": "tip",
+          "text": "Gnomonkey starts every wave on the same tile until the enemies spawn, then casts at the melee Fremennik and shoots the mage."
+        },
+        {
+          "t": 520,
+          "kind": "stat",
+          "text": "In the Colosseum, javelin Fremennik have a special attack every five attacks where they throw a spear in the air, and it can hit pretty hard."
+        },
+        {
+          "t": 545,
+          "kind": "stat",
+          "text": "Jaguars in the Colosseum are standard melee with three hit splats that each max 47; Gnomonkey says they can kill you in one hit no matter what, so do not chance getting hit by them."
+        },
+        {
+          "t": 608,
+          "kind": "stat",
+          "text": "Colosseum spawns come out roughly every 30 to 40 seconds through the gate."
+        },
+        {
+          "t": 1206,
+          "kind": "trivia",
+          "text": "Gnomonkey says he had been in the Colosseum for about 30 hours of speedrunning when making this stream."
+        },
+        {
+          "t": 1383,
+          "kind": "opinion",
+          "text": "Asked whether Minotaurs can be used to farm glory, Gnomonkey says he does not know exactly how glory works and thinks it depends on wave speed as well."
+        },
+        {
+          "t": 1511,
+          "kind": "stat",
+          "text": "Gnomonkey says a Colosseum run without the Scythe, using a tent whip, is about 30% worse; it has been done but is much, much harder."
+        },
+        {
+          "t": 1783,
+          "kind": "opinion",
+          "text": "Gnomonkey says that if you do not take Blasphemy early you do not have to flick much."
+        },
+        {
+          "t": 2452,
+          "kind": "tip",
+          "text": "Gnomonkey says that when a run goes wrong you should not panic: put your gear back on and keep going, since panicking when smited kills you instantly while careful brewing then restoring may let you live."
+        }
+      ]
+    },
+    {
+      "name": "Colosseum setup",
+      "kind": "mechanic",
+      "claims": [
+        {
+          "t": 27,
+          "kind": "stat",
+          "text": "Gnomonkey says the mace is the exact same as the rapier and Saildoor (as transcribed) alternatives, with the only difference being two extra prayer bonus; it can be swapped for the other two weapons without a big deal."
+        },
+        {
+          "t": 27,
+          "kind": "tip",
+          "text": "Gnomonkey brings Ellie (the Elidinis' ward) to tank rotating pillar stacks that go badly, since you probably have to swap pillars at least once; a Falador shield also gives some defence and a lot of prayer, and he says you could instead wear your thrall book and bring an extra brew or restore."
+        },
+        {
+          "t": 56,
+          "kind": "opinion",
+          "text": "Gnomonkey says you want max max melee, rather than Echo boots or camping Ankle eggs, because it gets you to a 50 Scythe max, and dropping to 49 also lowers the second Scythe hit from 25 to 24."
+        },
+        {
+          "t": 82,
+          "kind": "opinion",
+          "text": "Gnomonkey says the longer it takes to kill the boss the harder it is, and he thinks the Colosseum is one of the few places where Torva makes a massive difference because of its defence."
+        },
+        {
+          "t": 82,
+          "kind": "stat",
+          "text": "Gnomonkey's Colosseum setup has 385 range defence, making rotating pillar stacks not a big deal."
+        },
+        {
+          "t": 197,
+          "kind": "stat",
+          "text": "Gnomonkey says his cape gets him to 50 max anyway and lets him start waves in about 300 range defence versus about 170 for an ink top (as transcribed)."
+        },
+        {
+          "t": 213,
+          "kind": "tip",
+          "text": "At wave start Gnomonkey wears Torva to begin waves with its high defence, replacing some inventory slots with brews."
+        },
+        {
+          "t": 336,
+          "kind": "tip",
+          "text": "Without Ultor, Gnomonkey says a B-ring is better than the alternatives but you are at a much larger disadvantage not having Ultor; everything in his layout is required to reach a 50 max."
+        },
+        {
+          "t": 371,
+          "kind": "tip",
+          "text": "Gnomonkey uses the Charge calculator plugin and sets 20 as the amount he refills his Shadow with, giving 40 soul runes, which is enough for the entirety of the Colosseum; he drops two brews and uncharges his Shadow at the start."
+        }
+      ]
+    },
+    {
+      "name": "Arceuus spellbook",
+      "kind": "mechanic",
+      "claims": [
+        {
+          "t": 116,
+          "kind": "opinion",
+          "text": "Gnomonkey thinks the Arceuus spellbook is much better than Ancients in the Colosseum because everything has a very high magic level so you cannot blood barrage them very easily."
+        },
+        {
+          "t": 116,
+          "kind": "method",
+          "text": "Gnomonkey uses Arceuus for Death Charge, which lets him SGS spec more, since several targets give a guaranteed max hit that heals about 30 health; he says it is for Death Charge more than for thralls."
+        },
+        {
+          "t": 116,
+          "kind": "tip",
+          "text": "Gnomonkey says with Arceuus you do not have to bring an extra rune to get both Death Charge and thralls, no matter the setup."
+        },
+        {
+          "t": 146,
+          "kind": "tip",
+          "text": "A Shadow is charged with soul runes so you can pull soul runes out for Death Charge, and if you lack a Shadow the Sanguinesti staff has blood runes that can be pulled instead; both carry the runes without wasting a slot."
+        }
+      ]
+    },
+    {
+      "name": "Fremennik warband",
+      "kind": "mechanic",
+      "claims": [
+        {
+          "t": 4,
+          "kind": "other",
+          "text": "The Fremennik warband NPCs in the Colosseum are level 104 for the archer, seer and berserker, and the serpent shaman is level 161."
+        },
+        {
+          "t": 146,
+          "kind": "mechanic",
+          "text": "Gnomonkey says Fremennik in the Colosseum take a guaranteed max hit if you use the correct combat style against them."
+        },
+        {
+          "t": 146,
+          "kind": "tip",
+          "text": "Gnomonkey brings a four-way Shadow to guarantee a one-shot on the berserker Fremennik, since four switches of magic are enough; with only a Sanguinesti staff, one-way Sang is enough to two-shot it."
+        },
+        {
+          "t": 180,
+          "kind": "method",
+          "text": "Gnomonkey starts every wave in four-way magic, casts at the melee Fremennik to kill him instantly, goes behind a pillar, puts on the Venator bow and shoots the mage."
+        },
+        {
+          "t": 180,
+          "kind": "tip",
+          "text": "The Venator bow is enough to one-shot the mage Fremennik, according to Gnomonkey."
+        },
+        {
+          "t": 402,
+          "kind": "tip",
+          "text": "Gnomonkey says the archer (ranger) Fremennik only maxes 1, so it is not a priority."
+        },
+        {
+          "t": 1033,
+          "kind": "stat",
+          "text": "The ranger Fremennik only maxes 1, and an SGS spec on him is a guaranteed max hit of about 70 damage that heals about 30 health."
+        },
+        {
+          "t": 1033,
+          "kind": "tip",
+          "text": "Gnomonkey says to leave the ranger alive as a med kit that follows you around, SGS specing him whenever you need health; there is no reason to kill him."
+        },
+        {
+          "t": 1436,
+          "kind": "stat",
+          "text": "The mages in the Colosseum are glass cannons that hit very hard, so Gnomonkey says to always start praying mage when a wave has mages."
+        }
+      ]
+    },
+    {
+      "name": "Spawn manipulation",
+      "kind": "mechanic",
+      "claims": [
+        {
+          "t": 271,
+          "kind": "mechanic",
+          "text": "Colosseum spawns will not spawn next to the player, in a radius around the character model, so standing in the B5 tile area pushes spawns away and guarantees they spawn in a certain area."
+        },
+        {
+          "t": 271,
+          "kind": "tip",
+          "text": "Gnomonkey says the B5 tiles allow you to stack things much better, so starting waves on them is best."
+        },
+        {
+          "t": 303,
+          "kind": "tip",
+          "text": "Gnomonkey defaults to the south pillar tile because a second spawn comes out of the gate and a melee coming out of that gate walks and gets stuck behind the pillar, which does not happen on the north pillar."
+        },
+        {
+          "t": 337,
+          "kind": "tip",
+          "text": "Gnomonkey keeps the other tile only for when permanent Reentry has damaged the south pillar tile very badly, in which case you can move to the other pillar; he says you want to hang out on the south pillar whenever possible."
+        },
+        {
+          "t": 820,
+          "kind": "opinion",
+          "text": "Gnomonkey says the south-west pillar is the best because it blocks the most spawns."
+        }
+      ]
+    },
+    {
+      "name": "Pillar stacking",
+      "kind": "mechanic",
+      "claims": [
+        {
+          "t": 665,
+          "kind": "tip",
+          "text": "When the back enemy is too far to see you, Gnomonkey starts a few tiles out from the pillar, prays range as he steps out, then prays mage and runs in, so the mage sees him a tick later."
+        },
+        {
+          "t": 912,
+          "kind": "tip",
+          "text": "Gnomonkey's wave routine is to immediately kill the melee, go behind the pillar and solve the wave while getting ready to kill the mage."
+        },
+        {
+          "t": 1090,
+          "kind": "tip",
+          "text": "In the manticore stack, Gnomonkey says the first attack style of the Manticore tells you whether to re-set the stack: if the Manticore is ranged and both saw you on the same tick it is off-ticked, and if it were mage he would go back around and set it up again."
+        },
+        {
+          "t": 1119,
+          "kind": "tip",
+          "text": "Gnomonkey says the biggest skill in the Colosseum is quickly recognising a problem like an off-ticked stack and quickly doing the pillar stack on the other side, or you will die."
+        },
+        {
+          "t": 1327,
+          "kind": "tip",
+          "text": "Gnomonkey says that in a common pillar stack the enemy in the back sees you first and the enemy in the front sees you a tick later, so you step out praying for the back enemy then the front one."
+        },
+        {
+          "t": 1842,
+          "kind": "tip",
+          "text": "Gnomonkey says that stepping out from the middle of a pillar means the back enemy sees you before the front, while stepping out from the corner means everything sees you on the same tick."
+        },
+        {
+          "t": 1901,
+          "kind": "tip",
+          "text": "If enemies are off-ticked, you can also immediately SGS spec back, and you should pay attention to when the ranger is attacking you."
+        }
+      ]
+    },
+    {
+      "name": "Manticore",
+      "kind": "mechanic",
+      "claims": [
+        {
+          "t": 758,
+          "kind": "tip",
+          "text": "Gnomonkey says to get ready to pray against the Manticore when you see it pulling up while dealing with other enemies."
+        },
+        {
+          "t": 759,
+          "kind": "mechanic",
+          "text": "The Manticore's attacks come out the instant it starts its animation, so that is when you switch prayer."
+        },
+        {
+          "t": 789,
+          "kind": "stat",
+          "text": "The Manticore's attack speed is 10 ticks, so it starts an attack every 10 ticks."
+        },
+        {
+          "t": 1606,
+          "kind": "tip",
+          "text": "Gnomonkey's solve for one Manticore stack was to come out praying mage and flick the Manticore, camping mage at other times."
+        }
+      ]
+    },
+    {
+      "name": "Minotaur",
+      "kind": "mechanic",
+      "claims": [
+        {
+          "t": 1293,
+          "kind": "mechanic",
+          "text": "Gnomonkey says Minotaurs seem to fully heal other mobs when their centre tile sees the mob's centre tile, so you need to deal with them."
+        },
+        {
+          "t": 1293,
+          "kind": "tip",
+          "text": "Gnomonkey says with Minotaurs you can come down one tile and completely avoid the Solar Flare orb."
+        },
+        {
+          "t": 1470,
+          "kind": "tip",
+          "text": "Gnomonkey drags enemies into the pillar side the Minotaur cannot see, so he can kill them without the Minotaur healing them."
+        },
+        {
+          "t": 1695,
+          "kind": "tip",
+          "text": "A Minotaur coming right over can be safe spotted behind a pillar, according to Gnomonkey."
+        }
+      ]
+    },
+    {
+      "name": "Colosseum invocations",
+      "kind": "mechanic",
+      "claims": [
+        {
+          "t": 434,
+          "kind": "tip",
+          "text": "Gnomonkey says the best possible invocations to have at the start are either Solar Flare or Myopia, and Quartet is also good although it cannot be upgraded; his own choice is Solar Flare."
+        },
+        {
+          "t": 434,
+          "kind": "opinion",
+          "text": "Gnomonkey says that from experience the game loves to repeatedly throw anything that can be upgraded at you, so if you take Solar Flare or Myopia at the start you will not be forced into a bad choice and it is worth restarting until you get one, which he says takes about four runs."
+        },
+        {
+          "t": 545,
+          "kind": "tip",
+          "text": "Gnomonkey says ideally you do not take Blasphemy 2 until later, because it wastes restores, and he took Blasphemy on every wave start only because the alternatives were worse."
+        },
+        {
+          "t": 578,
+          "kind": "tip",
+          "text": "Gnomonkey says to always lock in upgradable invocations whenever possible."
+        },
+        {
+          "t": 726,
+          "kind": "opinion",
+          "text": "Gnomonkey calls Doom Scorpion run-ending, Blasphemy 2 something he does not want to take, and says to take upgradable invocations like Solar Flare."
+        },
+        {
+          "t": 820,
+          "kind": "opinion",
+          "text": "Gnomonkey says Red Flag is a terrible choice and ideally you never take it; he says Frailty is only worth taking very, very late."
+        },
+        {
+          "t": 853,
+          "kind": "mechanic",
+          "text": "Gnomonkey says Relentless is a non-choice until the boss, because it turns off the Torva armour's effect."
+        },
+        {
+          "t": 1007,
+          "kind": "tip",
+          "text": "Gnomonkey says Myopia is amazing because it does not affect melee; it only affects attacking the Berserker at the beginning."
+        },
+        {
+          "t": 1235,
+          "kind": "tip",
+          "text": "Gnomonkey says Dynamic Duo spawns the mages right next to each other, so it does not usually change your solve, just makes it a little more dangerous."
+        },
+        {
+          "t": 1409,
+          "kind": "opinion",
+          "text": "Gnomonkey says that when all choices are awful (Reentry, Frailty, others) a run can be a reset, and in one case he took Frailty."
+        },
+        {
+          "t": 1634,
+          "kind": "opinion",
+          "text": "Gnomonkey says Myopia 2 was a great choice and he had been hoping to get Myopia."
+        },
+        {
+          "t": 1842,
+          "kind": "tip",
+          "text": "Gnomonkey waited on Blasphemy as long as possible, only seeing it at wave 10, which he says is ideal."
+        },
+        {
+          "t": 1968,
+          "kind": "opinion",
+          "text": "Gnomonkey says Dynamic Duo is better than Reentry in one situation and not too bad, and that Blasphemy 2 is very bad because getting smited is the end."
+        },
+        {
+          "t": 2124,
+          "kind": "opinion",
+          "text": "Gnomonkey calls Reentry one of the worst invocations ever, saying it caused a lot of trouble in the run; he says Reentry 2 is okay at wave 11 because permanence no longer matters."
+        }
+      ]
+    },
+    {
+      "name": "Solar Flare invocation",
+      "kind": "mechanic",
+      "claims": [
+        {
+          "t": 0,
+          "kind": "tip",
+          "text": "The Solar Flare orb can be tagged with Better NPC Highlight using the ID 12826, and Ender Bees are tagged with shift right click."
+        },
+        {
+          "t": 492,
+          "kind": "stat",
+          "text": "At the start, the Solar Flare orb moves two ticks per tile and then sits on the pillar corners for five ticks."
+        },
+        {
+          "t": 943,
+          "kind": "stat",
+          "text": "The final upgrade of Solar Flare sits on the corner of the pillars for a single tick: two ticks on the corners, then moves at one tick speed like walking."
+        }
+      ]
+    },
+    {
+      "name": "Blood Fury",
+      "kind": "item",
+      "claims": [
+        {
+          "t": 976,
+          "kind": "opinion",
+          "text": "Gnomonkey says melee is best in slot on everything in the Colosseum and that you wear a Blood Fury, which he thinks is always the best choice."
+        },
+        {
+          "t": 1179,
+          "kind": "mechanic",
+          "text": "Gnomonkey says Blood Fury makes any mistakes you make get erased over time; after taking about 40 damage in mistakes he was back at 94 health."
+        },
+        {
+          "t": 1206,
+          "kind": "tip",
+          "text": "Gnomonkey says to hang on to your spec until the start of the next wave if possible, because you might need to quickly SGS spec the ranger to heal after taking damage off spawn."
+        }
+      ]
+    },
+    {
+      "name": "Sol Heredit",
+      "kind": "boss",
+      "claims": [
+        {
+          "t": 2510,
+          "kind": "tip",
+          "text": "Gnomonkey says the Sol Heredit fight is similar to his Zuk explanation and Inferno teaching stream: keep attacking the boss at all times, even when brewing, restoring or drinking super combat."
+        },
+        {
+          "t": 2542,
+          "kind": "mechanic",
+          "text": "Sol Heredit does not stop attacking until he dies, and Blood Fury heals you while you keep swinging."
+        },
+        {
+          "t": 2542,
+          "kind": "mechanic",
+          "text": "Each Sol Heredit attack is either a shield slam or a spear poke, and what he just did changes his next attack: two spears in a row go from two-pronged to three-pronged, and two shields go from back one to back two."
+        },
+        {
+          "t": 2573,
+          "kind": "method",
+          "text": "Gnomonkey says there is a movement pattern that dodges either possibility for the next attack: after a spear he moves back middle or back diagonal, and he always pre-plans the tile for the next attack to stay ahead."
+        },
+        {
+          "t": 2604,
+          "kind": "mechanic",
+          "text": "Sol Heredit's attack cycle resets whenever he switches to a different attack, so after spear then shield then spear, the spear counts as his first attack again; after three shields, the third is shield one again."
+        },
+        {
+          "t": 2690,
+          "kind": "mechanic",
+          "text": "Sol Heredit has a glowing attack that must be caught with protect from melee the tick it comes out: three ticks, then three ticks, then four ticks, and below 50% health it is three, three, then five ticks."
+        },
+        {
+          "t": 2723,
+          "kind": "mechanic",
+          "text": "Sol Heredit can grapple a body part such as cape, boots, gloves, body or legs; white text over his head shows which, and you have three ticks to click that gear piece."
+        },
+        {
+          "t": 2757,
+          "kind": "mechanic",
+          "text": "If you block the grapple, your next attack is a max hit worth about 100 damage to the boss, and Gnomonkey says he has only ever caught it on the last tick."
+        },
+        {
+          "t": 2785,
+          "kind": "mechanic",
+          "text": "The lasers in the Sol Heredit fight hit for 70 and are the highest damage of the fight, so dodge them at all costs."
+        },
+        {
+          "t": 2818,
+          "kind": "tip",
+          "text": "If you have the Quartet invocation, an extra Fremennik spawns in the boss fight, so find and kill him immediately while dodging the first attack and praying piety."
+        },
+        {
+          "t": 2818,
+          "kind": "tip",
+          "text": "Gnomonkey says Totemic heals the boss and Ender Bees do spawn in the fight, both of which he says are very bad, and he heard that if you do not kill the totem fast enough it spawns again."
+        },
+        {
+          "t": 2847,
+          "kind": "opinion",
+          "text": "Gnomonkey chose Frailty 2 for the boss, reasoning that he would be safe from a one-shot of everything at full health; a viewer had argued Frailty 2 means a laser would one-shot him, and he noted the laser does 80."
+        },
+        {
+          "t": 3097,
+          "kind": "tip",
+          "text": "Gnomonkey says to zoom out far more for the boss fight, which was his issue when he missed grapple clicks."
+        },
+        {
+          "t": 3122,
+          "kind": "opinion",
+          "text": "Gnomonkey says the Webweaver bow is probably equal to the Venator bow for the mage Fremennik, since Webweaver two-shots it on a six-tick weapon while the four-tick Venator one-shots it but requires keeping the ranger up."
+        }
+      ]
+    },
+    {
+      "name": "Scythe of vitur",
+      "kind": "item",
+      "claims": [
+        {
+          "t": 56,
+          "kind": "stat",
+          "text": "Gnomonkey says a 50 Scythe max is important because dropping to 49 also drops the second max hit of the Scythe from 25 to 24."
+        },
+        {
+          "t": 820,
+          "kind": "tip",
+          "text": "Gnomonkey says scything a mage is slightly better than macing it."
+        },
+        {
+          "t": 1511,
+          "kind": "opinion",
+          "text": "Gnomonkey says a Colosseum run with a tent whip instead of the Scythe is about 30% worse and much harder, though it has been done."
+        }
+      ]
+    }
+  ]
+}

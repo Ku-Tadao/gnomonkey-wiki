@@ -1,0 +1,96 @@
+{
+  "id": "X0MGEJoT7gM",
+  "title": "ARAXXOR -  BLOODFURY META DEAD (OSRS)",
+  "date": "2024-06-19",
+  "type": "news-opinion",
+  "summary": "Gnomonkey reacts to the announced Old School RuneScape version of Araxxor, a 92 Slayer boss that is toned down compared to the RS3 original, and reviews its drops. He is disappointed by the Noxious halberd and the Araxyte boots but sees the Amulet of rancor as a chance to knock Blood fury out of the melee meta, and proposes buffing it to +16 strength bonus.",
+  "outline": [
+    {"t": 0, "text": "New Slayer boss overview: Araxxor is a 92 Slayer boss, not a backport"},
+    {"t": 65, "text": "Boss mechanics and design: RS3 Araxxor phases, paths and acid pool, blog hints at a choice system"},
+    {"t": 135, "text": "New boss drop rewards: Araxyte venom gland, extended anti-venom+, Araxyte boots"},
+    {"t": 187, "text": "Noxious halberd analysis: stats, venom, special attack, one extra tile of range"},
+    {"t": 307, "text": "Amulet of rancor buff: +2 strength and +5 accuracy over torture, comparison to Blood fury"},
+    {"t": 360, "text": "Proposed +16 strength rancor and its DPS effect on Scythe max hits"},
+    {"t": 496, "text": "Blood fury becoming a utility amulet, alternative ways to gate the amulet"},
+    {"t": 548, "text": "Conclusion and hopes for the boss"}
+  ],
+  "topics": [
+    {
+      "name": "Araxxor",
+      "kind": "boss",
+      "claims": [
+        {"t": 0, "kind": "event", "text": "Old School RuneScape is adding Araxxor from RS3; Gnomonkey says this is not a backport like Nex was but an entirely new Slayer boss using similar assets."},
+        {"t": 0, "kind": "opinion", "text": "Gnomonkey was disappointed that OSRS Araxxor would not be the same boss, because RS3 Araxxor was one of the toughest bosses, a 5 to 10 minute fight when released that dropped many Barrows-style (he says BYS) weapons including the Scythe."},
+        {"t": 0, "kind": "stat", "text": "OSRS Araxxor will be a 92 Slayer boss instead."},
+        {"t": 31, "kind": "event", "text": "The blog states the Araxxor fight is not as difficult as the Awakened bosses or the Colosseum, and Gnomonkey draws a comparison to Alchemical Hydra."},
+        {"t": 31, "kind": "trivia", "text": "Gnomonkey says the RS3 Araxxor was a multi-phase boss with multiple paths to choose, a differing second phase based on your choice, and your path determined which rare drops you could receive."},
+        {"t": 59, "kind": "trivia", "text": "Gnomonkey recalls RS3 Araxxor having four phases plus a finale where Araxxi, another big spider, drops down and devours Araxxor for a true final boss fight, which he says felt like a mix of Corporeal Beast and Phase 3 Verzik."},
+        {"t": 59, "kind": "trivia", "text": "In RS3 one phase had an acid pool where Araxxor had to be lured to accumulate acid, then lured to a ramp so the acid dripped onto it and destroyed it to advance; Gnomonkey would not be surprised if this returns given the Noxious halberd's special attack."},
+        {"t": 88, "kind": "trivia", "text": "Gnomonkey says RS3 Araxxor was terrifying for hardcore ironmen because a mirror-back spider could spawn on certain phases and make Araxxor return 100% of damage if not dealt with properly."},
+        {"t": 88, "kind": "event", "text": "The blog stated OSRS Araxxor would primarily be a melee fight with some kind of choice system, where you could smash eggs for a slower, easier time or deal with minions hatching, which would speed up the fight somehow."},
+        {"t": 115, "kind": "opinion", "text": "Gnomonkey finds the egg choice system interesting as a way to balance difficulty for all player skill levels, but hopes Jagex does not gut the interesting pieces of the fight to water it down for mid-level content."},
+        {"t": 31, "kind": "event", "text": "Per feedback at the bottom of the blog, the Noxious halberd is dropped in pieces, so Gnomonkey would not be surprised if the boss fight offers some choice in how it plays out for different halberd pieces."},
+        {"t": 548, "kind": "opinion", "text": "Gnomonkey says he wishes Araxxor was the truly difficult nightmare-level fight he was in RS3 and still hopes it is at least more interesting than Alchemical Hydra; RS3 Araxxor was some of the most fun he had in RS3 PvM."}
+      ]
+    },
+    {
+      "name": "Noxious halberd",
+      "kind": "item",
+      "claims": [
+        {"t": 170, "kind": "stat", "text": "The Noxious halberd is a 5-tick halberd with 142 strength bonus and 132 slash bonus."},
+        {"t": 198, "kind": "stat", "text": "Gnomonkey's calcs at Vardorvis and Theatre of Blood show the Noxious halberd sits between the Tent Whip and the Saeldor for DPS, which he sums up as basically a Saeldor with extra range."},
+        {"t": 198, "kind": "stat", "text": "The Noxious halberd inflicts venom with a 33% chance, rising to 50% with a Serpentine helm."},
+        {"t": 198, "kind": "stat", "text": "Its special attack costs 60% of the spec meter, cures your current venom or poison and increases your next attack's slash damage and accuracy by the percent of the poison damage that would have been taken."},
+        {"t": 227, "kind": "opinion", "text": "Gnomonkey calls the Noxious halberd mediocre and one of the biggest disappointments, saying its venom is contradictory with the Serpentine helm and that no boss in the game is non-immune to venom, so venom only adds flavour."},
+        {"t": 227, "kind": "opinion", "text": "Gnomonkey says the halberd's special attack is maybe five times worse than a single Void Waker even in the best circumstances and costs more spec energy."},
+        {"t": 255, "kind": "opinion", "text": "Gnomonkey suggests cutting the halberd's special attack cost to around 25% to keep it usable for curing poison on strange account builds, but says even then it would not be a good spec."},
+        {"t": 255, "kind": "opinion", "text": "Gnomonkey says the halberd's extra tile of range would let you do Verzik P2 without Verzik walking and might give early hits on Bloat, which are the uses suggested in the blog (Verzik P2 and avoiding burning teammates at Ohm, as transcribed), but he does not see them as relevant."},
+        {"t": 284, "kind": "opinion", "text": "Gnomonkey hopes the Noxious halberd pieces are not as rare as something like the Soulreaper axe."}
+      ]
+    },
+    {
+      "name": "Araxyte drops",
+      "kind": "item",
+      "claims": [
+        {"t": 115, "kind": "stat", "text": "The Araxyte venom gland hurts you for 4 venom damage when eaten but gives 20 seconds of venom immunity, and the blog says it will likely be used to increase trip lengths."},
+        {"t": 142, "kind": "stat", "text": "Araxyte venom glands are used to create extended anti-venom+ potions, which give 6 minutes of venom immunity; Gnomonkey says no longer will cursed baboons venom you at the end of the Monkey Room in Tombs of Amascut, and they are solid at Vorkath and Zulrah."},
+        {"t": 170, "kind": "stat", "text": "The Araxyte boots (transcribed as Arania boots) have very weak hybrid stats similar to Brimstone boots but give immunity to a web-based spider attack every 10 seconds, working at Verzik, Venenatis and Sarachnis according to the blog."},
+        {"t": 170, "kind": "opinion", "text": "Gnomonkey thinks the Araxyte boots are extremely weak and niche even for the content proposed and would probably not be used at Verzik, Venenatis or Sarachnis."}
+      ]
+    },
+    {
+      "name": "Amulet of rancor",
+      "kind": "item",
+      "claims": [
+        {"t": 284, "kind": "stat", "text": "The Amulet of rancor is an upgraded Amulet of torture that gains an extra 2 strength and 5 accuracy bonus for all styles."},
+        {"t": 307, "kind": "opinion", "text": "Gnomonkey says he has long called for a buff to torture so it can compete with Blood fury and welcomes the rancor, but thinks it is still too weak to compete with Blood fury."},
+        {"t": 307, "kind": "stat", "text": "Gnomonkey's comparison shows the rancor amulet gives one extra max hit with the Osmumten's fang over Blood fury, but its accuracy matters a lot against a 500 Kephri and it is typically around 3% better than Blood fury, with similar figures of about 3% at Ohm with a Lance (as transcribed) and at Verzik P3 in mid-level gear."},
+        {"t": 339, "kind": "stat", "text": "A max melee Scythe with the rancor amulet versus Blood fury at Sol Heredit is under 2% better."},
+        {"t": 368, "kind": "stat", "text": "Gnomonkey's spreadsheet found torture needs +16 total strength bonus for the Scythe to consistently get 2 extra max hits."},
+        {"t": 368, "kind": "mechanic", "text": "Gnomonkey explains that the Scythe's additional hitsplats gain extra bonus max hits at every two and four max hits of base max hit; in max gear with standard potions it has a base max hit of 50 for a total max hit of 87; at base 51 (what the rancor gives) it gains no bonus and maxes 88, but at base 52 it jumps to 91."},
+        {"t": 402, "kind": "opinion", "text": "Gnomonkey proposes a +16 strength rancor amulet that would future-proof against new items, always being 2 higher max hit than Blood fury with a minimum of +3 max hits for the Scythe."},
+        {"t": 435, "kind": "stat", "text": "With a +16 rancor, Gnomonkey's calcs say it would be at minimum 5% better DPS than Blood fury and at best 7% better; it adds 2 max hit to the Osmumten's fang in max gear without a ring (where Lightbearer is typically worn)."},
+        {"t": 435, "kind": "stat", "text": "Gnomonkey's calculated improvement of a +16 rancor over Blood fury: about 5% for the fang, 5.5% for Verzik P3 in max, 6.2% at Ulm (as transcribed), 5.1% at Baba, and 6.8% at Verzik P2 in mid-level gear."},
+        {"t": 467, "kind": "opinion", "text": "Gnomonkey says the current rancor is only 1.5% to 3% better than Blood fury, which is not enough for anyone to put Blood fury down, whereas 5% to 7% would make Blood fury look much less worthwhile."},
+        {"t": 496, "kind": "opinion", "text": "Gnomonkey says that with a stronger rancor, Blood fury would become a utility amulet used as a switch where you need HP (he mentions the Colosseum) and camped where you desperately need HP, such as solo Theatre of Blood, rather than the melee amulet."},
+        {"t": 496, "kind": "opinion", "text": "If Jagex considers a +16 amulet too strong to drop for everyone from a Slayer boss, Gnomonkey suggests it could be a rare drop or require a component from the Nightmare or Theatre of Blood to upgrade the amulet."},
+        {"t": 548, "kind": "opinion", "text": "Gnomonkey says he hopes Jagex improves the rancor's strength to crush Blood fury, noting it is odd to give a Slayer boss a proposed best-in-slot melee amulet right after a nerf of a cult item for being too strong."}
+      ]
+    },
+    {
+      "name": "Blood fury",
+      "kind": "item",
+      "claims": [
+        {"t": 307, "kind": "opinion", "text": "Gnomonkey agrees Blood fury is too strong and needs a nerf, a view that came from discussion on his livestream about how overpowered it is."},
+        {"t": 339, "kind": "opinion", "text": "Gnomonkey worries that a strong nerf to Blood fury would hurt melee as a style because melee is already not the most prevalent style at most content, so he prefers upgrading the torture amulet instead."},
+        {"t": 368, "kind": "opinion", "text": "Gnomonkey says a sufficiently strong rancor would turn Blood fury into an expensive tool for learning content, with the rancor as the competent player's best option."},
+        {"t": 496, "kind": "opinion", "text": "Gnomonkey says a strong rancor would remove Blood fury's stranglehold on the melee style and require more intelligent play not backed by huge healing whenever you attack."}
+      ]
+    },
+    {
+      "name": "Opinion: Araxxor Slayer boss design",
+      "kind": "opinion",
+      "claims": [
+        {"t": 0, "kind": "opinion", "text": "Gnomonkey says he was so excited for Araxxor but was pretty disappointed after hearing it would not be the same Araxxor as RS3 and would be a toned-down Slayer boss."},
+        {"t": 115, "kind": "opinion", "text": "Gnomonkey says that because Araxxor is a Slayer boss he hopes the fight keeps its interesting pieces rather than being watered down for mid-level players."},
+        

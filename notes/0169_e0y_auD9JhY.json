@@ -1,0 +1,867 @@
+{
+  "id": "e0y_auD9JhY",
+  "title": "Ultimate Account Building Guide (OSRS)",
+  "date": "2024-07-07",
+  "type": "guide",
+  "summary": "Gnomonkey's master guide to building a main (non-Ironman) OSRS account from scratch toward raiding and endgame PvM. He covers questing and diaries, maxing stats, the money-making methods he recommends (herb runs, Nex, Tombs of Amascut, Coliseum), how damage rolls work, common gear misconceptions, and how to use the Gearscape website for best-setup and DPS calculations. He closes with advice on learning raids by practising and failing.",
+  "outline": [
+    {
+      "t": 0,
+      "text": "Intro: guide is aimed at mains, from the perspective of someone who enjoys endgame and raiding"
+    },
+    {
+      "t": 132,
+      "text": "Questing, diaries and stats: do all quests, key diaries, and get 99 combat stats before raiding"
+    },
+    {
+      "t": 345,
+      "text": "Money-making: herb runs, early bosses, Nex, Tombs of Amascut, Tob/Cox, Coliseum"
+    },
+    {
+      "t": 620,
+      "text": "How damage works: accuracy roll, max hit roll, combat styles and special attacks"
+    },
+    {
+      "t": 773,
+      "text": "Gear misconceptions: weapon, armour, ring and special-attack weapon rundown"
+    },
+    {
+      "t": 1212,
+      "text": "Rebuilds: why selling your bank for one mega rare is no longer worthwhile"
+    },
+    {
+      "t": 1224,
+      "text": "Gearscape best-setups tool: inputs, include/exclude, GP budget, wilderness risk, locking slots"
+    },
+    {
+      "t": 1601,
+      "text": "Gearscape DPS calculator: comparing Bandos and mixed hide against Kephri, monster DPS, share preset"
+    },
+    {
+      "t": 1875,
+      "text": "Learning raids: practise in low-invocation raids, review your deaths, do not sell yourself short"
+    }
+  ],
+  "topics": [
+    {
+      "name": "Account building",
+      "kind": "activity",
+      "claims": [
+        {
+          "t": 0,
+          "kind": "opinion",
+          "text": "Gnomonkey's Ultimate Account Building Guide targets people building a main account from scratch, both newcomers and established players wanting pointers, whether they want to raid or max and AFK at the Grand Exchange in max gear."
+        },
+        {
+          "t": 29,
+          "kind": "trivia",
+          "text": "Gnomonkey says the guide is mostly for mains because he does not play Ironman in OSRS (he did on RS3), so he does not know most Ironman beginner methods."
+        },
+        {
+          "t": 57,
+          "kind": "opinion",
+          "text": "Gnomonkey says he cannot tell viewers what will be the most fun, only the fastest way to the endgame, and he leads the guide from the viewpoint of someone who enjoys endgame content and raiding."
+        },
+        {
+          "t": 262,
+          "kind": "opinion",
+          "text": "Gnomonkey considers grinding for max stats before starting major raid PvM a better path than starting raids at 85+ stats, saying you are shooting yourself in the foot otherwise and making teammates carry you."
+        },
+        {
+          "t": 531,
+          "kind": "opinion",
+          "text": "Gnomonkey advises grinding the less fun but high-return money-makers first, then being free to do whatever you want in roughly a quarter of the time."
+        },
+        {
+          "t": 1212,
+          "kind": "opinion",
+          "text": "Gnomonkey advises against rebuilds (selling your whole bank to buy one mega rare) in the modern game, because there is too much variety in content with different best-in-slot equipment and you will lose more money than you gain and burn yourself out."
+        },
+        {
+          "t": 1212,
+          "kind": "trivia",
+          "text": "Gnomonkey says rebuilds were something players did when the Twisted bow was the only used mega rare and best in slot everywhere, before Tombs of Amascut was released."
+        }
+      ]
+    },
+    {
+      "name": "Quests",
+      "kind": "activity",
+      "claims": [
+        {
+          "t": 119,
+          "kind": "opinion",
+          "text": "Gnomonkey highly recommends doing every quest as quickly as possible and training stats along the way to meet the quest requirements."
+        },
+        {
+          "t": 142,
+          "kind": "opinion",
+          "text": "Gnomonkey says more recent quests such as Desert Treasure 2 help players learn PvM mechanics and ease them into raiding."
+        },
+        {
+          "t": 174,
+          "kind": "tip",
+          "text": "Gnomonkey notes the OSRS Wiki has an efficient questing guide, and the Quest Helper plugin takes the chore work out of questing."
+        },
+        {
+          "t": 203,
+          "kind": "trivia",
+          "text": "Gnomonkey jokes that his editor Hedron never does her quests and diaries, so she has to run from Barrows to get her salves imbued and pays the boatman to do hard mode Theatre of Blood because she did not do her Night at the Theatre quest."
+        },
+        {
+          "t": 262,
+          "kind": "tip",
+          "text": "Gnomonkey says to max combat stats as quickly as possible through questing or Nightmare Zone, and that the answer to 'can I do X with Y stats' is always to get 99."
+        }
+      ]
+    },
+    {
+      "name": "Achievement Diary",
+      "kind": "mechanic",
+      "claims": [
+        {
+          "t": 142,
+          "kind": "tip",
+          "text": "Gnomonkey says the most important Achievement Diaries to complete are Western Provinces Hard, Seers' Village Hard and Lumbridge & Draynor Elite, though he admits many diaries are boring chores."
+        },
+        {
+          "t": 160,
+          "kind": "requirement",
+          "text": "According to Gnomonkey, the key diaries give Elite Void for raiding, an increased Ruby bolt proc chance, easy teleports, and an extra Slayer block slot for faster grinding."
+        },
+        {
+          "t": 203,
+          "kind": "trivia",
+          "text": "Gnomonkey mocks Hedron for using a seed pod to teleport to the Grand Exchange instead of getting the diary perk, telling viewers not to be like her."
+        }
+      ]
+    },
+    {
+      "name": "Nightmare Zone",
+      "kind": "activity",
+      "claims": [
+        {
+          "t": 232,
+          "kind": "opinion",
+          "text": "Gnomonkey would rather AFK a couple of weeks at Nightmare Zone to get combat stats over with than use Wildy Slayer or other faster methods, and says Nightmare Zone is AFK and has XP-multiplier bosses, making it the best option always."
+        },
+        {
+          "t": 232,
+          "kind": "tip",
+          "text": "For non-melee stats, Gnomonkey says completing Monkey Madness 2 and barraging with the Shadow/Shining-type staff (as heard, 'shining slash barraging') will give the fastest results."
+        },
+        {
+          "t": 260,
+          "kind": "stat",
+          "text": "Gnomonkey says each stat level increase is worth about 2% DPS, and that going from worst gear to best gear is often less beneficial than gaining your last 10 levels in a stat."
+        }
+      ]
+    },
+    {
+      "name": "Slayer",
+      "kind": "skill",
+      "claims": [
+        {
+          "t": 232,
+          "kind": "opinion",
+          "text": "Gnomonkey finds Slayer incredibly tedious and inefficient, although he understands Ironman accounts need supplies from Slayer monsters."
+        },
+        {
+          "t": 292,
+          "kind": "opinion",
+          "text": "Gnomonkey says Slayer is not the best early money-making despite what people swear by, because effective Slayer grinding costs money and by the time you do it properly you are just breaking even while getting the XP."
+        },
+        {
+          "t": 321,
+          "kind": "tip",
+          "text": "Gnomonkey says to take the fastest Slayer tasks for high XP, not boss tasks, unless you want to sidetrack into pet hunting, and recommends returning to the bosses later with max gear."
+        },
+        {
+          "t": 321,
+          "kind": "trivia",
+          "text": "Gnomonkey says his Discord has a spreadsheet of a Slayer block list for maximum XP per hour."
+        }
+      ]
+    },
+    {
+      "name": "Money making",
+      "kind": "activity",
+      "claims": [
+        {
+          "t": 292,
+          "kind": "opinion",
+          "text": "Gnomonkey says having max stats helps you grind for money and progress your account much faster while spending less on supplies."
+        },
+        {
+          "t": 321,
+          "kind": "method",
+          "text": "Gnomonkey names herb runs and buying bonds as the two options for very early money, but says he does not advocate buying bonds as he plays the game to play it, not buy his way through it."
+        },
+        {
+          "t": 350,
+          "kind": "stat",
+          "text": "Gnomonkey says herb runs make easily 2 million GP per hour, and that within a week you can have gear set up to start Vorkath, Corrupted Gauntlet, Muspah or, if comfortable, Desert Treasure 2 bosses."
+        },
+        {
+          "t": 350,
+          "kind": "tip",
+          "text": "Gnomonkey says Vorkath, Corrupted Gauntlet, Phantom Muspah and Desert Treasure 2 bosses will be the main money-makers until reaching about the 200 million GP bracket."
+        },
+        {
+          "t": 556,
+          "kind": "opinion",
+          "text": "Gnomonkey says he does not advocate wasting time on less painful, lower-GP grinds, and says money-makers in the 20 million GP per hour region blow things like Zulrah out of the water, being 10 times higher."
+        }
+      ]
+    },
+    {
+      "name": "Nex",
+      "kind": "boss",
+      "claims": [
+        {
+          "t": 350,
+          "kind": "opinion",
+          "text": "Gnomonkey recommends gearing up for Nex as the next money-maker after the early bosses, saying it has low gear requirements and in learner teams of three to five you make the best money in the game, even as a newer player."
+        },
+        {
+          "t": 378,
+          "kind": "stat",
+          "text": "Gnomonkey says that at Nex's highest scaling duo you can easily make 20 million GP per hour and have all the gear you want for every raid within a few months of grinding."
+        },
+        {
+          "t": 378,
+          "kind": "stat",
+          "text": "Gnomonkey says Nex has a 1 in 43 drop rate for a purple (he says 'CA purple'), worth a split of anywhere from 100 to 250 million, which he calls tremendously faster than any other method."
+        },
+        {
+          "t": 406,
+          "kind": "opinion",
+          "text": "Gnomonkey says the faster drop rate at Nex means you can buy upgrades progressively instead of using poor gear until a Shadow drop, and that the complex switches prepare you for Theatre of Blood and are far more challenging than people give credit for."
+        },
+        {
+          "t": 433,
+          "kind": "trivia",
+          "text": "Gnomonkey says his Discord has a Nex finder channel with FAQ gear setups, and he has made videos on learner and max budget Nex setups."
+        },
+        {
+          "t": 433,
+          "kind": "record",
+          "text": "Gnomonkey says his duo partner Hedron started duo Nex with a 700 million bank with Karil's and a Zaryte crossbow, and after about six months of an hour or two a few times a week she was in full Torva with a Twisted bow and Zaryte crossbow, max Nex gear."
+        }
+      ]
+    },
+    {
+      "name": "Tombs of Amascut",
+      "kind": "raid",
+      "claims": [
+        {
+          "t": 464,
+          "kind": "opinion",
+          "text": "Gnomonkey recommends Tombs of Amascut as the next best option after Nex, noting it is notorious for purples whose values have dropped about 90%, except for the Tumeken's shadow."
+        },
+        {
+          "t": 464,
+          "kind": "stat",
+          "text": "Gnomonkey says in the average player's 300 expert Tombs of Amascut raid there is a 4.2% chance of a purple and 0.17% chance of that being a Tumeken's shadow, so you can expect a shadow about every 565 deathless 300 raids."
+        },
+        {
+          "t": 492,
+          "kind": "tip",
+          "text": "Gnomonkey says the higher the invocation level in Tombs of Amascut, the better the chance of a purple."
+        },
+        {
+          "t": 492,
+          "kind": "opinion",
+          "text": "Gnomonkey calls Tombs of Amascut an entry-level raid to learn and excellent money only once you find the shadow, saying until then the average purple value is next to nothing."
+        },
+        {
+          "t": 492,
+          "kind": "stat",
+          "text": "Gnomonkey says Tombs of Amascut has a better overall purple chance, less than half of which is at Theatre of Blood and Chambers of Xeric, which is why everybody does Tombs of Amascut."
+        },
+        {
+          "t": 492,
+          "kind": "opinion",
+          "text": "Gnomonkey considers Tombs of Amascut the best solo raid for money, and says a 500 invocation Tombs of Amascut makes approximately 20 to 25 million GP per hour."
+        }
+      ]
+    },
+    {
+      "name": "Theatre of Blood",
+      "kind": "raid",
+      "claims": [
+        {
+          "t": 492,
+          "kind": "stat",
+          "text": "Gnomonkey says Theatre of Blood has a 9% purple chance split among the entire team, with the average purple worth far less than at Tombs of Amascut."
+        },
+        {
+          "t": 525,
+          "kind": "stat",
+          "text": "Gnomonkey says Theatre of Blood and Chambers of Xeric typically cap out at around 10 million GP per hour."
+        },
+        {
+          "t": 406,
+          "kind": "opinion",
+          "text": "Gnomonkey says the complex switches practised at Nex prepare you for Theatre of Blood."
+        }
+      ]
+    },
+    {
+      "name": "Chambers of Xeric",
+      "kind": "raid",
+      "claims": [
+        {
+          "t": 492,
+          "kind": "opinion",
+          "text": "Gnomonkey calls Chambers of Xeric and Theatre of Blood fun and great raids but notes their overall purple chance is less than half of Tombs of Amascut."
+        },
+        {
+          "t": 525,
+          "kind": "stat",
+          "text": "Gnomonkey says Chambers of Xeric typically caps out around 10 million GP per hour."
+        },
+        {
+          "t": 1961,
+          "kind": "trivia",
+          "text": "Gnomonkey says he used to be made fun of on stream for not knowing how to do crabs in Chambers of Xeric properly, and that killing your 500th Dagannoth King will not prepare you for solo Chambers of Xeric."
+        }
+      ]
+    },
+    {
+      "name": "Colosseum",
+      "kind": "activity",
+      "claims": [
+        {
+          "t": 525,
+          "kind": "opinion",
+          "text": "Gnomonkey names Colosseum as the final best higher-skill money-maker for existing players, and says it also gives you a best-in-slot ranged cape."
+        },
+        {
+          "t": 525,
+          "kind": "stat",
+          "text": "Gnomonkey says the Colosseum makes about 12 to 15 million GP per hour solidly from splinter and quiver trade-ins plus occasional 10 million uniques."
+        },
+        {
+          "t": 525,
+          "kind": "tip",
+          "text": "Gnomonkey would not suggest Colosseum grinding unless you are maxed with abyssal Colosseum setups or very comfortable, as failing costs supplies and a 500k death fee each time."
+        },
+        {
+          "t": 525,
+          "kind": "opinion",
+          "text": "Gnomonkey says the Colosseum is more for players returning from a break or those who have done the Inferno and want to make money, not for new players."
+        }
+      ]
+    },
+    {
+      "name": "Combat damage mechanics",
+      "kind": "mechanic",
+      "claims": [
+        {
+          "t": 617,
+          "kind": "mechanic",
+          "text": "Gnomonkey explains an OSRS attack first rolls accuracy: a random number based on your current attack level (including potion boosts), prayer and attack style, rolled against the target's defence level multiplied by its defence bonus for that style; if your number is bigger you hit, otherwise you hit zero."
+        },
+        {
+          "t": 649,
+          "kind": "mechanic",
+          "text": "Gnomonkey explains that when an attack lands, the damage is a random number from 1 up to your max hit, so each additional max hit is an extra pip on your die."
+        },
+        {
+          "t": 677,
+          "kind": "opinion",
+          "text": "Gnomonkey says things that increase max hit are usually more important than accuracy, because a bigger die matters more than a 1% higher chance to roll the die."
+        },
+        {
+          "t": 677,
+          "kind": "mechanic",
+          "text": "Gnomonkey says ranged and magic work the same way, with ranged checking the monster's defence level and ranged defence, and magic checking the monster's magic level and magic defence; he notes weakness changes complicate this slightly."
+        },
+        {
+          "t": 706,
+          "kind": "tip",
+          "text": "Gnomonkey says this is why people barrage in melee gear: against a monster with 1 magic level you basically never splash."
+        },
+        {
+          "t": 706,
+          "kind": "mechanic",
+          "text": "Gnomonkey says combat style chooses which accuracy bonus of your gear is rolled, and styles give hidden level boosts: block gives +3 defence and slash on a rune scimitar gives +3 strength."
+        },
+        {
+          "t": 735,
+          "kind": "tip",
+          "text": "Gnomonkey says you basically always want your weapon on aggressive for the extra +3 strength levels; magic never gets increased max hit from style, so it matters much less."
+        },
+        {
+          "t": 735,
+          "kind": "mechanic",
+          "text": "Gnomonkey says ranged on rapid is a tick faster for all weapons, which outweighs even potential max hit gains from accurate every single time."
+        },
+        {
+          "t": 735,
+          "kind": "mechanic",
+          "text": "Gnomonkey says special attacks always use their own style regardless of the selected stance: if you put claws on stab, you roll the lower stab bonus against the enemy's slash defence, lowering accuracy against stab-weak enemies."
+        }
+      ]
+    },
+    {
+      "name": "Osmumten's fang",
+      "kind": "item",
+      "claims": [
+        {
+          "t": 764,
+          "kind": "stat",
+          "text": "Gnomonkey says the Osmumten's fang costs 13 million GP at the time of the video and is useful almost everywhere, but he sees many people misuse it."
+        },
+        {
+          "t": 764,
+          "kind": "mechanic",
+          "text": "Gnomonkey says the Osmumten's fang has a low max hit but rolls accuracy twice, making it extremely accurate."
+        },
+        {
+          "t": 793,
+          "kind": "tip",
+          "text": "Gnomonkey says the Osmumten's fang is amazing on high-defence bosses weakest to melee, which is most Tombs of Amascut bosses, and bad on anything under 50 defence, which is basically all Slayer monsters."
+        },
+        {
+          "t": 793,
+          "kind": "mechanic",
+          "text": "Gnomonkey says the Osmumten's fang does not benefit as much from strength bonus as most weapons, so it pairs well with the Lightbearer where strength bonus matters less."
+        }
+      ]
+    },
+    {
+      "name": "Lightbearer",
+      "kind": "item",
+      "claims": [
+        {
+          "t": 793,
+          "kind": "mechanic",
+          "text": "Gnomonkey says the Lightbearer doubles special attack regeneration but has no stats."
+        },
+        {
+          "t": 793,
+          "kind": "tip",
+          "text": "Gnomonkey says the Lightbearer is amazing on high-defence bosses weakest to melee because it lets you use highly accurate special attacks, with the Zaryte crossbow or Tombs of Amascut bosses as examples, and pairs extremely well with the Osmumten's fang."
+        },
+        {
+          "t": 825,
+          "kind": "tip",
+          "text": "Gnomonkey says the Lightbearer is also good for tanky bosses and bosses with downtime, such as Sotetseg, Maze or Duke Sucellus."
+        },
+        {
+          "t": 908,
+          "kind": "opinion",
+          "text": "Gnomonkey says that for the most part the Lightbearer is the king of the ring slot, with melee rings excellent only for non-fang melee weapons, and lower-tier versions of those rings being utterly useless."
+        }
+      ]
+    },
+    {
+      "name": "Gear misconceptions",
+      "kind": "opinion",
+      "claims": [
+        {
+          "t": 825,
+          "kind": "tip",
+          "text": "Gnomonkey says Mixed hide armour is ranged/melee hybrid armour with low requirements and cost and stab and strength bonus, roughly equal to Bandos when paired with a fang, slightly worse than black dragonhide with ranged gear, and bad for tanking like at God Wars Dungeon."
+        },
+        {
+          "t": 825,
+          "kind": "tip",
+          "text": "Gnomonkey says the Toxic blowpipe is high DPS and fast attacking, very bad on tanky targets over 150 defence, and the best DPS on low-defence targets such as everything drained in Theatre of Blood and Slayer monsters."
+        },
+        {
+          "t": 857,
+          "kind": "opinion",
+          "text": "Gnomonkey says the only useful offhands are DPS-boosting ones; shields are not useful outside rare tanking situations like the Inferno or rare boss interactions like the Spectral shield at Cerberus."
+        },
+        {
+          "t": 857,
+          "kind": "tip",
+          "text": "Gnomonkey says the best-in-slot offhand for melee activity is a defender, for ranged a buckler, and for magic the ward, and that the Book of the Dead is a good inventory-saving offhand because a faster-dying boss hits you less."
+        },
+        {
+          "t": 885,
+          "kind": "opinion",
+          "text": "Gnomonkey says camping an Elysian spirit shield will often make you take more damage overall than just camping a defender."
+        },
+        {
+          "t": 919,
+          "kind": "tip",
+          "text": "Gnomonkey says boots are typically not worth using as switches because they are tiny DPS boosts; melee boots are far better than other styles because of strength bonus."
+        },
+        {
+          "t": 919,
+          "kind": "opinion",
+          "text": "Gnomonkey says Pegasian boots are almost completely useless everywhere, are not worth purchasing until you have nearly everything else in the game, and never see use in raids."
+        }
+      ]
+    },
+    {
+      "name": "Arceuus spellbook",
+      "kind": "mechanic",
+      "claims": [
+        {
+          "t": 885,
+          "kind": "stat",
+          "text": "Gnomonkey says thralls from the Arceuus spellbook add a flat 0.625 DPS at any location, which is more DPS than most gear additions and typically 5 to 10% of your total DPS."
+        },
+        {
+          "t": 885,
+          "kind": "opinion",
+          "text": "Gnomonkey says that despite costing prayer points and an inventory slot for the Book of the Dead, thralls use fewer overall resources than something like Blood Barrage at almost every location."
+        }
+      ]
+    },
+    {
+      "name": "Void Knight equipment",
+      "kind": "item",
+      "claims": [
+        {
+          "t": 952,
+          "kind": "opinion",
+          "text": "Gnomonkey says melee and mage void have far lower max hits than the alternatives and are nearly useless."
+        },
+        {
+          "t": 952,
+          "kind": "tip",
+          "text": "Gnomonkey says ranged void gives a large damage boost and is powerful when not on task, but has terrible accuracy and is only good against targets with literally zero defence."
+        }
+      ]
+    },
+    {
+      "name": "Sanguinesti staff",
+      "kind": "item",
+      "claims": [
+        {
+          "t": 952,
+          "kind": "stat",
+          "text": "Gnomonkey says the Sanguinesti staff is usually one max hit over the Trident and heals for one sixth of the damage dealt."
+        },
+        {
+          "t": 952,
+          "kind": "tip",
+          "text": "Gnomonkey says the Sanguinesti staff is an amazing sustain tool for getting into raids, but because it is expensive it is worth getting a bit later than some other upgrades."
+        }
+      ]
+    },
+    {
+      "name": "Tumeken's shadow",
+      "kind": "item",
+      "claims": [
+        {
+          "t": 985,
+          "kind": "mechanic",
+          "text": "Gnomonkey says Tumeken's shadow triples accuracy and damage bonuses from magic gear, and quadruples them within Tombs of Amascut."
+        },
+        {
+          "t": 985,
+          "kind": "mechanic",
+          "text": "Gnomonkey says the Tumeken's shadow's base max hit increases with magic level boosts such as overload and salts, and it punches through magic defence."
+        },
+        {
+          "t": 985,
+          "kind": "opinion",
+          "text": "Gnomonkey says the Tumeken's shadow is extremely weak without powerful magic gear equipped, though it is decent in some unconventional places like Zebak."
+        },
+        {
+          "t": 1105,
+          "kind": "opinion",
+          "text": "Gnomonkey says Ancestral robes are extremely overinflated in value due to their benefit with the shadow, and not worth the money without one: one max hit over Virtus for the whole set and two over Ahrim's for the whole set, so buying them before a shadow is simply trolling."
+        },
+        {
+          "t": 1212,
+          "kind": "tip",
+          "text": "Gnomonkey says that dumping your bank for a Tumeken's shadow would mean being locked at Tombs of Amascut 300s for around six months to get your gear back."
+        }
+      ]
+    },
+    {
+      "name": "Scythe of Vitur",
+      "kind": "item",
+      "claims": [
+        {
+          "t": 1013,
+          "kind": "mechanic",
+          "text": "Gnomonkey says the Scythe of Vitur rolls three times against larger targets with descending damage hit splats, and benefits from strength bonus more than most melee weapons."
+        },
+        {
+          "t": 1013,
+          "kind": "tip",
+          "text": "Gnomonkey says the Scythe of Vitur is better on lower-defence targets because it rolls accuracy three times, has weird damage breakpoints where certain max hits give bonus hits, and is used less than the other super weapons because its use case is less broad."
+        }
+      ]
+    },
+    {
+      "name": "Twisted bow",
+      "kind": "item",
+      "claims": [
+        {
+          "t": 1013,
+          "kind": "mechanic",
+          "text": "Gnomonkey says the Twisted bow's max hit and accuracy increase with the opponent's magic level, with a higher cap in Chambers of Xeric."
+        },
+        {
+          "t": 1013,
+          "kind": "tip",
+          "text": "Gnomonkey says the Twisted bow is useless on things with low magic level, has weird damage breakpoints where certain max hits give bonus hits, is better against low-defence targets, but can punch through a decent amount of defence."
+        },
+        {
+          "t": 292,
+          "kind": "opinion",
+          "text": "Gnomonkey says leveling your stats to max gets you a free Twisted bow's worth of damage."
+        }
+      ]
+    },
+    {
+      "name": "Bow of Faerdhinen",
+      "kind": "item",
+      "claims": [
+        {
+          "t": 1045,
+          "kind": "mechanic",
+          "text": "Gnomonkey says the Bow of Faerdhinen is a powerful mid-game ranged set that is useless without crystal armour, which boosts accuracy and max hit per piece."
+        },
+        {
+          "t": 1045,
+          "kind": "tip",
+          "text": "Gnomonkey says the Bow of Faerdhinen punches through defence quite well and has very long range, which can be more useful than a blowpipe in some situations."
+        }
+      ]
+    },
+    {
+      "name": "Zaryte crossbow",
+      "kind": "item",
+      "claims": [
+        {
+          "t": 1045,
+          "kind": "mechanic",
+          "text": "Gnomonkey says the Zaryte crossbow makes ruby bolts hit for 110 and is typically the most powerful spec weapon for DPS, assuming the target has 500 HP or more."
+        },
+        {
+          "t": 1045,
+          "kind": "tip",
+          "text": "Gnomonkey says the Zaryte crossbow is useful as a main-hand weapon on extremely tanky targets with lots of HP, like Nex, and has DPS similar to the Bow of Faerdhinen when paired with Masori."
+        }
+      ]
+    },
+    {
+      "name": "Venator bow",
+      "kind": "item",
+      "claims": [
+        {
+          "t": 1076,
+          "kind": "opinion",
+          "text": "Gnomonkey calls the Venator bow the best multi-target DPS in the game, good against multiple small but very healthy targets like Slayer monsters, beating other options by around 50%, but useless on single targets."
+        }
+      ]
+    },
+    {
+      "name": "Saturated heart",
+      "kind": "item",
+      "claims": [
+        {
+          "t": 1076,
+          "kind": "stat",
+          "text": "Gnomonkey says the Saturated heart boosts magic by 13 levels and does not decay."
+        },
+        {
+          "t": 1076,
+          "kind": "opinion",
+          "text": "Gnomonkey says the Saturated heart is not useful where you already have boosts like salts and overload, you can pre-pot with Forgotten brew for a similar effect, and it is only useful for mage camp bosses like the Whisperer and typically only worth buying late into an account."
+        }
+      ]
+    },
+    {
+      "name": "Special attack weapons",
+      "kind": "mechanic",
+      "claims": [
+        {
+          "t": 1125,
+          "kind": "tip",
+          "text": "Gnomonkey says the Accursed sceptre's magic-draining special attack works for one spec from one person and is typically useless in PvM, including Tombs of Amascut."
+        },
+        {
+          "t": 1134,
+          "kind": "tip",
+          "text": "Gnomonkey says the Bandos godsword's accurate defence-draining slash special drains exactly the levels it hits, great for bosses around 100 defence or when a small drain is needed like in Tombs of Amascut, and fairly useless on targets with tons of defence."
+        },
+        {
+          "t": 1155,
+          "kind": "tip",
+          "text": "Gnomonkey says the Elder maul drains 35% of the target's current defence, is directly better than the Dragon warhammer except for its max hit, is amazing against defence over 100 and useless under 100."
+        },
+        {
+          "t": 1155,
+          "kind": "tip",
+          "text": "Gnomonkey says the weapon he calls the toenails of Ralos drains a flat amount of defence based on the target's magic level, is useless nearly everywhere compared to other options, is a solid option for Maiden where it is the best option for draining her, and that its high price is baffling."
+        },
+        {
+          "t": 1168,
+          "kind": "tip",
+          "text": "Gnomonkey says Dragon claws are an extremely accurate slash special, great if the target is weak to slash or low defence, and do lower damage the higher the opponent's defence."
+        },
+        {
+          "t": 1168,
+          "kind": "tip",
+          "text": "Gnomonkey says the Voidwaker has a guaranteed accurate special with a lower max hit than claws, is amazing on extremely tanky targets like Kephri, and worse than Zaryte crossbow or claws on low defence."
+        },
+        {
+          "t": 1201,
+          "kind": "tip",
+          "text": "Gnomonkey says the weapon he calls 'Chali' has an extremely slow but powerful special attack, great just before a boss has downtime such as Bloat or Grotesque Guardians, terrible as a generic DPS spec where even the Dragon dagger special is superior."
+        }
+      ]
+    },
+    {
+      "name": "Gearscape",
+      "kind": "other",
+      "claims": [
+        {
+          "t": 1233,
+          "kind": "opinion",
+          "text": "Gnomonkey recommends gearscape.net, where you plug in all your gear and compare DPS to see the best upgrade for the bosses you fight, and which can also suggest gear by best DPS with a GP limit."
+        },
+        {
+          "t": 1261,
+          "kind": "trivia",
+          "text": "Gnomonkey says he did all of his wiki guide videos using Gearscape, calls it infinitely more useful than any wiki setup, and says the site is constantly being updated."
+        },
+        {
+          "t": 1261,
+          "kind": "tip",
+          "text": "Gnomonkey says Gearscape's best-setup tool gives an optimal setup for any boss based on your GP, the items you own as an Ironman (which can be imported), or an amount of risk in the Wilderness."
+        },
+        {
+          "t": 1294,
+          "kind": "tip",
+          "text": "Gnomonkey says your in-game stats can be imported into Gearscape by typing your in-game name using the Wise Old Man plugin in RuneLite, with extra toggles for being on task, in the Wilderness, hard Seers' diary done, or using sunfire runes."
+        },
+        {
+          "t": 1320,
+          "kind": "tip",
+          "text": "Gnomonkey says Gearscape's boss input includes team size and difficulty modifiers and the boss's stats, weaknesses and tags, such as Kephri being a Tombs of Amascut boss so the shadow and fang are multiplied against her, and you can enter a custom monster with any stats for testing future content."
+        },
+        {
+          "t": 1378,
+          "kind": "tip",
+          "text": "Gnomonkey says to use the exclude tab in Gearscape for untradeable items or prayers you do not have (such as Infernal cape, quivers, Rigor, Augury) and Zamorakian brews, and the include tab mainly for Ironmen to mark owned items, set to 'mark free' for mains and 'only include' for Irons."
+        },
+        {
+          "t": 1408,
+          "kind": "tip",
+          "text": "Gnomonkey says an Ironman can import their whole bank into Gearscape using the Bank Memory plugin in RuneLite (copy the saved bank and hit import), or import a bank tag tab for only specific items."
+        },
+        {
+          "t": 1444,
+          "kind": "tip",
+          "text": "Gnomonkey says Gearscape maximises DPS by default given a GP budget, and for the Wilderness you set the number of expensive items you are willing to risk (typically four) and a value per item; setting it to 11 assumes risk is no worry."
+        },
+        {
+          "t": 1504,
+          "kind": "tip",
+          "text": "Gnomonkey says Gearscape's output shows DPS, max hit, accuracy, average hit and total cost, plus assumed prayer and potion, and can be saved and imported back into RuneLite; slots can be locked (right-click, lock) when you want a specific item like the Lightbearer or Blood fury."
+        },
+        {
+          "t": 1572,
+          "kind": "tip",
+          "text": "Gnomonkey says Gearscape's best-setup tool has a limitation: it only gives the best setup at one boss and cannot determine switches across multiple bosses for maximum DPS, so full raid setups still need a calculator and thought."
+        },
+        {
+          "t": 1818,
+          "kind": "tip",
+          "text": "Gnomonkey says Gearscape's monster DPS output shows how hard monsters hit you in your tank gear, useful at places like Nex or God Wars Dungeon."
+        },
+        {
+          "t": 1806,
+          "kind": "tip",
+          "text": "Gnomonkey says a recently added Gearscape share preset button generates a link that gives someone else the exact same calculator layout."
+        },
+        {
+          "t": 1840,
+          "kind": "opinion",
+          "text": "Gnomonkey says Gearscape's developers are friendly, fix reported bugs almost immediately via the Discord button on the site, and are working on open-sourcing the tool and integrating more with RuneLite."
+        }
+      ]
+    },
+    {
+      "name": "DPS calculator",
+      "kind": "mechanic",
+      "claims": [
+        {
+          "t": 1619,
+          "kind": "opinion",
+          "text": "Gnomonkey says that for raids, jumping into a calculator and calcing every style and boss is overwhelming and unhelpful; use raid guides to get a base setup and use a calculator only to tweak it."
+        },
+        {
+          "t": 1647,
+          "kind": "opinion",
+          "text": "Gnomonkey says OSRS content has been around long enough that much of it is solved, so learner setups should not be overcomplicated and the metas are solid."
+        },
+        {
+          "t": 1648,
+          "kind": "tip",
+          "text": "Gnomonkey says the Gearscape calculator lets you duplicate or delete setups, compare several side by side, and apply shared modifier sliders to all calcs at once."
+        },
+        {
+          "t": 1743,
+          "kind": "stat",
+          "text": "In Gnomonkey's Gearscape comparison of Bandos versus Mixed hide against a 500-level Kephri with a Lightbearer, Bandos was 0.93% better when Kephri was BGS'd to 20 defence, and mixed hide was only 0.14% worse when she was not BGS'd."
+        },
+        {
+          "t": 1774,
+          "kind": "tip",
+          "text": "Gnomonkey says the calculator printout gives DPS, overkill, max hit, accuracy, average hit and time to kill for each setup."
+        }
+      ]
+    },
+    {
+      "name": "Learning raids",
+      "kind": "guide",
+      "claims": [
+        {
+          "t": 1872,
+          "kind": "tip",
+          "text": "Gnomonkey says learning raids takes time even once gear, GP and stats are ready, and that skills like Red X / butterfly are learned by going into a 0 invocation raid and not coming out until you have mastered it, costing only time."
+        },
+        {
+          "t": 1901,
+          "kind": "tip",
+          "text": "Gnomonkey advises recording yourself and reviewing your mistakes, or asking others to look at it, if you are frustrated or do not understand why you died."
+        },
+        {
+          "t": 1931,
+          "kind": "opinion",
+          "text": "Gnomonkey says people massively underestimate themselves and the OSRS community when it comes to what they can do, and that dying is valuable for teaching you something for the next attempt."
+        },
+        {
+          "t": 1961,
+          "kind": "opinion",
+          "text": "Gnomonkey says raids are lucrative because of their complexity and difficulty, and that you do not need a specific amount of experience with other content, since the only way to learn content is by doing it and failing until it clicks."
+        },
+        {
+          "t": 1872,
+          "kind": "trivia",
+          "text": "Gnomonkey says there is plenty of old footage of him with a whip and Serp helm dying to the Maze in Theatre of Blood or failing tightrope skips, and that he has lost millions of GP on deaths and supplies."
+        }
+      ]
+    },
+    {
+      "name": "Gnomonkey",
+      "kind": "person",
+      "claims": [
+        {
+          "t": 378,
+          "kind": "trivia",
+          "text": "Gnomonkey says he has a 25 billion GP bank."
+        },
+        {
+          "t": 1961,
+          "kind": "trivia",
+          "text": "Gnomonkey says his Discord has experienced players who can give input, and that his channel recently launched a new merch store with designs by his editor Hedron."
+        }
+      ]
+    }
+  ]
+}

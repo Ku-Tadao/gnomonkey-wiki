@@ -1,0 +1,124 @@
+{
+  "id": "0Y3A-3mCnUQ",
+  "title": "Mutated Zygomites Slayer Guide (Fastest Task for Points)",
+  "date": "2020-04-02",
+  "type": "guide",
+  "summary": "A short guide to mutated zygomites, which Gnomonkey calls one of the shortest and easiest Slayer tasks and worth doing for the Slayer points, not for money or XP. He covers requirements, gear, fungicide, location and the method.",
+  "outline": [
+    {
+      "t": 0,
+      "text": "Why zygomites are worth doing: short task and points"
+    },
+    {
+      "t": 29,
+      "text": "Gear, fungicide spray and the shroom sprayer unlock"
+    },
+    {
+      "t": 62,
+      "text": "Inventory and supplies"
+    },
+    {
+      "t": 94,
+      "text": "Location and killing method"
+    },
+    {
+      "t": 125,
+      "text": "Task length and wrap-up"
+    }
+  ],
+  "topics": [
+    {
+      "name": "Mutated zygomite",
+      "kind": "boss",
+      "claims": [
+        {
+          "t": 0,
+          "kind": "opinion",
+          "text": "Gnomonkey says zygomites are one of the shortest tasks in the game and worth doing just for the Slayer points, with pitiful drops and only around 15k Slayer XP an hour."
+        },
+        {
+          "t": 0,
+          "kind": "tip",
+          "text": "Zygomites mostly drop only nature runes, cannot drop clue scrolls, and also drop ashes, so a bone crusher is not needed."
+        },
+        {
+          "t": 0,
+          "kind": "stat",
+          "text": "Zygomites are Duradel's rarest task, tied with rune and adamant dragons and water fiends."
+        },
+        {
+          "t": 0,
+          "kind": "requirement",
+          "text": "Zygomites are unlocked at 57 Slayer and are incredibly easy, not requiring a high combat level."
+        },
+        {
+          "t": 29,
+          "kind": "tip",
+          "text": "Gear does not matter much since the task lasts a few minutes regardless; Gnomonkey brings a Slayer helmet or black mask and his best melee gear, and says they can also be ranged or magic'd easily."
+        },
+        {
+          "t": 62,
+          "kind": "tip",
+          "text": "Zygomites use magic melee and magic ranged attacks, so melee users want some food just in case."
+        },
+        {
+          "t": 94,
+          "kind": "method",
+          "text": "To reach them, take a fairy ring to Xanadu (the transcript's Xanarus) and run straight north to a little circle of five mushrooms."
+        },
+        {
+          "t": 94,
+          "kind": "method",
+          "text": "To fight them, click a mushroom to uproot it and then attack it; below 10% health use fungicide spray on it, or if the shroom sprayer unlock is owned it kills them automatically."
+        },
+        {
+          "t": 94,
+          "kind": "tip",
+          "text": "Gnomonkey runs around in a circle killing them and picks up drops after a second rotation to be more efficient."
+        },
+        {
+          "t": 125,
+          "kind": "stat",
+          "text": "Duradel only assigns 20 to 30 mutated zygomites, so the task is over in about 10 minutes."
+        }
+      ]
+    },
+    {
+      "name": "Fungicide spray",
+      "kind": "item",
+      "claims": [
+        {
+          "t": 29,
+          "kind": "tip",
+          "text": "A few fungicide sprays must be bought from a Slayer master; the other similar items sold only refill the sprayer, which Gnomonkey does not bother with since sprays are only 100 GP each."
+        },
+        {
+          "t": 29,
+          "kind": "stat",
+          "text": "The shroom sprayer unlock costs 110 Slayer points from a Slayer master and automatically kills zygomites at low health; Gnomonkey says it is probably the last thing he would buy with points."
+        }
+      ]
+    },
+    {
+      "name": "Slayer",
+      "kind": "skill",
+      "claims": [
+        {
+          "t": 62,
+          "kind": "tip",
+          "text": "For the zygomite task Gnomonkey brings prayer potions, a quest cape to teleport via fairy ring, a divine super set, a holy wrench to save prayer potions, a Saradomin godsword (handy but not necessary), and a desert amulet to restore stats after the task."
+        },
+        {
+          "t": 62,
+          "kind": "tip",
+          "text": "Alternatives to the quest cape for reaching the area are slayer rings or a necklace of passage to the Wizards' Tower; zygomites technically drop gems and herbs but Gnomonkey has never seen one, so the sacks are not needed."
+        },
+        {
+          "t": 125,
+          "kind": "opinion",
+          "text": "Gnomonkey calls mutated zygomites probably the simplest and easiest task you can get from Duradel."
+        }
+      ]
+    }
+  ]
+}

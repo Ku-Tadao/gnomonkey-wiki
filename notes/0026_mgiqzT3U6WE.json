@@ -1,0 +1,56 @@
+{
+  "id": "mgiqzT3U6WE",
+  "title": "Dagannoth Slayer Guide (80k SLAYER XP/HR!)",
+  "date": "2020-04-17",
+  "type": "guide",
+  "summary": "A guide to Dagannoth Slayer tasks from Duradel at the Lighthouse, using a cannon. Gnomonkey reports high combat and Slayer XP rates, with seed and unsired head drops roughly covering cannonball costs, and says the task is worth doing every time.",
+  "outline": [
+    {"t": 0, "text": "Introduction, XP rates and requirements"},
+    {"t": 27, "text": "Gear and inventory, and the Catacombs alternative"},
+    {"t": 90, "text": "Soul bearer and lost unsired heads"},
+    {"t": 116, "text": "Getting to the Lighthouse via fairy ring ALP and setting up the cannon"},
+    {"t": 167, "text": "Results: loot, XP and cannonball cost"}
+  ],
+  "topics": [
+    {
+      "name": "Dagannoth",
+      "kind": "other",
+      "claims": [
+        {"t": 0, "kind": "stat", "text": "Gnomonkey says you can easily hit 80k Slayer XP an hour on Dagannoth tasks."},
+        {"t": 0, "kind": "stat", "text": "Gnomonkey says Dagannoth seed drops almost pay for the cannonballs used on task, and lucky snapdragon seed drops can make the task profitable."},
+        {"t": 0, "kind": "requirement", "text": "Dagannoth have no requirements to attack, but Horror from the Deep is needed to fight them optimally in the Lighthouse and Dwarf Cannon is needed to use the cannon."},
+        {"t": 0, "kind": "stat", "text": "Dagannoth have a weight of 9 from Duradel, so you will get them quite often."},
+        {"t": 29, "kind": "tip", "text": "Without Bandos armour Dagannoth can hit quite hard, so Gnomonkey suggests bringing decent Barrows armour or extra prayer potions and praying melee."},
+        {"t": 29, "kind": "tip", "text": "Gnomonkey suggests downgrading primordial boots to dragon boots, ferocious gloves to Barrows gloves and/or amulet of torture to amulet of fury if short on money."},
+        {"t": 29, "kind": "tip", "text": "Gnomonkey recommends Ironmen or players not using a cannon fight Dagannoth in the Catacombs of Kourend, where they can give totem pieces and ancient shards, there are many of them, and it avoids being crashed by cannoners at the Lighthouse."},
+        {"t": 90, "kind": "tip", "text": "The Dagannoth drop many unsired heads, and Gnomonkey lost about 20k because he forgot to bring a soul bearer to teleport the heads back."},
+        {"t": 116, "kind": "method", "text": "To start a Dagannoth task, teleport to fairy ring code ALP, walk into the Lighthouse, enter the basement and set the cannon down on a specific tile while drinking a super combat potion and enabling piety."},
+        {"t": 116, "kind": "tip", "text": "Gnomonkey advises avoiding the Dagannoth task on mobile because it is hard to spot snapdragon seeds and the large piles of drops."},
+        {"t": 116, "kind": "tip", "text": "Most of the damage on a Dagannoth task comes from the cannon, which is constantly firing."},
+        {"t": 150, "kind": "record", "text": "A full task of 175 Dagannoth took Gnomonkey 13 minutes and gave 13k Slayer XP, with about 120k combat XP an hour and 90k ranged XP an hour."},
+        {"t": 152, "kind": "stat", "text": "On that Dagannoth task Gnomonkey used almost a thousand cannonballs, costing about 170k, and received only one snapdragon seed, which he says is about average."},
+        {"t": 152, "kind": "stat", "text": "From the seeds and unsired heads collected Gnomonkey made back about 100k on the Dagannoth task."},
+        {"t": 152, "kind": "opinion", "text": "Gnomonkey says you tend to lose money on Dagannoth tasks on average, but the crazy XP rates and short task length make it worth doing every time."}
+      ]
+    },
+    {
+      "name": "Slayer",
+      "kind": "skill",
+      "claims": [
+        {"t": 29, "kind": "tip", "text": "For Dagannoth tasks Gnomonkey brings a cannon, calling this one of the most useful tasks to have a cannon for."},
+        {"t": 63, "kind": "tip", "text": "Gnomonkey brings a quest cape for fast fairy ring access, and Karamja gloves, a crafting cape and desert amulet to restock and retask after finishing a Dagannoth task."},
+        {"t": 63, "kind": "tip", "text": "Gnomonkey brings a bone crusher for extra Prayer XP on Dagannoth tasks, a wrench to save prayer points, a herb and gem sack, and a Saradomin godsword to keep HP and prayer up."},
+        {"t": 90, "kind": "tip", "text": "Gnomonkey brings a divine super combat potion, six prayer potions and a couple of sharks for a Dagannoth task."},
+        {"t": 116, "kind": "opinion", "text": "Gnomonkey's description calls Dagannoth probably the best cannonable Slayer task in the game."}
+      ]
+    },
+    {
+      "name": "Dwarf multicannon",
+      "kind": "item",
+      "claims": [
+        {"t": 29, "kind": "tip", "text": "Gnomonkey considers Dagannoth one of the most useful tasks to bring a cannon to."},
+        {"t": 152, "kind": "stat", "text": "On his 175-Dagannoth task the cannon used almost a thousand cannonballs costing about 170k."}
+      ]
+    }
+  ]
+}

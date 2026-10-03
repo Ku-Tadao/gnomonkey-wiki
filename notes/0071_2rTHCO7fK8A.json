@@ -1,0 +1,277 @@
+{
+  "id": "2rTHCO7fK8A",
+  "title": "Bandos DUO Guide (DOLO) 60 Kill Trips OSRS",
+  "date": "2021-11-25",
+  "type": "guide",
+  "summary": "A guide to killing General Graardor at the God Wars Dungeon as a duo (or solo with an alt), with one player tanking using the recently changed Dinh's bulwark and the other attacking, allowing trips of up to 2 hours and about 30 kills per hour. Gnomonkey values a Bandos kill at roughly 180k-185k gp, giving about 5.4-5.5m gp/hr total and around 2.75-3m gp/hr each when splitting.",
+  "outline": [
+    {
+      "t": 0,
+      "text": "Introduction to the new Bulwark tanking setup"
+    },
+    {
+      "t": 85,
+      "text": "Tank gear and stat requirements"
+    },
+    {
+      "t": 173,
+      "text": "Tank inventory and supplies"
+    },
+    {
+      "t": 231,
+      "text": "Attacker gear and inventory setup"
+    },
+    {
+      "t": 326,
+      "text": "Getting to the boss room and gaining killcount"
+    },
+    {
+      "t": 384,
+      "text": "Bandos kill mechanics and prayers"
+    },
+    {
+      "t": 449,
+      "text": "Minion phase, healing and resetting"
+    },
+    {
+      "t": 523,
+      "text": "Profit and final thoughts"
+    }
+  ],
+  "topics": [
+    {
+      "name": "General Graardor",
+      "kind": "boss",
+      "claims": [
+        {
+          "t": 28,
+          "kind": "opinion",
+          "text": "Gnomonkey says General Graardor (Bandos) hits like a truck, so it is fairly common to duo him with a tank pulling his aggro."
+        },
+        {
+          "t": 28,
+          "kind": "stat",
+          "text": "In the setup shown, Bandos trips can last up to two hours depending on food and restore drops."
+        },
+        {
+          "t": 28,
+          "kind": "stat",
+          "text": "At the time of the video (November 2021), a Bandos kill was worth about 180k gp on average, up from 150k when Gnomonkey made his solo Bandos guide a month or so earlier; later in the video he quotes 184,982 gp per kill."
+        },
+        {
+          "t": 58,
+          "kind": "stat",
+          "text": "With max gear and the maximum of 30 kills per hour, Gnomonkey says about 5.4m gp/hr total is possible (later quoted as just over 5.5m), or just shy of 3m gp/hr (about 2.75m) each when splitting with a partner."
+        },
+        {
+          "t": 58,
+          "kind": "tip",
+          "text": "If you run the Bandos duo (dolo) with your own alt, the gp/hr is insane because you keep the full amount, and Gnomonkey says it is the time to \"grant out\" a pet drop if you have an alt and want it."
+        },
+        {
+          "t": 85,
+          "kind": "requirement",
+          "text": "The Bandos tank wants 90+ combat stats, focusing on Defence and Strength as high as possible, and over 80 Prayer to lengthen trips."
+        },
+        {
+          "t": 90,
+          "kind": "requirement",
+          "text": "For the attacker, Gnomonkey wants 90+ Ranged and 80+ Defence for the ranged setup (or 90+ combat stats for melee), 80+ Prayer, at least 84 Magic for Pot Share, and 93 Magic for Vengeance Other; Explorer's ring 4 is helpful but only one player needs it."
+        },
+        {
+          "t": 124,
+          "kind": "tip",
+          "text": "The tank is ideally on the Arceuus spellbook with 80 Magic for thralls and Death Charge, though they can bring alchs instead; higher Magic helps tank the magic minion, which is where about half of the damage taken comes from."
+        },
+        {
+          "t": 124,
+          "kind": "method",
+          "text": "Gnomonkey's tank gear is absolute max tank gear: bulwark, full Justiciar, Infernal or Fire cape, Guardian boots, Barrows gloves, Ring of suffering, and Unholy blessing."
+        },
+        {
+          "t": 152,
+          "kind": "tip",
+          "text": "The tank can optionally swap the Ring of suffering for a Berserker ring, which gives a higher max hit but only when the tank is max potted, so Gnomonkey recommends the Ring of suffering for its defence and prayer bonus."
+        },
+        {
+          "t": 152,
+          "kind": "opinion",
+          "text": "Gnomonkey says the Amulet of blood fury is very important for this setup because it keeps health high during the kill, and that Bandos armour could probably be used instead of Justiciar but is inferior in max hit and dramatically worse in defence; he highly recommends full Justiciar."
+        },
+        {
+          "t": 152,
+          "kind": "method",
+          "text": "The tank inventory has Guthan's armour (absolutely necessary) and a Bandos godsword for extra DPS each kill, which Gnomonkey considers better than a Dragon warhammer."
+        },
+        {
+          "t": 184,
+          "kind": "method",
+          "text": "The tank brings about 10 cheap food healing 22 and around 8 super restores, and uses the Arceuus spellbook for extra DPS withdrawals and Death Charge for additional Bandos godsword specs."
+        },
+        {
+          "t": 184,
+          "kind": "tip",
+          "text": "If neither player has an Explorer's ring 4 or the Arceuus spellbook, bring the standard spellbook with alchs, optionally with lava runes for Bones to Peaches, otherwise bring tablets; the Arceuus spellbook requires bringing the Book of the Dead."
+        },
+        {
+          "t": 211,
+          "kind": "method",
+          "text": "The rune pouch holds blood, cosmic and fire runes, with loose death and soul runes, plus Bones to Peaches tabs, and one of the two players must bring an Explorer's ring 4; on the standard spellbook, inventory space is freed for extra restores or food, and an imbued heart adds magic defence."
+        },
+        {
+          "t": 219,
+          "kind": "method",
+          "text": "Gnomonkey's attacker uses Bow of Faerdhinen with Crystal armour, an Amulet of anguish, and the Max cape (Ava's assembler does not give a max hit with the Bow of Faerdhinen), though a Prayer or Hitpoints cape also works."
+        },
+        {
+          "t": 239,
+          "kind": "tip",
+          "text": "Other attacker gear mentioned: Boots such as Pegasian boots (as heard in the auto-transcript) or blessed dragonhide-style boots are fine, a Ring of suffering or Ring of the gods works, and Zamorak bracers and War blessing or vice versa."
+        },
+        {
+          "t": 239,
+          "kind": "opinion",
+          "text": "Gnomonkey says the Bow of Faerdhinen is by far the best DPS at Bandos because of his high defence; a toxic blowpipe is still over 30% worse DPS and causes the attacker to be targeted by minions more often due to weird minion mechanics."
+        },
+        {
+          "t": 269,
+          "kind": "tip",
+          "text": "If you cannot afford the Bow of Faerdhinen, Gnomonkey recommends max melee with a rapier or Abyssal tentacle, which is far better DPS than a blowpipe; replace ranged potions with more food and restores, and bring your own Bandos godsword in place of the blowpipe."
+        },
+        {
+          "t": 269,
+          "kind": "method",
+          "text": "The attacker inventory has Guthan's (absolutely necessary), six Divine bastion potions and six super combats to pot share to both players, a blowpipe filled with dragon darts (for killing minions and special-attack healing), two emergency anglerfish and five super restores."
+        },
+        {
+          "t": 296,
+          "kind": "tip",
+          "text": "The attacker must be on the Lunar spellbook with a rune pouch of mud, death and astral runes to Pot Share and cast Vengeance Other on the tank; without the Magic level for Vengeance, bring earth, astral and water runes instead. Pick up the blowpipe darts after minions unless you have a Max cape."
+        },
+        {
+          "t": 387,
+          "kind": "tip",
+          "text": "Before entering the boss room, both players pray Preserve; the attacker pot shares a super combat, and the tank enters the room first, immediately specs Bandos with the Bandos godsword and starts attacking with the bulwark."
+        },
+        {
+          "t": 406,
+          "kind": "tip",
+          "text": "Once the tank has attacked Bandos, the attacker swaps in a Divine bastion potion, enters, prays Rigor and Protect from Ranged and attacks immediately; with a melee setup the attacker prays Piety and Protect from Ranged."
+        },
+        {
+          "t": 406,
+          "kind": "stat",
+          "text": "Graardor has a unique mechanic where if his attack lands it is guaranteed to hit at least 15 and up to 35, but it can still be blocked for a zero, so the tank setup helps dramatically."
+        },
+        {
+          "t": 435,
+          "kind": "stat",
+          "text": "Bandos' melee attack maxes at 60 and shreds even tank armour, so the tank needs Protect from Melee; as a rule of thumb the tank eats if their health drops below 40."
+        },
+        {
+          "t": 435,
+          "kind": "tip",
+          "text": "Gnomonkey says the duo method is doable on an ultimate ironman, since the tank and main take low enough damage to be manageable."
+        },
+        {
+          "t": 450,
+          "kind": "method",
+          "text": "When Bandos dies, both players attack the mage minion; both keep praying Piety until it dies, and whoever the mage attacks prays Protect from Magic until it goes down."
+        },
+        {
+          "t": 461,
+          "kind": "tip",
+          "text": "If one player is at full health and the other is low, stop attacking so the other can heal with Guthan's; if both are at max HP, switch to DPS gear and kill the remaining minions, with the attacker able to dump blowpipe specs on them if using the Bow of Faerdhinen setup."
+        },
+        {
+          "t": 461,
+          "kind": "tip",
+          "text": "If you cannot heal to full with Guthan's, pick up bones and use Bones to Peaches on them; check the melee minion's kebab drops too, as they heal more than expected. The player with the Explorer's ring alchs drops and collects the coins, and both cram food and restore drops when possible."
+        },
+        {
+          "t": 493,
+          "kind": "tip",
+          "text": "If either player needs prayer the attacker pot shares restores; if the tank's Strength drops to 116 or lower the attacker pot shares another super combat, and re-pots Divine bastion when it runs out."
+        },
+        {
+          "t": 493,
+          "kind": "tip",
+          "text": "Sit next to Graardor's respawn point with the attacker a decent way away, and make sure the tank attacks him first when he respawns, otherwise he gets stuck on the attacker; if that happens, run around the room praying Melee while the tank hits him until he switches aggro."
+        },
+        {
+          "t": 522,
+          "kind": "tip",
+          "text": "To calculate future gp/hr, check the OSRS Wiki's Bandos kill value and multiply it by your kills per hour, which is 30 at most."
+        }
+      ]
+    },
+    {
+      "name": "Dinh's bulwark",
+      "kind": "item",
+      "claims": [
+        {
+          "t": 0,
+          "kind": "event",
+          "text": "The bulwark was changed relatively recently (as of late 2021): it now has negative magic defence but is a 5-tick weapon, and its max hit scales with your defence bonuses up to a max hit of 46 in max tank gear."
+        },
+        {
+          "t": 0,
+          "kind": "stat",
+          "text": "The old max tank setup with a Zamorakian hasta had a max hit of 41 and much lower accuracy and defence, which Gnomonkey says makes the bulwark the clear choice for tanking at bosses."
+        },
+        {
+          "t": 0,
+          "kind": "opinion",
+          "text": "Gnomonkey says the bulwark tank setup is incredibly powerful and the tank takes very little damage; the primary bosses needing a tank are the God Wars bosses."
+        }
+      ]
+    },
+    {
+      "name": "God Wars Dungeon",
+      "kind": "activity",
+      "claims": [
+        {
+          "t": 323,
+          "kind": "tip",
+          "text": "The best way to reach the Bandos area is a combat achievement hilt (God Wars teleport); even the Easy Diary hilt gives three teleports a day to the boulder, and a chipped house tablet to Trollheim also works but is slower."
+        },
+        {
+          "t": 323,
+          "kind": "tip",
+          "text": "Gnomonkey suggests collecting a pile of hilt teleports so you can drop them to pick up drops at Bandos, or dropping food at the teleport location, banking and returning; he personally prefers to leave an inventory space open for loot."
+        },
+        {
+          "t": 351,
+          "kind": "method",
+          "text": "Inside, kill all the goblins in the little area for killcount; Bandos is the fastest killcount of any God Wars Dungeon boss, and the attacker can speed it up by running around shooting goblins with the Bow of Faerdhinen."
+        },
+        {
+          "t": 351,
+          "kind": "method",
+          "text": "After getting killcount, get a hammer by killing a goblin near the door; if your inventory is full, drop a piece of food, take the hammer through the door, drop food on the other side, return for your food, drop the hammer and pick up your full supplies. Both players should have killcount and be at the boss door on an empty world."
+        }
+      ]
+    },
+    {
+      "name": "Torva armour",
+      "kind": "update",
+      "claims": [
+        {
+          "t": 28,
+          "kind": "event",
+          "text": "Following the announcement of Torva armour from Nex, which will require breaking down Bandos pieces to smith, Bandos armour was quite valuable in November 2021."
+        },
+        {
+          "t": 58,
+          "kind": "opinion",
+          "text": "Gnomonkey says the Bandos duo is a great early money maker especially with the rise in price of Bandos items due to the Nex hype, and expects Bandos pieces might rise further in the coming days."
+        },
+        {
+          "t": 523,
+          "kind": "opinion",
+          "text": "Gnomonkey says he does not expect the Bandos kill value to stay this high, but with the current hype around Nex, now is the time to be killing Bandos."
+        }
+      ]
+    }
+  ]
+}

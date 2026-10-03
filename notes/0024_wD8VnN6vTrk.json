@@ -1,0 +1,117 @@
+{
+  "id": "wD8VnN6vTrk",
+  "title": "Corrupted Gauntlet Guide (5M GP/HR) INSANE MONEY MAKING GUIDE OSRS",
+  "date": "2020-04-14",
+  "type": "guide",
+  "summary": "A full guide to the Corrupted Gauntlet as a money-making method after the Blade of Saeldor became imbuable. Gnomonkey explains requirements, setup, a two-run dungeon strategy for gathering only tier one armour and tier three weapons, the Corrupted Hunllef's mechanics, and expected profit. He cautions that it is very difficult and may not be worth learning compared with something easier like Vorkath.",
+  "outline": [
+    {"t": 0, "text": "Introduction to Corrupted Gauntlet and why Gnomonkey returned to it"},
+    {"t": 14, "text": "Profit and feasibility"},
+    {"t": 72, "text": "Difficulty and rewards compared with the regular Gauntlet"},
+    {"t": 120, "text": "Gear and level requirements"},
+    {"t": 170, "text": "RuneLite and settings"},
+    {"t": 213, "text": "Gauntlet basics"},
+    {"t": 300, "text": "Preparation run one"},
+    {"t": 377, "text": "Initial crafting"},
+    {"t": 421, "text": "Preparation run two"},
+    {"t": 531, "text": "Final preparations"},
+    {"t": 570, "text": "Boss mechanics"},
+    {"t": 642, "text": "Handling specials"},
+    {"t": 712, "text": "The fight strategy"},
+    {"t": 789, "text": "Rewards and conclusion"}
+  ],
+  "topics": [
+    {
+      "name": "Corrupted Gauntlet",
+      "kind": "activity",
+      "claims": [
+        {"t": 0, "kind": "record", "text": "Gnomonkey says it took him about two hours to get his first successful Corrupted Gauntlet completion, and after about 20 hours of attempts he has roughly a 95% completion rate."},
+        {"t": 0, "kind": "opinion", "text": "Gnomonkey considers the Corrupted Gauntlet one of the few pieces of content that practically requires F keys and a solid understanding of gear switching and prayer swapping on the fly."},
+        {"t": 0, "kind": "event", "text": "Gnomonkey says he came back to the Gauntlet because Jagex had recently changed the Blade of Saeldor so that it can be imbued with 1000 crystal shards into a permanent non-degrading weapon."},
+        {"t": 27, "kind": "stat", "text": "Gnomonkey says that at 6.5 Gauntlet runs an hour, the Corrupted Gauntlet pays about 5 million gp an hour on average."},
+        {"t": 27, "kind": "stat", "text": "Gnomonkey says the Blade of Saeldor was worth over 180 million gp at the time of the video, and looked set to approach 200 million."},
+        {"t": 60, "kind": "opinion", "text": "Gnomonkey calls the Corrupted Gauntlet the fastest boss you can solo for money consistently, besides solo raids or maybe Hydra."},
+        {"t": 60, "kind": "opinion", "text": "Gnomonkey argues the Corrupted Gauntlet has no supply cost and so should consistently be a better money method than Vorkath over time, even if the Blade of Saeldor drops somewhat in value."},
+        {"t": 60, "kind": "tip", "text": "Gnomonkey says players should not necessarily drop their Dragon hunter crossbow to run the Corrupted Gauntlet instead; it is extremely difficult and not many people can do it."},
+        {"t": 92, "kind": "tip", "text": "Gnomonkey suggests that if it takes a substantial time to become consistent at the Corrupted Gauntlet, the time may be better spent on something easier like Vorkath."},
+        {"t": 92, "kind": "tip", "text": "Gnomonkey recommends hardcore ironmen stay away from the Gauntlet entirely because death there is not safe."},
+        {"t": 125, "kind": "stat", "text": "The Corrupted Gauntlet gives three loot rolls instead of the regular Gauntlet's two."},
+        {"t": 125, "kind": "stat", "text": "In the Corrupted Gauntlet the chance of the Blade of Saeldor is 1/400 and the pet is 1/800, compared with 1/2000 for both in the regular Gauntlet."},
+        {"t": 125, "kind": "stat", "text": "Crystal seed drops improve from 1 in 120 in the regular Gauntlet to 1 in 50 in the Corrupted Gauntlet."},
+        {"t": 125, "kind": "requirement", "text": "The Gauntlet requires completion of the Song of the Elves quest, which needs many quests and level 70 in most stats."},
+        {"t": 125, "kind": "requirement", "text": "Gnomonkey recommends at least 85 in all combat stats, a very high Prayer level, and Rigor unlocked for the Corrupted Gauntlet; he says you will struggle significantly without Rigor."},
+        {"t": 156, "kind": "tip", "text": "Gnomonkey says Augury is not necessary because his method avoids the staff, but it may help during an unlucky run."},
+        {"t": 183, "kind": "tip", "text": "For the Gauntlet Gnomonkey turns off XP globes in RuneLite, cleans up his UI for maximum screen space, and moves or removes enemy health bars since the Hunllef's own health bar shows his health."},
+        {"t": 183, "kind": "tip", "text": "Gnomonkey uses RuneLite key remapping to rebind the F keys to the number keys at the top of the keyboard."},
+        {"t": 183, "kind": "method", "text": "The Gauntlet portal is in north-west Prifddinas; right-click it and choose Enter Corrupted to start. Any armour or inventory is allowed but pets cannot be brought in."},
+        {"t": 217, "kind": "method", "text": "Gnomonkey compares the Gauntlet to RS2 Dungeoneering: the player gathers resources in a dungeon under a time limit and then fights a boss with whatever gear has been made."},
+        {"t": 217, "kind": "stat", "text": "The player starts the Gauntlet with a scepter, which opens rooms and must be carried until the end. It gives minor attack bonuses, about equivalent to a mithril mace."},
+        {"t": 244, "kind": "method", "text": "The player also starts with a hatchet, pickaxe and harpoon for gathering, a pestle and mortar for grinding shards for potions, and one teleport seed that returns them to the starting room."},
+        {"t": 244, "kind": "method", "text": "The aim in the Gauntlet is to have a tier three bow and halberd, three potions and 25 paddlefish before fighting the boss."},
+        {"t": 270, "kind": "stat", "text": "Paddlefish heal 20 each, and a Gauntlet potion restores a flat 30 prayer points plus 40 run energy and gives a stamina-potion-like run saving effect."},
+        {"t": 270, "kind": "stat", "text": "Tier three Gauntlet weapons have far higher DPS than main-game weapons because boost potions and DPS-boosting equipment cannot be used; the armour has no attack bonuses either."},
+        {"t": 301, "kind": "method", "text": "Gnomonkey's strategy uses two runs through the dungeon, which avoids getting another crystal seed. In run one the player makes a C around the starting room, gathering three ores, wood and wool for a full set of tier one armour."},
+        {"t": 301, "kind": "tip", "text": "Gnomonkey says making better armour than tier one in a run is not consistent and is inefficient."},
+        {"t": 301, "kind": "method", "text": "In run one the player should also collect as many paddlefish as possible and a weapon frame from kills, and Gnomonkey avoids killing high-level wolves, unicorns and scorpions, sticking to spiders, bats and rats."},
+        {"t": 327, "kind": "method", "text": "Wolves, unicorns and scorpions always drop a weapon frame in the Gauntlet, so they are not a terrible choice if unlucky."},
+        {"t": 327, "kind": "method", "text": "Once the player has 30 shards, they crush them with a pestle and mortar into 30 dust and drop the pestle; the pickaxe and hatchet can also be dropped once the ores and wood are gathered."},
+        {"t": 356, "kind": "method", "text": "Gnomonkey says to collect three grim roots during run one, as three are needed in total."},
+        {"t": 356, "kind": "method", "text": "Back at the starting room after run one the player should have about three of each resource, a weapon frame, roughly 12 paddlefish and plenty of shards."},
+        {"t": 386, "kind": "tip", "text": "Gnomonkey spam-clicks the oven to cook paddlefish in one tick, which makes cooking much faster."},
+        {"t": 386, "kind": "method", "text": "At the singing bowl after run one the player crafts a tier two bow with the weapon frame and three vials, and with 120 shards left can craft the full armour set; if short, the armour priority is body, then legs, then helmet."},
+        {"t": 415, "kind": "method", "text": "Run two starts by filling the three vials at the water pump and running to the edge of the map to find a demi-boss (dark beast, bear or dragon), adding herbs and dust to make the potions along the way."},
+        {"t": 444, "kind": "tip", "text": "Gnomonkey decants his potions to four doses because a dose is drunk before the boss anyway, and the empty vial can then be dropped to free room for another fish."},
+        {"t": 444, "kind": "method", "text": "The goal of run two is to catch the last 12 to 16 paddlefish and find a spike and bowstring, dropped by the bear and dark beast respectively."},
+        {"t": 475, "kind": "method", "text": "The dragon demi-boss drops an orb that crafts a staff, which Gnomonkey does not want because Augury does not boost damage like other boost prayers and the Hunllef has fairly high magic defence."},
+        {"t": 475, "kind": "stat", "text": "The Gauntlet halberd attacks up to three tiles away, less range than the staff, but Gnomonkey says its increased DPS more than makes up for it."},
+        {"t": 502, "kind": "stat", "text": "There are two of each demi-boss spread around the Gauntlet map. If the player holds an orb when killing a second bear or dark beast, the second boss is guaranteed to give the wanted upgrade part."},
+        {"t": 502, "kind": "stat", "text": "Without an orb in the inventory, the next piece on a duplicate demi-boss kill is 50/50 for a piece the player does not already have."},
+        {"t": 531, "kind": "method", "text": "Before the boss, the player teleports back with the teleport seed, crafts the tier three bow and halberd and any missing armour, drops everything except fish, a potion and the second weapon, cooks the second-run paddlefish and picks up the first-run fish."},
+        {"t": 570, "kind": "method", "text": "The player enters the boss room with a boost prayer and protect from ranged enabled, since the Hunllef always starts with ranged."},
+        {"t": 570, "kind": "tip", "text": "Gnomonkey notes the whole fight is hectic and that a single mistake can cost a 10-minute run, so he focuses on healing to full health rather than attacking whenever tornadoes are out."},
+        {"t": 732, "kind": "record", "text": "Gnomonkey's fastest Corrupted Hunllef kill was about 3.5 minutes and his slowest close to 6 minutes."},
+        {"t": 789, "kind": "stat", "text": "Gnomonkey says a typical Corrupted Gauntlet drop is around 150k, which at 6.5 runs an hour without sword or crystal drops is at minimum about 1 million gp an hour."},
+        {"t": 789, "kind": "stat", "text": "Gnomonkey says average luck including Blade of Saeldor and crystal drops puts a typical run at about 750k, bringing it close to 5 million gp an hour."},
+        {"t": 60, "kind": "opinion", "text": "Gnomonkey says the Corrupted Gauntlet is not consistent money like Vorkath because most of the profit comes from the blades; with the blade on the 400th run each time it would be about 5 million gp an hour."}
+      ]
+    },
+    {
+      "name": "Corrupted Hunllef",
+      "kind": "boss",
+      "claims": [
+        {"t": 570, "kind": "stat", "text": "The Corrupted Hunllef uses two main attack styles, ranged and magic, which each hit a maximum of 13 through prayer and which it swaps every four attacks."},
+        {"t": 570, "kind": "stat", "text": "If the player prays the wrong style the Corrupted Hunllef's attacks can max at 58."},
+        {"t": 570, "kind": "stat", "text": "The Corrupted Hunllef uses protection prayers, which it swaps roughly every five to six times the player attacks with the correct style."},
+        {"t": 590, "kind": "stat", "text": "In the Corrupted Hunllef room the floor randomly lights red then a dull yellow; standing on tiles when they turn yellow deals 15 to 25 damage each game tick."},
+        {"t": 616, "kind": "stat", "text": "The Corrupted Hunllef's ranged attacks are grey spit blobs and its magic attacks are bright red bursts of energy."},
+        {"t": 616, "kind": "stat", "text": "The Corrupted Hunllef's special attacks count towards the four attacks before it switches style."},
+        {"t": 616, "kind": "stat", "text": "While using magic the Corrupted Hunllef can throw a bright pink burst of energy that instantly disables the player's prayers, usually once per volley of four magic attacks, which makes ranged attacks much safer to handle."},
+        {"t": 643, "kind": "stat", "text": "After about eight to fourteen attacks the Corrupted Hunllef rears up and slams the ground, sending out slowly advancing tornadoes that deal 15 to 25 each tick and can stack."},
+        {"t": 643, "kind": "stat", "text": "The Corrupted Hunllef sends two tornadoes from 1000 to 500 health, three from 500 to 250, and four from 250 until death."},
+        {"t": 673, "kind": "tip", "text": "Four tornadoes stacked on the player will instantly kill them, but tornadoes can be run over without damage, which Gnomonkey compares to the traps in the Rogues' Den where the game thinks you are moving two tiles at a time."},
+        {"t": 673, "kind": "stat", "text": "The Corrupted Hunllef has a melee attack that only happens if the player stands underneath it for too long, with the same 58 maximum as its other styles."},
+        {"t": 702, "kind": "stat", "text": "The Corrupted Hunllef's melee attack is the only attack that does not count towards its style change, so the player should pause their attack count for one attack if hit by it."},
+        {"t": 732, "kind": "method", "text": "Gnomonkey counts each attack the Hunllef throws, tracks which prayer it switches to, and swaps weapons accordingly."},
+        {"t": 732, "kind": "method", "text": "When the Corrupted Hunllef is throwing ranged attacks with no tornadoes on the field, Gnomonkey uses that time to drink prayer potions between attacks."},
+        {"t": 764, "kind": "tip", "text": "Gnomonkey finds quietly counting each Corrupted Hunllef attack out loud easier than counting in his head, and suggests trying it if struggling."}
+      ]
+    },
+    {
+      "name": "Blade of Saeldor",
+      "kind": "item",
+      "claims": [
+        {"t": 27, "kind": "event", "text": "As of the April 2020 update Jagex changed the Blade of Saeldor (described by Gnomonkey as the slash equivalent of the Ghrazi rapier) so that it can be imbued with 1000 crystal shards into a permanent non-degrading weapon."},
+        {"t": 27, "kind": "stat", "text": "Gnomonkey says the Blade of Saeldor was over 180 million gp at the time and was looking to hit close to 200 million."},
+        {"t": 125, "kind": "stat", "text": "The Corrupted Gauntlet drops the Blade of Saeldor at 1/400 per run, according to Gnomonkey."}
+      ]
+    },
+    {
+      "name": "Vorkath",
+      "kind": "boss",
+      "claims": [
+        {"t": 27, "kind": "opinion", "text": "Gnomonkey describes Vorkath as consistent money, unlike the Corrupted Gauntlet where most of the money comes from the Blade of Saeldor."},
+        {"t": 92, "kind": "opinion", "text": "Gnomonkey suggests that players who struggle to become consistent at the Corrupted Gauntlet may be better off doing something less difficult like Vorkath for consistent cash."}
+      ]
+    }
+  ]
+}

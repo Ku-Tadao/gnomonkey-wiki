@@ -1,0 +1,191 @@
+{
+  "id": "ldS-QuV3CKY",
+  "title": "Sulliuscep Woodcutting Guide (110k+ xp/hr, BEST FOSSIL METHOD)",
+  "date": "2019-09-25",
+  "type": "guide",
+  "summary": "A guide to chopping sulliuscep mushroom trees on Fossil Island for Woodcutting XP and fossils. Gnomonkey covers requirements, gear and supplies, the first-run setup, the swamp route and hazards, and compares the method with AFK teak and yew trees.",
+  "outline": [
+    {
+      "t": 0,
+      "text": "Intro: why sulliuscep are rewarding, and fossil luck"
+    },
+    {
+      "t": 27,
+      "text": "Requirements and recommendations"
+    },
+    {
+      "t": 60,
+      "text": "Equipment"
+    },
+    {
+      "t": 86,
+      "text": "Inventory and supplies"
+    },
+    {
+      "t": 118,
+      "text": "Starting a trip: first-time unlock and landing in the swamp"
+    },
+    {
+      "t": 151,
+      "text": "Chopping and the swamp path"
+    },
+    {
+      "t": 181,
+      "text": "Tar monsters, spine mushrooms and mushroom drops"
+    },
+    {
+      "t": 237,
+      "text": "Running trips and XP rates"
+    },
+    {
+      "t": 263,
+      "text": "Comparison with AFK teak and yew trees"
+    }
+  ],
+  "topics": [
+    {
+      "name": "Sulliuscep",
+      "kind": "skill",
+      "claims": [
+        {
+          "t": 0,
+          "kind": "opinion",
+          "text": "Gnomonkey calls sulliuscep one of the most rewarding methods of Woodcutting training; it is more AFK than non-tick-manipulated teak trees, gives over 100k Woodcutting XP an hour and more profit than AFK yew trees, and is the best source of fossils."
+        },
+        {
+          "t": 0,
+          "kind": "stat",
+          "text": "In the footage Gnomonkey got only two fossils from about fifty trees, which he says was incredibly unlucky; typically a seven-tree run gives about two to three fossils, and once he received ten fossils in one run."
+        },
+        {
+          "t": 27,
+          "kind": "requirement",
+          "text": "Sulliuscep require a minimum of 65 Woodcutting to chop, and high Prayer and Hitpoints are very useful."
+        },
+        {
+          "t": 27,
+          "kind": "tip",
+          "text": "Skillers cannot realistically use this method because the spine mushrooms always deal ten damage when they hit."
+        },
+        {
+          "t": 27,
+          "kind": "tip",
+          "text": "Gnomonkey recommends getting the Lumberjack outfit before training Woodcutting past this level, and says having Preserve unlocked increases chop rates quite a bit."
+        },
+        {
+          "t": 151,
+          "kind": "tip",
+          "text": "Each sulliuscep can be chopped for a random number of mushrooms before it falls; the sulliuscep then moves to a different location in a set pattern, and the route through the swamp between them is always the same."
+        },
+        {
+          "t": 237,
+          "kind": "stat",
+          "text": "The method can easily pull 100 to 110k Woodcutting XP an hour if the player pays full attention, while Gnomonkey, who likes AFK, typically gets around 80k an hour."
+        }
+      ]
+    },
+    {
+      "name": "Sulliuscep trip setup",
+      "kind": "mechanic",
+      "claims": [
+        {
+          "t": 60,
+          "kind": "tip",
+          "text": "Gnomonkey's goal with gear is to maximize Woodcutting XP and prayer bonus: full Lumberjack outfit, trimmed skillcape for prayer bonus (he wears the crafting cape for bank teleport), an Ardougne cloak 4 provides more prayer bonus if owned, an infernal axe (a dragon axe is effectively the same since mushrooms are not burnt), and the best prayer bonus gear for other slots."
+        },
+        {
+          "t": 60,
+          "kind": "tip",
+          "text": "Gnomonkey uses a desert amulet 4 to restore stats between trips; without it bring home teleport tabs, a construction cape or a ring of dueling. An Hitpoints skillcape and regen bracelet are smart to bring because the player is damaged often."
+        },
+        {
+          "t": 86,
+          "kind": "tip",
+          "text": "Inventory: numulite (received in large amounts and simply kept), a rake to remove vines blocking the path, antipoison because spine mushrooms poison for 5 damage, and exactly seven sharks, since by the seventh shark Gnomonkey has typically run out of Prayer and ends the trip."
+        },
+        {
+          "t": 118,
+          "kind": "tip",
+          "text": "Trips sometimes end early because the player gets too many fossils to carry, and dixite pendants are needed to teleport back to Fossil Island after a trip."
+        },
+        {
+          "t": 118,
+          "kind": "method",
+          "text": "To start, teleport to Fossil Island (if not unlocked, use a dixite pendant on the strange machine in the mansion). On the first run, run to the swamp in the southeast of Fossil Island and jump on the mushroom; the first landing deals half the player's health, and clicking the magic mushtree unlocks the teleport."
+        },
+        {
+          "t": 151,
+          "kind": "method",
+          "text": "Before moving on, place nine bittercap mushrooms in the pit landed in to prevent fall damage in future; the pit needs nine more mushrooms every time the player lands on it."
+        },
+        {
+          "t": 151,
+          "kind": "tip",
+          "text": "Keep Preserve on at all times while chopping and use the special attack."
+        },
+        {
+          "t": 237,
+          "kind": "method",
+          "text": "After a run of seven trees Gnomonkey picks up at least nine bittercap mushrooms before jumping on the rubber cap mushrooms to start another run; when the trip is done he teleports out, restores stats, banks fossils, teleports back and uses the magic mushtree to reach the sticky swamp."
+        }
+      ]
+    },
+    {
+      "name": "Sulliuscep swamp hazards",
+      "kind": "mechanic",
+      "claims": [
+        {
+          "t": 181,
+          "kind": "tip",
+          "text": "As the player runs through the swamp, tar bubbles turn into tar monsters (a max of seven); Gnomonkey says to simply run past them, as the method of distracting them with hoop snakes is a huge waste of time."
+        },
+        {
+          "t": 181,
+          "kind": "tip",
+          "text": "Spine mushrooms randomly attack the player as they run past, always dealing ten damage and poisoning, so the player should drink an antidote when hit."
+        },
+        {
+          "t": 181,
+          "kind": "tip",
+          "text": "Bittercap mushrooms and mortmyre fungus should be dropped as they are not worth much, while fossils are worth keeping."
+        },
+        {
+          "t": 209,
+          "kind": "stat",
+          "text": "Occasionally a sulliuscep cap drops; these are worth about 1,500 GP, are the only mushroom Gnomonkey keeps, and are used to make mushroom pies; they can be dropped to extend trips."
+        },
+        {
+          "t": 209,
+          "kind": "tip",
+          "text": "Gnomonkey hops worlds if he sees another player; other players do not reduce mushrooms because those are client side, but tar monsters are more likely to spawn, and he finds it surprising Jagex added a sulliuscep world when it is competitive like this."
+        }
+      ]
+    },
+    {
+      "name": "Fossil Island",
+      "kind": "other",
+      "claims": [
+        {
+          "t": 27,
+          "kind": "opinion",
+          "text": "Gnomonkey says sulliuscep are absolutely the fastest way to obtain fossils, period."
+        },
+        {
+          "t": 263,
+          "kind": "opinion",
+          "text": "Gnomonkey says sulliuscep give more XP than AFKing teaks and are less intensive, so he would never do teaks without tick manipulation as long as the player has access to Fossil Island."
+        },
+        {
+          "t": 263,
+          "kind": "opinion",
+          "text": "Gnomonkey AFK'd yew trees until trying this method and found sulliuscep give more profit, double the XP an hour of yews, and tons of fossils while being only a bit more intensive."
+        },
+        {
+          "t": 263,
+          "kind": "opinion",
+          "text": "Gnomonkey would use sulliuscep for an AFK method, or tick-manipulate teaks to step up XP an hour, and says he thought sulliuscep were more complicated than they were."
+        }
+      ]
+    }
+  ]
+}

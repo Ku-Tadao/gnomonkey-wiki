@@ -1,0 +1,175 @@
+{
+  "id": "y7Vb_k3Er2I",
+  "title": "Guardians of the Rift Runecrafting Guide (70K XP/HR) OSRS",
+  "date": "2022-03-30",
+  "type": "guide",
+  "summary": "A guide to the newly released Runecrafting minigame Guardians of the Rift, which Gnomonkey says shifted the whole Runecrafting skill with 60-75k XP per hour and around 1m gp per hour. It covers rewards, gear, core mechanics, scoring, mass world versus small scale strategy, crashers, cosmetic rewards and complaints.",
+  "outline": [
+    {"t": 0, "text": "Minigame overview and rates"},
+    {"t": 30, "text": "Requirements and prep"},
+    {"t": 58, "text": "Key rewards: Abyssal needle, Abyssal lantern, Robes of the Eye"},
+    {"t": 148, "text": "Recommended gear setup"},
+    {"t": 237, "text": "Core mechanics: guardian essence, altars, cells and stones"},
+    {"t": 309, "text": "Advanced tips: shields, guardians, talismans"},
+    {"t": 464, "text": "Combat and defense: abyssal creatures and the 60% quake"},
+    {"t": 526, "text": "Points and scoring"},
+    {"t": 590, "text": "Mass world strategy"},
+    {"t": 724, "text": "Small scale strategy, Gandalf Tech and combination runes"},
+    {"t": 858, "text": "Solo gameplay walkthrough"},
+    {"t": 1025, "text": "Managing crashers"},
+    {"t": 1138, "text": "Cosmetic rewards and pet"},
+    {"t": 1276, "text": "Bugs and complaints"}
+  ],
+  "topics": [
+    {
+      "name": "Guardians of the Rift",
+      "kind": "activity",
+      "claims": [
+        {"t": 0, "kind": "event", "text": "Gnomonkey says the Runecrafting minigame Guardians of the Rift had just recently come out when the video was made and completely shifted the entire Runecrafting skill."},
+        {"t": 0, "kind": "stat", "text": "Gnomonkey says the minigame is decently intensive but provides a very solid 60 to 75k Runecrafting XP per hour and around 1m gp per hour."},
+        {"t": 0, "kind": "opinion", "text": "Gnomonkey says the minigame's rewards dramatically buffed every essence-using Runecrafting method (ZMI, lava and mud runes, regular runes), making them solid gp and XP."},
+        {"t": 30, "kind": "requirement", "text": "The mandatory requirements for Guardians of the Rift are just 27 Runecrafting and completing the Temple of the Eye quest, which takes about twenty minutes."},
+        {"t": 30, "kind": "requirement", "text": "56 Agility is extremely useful in Guardians of the Rift for mining more essence early on; Runecrafting levels 44, 54, 65 and 77 each boost rates at an unlocked altar."},
+        {"t": 30, "kind": "trivia", "text": "Mining level does not affect Guardians of the Rift, but a better pickaxe does; a crystal pickaxe works there and burns through charges quickly."},
+        {"t": 58, "kind": "requirement", "text": "NPC Contact (Lunar Diplomacy) is a soft requirement for Guardians of the Rift because it is needed to repair pouches and guardians."},
+        {"t": 237, "kind": "method", "text": "To reach Guardians of the Rift head to the basement of the Wizards' Tower, using a Necklace of Passage, fairy ring code DIS, or the minigame teleport; enter through the large magic gate, with a bank chest nearby."},
+        {"t": 237, "kind": "trivia", "text": "The goal is to craft runes at the various altars using Guardian essence; crafting runes provides guardian stones, which charge the central guardian's energy, and the game is won and rewards given when energy reaches 100%."},
+        {"t": 267, "kind": "trivia", "text": "The central guardian's energy doubles as its health bar and drops if it is damaged; abyssal creatures constantly attack it and must be fended off by crafting guardians with energy cells and charging shields with the same cells."},
+        {"t": 267, "kind": "trivia", "text": "Fragments for crafting guardian essence are mined from loose guardian piles; the large guardians to the east, down the shortcut, give an extra fragment per action; one fragment equals one essence but fragments are stackable."},
+        {"t": 299, "kind": "trivia", "text": "Roughly every two minutes a portal spawns (any time after 110 on the plugin timer) that takes you to the West Cliff to mine huge guardians for guardian essence directly, which is far faster than fragments; it remains for a bit after the game so you can wait at the cliff for the next game for a head start."},
+        {"t": 299, "kind": "trivia", "text": "Fragments are taken to the workbench in the southwest to create guardian essence; you spend most of the game there."},
+        {"t": 327, "kind": "trivia", "text": "There are 12 central runecrafting totems that lead to the respective altars; two of them light up every 20 seconds, always one elemental and one catalytic altar."},
+        {"t": 327, "kind": "trivia", "text": "Crafting essence at an active altar gives runes plus a base amount of catalytic or elemental stones depending on the altar, and charges an uncharged cell into a powered cell whose tier depends on the altar used."},
+        {"t": 356, "kind": "trivia", "text": "Cell tiers: elemental altars range from air (weakest) to fire (most powerful); for catalytic altars body and mind are weak, cosmic and chaos medium, nature and law strong, and death and blood overcharged."},
+        {"t": 388, "kind": "trivia", "text": "A created guardian's max hit and HP scale with the tier of the cell used; overcharged guardians are extremely powerful, and the cap on guardians is two in a solo, increasing by two for each extra player up to ten."},
+        {"t": 388, "kind": "trivia", "text": "Shields can only be upgraded to the next tier regardless of cell tier, so an overcharged cell turns a weak shield into a medium one; a same-or-lower tier cell just heals the shield; upgrading raises max health and sets current health to half the next tier's max."},
+        {"t": 415, "kind": "trivia", "text": "A cell does not need essence to be charged; you can enter an altar without essence just to charge a cell."},
+        {"t": 442, "kind": "trivia", "text": "If a shield is destroyed, you must repair it with 10 guardian essence before adding a cell, so avoid letting it break."},
+        {"t": 442, "kind": "trivia", "text": "Crafting at an altar sometimes gives a talisman that lets you consume it to enter that altar again even when inactive (not consumed if the altar is active); these are very useful for high level altars."},
+        {"t": 442, "kind": "trivia", "text": "Abyssal creatures spawn in waves attacking the front shield (the main gate) first, and if there are too many they spread to the side barriers; creatures only retaliate against guardians that attack them and otherwise walk past, so the shield often takes a few hits regardless."},
+        {"t": 491, "kind": "trivia", "text": "If a guardian is killed you can mine its remains to retrieve some crafted essence, usually about an inventory and a half."},
+        {"t": 496, "kind": "trivia", "text": "When the main guardian's energy reaches 60%, the rift quakes and heavily damages all shields (it cannot kill them but can leave them at 1 HP) and abyssal spawn rates increase from then on."},
+        {"t": 496, "kind": "trivia", "text": "The main guardian defends itself but its attacks are very slow and it only attacks if something passes the main gates."},
+        {"t": 526, "kind": "stat", "text": "The energies at the top left are your rewards for the game, capped at 1,200 combined energy per game."},
+        {"t": 526, "kind": "trivia", "text": "To search the rewards guardian you need one of each reward point, catalytic and elemental; 100 energy in either type converts to one point (a tuning), and points are banked: 700 catalytic and 200 elemental becomes 7 and 2, usable for two searches with 5 catalytic points banked."},
+        {"t": 557, "kind": "stat", "text": "Energy comes from the stone type used on the main guardian and from using cells; creating a guardian gives the most points (45 for an overcharged cell), upgrading a barrier gives 50% of that in both energy types, and recharging gives 50% of an upgrade in both."},
+        {"t": 557, "kind": "trivia", "text": "Creating a catalytic guardian gives catalytic energy and an elemental guardian gives elemental energy; where the cell came from does not matter."},
+        {"t": 587, "kind": "tip", "text": "Gnomonkey highly recommends downloading the Guardians of the Rift plugin from the RuneLite plugin hub for timers on altars and portals."},
+        {"t": 1276, "kind": "opinion", "text": "Gnomonkey's main complaint about Guardians of the Rift at the time was crashers in small scale games."}
+      ]
+    },
+    {
+      "name": "Guardians of the Rift mass worlds",
+      "kind": "mechanic",
+      "claims": [
+        {"t": 587, "kind": "tip", "text": "Gnomonkey recommends learning Guardians of the Rift in mass worlds such as World 420 (almost always full) or World 302; masses are much slower and worse than low scale games but easy to jump into."},
+        {"t": 615, "kind": "tip", "text": "Before starting, right-click each of the low level Runecrafting totems and toggle them to avoid useless talismans; do not toggle fire, death or blood altars since those give extremely useful talismans."},
+        {"t": 615, "kind": "trivia", "text": "A game starts with a two minute warmup; for the first 30 seconds you cannot do anything, so collect ten uncharged cells and then go to the east rock cliff and mine the large guardian remains."},
+        {"t": 646, "kind": "method", "text": "Mine the large guardian remains until a portal appears at roughly 250 fragments mined (a bubble shows its location at top left); it teleports you to the west cliff, where huge guardian remains give fully crafted essence, so mine until all pouches are full and leave."},
+        {"t": 646, "kind": "method", "text": "In a mass, enter the highest level available altar; if it is within five seconds of changing and no overcharged cell is offered, wait for something better, then make a guardian if not capped and craft more essence at the bench."},
+        {"t": 680, "kind": "method", "text": "The mass loop is to alternate making an inventory of essence, crafting, taking the portal, and mining an inventory of essence, crafting, until the game ends; make a guardian whenever possible, otherwise upgrade or charge the shields."}
+      ]
+    },
+    {
+      "name": "Guardians of the Rift small scale",
+      "kind": "mechanic",
+      "claims": [
+        {"t": 680, "kind": "opinion", "text": "Gnomonkey says lower scale Guardians of the Rift games are much faster and more consistent but require thought and planning to not lose; depending on rewards you can hit as many as 10 game completions an hour."},
+        {"t": 711, "kind": "method", "text": "On small scale, Gnomonkey maintains the main gate's HP by throwing weak cells into it whenever he runs to an altar; he calls this Gandalf Tech because he only guards the main gate and lets nothing pass."},
+        {"t": 744, "kind": "trivia", "text": "At small scale the side gates do nothing and the enemies head directly to the main gate, so only the main gate matters; it is easy to lose a low scale game if you are not careful."},
+        {"t": 744, "kind": "method", "text": "With at least two outfit pieces and the colossal pouch you can bind combination runes in the main game, which matters far more in small scale; bring a binding necklace, wear a tome of fire, and use earth or water runes on the altar."},
+        {"t": 772, "kind": "trivia", "text": "If you bind combination runes in the minigame, the stones you receive equal the runes created, so with multipliers it gives far more stones than any other altar; Gnomonkey says with the full outfit and lantern you can get over a hundred stones per full craft at an elemental altar, ending a solo game in three crafts."},
+        {"t": 772, "kind": "opinion", "text": "Gnomonkey asks Jagex not to nerf the combination rune stone gain, but warns not to get greedy because you still need catalytic energy for points."},
+        {"t": 800, "kind": "method", "text": "At small scale the strategy is the same from one to ten players: the main shield is far more important, powerful guardians are extremely important, and at the start you throw a cell into the main gate and run to the large guardians."},
+        {"t": 830, "kind": "tip", "text": "With more than one player the main gate holds four weak cells before full health, so with more than four players some should throw cells into the side corner gates."},
+        {"t": 830, "kind": "method", "text": "An alt with 27 Runecrafting can help: it wears full graceful (or brings a stamina potion), carries a full inventory of binding necklaces, and repeatedly charges the gates, leaving right before the enemies enter so scale is unaffected."},
+        {"t": 830, "kind": "stat", "text": "An alt improves Guardians of the Rift game speed by about 30 seconds per game, and one alt can cover as many as five people."},
+        {"t": 864, "kind": "opinion", "text": "Gnomonkey says making guardians with weak cells at small scale is a great way to lose games, because creatures only stop attacking the gate if attacked and weak guardians have a very low max hit and barely help."},
+        {"t": 864, "kind": "method", "text": "At small scale, mine at the large guardians until you have 120 to 150 fragments (varies with rewards), and after the first three altar shifts the portal pops up; run to the workbench once you have enough."},
+        {"t": 894, "kind": "tip", "text": "Watch the plugin timer: if using an alt, have it leave before the timer reaches 110, and when it reaches 115 start running regardless of how much essence you have, which is right when the first altars pop up."},
+        {"t": 894, "kind": "trivia", "text": "The first altar's uptime is completely random and can be as short as one tick; Gnomonkey hopes Jagex changes this, calling it one of the most annoying parts of the minigame."},
+        {"t": 922, "kind": "stat", "text": "Each altar shift has a 1 in 4 chance of an overcharged cell, or 1 in 2 for at least strong; if all three altar shifts are below strong, Gnomonkey says the game is pretty much lost."},
+        {"t": 952, "kind": "tip", "text": "Powerful guardians are far more impactful than upgrading the shield; use medium cells to upgrade the main gate since it can only go one tier at a time, and you need at least 50% of the guardian cap in strong or overcharged guardians at the beginning to survive (a single overcharged guardian in a solo)."},
+        {"t": 979, "kind": "method", "text": "In a solo, if you make the first altar you can create a guardian, throw stones into the main guardian, and hop into another overcharged altar without essence to get another cell, guaranteeing two overcharged guardians at the start; you must be in the third altar immediately when it pops to make the portal."},
+        {"t": 1010, "kind": "tip", "text": "If the main gate goes down while mining at the beginning, repair it with the essence just mined and throw a weak cell in when you can; from there it is the same as a mass."},
+        {"t": 1010, "kind": "tip", "text": "Be careful when the guardian is about to reach 60% total energy: bring a cell if charging past that threshold and immediately upgrade the main gate, since upgrading instantly heals a tremendous amount of health."},
+        {"t": 1040, "kind": "tip", "text": "Gnomonkey says with a solid team you typically end the game right after crafting with the essence from the second portal, and that low scale gives similar points to masses but ends in literally half the time, giving more XP and points an hour."}
+      ]
+    },
+    {
+      "name": "Opinion: Guardians of the Rift crashers",
+      "kind": "opinion",
+      "claims": [
+        {"t": 1025, "kind": "opinion", "text": "Gnomonkey says crashers are a major problem in small scale Guardians of the Rift games, and that Jagex made it worse with a hotfix allowing people to join up to the two minute mark."},
+        {"t": 1025, "kind": "opinion", "text": "Gnomonkey says a second player joining that late loses the game regardless of skill, since they have no shards and usually do not know what they are doing; there is a peek option on the door to see if people are inside."},
+        {"t": 1052, "kind": "tip", "text": "To handle crashers Gnomonkey hops his main to another world and has his alt AFK in the crasher's game so the crasher eventually loses due to scaling and wastes their time instead of his; the alt can also show when they leave so he can return to that world."},
+        {"t": 1052, "kind": "opinion", "text": "Gnomonkey recommends AFKing in a crasher's game even on a main if you have no alt, saying it is the only way to stop people continuing the behaviour."},
+        {"t": 1052, "kind": "opinion", "text": "Gnomonkey says the problem is Jagex's fault for not adding an instance or preventing joiners when small scale games are beneficial, and that it will likely get worse with his video showing how good small scale is."},
+        {"t": 1293, "kind": "opinion", "text": "Gnomonkey suggests Jagex revert the late-joining fix and only allow people to join in the first 30 seconds, which he says would almost entirely fix crashers; he also suggests warning joiners that few people are in the game, though many might skip the warning."},
+        {"t": 1293, "kind": "opinion", "text": "Gnomonkey suggests a private option on the gate that creates its own instance with altars inside the instance, noting Jagex said instances were impossible because you go to the actual Runecrafting altars."}
+      ]
+    },
+    {
+      "name": "Opinion: Guardians of the Rift bugs and complaints",
+      "kind": "opinion",
+      "claims": [
+        {"t": 1326, "kind": "opinion", "text": "Gnomonkey complains about the guardian cap preventing crafts, suggesting that since cells can already be thrown into full HP shields Jagex should let players create guardians past the cap just for points."},
+        {"t": 1326, "kind": "event", "text": "Gnomonkey reports a bug he hit a few times where stones used on the main guardian are consumed but give no XP, no points, and no charge; it cost him a solo, and he says it might have been fixed."},
+        {"t": 1377, "kind": "opinion", "text": "Gnomonkey complains that created guardians path badly, sometimes walking in circles or ignoring monsters right next to them, causing the shield to take heavy damage."},
+        {"t": 1377, "kind": "opinion", "text": "Gnomonkey despises the random uptime of the first altar transition, which can be one tick, and thinks a strong altar should be guaranteed every shift because there is a small chance of losing the game at the start."},
+        {"t": 1408, "kind": "opinion", "text": "Gnomonkey says portal placement RNG is annoying: the south spawn is incredibly easy to reach while the north is incredibly difficult, and he would prefer the north spawn removed."}
+      ]
+    },
+    {
+      "name": "Abyssal needle",
+      "kind": "item",
+      "claims": [
+        {"t": 58, "kind": "stat", "text": "The Abyssal needle is a 1/300 search reward from Guardians of the Rift and stitches all your Runecrafting pouches together into a colossal pouch."},
+        {"t": 87, "kind": "stat", "text": "The colossal pouch holds the combined capacity of all original pouches plus an additional 10 essence, for 40 total; the small pouch can be reclaimed from the Dark Mage."},
+        {"t": 87, "kind": "requirement", "text": "The colossal pouch requires 85 Runecrafting to use, and Gnomonkey says it dramatically improves all aspects of Runecrafting for gp, XP and ease of use."}
+      ]
+    },
+    {
+      "name": "Abyssal lantern",
+      "kind": "item",
+      "claims": [
+        {"t": 87, "kind": "stat", "text": "The Abyssal lantern is a 1/700 reward from Guardians of the Rift (Gnomonkey expects it to become more common) and gives a minigame benefit when lit with logs."},
+        {"t": 118, "kind": "stat", "text": "The redwood log buff on the Abyssal lantern is probably the most useful: it requires 90 Firemaking, prevents pouches from degrading, and gives 5% more runes and reward points from the minigame."}
+      ]
+    },
+    {
+      "name": "Robes of the Eye",
+      "kind": "item",
+      "claims": [
+        {"t": 118, "kind": "stat", "text": "The Robes of the Eye Runecrafting outfit is bought with abyssal pearls from the Wizard in Guardians of the Rift; it takes roughly 850 rolls on average to get the entire set, and Gnomonkey could see Jagex making it cheaper in the future."},
+        {"t": 118, "kind": "stat", "text": "Each piece of the Robes of the Eye gives +10% runes crafted, for +60% with the entire outfit (as the video states)."},
+        {"t": 146, "kind": "trivia", "text": "Gnomonkey says there is a quirk in the minigame that makes games with the outfit end much faster for the same XP and points, making it extremely useful for profit and for farming the minigame."},
+        {"t": 1192, "kind": "tip", "text": "Dyes for the Robes of the Eye (except the boots) are a 1/1,200 reward each but there are three colours, effectively 1/400 for any dye; three dyes colour the full set, you get two dyes on average before buying the full set, and the wizard by the bank can swap the colour; Gnomonkey likes the blue outfit."}
+      ]
+    },
+    {
+      "name": "Runecrafting",
+      "kind": "skill",
+      "claims": [
+        {"t": 146, "kind": "tip", "text": "For Guardians of the Rift Gnomonkey brings all his Runecrafting pouches (optionally banking the small pouch to click less), a chisel, and a rune pouch with NPC Contact runes (astral, air, cosmic)."},
+        {"t": 177, "kind": "tip", "text": "Gnomonkey brings his best pickaxe and any Varrock armour piece, and Prospector gear helps a little; with a crystal pickaxe he wears a crystal signet ring to reduce charges, noting it uses around 50 charges per game."},
+        {"t": 177, "kind": "tip", "text": "A mining cape is minorly beneficial for its chance of extra essence (Gnomonkey is not certain it works there); a Runecrafting cape helps prevent pouch degradation until you get the lantern; a max cape is the best choice; Graceful is not needed."},
+        {"t": 208, "kind": "tip", "text": "Feeding the main guardian stones gives run energy."},
+        {"t": 208, "kind": "tip", "text": "Once you have two or three outfit pieces and/or the lantern, Gnomonkey starts bringing a binding necklace, wearing a tome of fire, and carrying earth and water runes loose to make combination runes, which greatly speeds up games with some multipliers."},
+        {"t": 1192, "kind": "stat", "text": "Gnomonkey says the colossal pouch makes the Rift Guardian pet grind from other Runecrafting much faster."}
+      ]
+    },
+    {
+      "name": "Cosmetic rewards and pet from Guardians of the Rift",
+      "kind": "item",
+      "claims": [
+        {"t": 1223, "kind": "stat", "text": "The tarnished locket can be received from any ornate pouch pulled from a reward and can be given to the Lumbridge Guide for the amulet of the eye, which Gnomonkey says does nothing interesting but looks stylish."},
+        {"t": 1250, "kind": "stat", "text": "The Lost bag cosmetic fills the cape slot and bounces when you walk or run, though Gnomonkey says the max cape is always the most stylish cape-slot option."},
+        {"t": 1250, "kind": "stat", "text": "A guardian orb can be bought from the wizard for 3,000 abyssal pearls (possibly reduced in the future) and transmogs your Rift Guardian to look like the main guardian."},
+        {"t": 1250, "kind": "trivia", "text": "At the time of the video the drop rate of the Abyssal Protector pet from the rewards guardian was unknown; Gnomonkey guessed 1/3,000 to 1/5,000."},
+        {"t": 1282, "kind": "opinion", "text": "Gnomonkey calls the Abyssal Protector easily one of the ugliest pets in the game, putting it in his F-tier."},
+        {"t": 1282, "kind": "trivia", "text": "The Rift Guardian pet cannot be received from the Guardians of the Rift minigame and must be grinded separately."}
+      ]
+    }
+  ]
+}

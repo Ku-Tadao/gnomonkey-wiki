@@ -1,0 +1,336 @@
+{
+  "id": "ndCNX2wQNmk",
+  "title": "Should you make an ALT for PVM? (Money/Pets) OSRS",
+  "date": "2022-04-28",
+  "type": "guide",
+  "summary": "Gnomonkey explains why a PvM alt account is worth making: it can raise kills per hour by over 50% at many bosses, cuts supply use and intensity, and speeds pet grinds. He covers when to build one, which unlocks and levels matter, resupply and dolo-style alt methods per boss, how he plays two accounts at once, and warns against burning out.",
+  "outline": [
+    {
+      "t": 0,
+      "text": "What alts are and why they help at bosses, raids and skilling"
+    },
+    {
+      "t": 63,
+      "text": "PvM benefits and examples (Dolo Armadyl)"
+    },
+    {
+      "t": 182,
+      "text": "When to build an alt: AFK pet grinds and 99s"
+    },
+    {
+      "t": 258,
+      "text": "Which unlocks and levels matter"
+    },
+    {
+      "t": 413,
+      "text": "Resupply alt methods and bosses that benefit"
+    },
+    {
+      "t": 482,
+      "text": "Per-boss resupply examples (Sire, DKs, Cerberus, Thermy, Kraken)"
+    },
+    {
+      "t": 534,
+      "text": "Dolo and trolo bossing (God Wars, KBD, Corp etc.)"
+    },
+    {
+      "t": 591,
+      "text": "How to play two accounts: monitors and resolution"
+    },
+    {
+      "t": 637,
+      "text": "Avoiding burnout: moderation"
+    }
+  ],
+  "topics": [
+    {
+      "name": "Alt account",
+      "kind": "account",
+      "claims": [
+        {
+          "t": 0,
+          "kind": "opinion",
+          "text": "Gnomonkey says alts are incredibly useful: usually people use them to make money, but they can also help tremendously at bosses, raids and some skilling activities; it would be faster to list bosses that do not benefit from alts."
+        },
+        {
+          "t": 26,
+          "kind": "stat",
+          "text": "For many bosses an alt can speed up kills per hour by over 50%, according to Gnomonkey."
+        },
+        {
+          "t": 26,
+          "kind": "tip",
+          "text": "Gnomonkey recommends the Gear Discord and Petcord, which include many alting methods; Petcord even has a basic Rune Dragon alt guide that doubles as a great PvM alt."
+        },
+        {
+          "t": 54,
+          "kind": "opinion",
+          "text": "Gnomonkey says the sooner you build an alt the sooner it benefits you, so if you are considering one you should just do it; alts require investment for membership, levels and unlocks."
+        },
+        {
+          "t": 84,
+          "kind": "opinion",
+          "text": "Gnomonkey describes alts as 'effectively summoning from RS2 with extra steps'."
+        },
+        {
+          "t": 84,
+          "kind": "opinion",
+          "text": "Gnomonkey says money is no object if you enjoy PvM, since raids, Nightmare and Nex bring in lots of gp, and that money-making alts make the game feel more like a chore for him; the real benefit of an alt is dramatically speeding up pet grinds."
+        },
+        {
+          "t": 113,
+          "kind": "opinion",
+          "text": "Gnomonkey says alts typically reduce the input required at any boss, rather than being 'too sweaty' as some claim, and also boost gp/hr and reduce supply use."
+        },
+        {
+          "t": 392,
+          "kind": "opinion",
+          "text": "Gnomonkey says making an alt is basically the same as making a main except you can supply it from the main, like speedrunning the early game; he did not use an alt guide, and focuses on quickly doing optimal quests like Waterfall Quest and training key skills."
+        }
+      ]
+    },
+    {
+      "name": "Alt accounts for Dolo Armadyl",
+      "kind": "activity",
+      "claims": [
+        {
+          "t": 113,
+          "kind": "stat",
+          "text": "At Armadyl solo, an alt speeds up kills per hour from 25 to 30, lets the trip last an entire task, and removes the awkward chin-clicking method of being on Armadyl for two ticks and the minion for one tick each attack."
+        },
+        {
+          "t": 142,
+          "kind": "stat",
+          "text": "An alt increases Armadyl to almost 8.5m gp per hour total while making him far easier intensity-wise."
+        },
+        {
+          "t": 142,
+          "kind": "method",
+          "text": "Bosses with unique methods such as Zamorak 50 or Bandos 9-0 when done solo with an alt reduce to clicking the boss on the alt and then on the main, which Gnomonkey finds really relaxing."
+        },
+        {
+          "t": 574,
+          "kind": "stat",
+          "text": "At Saradomin and Armadyl alts can increase trip lengths enormously; Gnomonkey has done an 8-hour solo Armadyl trip, and Slayer tasks of Aviansie are guaranteed done in one trip with an alt even at the max roll of 250."
+        }
+      ]
+    },
+    {
+      "name": "Alt resupply method",
+      "kind": "mechanic",
+      "claims": [
+        {
+          "t": 142,
+          "kind": "method",
+          "text": "Even when the alt cannot attack the boss, such as at Kraken or Cerberus, it can sit nearby casting Heal Other and Energy Transfer repeatedly, take drops when your inventory is full, then run to get more supplies."
+        },
+        {
+          "t": 174,
+          "kind": "opinion",
+          "text": "Gnomonkey says these features dramatically increase trip lengths and kills per hour while letting you avoid an expensive Blood fury and Scythe combo."
+        },
+        {
+          "t": 394,
+          "kind": "opinion",
+          "text": "Gnomonkey calls one of the most useful and lowest-requirement alts a resupply alt, which for the most part can be a fresh level three account."
+        },
+        {
+          "t": 422,
+          "kind": "method",
+          "text": "Any boss far from a bank can benefit from an alt running supplies: Nightmare, Cerberus, Abyssal Sire, Dagannoth Kings, God Wars Dungeon bosses, even Kraken and Sarachnis, with the alt also taking loose loot off your hands."
+        },
+        {
+          "t": 422,
+          "kind": "opinion",
+          "text": "A resupply alt saves lots of banking time and can allow using divine potions or more gear switches at bosses where you otherwise would not; Gnomonkey names Dagannoth Kings as a good example."
+        },
+        {
+          "t": 452,
+          "kind": "method",
+          "text": "Fresh alts can also hold scouted raids for solo or team Chambers, pick up loot at barrage tasks, King Black Dragon/Kalphite Queen and Zulrah, scout areas in the Wilderness, and touch the boat at Tempoross to start solo games faster."
+        },
+        {
+          "t": 452,
+          "kind": "requirement",
+          "text": "To upgrade a resupply alt, work towards Lunar Diplomacy and 91 Magic for both Plank/Pot Share and Energy Transfer, or 93 for Vengeance Other."
+        },
+        {
+          "t": 478,
+          "kind": "stat",
+          "text": "Gnomonkey says every Slayer boss except Gargoyles and Hydra benefits from an alt; for most the alt cannot attack at the same time but helps by running supplies and healing or spec-transferring."
+        },
+        {
+          "t": 478,
+          "kind": "method",
+          "text": "At Abyssal Sire, skip the house tab each kill and have the alt bring the house to you by using the house pool and running from the fairy ring each kill; at DKs the alt brings a second set of supplies and Dreams there, spec-transferring and healing when needed."
+        },
+        {
+          "t": 512,
+          "kind": "method",
+          "text": "At Cerberus the alt works like at DKs, but can easily run to a bank then teleport to his house in Taverley and run back for more supplies."
+        },
+        {
+          "t": 512,
+          "kind": "method",
+          "text": "At Thermonuclear smoke devil an alt can repeatedly run from house to fairy ring to the cave to provide constant claw specs; at Kraken the alt can Dream behind you, providing constant health and volatile specs and taking unnoted drops like sand/smoke serums."
+        }
+      ]
+    },
+    {
+      "name": "Alt unlocks and levels",
+      "kind": "skill",
+      "claims": [
+        {
+          "t": 258,
+          "kind": "tip",
+          "text": "Gnomonkey says Magic and Agility are among the most important levels for an alt; Magic unlocks Plank/Pot Share, Energy Transfer and Vengeance Other."
+        },
+        {
+          "t": 271,
+          "kind": "method",
+          "text": "Gnomonkey considers Energy Transfer likely the most important alt spell: it hits your alt for 10 damage, transfers his special attack meter to your main and fully restores run energy; Dream is also useful for increased HP regeneration."
+        },
+        {
+          "t": 271,
+          "kind": "tip",
+          "text": "Agility unlocks important shortcuts, helps regenerate run energy for a resupply alt, and unlocks the Graceful outfit, which the alt wears most of the time."
+        },
+        {
+          "t": 304,
+          "kind": "tip",
+          "text": "Combat stats are easily trained with barrages, splashing, chinning and Nightmare Zone; max combat is useful because you often dolo bosses with ranged and melee."
+        },
+        {
+          "t": 304,
+          "kind": "requirement",
+          "text": "83 Construction on an alt is extremely useful for the health pool, fairy ring and teleports to reach bosses quickly; early on a Ring of dueling at Clan Wars can restore but is too slow for many methods."
+        },
+        {
+          "t": 304,
+          "kind": "tip",
+          "text": "Other useful tradable unlocks are a Xeric's talisman and a Chambers tablet for quick banking; leeching raids with the alt gets these easily."
+        },
+        {
+          "t": 335,
+          "kind": "tip",
+          "text": "Gnomonkey lists Dragon defender, Avernic defender (if you are rich), Assembler, Barrows gloves (the best tank gloves) and Void as useful alt gear."
+        },
+        {
+          "t": 335,
+          "kind": "opinion",
+          "text": "Gnomonkey calls the Infernal cape the best offensive and defensive melee cape, with Fire cape fine in the meantime; he recommends getting it on an alt after 99 Ranged and before melee training if you have done Inferno on your main, barraging on defensive for Defence levels."
+        },
+        {
+          "t": 367,
+          "kind": "tip",
+          "text": "Hitpoints cape and Magic cape are very useful on an alt for their perks, and several diaries help: Karamja (Canron/Cerberus path) for bolt proc and Armadyl, Western Provinces for Elite Void, and Wilderness for obelisks."
+        },
+        {
+          "t": 367,
+          "kind": "tip",
+          "text": "Many unlocks are not needed on an alt, for example skilling outfits like Prospector or Angler, so you can skip Motherlode Mine."
+        }
+      ]
+    },
+    {
+      "name": "Alt account timing and pets",
+      "kind": "other",
+      "claims": [
+        {
+          "t": 182,
+          "kind": "tip",
+          "text": "Gnomonkey recommends starting an alt during any long-term AFK grind such as AFK pets or 99s: Redwoods for the Beaver is about a 331-hour grind on average, giving roughly a month of playtime to build a near-maxed alt."
+        },
+        {
+          "t": 182,
+          "kind": "tip",
+          "text": "Other AFK pet options are Karambwans with a fish barrel for Heron, Blood runes for Rift Guardian and Amethyst for Rock Golem."
+        },
+        {
+          "t": 207,
+          "kind": "tip",
+          "text": "Gnomonkey highly recommends the Quest Helper plugin when making an alt as it trivializes almost every quest; he says Mourning's End Part II took only about 40 minutes on his alt even with agility fails, and One Small Favour about 20 minutes."
+        },
+        {
+          "t": 237,
+          "kind": "method",
+          "text": "After quests and combat training, finish the alt off by AFKing in Nightmare Zone, which can be done while doing anything else on the main; it usually takes a couple of weeks of playtime to get an alt maxed besides melee."
+        },
+        {
+          "t": 237,
+          "kind": "opinion",
+          "text": "Gnomonkey says having multiple alts is great, but one solid max alt covers most activities."
+        }
+      ]
+    },
+    {
+      "name": "Dolo and trolo bossing with alts",
+      "kind": "mechanic",
+      "claims": [
+        {
+          "t": 541,
+          "kind": "method",
+          "text": "Alts that can fight the boss alongside the main overlap with higher-level money-making alts (very high requirements) but can dramatically boost kills per hour at many bosses, often raising gp/hr by more than the alt would earn doing Rune dragons, while lowering the boss's intensity."
+        },
+        {
+          "t": 541,
+          "kind": "method",
+          "text": "At God Wars Dungeon bosses such as Zamorak and Bandos, the alt just tanks and the main attacks, which dramatically reduces intensity and increases kills per hour."
+        },
+        {
+          "t": 574,
+          "kind": "method",
+          "text": "Alts also enable solo kills at King Black Dragon, Corporeal Beast, Sarachnis, Scorpia and Callisto, and can be expanded to 'trolo' (trio solo) at many of these bosses or even quadrolo for some."
+        },
+        {
+          "t": 603,
+          "kind": "tip",
+          "text": "For most solo-with-alt methods you do not actively play both accounts at once; at God Wars you click the boss on the alt once and then focus on the main."
+        }
+      ]
+    },
+    {
+      "name": "Playing two accounts at once",
+      "kind": "mechanic",
+      "claims": [
+        {
+          "t": 579,
+          "kind": "method",
+          "text": "Until recently Gnomonkey played fullscreen on a triple-monitor setup with the main on one monitor, the alt on another and browsing on the third, which was awkward enough to become a meme on his streams."
+        },
+        {
+          "t": 603,
+          "kind": "method",
+          "text": "He then downsized his main to 1536 by 864 resolution on his 1440p monitor so more fits nearby, with the alt in the corner and panels with stream information, and room for additional alts."
+        }
+      ]
+    },
+    {
+      "name": "Opinion: Avoid alt burnout",
+      "kind": "opinion",
+      "claims": [
+        {
+          "t": 637,
+          "kind": "opinion",
+          "text": "Gnomonkey warns against burning out from making too many alts, saying he knows more than one person it happened to, and that the game is not a job and not a chore unless you make it one."
+        },
+        {
+          "t": 637,
+          "kind": "opinion",
+          "text": "Gnomonkey says that if you run four money-making alts and the game feels only worth playing with all four running, to the point you do not want to log in, you have probably gone too far; alts are not efficient if you quit because of them, and moderation is important."
+        }
+      ]
+    },
+    {
+      "name": "Gnomonkey",
+      "kind": "person",
+      "claims": [
+        {
+          "t": 668,
+          "kind": "event",
+          "text": "Gnomonkey says he was live on Twitch around the video's upload, doing the new quest and then trying for a sub-55-minute Inferno run, and that he had almost hit a thousand followers."
+        }
+      ]
+    }
+  ]
+}

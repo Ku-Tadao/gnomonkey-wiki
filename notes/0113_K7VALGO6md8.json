@@ -1,0 +1,135 @@
+{
+  "id": "K7VALGO6md8",
+  "title": "TOA 500 BUDGET Teaching Stream",
+  "date": "2023-05-09",
+  "type": "guide",
+  "summary": "Gnomonkey completes a 500-invocation Tombs of Amascut raid with a sub-500m gear setup (about 424m) on his third attempt, explaining invocations, pathing, boss mechanics and supply usage along the way. He considers it doable but hard, and recommends waiting for Voidwaker at a minimum if possible.",
+  "outline": [
+    {"t": 0, "text": "Raid setup and invocation choices for the 500 budget run"},
+    {"t": 63, "text": "Combat gear discussion and viewer Q&A on stats and resources"},
+    {"t": 172, "text": "Puzzle rooms and mechanics (Scabaras waves, thralls, Baba)"},
+    {"t": 356, "text": "Baba boss fight mechanics"},
+    {"t": 439, "text": "Pathing and defense stats"},
+    {"t": 512, "text": "Kephri boss fight strategy"},
+    {"t": 623, "text": "Unfortified ward analysis"},
+    {"t": 769, "text": "Akkha boss fight mechanics"},
+    {"t": 1159, "text": "Managing a level 4 Zebak setback"},
+    {"t": 1526, "text": "High-level Akkha strategies (double trouble, Bofa versus blowpipe)"},
+    {"t": 2179, "text": "Wardens final encounter with BGS damage thresholds"},
+    {"t": 2903, "text": "Raid completion, loot and supply review"}
+  ],
+  "topics": [
+    {
+      "name": "Tombs of Amascut",
+      "kind": "raid",
+      "claims": [
+        {"t": 0, "kind": "record", "text": "Gnomonkey completed a 500 invocation Tombs of Amascut raid with sub-500m gear on his third attempt, after dying on the previous two tries."},
+        {"t": 0, "kind": "tip", "text": "For the 500 budget run Gnomonkey uses the invocations with Hardcore on and Walk the Path/Pathfinder on, but turns off Pathmaster, Deadly Prayers on a diet is not used, and he turns off Dehydration, Overly Draining and Lively Larva (using Overlords instead)."},
+        {"t": 29, "kind": "opinion", "text": "Gnomonkey considers the Keep Back invocation a lot worse without Shadow because it forces you to flinch a lot and Zebak is ranged much of the time, so in his budget setup he swaps Keep Back for Overlords."},
+        {"t": 58, "kind": "opinion", "text": "Gnomonkey says a 500 raid without Tumeken's Shadow is about the same difficulty as with it everywhere except Akkha, which he calls ten times easier with Shadow."},
+        {"t": 85, "kind": "tip", "text": "Gnomonkey says roughly two full Sanfew serum doses are enough to take into the Wardens; he went in with four and a half in a previous attempt and still had one full Sanfew left after camping Rigour in phase 3."},
+        {"t": 142, "kind": "trivia", "text": "Gnomonkey says a 500 raid with a Trident is possible and was done at around 11 million gear value by Nuketipe, but he does not recommend it as realistic."},
+        {"t": 205, "kind": "tip", "text": "In the Scabaras puzzle wave rooms, Gnomonkey advises killing the mages first and notes the thralls (Zebak room mobs) drain prayer, so tank only one at a time rather than a large clump."},
+        {"t": 2903, "kind": "record", "text": "Gnomonkey finished the run in about 47 minutes and ended with two full Sanfew serums left, concluding it probably needed one less dose than he used at the Wardens."},
+        {"t": 2979, "kind": "opinion", "text": "Gnomonkey says the budget 500 raid is doable but he is not sure he would recommend it; it took him 38 minutes in max gear in the earlier 500 teaching stream versus about 47 minutes in budget gear."},
+        {"t": 3006, "kind": "stat", "text": "The total gear value of Gnomonkey's budget 500 setup was 424 million gp, and he says that figure likely includes his rings."}
+      ]
+    },
+    {
+      "name": "Opinion: Wait for Voidwaker before budget 500 Tombs of Amascut",
+      "kind": "opinion",
+      "claims": [
+        {"t": 0, "kind": "opinion", "text": "Gnomonkey says the budget 500 Tombs of Amascut was harder than he expected and was not an easy route for most players."},
+        {"t": 0, "kind": "opinion", "text": "Gnomonkey recommends waiting for Voidwaker at a minimum if you can, because it gives a great weapon against the Core and large DPS at many of the raid bosses."},
+        {"t": 2979, "kind": "opinion", "text": "Gnomonkey says the budget setup is doable but sucks, and that it uses a lot more Sanfew serums than his max gear run (he used about six versus three and a half)."}
+      ]
+    },
+    {
+      "name": "Baba",
+      "kind": "boss",
+      "claims": [
+        {"t": 293, "kind": "tip", "text": "At Baba, Gnomonkey says to hit her, step one out, then go three under and three back; for the red X attack it is just two under and two back."},
+        {"t": 264, "kind": "tip", "text": "Gnomonkey does Baba with only two prayer points, relying on defence instead of praying, and walked out of the room with the same two points (a zero prayer room)."},
+        {"t": 439, "kind": "tip", "text": "Gnomonkey does a hit, steps out, goes three under, then three back on Baba, and drops a dose on the way."},
+        {"t": 592, "kind": "tip", "text": "Gnomonkey likes to freeze Baba (and Kephri) so they stay still."},
+        {"t": 293, "kind": "opinion", "text": "Gnomonkey considers bringing Barrage into Tombs of Amascut trolling because thralls are too valuable to give up."}
+      ]
+    },
+    {
+      "name": "Kephri",
+      "kind": "boss",
+      "claims": [
+        {"t": 512, "kind": "tip", "text": "At Kephri, Gnomonkey says to hit, step back, go three under and click the boss, and that this is a zero prayer room."},
+        {"t": 563, "kind": "tip", "text": "At Kephri, if you have about 20 prayer points that is enough to use thralls; the gap does not kill you on the top row so you can flinch from there and always be safe."},
+        {"t": 590, "kind": "tip", "text": "Gnomonkey likes to freeze Kephri so it stays still."},
+        {"t": 828, "kind": "tip", "text": "Against a melee scarab, Gnomonkey says you only need to chin (use chinchompas on) the first set of three scarabs rather than chinning every set."},
+        {"t": 942, "kind": "tip", "text": "If you stand to the right of the arcane scarab, the ranged scarab does not hit you."}
+      ]
+    },
+    {
+      "name": "Akkha",
+      "kind": "boss",
+      "claims": [
+        {"t": 1008, "kind": "tip", "text": "Gnomonkey says to flick offensive prayers as much as possible at Akkha because they drain a lot of prayer; camping them means bringing 14 restores."},
+        {"t": 1037, "kind": "tip", "text": "Gnomonkey says it is better to miss an attack than to camp the offensive prayer, but you should still click prayers properly."},
+        {"t": 1527, "kind": "tip", "text": "At Akkha, Gnomonkey notes you use a lot of restores and expects to arrive at the Wardens with lots of restore doses because he flicks heavily."},
+        {"t": 1626, "kind": "tip", "text": "For Akkha's double trouble orbs, walk two tiles every single step; you can tag them with radius markers for two tiles."},
+        {"t": 1692, "kind": "tip", "text": "With double trouble you have one tick of leeway: if an orb spawns under you and you move immediately the tick after, it will not hit you."},
+        {"t": 1634, "kind": "opinion", "text": "Gnomonkey says the Bofa (Bow of Faerdhinen) is best on Akkha while the blowpipe is better on the shadows."},
+        {"t": 1995, "kind": "opinion", "text": "Gnomonkey says Bofa outperforms the blowpipe everywhere except on Akkha's shadows."},
+        {"t": 1964, "kind": "opinion", "text": "Gnomonkey avoids using the Sanguinesti staff (butterfly) at Akkha because it is by far his worst DPS on him in this setup, unlike Shadow which would be his best."},
+        {"t": 1517, "kind": "tip", "text": "At Akkha, you can move between mining ticks and the progress will catch up, so you still complete it without being hit by an orb."},
+        {"t": 2093, "kind": "tip", "text": "If a thrall will be up about 20 seconds or longer, Gnomonkey swaps to a zombie thrall rather than summoning a new one."}
+      ]
+    },
+    {
+      "name": "Zebak",
+      "kind": "boss",
+      "claims": [
+        {"t": 1159, "kind": "event", "text": "Gnomonkey got a level 4 Zebak setback on all three of his attempts, and noted it is a one in three chance; he calls level 4 bad but doable and rarer than charged ice."},
+        {"t": 1233, "kind": "tip", "text": "On a level 4 Zebak, Gnomonkey says to step two back or he hits you, and to conserve as much prayer and health as possible."},
+        {"t": 1371, "kind": "tip", "text": "On Zebak's wave attack, you can tag the NPC indicators with True Tile since they are normal NPCs just called wave."},
+        {"t": 1371, "kind": "tip", "text": "On a level 4 Zebak you will probably use at least two doses; Gnomonkey says to stand in the center for a solve that always works."},
+        {"t": 1462, "kind": "tip", "text": "Gnomonkey says to not turn the overhead prayer off against Zebak and just flip Rigour, and that the blood barrage cannot be caught so you should not try."},
+        {"t": 1491, "kind": "tip", "text": "Gnomonkey says a level 4 Zebak is tough because the attack also drains prayer, so be careful not to get smited."},
+        {"t": 1460, "kind": "tip", "text": "Gnomonkey says the Fally shield (Falador shield) is worth bringing for one and a half restores worth of prayer if you have it."}
+      ]
+    },
+    {
+      "name": "Wardens",
+      "kind": "boss",
+      "claims": [
+        {"t": 506, "kind": "tip", "text": "Gnomonkey says Ancients (Ice Barrage) is only used for the Wardens and is huge there."},
+        {"t": 2211, "kind": "tip", "text": "In the Wardens phase 3, Gnomonkey uses BGS until about 30 damage, tanks the orbs down to 78 HP (or 76 if you healed) so the hit leaves him on exactly 1 HP."},
+        {"t": 2218, "kind": "stat", "text": "Gnomonkey says the Wardens' orbs do 75 damage, so tanking down to 76 HP leaves you on exactly 1 HP."},
+        {"t": 2260, "kind": "opinion", "text": "Gnomonkey says Bofa is better than the blowpipe on the obelisk in a 500 raid."},
+        {"t": 2339, "kind": "tip", "text": "Gnomonkey swaps to the blowpipe at low HP at the Wardens because it is more consistent and has better overkill."},
+        {"t": 2329, "kind": "tip", "text": "Gnomonkey determined Augury is a max hit in his setup and takes off his boots for the Wardens; tanking melee hits is better than not because they max lower (4 versus 10), wasting less prayer."},
+        {"t": 2560, "kind": "stat", "text": "Gnomonkey recalls needing 30 damage with BGS in the earlier phase and 60 on the last phase at the Wardens, since defence raises and resets at phase 4."},
+        {"t": 2617, "kind": "tip", "text": "Against the Wardens' skulls, Gnomonkey stands at the back so he can react to which side it is on, then moves up because it reduces travel time on the arrow and avoids nulling his attack when the projectile is in flight."},
+        {"t": 2860, "kind": "tip", "text": "On a level 4 Wardens (P4), projectiles travel faster; Gnomonkey says keep prayer very high and be ready to curse, and he stands close so he can immediately BGS when the phase starts."},
+        {"t": 2400, "kind": "tip", "text": "Gnomonkey advises not to flick with skulls at the Wardens because it is not worth it; he keeps prayer high and tries not to curse until below ten."}
+      ]
+    },
+    {
+      "name": "Stats and gear priorities",
+      "kind": "mechanic",
+      "claims": [
+        {"t": 385, "kind": "opinion", "text": "Gnomonkey says for a 350 invocation raid with a kit, the best stat recommendation is 99 everything, because stats are more valuable than any piece of gear."},
+        {"t": 385, "kind": "stat", "text": "Gnomonkey says each Strength, Ranged or Magic level is worth about 2% DPS, and each Attack level about 1%."},
+        {"t": 468, "kind": "opinion", "text": "Gnomonkey says Defence level does not matter much in Tombs of Amascut beyond equipping gear, though it is noticeable in a few places; high Prayer, Ranged, Magic, Attack and Strength are what matter."},
+        {"t": 767, "kind": "opinion", "text": "Gnomonkey notes that in his budget 500 setup you very much do need defence, in contrast to his general view that defence barely matters."},
+        {"t": 623, "kind": "opinion", "text": "Gnomonkey does not think the Unfortified ward (a shield) is worth bringing because it gives less mage damage and almost no defence."}
+      ]
+    },
+    {
+      "name": "Gnomonkey",
+      "kind": "person",
+      "claims": [
+        {"t": 1067, "kind": "event", "text": "Gnomonkey says his channel/Twitch hit 20K followers a couple of days before this stream (stream dated May 2023)."},
+        {"t": 2501, "kind": "trivia", "text": "Gnomonkey says he would not do eight-man 'GM time' raids himself, saying that is another streamer's job."},
+        {"t": 2979, "kind": "record", "text": "Gnomonkey says he completed the 500 teaching stream in max gear in 38 minutes."}
+      ]
+    }
+  ]
+}

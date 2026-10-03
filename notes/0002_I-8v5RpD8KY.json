@@ -1,0 +1,161 @@
+{
+  "id": "I-8v5RpD8KY",
+  "title": "How to OBTAIN THE LUMBERJACK SET! (Old School Runescape)",
+  "date": "2018-12-03",
+  "type": "guide",
+  "summary": "Gnomonkey explains a fast way to get the Lumberjack outfit by doing Temple Trekking only to find the bridge event with undead lumberjacks. He says it takes 30 to 45 minutes and saves over 300,000 XP on the way to 99 Woodcutting.",
+  "outline": [
+    {
+      "t": 0,
+      "text": "Why the Lumberjack outfit is worth getting compared with other outfits, and the Morytania hard diary recommendation"
+    },
+    {
+      "t": 33,
+      "text": "Gear used and choosing the easy escorts at the Temple Trekking board"
+    },
+    {
+      "t": 67,
+      "text": "Choosing Route 1 and recognising the bridge event versus the tree-chopping event"
+    },
+    {
+      "t": 97,
+      "text": "Killing the waves of five undead lumberjacks until a piece drops"
+    },
+    {
+      "t": 130,
+      "text": "Abador Crank event, spending tokens, Ironman rewards and closing thoughts"
+    }
+  ],
+  "topics": [
+    {
+      "name": "Lumberjack outfit",
+      "kind": "item",
+      "claims": [
+        {
+          "t": 0,
+          "kind": "opinion",
+          "text": "Gnomonkey considers the Lumberjack outfit one of the easiest and fastest outfits to obtain, unlike the farmer's and angler's outfits, which he says take a long time and do not save enough XP to be worth it."
+        },
+        {
+          "t": 0,
+          "kind": "stat",
+          "text": "Done correctly, obtaining the Lumberjack outfit takes 30 to 45 minutes and saves over 300,000 XP on the way to 99 Woodcutting."
+        },
+        {
+          "t": 33,
+          "kind": "method",
+          "text": "The outfit is obtained by going through Temple Trekking solely to find undead lumberjacks, which drop the outfit pieces."
+        },
+        {
+          "t": 97,
+          "kind": "tip",
+          "text": "If a piece of the outfit drops, the player should teleport out and start again, because a maximum of one piece can be obtained per event."
+        },
+        {
+          "t": 130,
+          "kind": "opinion",
+          "text": "Gnomonkey was upset that he waited until 80 Woodcutting to obtain the outfit and hopes the video helps others avoid that."
+        }
+      ]
+    },
+    {
+      "name": "Temple Trekking",
+      "kind": "activity",
+      "claims": [
+        {
+          "t": 33,
+          "kind": "method",
+          "text": "Start at the Temple Trekking board and escort either Dalcian Fang or Fiona Fray, the two easy escorts."
+        },
+        {
+          "t": 67,
+          "kind": "method",
+          "text": "Choose Route 1, because Routes 2 and 3 are harder and do not let the player evade the combat events, which wastes a lot of time."
+        },
+        {
+          "t": 67,
+          "kind": "tip",
+          "text": "If the player sees a combat event they cannot evade that is not the bridge event, they should teleport back to Burgh de Rott with the diary legs and start again."
+        },
+        {
+          "t": 67,
+          "kind": "tip",
+          "text": "The bridge event has a large broken bridge and undead lumberjacks come out of the water to attack the player."
+        },
+        {
+          "t": 67,
+          "kind": "tip",
+          "text": "A very similar-looking event has no lumberjacks and has the player chopping a cluster of trees; if that tree cluster appears in the bridge event the player should teleport out and start again."
+        },
+        {
+          "t": 97,
+          "kind": "tip",
+          "text": "In the bridge event a wave of five lumberjacks attacks; if no piece drops, another wave of five spawns after roughly a minute and they spawn indefinitely until the player gets a piece."
+        },
+        {
+          "t": 97,
+          "kind": "tip",
+          "text": "If a Temple Trekking event features Abador Crank, the player should talk to him quickly and evade the event, as he overheals HP and gives a Defence buff."
+        },
+        {
+          "t": 97,
+          "kind": "tip",
+          "text": "If the player completes the trek without teleporting out, they can spend the tokens on some XP and teleport back."
+        },
+        {
+          "t": 130,
+          "kind": "tip",
+          "text": "For Ironmen some Temple Trekking resource rewards may be useful, but Gnomonkey says they are very small so players should not waste time doing events to get them."
+        }
+      ]
+    },
+    {
+      "name": "Morytania Diary",
+      "kind": "other",
+      "claims": [
+        {
+          "t": 0,
+          "kind": "tip",
+          "text": "Gnomonkey recommends finishing at least the Morytania hard diary before getting the Lumberjack outfit, because its legs teleport the player right to the start of Temple Trekking."
+        },
+        {
+          "t": 33,
+          "kind": "requirement",
+          "text": "Gnomonkey notes the hard Morytania diary requires at least 70 Defence, so players doing the method most likely will not need food."
+        }
+      ]
+    },
+    {
+      "name": "Woodcutting",
+      "kind": "skill",
+      "claims": [
+        {
+          "t": 0,
+          "kind": "stat",
+          "text": "Having the Lumberjack outfit saves over 300,000 XP on the way to level 99 Woodcutting."
+        },
+        {
+          "t": 130,
+          "kind": "opinion",
+          "text": "Gnomonkey recommends getting the Lumberjack outfit well before 80 Woodcutting so more of the XP savings are used."
+        }
+      ]
+    },
+    {
+      "name": "Gnomonkey",
+      "kind": "person",
+      "claims": [
+        {
+          "t": 33,
+          "kind": "tip",
+          "text": "For the Lumberjack run Gnomonkey wore full graceful, his whip and defender, a fury for defence and a berserker ring."
+        },
+        {
+          "t": 33,
+          "kind": "tip",
+          "text": "Gnomonkey did not use stamina potions or food for the run, but suggests bringing a few staminas if the player's Agility level is low and maybe a few food just in case."
+        }
+      ]
+    }
+  ]
+}

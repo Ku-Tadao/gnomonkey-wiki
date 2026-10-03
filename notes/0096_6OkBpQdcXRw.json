@@ -1,0 +1,181 @@
+{
+  "id": "6OkBpQdcXRw",
+  "title": "How Would I MAX My Main From Scratch? (OSRS)",
+  "date": "2022-08-03",
+  "type": "guide",
+  "summary": "Gnomonkey, in a joke premise where his main and alt were banned for real-world trading, lays out how he would rebuild a maxed main from scratch: quest cape, Corrupted Gauntlet for early cash, Nex for high-level gear, then the 99s. He estimates he could get back to his current account state in roughly 5,000-6,000 hours instead of the 10,000+ on his main.",
+  "outline": [
+    {"t": 0, "text": "Premise: main and alt banned, starting over from scratch with no GP transfer"},
+    {"t": 28, "text": "Goals: max cape, pets, and enough GP to PvM"},
+    {"t": 53, "text": "Quest cape first, using herb runs for early cash"},
+    {"t": 89, "text": "Unlocking Corrupted Gauntlet and using it as the main moneymaker"},
+    {"t": 120, "text": "Combat training and gearing; AFK Nightmare Zone for attack and strength"},
+    {"t": 160, "text": "Nex grind for high-level raid gear"},
+    {"t": 238, "text": "Finalizing the max cape: buying 99s for the cheap skills"},
+    {"t": 265, "text": "Skilling plan: Agility, Runecrafting, Mining, Hunter, Thieving"},
+    {"t": 380, "text": "Woodcutting, Fishing, Slayer, Firemaking"},
+    {"t": 473, "text": "Rebuilding the Zuck helmet and estimate of total hours"}
+  ],
+  "topics": [
+    {
+      "name": "Gnomonkey",
+      "kind": "person",
+      "claims": [
+        {"t": 0, "kind": "event", "text": "In this video's premise, Gnomonkey's main and alt accounts are banned after real-world trading his entire bank, and he asks how he would rebuild a new main from scratch with no GP from another account."},
+        {"t": 28, "kind": "opinion", "text": "Gnomonkey's goals for a rebuilt main are the same as for his current one: get the max cape back, collect pets, and have a decent amount of GP to PvM with."},
+        {"t": 473, "kind": "record", "text": "Gnomonkey has over 10,000 hours on his main account."},
+        {"t": 500, "kind": "opinion", "text": "Gnomonkey believes that with the information and newer methods he has now, he could get back to where his account currently is in roughly 5,000-6,000 hours without extremely sweaty skilling methods."},
+        {"t": 450, "kind": "record", "text": "On his original main, Gnomonkey finished his max cape by lighting a log in the cosmic entity plane, but this time he would likely hit 99 Firemaking by accident while lighting redwood logs."},
+        {"t": 520, "kind": "event", "text": "Gnomonkey says he will be live on Twitch starting with some Inferno and then doing challenge mode Chambers of Xeric raids to help friends with combat achievements."}
+      ]
+    },
+    {
+      "name": "Quest cape",
+      "kind": "quest",
+      "claims": [
+        {"t": 53, "kind": "method", "text": "Gnomonkey's first main goal when starting over would be to acquire the quest cape, because there are too many useful unlocks to leave quests on the table."},
+        {"t": 59, "kind": "tip", "text": "Gnomonkey would use the Optimal Quest Guide plugin heavily for a solid order of quest completion, as well as for diaries."},
+        {"t": 88, "kind": "method", "text": "On a fresh account, Gnomonkey would rush the Fire Cape, Graceful, Dragon Defender and other useful untradables while slowly raising skills to complete all quests."},
+        {"t": 88, "kind": "requirement", "text": "With the quest cape and Song of the Elves completed, Gauntlet is unlocked, which Gnomonkey describes as the only PvM with no gear requirement."}
+      ]
+    },
+    {
+      "name": "Herb run",
+      "kind": "activity",
+      "claims": [
+        {"t": 59, "kind": "method", "text": "Before doing most quests, Gnomonkey would need GP for useful items, and says the easiest way to get it on a fresh account is herb runs."},
+        {"t": 59, "kind": "method", "text": "Gnomonkey would rush Fairytale I for magic secateurs and begin farming ranarr or toadflax for starting cash or basic gear."},
+        {"t": 59, "kind": "opinion", "text": "Gnomonkey has made fun of herb runs in the past but says that on a fresh account they are truly hard to beat."}
+      ]
+    },
+    {
+      "name": "Corrupted Gauntlet",
+      "kind": "boss",
+      "claims": [
+        {"t": 89, "kind": "stat", "text": "Gnomonkey says he is capable of 7.5 Corrupted Gauntlet completions an hour, making it about 6.5 million GP an hour of pure profit."},
+        {"t": 89, "kind": "opinion", "text": "Gnomonkey would treat Corrupted Gauntlet as by far his best moneymaker on a fresh account until he obtained gear for Nex."},
+        {"t": 120, "kind": "requirement", "text": "Gnomonkey says 7.5 completions an hour would not be possible until he had maxed Magic and Ranged and unlocked Augury and Rigor, so early money would be poured into those skills and prayers."},
+        {"t": 120, "kind": "stat", "text": "Gnomonkey estimates he would spend around 35 hours on average at Gauntlet while earning enough to buy AFK melee gear."}
+      ]
+    },
+    {
+      "name": "Nex",
+      "kind": "boss",
+      "claims": [
+        {"t": 158, "kind": "opinion", "text": "Gnomonkey calls Nex the best moneymaker in the game."},
+        {"t": 158, "kind": "stat", "text": "Gnomonkey says Nex is close to 15 million GP an hour with a solid team, even with the slightly lower value of drops these days."},
+        {"t": 150, "kind": "method", "text": "Gnomonkey would trade in his Bandos gear for Karil's armour and an Armadyl crossbow, then use that setup with maxed combat to grind Nex."},
+        {"t": 208, "kind": "stat", "text": "Gnomonkey estimates that making 3 billion GP from a 200 million bank at Nex would take just under 200 hours, about three weeks of only Nex."},
+        {"t": 208, "kind": "opinion", "text": "Gnomonkey says 200 hours of Nex is far more stimulating than 1,000 hours of Vorkath, and that meleeing Nex is surprisingly fun with clanmates."},
+        {"t": 178, "kind": "method", "text": "Gnomonkey would stay at Nex until he had all the gear he wanted for higher-level raids, since his goal includes pets and PvM rather than only the max cape."}
+      ]
+    },
+    {
+      "name": "Nightmare Zone",
+      "kind": "activity",
+      "claims": [
+        {"t": 150, "kind": "method", "text": "Once he had the necessary gear, Gnomonkey would AFK Nightmare Zone until attack and strength were maxed, then move on to Nex."},
+        {"t": 120, "kind": "stat", "text": "Gnomonkey estimates max melee gear besides Torva with a Rapier would cost him roughly 200 million GP."}
+      ]
+    },
+    {
+      "name": "Inferno",
+      "kind": "activity",
+      "claims": [
+        {"t": 178, "kind": "method", "text": "Gnomonkey would grab an Inferno cape at some point and says he is capable of doing the Inferno with an Armadyl crossbow."},
+        {"t": 178, "kind": "tip", "text": "Gnomonkey would hold off on Inferno until he had full crystal armour and a Bow of Faerdhinen, which would make it completely AFK."}
+      ]
+    },
+    {
+      "name": "Raids gear targets",
+      "kind": "opinion",
+      "claims": [
+        {"t": 178, "kind": "stat", "text": "Gnomonkey estimates a Scythe of Vitur, Twisted bow and near-max gear for all combat styles costs roughly 3 billion GP."},
+        {"t": 208, "kind": "opinion", "text": "Gnomonkey says roughly 3 billion GP of gear is all that is necessary to do high-level raids at near-max efficiency."},
+        {"t": 28, "kind": "opinion", "text": "Gnomonkey notes the video will quickly be outdated by new content, specifically mentioning Raids 3, but says his general strategy would still be the same."}
+      ]
+    },
+    {
+      "name": "Max cape",
+      "kind": "skill",
+      "claims": [
+        {"t": 238, "kind": "method", "text": "To finish the max cape Gnomonkey would buy the Bible 99s: Construction, Herblore, Crafting, Fletching, Smithing, Farming and Prayer, using the most efficient opportunity-cost methods such as mahogany tables."},
+        {"t": 238, "kind": "tip", "text": "If his alt were also purged, Gnomonkey would work on it during very AFK grinds such as Caranbwan fishing or redwoods."},
+        {"t": 390, "kind": "method", "text": "For Slayer, Gnomonkey would point boost to unlock Slayer rings, a perfect block list, the Slayer helmet and extensions, then do a mix of efficient XP tasks and any Slayer boss he is assigned."},
+        {"t": 410, "kind": "method", "text": "Gnomonkey says Firemaking can be done at any point for a little cash through Wintertodt, and if he got spooked the Phoenix he would switch to redwood log Firemaking at level 90 for significantly faster XP."},
+        {"t": 410, "kind": "opinion", "text": "Gnomonkey calls Firemaking by far the most impressive skill in the game to level."}
+      ]
+    },
+    {
+      "name": "Agility",
+      "kind": "skill",
+      "claims": [
+        {"t": 265, "kind": "method", "text": "Gnomonkey would train Agility through Hallowed Sepulchre, which supplies lots of GP and has a high pet chance."},
+        {"t": 265, "kind": "opinion", "text": "Gnomonkey calls Agility a very useful 99 and easily his favorite skill, so he would likely grind it first."}
+      ]
+    },
+    {
+      "name": "Runecraft",
+      "kind": "skill",
+      "claims": [
+        {"t": 265, "kind": "method", "text": "Gnomonkey would train Runecrafting through either mud runes or blood runes after Guardians of the Rift, both of which supply lots of GP and have a high pet chance."},
+        {"t": 265, "kind": "tip", "text": "Gnomonkey says mud runes are incredibly fast XP and GP with the Ring of the Elements, so he would do a mix of that with AFKing blood runes."}
+      ]
+    },
+    {
+      "name": "Mining",
+      "kind": "skill",
+      "claims": [
+        {"t": 291, "kind": "method", "text": "For Mining, Gnomonkey would grab the Prospector outfit at Motherlode Mine as soon as possible because it is needed for the Falador diary, then move to Volcanic Mine as soon as able and train all the way to 99."},
+        {"t": 291, "kind": "method", "text": "Gnomonkey would AFK mining stars until getting the Celestial signet for increased XP."},
+        {"t": 291, "kind": "opinion", "text": "Gnomonkey would use Volcanic Mine as his go-to low-intensity method for when he needs to do things on the side."},
+        {"t": 320, "kind": "trivia", "text": "Gnomonkey says Volcanic Mine has the second-best pet chance in the game, making it great for grinding the rock column he desires."},
+        {"t": 349, "kind": "requirement", "text": "Gnomonkey says the Desert amulet requires 91 Thieving and is very handy for Volcanic Mine, so he would finish Thieving before Mining."}
+      ]
+    },
+    {
+      "name": "Hunter",
+      "kind": "skill",
+      "claims": [
+        {"t": 320, "kind": "method", "text": "For Hunter, Gnomonkey would do a mix of bird houses and drift net fishing up to level 80."},
+        {"t": 320, "kind": "trivia", "text": "Gnomonkey notes drift net fishing is amazing XP but does not have a pet chance."},
+        {"t": 320, "kind": "method", "text": "At Hunter level 80 Gnomonkey would immediately move to herbiboar, which would generate maximum profit since he would have bought Herblore anyway; if he got spooked herbiboar he would switch to black chinchompas to try to get that pet before 99."}
+      ]
+    },
+    {
+      "name": "Thieving",
+      "kind": "skill",
+      "claims": [
+        {"t": 349, "kind": "method", "text": "For Thieving, Gnomonkey would do a mix of Ardougne knights and stealing artefacts, with the majority likely being Ardougne knights."},
+        {"t": 349, "kind": "tip", "text": "Gnomonkey says the Kalphite Queen head pet is so easily earned by using his ultimate strength on Fremennik stalls that he would not worry about pet chance for the grind to 99 Thieving."}
+      ]
+    },
+    {
+      "name": "Woodcutting",
+      "kind": "skill",
+      "claims": [
+        {"t": 349, "kind": "method", "text": "For Woodcutting, Gnomonkey would do two-tick teaks until he had the level for Sulliuscep, and do those up until level 90 for redwoods."},
+        {"t": 381, "kind": "tip", "text": "Gnomonkey would grab the Lumberjack outfit as soon as he had Morytania legs 3, and would spend the fossil XP from sulliusceps on Mining."}
+      ]
+    },
+    {
+      "name": "Fishing",
+      "kind": "skill",
+      "claims": [
+        {"t": 381, "kind": "opinion", "text": "Gnomonkey says Fishing is one of the slower skills he would have to do, but he loves to AFK it."},
+        {"t": 381, "kind": "method", "text": "Gnomonkey would grab the fish barrel from Tempoross, then AFK Karambwans until he got the pet."},
+        {"t": 381, "kind": "stat", "text": "Gnomonkey says Karambwan fishing has an incredibly good pet chance and is about four minutes of AFK, up there with redwoods among the most AFK methods in the game."},
+        {"t": 408, "kind": "method", "text": "If he got spooked the pet, Gnomonkey would switch to dark crabs at 85 Fishing and go all the way to 99."}
+      ]
+    },
+    {
+      "name": "Zuck helmet",
+      "kind": "item",
+      "claims": [
+        {"t": 462, "kind": "method", "text": "With the max cape back, the only thing left for Gnomonkey would be slowly re-obtaining the Zuck helmet to be back where his main currently is."},
+        {"t": 473, "kind": "opinion", "text": "Gnomonkey says the recent kill count reduction has made the Zuck helmet much less annoying to get."},
+        {"t": 473, "kind": "opinion", "text": "Gnomonkey says he may need to earn more money for better challenge mode and Theatre of Blood gear for some of the achievements, but would likely earn plenty through Slayer bossing and finishing the max cape."}
+      ]
+    }
+  ]
+}

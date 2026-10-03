@@ -1,0 +1,42 @@
+{
+  "id": "9QNIj0pLk5o",
+  "title": "Ankou Slayer Guide OSRS (Fast Task Fast Points)",
+  "date": "2020-04-16",
+  "type": "guide",
+  "summary": "A short guide to Ankou Slayer tasks from Duradel. Gnomonkey says they give poor loot and XP but are an extremely fast task, so they are worth doing rather than skipping.",
+  "outline": [
+    {"t": 0, "text": "Introduction: why Ankou tasks are worth doing despite poor rewards"},
+    {"t": 20, "text": "Gear"},
+    {"t": 33, "text": "Inventory"},
+    {"t": 72, "text": "Getting to the Ankou in the Catacombs of Kourend"},
+    {"t": 100, "text": "Loot and conclusion"}
+  ],
+  "topics": [
+    {
+      "name": "Ankou",
+      "kind": "other",
+      "claims": [
+        {"t": 0, "kind": "stat", "text": "A task of 53 Ankou took Gnomonkey roughly seven minutes, making it one of Duradel's shortest tasks."},
+        {"t": 0, "kind": "opinion", "text": "Gnomonkey says Ankou have horrible drops and terrible XP rates, but like Zygomites and Dark Beasts the task is worth doing just because it is so fast."},
+        {"t": 0, "kind": "stat", "text": "Ankou have an average weight of five from Duradel, so they come up occasionally."},
+        {"t": 0, "kind": "requirement", "text": "Ankou have no requirements to fight and Gnomonkey calls them incredibly easy."},
+        {"t": 0, "kind": "tip", "text": "For Ankou Gnomonkey brings standard melee gear, and says the gear does not matter much so pieces can be downgraded."},
+        {"t": 33, "kind": "tip", "text": "The Salve amulet works on Ankou but does not stack with the Slayer helmet, and Gnomonkey says the Slayer helmet's bonus is more beneficial."},
+        {"t": 33, "kind": "tip", "text": "Ankou do not drop bones, so Gnomonkey says a bone crusher is not needed, and they have no alchable drops so the rune pouch can be skipped."},
+        {"t": 72, "kind": "method", "text": "To reach Ankou, teleport to Xeric's Heart, enter the Catacombs, run south of the altar and climb through a hole to get to them."},
+        {"t": 72, "kind": "tip", "text": "With decent stats and armour you can tank multiple Ankou at once without needing food, so Gnomonkey uses auto-retaliate and piety."},
+        {"t": 100, "kind": "stat", "text": "Gnomonkey's Ankou task of about seven minutes gave only 30k in loot and 3k Slayer XP."},
+        {"t": 100, "kind": "tip", "text": "Ankou drop items worth picking up, such as arrows and runes, but the loot is not great overall."}
+      ]
+    },
+    {
+      "name": "Slayer",
+      "kind": "skill",
+      "claims": [
+        {"t": 0, "kind": "opinion", "text": "Gnomonkey groups Ankou with Zygomites and Dark Beasts as Slayer tasks worth doing rather than skipping because they are so fast."},
+        {"t": 33, "kind": "tip", "text": "For an Ankou task Gnomonkey brings a Xeric's talisman for teleporting to the Catacombs, a Desert amulet and Karamja gloves for restocking and getting a new task, a divine super combat potion, prayer potions to keep piety up, and some sharks."},
+        {"t": 33, "kind": "tip", "text": "Gnomonkey brings a wrench and Saradomin godsword to save prayer potions on Ankou tasks, and a herb and gem sack to save inventory space."}
+      ]
+    }
+  ]
+}

@@ -1,0 +1,138 @@
+{
+  "id": "cqAUsddqJok",
+  "title": "Divine Potions - Are they worth using? (YES) OSRS",
+  "date": "2020-01-13",
+  "type": "guide",
+  "summary": "Gnomonkey argues divine potions, added with the elf city, are worth using in most places where regular potions were used. He goes through each divine potion, where each is best, why divine magic potions are nearly worthless, and when regular potions are still better.",
+  "outline": [
+    {
+      "t": 0,
+      "text": "What divine potions are and how they work"
+    },
+    {
+      "t": 26,
+      "text": "Why constant maximum boosts matter for DPS"
+    },
+    {
+      "t": 54,
+      "text": "Divine ranging potions"
+    },
+    {
+      "t": 82,
+      "text": "Divine super attack/strength/defence versus divine super combat"
+    },
+    {
+      "t": 108,
+      "text": "Where to use divine super combats"
+    },
+    {
+      "t": 134,
+      "text": "Divine magic potion"
+    },
+    {
+      "t": 163,
+      "text": "When regular potions are better"
+    }
+  ],
+  "topics": [
+    {
+      "name": "Divine potions",
+      "kind": "item",
+      "claims": [
+        {
+          "t": 0,
+          "kind": "tip",
+          "text": "Divine potions are upgraded versions of their regular counterparts that keep stats at their maximum boost for five minutes before draining completely."
+        },
+        {
+          "t": 0,
+          "kind": "stat",
+          "text": "Drinking a dose of a divine potion hits the player for 10 damage, and they are made with ground-up crystal shards, making them pricier than the standard potions."
+        },
+        {
+          "t": 0,
+          "kind": "tip",
+          "text": "If divine potion stats are drained, such as by drinking a brew, the boost is not reapplied; it stays at the level it was reduced to."
+        },
+        {
+          "t": 26,
+          "kind": "opinion",
+          "text": "Gnomonkey says the DPS boost of constantly maximum-boosted stats cannot be understated: with Ranged and Melee, losing a level or two can reduce max hit, around a 1 to 2% DPS loss, equivalent to swapping Pegasian boots for blessed dragonhide boots."
+        },
+        {
+          "t": 26,
+          "kind": "opinion",
+          "text": "Gnomonkey says the 10 damage is made up for by being able to carry fewer stat-boosting potions and more food."
+        },
+        {
+          "t": 163,
+          "kind": "tip",
+          "text": "In locations where brews are used, only regular potions work because the divine boost is lost upon using a brew, and PKers may find regular potions more useful for the same reason."
+        }
+      ]
+    },
+    {
+      "name": "Divine ranging potion",
+      "kind": "item",
+      "claims": [
+        {
+          "t": 54,
+          "kind": "opinion",
+          "text": "Gnomonkey says divine ranging potions are useful basically everywhere while ranging, with no time they should not be used, especially since they are cheap."
+        },
+        {
+          "t": 54,
+          "kind": "opinion",
+          "text": "Gnomonkey says Vorkath, Alchemical Hydra, brutal black dragons and the Fight Caves all benefit from divine ranging potions."
+        }
+      ]
+    },
+    {
+      "name": "Divine super combat potion",
+      "kind": "item",
+      "claims": [
+        {
+          "t": 54,
+          "kind": "opinion",
+          "text": "Gnomonkey thought divine super attack, strength and defence seemed pointless since divine super combat combines all of them and damages the player only once."
+        },
+        {
+          "t": 82,
+          "kind": "stat",
+          "text": "A divine super combat dose costs about 4.2k, while a sip of each of the three divine melee potions is about 1.4k, a substantial difference, due to the large difference in level requirements to make them."
+        },
+        {
+          "t": 82,
+          "kind": "opinion",
+          "text": "Gnomonkey considers the three separate divine melee potions more cost effective where inventory space and health matter less, such as most Slayer tasks like Kurask, gargoyles, wyverns, Suqah and Dagannoth."
+        },
+        {
+          "t": 108,
+          "kind": "opinion",
+          "text": "Gnomonkey says divine super combats are more worthwhile where food and inventory space matter, like most boss encounters: Bandos, Zamorak, the Kalphite Queen, Corporeal Beast, Chambers of Xeric, and longer trips such as at the Giant Mole."
+        }
+      ]
+    },
+    {
+      "name": "Divine magic potion",
+      "kind": "item",
+      "claims": [
+        {
+          "t": 108,
+          "kind": "opinion",
+          "text": "Gnomonkey calls the divine magic potion the only potion that is nearly worthless in his opinion, since the imbued heart provides a much higher boost."
+        },
+        {
+          "t": 134,
+          "kind": "opinion",
+          "text": "Gnomonkey says boosting Magic only boosts accuracy and not damage, so divine magic potions do not help as much as the other divine potions."
+        },
+        {
+          "t": 134,
+          "kind": "tip",
+          "text": "Gnomonkey could imagine using the imbued heart and divine magic potion together at Zulrah, and the only exception he can think of is using divine magic potions to boost up to Ice Barrage when bursting, so the level is consistently kept up instead of drained."
+        }
+      ]
+    }
+  ]
+}

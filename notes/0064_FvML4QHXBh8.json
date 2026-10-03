@@ -1,0 +1,360 @@
+{
+  "id": "FvML4QHXBh8",
+  "title": "Slayer Point Boosting/Canceling Guide (Turael) OSRS",
+  "date": "2021-04-27",
+  "type": "guide",
+  "summary": "A guide to Slayer point boosting, which means doing nine tasks from Turael and the tenth from a better master such as Konar or Duradel to rapidly earn Slayer points, and to Turael task cancelling after 99 Slayer. Gnomonkey describes his inventory setup and then breaks down the fastest way to do each of Turael's 25 tasks, finishing with a comparison against Wilderness Slayer.",
+  "outline": [
+    {
+      "t": 0,
+      "text": "What point boosting and Turael cancelling are, and when to use them"
+    },
+    {
+      "t": 55,
+      "text": "Requirements and helpful setup: house, teleports, blowpipe, Inventory Setups plugin"
+    },
+    {
+      "t": 146,
+      "text": "Gnomonkey's inventory setup"
+    },
+    {
+      "t": 237,
+      "text": "Banshees, Bats, Bears"
+    },
+    {
+      "t": 281,
+      "text": "Birds, Cave Bugs, Cave Crawlers, Cave Slime, Cows, Crawling Hands"
+    },
+    {
+      "t": 359,
+      "text": "Desert Lizards, Dogs, Dwarves, Goblins, Ghosts"
+    },
+    {
+      "t": 425,
+      "text": "Icefiends, Kalphites, Minotaurs"
+    },
+    {
+      "t": 479,
+      "text": "Monkeys, Rats, Scorpions, Skeletons"
+    },
+    {
+      "t": 538,
+      "text": "Sourhogs, Spiders, Wolves, Zombies"
+    },
+    {
+      "t": 583,
+      "text": "Which master to use for the tenth task"
+    },
+    {
+      "t": 594,
+      "text": "Comparison with Wilderness Slayer and conclusion"
+    }
+  ],
+  "topics": [
+    {
+      "name": "Slayer point boosting",
+      "kind": "activity",
+      "claims": [
+        {
+          "t": 0,
+          "kind": "method",
+          "text": "Slayer point boosting means using Turael for nine tasks of your task streak and then using Konar or Duradel for the tenth task in a row to rapidly increase your total Slayer points."
+        },
+        {
+          "t": 0,
+          "kind": "tip",
+          "text": "Gnomonkey calls point boosting an amazing option for quickly gaining points for the main Slayer unlocks such as superiors or slayer rings, or for buying slayer helmet recolours."
+        },
+        {
+          "t": 55,
+          "kind": "requirement",
+          "text": "The only hard requirement for point boosting is having the combat level to use a better Slayer master for your tenth tasks."
+        },
+        {
+          "t": 55,
+          "kind": "tip",
+          "text": "Gnomonkey starts every new account with some Slayer point boosting to rapidly unlock superiors as well as some blocks."
+        },
+        {
+          "t": 55,
+          "kind": "tip",
+          "text": "To do Turael tasks quickly, Gnomonkey says to have a decent house with lots of teleports unlocked: a jewellery box, a nexus with the main teleports, and a fairy ring and spirit tree; decent ranged gear with a blowpipe also helps."
+        },
+        {
+          "t": 87,
+          "kind": "tip",
+          "text": "Gnomonkey says point boosting benefits greatly from the Inventory Setups plugin on the RuneLite plugin hub, which saves your setups and sorts your bank to show only what you need, as gearing up otherwise takes way too long."
+        },
+        {
+          "t": 115,
+          "kind": "tip",
+          "text": "Gnomonkey gives a shoutout to the then-recent Bank Tag Layouts plugin, which makes it much easier to gear up for almost anything."
+        },
+        {
+          "t": 583,
+          "kind": "opinion",
+          "text": "Gnomonkey says that if you do not have the Zeah elite diary done, it is probably best to stick with Duradel for the tenth task, as Konar gives a lot of terrible tasks."
+        },
+        {
+          "t": 594,
+          "kind": "opinion",
+          "text": "Gnomonkey says that with Rada's Blessing 4 he would do tenth tasks at Konar, as you get additional points and can teleport directly to her."
+        },
+        {
+          "t": 594,
+          "kind": "opinion",
+          "text": "Gnomonkey says point boosting gives better points per hour than Wilderness Slayer if you do not redo your blocks; if you want every helmet recolour it might be worth making a new block list for Wilderness Slayer, but for a pile of general unlock points he sticks with point boosting."
+        }
+      ]
+    },
+    {
+      "name": "Turael",
+      "kind": "person",
+      "claims": [
+        {
+          "t": 0,
+          "kind": "stat",
+          "text": "Turael can cancel a Slayer task for no Slayer point cost and give you one of his own."
+        },
+        {
+          "t": 26,
+          "kind": "stat",
+          "text": "Cancelling a task with Turael resets your task streak and requires you to complete four tasks before you can start gaining points again."
+        },
+        {
+          "t": 26,
+          "kind": "opinion",
+          "text": "Gnomonkey says Turael cancelling is a great option after 99 Slayer when looking for specific tasks such as Slayer bosses, shamans (so you can use a slayer helmet in the Chambers of Xeric) or Jad/Inferno tasks."
+        },
+        {
+          "t": 26,
+          "kind": "opinion",
+          "text": "Gnomonkey does not recommend cancelling with Turael before 99 Slayer, saying it is much more efficient to skip tasks with points than to regear to do Turael tasks until you get good ones."
+        },
+        {
+          "t": 55,
+          "kind": "tip",
+          "text": "Many of Turael's tasks count for bosses, such as spiders for Sarachnis or Venenatis, or zombies for Vorkath, and the small amount he assigns can make him a fun Slayer boss master for breaking up the grind."
+        },
+        {
+          "t": 204,
+          "kind": "stat",
+          "text": "Turael assigns 25 different tasks."
+        },
+        {
+          "t": 204,
+          "kind": "tip",
+          "text": "With a Slayer cape, contact Turael before leaving your completed task, as there is a chance of getting a back-to-back task while boosting."
+        },
+        {
+          "t": 447,
+          "kind": "tip",
+          "text": "Turael cannot cancel Kalphite tasks he assigns himself, so if a better Slayer master gives them while you are cancelling you have to do the task; Gnomonkey says if cancelling for a long time it is probably best to block Kalphites."
+        }
+      ]
+    },
+    {
+      "name": "Slayer point boosting inventory setup",
+      "kind": "activity",
+      "claims": [
+        {
+          "t": 115,
+          "kind": "method",
+          "text": "For gear Gnomonkey wears his best ranged gear and an expeditious bracelet, and says the blowpipe is huge."
+        },
+        {
+          "t": 149,
+          "kind": "method",
+          "text": "Gnomonkey's boosting inventory includes a skull sceptre, chronicle, a rune pouch with NPC Contact runes, a pile of chinchompas for monkey tasks (not too many in case you die), Desert amulet 4 (or a glory to reach Al Kharid), a quest cape, two expeditious bracelets, a rope, stamina, divine ranging and a prayer potion."
+        },
+        {
+          "t": 149,
+          "kind": "method",
+          "text": "He also brings a Dinh's bulwark with a quick four-way melee switch (boots, cape, amulet), a cannon with a pile of cannonballs, Xeric's talisman, an ectophial, a gnome seed pod, a slayer ring, ice coolers, a digsite pendant and a max cape, replaceable with a construction cape."
+        },
+        {
+          "t": 177,
+          "kind": "tip",
+          "text": "If you do not have a max cape for a light source, Gnomonkey says to swap the boots for a Bruma torch (headgear or similar slot) as a light source, and without a construction cape you need Taverley house tabs, which leaves no way to restore."
+        },
+        {
+          "t": 177,
+          "kind": "tip",
+          "text": "Gnomonkey recommends moving your house to Taverley if you plan to boost a lot, as it is the only quick teleport to the dwarves."
+        },
+        {
+          "t": 204,
+          "kind": "tip",
+          "text": "While boosting you want to be on the Lunar spellbook to cast NPC Contact to call Turael for another task, and you can right-click the spell to contact the last contacted NPC, which Gnomonkey says he took an embarrassingly long time to learn."
+        }
+      ]
+    },
+    {
+      "name": "Turael task locations",
+      "kind": "mechanic",
+      "claims": [
+        {
+          "t": 237,
+          "kind": "method",
+          "text": "Banshees: kill them on the east side of the ground floor of the Slayer Tower, teleport there with a slayer ring and drink a stamina dose at the start as you run around a lot."
+        },
+        {
+          "t": 250,
+          "kind": "method",
+          "text": "Bats: go west of Paterdomus near the Rag and Bone Man, use a digsite teleport, set up the cannon and run east to kill the bats the cannon cannot see."
+        },
+        {
+          "t": 262,
+          "kind": "method",
+          "text": "Bears: south of the Legends' Guild, reached fastest with the quest cape teleport, fairy ring BLR, or a house teleport; the task also counts for Callisto if you prefer to do it there."
+        },
+        {
+          "t": 281,
+          "kind": "method",
+          "text": "Birds: penguins at fairy ring AJS are the most useful task for a bulwark; wear full melee with piety and drop all of them with bulwark specs, hopping worlds if one spec kills them all, and teleporting home to restore special attack."
+        },
+        {
+          "t": 294,
+          "kind": "tip",
+          "text": "Gnomonkey says that if you do not have an ornate pool and fairy ring in your house, it is probably better to just go to Lumbridge chickens for the Birds task."
+        },
+        {
+          "t": 304,
+          "kind": "method",
+          "text": "Cave bugs: go to the dungeon reached via fairy ring AJQ (transcribed as Dorikshin Dungeon) with a light source or you will die, run northwest of the fairy ring for the most spawns and kill only the small ones when possible, as large cave bugs have over 100 HP."
+        },
+        {
+          "t": 321,
+          "kind": "method",
+          "text": "Cave crawlers: in the Fremennik Slayer Dungeon, reached with the slayer ring or fairy ring AJR; their poison does a negligible amount of damage."
+        },
+        {
+          "t": 330,
+          "kind": "method",
+          "text": "Cave slime: in the same dungeon via fairy ring AJQ, just north of the ring, with a light source needed."
+        },
+        {
+          "t": 340,
+          "kind": "method",
+          "text": "Cows: in the eastern Lumbridge cow pen, reached with the nexus teleport to Lumbridge and a run; a cannon placed in the middle of the pen ends the task within 60 seconds."
+        },
+        {
+          "t": 351,
+          "kind": "method",
+          "text": "Crawling hands: only found in the Slayer Tower; Gnomonkey uses a slayer ring to get there and runs around piping them with chinchompas as he goes."
+        },
+        {
+          "t": 359,
+          "kind": "method",
+          "text": "Desert lizards: one of the more annoying tasks, done at fairy ring DLQ with a stack of ice coolers; Gnomonkey places a cannon and throws ice coolers at the lizards it tags, and says waterskins are not needed because the task ends before desert heat matters."
+        },
+        {
+          "t": 359,
+          "kind": "tip",
+          "text": "Optionally you can cannon sulphur lizards in Konar's cave for Desert lizards, which is slower but much more AFK and less annoying."
+        },
+        {
+          "t": 383,
+          "kind": "method",
+          "text": "Dogs: kill jackals just south of the lizards at fairy ring DLQ, placing the cannon roughly in one spot and piping any jackals that come near."
+        },
+        {
+          "t": 394,
+          "kind": "method",
+          "text": "Dwarves: kill them in the Taverley Dungeon, teleport with a construction cape to the Taverley house portal or a redirected house tab, and drop the cannon in the centre of the tables."
+        },
+        {
+          "t": 405,
+          "kind": "method",
+          "text": "Goblins: teleport to Lumbridge with the house nexus and run east; the cannon position does not matter and the task ends extremely quickly."
+        },
+        {
+          "t": 414,
+          "kind": "method",
+          "text": "Ghosts: kill them in the Catacombs of Kourend, teleporting with the Xeric's talisman or the Great Kourend teleport; the best spot is northeast of the entrance, and you can dump bulwark specs before piping them all."
+        },
+        {
+          "t": 425,
+          "kind": "method",
+          "text": "Ice fiends: teleport with Lassar teleport tabs or to the Monastery and run north, then put the cannon on one tile."
+        },
+        {
+          "t": 433,
+          "kind": "method",
+          "text": "Kalphites: go to the Kalphite Slayer cave, reached with Desert amulet 4 directly, or a glory to Al Kharid and a short run east after the Shanty Pass; place the cannon in the centre of the small Kalphites."
+        },
+        {
+          "t": 447,
+          "kind": "tip",
+          "text": "For Kalphites you could also kill the Kalphite Queen for the task if you prefer."
+        },
+        {
+          "t": 468,
+          "kind": "method",
+          "text": "Minotaurs: in the Stronghold of Security, teleported to with the skull sceptre; go one south through the gates, then east a little, and a cannon in the centre of the room finishes the task in seconds."
+        },
+        {
+          "t": 479,
+          "kind": "method",
+          "text": "Monkeys: take a gnome seed pod to a glider, glide to Ape Atoll, go through the trapdoor and enter the first hole with a light source, stack monkeys against a wall and throw chinchompas on a medium fuse; without Monkey Madness II you can cannon at fairy ring CKR."
+        },
+        {
+          "t": 500,
+          "kind": "tip",
+          "text": "You can also kill tortured gorillas for the Monkeys task if you prefer."
+        },
+        {
+          "t": 503,
+          "kind": "method",
+          "text": "Rats: in the Varrock sewers, teleport with the nexus and run northeast to the manhole, drop the cannon and bulwark specs work there; Gnomonkey calls it the fastest task Turael assigns by far."
+        },
+        {
+          "t": 517,
+          "kind": "method",
+          "text": "Scorpions: in the Al Kharid mine, teleport to the Duel Arena and run north, cannon on one spot; you can optionally kill Scorpia for the task."
+        },
+        {
+          "t": 527,
+          "kind": "method",
+          "text": "Skeletons: bring a rope, teleport to the digsite and use the rope on the hole to go down, then cannon; you can optionally kill Vet'ion for this task."
+        },
+        {
+          "t": 538,
+          "kind": "opinion",
+          "text": "Gnomonkey calls Sourhogs one of the worst tasks, as they are single combat with a decent health pool and so fairly slow; he gets there with a chronicle and the rock shortcut and drops a cannon."
+        },
+        {
+          "t": 555,
+          "kind": "method",
+          "text": "Spiders: near the HAM hideout, teleport to Lumbridge with the nexus and run west with a cannon; a very fast task, and you can optionally kill Sarachnis or Venenatis for it."
+        },
+        {
+          "t": 567,
+          "kind": "method",
+          "text": "Wolves: use a glider (via seed pod or ring of dueling to Duel Arena) to White Wolf Mountain and place the cannon where it hits all the wolves."
+        },
+        {
+          "t": 576,
+          "kind": "method",
+          "text": "Zombies: use an ectophial and run west to the farm, cannon and kill everything; you can optionally kill Vorkath for this task."
+        }
+      ]
+    },
+    {
+      "name": "Wilderness Slayer",
+      "kind": "activity",
+      "claims": [
+        {
+          "t": 594,
+          "kind": "opinion",
+          "text": "Gnomonkey says point boosting gives better points per hour than Wilderness Slayer if you do not redo your blocks."
+        },
+        {
+          "t": 594,
+          "kind": "opinion",
+          "text": "If you plan to get every slayer helmet recolour, Gnomonkey says it might be worth building a new block list for Wilderness Slayer and just doing that instead."
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,1038 @@
+{
+  "id": "9neaqoxR-nY",
+  "title": "Runelite Plugins Setup From Scratch (OSRS 2020)",
+  "date": "2020-07-21",
+  "type": "guide",
+  "summary": "A long July 2020 live walkthrough in which Gnomonkey deletes his RuneLite settings and goes through every vanilla RuneLite plugin alphabetically, showing the settings he uses and why. He calls Inventory Setups (an external plugin hub plugin) one of the best plugins, and GPU his favorite plugin in the game.",
+  "outline": [
+    {
+      "t": 0,
+      "text": "Initial setup: fresh RuneLite install, stretched mode, and general RuneLite settings"
+    },
+    {
+      "t": 259,
+      "text": "Plugin hub, Inventory Setups, pinning plugins, and logging in to RuneLite with a Google account"
+    },
+    {
+      "t": 345,
+      "text": "Plugins A-D begin: Agility, Ammo, Animation smoothing, Anti-drag, Attack styles, Bank"
+    },
+    {
+      "t": 596,
+      "text": "Bank tags, Blast Furnace, Boost information, Boss timers"
+    },
+    {
+      "t": 714,
+      "text": "Camera, Cannon, Chambers of Xeric"
+    },
+    {
+      "t": 891,
+      "text": "Chat filter, Chat notifications, Chat timestamps, Clue scrolls"
+    },
+    {
+      "t": 1139,
+      "text": "Daily task indicator, Default world, Discord, Entity hider"
+    },
+    {
+      "t": 1381,
+      "text": "Plugins E-H begin: FPS control, Fairy rings, Fishing, Friends chat"
+    },
+    {
+      "t": 1609,
+      "text": "GPU plugin settings"
+    },
+    {
+      "t": 1755,
+      "text": "Grand Exchange and Ground items"
+    },
+    {
+      "t": 2025,
+      "text": "Ground markers, High scores, Hunter"
+    },
+    {
+      "t": 2088,
+      "text": "Plugins I-L begin: Idle notifier, Implings, Instance map, Interface styles"
+    },
+    {
+      "t": 2303,
+      "text": "Inventory grid, Inventory Setups, Inventory tags, Item charges, Item identification, Item prices"
+    },
+    {
+      "t": 2635,
+      "text": "Key remapping, Login screen, Loot tracker"
+    },
+    {
+      "t": 2808,
+      "text": "Plugins M-P begin: Menu entry swapper"
+    },
+    {
+      "t": 3030,
+      "text": "NPC aggression timer and NPC indicators"
+    },
+    {
+      "t": 3213,
+      "text": "Nightmare Zone, Object markers, Opponent information, Party, Player indicators, Prayer"
+    },
+    {
+      "t": 3462,
+      "text": "Plugins Q-T begin: Quest list, Random events, Regeneration meter, Run energy, Rune pouch"
+    },
+    {
+      "t": 3720,
+      "text": "Screenshot, Skill calculator, Skybox, Slayer, Status bars, Tile indicators, Time tracking, Timers"
+    },
+    {
+      "t": 3924,
+      "text": "Plugins U-Z: Virtual levels, World hopper, World map, XP drop, XP globes, XP tracker, XP updater"
+    }
+  ],
+  "topics": [
+    {
+      "name": "RuneLite",
+      "kind": "other",
+      "claims": [
+        {
+          "t": 0,
+          "kind": "event",
+          "text": "For the video Gnomonkey completely deleted his settings file out of the RuneLite folder to have a fresh install and then configured each plugin to what he normally uses, recording live with some cuts and voiceover."
+        },
+        {
+          "t": 30,
+          "kind": "tip",
+          "text": "Gnomonkey turns on stretched mode and keeps the scaling at 100% because it keeps the UI a bit crisper."
+        },
+        {
+          "t": 56,
+          "kind": "trivia",
+          "text": "Gnomonkey plays on a 1440p screen and notes settings will be a tiny bit different for the more common 1080p; the RuneLite settings panel is the hub for almost all basic settings."
+        },
+        {
+          "t": 87,
+          "kind": "tip",
+          "text": "The resolution setting changes the window to match your game size, so you want to match it to your screen resolution."
+        },
+        {
+          "t": 116,
+          "kind": "tip",
+          "text": "Gnomonkey does not keep RuneLite always on top, because a program such as a calculator moved over the window would appear underneath and become inaccessible."
+        },
+        {
+          "t": 143,
+          "kind": "tip",
+          "text": "Gnomonkey enables tray notifications and game message notifications (which make messages appear in the bottom area), does not request focus because it is annoying, and uses a custom notification sound from his folder."
+        },
+        {
+          "t": 172,
+          "kind": "tip",
+          "text": "Gnomonkey wants notifications always sent, because he sometimes clicks on his screen while still looking at a different monitor."
+        },
+        {
+          "t": 172,
+          "kind": "tip",
+          "text": "Gnomonkey keeps a small font for tooltips but a regular interface font; he requires shift for the overlay menu and places tooltips under the cursor."
+        },
+        {
+          "t": 230,
+          "kind": "tip",
+          "text": "The overlay color option is really handy if you have macro keys on your mouse, because RuneScape otherwise counts them as clicks; turning it on stops that."
+        },
+        {
+          "t": 259,
+          "kind": "trivia",
+          "text": "The Plugin Hub holds the external plugins, which are monitored by the RuneLite team and do not break rules but are not good enough to make it into the main build."
+        },
+        {
+          "t": 259,
+          "kind": "opinion",
+          "text": "Gnomonkey considers none of the Plugin Hub plugins necessary except Inventory Setups, which he thinks is necessary and cannot understand why it does not come with default RuneLite."
+        },
+        {
+          "t": 288,
+          "kind": "tip",
+          "text": "In the plugin list, the stars pin plugins to the top; Gnomonkey pins Metronome, which plays a tick sound so you can count ticks in your head."
+        },
+        {
+          "t": 322,
+          "kind": "tip",
+          "text": "Gnomonkey recommends logging in to RuneLite with your Google account before any setup, since runelite.net then stores things like loot you have gotten and your Grand Exchange history."
+        },
+        {
+          "t": 356,
+          "kind": "tip",
+          "text": "Holding Alt lets you move overlays and pin them into the blue boxes, and you can even move the whole minimap; Gnomonkey says moving the enemy health bars, which he pins at the top, is one of the most useful things."
+        },
+        {
+          "t": 4033,
+          "kind": "opinion",
+          "text": "Gnomonkey ends the video saying these are all of the plugins he has, that he is sure he got some things wrong or players do them differently, but that the setup should mostly be accurate."
+        }
+      ]
+    },
+    {
+      "name": "RuneLite plugin: Inventory Setups",
+      "kind": "other",
+      "claims": [
+        {
+          "t": 2333,
+          "kind": "opinion",
+          "text": "Gnomonkey says Inventory Setups, an external Plugin Hub plugin, is so good and a very underrated plugin because few people know about it."
+        },
+        {
+          "t": 2333,
+          "kind": "method",
+          "text": "With Inventory Setups you pull out the items for a setup (for example the Hallowed Sepulchre), press the plus button and name it; with bank filtering, highlighting and only highlighting missing items on, the eyeball shows your setup, including the spellbook needed, and highlights the items in your bank."
+        },
+        {
+          "t": 2333,
+          "kind": "opinion",
+          "text": "Gnomonkey says he would make a setup for every Slayer task, and uses Inventory Setups for raids, Slayer, farm runs and everything."
+        },
+        {
+          "t": 2395,
+          "kind": "tip",
+          "text": "The update button in Inventory Setups lets you add one more item to a setup and update it, and you can export a setup to the clipboard as text that a friend can paste in to import."
+        }
+      ]
+    },
+    {
+      "name": "RuneLite plugin: Anti-drag",
+      "kind": "other",
+      "claims": [
+        {
+          "t": 416,
+          "kind": "trivia",
+          "text": "The Anti-drag plugin used to be called Shift anti-drag and only worked while holding shift; it was changed to work in general as well."
+        },
+        {
+          "t": 416,
+          "kind": "method",
+          "text": "Gnomonkey turns Anti-drag on without shift-only, keeps disable-on-control-press, and sets the drag delay to 10, which he says is a good number (eight to fifteen would be decent)."
+        },
+        {
+          "t": 448,
+          "kind": "tip",
+          "text": "Anti-drag makes tasks like using a chisel on essence blocks at Blood Runecrafting easy since items do not switch position, and it is really helpful for gear switches at places like raids."
+        },
+        {
+          "t": 2303,
+          "kind": "tip",
+          "text": "Gnomonkey keeps the Inventory Grid plugin on with a drag delay of 100 ms so he knows when he is dragging, which lines up with the Anti-drag plugin; he enables show grid but not highlighting the background, so a green grid shows where an item will go."
+        }
+      ]
+    },
+    {
+      "name": "RuneLite plugin: Menu Entry Swapper",
+      "kind": "other",
+      "claims": [
+        {
+          "t": 2808,
+          "kind": "opinion",
+          "text": "Gnomonkey calls the Menu Entry Swapper one of the most useful plugins for sure."
+        },
+        {
+          "t": 2824,
+          "kind": "method",
+          "text": "Customizable shift click lets you configure what shift-click does, for example making shift-click use instead of drop, or making all your gear shift-click equip."
+        },
+        {
+          "t": 2850,
+          "kind": "method",
+          "text": "Gnomonkey sets shift-click in the bank to deposit all and withdraw all, so holding shift deposits everything and releasing it lets you quickly pull items out again."
+        },
+        {
+          "t": 2881,
+          "kind": "tip",
+          "text": "Gnomonkey says bury swapping with Use is almost overpowered: you can make left click on bones be Use so you can use them on an altar over and over."
+        },
+        {
+          "t": 2881,
+          "kind": "tip",
+          "text": "Gnomonkey sets the swapper to enter the Corrupted Gauntlet by default because he sees no reason to do the regular Gauntlet."
+        },
+        {
+          "t": 2914,
+          "kind": "tip",
+          "text": "Shift-clicking NPC Contact repeats the last person you contacted, which Gnomonkey says is good for repairing pouches during ZMI Runecrafting, and teleport spells can be swapped on shift-click, for example to regular Varrock instead of the Grand Exchange if you have the diary."
+        },
+        {
+          "t": 2941,
+          "kind": "tip",
+          "text": "Gnomonkey sets his shift buy and shift sell amounts to 50, which makes shopping very fast, especially on an Ironman."
+        }
+      ]
+    },
+    {
+      "name": "RuneLite plugin: GPU",
+      "kind": "other",
+      "claims": [
+        {
+          "t": 1609,
+          "kind": "opinion",
+          "text": "Gnomonkey says the GPU plugin is his favorite plugin in the whole game, because RuneScape normally only uses your processor and the plugin makes your graphics card take some of the power, reducing FPS drops."
+        },
+        {
+          "t": 1636,
+          "kind": "method",
+          "text": "Gnomonkey sets the GPU plugin draw distance to 90, which loads the entire chunk at a time so the game no longer slowly loads stuff as you walk."
+        },
+        {
+          "t": 1636,
+          "kind": "method",
+          "text": "Gnomonkey turns on anti-aliasing at MSAA x2 as the best balance, noting disabled is best for performance and x16 looks best but is worse for performance."
+        },
+        {
+          "t": 1667,
+          "kind": "method",
+          "text": "Gnomonkey sets the GPU UI scaling mode to nearest neighbor because it makes the inventory crystal clear instead of blurry."
+        },
+        {
+          "t": 1697,
+          "kind": "method",
+          "text": "Gnomonkey turns on fog in the GPU plugin, which colors the fog based on the area (RuneLite adds colored skyboxes when that plugin is on), and keeps compute shaders on, which lets you extend the draw distance."
+        }
+      ]
+    },
+    {
+      "name": "Grand Exchange",
+      "kind": "other",
+      "claims": [
+        {
+          "t": 1755,
+          "kind": "tip",
+          "text": "Gnomonkey enables actively traded prices from OSBuddy in the RuneLite Grand Exchange plugin, so the Grand Exchange shows the buying price from OSBuddy, and also shows exact total value."
+        },
+        {
+          "t": 1755,
+          "kind": "tip",
+          "text": "A fuzzy fallback search option in the Grand Exchange plugin shows items even if you misspell the name by a character, which Gnomonkey says is super handy."
+        }
+      ]
+    },
+    {
+      "name": "RuneLite plugin: Ground Items",
+      "kind": "other",
+      "claims": [
+        {
+          "t": 1782,
+          "kind": "opinion",
+          "text": "Gnomonkey calls Ground Items probably his second favorite plugin and says that not being able to see highlighted drops is the main reason he does not play mobile often."
+        },
+        {
+          "t": 1815,
+          "kind": "tip",
+          "text": "An asterisk in the Ground Items highlight list makes any words after (or before) it match, so dark totem with an asterisk covers all dark totem pieces, clue with an asterisk covers all clue scrolls, and an asterisk before fossil covers all fossils."
+        },
+        {
+          "t": 1842,
+          "kind": "tip",
+          "text": "Gnomonkey hides items he does not want to see, such as vile ashes, coins, leaping fish and Suqah teeth."
+        },
+        {
+          "t": 1873,
+          "kind": "tip",
+          "text": "Gnomonkey turns off do-not-hide-untradables so he gets a message when an untradable item drops, uses menu item quantities, and does not highlight tiles because it makes the game look ugly."
+        },
+        {
+          "t": 1873,
+          "kind": "tip",
+          "text": "Gnomonkey notifies for highlighted drops and keeps only four items highlighted, relying on value settings to tell him when he gets an expensive drop; he hides any item worth 300 GP or less, kept low so stacks still show."
+        },
+        {
+          "t": 1961,
+          "kind": "tip",
+          "text": "Collapse ground items is extremely helpful, since a pile of dropped items no longer lists every item in the right-click menu; Gnomonkey says it cleans things up so much."
+        }
+      ]
+    },
+    {
+      "name": "RuneLite plugin: Idle Notifier",
+      "kind": "other",
+      "claims": [
+        {
+          "t": 2085,
+          "kind": "tip",
+          "text": "Gnomonkey changes the Idle Notifier hit point warning to 20 and prayer warning to 10 so it beeps and warns him when they drop below those numbers."
+        },
+        {
+          "t": 2119,
+          "kind": "tip",
+          "text": "The idle notification delay is one of the biggest things to change; Gnomonkey keeps it at default but knows people who keep it around 500 milliseconds."
+        },
+        {
+          "t": 2119,
+          "kind": "tip",
+          "text": "Gnomonkey turns idle movement notifications on or off depending on the activity, and finds them super handy for Blood Runecrafting where it beeps when he stops moving."
+        }
+      ]
+    },
+    {
+      "name": "RuneLite plugin: Implings",
+      "kind": "other",
+      "claims": [
+        {
+          "t": 2183,
+          "kind": "tip",
+          "text": "The Implings plugin can notify you in chat when an impling is in the area; Gnomonkey notifies for dragon, lucky and crystal implings and only highlights ninja and magpie implings."
+        },
+        {
+          "t": 2210,
+          "kind": "tip",
+          "text": "Gnomonkey turns on show spawn locations for Puro-Puro and show name on minimap, which makes it much easier to find the impling you are hunting, such as a crystal impling in the elf area."
+        },
+        {
+          "t": 2243,
+          "kind": "trivia",
+          "text": "Right-clicking the map shows an instance map, which shows a very basic map without lagging the game and can be useful in places like Supplucker where the world map has no map."
+        }
+      ]
+    },
+    {
+      "name": "RuneLite plugin: Key Remapping",
+      "kind": "other",
+      "claims": [
+        {
+          "t": 2635,
+          "kind": "opinion",
+          "text": "Gnomonkey calls the Key remapping plugin gigantic; it lets you remap the F keys to any key and also remaps the camera."
+        },
+        {
+          "t": 2635,
+          "kind": "method",
+          "text": "With key remapping on, you press Enter to chat like in RS2, and when not typing you can use WASD to control the camera."
+        },
+        {
+          "t": 2635,
+          "kind": "tip",
+          "text": "Gnomonkey says he hates using F keys to hit his inventory setups and remaps F keys to other keys."
+        }
+      ]
+    },
+    {
+      "name": "RuneLite plugin: Camera",
+      "kind": "other",
+      "claims": [
+        {
+          "t": 714,
+          "kind": "method",
+          "text": "In the Camera plugin Gnomonkey expands the inner zoom limit to zoom in further, expands the outer zoom limit to 120 so he sees the whole chunk, and allows vertical camera for a complete top-down view."
+        },
+        {
+          "t": 773,
+          "kind": "tip",
+          "text": "Gnomonkey does not use right-click-moves-camera or middle-mouse for the menu since he moves the camera by holding the middle mouse button, and keeps zoom speed at default."
+        }
+      ]
+    },
+    {
+      "name": "RuneLite plugin: Boost Information",
+      "kind": "other",
+      "claims": [
+        {
+          "t": 628,
+          "kind": "tip",
+          "text": "Gnomonkey says the Boost information plugin is important and especially helpful on an alt; for his main he uses relative boost, displays as info boxes, and always shows boosts."
+        },
+        {
+          "t": 656,
+          "kind": "method",
+          "text": "Boost information shows a timer when a stat will change, and you can set a boost threshold so you are warned in red, or notified, when a boost such as super strength decays to a set level so you know to reboost."
+        },
+        {
+          "t": 688,
+          "kind": "tip",
+          "text": "Gnomonkey does not have boost notifications on his main but says you might want them if doing things like AFK Slayer."
+        }
+      ]
+    },
+    {
+      "name": "RuneLite plugin: Chat Filter",
+      "kind": "other",
+      "claims": [
+        {
+          "t": 923,
+          "kind": "method",
+          "text": "The chat filter plugin can filter specific words and names, which Gnomonkey says is useful for slurs, and the important option is regex, which smartly disables chat based on specific phrases."
+        },
+        {
+          "t": 955,
+          "kind": "tip",
+          "text": "Gnomonkey pastes a giant regex into his chat filter that removes scams, beggars and people offering to double money, which he says are super annoying at the Grand Exchange, and linked it in the video description."
+        }
+      ]
+    },
+    {
+      "name": "RuneLite plugin: Chat Notifications",
+      "kind": "other",
+      "claims": [
+        {
+          "t": 1018,
+          "kind": "tip",
+          "text": "Gnomonkey uses Chat notifications to notify on his own name, so he is alerted when someone in his clan chat says hey gnome."
+        },
+        {
+          "t": 1018,
+          "kind": "tip",
+          "text": "Gnomonkey uses notify-on-highlight with the message that a dodgy necklace has crumbled to dust, so while Thieving he knows to equip another dodgy necklace."
+        },
+        {
+          "t": 1051,
+          "kind": "tip",
+          "text": "Gnomonkey turns on Chat timestamps in hour-hour-minute-minute format, which helps in clan chat to see how long ago a message was sent."
+        }
+      ]
+    },
+    {
+      "name": "RuneLite plugin: Clue Scroll",
+      "kind": "other",
+      "claims": [
+        {
+          "t": 1083,
+          "kind": "tip",
+          "text": "The Clue scroll plugin displays hint arrows and shows answers to clue riddles, anagrams, ciphers and more."
+        },
+        {
+          "t": 1083,
+          "kind": "opinion",
+          "text": "Gnomonkey notes many people consider the clue scroll helper cheating, but he finds clue scrolls boring and after the 300th puzzle box is fine with RuneLite solving them, though it is a case-by-case choice."
+        }
+      ]
+    },
+    {
+      "name": "RuneLite plugin: Daily Task Indicator",
+      "kind": "other",
+      "claims": [
+        {
+          "t": 1199,
+          "kind": "opinion",
+          "text": "Gnomonkey calls the Daily task indicator really helpful and uses it all the time."
+        },
+        {
+          "t": 1199,
+          "kind": "tip",
+          "text": "Gnomonkey keeps on only herb boxes, battlestaves, and bone meal and slime, and sometimes bone crusher charges, which warn him on login when something is waiting to be collected, such as his daily battlestaves."
+        }
+      ]
+    },
+    {
+      "name": "RuneLite plugin: FPS Control",
+      "kind": "other",
+      "claims": [
+        {
+          "t": 1409,
+          "kind": "stat",
+          "text": "As of 2020 the maximum FPS in RuneScape is 50 on the desktop client and 60 on mobile, so Gnomonkey keeps FPS control at 50."
+        },
+        {
+          "t": 1438,
+          "kind": "tip",
+          "text": "FPS control can lower the frame rate when the client is not focused (for example capped at 10 FPS), which Gnomonkey says saves CPU while AFKing, such as at fishing while playing another game; he usually keeps it off."
+        }
+      ]
+    },
+    {
+      "name": "RuneLite plugin: Friends Chat",
+      "kind": "other",
+      "claims": [
+        {
+          "t": 1557,
+          "kind": "tip",
+          "text": "Gnomonkey turns on the members counter, which shows a smiley icon when a clan member is next to you, helpful for raids and bossing with friends."
+        },
+        {
+          "t": 1583,
+          "kind": "tip",
+          "text": "Tab chat lets you type in clan chat without typing the slash, and Gnomonkey, a clan owner, turns on confirm kicks so he does not kick someone by accident."
+        }
+      ]
+    },
+    {
+      "name": "RuneLite plugin: Inventory Tags",
+      "kind": "other",
+      "claims": [
+        {
+          "t": 2426,
+          "kind": "method",
+          "text": "Inventory tags lets you outline items in colors via right-clicking your inventory and choosing configure inventory tags."
+        },
+        {
+          "t": 2426,
+          "kind": "tip",
+          "text": "Many players mark melee gear red, ranged gear green and magic gear blue so they can switch gear easily at raids; Gnomonkey uses this personally, and acknowledges many people find it ugly."
+        }
+      ]
+    },
+    {
+      "name": "RuneLite plugin: Item Prices",
+      "kind": "other",
+      "claims": [
+        {
+          "t": 2570,
+          "kind": "method",
+          "text": "Item prices shows an item's value when you examine it, and if you turn off hide tooltips on inventory items it shows the value on hover; Gnomonkey hides the high alchemy values because they clutter the inventory."
+        },
+        {
+          "t": 2570,
+          "kind": "tip",
+          "text": "Gnomonkey likes the Item stats plugin option to show theoretical stat change in the tooltip."
+        }
+      ]
+    },
+    {
+      "name": "RuneLite plugin: Loot Tracker",
+      "kind": "other",
+      "claims": [
+        {
+          "t": 2735,
+          "kind": "tip",
+          "text": "Gnomonkey has the Loot tracker on for sure, and uses its ignored list for things he does not want tracked, such as goblins or bronze spears."
+        },
+        {
+          "t": 2735,
+          "kind": "tip",
+          "text": "The Loot tracker syncs to your profile on runelite.net when logged in and stores it forever, for example showing a Sepulchre run's number of coffins and loot value."
+        }
+      ]
+    },
+    {
+      "name": "RuneLite plugin: NPC Aggression Timer",
+      "kind": "other",
+      "claims": [
+        {
+          "t": 3030,
+          "kind": "trivia",
+          "text": "Gnomonkey says the NPC aggression timer plugin was made by Woox and thanks him for it."
+        },
+        {
+          "t": 3030,
+          "kind": "method",
+          "text": "You type in an NPC name (for example crab) and the plugin draws lines; walking over a line resets the aggression timer, and it shows a timer of 20 minutes of aggression and notifies you when it runs out, so you walk one tile over to reset it."
+        },
+        {
+          "t": 3059,
+          "kind": "tip",
+          "text": "Gnomonkey does not keep the aggression timer always active, showing it only for the NPC he is fighting, and uses it at AFK places like gargoyles or Kurasks."
+        }
+      ]
+    },
+    {
+      "name": "RuneLite plugin: NPC Indicators",
+      "kind": "other",
+      "claims": [
+        {
+          "t": 3090,
+          "kind": "tip",
+          "text": "Gnomonkey highlights the farming gardeners you pay to protect crops, the flower in the Hespori fight, crystal implings, bankers, Hydra and bosses in NPC indicators, using both highlight hull and highlight timer."
+        },
+        {
+          "t": 3123,
+          "kind": "method",
+          "text": "The NPC hull highlight shows the exact tiles an NPC takes up, so for bosses you can see where you can stand before your character starts attacking, which helps with stomp mechanics; Gnomonkey uses it for all the Theatre of Blood bosses."
+        },
+        {
+          "t": 3184,
+          "kind": "tip",
+          "text": "The show respawn timer option in NPC indicators shows a tile and timer where an NPC will respawn, which Gnomonkey says is really good for Slayer tasks."
+        }
+      ]
+    },
+    {
+      "name": "RuneLite plugin: Party",
+      "kind": "other",
+      "claims": [
+        {
+          "t": 3301,
+          "kind": "method",
+          "text": "The Party plugin adds a join button on your name in Discord and lets people join a party with you, showing things like their health and prayer."
+        },
+        {
+          "t": 3301,
+          "kind": "opinion",
+          "text": "Gnomonkey says few people use the Party plugin but they should, for example in Chambers of Xeric 1 or group bossing like a Bandos trip; at the Theatre of Blood it is not needed because it has its own overlay."
+        }
+      ]
+    },
+    {
+      "name": "RuneLite plugin: Poison and Prayer",
+      "kind": "other",
+      "claims": [
+        {
+          "t": 3385,
+          "kind": "tip",
+          "text": "The Poison plugin makes the HP orb turn green when poisoned, which Gnomonkey keeps on."
+        },
+        {
+          "t": 3385,
+          "kind": "method",
+          "text": "Gnomonkey turns on the prayer flick helper in the Prayer plugin, which shows a one-tick timer on your prayer for one-tick flicking, plus the prayer bar; he keeps replace-orb-text-with-prayer-timers off because he wants to know exact prayer points."
+        }
+      ]
+    },
+    {
+      "name": "RuneLite plugin: Random Events",
+      "kind": "other",
+      "claims": [
+        {
+          "t": 3475,
+          "kind": "tip",
+          "text": "In the Random events plugin Gnomonkey turns on the Genie and Surprise Exam events because both give XP and are worth doing, calling the Genie the best event in the game."
+        },
+        {
+          "t": 3505,
+          "kind": "tip",
+          "text": "The Random events plugin can remove the menu option for other players' random events, so you cannot accidentally click them."
+        }
+      ]
+    },
+    {
+      "name": "RuneLite plugin: Regeneration Meter",
+      "kind": "other",
+      "claims": [
+        {
+          "t": 3505,
+          "kind": "method",
+          "text": "The Regeneration meter shows a ring for your special attack regeneration and a timer before your HP heals, which Gnomonkey likes to show at full health."
+        },
+        {
+          "t": 3533,
+          "kind": "tip",
+          "text": "The Regeneration meter helps keep boosted stats because every time you flick Rapid Heal it resets the timer."
+        }
+      ]
+    },
+    {
+      "name": "RuneLite plugin: Slayer",
+      "kind": "other",
+      "claims": [
+        {
+          "t": 3751,
+          "kind": "tip",
+          "text": "Gnomonkey turns on highlight targets in the Slayer plugin so task monsters are highlighted in red and the color goes away when the task is done, helping him know when to leave; he also wants superior notifications."
+        },
+        {
+          "t": 3768,
+          "kind": "tip",
+          "text": "The Special attack counter plugin tracks how many times you have hit with a special attack that drains defence."
+        }
+      ]
+    },
+    {
+      "name": "RuneLite plugin: Tile Indicators",
+      "kind": "other",
+      "claims": [
+        {
+          "t": 3854,
+          "kind": "tip",
+          "text": "Gnomonkey keeps highlight hover tile on in Tile indicators, which shows exactly where you are going to click to."
+        },
+        {
+          "t": 3855,
+          "kind": "tip",
+          "text": "Gnomonkey keeps highlight current true tile on, a blue tile that shows where you are according to the server, which he says is really helpful for the Hallowed Sepulchre or any raiding or bossing."
+        }
+      ]
+    },
+    {
+      "name": "RuneLite plugin: Time Tracking and Timers",
+      "kind": "other",
+      "claims": [
+        {
+          "t": 3904,
+          "kind": "method",
+          "text": "The Time tracking plugin shows farming patch timers, bird houses, herbs, trees and fruit trees, and lets you add personal timers; Gnomonkey uses timers outside RuneLite."
+        },
+        {
+          "t": 3936,
+          "kind": "opinion",
+          "text": "Gnomonkey says the Timers plugin, which shows timers for things like anti-fire, cannon breaking and divine potions running out, is incredibly important for bossing and he keeps it all on."
+        }
+      ]
+    },
+    {
+      "name": "RuneLite plugin: XP plugins",
+      "kind": "other",
+      "claims": [
+        {
+          "t": 4033,
+          "kind": "tip",
+          "text": "The XP globes plugin pops up globes when you get XP that you can hover over to see your XP; Gnomonkey hides maxed skills and says holding Alt lets you move the orb."
+        },
+        {
+          "t": 4066,
+          "kind": "method",
+          "text": "The XP tracker shows XP gained and XP an hour per skill and can be reset by right-clicking."
+        },
+        {
+          "t": 4066,
+          "kind": "tip",
+          "text": "The XP updater plugin sends your stats to sites such as CrystalMathLabs, Temple OSRS or Wise Old Man; Gnomonkey usually sends it to Wise Old Man because it is a new open source project he wants to support."
+        }
+      ]
+    },
+    {
+      "name": "RuneLite plugin: Miscellaneous plugins",
+      "kind": "other",
+      "claims": [
+        {
+          "t": 359,
+          "kind": "tip",
+          "text": "The Ammo plugin shows the ammo you currently have equipped, which Gnomonkey says is definitely handy."
+        },
+        {
+          "t": 389,
+          "kind": "opinion",
+          "text": "Animation smoothing is controversial and many people dislike it, but turning it on makes movement look buttery smooth; Gnomonkey says it is really important for the Hallowed Sepulchre specifically and otherwise mostly aesthetic."
+        },
+        {
+          "t": 482,
+          "kind": "tip",
+          "text": "The Attack styles plugin lets pures disable attack styles that would gain unwanted XP (for example turning off Defence so the longrange option returns on a crossbow); Gnomonkey is not a pure so he does not use it."
+        },
+        {
+          "t": 508,
+          "kind": "tip",
+          "text": "In the Bank plugin Gnomonkey shows Grand Exchange price and seed vault value on hover, and keeps exact bank value off because he finds it annoying."
+        },
+        {
+          "t": 536,
+          "kind": "tip",
+          "text": "Gnomonkey turns on the keyboard bank pin, which lets you type your bank pin on the keyboard, saves a ton of time and is also stream safe."
+        },
+        {
+          "t": 536,
+          "kind": "method",
+          "text": "Bank tags let you add tags to items so searching rock shows minerals, or typing ZGS pulls out a tagged Zamorak godsword."
+        },
+        {
+          "t": 596,
+          "kind": "tip",
+          "text": "In the Blast Furnace plugin Gnomonkey turns on the top two options showing hitboxes on the conveyor belt and dispenser so you know exactly where to click."
+        },
+        {
+          "t": 714,
+          "kind": "tip",
+          "text": "Gnomonkey says for Chambers of Xeric the plugin should have a screenshot saved to clipboard for scouts and show the scout overlay inside every raid, and whitelisted rooms (such as tightrope or crabs) highlight green and blacklisted rooms red."
+        },
+        {
+          "t": 773,
+          "kind": "tip",
+          "text": "Gnomonkey turns on double hit spots and the cannonball info box in the Cannon plugin, which shows an overlay with how many cannonballs are in the cannon; it can also warn when the cannon runs out or is low."
+        },
+        {
+          "t": 1139,
+          "kind": "tip",
+          "text": "The Cooking plugin shows XP an hour plus cooked and burnt counts and burn percentage, which Gnomonkey says is very handy."
+        },
+        {
+          "t": 1167,
+          "kind": "opinion",
+          "text": "Gnomonkey is iffy about the DPS counter, keeping it on his main; it shows damage per second for example while killing Hydra, but he does not look at it much."
+        },
+        {
+          "t": 1248,
+          "kind": "tip",
+          "text": "Gnomonkey sets Default World to a low-ping world he likes (world 428, a 2k total world) so the client always defaults to it, rather than the last world logged in."
+        },
+        {
+          "t": 1316,
+          "kind": "trivia",
+          "text": "The Discord plugin shows on your Discord profile what you are doing and training, for example doing Hallowed Sepulchre runs and training Agility, so people can see whether you are available."
+        },
+        {
+          "t": 1346,
+          "kind": "tip",
+          "text": "The Emojis plugin lets you put emojis in chat, which Gnomonkey says can be annoying depending on the person."
+        },
+        {
+          "t": 1380,
+          "kind": "tip",
+          "text": "The Entity hider can prevent flickering at Ardougne Knights for Thieving, and can hide all players or hide the local player, which Gnomonkey says is nice for action shots in video making."
+        },
+        {
+          "t": 1497,
+          "kind": "tip",
+          "text": "The Fishing plugin shows catch rate and highlights fishing spots, and Gnomonkey says to keep it on."
+        },
+        {
+          "t": 1497,
+          "kind": "tip",
+          "text": "The Friend notes plugin lets you add a note to a friend's name that shows on hover, which Gnomonkey says is really handy."
+        },
+        {
+          "t": 1497,
+          "kind": "tip",
+          "text": "The Fairy rings plugin lets you search for your location in a fairy ring using tags, which Gnomonkey says is super helpful and thought was in the original client."
+        },
+        {
+          "t": 1961,
+          "kind": "method",
+          "text": "Ground markers let you shift-click to mark tiles with colors that are retained if the remember-color setting is on, and Gnomonkey keeps drawing tiles on the minimap off because it clutters it."
+        },
+        {
+          "t": 2025,
+          "kind": "tip",
+          "text": "The High scores plugin lets you look up people on the hiscores via a tab or right-click, and has a bounty hunter option to look up your target's stats."
+        },
+        {
+          "t": 2025,
+          "kind": "tip",
+          "text": "The Hunter plugin shows color transitions for when traps are about to die and can notify on the maniacal monkey for AFK hunting."
+        },
+        {
+          "t": 2263,
+          "kind": "tip",
+          "text": "The Interface styles plugin lets you change the UI to look like 2005 or 2006, change health bars to look like RS2 and even change left click, but Gnomonkey keeps it off."
+        },
+        {
+          "t": 2501,
+          "kind": "tip",
+          "text": "Gnomonkey usually keeps Inventory viewer off, having used it only while streaming so he could hide the panel from his stream and still show his inventory."
+        },
+        {
+          "t": 2501,
+          "kind": "method",
+          "text": "The Item charges plugin shows an overlay of the charges on items and warns when a dodgy necklace or binding necklace breaks."
+        },
+        {
+          "t": 2540,
+          "kind": "method",
+          "text": "Item identification shows a short (first letter) or medium (full word) label over items, which Gnomonkey uses for herbs, saplings and seeds, since saplings are otherwise hard to tell apart."
+        },
+        {
+          "t": 2661,
+          "kind": "tip",
+          "text": "The Kourend Library plugin shows where all the books are in the Arceuus Library, and the Kingdom of Miscellania plugin shows the favor in Miscellania; Gnomonkey keeps them on."
+        },
+        {
+          "t": 2685,
+          "kind": "tip",
+          "text": "The Login screen plugin lets you change the login screen to any of the old ones or a custom image placed in the .runelite folder named login, and can turn off the fire or sync usernames between computers."
+        },
+        {
+          "t": 2776,
+          "kind": "tip",
+          "text": "The Low detail plugin deletes a bunch of textures to make the game run faster, which Gnomonkey does not need."
+        },
+        {
+          "t": 2970,
+          "kind": "tip",
+          "text": "The Mining plugin shows a respawn timer on rocks, and the Motherlode Mine plugin shows information like gems found and amount mined."
+        },
+        {
+          "t": 3000,
+          "kind": "tip",
+          "text": "The Music plugin can mute certain sounds, which Gnomonkey does not use much since he typically plays without sound, and the Mouse tooltips plugin shows tooltips on hover though Gnomonkey would not show spellbook tooltips."
+        },
+        {
+          "t": 3213,
+          "kind": "tip",
+          "text": "The Newsfeed plugin shows a tab with RuneLite updates, JMod and Old School RuneScape tweets and game news."
+        },
+        {
+          "t": 3213,
+          "kind": "tip",
+          "text": "Gnomonkey overrides the NMZ overlay because the normal one is ugly, turns on the power surge notification (usually the only one needed if training XP), an overload notification, and an absorption warning at around 100."
+        },
+        {
+          "t": 3243,
+          "kind": "tip",
+          "text": "The Notes plugin lets you take notes saved between sessions."
+        },
+        {
+          "t": 3254,
+          "kind": "method",
+          "text": "Object markers differ from ground markers because they can mark objects, such as rubble or the entrance to a dungeon, which Gnomonkey did at Fossil Island."
+        },
+        {
+          "t": 3274,
+          "kind": "method",
+          "text": "With Opponent information, look up players on interaction shows a player's stats when they attack you, trade you, invite you to a raid or follow you, which Gnomonkey says can be really important information."
+        },
+        {
+          "t": 3355,
+          "kind": "tip",
+          "text": "Gnomonkey uses Player indicators to highlight friends, friends chat members and Discord party members, and highlights others in red when he goes in the Wilderness so anyone not in his clan is immediately recognizable as a possible threat."
+        },
+        {
+          "t": 3359,
+          "kind": "tip",
+          "text": "The Player owned house plugin shows icons on the minimap and whether burners are lit."
+        },
+        {
+          "t": 3440,
+          "kind": "opinion",
+          "text": "The Puzzle solver plugin is separate from the clue solver and shows how to solve puzzle boxes; Gnomonkey keeps it on but says players wanting to be purists can turn it off."
+        },
+        {
+          "t": 3462,
+          "kind": "method",
+          "text": "The Quest list plugin lets you hide completed quests and search quests in the quest tab."
+        },
+        {
+          "t": 3559,
+          "kind": "tip",
+          "text": "The Report button plugin changes the time format displayed, for example UTC or Jagex HQ time or the date, and Gnomonkey keeps the login timer on."
+        },
+        {
+          "t": 3593,
+          "kind": "tip",
+          "text": "Gnomonkey keeps the run energy plugin as text showing exact run energy instead of time left, and the Rune pouch plugin shows an icon of what runes are in the pouch."
+        },
+        {
+          "t": 3619,
+          "kind": "tip",
+          "text": "The Runecrafting plugin highlights altars or the Abyss rift for what you are crafting, shows when a pouch degrades and highlights the dark mage."
+        },
+        {
+          "t": 3646,
+          "kind": "tip",
+          "text": "The Screen markers plugin lets you draw boxes on your screen, handy for things like Construction."
+        },
+        {
+          "t": 3674,
+          "kind": "tip",
+          "text": "The Screenshot plugin saves screenshots in the RuneLite folder for events such as pet drops, valuable drops, untradables or clan kicks."
+        },
+        {
+          "t": 3705,
+          "kind": "tip",
+          "text": "The Skill calculator plugin shows current level and target level and how many actions are needed, for example about 4,000 amethyst to reach the next Mining level."
+        },
+        {
+          "t": 3750,
+          "kind": "opinion",
+          "text": "Gnomonkey calls the Skybox plugin one of his favorites and says to definitely turn it on because it looks really nice, with different colors by area, such as teal at the swamp and purple at ZMI."
+        },
+        {
+          "t": 3791,
+          "kind": "tip",
+          "text": "Status bars shows bars with current health and prayer; Gnomonkey does not use them in resizable mode but says in fixed mode they replace the pillars and are really cool."
+        },
+        {
+          "t": 3873,
+          "kind": "tip",
+          "text": "Gnomonkey keeps team capes off, the Tears of Guthix plugin on since the timers are so helpful, and the Tithe Farm plugin on."
+        },
+        {
+          "t": 3912,
+          "kind": "tip",
+          "text": "The Twitch plugin integrates your Twitch chat into the regular chat; the Virtual levels plugin shows levels above 99 but Gnomonkey keeps virtual total level off to see his real total level."
+        },
+        {
+          "t": 3942,
+          "kind": "tip",
+          "text": "The Wiki plugin can change left click to search or lookup, and the World map plugin adds tooltips such as fairy ring codes."
+        },
+        {
+          "t": 3968,
+          "kind": "tip",
+          "text": "World hopper has hotkeys to hop to the previous or next world, and Gnomonkey says showing world ping is really important, with the current ping shown on screen and ping of all worlds on the world switcher, so you hop to low-ping worlds."
+        },
+        {
+          "t": 3996,
+          "kind": "tip",
+          "text": "The XP drop plugin changes how XP drops look, for example colors for prayers."
+        }
+      ]
+    }
+  ]
+}

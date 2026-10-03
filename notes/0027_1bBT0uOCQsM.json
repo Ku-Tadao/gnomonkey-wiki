@@ -1,0 +1,37 @@
+{
+  "id": "1bBT0uOCQsM",
+  "title": "Alchemical Hydra Guide (Battle Only) (Fire Skip Method) OSRS",
+  "date": "2020-04-19",
+  "type": "guide",
+  "summary": "A narrated Alchemical Hydra kill showing how Gnomonkey lures the boss onto each coloured pool and uses the fire skip method, which he learned from commenters JampS_TV and Jarvis Strawbridge, to avoid the fire phase entirely. It also shows prayer swapping every three attacks and dodging the poison special.",
+  "outline": [
+    {"t": 0, "text": "Luring the Hydra onto the red pool and starting with protect from magic"},
+    {"t": 30, "text": "Second phase: luring onto the green pool and dealing with lightning"},
+    {"t": 58, "text": "Third phase: luring next to the blue pool"},
+    {"t": 85, "text": "The fire skip: stepping onto a tile to skip the fire phase"},
+    {"t": 111, "text": "Final phase prayer flicking, poison, and loot"},
+    {"t": 141, "text": "Cleaning up and positioning for the next respawn"}
+  ],
+  "topics": [
+    {
+      "name": "Alchemical Hydra",
+      "kind": "boss",
+      "claims": [
+        {"t": 0, "kind": "method", "text": "In the Alchemical Hydra fight Gnomonkey stands on a specific tile after the previous kill so the Hydra respawns lured directly onto the red pool, and starts with protect from magic."},
+        {"t": 0, "kind": "stat", "text": "After the Alchemical Hydra's first three attacks in a phase it uses its poison special attack, then begins using ranged."},
+        {"t": 0, "kind": "tip", "text": "Gnomonkey snakes around the Hydra in the first phase to keep doing damage while pulling it a little closer."},
+        {"t": 30, "kind": "method", "text": "In the second phase Gnomonkey walks to a particular tile to lure the Hydra onto the green pool, and knows it has been lured correctly when it roars."},
+        {"t": 30, "kind": "tip", "text": "In the blue phase, after the Hydra's third attack lightning comes out; Gnomonkey waits for the lightning to get a little closer before running to a tile near the bottom, since running too early gets him hit."},
+        {"t": 58, "kind": "method", "text": "For the third (red) phase Gnomonkey stands on a specific tile that lures the Hydra right next to the blue pool, calling it pretty much the perfect tile."},
+        {"t": 85, "kind": "method", "text": "Fire skip: after three attacks in the red phase the Hydra walks to the middle of the room; as soon as its head moves the player must clip onto a particular tile, which skips the whole fire phase so the player can just stand there."},
+        {"t": 85, "kind": "tip", "text": "If the player is not on the fire-skip tile when the Hydra's fire attack starts, the player gets bumped, so Gnomonkey says he cut it a little close on the kill shown."},
+        {"t": 85, "kind": "method", "text": "In the last phase the first prayer to use is the opposite of the last attack received during the fire phase, then the player alternates prayers."},
+        {"t": 111, "kind": "tip", "text": "In the final phase the poison comes out after the Hydra's third attack; walk two tiles south to dodge it and then flick alternating prayers."},
+        {"t": 111, "kind": "stat", "text": "If the final phase goes nine attacks past the first poison shot, the Alchemical Hydra shoots another poison, but this is rare when the player is potted up."},
+        {"t": 141, "kind": "method", "text": "After a kill Gnomonkey tidies his inventory, picks up what he wants such as restore potions, decants them, then walks to a tile and waits for the Hydra to respawn so it is perfectly lured for the next fight."},
+        {"t": 141, "kind": "event", "text": "This guide originally showcased fire walking, but Gnomonkey reworked and re-uploaded it with the fire skip method after JampS_TV and Jarvis Strawbridge told him about it."},
+        {"t": 141, "kind": "stat", "text": "Gnomonkey's description says the Alchemical Hydra gives an average of 230k per run."}
+      ]
+    }
+  ]
+}

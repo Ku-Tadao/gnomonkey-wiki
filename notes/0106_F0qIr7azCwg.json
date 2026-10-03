@@ -1,0 +1,170 @@
+{
+  "id": "F0qIr7azCwg",
+  "title": "The Chambers CM Experience (OSRS)",
+  "date": "2023-02-02",
+  "type": "showcase",
+  "summary": "Instead of a full guide, Gnomonkey walks through a Challenge Mode Chambers of Xeric speedrun attempt from his own perspective, room by room from Tekton to Olm. He explains the gear and stat requirements, his Surge Thrall setup, and the tricks that matter most, stressing that much of the skill is preparing the next room and managing inventory and banking.",
+  "outline": [
+    {"t": 0, "text": "Intro: why Challenge Mode Chambers of Xeric is among the toughest content and the walkthrough format"},
+    {"t": 62, "text": "Ice Demon: requirements, stat levels and the Surge Thrall setup"},
+    {"t": 150, "text": "Tekton and the one-anvil reset, then the crabs"},
+    {"t": 255, "text": "Ice Demon, Shamans and sweets"},
+    {"t": 315, "text": "Vanguards attack order"},
+    {"t": 395, "text": "Thieving room and banking"},
+    {"t": 419, "text": "Vespula Portal and Enhanced Timer"},
+    {"t": 485, "text": "Tightrope: the Kirby skip"},
+    {"t": 548, "text": "Last floor: Guardians and funny walk"},
+    {"t": 605, "text": "Vasa Nistirio"},
+    {"t": 660, "text": "Mystics, Tentacles and Muttadiles"},
+    {"t": 778, "text": "Olm and lessons learned"}
+  ],
+  "topics": [
+    {
+      "name": "Chambers of Xeric: Challenge Mode",
+      "kind": "raid",
+      "claims": [
+        {"t": 0, "kind": "opinion", "text": "Gnomonkey considers Challenge Mode Chambers of Xeric genuinely one of the toughest pieces of content in the game, and had not learned it until recently, when he began speedrunning it on Twitch."},
+        {"t": 0, "kind": "opinion", "text": "Gnomonkey says Challenge Mode raids are not the best for money, and that most of the skill is preparing for the following room and keeping inventory and banking under control, a skill not used much in other raids."},
+        {"t": 32, "kind": "opinion", "text": "Gnomonkey says Challenge Mode has by far the highest gear and stat requirements of any raid."},
+        {"t": 62, "kind": "requirement", "text": "Challenge Mode requires valuable items used almost nowhere else, such as Inquisitor's armour and mace and a harmonised nightmare staff for the Ice Demon."},
+        {"t": 62, "kind": "requirement", "text": "95 Thieving is needed to receive three grubs from the chest in Challenge Mode, and some setups use a Thieving cape to boost to 100 for a chance at four grubs."},
+        {"t": 62, "kind": "requirement", "text": "96 Woodcutting is needed for a chance at 8 kindling from the Ice Demon, and 99 is preferred to speed up the Muttadile tree."},
+        {"t": 90, "kind": "requirement", "text": "In Gnomonkey's setup you need 99 Mining or you lose a max hit, and you need an absurd amount of purple sweets to be competitive."},
+        {"t": 90, "kind": "stat", "text": "Gnomonkey says you eat more purple sweets in a solo Challenge Mode than in a solo Theatre of Blood, but you do pay for them with the drops received with some profit on the side."},
+        {"t": 117, "kind": "opinion", "text": "Gnomonkey says anyone running Challenge Mode is definitely not doing it for the GP."},
+        {"t": 117, "kind": "method", "text": "Gnomonkey runs the Surge Thrall setup: the standard spellbook up through the Ice Demon, then Max cape or Magic cape to swap to the Arceuus spellbook for thralls, which he calls by far the fastest setup."},
+        {"t": 117, "kind": "stat", "text": "Gnomonkey says he can run at most five Challenge Mode raids a day, typically doing them for a few hours on stream, and jokes that Grandmasters of Combat Achievements should get a bonus to cape swaps."},
+        {"t": 150, "kind": "tip", "text": "Challenge Mode always has the exact same room layout and always starts with Tekton."},
+        {"t": 548, "kind": "stat", "text": "Gnomonkey is looking for sub 13 minutes at the hole on the last floor, with his best ever being just barely sub 12 minutes."},
+        {"t": 809, "kind": "record", "text": "Gnomonkey says if Olm is pacing sub 28:30 he reaches Olm in under 20 minutes on the clock, and he was still three seconds off a sub 28:30 time when this video was made."},
+        {"t": 899, "kind": "opinion", "text": "After a raid Gnomonkey tries to remember that purples do not exist: his goal is a good time rather than paying back the hundreds of sweets used."}
+      ]
+    },
+    {
+      "name": "Tekton",
+      "kind": "boss",
+      "claims": [
+        {"t": 150, "kind": "tip", "text": "In a Challenge Mode speedrun you go for a one anvil Tekton, which Gnomonkey has heard is a 1 in 4 chance on two landed hammers but requires a lot of resetting."},
+        {"t": 150, "kind": "stat", "text": "Gnomonkey figures around 10 to 20 minutes of Tekton resets before you actually get a run going."},
+        {"t": 150, "kind": "method", "text": "Gnomonkey runs into the raid on a specific tick to get Tekton off the anvil as fast as possible."},
+        {"t": 178, "kind": "method", "text": "He casts Vulnerability at Tekton as he moves toward him, draining his defence by 10%, then hammers twice and uses a specific attack pattern to get the maximum hits before he returns to the anvil, repeating when he leaves the anvil."},
+        {"t": 178, "kind": "opinion", "text": "Gnomonkey calls Tekton effectively the lobby before the raid, where all the Tekton resetting happens."},
+        {"t": 210, "kind": "tip", "text": "In the crab room after Tekton, waiting a tick before the loading zone at the crystal is huge for making the crabs behave the same each time; after that it is following an exact set of attacks."},
+        {"t": 210, "kind": "tip", "text": "Gnomonkey tanks Avenge on Tekton, so he spams as many sweets as possible in the crab room to recover HP."}
+      ]
+    },
+    {
+      "name": "Ice Demon",
+      "kind": "boss",
+      "claims": [
+        {"t": 225, "kind": "method", "text": "For the Ice Demon, Gnomonkey drops two potions, equips his axe, drops his tinderbox, deposits everything and gets chopping."},
+        {"t": 225, "kind": "tip", "text": "Chopping is a five tick action, so you can move between chop ticks to spread out chops and reduce the chance of chopping the tree closest to the bank."},
+        {"t": 241, "kind": "tip", "text": "Once he has dumped for the third time he drops the tinderbox and removes the axe, placing it back where it was in his inventory so his inventory stays exactly as it was."},
+        {"t": 241, "kind": "tip", "text": "In this room he banks as many items as he can for Vanguards; the room is more about banking skill and inventory management than anything else."},
+        {"t": 271, "kind": "stat", "text": "Dragon warhammer on the Ice Demon works differently and actually increases your magic accuracy, so missing the hammer can often be the difference between continuing and resetting."},
+        {"t": 271, "kind": "method", "text": "If the Ice Demon dies before the five minute mark, Gnomonkey swaps spellbooks and moves on to Shamans."}
+      ]
+    },
+    {
+      "name": "Skeletal Mystic",
+      "kind": "boss",
+      "claims": [
+        {"t": 660, "kind": "tip", "text": "In Mystics, Gnomonkey picks up the potions for his body and lures the Mystic to a safe spot to reduce damage, and can equip Masori while stepping out to reduce damage further."},
+        {"t": 660, "kind": "opinion", "text": "Gnomonkey says because Tumeken's shadow multiplies the Occult necklace's bonus but not Salve amulet's, it is far better not to use Salve at all in the Mystics room."},
+        {"t": 660, "kind": "tip", "text": "After the first Mystic dies he runs through the other two and lures them into melee mode, ideally close to the door."}
+      ]
+    },
+    {
+      "name": "Vanguards",
+      "kind": "boss",
+      "claims": [
+        {"t": 298, "kind": "opinion", "text": "Gnomonkey considers Vanguards probably the hardest room of Challenge Mode besides Olm, and says you often need to risk a reset or death for speed; resetting their health or dying there is typically a reset."},
+        {"t": 298, "kind": "tip", "text": "Gnomonkey tries to have at least 80 HP by Vanguards, and with his setup he does not get a brew for them, so eating sweets while running is extremely important."},
+        {"t": 298, "kind": "tip", "text": "You always get three attacks at the start of Vanguards."},
+        {"t": 330, "kind": "method", "text": "Gnomonkey opens Vanguards by casting at the melee Vanguard, then bowing the mage if it hits big, then switching the bow to accurate for the ranger; they typically all go down right after."},
+        {"t": 330, "kind": "method", "text": "After that he always follows the ranged Vanguard, scythes it below 70 HP while swapping to Masori for defence, steps under it after switching to range the mage Vanguard, and then attacks the melee Vanguard on a big shot, flicking both Vanguards' prayers."},
+        {"t": 364, "kind": "tip", "text": "A plugin asterisk indicates when a Vanguard can be killed once the others are low enough; the supplies from Vanguards are completely random, the worst being three brews and no revite."}
+      ]
+    },
+    {
+      "name": "Thieving room (Chambers of Xeric)",
+      "kind": "other",
+      "claims": [
+        {"t": 391, "kind": "method", "text": "In the Challenge Mode Thieving room Gnomonkey dumps after collecting about 15 grubs and keeps the creature fed so it cannot regenerate health; after 30 total grubs dumped the room is done."},
+        {"t": 391, "kind": "tip", "text": "The only real skill in the Thieving room is banking properly afterward, banking his harmstaff, tome, hammer, scythe, Max cape and stamina and pulling out axe, pickaxe, mace, brews and a Kodai potion."}
+      ]
+    },
+    {
+      "name": "Vespula",
+      "kind": "boss",
+      "claims": [
+        {"t": 419, "kind": "tip", "text": "Before Vespula Portal Gnomonkey removes his boots, sets his staff to long range, sorts his inventory and drinks Kodai for the mage boost."},
+        {"t": 419, "kind": "tip", "text": "He watches the Enhanced Timer the whole kill, since Enhance gives a prayer point every six ticks and knowing when it arrives lets him waste the fewest ticks."},
+        {"t": 445, "kind": "tip", "text": "Gnomonkey sometimes runs into Vespula without prayer and uses Redemption on the way back if it saves ticks."}
+      ]
+    },
+    {
+      "name": "Tightrope skip",
+      "kind": "mechanic",
+      "claims": [
+        {"t": 445, "kind": "method", "text": "The tightrope starts the instant Vespula dies; Gnomonkey must be prepared for the Kirby skip while running to the rope, picking up Vespula's potions, swapping into melee gear to hold them, and activating Rapid Heal before his true tile passes a set tile."},
+        {"t": 471, "kind": "tip", "text": "Clicking to a specific tile before the entrance gets you to the rope a tick faster and dodges the loading line at Vasa."},
+        {"t": 471, "kind": "method", "text": "Gnomonkey uses brews and sweets to get his HP barely over 50, then overloads to drop to 1, 2 or 3 HP; this must be done before reaching the rope or the run is over, and because sweets heal a random amount RNG can ruin it."},
+        {"t": 500, "kind": "method", "text": "At the rope he activates Redemption before or as he crosses, which heals enough to survive the barrage, grabs the crystal, clicks the rope, clicks a sweet to tick eat and equips a necklace while clicking the rope to cross back so the necklace nulls all the damage."},
+        {"t": 500, "kind": "tip", "text": "Gnomonkey says the skip is fairly easy with practice, but if you mess up the run is completely done; he kept failing because he ate the sweet and equipped the necklace before clicking to the rope, which someone in chat pointed out."},
+        {"t": 533, "kind": "tip", "text": "How the skip is done changes depending on whether you have two or three HP; he links Kirby's guide for it."}
+      ]
+    },
+    {
+      "name": "Vasa Nistirio",
+      "kind": "boss",
+      "claims": [
+        {"t": 545, "kind": "tip", "text": "The last floor is a killer: every room has a huge amount of RNG that can end the run, and Guardians is the only easy room."},
+        {"t": 545, "kind": "tip", "text": "In Guardians you can summon the skeleton thrall to potentially save a tick by overkilling the second Guardian."},
+        {"t": 565, "kind": "opinion", "text": "Gnomonkey believes his 'funny walk' in Guardians is superior to the typical two tile running method because it makes flicking prayers easier and needs fewer clicks and no timing, though it does not matter much."},
+        {"t": 565, "kind": "tip", "text": "In his Blood fury setup Gnomonkey tries to take damage if it heals him to 99, since he is not venging Vasa and Vasa takes all your health away anyway, so lower HP lets sweets raise it higher."},
+        {"t": 597, "kind": "method", "text": "After the Guardian dies he equips mace set to spike for stabbing crystals, equips claws, then his range setup so switches are in the correct order; Vasa requires very fast switches to avoid losing ticks."},
+        {"t": 597, "kind": "method", "text": "When Vasa teleports him Gnomonkey eats three sweets and drinks a brew if his overload will restore stats, spam clicks for a shot without Rigor, and avoids Vasa's boulders by moving right before his bow can shoot again."},
+        {"t": 597, "kind": "method", "text": "He does one final shot, switches to claws and double specs the crystal, maces it if not dead and switches back to the Twisted bow; a good Vasa is dead before it reaches the second crystal."},
+        {"t": 629, "kind": "stat", "text": "With bad bow RNG Vasa can take two minutes or more, ending the run."},
+        {"t": 629, "kind": "tip", "text": "If you have to run through Vasa, pray melee to reduce the trample damage."}
+      ]
+    },
+    {
+      "name": "Muttadile",
+      "kind": "boss",
+      "claims": [
+        {"t": 687, "kind": "tip", "text": "There is a Tentacle skip setup involving waiting a tick before the room to run past the Tentacles a bit faster."},
+        {"t": 687, "kind": "opinion", "text": "Gnomonkey says Muttadiles are still the worst boss in the game, as he has said in the past."},
+        {"t": 687, "kind": "method", "text": "The strategy for the Muttadile room is running up to the meat tree and chopping it down while casting at the baby Muttadile until it is under 50% HP."},
+        {"t": 720, "kind": "stat", "text": "The combined max hit of the baby's off-prayer ranged attack and Mama Muttadile's magic attack means you can potentially take 89 damage in a single game tick."},
+        {"t": 720, "kind": "tip", "text": "Burning through brews in the Muttadile room can mean the difference between having two brews or six brews for Olm, and it is completely random."},
+        {"t": 749, "kind": "method", "text": "After chopping the tree he equips full mage gear and summons a thrall; the walk under method with offensive prayer flicks reduces damage a little and mostly increases survival odds."},
+        {"t": 749, "kind": "stat", "text": "Mama Muttadile maxes 38 with any given attack, so even constantly brewing she can kill you if she maxes each attack."},
+        {"t": 778, "kind": "method", "text": "Gnomonkey brews up until running low on brews, then starts sweet tick eating every attack; when one of them falls he grabs brew and revite and moves on."}
+      ]
+    },
+    {
+      "name": "Great Olm",
+      "kind": "boss",
+      "claims": [
+        {"t": 809, "kind": "opinion", "text": "Gnomonkey considers Olm by far the hardest part of Challenge Mode, requiring a lot of practice and experience."},
+        {"t": 809, "kind": "event", "text": "When he first started Gnomonkey had only a very basic understanding of the 4:1 and had no clue how to do shadow mage hand running; Cinderous's guide helped him a lot."},
+        {"t": 837, "kind": "event", "text": "Gnomonkey says he might make a basic shadow running guide since there is not a good one yet, and has heard Kirby is working on one."},
+        {"t": 837, "kind": "tip", "text": "Gnomonkey's overview of Olm is that if you hit your hammers it is usually fine; if not, you waste a ton of brews and he never dies, with about two minutes of variation mostly from hammer RNG."},
+        {"t": 837, "kind": "tip", "text": "He tries to brew every 15 seconds whenever possible to keep stats and HP high, since he has no spell to heal himself back up."},
+        {"t": 864, "kind": "tip", "text": "Masori flicking in the 4:1 reduces a lot of damage; Gnomonkey also learned acid running, flame wall nulling and crystal running with practice."},
+        {"t": 864, "kind": "opinion", "text": "Gnomonkey calls the P3 hand trolls hilarious, such as pacing into head phase but being unable to do any damage with Lance in five hits."}
+      ]
+    },
+    {
+      "name": "Gnomonkey",
+      "kind": "person",
+      "claims": [
+        {"t": 0, "kind": "event", "text": "As of February 2023 Gnomonkey was speedrunning Challenge Mode Chambers of Xeric on his Twitch channel."},
+        {"t": 32, "kind": "event", "text": "Gnomonkey describes this video as a walkthrough from his own perspective rather than a full guide, which is different from what he typically does."},
+        {"t": 899, "kind": "event", "text": "Gnomonkey says he cools off between runs by chatting about Tekton resets with viewers and plans to keep posting Challenge Mode speed attempts on Twitch."}
+      ]
+    }
+  ]
+}

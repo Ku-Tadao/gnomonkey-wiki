@@ -1,0 +1,118 @@
+{
+  "id": "88kOTb9qUKc",
+  "title": "Colosseum: GLORY or a Waste of Dev time?",
+  "date": "2023-11-06",
+  "type": "news-opinion",
+  "summary": "Gnomonkey reviews the announced details of Fortis Colosseum, the Varlamore wave-based encounter descended from the Blue Inferno game jam idea, and its rewards. He rates Dizana's Quiver as the standout reward and the rest as niche or weak, is disappointed by the Glory-based endless mode, and argues Jagex should add buff modifiers and risk-scaled loot and take their time refining it with player feedback.",
+  "outline": [
+    {"t": 0, "text": "What the Colosseum is: Blue Inferno recontextualised for Varlamore, waves and modifiers"},
+    {"t": 31, "text": "Endless mode and the list of main rewards"},
+    {"t": 64, "text": "Glaive of Rallos stats and how it compares to Bandos godsword and Dragon warhammer"},
+    {"t": 147, "text": "Sunfire Fanatic armor and Sunfire runes"},
+    {"t": 206, "text": "Dizana's Quiver and its effect on the ranged meta"},
+    {"t": 294, "text": "Opinion: rewards seem lacking, caution on corrupted quiver"},
+    {"t": 354, "text": "Endless mode and Glory criticism"},
+    {"t": 391, "text": "Idea: risk mechanic and scaling loot in endless mode"},
+    {"t": 447, "text": "Debuff modifiers vs buff modifiers, League-style buffs"},
+    {"t": 512, "text": "Example buffs: three-tile run speed, three-tick weapons, unlimited spec"},
+    {"t": 576, "text": "Call for Jagex to refine the content rather than leave it for years"}
+  ],
+  "topics": [
+    {
+      "name": "Fortis Colosseum",
+      "kind": "activity",
+      "claims": [
+        {"t": 0, "kind": "event", "text": "Gnomonkey describes Fortis Colosseum as the Blue Inferno people have been dying for, recontextualised for Varlamore."},
+        {"t": 0, "kind": "stat", "text": "Colosseum is designed as a shorter wave-based combat encounter than the Inferno, paying out both GP and untradable unlocks rather than purely untradable rewards."},
+        {"t": 0, "kind": "stat", "text": "Blue Inferno was sold as a 12-wave encounter, with waves 9 through 12 aimed at players capable of obtaining an Infernal cape."},
+        {"t": 0, "kind": "stat", "text": "Each Colosseum wave rolls a modifier that either buffs enemies, debuffs the player, or modifies the terrain, and enemies continue to stack through the entire encounter."},
+        {"t": 31, "kind": "stat", "text": "An endless mode lets the player continue into a new run while keeping all the negative modifiers, with the reward being Glory."},
+        {"t": 31, "kind": "stat", "text": "The main announced Colosseum rewards are Dizana's Quiver, the Glaive of Rallos, Sunfire runes, Sunfire Fanatic armor and an Echo crystal that will be added to some pair of boots for recoil damage in a 3x3 area."},
+        {"t": 64, "kind": "stat", "text": "All the Colosseum reward items are created or charged with Sunfire dust."},
+        {"t": 294, "kind": "opinion", "text": "Gnomonkey thinks the Colosseum rewards seem lacking: the quiver is insanely powerful, but everything else seems niche at best or useless at worst, and mid-tier prayer ranged armor feels out of place in content aimed at people who want a true challenge."},
+        {"t": 325, "kind": "opinion", "text": "Gnomonkey thinks the Colosseum could become not worth grinding for GP within a few months, since the dust-charged ranged weapon seems to be the only high-demand drop."},
+        {"t": 0, "kind": "opinion", "text": "In the description, Gnomonkey says the content is supposed to be at Inferno-level difficulty, yet has no real incentive besides Glory, which he calls useless, and that he wants Jagex to take their time rather than rush it like Tombs of Amascut."},
+        {"t": 607, "kind": "opinion", "text": "Gnomonkey hopes Jagex keeps a close eye on Colosseum and refines it after release, noting Tombs of Amascut got minor changes after launch and then QoL changes a year later, and Chambers of Xeric is only now getting similar treatment."}
+      ]
+    },
+    {
+      "name": "Glaive of Rallos",
+      "kind": "item",
+      "claims": [
+        {"t": 64, "kind": "stat", "text": "The Glaive of Rallos is described as a 6-tick ranged weapon with 5 tile range that lands two hit splats when charged with Sunfire dust."},
+        {"t": 64, "kind": "stat", "text": "The Glaive's special attack costs 50% energy and reduces the target's defence by 10% of their total magic level for each splat that lands, up to 20%."},
+        {"t": 90, "kind": "opinion", "text": "Gnomonkey says the Glaive is unique because Dragon warhammer gives a flat 30% defence reduction that gets worse with each use, whereas the Glaive rolls a static 20% of magic level every spec, so it competes with Bandos godsword more than with the hammer."},
+        {"t": 90, "kind": "stat", "text": "Gnomonkey says Bandos godsword has an average hit of around 40, whereas the Glaive drains 70 defence levels with both hit splats on Maiden and 44 on Xarpus, so it seems directly better than Bandos godsword in ToB most of the time."},
+        {"t": 120, "kind": "stat", "text": "Bandos godsword remains better against bosses with low magic level, such as Bloat (100 magic) and Nylocus King (50 magic), so Gnomonkey expects rolls for both Bandos godsword and the Glaive in team content."},
+        {"t": 120, "kind": "stat", "text": "Gnomonkey lists Glaive defence drain values: 117 on Challenge Mode Ice Demon, potentially 35 on the Vespula portal, 75 on the Olm head, 60 on Zeliana and 52 on Hydra."},
+        {"t": 120, "kind": "opinion", "text": "Gnomonkey says the Glaive is effectively useless in Tombs of Amascut because the bosses' ranged defences are way too high."},
+        {"t": 147, "kind": "opinion", "text": "Gnomonkey considers the Glaive a useful spec weapon that competes with the hammer and Bandos godsword without replacing either."}
+      ]
+    },
+    {
+      "name": "Sunfire runes",
+      "kind": "item",
+      "claims": [
+        {"t": 147, "kind": "stat", "text": "Sunfire runes provide a 10% minimum hit to fire spells."},
+        {"t": 179, "kind": "stat", "text": "Jagex said burning pages can be upgraded to searing pages using Sunfire runes so they can be placed inside a tome of fire."},
+        {"t": 179, "kind": "opinion", "text": "Gnomonkey says this is a big buff to Harmonised nightmare staff but it still does not overtake Shadow anywhere; it would be much more powerful at Ice Demon and a decent gap filler up to Shadow."},
+        {"t": 179, "kind": "opinion", "text": "Gnomonkey could see the Harmonised nightmare staff being used in Tombs of Amascut by experienced players who do not have a Tumeken's shadow yet."}
+      ]
+    },
+    {
+      "name": "Sunfire Fanatic armor",
+      "kind": "item",
+      "claims": [
+        {"t": 147, "kind": "stat", "text": "Sunfire Fanatic armor is described as red dragonhide ranged armor with a prayer bonus near proselyte."},
+        {"t": 147, "kind": "opinion", "text": "Gnomonkey cannot think of a use for Sunfire Fanatic armor and says it seems like padding to the rewards, noting it cannot even be used for cannon tasks because accuracy matters for the cannon."}
+      ]
+    },
+    {
+      "name": "Dizana's Quiver",
+      "kind": "item",
+      "claims": [
+        {"t": 206, "kind": "stat", "text": "Dizana's Quiver will be the new best in slot ranged cape, untradeable, and obtained by completing some feat within the Colosseum."},
+        {"t": 206, "kind": "stat", "text": "By default Dizana's Quiver provides +1 ranged strength and +10 ranged accuracy over the Assembler; charged with Sunfire dust it doubles this to +2 strength and +20 accuracy, specifically not giving the additional +1 strength to the Toxic blowpipe."},
+        {"t": 206, "kind": "stat", "text": "Jagex said a corrupted version with unlimited charges can be made by using enough dust on the quiver."},
+        {"t": 234, "kind": "stat", "text": "The quiver can store two types of ammunition appropriate for the current weapon, so dragon arrows and ruby bolts can both be kept in it, allowing Twisted bow and Zaryte crossbow use with the cape on, on top of an item in the ammo slot."},
+        {"t": 234, "kind": "opinion", "text": "Gnomonkey calls the quiver by far the strongest Colosseum reward and thinks its ammo storage could change the meta in many locations by freeing inventory slots."},
+        {"t": 234, "kind": "stat", "text": "Gnomonkey says the quiver brings Twisted bow max hit on task up to 90 and 99 within Chambers of Xeric, and that three more range strength would be needed to hit over 100."},
+        {"t": 267, "kind": "opinion", "text": "Gnomonkey says the quiver makes the Venator ring not useless anymore, as it is needed to reach the new max hit thresholds."},
+        {"t": 267, "kind": "opinion", "text": "Gnomonkey says with the quiver the Twisted bow finally overtakes the Zaryte crossbow at Nex as the best ranged DPS, so max gear at Nex would no longer include the crossbow, and the ammo storage frees the bolt slot for the crossbow in team Chambers and Tombs of Amascut."},
+        {"t": 294, "kind": "opinion", "text": "Gnomonkey is concerned about corruptible quivers given the weak rewards from Varlamore: with a quiver, a Toxic blowpipe could drain up to 1,000 charges in the Inferno, and allowing corruption makes the Colosseum's long-term profit seem weak, so he suggests holding off the corrupted variant for a month or so to see how the market shapes up."}
+      ]
+    },
+    {
+      "name": "Glory (Colosseum)",
+      "kind": "mechanic",
+      "claims": [
+        {"t": 354, "kind": "opinion", "text": "Gnomonkey calls the Colosseum endless mode the most disappointing aspect, since the reward is implied to be Glory rather than GP."},
+        {"t": 354, "kind": "stat", "text": "According to the announcement blog, Glory is not a currency but effectively a representation of a player's personal best performance: a player who finishes faster and with fewer mistakes gets higher Glory."},
+        {"t": 384, "kind": "stat", "text": "For untradeable rewards like Dizana's Quiver, cosmetics or area unlocks, the player needs to pass a certain Glory threshold, potentially also requiring a completed run similar to buying a fighter torso from Barbarian Assault."},
+        {"t": 384, "kind": "stat", "text": "Endless mode lets players run back every wave with all modifiers accumulated so far plus a few new ones, to push their Glory higher."},
+        {"t": 416, "kind": "opinion", "text": "Gnomonkey notes there is no mention of an extra reward for the harder endless mode, and it is heavily implied the rewards stay cosmetics or untradeables like the quiver."}
+      ]
+    },
+    {
+      "name": "Opinion: Colosseum needs risk and buff modifiers",
+      "kind": "opinion",
+      "claims": [
+        {"t": 416, "kind": "opinion", "text": "Gnomonkey suggests endless mode be the opportunity to add a real risk mechanic to PvM: loot chance rising the further you get, with the run getting harder and a death wasting the time sunk, which would be exciting and great for replayability."},
+        {"t": 447, "kind": "opinion", "text": "Gnomonkey says debuff modifiers are notoriously annoying, citing Quiet Prayers and Overly Draining in Tombs of Amascut; Overly Draining is a simple 5-minute time loss and Quiet Prayers adds additional random damage variants to each room."},
+        {"t": 447, "kind": "opinion", "text": "Gnomonkey prefers Addy's and others' suggestion of modifiers that buff players as they clear each wave, with a twist the content is designed around, similar to the League buffs people go wild with."},
+        {"t": 479, "kind": "opinion", "text": "Gnomonkey would rather fight a boss with 2000 health with a 2-tick Toxic blowpipe than a 1000 health boss with a crippled 4-tick blowpipe, as modifying attack speed can drastically change how you approach things."},
+        {"t": 479, "kind": "trivia", "text": "Gnomonkey cites the game Heroes of Hammerwatch, which has an arena with infinite scaling difficulty and an altar surrounded by traps that occasionally grants a temporary buff, as inspiration."},
+        {"t": 512, "kind": "opinion", "text": "Gnomonkey's example buffs include unlimited mana for 20 seconds, armor penetration, health regen based on damage dealt, three-tile run speed on a 7x7 grid for precise movement, a three-tick attack speed buff that could make weapons like the Dark bow or Crystal halberd worth bringing, unlimited spec energy for 10 seconds, and bottomless potions."},
+        {"t": 536, "kind": "opinion", "text": "Gnomonkey wants Jagex to go wild with weird mechanics and engine changes in the Colosseum, since it is contained to the arena, and to reward players with scaling loot with risk and new approaches to PvM."}
+      ]
+    },
+    {
+      "name": "Gnomonkey",
+      "kind": "person",
+      "claims": [
+        {"t": 0, "kind": "trivia", "text": "This is a repost of the video with better audio, edited by an editor who is still learning, per the description."},
+        {"t": 0, "kind": "opinion", "text": "Gnomonkey says he was excited by the original Blue Inferno idea from the game jam but that his hopes are not high from the current information."}
+      ]
+    }
+  ]
+}

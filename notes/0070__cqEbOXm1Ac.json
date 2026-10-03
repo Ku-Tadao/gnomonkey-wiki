@@ -1,0 +1,311 @@
+{
+  "id": "_cqEbOXm1Ac",
+  "title": "SOLO Tempoross Firefighter Guide (OSRS)",
+  "date": "2021-11-19",
+  "type": "guide",
+  "summary": "A guide to the community-named \"firefighter method\" for solo Tempoross, which maximises reward permits per hour (up to 80) by preventing special attacks early and letting fires spread across the island before dousing them for 40 points each. Gnomonkey says it is the fastest way to get Tempoross uniques such as the fish barrel and pet, with about 50k fishing xp/hr and 400k gp/hr.",
+  "outline": [
+    {
+      "t": 0,
+      "text": "Introduction to Tempoross and the firefighter method"
+    },
+    {
+      "t": 50,
+      "text": "Requirements and travel to Tempoross"
+    },
+    {
+      "t": 102,
+      "text": "Gear and inventory setup"
+    },
+    {
+      "t": 194,
+      "text": "Tempoross mechanics: fish, shield, fires, tidal wave, storm intensity"
+    },
+    {
+      "t": 281,
+      "text": "Why the firefighter strategy works"
+    },
+    {
+      "t": 344,
+      "text": "Execution: opening, first deposits, and getting the shield to 4%"
+    },
+    {
+      "t": 444,
+      "text": "Second and third rounds of 19 cooked paddlefish"
+    },
+    {
+      "t": 564,
+      "text": "Maximising points: dousing the fires on the far side of the island"
+    },
+    {
+      "t": 663,
+      "text": "Finishing Tempoross, points per game, and rewards"
+    },
+    {
+      "t": 727,
+      "text": "Spirit flakes uses and gp per permit"
+    }
+  ],
+  "topics": [
+    {
+      "name": "Tempoross",
+      "kind": "activity",
+      "claims": [
+        {
+          "t": 0,
+          "kind": "opinion",
+          "text": "Gnomonkey describes Tempoross as the fishing equivalent of Wintertodt, a medium-intensity method of training Fishing with fairly decent xp and some profit."
+        },
+        {
+          "t": 0,
+          "kind": "method",
+          "text": "The \"firefighter method\" is a community-named solo Tempoross strategy that provides the most reward permits per hour, up to 80 if done efficiently."
+        },
+        {
+          "t": 30,
+          "kind": "stat",
+          "text": "Gnomonkey says the firefighter method gives roughly 50k Fishing xp/hr and 400k gp/hr and is the fastest way to obtain any Tempoross unique, including the fish barrel and the pet."
+        },
+        {
+          "t": 30,
+          "kind": "requirement",
+          "text": "Tempoross requires only 35 Fishing; Gnomonkey says the firefighter method is much easier with 61 Fishing and a dragon harpoon, and easier still with 75 Fishing and 85 Cooking for the infernal harpoon, but it is still possible without them."
+        },
+        {
+          "t": 59,
+          "kind": "requirement",
+          "text": "The firefighter method has a hard requirement of 68 Magic and completion of Lunar Diplomacy for Lunar spells (Humidify), though one could boost from 65 Magic with magic potions."
+        },
+        {
+          "t": 99,
+          "kind": "tip",
+          "text": "To reach Tempoross, use an Amulet of Glory to Al Kharid or a Ring of Dueling to the Duel Arena, then take the boat in south-western Al Kharid, which goes straight to the Tempoross area."
+        },
+        {
+          "t": 185,
+          "kind": "method",
+          "text": "Tempoross works like Wintertodt: you fish paddlefish, optionally cook them for extra points and damage, and dump them in crates on a boat, where the fish are launched at Tempoross to damage his shield; once the shield reaches zero he becomes vulnerable and can be damaged by fishing at the main whirlpool."
+        },
+        {
+          "t": 213,
+          "kind": "stat",
+          "text": "Tempoross has two special attacks, lightning strikes (which create spreading fires that remove resources from your inventory each tick you stand in them, and must be doused with buckets of water) and the tidal wave (dodged by tying yourself to the ship's mast or a totem, otherwise some inventory resources are lost)."
+        },
+        {
+          "t": 213,
+          "kind": "stat",
+          "text": "The number of reward permits received from Tempoross depends on the points earned in the fight."
+        },
+        {
+          "t": 244,
+          "kind": "stat",
+          "text": "The storm intensity meter constantly fills and instantly fails the fight if it reaches 100%; it resets when Tempoross' shield is broken."
+        },
+        {
+          "t": 251,
+          "kind": "stat",
+          "text": "If Tempoross' shield is broken a fourth time and he recovers without being defeated, he becomes enraged and rapidly fills the storm intensity meter, so the fight will fail."
+        },
+        {
+          "t": 636,
+          "kind": "stat",
+          "text": "Gnomonkey gets 9,000 to 11,000 points per 10-minute game with the firefighter method, giving 11 to 14 reward permits per game, usually around 13."
+        },
+        {
+          "t": 636,
+          "kind": "tip",
+          "text": "After a game you can grab a small net from your bank or from the NPC next to the reward pool to fish up your rewards."
+        }
+      ]
+    },
+    {
+      "name": "Tempoross firefighter method",
+      "kind": "mechanic",
+      "claims": [
+        {
+          "t": 284,
+          "kind": "method",
+          "text": "The firefighter method abuses Tempoross mechanics to keep fires propagating on the far side of the island; each flame doused with a bucket of water gives 40 points."
+        },
+        {
+          "t": 284,
+          "kind": "stat",
+          "text": "When Tempoross' shield is damaged below 10% he never uses a special attack again; since his tidal wave would douse all flames on the island, preventing special attacks lets fires spread until almost the whole island is on fire."
+        },
+        {
+          "t": 284,
+          "kind": "method",
+          "text": "The method ends by defeating Tempoross right before he recovers the fourth time, giving the absolute maximum amount of points."
+        },
+        {
+          "t": 308,
+          "kind": "requirement",
+          "text": "The method needs very specific amounts of cooked fish and damage, so a crystal harpoon does not work: the crystallised fish it gives cannot be cooked and ruin the method."
+        },
+        {
+          "t": 308,
+          "kind": "tip",
+          "text": "Gnomonkey highly recommends the Tempoross plugin from the RuneLite plugin hub, which shows meters for the resources."
+        },
+        {
+          "t": 339,
+          "kind": "method",
+          "text": "Opening: when the game starts, run north-east and fish paddlefish immediately, using the dragon harpoon special while running if you have one and praying Preserve; catch around 8 to 10 fish, then start cooking while waiting for the double fish spot, and fish at the double spot as soon as it appears."
+        },
+        {
+          "t": 366,
+          "kind": "method",
+          "text": "Gnomonkey's inventory holds exactly 17 raw paddlefish at the first stage; cook them, and when the plugin's totem meter is about half, click the totem to tie yourself down against the incoming tidal wave, then keep clicking to cook."
+        },
+        {
+          "t": 398,
+          "kind": "method",
+          "text": "By the time cooking finishes the cloud should be creating fires with lightning; run to the ship and deposit all cooked fish in a crate. Depositing 17 fish damages Tempoross' shield to 4%, preventing any more special attacks."
+        },
+        {
+          "t": 398,
+          "kind": "tip",
+          "text": "If you are too slow and a second tidal wave comes, leave the encounter immediately, because it puts out the fires on the far side of the island and ruins the method."
+        },
+        {
+          "t": 428,
+          "kind": "stat",
+          "text": "After the shield is at 4%, 19 cooked paddlefish must be deposited before the storm intensity reaches 100%; at 93% storm intensity you must immediately run to the boat and deposit fish, as that is the last possible second to avoid failing."
+        },
+        {
+          "t": 428,
+          "kind": "tip",
+          "text": "With an infernal harpoon, Gnomonkey repairs the mast and/or totem if damaged and lets the island fires propagate one cycle for more points; with a regular or dragon harpoon there is no time, so he puts all fires out immediately."
+        },
+        {
+          "t": 458,
+          "kind": "method",
+          "text": "After the first deposit, drop the bucket and hammer (or rope and hammer without Spirit Anglers) so the inventory can hold 19 cooked paddlefish, then keep fishing, using double fish spots when available and cooking otherwise, and deposit all 19 into a crate."
+        },
+        {
+          "t": 488,
+          "kind": "method",
+          "text": "As soon as a fish is deposited Tempoross falls; finish depositing your whole inventory before attacking him, which deals around 30 to 40% of his health before he gets back up. If you deposited early due to storm intensity, track how many fish you were short of 19."
+        },
+        {
+          "t": 517,
+          "kind": "method",
+          "text": "If you deposited correctly, when Tempoross gets back up the cannon rapidly fires fish until he is again at 4%, after which timing no longer matters and you can AFK; work back up to 19 cooked fish and deposit when convenient, and repair the mast or pole at this point if you did not earlier."
+        },
+        {
+          "t": 546,
+          "kind": "method",
+          "text": "On the third cycle, deposit all 19 fish and damage Tempoross as before; when he recovers, sip a one-dose stamina, grab a full inventory of buckets, run to the far side of the island casting Humidify on the way, and douse as many fires as possible before the storm intensity reaches about 80%."
+        },
+        {
+          "t": 577,
+          "kind": "tip",
+          "text": "If you stand next to multiple fires you can put out each at one tick per fire, much faster than individually; touching a fire only costs a bucket or two, and Humidify refills buckets when empty."
+        },
+        {
+          "t": 605,
+          "kind": "method",
+          "text": "Gnomonkey's path cuts a line through the fires near the water and leaves a clump of fires in the middle of the island to keep propagating, douses every fire up to the boat, works around the back of the island, then returns to the middle clump; if storm intensity hits 80% he heads to the boat."
+        },
+        {
+          "t": 636,
+          "kind": "method",
+          "text": "To finish Tempoross you need at least one cooked paddlefish or two uncooked ones; with spare time and no fires left you can catch extra fish for points, then put the fish in the crate on the boat so Tempoross falls and can be finished."
+        }
+      ]
+    },
+    {
+      "name": "Tempoross gear and inventory",
+      "kind": "item",
+      "claims": [
+        {
+          "t": 102,
+          "kind": "method",
+          "text": "The best outfit for Tempoross is Spirit Anglers, which counts as a rope for the encounter and gives the Anglers xp boost; it needs 4,800 Spirit flakes, so until then use the full Anglers outfit, or full Graceful if Anglers is not unlocked."
+        },
+        {
+          "t": 125,
+          "kind": "tip",
+          "text": "An agility or graceful cape is the next best cape option, with Graceful gloves for minor run restoration and weight reduction; the Tome of Fire saves runes when casting Humidify, and a Tome of Water saves even more, though neither is necessary."
+        },
+        {
+          "t": 125,
+          "kind": "tip",
+          "text": "If you are below 99 Fishing, Gnomonkey recommends wearing prayer gear in empty slots so you can pray Preserve longer, keeping the dragon harpoon's Fishing boost up; this is pointless at 99 since boosts above that level do nothing."
+        },
+        {
+          "t": 155,
+          "kind": "tip",
+          "text": "The infernal harpoon is the best harpoon, with the dragon harpoon also working fine; without either, bring a barbed tail harpoon since it is equipable and saves inventory space, or fish barehanded if unlocked at the cost of some Fishing xp for Strength xp."
+        },
+        {
+          "t": 155,
+          "kind": "method",
+          "text": "Gnomonkey's inventory is a one-dose stamina, eight buckets of water, a hammer, and a rune pouch with fire, water and astral runes; the buckets, hammer and other tools can all be obtained on the Tempoross boat."
+        },
+        {
+          "t": 185,
+          "kind": "tip",
+          "text": "If you do not have Spirit Anglers yet, swap the bottom bucket for a rope in addition to the hammer."
+        }
+      ]
+    },
+    {
+      "name": "Fish barrel",
+      "kind": "item",
+      "claims": [
+        {
+          "t": 30,
+          "kind": "opinion",
+          "text": "Gnomonkey says the fish barrel is incredibly useful for AFK fishing, such as Karambwans, and even more useful on an Iron Man that needs to collect anglerfish."
+        },
+        {
+          "t": 30,
+          "kind": "trivia",
+          "text": "Gnomonkey did the firefighter method on his ultimate ironman until he obtained the fish barrel, for some side money."
+        },
+        {
+          "t": 667,
+          "kind": "stat",
+          "text": "The Fish barrel and Fish tackle box are each a 1 in 400 reward permit drop, roughly 5 hours on average."
+        }
+      ]
+    },
+    {
+      "name": "Tempoross rewards",
+      "kind": "item",
+      "claims": [
+        {
+          "t": 667,
+          "kind": "stat",
+          "text": "The Big harpoon fish and Tome of Water are each 1 in 1,600 reward permits, taking roughly 20 hours to obtain."
+        },
+        {
+          "t": 667,
+          "kind": "stat",
+          "text": "The Dragon harpoon and the Tempoross pet are each 1 in 8,000 reward permits, taking roughly 100 hours to obtain."
+        },
+        {
+          "t": 667,
+          "kind": "stat",
+          "text": "1,200 Spirit flakes turn an Angler's piece into a Spirit Angler's piece, and 4,800 do the full set; 3,000 can be used on a heron pet to colour it blue, which Gnomonkey finds more stylish than the white heron."
+        },
+        {
+          "t": 699,
+          "kind": "tip",
+          "text": "Spirit flakes can be used while fishing for a 50% chance at double fish per catch, consuming one flake per fish caught whether or not it was doubled."
+        },
+        {
+          "t": 699,
+          "kind": "stat",
+          "text": "The reward pool also gives small amounts of raw fish, planks, and caskets containing jewellery and gems, which Gnomonkey says are handy on an Iron Man, plus items like rune armour."
+        },
+        {
+          "t": 727,
+          "kind": "stat",
+          "text": "Tempoross rewards scale with Fishing level up to level 81, averaging 5.5k gp per permit above that level; at 80 permits an hour that is a maximum of about 400k gp/hr."
+        }
+      ]
+    }
+  ]
+}

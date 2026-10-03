@@ -1,0 +1,152 @@
+{
+  "id": "Fkqxv-KW9fU",
+  "title": "Dark Crab fishing is INSANE!  (40k xp/hr 400k gp/hr)",
+  "date": "2020-03-21",
+  "type": "guide",
+  "summary": "A guide to dark crab fishing in the deep Wilderness for 40k Fishing XP and 400k GP an hour. Gnomonkey covers the rewards, a safe gear and prayer setup, supplies, a lockpick-and-X-log escape trick, RuneLite health notifications, and fishing in a group, and introduces his Dark Krabbos clan.",
+  "outline": [
+    {
+      "t": 0,
+      "text": "Why fish dark crabs and requirements"
+    },
+    {
+      "t": 30,
+      "text": "Rewards and profitability"
+    },
+    {
+      "t": 61,
+      "text": "Survival gear setup"
+    },
+    {
+      "t": 105,
+      "text": "Safe worlds and prayers"
+    },
+    {
+      "t": 121,
+      "text": "Inventory and supplies"
+    },
+    {
+      "t": 177,
+      "text": "Escape tactics: the lockpick room and X-logging"
+    },
+    {
+      "t": 207,
+      "text": "Safety precautions: RuneLite notifications"
+    },
+    {
+      "t": 269,
+      "text": "Real world experience and the Dark Krabbos clan"
+    }
+  ],
+  "topics": [
+    {
+      "name": "Dark crab",
+      "kind": "item",
+      "claims": [
+        {
+          "t": 0,
+          "kind": "opinion",
+          "text": "Gnomonkey calls dark crabs an incredibly good AFK fishing method that trumped all other contenders in his AFK fishing video."
+        },
+        {
+          "t": 0,
+          "kind": "requirement",
+          "text": "Fishing dark crabs requires 85 Fishing, and the Elite Wilderness Diary to fish them efficiently; they benefit from Rada's Blessing, from 2% with the easy diary to 8% with the elite diary."
+        },
+        {
+          "t": 0,
+          "kind": "tip",
+          "text": "Dark crab spots never disappear or move, making them the most AFK thing to fish in the game according to Gnomonkey, as the player only needs to interact once the inventory fills."
+        },
+        {
+          "t": 30,
+          "kind": "stat",
+          "text": "Dark crabs give about 40k Fishing XP an hour, compared with about 60k for non-tick-manipulated barbarian fishing, and about 400k GP an hour, which Gnomonkey says is almost the highest GP from an AFK method besides ringed dragons."
+        },
+        {
+          "t": 121,
+          "kind": "tip",
+          "text": "Dark crab inventory: a lobster pot and dark fishing bait (about 4 GP each on the Grand Exchange), a knife to cut the web to the resource area, coins to note the crabs, and some extra coins if using Rada's Blessing since extra crabs come at no bait cost."
+        }
+      ]
+    },
+    {
+      "name": "Dark crab fishing safety setup",
+      "kind": "mechanic",
+      "claims": [
+        {
+          "t": 61,
+          "kind": "tip",
+          "text": "Gnomonkey brings a Dinh's bulwark, which he calls the ultimate piece of armor for running away from player killers, plus dragonhide armor and a blessing; diary boots, gloves, helmets and capes give a free bonus if available but are not necessary."
+        },
+        {
+          "t": 86,
+          "kind": "tip",
+          "text": "Some players bring a Zamorak godsword instead of the bulwark with the special attack primed, so when player killers attack they can auto-retaliate and freeze them for 20 seconds to escape, but this risks being spec'd out by dragon claws or an AGS."
+        },
+        {
+          "t": 86,
+          "kind": "opinion",
+          "text": "Gnomonkey recommends fishing in high-risk worlds, which only disable the Protect Item prayer, because player killers risk more and will most likely not bring expensive spec weapons like dragon claws."
+        },
+        {
+          "t": 115,
+          "kind": "tip",
+          "text": "Quick prayers should include Protect from Magic, since the main danger is being frozen and killed by mages because dark crab fishing uses brews that reduce Magic and so defence; Augury gives 25% regular and 25% magic defence, and Piety works if Augury is not unlocked."
+        },
+        {
+          "t": 144,
+          "kind": "tip",
+          "text": "Gnomonkey brings three brews and a super restore to escape player killers; some bring as many as seven, but he found three is plenty."
+        }
+      ]
+    },
+    {
+      "name": "Escaping player killers at the dark crabs",
+      "kind": "mechanic",
+      "claims": [
+        {
+          "t": 178,
+          "kind": "method",
+          "text": "The escape method uses a lockpick: the room just north of the resource area needs a lockpick to enter and is full of weak ents-type enemies; the player attacks one, brews their stats down, waits about 10 seconds and then X-logs (force closes the client) so the character keeps attacking and then logs out."
+        },
+        {
+          "t": 178,
+          "kind": "stat",
+          "text": "Gnomonkey says player killers typically leave as soon as the player enters this room, and in about ten escapes none has ever followed him in."
+        },
+        {
+          "t": 208,
+          "kind": "tip",
+          "text": "Set up RuneLite notifications so the client plays a tone and set the idle/low-health notification threshold to one below max health, so the client warns the player if a player killer attacks; this makes mobile play difficult."
+        },
+        {
+          "t": 235,
+          "kind": "tip",
+          "text": "Gnomonkey advises finding safety in numbers: fishing in a large pile of players means a player is unlikely to be singled out, and some clan members have PKing alts to deal with lower-level pests."
+        },
+        {
+          "t": 262,
+          "kind": "stat",
+          "text": "With clan members Gnomonkey typically fishes about a thousand crabs before banking, or 500 if solo; over thirty hours he died only twice, both when fishing on mobile or while away from the computer."
+        }
+      ]
+    },
+    {
+      "name": "Dark Krabbos",
+      "kind": "other",
+      "claims": [
+        {
+          "t": 235,
+          "kind": "event",
+          "text": "While recording, Gnomonkey stumbled across a huge group of players fishing dark crabs who had formed a clan called Dark Krabbos, which he describes as a chill group seriously needing more members."
+        },
+        {
+          "t": 262,
+          "kind": "trivia",
+          "text": "During recording, the group was attacked by a player named Moni, whose reaction to the pile of fishers Gnomonkey found pretty hilarious."
+        }
+      ]
+    }
+  ]
+}

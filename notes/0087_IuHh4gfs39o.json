@@ -1,0 +1,414 @@
+{
+  "id": "IuHh4gfs39o",
+  "title": "Getting Into PVM in Old School Runescape (OSRS)",
+  "date": "2022-05-11",
+  "type": "guide",
+  "summary": "Gnomonkey breaks PvM skill into pillars (inventory management, movement, prayer management, plus a 'rhythm' fourth pillar), says where to learn each, and rates Nightmare, Nex, Gauntlet, Chambers, Theatre of Blood and Inferno out of 5 in each category. He ends with advice on finding teammates.",
+  "outline": [
+    {
+      "t": 0,
+      "text": "Intro: how to get into harder PvM"
+    },
+    {
+      "t": 33,
+      "text": "Stats matter more than gear for DPS"
+    },
+    {
+      "t": 64,
+      "text": "The three main pillars of PvM skill"
+    },
+    {
+      "t": 138,
+      "text": "Inventory management: where to learn switching"
+    },
+    {
+      "t": 228,
+      "text": "Movement and Hallowed Sepulchre, Vorkath, Giant Mole"
+    },
+    {
+      "t": 328,
+      "text": "Prayer management and flicking at DKs, God Wars, Fight Caves"
+    },
+    {
+      "t": 418,
+      "text": "Rhythm: the secret fourth pillar"
+    },
+    {
+      "t": 481,
+      "text": "Nightmare ratings"
+    },
+    {
+      "t": 521,
+      "text": "Nex ratings"
+    },
+    {
+      "t": 588,
+      "text": "Gauntlet ratings"
+    },
+    {
+      "t": 634,
+      "text": "Chambers of Xeric ratings"
+    },
+    {
+      "t": 699,
+      "text": "Theatre of Blood ratings"
+    },
+    {
+      "t": 729,
+      "text": "Inferno ratings"
+    },
+    {
+      "t": 790,
+      "text": "Finding teammates"
+    }
+  ],
+  "topics": [
+    {
+      "name": "PvM skill pillars",
+      "kind": "mechanic",
+      "claims": [
+        {
+          "t": 0,
+          "kind": "opinion",
+          "text": "Gnomonkey says higher-level PvM is often touted as very difficult to get into, but with the right attitude, gear and resources learning PvM is usually just a matter of jumping in."
+        },
+        {
+          "t": 33,
+          "kind": "opinion",
+          "text": "Gnomonkey says stats are far greater for DPS than gear 99% of the time: each Strength level is roughly a 1-2% DPS increase depending on whether it gives a max hit, and the same applies to Ranged and Magic."
+        },
+        {
+          "t": 33,
+          "kind": "opinion",
+          "text": "Gnomonkey says not training stats in Nightmare Zone to decent levels before PvM is 'griefing' yourself and your teammates because they are such simple stats to train."
+        },
+        {
+          "t": 55,
+          "kind": "stat",
+          "text": "As an extreme example, Gnomonkey says full Armadyl is typically only a 0.5% DPS increase over Blessed dragonhide at 80m for the set."
+        },
+        {
+          "t": 64,
+          "kind": "method",
+          "text": "Gnomonkey calls inventory management, movement and prayer management the three main pillars of PvM skill; they are not all-encompassing but cover the majority of skills you can acquire."
+        },
+        {
+          "t": 418,
+          "kind": "method",
+          "text": "Gnomonkey adds a secret fourth pillar called 'rhythm': an understanding of attack cycles and the tick system in general."
+        },
+        {
+          "t": 418,
+          "kind": "stat",
+          "text": "Gnomonkey says Old School RuneScape is a rhythm game at 100 beats per minute (0.6 seconds per beat), which matters at every encounter, scaling or bossing."
+        },
+        {
+          "t": 418,
+          "kind": "tip",
+          "text": "Rhythm cannot be learned at one specific place; it is gradual, and even tick-manipulation skilling methods can carry over to PvM. Examples where people say you 'just need to get a rhythm' include Verzik tanking, Xarpus scythe walking, Olm cycles and 3-tick 4-granite."
+        }
+      ]
+    },
+    {
+      "name": "Inventory management",
+      "kind": "mechanic",
+      "claims": [
+        {
+          "t": 83,
+          "kind": "method",
+          "text": "Switching is quickly changing gear, typically during weapon cooldown; an eight-way switch swaps the weapon and every other gear slot."
+        },
+        {
+          "t": 83,
+          "kind": "stat",
+          "text": "The fastest an eight-way switch can typically be done is three ticks for the entire switch, sometimes two ticks; Gnomonkey has seen a one-tick eight-way but says very few people can do it."
+        },
+        {
+          "t": 83,
+          "kind": "tip",
+          "text": "Inventory management also includes keeping track of food, prayer and special attacks, both the meter and the items."
+        },
+        {
+          "t": 144,
+          "kind": "tip",
+          "text": "Gnomonkey highly recommends laying out switches in a horizontal or vertical 2x2 pattern and zigzagging the mouse to equip them, which makes switches faster and more accurate."
+        },
+        {
+          "t": 144,
+          "kind": "method",
+          "text": "Most inventory management is used in raids (Chambers and Theatre of Blood); other places to learn switching are safe and easy bosses like Kalphite Queen, Dagannoth Kings and Barrows to an extent, which have huge downtime for switching."
+        },
+        {
+          "t": 175,
+          "kind": "method",
+          "text": "Bosses requiring quick switches are Zulrah, Grotesque Guardians, Nightmare and melee Nex; Gnomonkey says Zulrah is a safer introduction to quick switching, while Nightmare and Nex are harder but will not kill you for slow switches."
+        },
+        {
+          "t": 201,
+          "kind": "method",
+          "text": "The Gauntlet teaches other aspects of inventory management: it needs no real switches but requires careful tracking of food and prayer and where they are in the inventory."
+        },
+        {
+          "t": 201,
+          "kind": "tip",
+          "text": "In Chambers, Muttadile, Vanguards, Vasa and Olm all need decent switches, with the 4-0 Olm method arguably the most demanding switches in the game; in Theatre of Blood switching is reactionary and depends on role, such as mages at Maiden and the melee role hybriding to magic at Nylocas."
+        },
+        {
+          "t": 230,
+          "kind": "tip",
+          "text": "Raids also require careful supply management, even dropping potions in good locations so you can equip or unequip items; Gnomonkey calls Inferno the definition of supply management, though gear switches are not used there."
+        }
+      ]
+    },
+    {
+      "name": "Movement",
+      "kind": "mechanic",
+      "claims": [
+        {
+          "t": 114,
+          "kind": "method",
+          "text": "Gnomonkey includes understanding character pathing, avoiding tile hazards and managing monster movement in the movement pillar."
+        },
+        {
+          "t": 240,
+          "kind": "method",
+          "text": "Our character moves by teleporting two tiles per tick and can move in a square of directions each tick; Gnomonkey says the easiest place to learn exactly how this works is Hallowed Sepulchre."
+        },
+        {
+          "t": 259,
+          "kind": "tip",
+          "text": "Mastering Hallowed Sepulchre floor five gives a deep understanding of all forms of L-running and diagonal movement, while the other floors teach it more simply and progressively."
+        },
+        {
+          "t": 259,
+          "kind": "tip",
+          "text": "Learning to Woox walk Vorkath is a surprisingly great foundation for many later encounters."
+        },
+        {
+          "t": 270,
+          "kind": "opinion",
+          "text": "Gnomonkey says monster movement (corner traps, southwest tile shenanigans, safespots) is even more complicated and there are few places to learn it; he highly recommends Giant Mole and Dagannoth Kings."
+        },
+        {
+          "t": 270,
+          "kind": "opinion",
+          "text": "Gnomonkey calls Giant Mole 'basically an Inferno melee, he even digs', and says messing with safespots around her lair gives a solid foundation for Inferno melee monsters; Dagannoth Rex safespots help too."
+        },
+        {
+          "t": 290,
+          "kind": "opinion",
+          "text": "Movement is important in every high-level PvM encounter (Gauntlet, Chambers, Theatre of Blood and especially Inferno); Gnomonkey says Inferno is the only one needing a solid understanding of both your own movement and monster movement."
+        },
+        {
+          "t": 321,
+          "kind": "tip",
+          "text": "Dodging floor attacks in Theatre of Blood and Chambers, Olm cycles and Sotetseg maze all require very solid movement understanding."
+        }
+      ]
+    },
+    {
+      "name": "Prayer management",
+      "kind": "mechanic",
+      "claims": [
+        {
+          "t": 114,
+          "kind": "method",
+          "text": "Prayer management includes lazy flicking or one-tick flicking, and off-ticking and swapping prayers to catch attacks of multiple enemies at once, which Gnomonkey says is a skill with a lot of depth."
+        },
+        {
+          "t": 328,
+          "kind": "tip",
+          "text": "Standard prayer flicking can be learned almost anywhere; few places require it, mainly Inferno and some odd challenges like solo Theatre of Blood."
+        },
+        {
+          "t": 328,
+          "kind": "tip",
+          "text": "Dagannoth Kings is a solid place to learn one-ticking because it extends your trip, and off-ticking Prime and Supreme while hopping between caves is a great way to learn off-ticking before Inferno; Gnomonkey notes DKs is one of the more dangerous places to die."
+        },
+        {
+          "t": 354,
+          "kind": "tip",
+          "text": "God Wars Dungeon is also great for learning flicking: flicking the minions after killing the boss can save supplies and is far less punishing if you mess up; the Fight Caves is also a decent safe place to learn it."
+        },
+        {
+          "t": 387,
+          "kind": "tip",
+          "text": "In raids prayer flicking is more of a general skill, mattering mainly at Nylocas, Waves and Boss, and Vanguards; Gauntlet, Nightmare and Nex use it in more complicated ways, but by far the main place is Inferno, with prayer cycles like one-tick and two-tick alternating to flick multiple mobs."
+        }
+      ]
+    },
+    {
+      "name": "Nightmare",
+      "kind": "boss",
+      "claims": [
+        {
+          "t": 482,
+          "kind": "opinion",
+          "text": "Gnomonkey says Phosani's Nightmare has basically replaced the Nightmare as the content people work toward, and calls it a step up from other bosses but still fairly easy."
+        },
+        {
+          "t": 482,
+          "kind": "opinion",
+          "text": "Gnomonkey rates Nightmare 3/5 for inventory management (tracking specials and supplies and switching to kill parasites, husks and totems), 2/5 for movement (avoiding grasping claws and her melee, and sleepwalkers), and 4/5 for prayer management."
+        },
+        {
+          "t": 514,
+          "kind": "opinion",
+          "text": "Gnomonkey says Nightmare prayer management requires flicking the appropriate prayer each attack and shuffling prayers with the special attack, and the melee prayer timing can be quite tight, with misses causing extremely high damage."
+        }
+      ]
+    },
+    {
+      "name": "Nex",
+      "kind": "boss",
+      "claims": [
+        {
+          "t": 521,
+          "kind": "opinion",
+          "text": "Gnomonkey says Nex is similar in difficulty to Phosani's Nightmare, and proper Nex in small groups is a bit tougher in his opinion."
+        },
+        {
+          "t": 521,
+          "kind": "opinion",
+          "text": "Gnomonkey rates Nex 2/5 for inventory management (his preferred melee method only needs a four-way switch but needs tracking gear positions, supplies and specs), 3/5 for movement (middle resets, 5-tick walk unders and positioning), and 3/5 for prayer management."
+        },
+        {
+          "t": 574,
+          "kind": "opinion",
+          "text": "For Nex prayer management, Gnomonkey says P5 is where you track who Nex is on and what prayer to use, but you mostly camp mage prayer, so he finds it a step easier than Nightmare."
+        },
+        {
+          "t": 810,
+          "kind": "tip",
+          "text": "Free-for-all worlds exist for some content: World 416 for Theatre of Blood and World 420 for Nex."
+        }
+      ]
+    },
+    {
+      "name": "Gauntlet",
+      "kind": "activity",
+      "claims": [
+        {
+          "t": 588,
+          "kind": "opinion",
+          "text": "Gnomonkey says the Gauntlet is not quite raid difficulty for the most part but is a good step up from other boss encounters."
+        },
+        {
+          "t": 588,
+          "kind": "opinion",
+          "text": "Gnomonkey rates the Gauntlet 2/5 for inventory management (no switches, but tracking items during prep and supply usage in the fight), 5/5 for movement, and 3/5 for prayer management."
+        },
+        {
+          "t": 605,
+          "kind": "opinion",
+          "text": "For Gauntlet movement, Gnomonkey notes prep movement between skilling nodes and pathing matters, but it ramps up in the Hunllef fight where you avoid ground tiles, tornadoes and not walking under Hunllef."
+        },
+        {
+          "t": 605,
+          "kind": "opinion",
+          "text": "Gnomonkey says Gauntlet prayer management is mostly counting Hunllef's attacks, switching prayer and turning prayers back on when he disables them, though it can be hard to keep track of."
+        }
+      ]
+    },
+    {
+      "name": "Chambers of Xeric",
+      "kind": "raid",
+      "claims": [
+        {
+          "t": 634,
+          "kind": "opinion",
+          "text": "Gnomonkey rates Chambers (all versions: solo, team, Challenge Mode) 5/5 for inventory management, saying keeping gear and supplies in good locations is extremely important especially in CMs, and losing your inventory mid-run may as well lose the raid."
+        },
+        {
+          "t": 634,
+          "kind": "opinion",
+          "text": "Gnomonkey rates Chambers 4/5 for movement: Olm needs solid movement, especially solo, and almost all standard rooms (Tekton, Vasa, Vespula, Shamans, Ice Demon) involve movement; Mystics are one of the few places where corner trapping matters."
+        },
+        {
+          "t": 667,
+          "kind": "opinion",
+          "text": "Gnomonkey rates Chambers 3/5 for prayer management: Vespula needs careful prayers with Redemption, and Olm's prayer orbs and alternating attacks are the other real difficulty; most of the skill is wasting less prayer so you use fewer potions."
+        }
+      ]
+    },
+    {
+      "name": "Theatre of Blood",
+      "kind": "raid",
+      "claims": [
+        {
+          "t": 699,
+          "kind": "opinion",
+          "text": "Gnomonkey rates the Theatre of Blood 4/5 for inventory management (knowing where items are, especially at Nylocas boss or when frozen at Maiden, and managing supplies on the ground)."
+        },
+        {
+          "t": 699,
+          "kind": "opinion",
+          "text": "Gnomonkey rates the Theatre of Blood 5/5 for movement, requiring exact placement in most rooms: Maiden blood, Bloat flies, Nylocas hitting mobs efficiently, Sotetseg mazes, Xarpus scythe walking and every Verzik phase."
+        },
+        {
+          "t": 729,
+          "kind": "opinion",
+          "text": "Gnomonkey rates the Theatre of Blood 3/5 for prayer management because prayers are restored every room, though prayer use matters in the Nylocas room, Sotetseg and Verzik P3, and is otherwise mostly camping the same prayer."
+        }
+      ]
+    },
+    {
+      "name": "Inferno",
+      "kind": "activity",
+      "claims": [
+        {
+          "t": 735,
+          "kind": "opinion",
+          "text": "Gnomonkey says Inferno is considered the hardest content in the game for most; he rates it 4/5 for inventory management (supply usage is paramount, but there are few switches unless doing very fast speedruns)."
+        },
+        {
+          "t": 760,
+          "kind": "opinion",
+          "text": "Gnomonkey rates Inferno 5/5 for movement, like Theatre of Blood, because where you stand dictates what hits you; pillar rotation, pillar stacks and Zuk healers need good movement control, and it is one of the few places where understanding monster movement (corner trapping, safespotting) is also extremely important."
+        },
+        {
+          "t": 790,
+          "kind": "opinion",
+          "text": "Gnomonkey rates Inferno 5/5 for prayer management because you are limited in how many prayer potions you can bring and must flick often to conserve them, plus off-ticking and techniques like one-tick and two-tick alternating."
+        }
+      ]
+    },
+    {
+      "name": "Finding PvM teammates",
+      "kind": "other",
+      "claims": [
+        {
+          "t": 790,
+          "kind": "opinion",
+          "text": "Gnomonkey says finding teammates for team content is a skill in itself and something he is still working on personally."
+        },
+        {
+          "t": 816,
+          "kind": "tip",
+          "text": "Free-for-all worlds exist but Gnomonkey calls them a mixed bag; Discords like We Do Raids pair you with teammates with voice comms, which he says are absolutely massive in learning raids, though also a mixed bag."
+        },
+        {
+          "t": 816,
+          "kind": "opinion",
+          "text": "Gnomonkey says the best way to find teammates is to join a decent PvM clan or community with people willing to take learners, which takes asking around and research."
+        },
+        {
+          "t": 816,
+          "kind": "opinion",
+          "text": "Gnomonkey says better players mostly care about willingness to learn and a good attitude, and people with hundreds of KC know how to help you improve, so let them; the most important thing is to ask."
+        }
+      ]
+    },
+    {
+      "name": "Gnomonkey",
+      "kind": "person",
+      "claims": [
+        {
+          "t": 849,
+          "kind": "event",
+          "text": "Gnomonkey says he was streaming on Twitch around the video's upload, alternating max-efficient Dagannoth Kings and Inferno speedruns depending on his tasks."
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,155 @@
+{
+  "id": "6QEUIk_5nRU",
+  "title": "Magic Gear Upgrade Guide (GP TO DAMAGE/PRAYER) OSRS 2020",
+  "date": "2020-07-11",
+  "type": "guide",
+  "summary": "A guide to the order of Magic gear purchases, split into a Slayer bursting setup (prioritising damage, then prayer, then accuracy) and a general bossing setup (damage, then accuracy, then prayer). Gnomonkey covers how magic accuracy and damage work, the Mage Arena capes, the Kodai wand versus Nightmare staff, the Trident of the swamp and Sanguinesti staff, and why he thinks the Harmonised nightmare staff is not worth 1.6 billion.",
+  "outline": [
+    {"t": 0, "text": "Intro: goal and when to invest in magic gear"},
+    {"t": 62, "text": "How magic accuracy, splashing and max hit work"},
+    {"t": 149, "text": "Splitting the guide into slayer and bossing sections"},
+    {"t": 177, "text": "Untradeable unlocks: Mage Arena capes, Barrows gloves"},
+    {"t": 245, "text": "Ice Barrage and robe choice for burst tasks"},
+    {"t": 341, "text": "Slayer bursting basic setup"},
+    {"t": 406, "text": "Slayer upgrades: Book of Darkness, Seers ring, Devout boots, Tormented bracelet, Master wand"},
+    {"t": 501, "text": "Nightmare staff versus Kodai wand"},
+    {"t": 586, "text": "Ring of the Gods, Ancestral robes and Kodai"},
+    {"t": 671, "text": "Boss gear section: priorities and basic setup"},
+    {"t": 728, "text": "Boss upgrades: Seers ring, Trident of the swamp, Ahrim's, bracelet, boots"},
+    {"t": 814, "text": "Sanguinesti staff, Ancestral and Arcane spirit shield"},
+    {"t": 937, "text": "Harmonised nightmare staff and outro"}
+  ],
+  "topics": [
+    {
+      "name": "Magic",
+      "kind": "skill",
+      "claims": [
+        {"t": 0, "kind": "opinion", "text": "Gnomonkey says making every piece of gold go as far as possible helps account efficiency tremendously, and this guide focuses on getting the most DPS from magic equipment, though defence or accuracy matter more in cases like bossing."},
+        {"t": 33, "kind": "opinion", "text": "Gnomonkey would always recommend investing in ranged or melee before magic, as you very rarely use magic for bossing, and notes none of the upgrades exist in a vacuum."},
+        {"t": 33, "kind": "tip", "text": "The guide assumes you already have a few million gp lying around, and Gnomonkey says realistically you should not be using magic at very early levels."},
+        {"t": 62, "kind": "stat", "text": "Because magic can splash, it is much less accurate than other styles against any monster with even a semblance of magic defence; a monster's magic defence is calculated from both its magic defence and its magic level."},
+        {"t": 62, "kind": "tip", "text": "People mage at places like Barrows, Dust Devils and Nechryael because those monsters have no magic defence and only level one magic."},
+        {"t": 91, "kind": "stat", "text": "Against monsters with no magic defence, magic accuracy only slightly affects damage output, which is why some people mage wearing full melee armour."},
+        {"t": 91, "kind": "stat", "text": "The only things that affect max hit are the spell used and the gear's magic damage bonus, except for staves with built-in spells such as the trident, which also scale with magic level."},
+        {"t": 120, "kind": "opinion", "text": "Gnomonkey says magic accuracy is almost always much less important than magic damage bonus, which is the main stat the guide focuses on."},
+        {"t": 120, "kind": "tip", "text": "The slayer gearing section applies to situations where a monster has extremely low magic level and defence, which can also apply outside Slayer, such as Dagannoth Rex or Scorpia."},
+        {"t": 149, "kind": "tip", "text": "The regular gear section applies to bosses where you are forced (or practically forced because of high defence against other styles) to mage, such as Zulrah or the Olm; for other cases check the monster's stats on the wiki."},
+        {"t": 671, "kind": "tip", "text": "Gnomonkey notes that for staves whose spell scales with magic level, it may be worth boosting levels over buying a piece of gear, and that you should check the wiki to see if you are close to gaining a max hit."}
+      ]
+    },
+    {
+      "name": "Mage Arena",
+      "kind": "quest",
+      "claims": [
+        {"t": 149, "kind": "requirement", "text": "The Mage Arena miniquest requires 60 Magic for the basic cape, and Gnomonkey says to do it as soon as you get the level."},
+        {"t": 177, "kind": "stat", "text": "The basic god cape provides +10 magic attack bonus, one of the only capes that provides any magic attack bonus."},
+        {"t": 177, "kind": "requirement", "text": "Mage Arena II requires 75 Magic and completion of the first Mage Arena quest, and has you kill three mini bosses with their respective god spell, which Gnomonkey calls pretty tough at 75 Magic but perfectly doable."},
+        {"t": 203, "kind": "stat", "text": "The imbued god cape gives +15 magic attack bonus and a 2% magic damage bonus, the only cape in the game that provides magic damage."},
+        {"t": 203, "kind": "opinion", "text": "Gnomonkey calls the imbued Mage Arena cape a fairly large DPS upgrade that is absolutely worth rushing."}
+      ]
+    },
+    {
+      "name": "Barrows gloves",
+      "kind": "item",
+      "claims": [
+        {"t": 203, "kind": "requirement", "text": "Barrows gloves come from the Recipe for Disaster quest and are not best in slot for magic; the Tormented bracelet is."},
+        {"t": 229, "kind": "stat", "text": "Barrows gloves give +6 magic attack versus a combat bracelet's +3, so they do not help magic much."},
+        {"t": 229, "kind": "opinion", "text": "Gnomonkey recommends getting Barrows gloves fairly quickly anyway because they are incredibly good for other combat styles and bridge the gap until you can afford the Tormented bracelet."}
+      ]
+    },
+    {
+      "name": "Ice Barrage",
+      "kind": "mechanic",
+      "claims": [
+        {"t": 229, "kind": "stat", "text": "In Slayer bursting, magic level only improves accuracy, which hardly matters for burst tasks, except for unlocking Ice Barrage at level 94."},
+        {"t": 229, "kind": "stat", "text": "Unlocking Ice Barrage at level 94 is literally a 30% DPS upgrade for bursting."},
+        {"t": 260, "kind": "tip", "text": "It is worth boosting Magic to 94 with Divine magic potions or an imbued heart to use Ice Barrage sooner, since the extra rune cost is offset by the extra damage, basically saving 30% of the time a task would take."}
+      ]
+    },
+    {
+      "name": "Opinion: Magic gear for Slayer bursting",
+      "kind": "opinion",
+      "claims": [
+        {"t": 260, "kind": "opinion", "text": "Gnomonkey says for burst tasks most people wear Proselyte armour for its prayer bonus, and some argue for vestment robes from clue scrolls, which give about 1% more DPS than Proselyte but 3 less prayer bonus; Ahrim's is only about 1.5% better DPS than Proselyte."},
+        {"t": 287, "kind": "opinion", "text": "Gnomonkey recommends typically using Proselyte for bursting, reasoning that if you do not own Ancestral robes you probably do not have money to waste on prayer potions."},
+        {"t": 315, "kind": "opinion", "text": "Gnomonkey's upgrade priority for burst tasks is damage bonuses first, prayer bonuses second and magic accuracy last."},
+        {"t": 341, "kind": "method", "text": "Gnomonkey's basic bursting setup: Slayer helmet (a black mask will not work for dust devil tasks, so unlock the helmet if considering bursting), best blessing, best Mage Arena cape, an Occult necklace, an Ancient staff, Proselyte armour, Barrows gloves, Mystic boots, and no ring or shield."},
+        {"t": 341, "kind": "opinion", "text": "For bursting off task, Gnomonkey would buy a God mitre over a Farseer helm, since the mitre has +4 magic accuracy versus the Farseer helm's +6 and the best-in-slot prayer bonus of +5."},
+        {"t": 373, "kind": "stat", "text": "The Occult necklace costs about 450k and provides a massive 10% magic damage bonus; Gnomonkey says to hold off on bursting entirely if you cannot afford it."},
+        {"t": 373, "kind": "opinion", "text": "Gnomonkey's first bursting purchase is a Book of Darkness, which for about 500k gives +10 magic attack and +5 prayer, making it best in slot for burst tasks since even an Arcane spirit shield has two less prayer bonus."},
+        {"t": 406, "kind": "tip", "text": "An unholy book is also a great bursting choice if you already own one, with the same prayer bonus and only two less magic attack."},
+        {"t": 406, "kind": "opinion", "text": "Gnomonkey chose an imbued Seers ring before Devout boots; it costs only about 300k and gives 12 magic accuracy."},
+        {"t": 439, "kind": "opinion", "text": "Next are Devout boots, best in slot boots for prayer bonus at +5 for about 1.1M, which save a lot of money in the long run if bought early."},
+        {"t": 439, "kind": "opinion", "text": "Next Gnomonkey saves up for a Tormented bracelet, a big price jump at 17M, which gives a 5% magic damage bonus and +2 prayer; he calls it a gigantic upgrade and skipped the Master wand to save for it."},
+        {"t": 468, "kind": "opinion", "text": "Next he buys a Master wand for about 3.5M, +5 magic attack over the Ancient staff (a total of +20), a small upgrade bought mainly to avoid the Ancient staff's -1 prayer bonus."},
+        {"t": 468, "kind": "tip", "text": "Gnomonkey notes you can buy the Master wand and sell it back later to afford the Tormented bracelet, and that the later upgrades are very expensive, so wait until you have a decently large bank value."},
+        {"t": 586, "kind": "opinion", "text": "If you plan a lot of bursting, Gnomonkey would grab a Ring of the Gods (imbued) next, which costs 20M, gives +8 prayer bonus and works as a holy wrench to save an inventory space; he says +8 prayer matters more than the Seers ring's +8 magic attack."},
+        {"t": 586, "kind": "tip", "text": "The Ring of the Gods is only very good for bursting; Gnomonkey might skip it if close to 99 Magic and Slayer, but it saves money, and you can uncharge it for 80% of its NMZ points back and resell it after 99 Slayer."},
+        {"t": 615, "kind": "opinion", "text": "Next Gnomonkey would buy Ancestral robes, 162M for top and legs; if bursting off task he would buy the 13M hat first, as each piece gives a 2% magic damage bonus and significant magic attack, though you lose Proselyte's prayer bonus."},
+        {"t": 644, "kind": "opinion", "text": "The final bursting upgrade is the Kodai wand at 83.5M, a very small DPS upgrade whose rune saving helps in the long run; Gnomonkey calls this setup the absolute max gear he would buy for bursting with infinite money."}
+      ]
+    },
+    {
+      "name": "Nightmare staff",
+      "kind": "item",
+      "claims": [
+        {"t": 501, "kind": "stat", "text": "The Nightmare staff costs about 40M, varying quite a bit and seen as low as 30M, and can autocast ancient spells but has four less attack bonus than the Master wand."},
+        {"t": 501, "kind": "opinion", "text": "Gnomonkey says the Nightmare staff is rarely discussed or used but is good because of its 15% magic damage bonus, equal to the Kodai wand's."}
+      ]
+    },
+    {
+      "name": "Kodai wand",
+      "kind": "item",
+      "claims": [
+        {"t": 530, "kind": "stat", "text": "The Kodai wand costs 83.5M, casts infinite water runes, has a 15% chance to not use runes when casting an offensive spell, and has a much higher magic attack bonus of 28."},
+        {"t": 530, "kind": "stat", "text": "To make up the 43.5M gp difference with the Nightmare staff, the Kodai wand's rune saving would have to save 26,589 Ice Barrage casts."},
+        {"t": 560, "kind": "stat", "text": "To save that many casts you would need to cast over 170,000 times, getting close to 100M total Magic XP."},
+        {"t": 560, "kind": "opinion", "text": "Gnomonkey would save the Kodai wand for last because of its price, saying if you have the money you might as well use one, but there are other things to buy first."}
+      ]
+    },
+    {
+      "name": "Opinion: Magic gear for bossing",
+      "kind": "opinion",
+      "claims": [
+        {"t": 671, "kind": "opinion", "text": "For general bossing such as Zulrah and the Olm in the Chambers of Xeric, Gnomonkey's priorities are magic damage first, magic accuracy second and prayer bonus third, with his DPS calculations done against Zulrah."},
+        {"t": 700, "kind": "method", "text": "Gnomonkey's basic boss mage setup is the slayer setup but with Mystic robes instead of Proselyte and a Trident of the seas instead of the Ancient staff."},
+        {"t": 700, "kind": "opinion", "text": "The first boss mage purchase is again a Book of Darkness at about 500k, which is about a 5% DPS upgrade over no shield and gives +5 prayer, with magic accuracy even more important than in the slayer setup."},
+        {"t": 728, "kind": "stat", "text": "A Seers ring at 300k gives +12 magic accuracy and adds about another 5% DPS."},
+        {"t": 728, "kind": "opinion", "text": "Next Gnomonkey buys a Trident of the swamp at 4.1M, a massive upgrade of about 15% DPS not counting the chance to venom; he notes weapon upgrades are always the biggest, and it has a 200 gp higher cast cost that is worth paying."},
+        {"t": 756, "kind": "opinion", "text": "Next are Ahrim's robes at 4.4M, about a 1.5% DPS upgrade with 17 magic attack and significantly higher defences; Gnomonkey says to skip the hood since it gives no DPS increase and is not worth the repair costs."},
+        {"t": 782, "kind": "opinion", "text": "Next Gnomonkey saves up for a Tormented bracelet at 17M, which adds +4 magic attack and 5% magic damage and brings DPS up about 3.5%."},
+        {"t": 782, "kind": "stat", "text": "Wizard boots are literally a 0.07% DPS increase at this point, so Gnomonkey mentions Eternal boots at 3.9M, which are only +5 magic attack over Mystic boots for about a 0.35% DPS increase."},
+        {"t": 879, "kind": "stat", "text": "Ancestral robes at 155M are an incredibly small DPS upgrade unless they give a max hit; getting a max hit is about a 3% DPS upgrade, and the full set at level 99 gives two max hits for about 6%."},
+        {"t": 879, "kind": "tip", "text": "Gnomonkey typically buys Ancestral in order of hat, top, then bottom, but it depends on the content, and the Chambers of Xeric have different configurations."},
+        {"t": 905, "kind": "opinion", "text": "Next Gnomonkey would buy an Arcane spirit shield at about 150M, which loses two prayer bonus but gives +20 magic attack and significant melee and ranged defence, and is about 0.6% better DPS than the Book of Darkness."},
+        {"t": 905, "kind": "opinion", "text": "Gnomonkey skips the other shields because they lose the +5 prayer of the Book of Darkness, he cannot think of situations needing melee defence while maging, and in the Chambers of Xeric you typically camp at the Tome of Fire."}
+      ]
+    },
+    {
+      "name": "Sanguinesti staff",
+      "kind": "item",
+      "claims": [
+        {"t": 814, "kind": "stat", "text": "The Sanguinesti staff costs about 125M, has the exact same stats as the Trident of the swamp, but its spell has one extra max hit."},
+        {"t": 814, "kind": "stat", "text": "The Sanguinesti staff has a 1 in 6 chance to heal you for 50% of the damage dealt with an attack, a passive that is incredibly good in the Chambers of Xeric and useful at the Dagannoth Kings."},
+        {"t": 846, "kind": "opinion", "text": "Gnomonkey says to skip the Sanguinesti staff or buy it last if you do not plan on raiding or doing Dagannoth Kings, since the Trident of the swamp is usually a better choice otherwise."}
+      ]
+    },
+    {
+      "name": "Harmonised nightmare staff",
+      "kind": "item",
+      "claims": [
+        {"t": 937, "kind": "stat", "text": "The Harmonised nightmare staff costs about 1.6 billion and allows casting regular spells a tick faster."},
+        {"t": 937, "kind": "opinion", "text": "Gnomonkey says the Harmonised nightmare staff is technically best in slot for magic in most places but loses the venom or healing of the Trident of the swamp or Sanguinesti staff, and says it is the absolute best option in solo raids after you have practised and no longer need Sanguinesti healing."},
+        {"t": 969, "kind": "opinion", "text": "Gnomonkey does not think the Harmonised nightmare staff is worth buying, believing you would make more money investing the 1.6 billion elsewhere than from its tiny DPS boost, and notes it cannot be used for bursting, which can be annoying."}
+      ]
+    },
+    {
+      "name": "Trident of the swamp",
+      "kind": "item",
+      "claims": [
+        {"t": 728, "kind": "stat", "text": "The Trident of the swamp costs about 4.1M and gives about a 15% DPS increase over a Trident of the seas, plus a chance to inflict venom."},
+        {"t": 846, "kind": "opinion", "text": "Gnomonkey says the Trident of the swamp is usually a better choice than the Sanguinesti staff except for raiding or Dagannoth Kings."}
+      ]
+    }
+  ]
+}

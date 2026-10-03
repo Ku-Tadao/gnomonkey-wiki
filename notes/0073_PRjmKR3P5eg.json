@@ -1,0 +1,507 @@
+{
+  "id": "PRjmKR3P5eg",
+  "title": "Nex Guide (MASS/TEAMS) Money Making OSRS",
+  "date": "2022-01-19",
+  "type": "guide",
+  "summary": "A launch-period guide to Nex, the new Zaros raid boss in the God Wars Dungeon, covering requirements, her five phases and special attacks, and separate setups and tactics for mass fights and small teams. Gnomonkey says rare drops alone are worth about 4.6m per kill and 6-minute 4-man kills put Nex well over 12m gp/hr at 10 kills per hour, warning the figure will fall.",
+  "outline": [
+    {
+      "t": 0,
+      "text": "Intro: Nex as the new God Wars raid boss, requirements and kill count"
+    },
+    {
+      "t": 95,
+      "text": "Disclaimer about unknown stats and best-in-slot gear"
+    },
+    {
+      "t": 162,
+      "text": "Overview of Nex's phases, minions and general mechanics"
+    },
+    {
+      "t": 321,
+      "text": "Smoke phase specials and Fumus"
+    },
+    {
+      "t": 438,
+      "text": "Shadow phase and Umbra"
+    },
+    {
+      "t": 496,
+      "text": "Blood phase, Blood Reavers and Kruor"
+    },
+    {
+      "t": 556,
+      "text": "Ice phase specials and Glacies"
+    },
+    {
+      "t": 681,
+      "text": "Zaros phase and loot distribution"
+    },
+    {
+      "t": 772,
+      "text": "Mass setups: Zaryte crossbow, budget options and melee"
+    },
+    {
+      "t": 905,
+      "text": "Mass tactics: virus tanks and the melee-switch routine"
+    },
+    {
+      "t": 1123,
+      "text": "Small team setup, instances and positioning"
+    },
+    {
+      "t": 1242,
+      "text": "Team tactics per phase, supplies"
+    },
+    {
+      "t": 1572,
+      "text": "Loot and rare drops"
+    },
+    {
+      "t": 1694,
+      "text": "Profit, the pet, and clan chat"
+    }
+  ],
+  "topics": [
+    {
+      "name": "Nex",
+      "kind": "boss",
+      "claims": [
+        {
+          "t": 0,
+          "kind": "event",
+          "text": "Nex is a brand new raid boss (as of January 2022) added to the God Wars Dungeon as the representative of Zaros; up to 60 players can fight her at once on a world, and group instances recently added allow any size of team as long as at least one member has the hard combat achievements completed."
+        },
+        {
+          "t": 0,
+          "kind": "requirement",
+          "text": "Access to Nex's dungeon requires the miniquest The Frozen Door, which needs Desert Treasure completed and a message delivered by an NPC, similar to Regicide's start."
+        },
+        {
+          "t": 30,
+          "kind": "requirement",
+          "text": "The Frozen Door requires feeding each God Wars dungeon boss for their key piece (or their minions for a 1 in 5 chance of the fragment instead), which effectively means 70 Hitpoints, Ranged, Strength and Agility to even reach Nex."
+        },
+        {
+          "t": 30,
+          "kind": "tip",
+          "text": "Gnomonkey says that for masses you can kill Nex with as little as 80 Ranged, while at smaller scales you want as high Ranged as possible, ideally in the 90s; a high Prayer level helps because more prayer points per restore dose lets you stay longer, high Agility avoids needing stamina potions, and high melee combat helps for hammer and Bandos godsword specs."
+        },
+        {
+          "t": 63,
+          "kind": "stat",
+          "text": "Nex has killcount like other God Wars bosses, with Ancient added to the God Wars killcount interface; the room outside Nex requires an ancient item to be equipped to avoid the aggro of the Ancient enemies."
+        },
+        {
+          "t": 63,
+          "kind": "stat",
+          "text": "After getting killcount you enter a lobby with a bank right before Nex, so you can gear as you please before the fight."
+        },
+        {
+          "t": 95,
+          "kind": "tip",
+          "text": "For Nex killcount Gnomonkey recommends killing spiritual mages, or Blood Reavers if you do not have the Spirit level, as each gives the most kill count."
+        },
+        {
+          "t": 95,
+          "kind": "trivia",
+          "text": "At launch Nex's stats could not be checked with Monster Examine; Gnomonkey says she must have 230 Magic through most of the fight since a twisted bow max hit is 70 without Zaryte vambraces and 72 with them, and her defence can be reduced and is not regained until the end of the fight."
+        },
+        {
+          "t": 128,
+          "kind": "stat",
+          "text": "Vulnerability cannot be recast on Nex after successfully landing; it can only be recast once the monster has full defence again."
+        },
+        {
+          "t": 128,
+          "kind": "opinion",
+          "text": "Based on crowdsourced OSRS Wiki defence data, Gnomonkey says the best-in-slot setup appears to be max melee Torva with the rapier, over 35% higher DPS than the Zaryte crossbow, and that the Dragon warhammer seems very ineffective (by an unknown amount)."
+        },
+        {
+          "t": 162,
+          "kind": "opinion",
+          "text": "Gnomonkey says masses currently seem to be worse money but are much easier to get into, and highly recommends the Nex Nostalgia plugin from the plugin hub, which gives her attacks the original voiceover."
+        },
+        {
+          "t": 162,
+          "kind": "stat",
+          "text": "Nex is Zaros' general with four phases tied to ancient spellbook spells: Smoke, Shadow, Blood and Ice, followed by a final fifth Zaros phase."
+        },
+        {
+          "t": 192,
+          "kind": "stat",
+          "text": "Each phase requires damaging Nex to a threshold and then killing the phase's minion to progress; in each phase Nex almost always starts with a special attack and then does five regular attacks before the next special, with attacks calculated when she fires them in all phases except Shadow, where it is when they hit you."
+        },
+        {
+          "t": 222,
+          "kind": "stat",
+          "text": "Nex's bodyguards can attack you when vulnerable with a max hit of 29, using accurate AoE ancient burst magic spells, but you are completely safe from them when praying Protect from Magic."
+        },
+        {
+          "t": 222,
+          "kind": "stat",
+          "text": "The minions have 200 Magic and the twisted bow is best against them; Fumus is weak to stab, Umbra to ranged, Kruor to slash and Glacies to crush, although the twisted bow is almost always the best option."
+        },
+        {
+          "t": 255,
+          "kind": "stat",
+          "text": "Nex swaps targets every three attacks and can at any point enter melee mode and chase her target; when swapping she picks the farthest player within range, or if everyone is equally far, the player with the lowest magic defence."
+        },
+        {
+          "t": 255,
+          "kind": "stat",
+          "text": "If Nex cannot attack her target she dashes to the centre of the room and switches target; if all players are within melee distance she will melee or use a major target attack with what seems like a 50-50 chance."
+        },
+        {
+          "t": 289,
+          "kind": "stat",
+          "text": "Nex's room has an altar like the other God Wars generals' that restores prayer every 10 minutes and teleports you outside the boss room next to the bank; if wearing an ancient item, it also restores special attack, run energy and health, and it can be used between kills."
+        },
+        {
+          "t": 289,
+          "kind": "stat",
+          "text": "If you die, items are kept in a chest in the lobby before the killcount room and in the room before Nex with the bank; reclaiming costs 100k, and you lose everything if you die before getting back there."
+        },
+        {
+          "t": 321,
+          "kind": "stat",
+          "text": "At the start of the fight Nex is powered by the smoke minion and cannot be damaged until the minion's projectile reaches her; this applies to all phase transitions, so do not spam click."
+        },
+        {
+          "t": 321,
+          "kind": "stat",
+          "text": "Smoke phase: Nex shouts \"Let the virus flow through you\" and infects one player; who is chosen depends on magic defence and proximity, the virus rapidly drains prayer points and your main attack style stat, spreads to players within one tile of the infected player, its timer resets on each spread, and it can last the whole kill; wearing a gas mask, face mask or slayer helmet shortens its duration."
+        },
+        {
+          "t": 380,
+          "kind": "stat",
+          "text": "Smoke phase: Nex's second special (which Gnomonkey calls the truck) has her face one of four corridors and shout \"No escape\", then charge down that corridor; it only catches you on the first check when she shouts, and once she charges you can run through her."
+        },
+        {
+          "t": 380,
+          "kind": "stat",
+          "text": "Smoke phase: Nex's passive special (which Gnomonkey calls choke) grabs random nearby players, drags them to her and toggles their protection prayers off, which is dangerous if combined with a melee hit and the minion at the same time."
+        },
+        {
+          "t": 411,
+          "kind": "stat",
+          "text": "When Nex is damaged to 2,720 HP, Fumus in the north-west corner becomes vulnerable and must be killed to progress; he can poison you with smoke spells."
+        },
+        {
+          "t": 438,
+          "kind": "stat",
+          "text": "Shadow phase (Nex shouts \"Darken my shadow\"): her ranged projectiles are proximity-based and can hit as low as zero if you are outside the 10-tile range of the twisted bow when they land and have Protect from Missiles up."
+        },
+        {
+          "t": 438,
+          "kind": "stat",
+          "text": "Shadow phase specials: \"Fear the shadow\" puts shadows under random players that hit for roughly 50 if you do not move out in time, and \"Embrace darkness\" darkens your screen the closer you are to Nex, dealing 10 to 20 rapidly if you stay close."
+        },
+        {
+          "t": 468,
+          "kind": "stat",
+          "text": "When Nex is at 2,040 HP, Umbra in the north-east corner becomes vulnerable; he lowers your attack level with shadow spells and is by far the most dangerous minion since you pray Protect from Missiles for Nex but his damage is magic."
+        },
+        {
+          "t": 496,
+          "kind": "stat",
+          "text": "Blood phase (\"Flood my lungs with blood\"): Nex uses a unique single-target AoE bloodburst attack, usually starts with \"Siphon will solve this\" (any damage heals her), and spawns Blood Reavers, the number scaling with players in the room."
+        },
+        {
+          "t": 496,
+          "kind": "stat",
+          "text": "Blood Reavers attack with magic and heal Nex for damage they would have dealt; they move at half a tile per tick so can be avoided by leaving their range, and if not killed by the next set they die and heal Nex for their remaining HP."
+        },
+        {
+          "t": 523,
+          "kind": "stat",
+          "text": "Blood phase special: \"I demand a blood sacrifice\" turns a random (usually nearby) player red; if they do not get at least 7 tiles away from Nex she hits them for about 30 and nearby players for damage in the tens, healing for the damage dealt."
+        },
+        {
+          "t": 523,
+          "kind": "stat",
+          "text": "At 1,360 HP Kruor in the south-east corner becomes vulnerable; he attacks with Bloodburst and heals for the damage he would have dealt, and Nex keeps using specials and can heal significantly while you attack Kruor."
+        },
+        {
+          "t": 556,
+          "kind": "stat",
+          "text": "Ice phase (\"Infuse me with the power of ice\"): all of Nex's auto attacks drain significant prayer and can freeze you if you get smited."
+        },
+        {
+          "t": 556,
+          "kind": "stat",
+          "text": "Ice phase special \"Contain this\" shoots icicles in a square around Nex; anyone under her or in the icicles has protection prayers toggled off and is hit for around 50, but prayer can be turned back on immediately and you can quickly die if you forget."
+        },
+        {
+          "t": 589,
+          "kind": "stat",
+          "text": "Ice phase special \"Die now\" traps a random player in range in a square of icicles, toggling their protection prayer off and stunning them; unless another player breaks an outer icicle with a crush weapon they are hit for 80, which Gnomonkey calls her most dangerous special and nearly always fatal if you are far from the group."
+        },
+        {
+          "t": 616,
+          "kind": "tip",
+          "text": "Breaking an icicle can fail if your weapon's crush bonus is too low (even a godsword on crush is not guaranteed; Gnomonkey has never failed with a Dragon warhammer), but you can spam click to retry every tick, even unarmed combat counts as crush, and the freed player is 100% safe and can attack immediately."
+        },
+        {
+          "t": 649,
+          "kind": "stat",
+          "text": "At 680 HP Glacies in the south-west becomes vulnerable; he uses Ice Burst and can freeze you through protection prayers, and standing under Nex is dangerous because Contain This can freeze you underneath her unavoidably."
+        },
+        {
+          "t": 649,
+          "kind": "stat",
+          "text": "Final phase (\"Now the power of Zaros\"): Nex instantly heals 500 HP, activates Turmoil and Soul Split, no longer uses special attacks, and her max hits ramp up dramatically; Soul Split heals her for damage dealt to everyone, and Turmoil makes her melee nastier and drains the target's stats."
+        },
+        {
+          "t": 707,
+          "kind": "stat",
+          "text": "In the final phase, every four attacks Nex changes prayer, starting with Soul Split, then Deflect Melee (like Protect from Melee but reflecting damage), then no prayer, repeating; her defence seems to rise the more melee she lands."
+        },
+        {
+          "t": 707,
+          "kind": "stat",
+          "text": "If many players melee in the final phase, the twisted bow's max hit can rise up to 75 with Zaryte vambraces."
+        },
+        {
+          "t": 738,
+          "kind": "tip",
+          "text": "In the final phase, Gnomonkey says it is ideal for the team to enter melee range because her magic attacks hit incredibly hard even through prayer while melee only hits the targeted player; pray melee if she targets you and magic otherwise, since melee seems more common; in masses people spam \"MD\" (melee distance) or \"DD\" (death dot) for this reason."
+        },
+        {
+          "t": 738,
+          "kind": "stat",
+          "text": "When Nex is killed, loot is spread based on damage dealt with the MVP of the kill getting 10% extra loot; she often drops supplies such as brews, restores, sharks and prayer potions, which extend the trip dramatically."
+        },
+        {
+          "t": 772,
+          "kind": "stat",
+          "text": "Rare drops are 1 out of 53 from any given Nex kill, and the regular drops are also good, especially onyx bolts, which can be a lot of money."
+        },
+        {
+          "t": 1636,
+          "kind": "stat",
+          "text": "In January 2022, a Nex kill taking only the rares into account is worth about 4.6m, and regular loot is solid with dragon and onyx bolt drops and blood essences; with 6-minute 4-man kills at 10 kills per hour, Nex is well over 12m gp/hr, which Gnomonkey says will definitely go down in the future."
+        },
+        {
+          "t": 1636,
+          "kind": "tip",
+          "text": "To estimate gp/hr, take your kills per hour and team size and roughly guesstimate based on that; Gnomonkey also links a Nex gp/hr spreadsheet in the description."
+        }
+      ]
+    },
+    {
+      "name": "Nex/Strategies",
+      "kind": "mechanic",
+      "claims": [
+        {
+          "t": 800,
+          "kind": "method",
+          "text": "For masses, Gnomonkey says the best brain-dead method is a Zaryte crossbow with a Twisted buckler or Spectral spirit shield, which is 5-9% better DPS than the twisted bow, has a chance to snipe MVP occasionally with ruby procs, and doubles as the best special attack option."
+        },
+        {
+          "t": 800,
+          "kind": "stat",
+          "text": "The Zaryte crossbow special guarantees a bolt proc if the attack lands at the cost of 75% special attack."
+        },
+        {
+          "t": 800,
+          "kind": "tip",
+          "text": "As a budget mass option, an Armadyl crossbow beats the twisted bow by about 2% and the Dragon crossbow by 1%; in large masses of 15 or more, Gnomonkey thinks the crossbow is the best shot at getting MVP."
+        },
+        {
+          "t": 826,
+          "kind": "method",
+          "text": "In smaller masses (around 10 people) Gnomonkey uses the same setup as for very low scale: a rapier, Torva helmet, Ferocious gloves, Berserker ring and a blood fury; he says the Torva helmet gives a max hit over a Neitiznot faceguard even if you only have a fire cape."
+        },
+        {
+          "t": 853,
+          "kind": "stat",
+          "text": "Gnomonkey says the melee-and-twisted-bow switching setup beats the Zaryte crossbow with buckler by roughly 27%, while full Torva with an amulet of torture and a six-way ranged switch to Armadyl raises the twisted bow max hit from 52 to 55 and beats the Zaryte crossbow by just under 37%."
+        },
+        {
+          "t": 853,
+          "kind": "tip",
+          "text": "Torva helmet is a Zaros item, so you cannot forget to switch it for the ultimate Zaros phase; with no one else meleeing in a small mass this setup nearly guarantees MVP on every kill, but it breaks down in large masses because Nex dies too quickly and Zaryte crossbows take MVP often because of bolt procs."
+        },
+        {
+          "t": 908,
+          "kind": "opinion",
+          "text": "Gnomonkey says the name of the game in masses is dealing the most damage possible to secure MVP and thus the best chance at the rare drop, and he is certain damage on the minions counts for MVP, likely damage on Blood Reavers too."
+        },
+        {
+          "t": 908,
+          "kind": "tip",
+          "text": "In masses, look for a world with a virus tank or a low enough population to avoid the virus; otherwise everyone ends up infected (\"cough kills\"); virus tanks stand diagonally from a minion and strip their armour or wear melee armour so they are guaranteed the virus, quarantining it."
+        },
+        {
+          "t": 935,
+          "kind": "method",
+          "text": "With the Zaryte crossbow setup in a mass there is little to it: shoot Nex, shoot minions, drop specs on Nex when you have them, and repeat until dead."
+        },
+        {
+          "t": 942,
+          "kind": "method",
+          "text": "Melee-switch routine: start next to Nex, drop two brews under her centre for later, drop one claw spec when the projectile hits to start special attack regenerating, rapier her until about 2,800 HP, then run to Fumus swapping into the twisted bow and removing your helmet (the Torva helmet is negative ranged)."
+        },
+        {
+          "t": 971,
+          "kind": "method",
+          "text": "After Fumus, stay in ranged for the Shadow phase (she starts with a special, not a ranged attack), work towards Umbra while far from Nex, and shoot Umbra with the twisted bow once Nex is low enough; avoid standing on the player Umbra is attacking, then return and send a bow shot while running before switching back to melee."
+        },
+        {
+          "t": 1001,
+          "kind": "method",
+          "text": "In the Blood phase, melee a Reaver or two (claws are solid on Reavers and the rapier slightly beats the twisted bow on them); if she did five siphons, count five attacks and flinch next to Nex to avoid blood sacrifice, and if blood sacrificed, run six tiles away, switch to the twisted bow, send a shot and run back."
+        },
+        {
+          "t": 1028,
+          "kind": "method",
+          "text": "Near 1,400 HP, switch to the twisted bow and send Nex a shot while running to Kruor; with claw specs left, dump them on Kruor (weak to slash), then bow him. For the Ice phase, if she starts with Contain This stab once with the rapier, send two bow shots in the 5 ticks before icicles, and return; near 700 HP switch to the bow and run towards Glacies, avoiding the player he is on."
+        },
+        {
+          "t": 1090,
+          "kind": "tip",
+          "text": "In the final phase, count four attacks; after her first four she prays Deflect Melee, so on the swing before she switches swap to a bow and send three shots, then return to melee; do not let health drop below 30 as she can insta-kill you in melee, and attacking into Deflect Melee wastes DPS and reflects half the damage back."
+        },
+        {
+          "t": 1123,
+          "kind": "method",
+          "text": "For small groups (10 or fewer players you communicate with, six being a sweet spot), Gnomonkey uses the same setup with varying numbers of super combats and ranging potions; in a 4-man he drops one super combat, and blood fury helps with supplies because it uses significantly less brew than full melee armour."
+        },
+        {
+          "t": 1123,
+          "kind": "opinion",
+          "text": "Gnomonkey says one person on the team bringing a hammer is probably worth it, and that the Zaryte crossbow is a better spec DPS on Nex but requires a bolt switch, while the twisted bow is too good to leave behind because of its minion damage."
+        },
+        {
+          "t": 1151,
+          "kind": "method",
+          "text": "Before entering the gate, pre-pot Divine super ranging, shark and angler, antidote and stamina; to start a private fight the instance owner (who needs the hard combat achievements) pays for the instance, then others right-click the door, choose enter private and type the leader's username."
+        },
+        {
+          "t": 1181,
+          "kind": "trivia",
+          "text": "The instance cost is pulled from Death's Coffer first, so players who hoarded blood essence when Nex came out benefit."
+        },
+        {
+          "t": 1181,
+          "kind": "method",
+          "text": "In small-scale fights the team takes a hexagonal position around Nex to guarantee no spread of the virus, using all six tiles; it is likely worth getting a single hammer spec on Nex (multiple hammers made no difference in Gnomonkey's testing), and everyone else should drop a single claw spec to start the meter regenerating."
+        },
+        {
+          "t": 1212,
+          "kind": "method",
+          "text": "Small team Smoke phase: count Nex's attacks; after 5 autos she trucks, so be ready to click perpendicular to your position; start moving to Fumus when Nex is under 2,800 HP, sending a twisted bow shot as you run, and do not group up because another virus attack comes shortly."
+        },
+        {
+          "t": 1242,
+          "kind": "method",
+          "text": "Small team Shadow phase: lure Nex far from Umbra using a \"babysitter\" who keeps her aggro; never go near Umbra early because Nex can dash there; at 2,040 HP the first player into Umbra's range takes his aggro, prays Magic and runs next to him, while others tuck close to Umbra, and the babysitter pulls Nex as far away as possible."
+        },
+        {
+          "t": 1295,
+          "kind": "tip",
+          "text": "If Nex is dragged next to the Umbra tank, they should pray ranged and immediately run to safety; flicking magic and range is very dangerous as the projectiles are on different tick cycles, and the babysitter can pull Nex closer once Umbra is almost dead."
+        },
+        {
+          "t": 1327,
+          "kind": "method",
+          "text": "Small team Blood phase: avoid insta-shooting Nex until you see the special, hit each Reaver once (with a claw spec if available), then return to Nex, and elect a janitor to clean up leftover Reavers; do not stack, since her AoE attacks heal her, and count attacks after a blood sacrifice so you move away before the fifth attack."
+        },
+        {
+          "t": 1358,
+          "kind": "tip",
+          "text": "Blood phase is single target, so it is one of the few phases where you can trade supplies or hit the altar; if Kruor can be killed before Nex's next siphon, kill Kruor instead of the Reavers since they die without healing Nex."
+        },
+        {
+          "t": 1422,
+          "kind": "method",
+          "text": "Small team Ice phase: stay relatively close to each other so someone in an ice prison can be freed; on Contain This hit once more with the rapier, back off, send two twisted bow shots and return; if trapped, put prayer back on immediately because attacks are calculated when fired, and spam click Nex so you attack on release; avoid Glacies' target and stay out from under Nex at 680 HP."
+        },
+        {
+          "t": 1488,
+          "kind": "method",
+          "text": "Small team final phase: wait until Nex lowers her hands to attack, rapier as much as possible and pray melee if she targets you; she is much tankier in this phase; count four attacks and switch to ranged after the fourth since she then puts up Deflect Melee, do three twisted bow shots, then switch back."
+        },
+        {
+          "t": 1516,
+          "kind": "stat",
+          "text": "In small groups Nex gives a lot more loot, usually double to quadruple what she drops in masses, with 4 to 6 minute kills, which Gnomonkey says is more efficient than a 30-man team getting 2-minute kills but needs more effort and coordination."
+        },
+        {
+          "t": 1544,
+          "kind": "tip",
+          "text": "Between kills hit the altar for full stat restoration; Gnomonkey figures each player needs at least four brews (or equivalent in sharks) and four restores for another kill, and teams should communicate and trade supplies; longer trips give more killcount and faster return to the next trip."
+        }
+      ]
+    },
+    {
+      "name": "Nex drops",
+      "kind": "item",
+      "claims": [
+        {
+          "t": 1572,
+          "kind": "stat",
+          "text": "Nex's most common unique drop is Zaryte vambraces, a straight upgrade to Barrows gloves with 2 Ranged strength and 18 Ranged attack (versus 12 for Barrows gloves), giving a handy prayer bonus; they were worth about 130m in January 2022."
+        },
+        {
+          "t": 1572,
+          "kind": "stat",
+          "text": "Nex can drop any piece of Torva armour (helm, platebody or platelegs), all with the same drop rate, a straight upgrade to Bandos armour with a total of +6 strength bonus, better defensive bonuses and slight melee accuracy bonuses; pieces were worth 200 to 400m in January 2022."
+        },
+        {
+          "t": 1599,
+          "kind": "stat",
+          "text": "Torva armour drops in a broken state and must be permanently repaired with broken-down Bandos chestplates or tassets at the forge outside Nex; one Bandos chestplate and tassets repair a whole Torva set."
+        },
+        {
+          "t": 1599,
+          "kind": "stat",
+          "text": "Nex can drop the Nihil horn, which combined with an Armadyl crossbow makes the Zaryte crossbow, with a passive that makes bolt procs 10% more effective (ruby bolts proc 110 instead of 100) and a special that guarantees a bolt proc for 75% special energy; the horn had dropped to 360m."
+        },
+        {
+          "t": 1628,
+          "kind": "stat",
+          "text": "Nex's rarest drop, in line with the other God Wars bosses, is the Ancient hilt, which makes the Ancient godsword; the hilt was worth about 60m."
+        },
+        {
+          "t": 1628,
+          "kind": "stat",
+          "text": "The Ancient godsword's special uses 50% special energy with doubled accuracy and a 10% higher max hit; the target turns red and has 8 ticks to move at least 5 tiles or be hit for 25 (12 if protecting from magic) while the user heals the same amount, which Gnomonkey says is really only a PvP weapon."
+        }
+      ]
+    },
+    {
+      "name": "Nexling",
+      "kind": "item",
+      "claims": [
+        {
+          "t": 1724,
+          "kind": "opinion",
+          "text": "Gnomonkey considers the Nex pet one of the coolest pets in the game and his most desired pet at the time, and notes it is currently the only pet capable of running."
+        },
+        {
+          "t": 1724,
+          "kind": "stat",
+          "text": "The OSRS Wiki lists the Nex pet at roughly 1 in 500 per kill; Gnomonkey says nobody knows how the game selects who receives the pet drop and guesses it is faster to grind in lower scales than masses."
+        }
+      ]
+    },
+    {
+      "name": "Gnomonkey",
+      "kind": "person",
+      "claims": [
+        {
+          "t": 1757,
+          "kind": "event",
+          "text": "Gnomonkey says he will not leave Nex until he has the pet and a substantial amount of cash."
+        },
+        {
+          "t": 1757,
+          "kind": "event",
+          "text": "Gnomonkey runs the clan chat \"Gnomonkey\" (open to guests with no requirements, ask for an invite) and in January 2022 was looking for more experienced Nex players to do small-scale fights with."
+        }
+      ]
+    }
+  ]
+}

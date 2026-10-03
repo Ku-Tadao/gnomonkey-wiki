@@ -1,0 +1,223 @@
+{
+  "id": "w7POGb4jwco",
+  "title": "11 OP Runelite Plugins!",
+  "date": "2019-04-14",
+  "type": "guide",
+  "summary": "Gnomonkey counts down 11 RuneLite plugins he considers the most useful, in no particular order, explaining how he uses each. Plugins covered include Ground Items, GPU, Bank Tag Tabs, Shift-Click Configuration, Tile Indicator, Clue Scroll Solver, Loot Tracker, World Hopper and Timers.",
+  "outline": [
+    {
+      "t": 0,
+      "text": "Intro and Ground Items plugin"
+    },
+    {
+      "t": 31,
+      "text": "GPU plugin"
+    },
+    {
+      "t": 64,
+      "text": "Bank Tag Tabs"
+    },
+    {
+      "t": 90,
+      "text": "Shift-Click Configuration and Shift Anti-Drag"
+    },
+    {
+      "t": 123,
+      "text": "Zoom Unlimiter"
+    },
+    {
+      "t": 134,
+      "text": "Tile Indicator"
+    },
+    {
+      "t": 146,
+      "text": "Clue Scroll Solver"
+    },
+    {
+      "t": 173,
+      "text": "NPC Tagging"
+    },
+    {
+      "t": 194,
+      "text": "Loot Tracker and RuneLite web tracker"
+    },
+    {
+      "t": 212,
+      "text": "World Hopper"
+    },
+    {
+      "t": 236,
+      "text": "Timers"
+    }
+  ],
+  "topics": [
+    {
+      "name": "RuneLite",
+      "kind": "other",
+      "claims": [
+        {
+          "t": 0,
+          "kind": "opinion",
+          "text": "Gnomonkey says the 11 plugins he covers are the ones that make a player wish they were at home on a PC rather than playing mobile, and they are listed in no particular order."
+        },
+        {
+          "t": 0,
+          "kind": "opinion",
+          "text": "Gnomonkey calls the Ground Items plugin his favorite plugin and practically necessary; it displays text above monster drops with the item's name and monetary value, with customizable colors and different colors for higher value items."
+        },
+        {
+          "t": 31,
+          "kind": "opinion",
+          "text": "Gnomonkey says Ground Items is by far the most useful general-use plugin and that he would like it added to mobile and the desktop client."
+        },
+        {
+          "t": 31,
+          "kind": "opinion",
+          "text": "Gnomonkey calls the GPU plugin one of the more technically impressive plugins, released out of nowhere; it moves the rendering load from the processor to the graphics card."
+        },
+        {
+          "t": 31,
+          "kind": "tip",
+          "text": "The GPU plugin allows better graphical options such as increased render distance, anti-aliasing and a colored skybox that cuts off with fog; with the animation smoothing plugin Gnomonkey says the game looks closer to RuneScape 2 than Old School."
+        },
+        {
+          "t": 123,
+          "kind": "tip",
+          "text": "The Zoom Unlimiter plugin zooms the camera further out; combined with the GPU plugin's increased render distance it brings an incredible amount of utility according to Gnomonkey."
+        },
+        {
+          "t": 146,
+          "kind": "opinion",
+          "text": "Gnomonkey notes the Clue Scroll Solver is one of the more controversial plugins because it solves clue scrolls when the step is opened, which he says is not much different from googling each clue step."
+        },
+        {
+          "t": 146,
+          "kind": "stat",
+          "text": "The Clue Scroll Solver is capable of solving every type of clue scroll, including puzzle boxes, light boxes and hot-cold steps."
+        }
+      ]
+    },
+    {
+      "name": "Bank tags",
+      "kind": "other",
+      "claims": [
+        {
+          "t": 64,
+          "kind": "tip",
+          "text": "Bank Tag Tabs are a secondary set of bank tabs that consolidate items from across tabs into one tab on the left side of the bank, and unlike regular tabs they are not limited in number."
+        },
+        {
+          "t": 64,
+          "kind": "tip",
+          "text": "Gnomonkey uses a tag tab for farm runs and several tag tabs for different Slayer tasks, and calls the plugin extremely useful."
+        }
+      ]
+    },
+    {
+      "name": "Shift-click configuration",
+      "kind": "other",
+      "claims": [
+        {
+          "t": 90,
+          "kind": "tip",
+          "text": "The Shift-Click Configuration plugin changes what shift-clicking items in the inventory does, and the Shift Anti-Drag plugin prevents items from being dragged around the inventory while shift is held."
+        },
+        {
+          "t": 90,
+          "kind": "tip",
+          "text": "Gnomonkey's example is chiseling dense essence blocks: setting both the chisel and the block's shift-click option to Use lets him rapidly chisel the entire inventory without the items swapping places."
+        },
+        {
+          "t": 90,
+          "kind": "opinion",
+          "text": "Gnomonkey says the plugin combination is incredibly powerful, only limited by creativity, and has uses in PvP, PvM and skilling."
+        }
+      ]
+    },
+    {
+      "name": "Tile indicator",
+      "kind": "other",
+      "claims": [
+        {
+          "t": 134,
+          "kind": "tip",
+          "text": "The Tile Indicator plugin lets a player mark a tile with a uniquely colored box by holding Shift and right-clicking it."
+        },
+        {
+          "t": 134,
+          "kind": "opinion",
+          "text": "Gnomonkey calls the tile indicator practically necessary for most high-level bosses and the Inferno, and useful in all aspects of the game."
+        }
+      ]
+    },
+    {
+      "name": "NPC tagging",
+      "kind": "other",
+      "claims": [
+        {
+          "t": 146,
+          "kind": "tip",
+          "text": "The NPC Tagging plugin allows the player to highlight any NPC in the game."
+        },
+        {
+          "t": 173,
+          "kind": "tip",
+          "text": "Gnomonkey highlights bankers and every farmer one can pay to protect crops, and uses it to highlight boss minions such as the zombified spawn at Vorkath or flower buds at Hespori."
+        }
+      ]
+    },
+    {
+      "name": "Loot tracker",
+      "kind": "other",
+      "claims": [
+        {
+          "t": 173,
+          "kind": "tip",
+          "text": "The Loot Tracker plugin displays all loot received from any monster killed with the total Grand Exchange value, which is useful for working out profit from any monster."
+        },
+        {
+          "t": 194,
+          "kind": "tip",
+          "text": "As of April 2019 RuneLite also tracks loot on its web tracker at RuneLite.net, and Gnomonkey advises making an account and logging in to keep loot and Grand Exchange history permanently."
+        }
+      ]
+    },
+    {
+      "name": "World hopper",
+      "kind": "other",
+      "claims": [
+        {
+          "t": 194,
+          "kind": "tip",
+          "text": "RuneLite's World Hopper shows everything the default world switcher does plus the ping of each world, and adds a hotkey to hop worlds instantly, which by default is Ctrl+Shift with right or left arrow."
+        },
+        {
+          "t": 212,
+          "kind": "tip",
+          "text": "Unlike hoppers in other clients, RuneLite's world hopper will not put the player in dangerous worlds or disconnect them if used in combat, according to Gnomonkey."
+        }
+      ]
+    },
+    {
+      "name": "Timers",
+      "kind": "other",
+      "claims": [
+        {
+          "t": 236,
+          "kind": "tip",
+          "text": "The Timers plugin tracks things in the game that need real-world time to progress, such as crops and birdhouses, and can add custom timers or stopwatches."
+        },
+        {
+          "t": 236,
+          "kind": "tip",
+          "text": "The timers plugin can display an exact number of minutes or hours until a patch finishes growing, or tell the player the day and time a crop will be finished."
+        },
+        {
+          "t": 236,
+          "kind": "opinion",
+          "text": "Gnomonkey says the timers plugin is why the list has 11 entries because he could not leave it out, and calls it practically necessary for training Farming or doing birdhouse runs."
+        }
+      ]
+    }
+  ]
+}

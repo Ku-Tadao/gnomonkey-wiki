@@ -1,0 +1,143 @@
+{
+  "id": "P6wtb6I163o",
+  "title": "Dust Devil Slayer Guide (70k slayer xp/hr and 160k magic xp/hr)",
+  "date": "2020-04-11",
+  "type": "guide",
+  "summary": "A guide to bursting and barraging dust devils in the Catacombs of Kourend for about 70k Slayer XP and 160k Magic XP an hour. Gnomonkey covers requirements, gear, inventory, travel, the stacking method, using an alt account, and the results of a 230-devil task.",
+  "outline": [
+    {
+      "t": 0,
+      "text": "Introduction and benefits"
+    },
+    {
+      "t": 33,
+      "text": "Requirements"
+    },
+    {
+      "t": 54,
+      "text": "Gear setup: weapon, armor and accessories"
+    },
+    {
+      "t": 142,
+      "text": "Inventory and supplies"
+    },
+    {
+      "t": 213,
+      "text": "Location and killing method"
+    },
+    {
+      "t": 264,
+      "text": "Results and conclusion"
+    }
+  ],
+  "topics": [
+    {
+      "name": "Dust devil",
+      "kind": "boss",
+      "claims": [
+        {
+          "t": 0,
+          "kind": "opinion",
+          "text": "Gnomonkey says dust devils, like most burst tasks, are one of the best tasks for Slayer and Magic XP, and highly recommends buying the extension for 100 points as it nearly doubles the amount per task."
+        },
+        {
+          "t": 0,
+          "kind": "stat",
+          "text": "With decent magic gear and Ice Barrage dust devils can provide 70k Slayer XP an hour and 160k Magic XP an hour; a 25 minute task gave 650k GP in loot and two totem pieces, around 1.5 mil GP an hour, which can easily make up for barrage runes."
+        },
+        {
+          "t": 33,
+          "kind": "requirement",
+          "text": "Dust devils require 65 Slayer to attack; to burst them the player needs the Desert Treasure quest completed and 70 Magic for Ice Burst, with 94 Magic for Ice Barrage recommended for about 25% faster kills; at least 43 Prayer is needed for Protect from Melee."
+        },
+        {
+          "t": 61,
+          "kind": "stat",
+          "text": "Dust devils only have level 1 Magic and so basically no magic defence, allowing armor such as proselyte while still bursting effectively."
+        },
+        {
+          "t": 213,
+          "kind": "method",
+          "text": "The dust devils are in the southeastern section of the Catacombs of Kourend, and the southern room is a much better option for bursting than the northern one."
+        },
+        {
+          "t": 213,
+          "kind": "method",
+          "text": "Equip iron darts, tag all the dust devils in the room, then repeatedly click back and forth in a corner until they are in a stack, then burst or barrage."
+        },
+        {
+          "t": 264,
+          "kind": "stat",
+          "text": "A task of 230 dust devils took 25 minutes and gave 650k GP and loot, two totem pieces, 30k Slayer XP and 70k Magic XP."
+        },
+        {
+          "t": 264,
+          "kind": "opinion",
+          "text": "Gnomonkey says the task is incredibly worth doing every single time one is assigned."
+        }
+      ]
+    },
+    {
+      "name": "Dust devil bursting gear",
+      "kind": "other",
+      "claims": [
+        {
+          "t": 54,
+          "kind": "tip",
+          "text": "For burst tasks only magic damage and prayer bonus matter gear-wise, and the weapon should autocast ancient spells: an ancient staff, master wand, Kodai wand or Nightmare staff."
+        },
+        {
+          "t": 61,
+          "kind": "tip",
+          "text": "Gnomonkey brings a Kodai wand but notes it is very expensive; an orbless Nightmare staff is a decent alternative with slightly worse attack and defence bonuses but the same damage bonus, costing 53 mil at the time."
+        },
+        {
+          "t": 90,
+          "kind": "tip",
+          "text": "In this video Gnomonkey states the ancient staff reduces prayer bonus by one, so he would try to bring a master wand at the very least."
+        },
+        {
+          "t": 90,
+          "kind": "tip",
+          "text": "Ancestral robes give a massive magic damage bonus; otherwise wear the best prayer-boosting armor. An occult necklace gives a 10% damage bonus for around 800k and an imbued god cape gives 2%."
+        },
+        {
+          "t": 119,
+          "kind": "tip",
+          "text": "A Book of Darkness gives +5 prayer bonus, and Gnomonkey would bring it even over an arcane spirit shield since defence does not matter; also a tormented bracelet (5% damage) or Barrows gloves, devout boots for +5 prayer bonus, and Rada's blessing 4 as the best blessing."
+        }
+      ]
+    },
+    {
+      "name": "Dust devil inventory and travel",
+      "kind": "mechanic",
+      "claims": [
+        {
+          "t": 142,
+          "kind": "tip",
+          "text": "Inventory: iron darts to tag the devils, a Dinh's bulwark can help with tagging though its weight can be a problem, a Saradomin godsword for special attacks, a desert amulet 4 for restocking (house tabs or rings of dueling also work), Karamja gloves to get a new task from Duradel, and runes to cast Ice Barrage."
+        },
+        {
+          "t": 160,
+          "kind": "tip",
+          "text": "Unlike Nechryael, dust devils drop bones, so Gnomonkey says it is worth bringing a bone crusher since each bone buried also gives a prayer point in the catacombs; a holy wrench and a gem and herb sack also help."
+        },
+        {
+          "t": 183,
+          "kind": "tip",
+          "text": "Gnomonkey notes his inventory had problems: he ended the task without using a prayer potion (barraging with good prayer bonus and a godsword means almost none are needed), and he ran out of run energy, so he recommends a couple of stamina potions or an explorer's ring."
+        },
+        {
+          "t": 197,
+          "kind": "tip",
+          "text": "To get there, use the Xeric's heart teleport on a Xeric's talisman; if not unlocked, use Kharedst's memoirs to teleport to Arceuus and run south."
+        },
+        {
+          "t": 245,
+          "kind": "tip",
+          "text": "An alt account makes the method much easier, as even a level 3 account can pick up drops and one with high alchemy prevents banking the whole task; without an alt, Gnomonkey recommends an Explorer's ring to alch the drops, which are less valuable than Nechryael's but still a sizable chunk of GP."
+        }
+      ]
+    }
+  ]
+}

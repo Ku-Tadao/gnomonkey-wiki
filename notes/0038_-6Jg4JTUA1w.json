@@ -1,0 +1,61 @@
+{
+  "id": "-6Jg4JTUA1w",
+  "title": "Rogue's Outfit Guide (SAVE 7.5M GP) OSRS 2020",
+  "date": "2020-05-23",
+  "type": "guide",
+  "summary": "A guide to getting the Rogue's outfit from the Rogues' Den maze. Gnomonkey recommends getting it immediately at level 50 Thieving because it doubles pickpocket loot, saving about 7.5 million gp if pickpocketing Ardougne Knights to 99. He walks through both the long route and the 80 Thieving short route.",
+  "outline": [
+    {"t": 0, "text": "Why get the Rogue's outfit"},
+    {"t": 38, "text": "Entering the Rogues' Den"},
+    {"t": 78, "text": "Maze mechanics and rewards"},
+    {"t": 126, "text": "Navigating the long route"},
+    {"t": 322, "text": "Completing the long route"},
+    {"t": 484, "text": "The short route shortcut"},
+    {"t": 625, "text": "When to skip the outfit"}
+  ],
+  "topics": [
+    {
+      "name": "Rogue's outfit",
+      "kind": "item",
+      "claims": [
+        {"t": 0, "kind": "opinion", "text": "Gnomonkey recommends getting the Rogue's outfit immediately after reaching level 50 Thieving."},
+        {"t": 0, "kind": "stat", "text": "The Rogue's outfit doubles all loot from pickpocketing; for example an enhanced crystal teleport seed from an elf becomes two seeds."},
+        {"t": 0, "kind": "stat", "text": "When stealing coins with the Rogue's outfit you do not get two coin pouches but the equivalent in loose coins on top of the coin pouch."},
+        {"t": 0, "kind": "stat", "text": "Gnomonkey says getting the Rogue's outfit earns an extra 7.5 million gp in total if you pickpocket Ardougne Knights to 99 Thieving."},
+        {"t": 31, "kind": "requirement", "text": "The Rogue's outfit is required for the elf thieving money-maker, which Gnomonkey calls the highest gp-earning skilling method in the game."},
+        {"t": 31, "kind": "requirement", "text": "The Rogue's outfit is obtained from the Rogues' Den maze, which requires 50 Agility and 50 Thieving."},
+        {"t": 108, "kind": "method", "text": "At the end of the maze are wall safes, and cracking any one has a chance to give a Rogue's equipment crate, which lets you choose a Rogue's outfit piece; there are five pieces."},
+        {"t": 108, "kind": "tip", "text": "Gnomonkey says not to choose a rogue kit from the crate, as it can only be turned into a rope, chisel, tinderbox or spade."},
+        {"t": 122, "kind": "stat", "text": "Safe cracking seems to have about a 50% failure chance that does not seem affected by level; Gnomonkey failed twice with over 90 Agility and 99 Thieving, which sends you back to the start with no reward."},
+        {"t": 122, "kind": "stat", "text": "The maze takes about four minutes by the long route, so you can expect to get the outfit in a little under an hour."},
+        {"t": 625, "kind": "opinion", "text": "Gnomonkey says the only reason not to get the Rogue's outfit is if you are not pickpocketing to 99, since it does nothing at places like the Pyramid Plunder or Sorceress's Garden; otherwise get it at level 50 Thieving."}
+      ]
+    },
+    {
+      "name": "Rogues' Den",
+      "kind": "activity",
+      "claims": [
+        {"t": 31, "kind": "method", "text": "The Rogues' Den is located under the bar in Burthorpe, and can be accessed quickly with a games necklace."},
+        {"t": 31, "kind": "tip", "text": "You cannot bring anything into the Rogues' Den maze, but a stamina potion effect carries over, so Gnomonkey recommends drinking a one-dose potion before entering."},
+        {"t": 59, "kind": "method", "text": "Gnomonkey enters the maze by talking to Brian O'Richard outside the gate, since agility is drained throughout the maze."},
+        {"t": 59, "kind": "tip", "text": "Gnomonkey recommends enabling the Rogues' Den, Ground Markers and Object Markers RuneLite plugins; the Rogues' Den plugin highlights all traps and the markers let you shift-click tiles or objects you need to stand on or move to."},
+        {"t": 89, "kind": "stat", "text": "Disarming a thieving trap in the maze reduces your Thieving level and passing an agility obstacle reduces Agility; if either hits zero you are booted out, and triggering a single trap also boots you to the start."},
+        {"t": 89, "kind": "tip", "text": "In the Rogues' Den maze you can run over a maximum of three traps if you start from the tile before them, which Gnomonkey says to use liberally."},
+        {"t": 154, "kind": "method", "text": "The maze has a long route and a short route; the short route takes a shortcut requiring 80 Thieving that skips half the maze."},
+        {"t": 154, "kind": "opinion", "text": "Gnomonkey does not recommend waiting until 80 Thieving to use the shortcut because you would have wasted a lot of gp reaching that level, but says to use it if you already have 80."},
+        {"t": 186, "kind": "tip", "text": "In the maze pendulums are no threat if you walk in front of them, ledges cannot be failed, and saw blades must be clicked on top of or the character paths around them and gets hit."},
+        {"t": 451, "kind": "method", "text": "Near the end of the long route the player must pick up the flash powder on the right, use it on the guard, and run past while he is stunned, then pass two pendulums to the wall safes."},
+        {"t": 451, "kind": "tip", "text": "All wall safes in the maze are the same, so Gnomonkey cracks whichever is closest."},
+        {"t": 540, "kind": "method", "text": "The short route begins the same as the long route, then diverges at a door which is lockpicked, and ends with the flash powder, guard, two pendulums and the safes."}
+      ]
+    },
+    {
+      "name": "Thieving",
+      "kind": "skill",
+      "claims": [
+        {"t": 0, "kind": "opinion", "text": "Gnomonkey recommends getting the Rogue's outfit immediately at 50 Thieving, as it doubles pickpocket loot."},
+        {"t": 31, "kind": "stat", "text": "The Rogues' Den maze requires 50 Thieving and 50 Agility."}
+      ]
+    }
+  ]
+}

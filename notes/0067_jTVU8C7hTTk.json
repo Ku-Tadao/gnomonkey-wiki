@@ -1,0 +1,78 @@
+{
+  "id": "jTVU8C7hTTk",
+  "title": "Inferno MELEE ONLY (No bloodfury)",
+  "date": "2021-07-28",
+  "type": "challenge",
+  "summary": "A full melee-only Inferno completion, recorded at about two hours long with chapters for the waves, a single Jad, triple Jads and Zuk. The transcript is almost empty, so this note is based on the description and chapters: Gnomonkey found it much easier than expected, forgot Amulet of blood fury existed and did not go for speed.",
+  "outline": [
+    {
+      "t": 0,
+      "text": "Boring waves"
+    },
+    {
+      "t": 3077,
+      "text": "Harder waves"
+    },
+    {
+      "t": 6330,
+      "text": "Single Jad"
+    },
+    {
+      "t": 6521,
+      "text": "Triple Jads"
+    },
+    {
+      "t": 6999,
+      "text": "Zuk"
+    }
+  ],
+  "topics": [
+    {
+      "name": "Inferno melee only challenge",
+      "kind": "challenge",
+      "claims": [
+        {
+          "t": 0,
+          "kind": "record",
+          "text": "Gnomonkey completed the Inferno using melee only in a roughly two-hour video (July 2021), with chapters for boring waves, harder waves, a single Jad, triple Jads and Zuk."
+        },
+        {
+          "t": 0,
+          "kind": "opinion",
+          "text": "Gnomonkey says the melee-only Inferno was a lot easier than he expected it to be."
+        },
+        {
+          "t": 0,
+          "kind": "trivia",
+          "text": "Gnomonkey says he genuinely forgot Amulet of blood fury exists in the melee-only Inferno run, and that he probably would have saved money on blood runes if he had used it."
+        },
+        {
+          "t": 0,
+          "kind": "trivia",
+          "text": "Gnomonkey did not go for speed records in the melee-only Inferno; he says he had a nice chill time."
+        },
+        {
+          "t": 0,
+          "kind": "tip",
+          "text": "Gnomonkey says in hindsight he should have brought another stamina potion and cheesed with the Saradomin godsword a bit less in the melee-only Inferno."
+        }
+      ]
+    },
+    {
+      "name": "Inferno",
+      "kind": "raid",
+      "claims": [
+        {
+          "t": 0,
+          "kind": "event",
+          "text": "The melee-only video splits the Inferno into boring waves (0:00 to 51:16), harder waves (51:17 to 1:45:29), a single Jad (1:45:30), triple Jads (1:48:41) and Zuk (1:56:39)."
+        },
+        {
+          "t": 0,
+          "kind": "trivia",
+          "text": "Gnomonkey's melee-only Inferno run lasted about 2 hours 3 minutes, with the Zuk fight starting at 1:56:39."
+        }
+      ]
+    }
+  ]
+}

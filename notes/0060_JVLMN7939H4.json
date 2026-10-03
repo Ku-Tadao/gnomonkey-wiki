@@ -1,0 +1,315 @@
+{
+ "id": "JVLMN7939H4",
+ "title": "Volcanic Mine Guide (AFK 70k-90k Mining XP/HR)",
+ "date": "2021-02-10",
+ "type": "guide",
+ "summary": "A guide to the Volcanic Mine, a Wintertodt-style group Mining minigame on Fossil Island that Gnomonkey calls underutilised, giving 70k to 90k Mining XP/hr while being about as AFK as Motherlode Mine. It covers requirements, gear, inventory, how stability and chambers work, the A, B-check/C-fix and B/C roles, and rewards.",
+ "outline": [
+  {
+   "t": 0,
+   "text": "Intro: what Volcanic Mine is and the XP rates it gives"
+  },
+  {
+   "t": 35,
+   "text": "Requirements: Mining, kudos, Bone Voyage, museum camp and recommended starting level"
+  },
+  {
+   "t": 80,
+   "text": "Gear: Prospector's outfit, prayer bonus items, best-in-slot choices"
+  },
+  {
+   "t": 132,
+   "text": "Inventory: food, pickaxe, Mulite, teleports and quick starting"
+  },
+  {
+   "t": 211,
+   "text": "Setup: inventory slots, team size, plugins and Discord"
+  },
+  {
+   "t": 259,
+   "text": "Points: how XP and reward points are earned and capping"
+  },
+  {
+   "t": 304,
+   "text": "Map: chambers A, B, C and mine stability"
+  },
+  {
+   "t": 348,
+   "text": "General info: boulder positions, platforms, spec timing, capping and lava beasts"
+  },
+  {
+   "t": 605,
+   "text": "A-role walkthrough"
+  },
+  {
+   "t": 682,
+   "text": "B-check / C-fix roles for fours and fives"
+  },
+  {
+   "t": 737,
+   "text": "B/C role for trios"
+  },
+  {
+   "t": 786,
+   "text": "Escaping and rewards: what to buy, fossil rate"
+  }
+ ],
+ "topics": [
+  {
+   "name": "Volcanic Mine",
+   "kind": "activity",
+   "claims": [
+    {
+     "t": 0,
+     "kind": "opinion",
+     "text": "Gnomonkey considers the Volcanic Mine an incredibly underutilised mining method, much better than people give it credit for."
+    },
+    {
+     "t": 0,
+     "kind": "method",
+     "text": "The Volcanic Mine is similar to Wintertodt for Mining: a group of players mines a central boulder under a time limit, then escapes the volcano."
+    },
+    {
+     "t": 0,
+     "kind": "stat",
+     "text": "Volcanic Mine provides 70k to 90k Mining XP per hour, scaling with Mining level and pickaxe, while being about as AFK as Motherlode Mine."
+    },
+    {
+     "t": 0,
+     "kind": "trivia",
+     "text": "Gnomonkey says much of the guide's info comes from the Volcanic Mine Discord, a group with lots of information that can help you find people to play with, similar to We Do Raids."
+    },
+    {
+     "t": 27,
+     "kind": "requirement",
+     "text": "Volcanic Mine requires at least 50 Mining and 150 kudos, the Bone Voyage quest because it is on Fossil Island, a fully built museum camp on Fossil Island, and claiming your fossils from Peter on the shore."
+    },
+    {
+     "t": 27,
+     "kind": "tip",
+     "text": "Gnomonkey recommends starting Volcanic Mine at 70 Mining so you can use the crystal pickaxe, which is a dramatic boost of around 10k extra XP per hour here."
+    },
+    {
+     "t": 59,
+     "kind": "tip",
+     "text": "Having a lower Mining level does not hurt your team in Volcanic Mine, since higher-level players get more fragments to compensate."
+    },
+    {
+     "t": 203,
+     "kind": "tip",
+     "text": "You need eight inventory slots free to hold fragments and the water vessel during a Volcanic Mine game, plus extra space for fossils found during the game."
+    },
+    {
+     "t": 203,
+     "kind": "tip",
+     "text": "Gnomonkey says the optimal Volcanic Mine team size is three to five players; each additional player beyond five increases the damage you take, and solos and duos are far more intensive and usually not worth doing."
+    },
+    {
+     "t": 203,
+     "kind": "tip",
+     "text": "Gnomonkey highly recommends the Volcanic Mine and Volcanic Mine Stability external plugins from the plugin hub, which give useful info and notifications so you can AFK a bit more."
+    },
+    {
+     "t": 234,
+     "kind": "tip",
+     "text": "The Volcanic Mine Discord is a good way to get paired up for games, and Gnomonkey's clan chat Gnomonkey also had a handful of people looking to do Mining."
+    },
+    {
+     "t": 234,
+     "kind": "method",
+     "text": "The Mining XP and points earned in a Volcanic Mine game depend on the number and quality of fragments you get while mining, ranging from iron to rune similar to Motherlode Mine; XP and reward points are awarded when you leave the game."
+    },
+    {
+     "t": 262,
+     "kind": "stat",
+     "text": "A Volcanic Mine game usually gives a mining XP drop of around 6k to 12k."
+    },
+    {
+     "t": 262,
+     "kind": "method",
+     "text": "Additional Volcanic Mine points are granted for helping with the chambers: 50 points each time you mine the boulder in a chamber or cap it, up to 300 points per game; farming these is called capping, and it is usually better to mine the boulder than to cap, so players cap during downtime while the boulder is moving."
+    },
+    {
+     "t": 262,
+     "kind": "method",
+     "text": "Most Volcanic Mine points are earned at the very end of the game on the final boulder position, so being uncoordinated and having to leave early loses a lot of points and XP."
+    },
+    {
+     "t": 295,
+     "kind": "method",
+     "text": "There are three gas chambers in Volcanic Mine labelled A, B and C, each with a vent labelled the same, and each chamber has a percentage randomly set at the start that is unknown until someone checks the vent; the goal is to keep the chambers as close to 50% as possible."
+    },
+    {
+     "t": 327,
+     "kind": "method",
+     "text": "If a Volcanic Mine chamber goes too low or high the mine stability reduces, and if stability reaches zero everyone in the mine instantly dies; keeping stability high lets you fully mine the central boulder."
+    },
+    {
+     "t": 327,
+     "kind": "stat",
+     "text": "Dying in Volcanic Mine is not a safe death, but reclaiming items is cheap at only 150 new Mulite, roughly 3k GP, so Gnomonkey suggests keeping some VM teleports in your bank in case you die."
+    },
+    {
+     "t": 353,
+     "kind": "method",
+     "text": "Stability goes back up if the vents are close to 50%; a chamber at 51% or higher needs its boulder mined to lower it and a chamber at 49% or lower needs a boulder added to raise it, which is called fixing a chamber."
+    },
+    {
+     "t": 353,
+     "kind": "method",
+     "text": "A Volcanic Mine game starts with 10 minutes on the clock before the volcano erupts; chamber C never needs fixing at the start (only potentially A or B), and at the five-minute mark all chamber percentages shuffle randomly, after which A is almost always fixed correctly but B and C usually are not."
+    },
+    {
+     "t": 386,
+     "kind": "method",
+     "text": "With three miners the roles are A check/fix (A role), B check and C fix, and B fix and C check (B/C role); each role name is literal. With four or more players the B check/C fix role is split between two people, and a fifth player is the leech role who simply mines the boulder all game."
+    },
+    {
+     "t": 414,
+     "kind": "method",
+     "text": "In Volcanic Mine you create platforms by throwing water on the lava to reach the central boulder and mine it; platforms last 90 seconds, changing colour repeatedly until a buttery colour that gives five seconds before they disappear, and being on one when it vanishes drops you into the lava."
+    },
+    {
+     "t": 447,
+     "kind": "method",
+     "text": "Falling into the lava in Volcanic Mine washes you up nearby and deals around 60 damage, and the Volcanic Mine plugins can warn you when platforms are about to disappear."
+    },
+    {
+     "t": 447,
+     "kind": "method",
+     "text": "The Volcanic Mine boulder moves five times as you mine it down; the community labels positions five, four, three, two and one, and the smaller the boulder, the more fragments it gives on average."
+    },
+    {
+     "t": 447,
+     "kind": "tip",
+     "text": "At the final boulder position if your entire team is not there (for example someone died) it mines much more quickly, which is bad since that is where the most points are earned; make sure everyone is present and ready before mining. In a trio finishing the rock can be dicey, so someone should build a bridge back at 35 seconds remaining while the rest mine for the last five seconds."
+    },
+    {
+     "t": 477,
+     "kind": "tip",
+     "text": "Gnomonkey says to keep your HP above 70 in Volcanic Mine because rock falls can unluckily KO you, and to turn auto retaliate off."
+    },
+    {
+     "t": 505,
+     "kind": "method",
+     "text": "Whenever a lava beast is nearby in Volcanic Mine you need to pray ranged to avoid massive damage, since their attacks hit everyone on the tile they hit; their damage is calculated when the ball hits you, so you can easily flick prayer against them in a pinch."
+    },
+    {
+     "t": 505,
+     "kind": "tip",
+     "text": "Use the pickaxe special attack in Volcanic Mine before boulder position one and position five, and you can camp Preserve the whole game; it is especially worth it if the boost gets you to the next fragment tier (rune at level 85, matching Motherlode Mine), and it does not help above 99 so it is not worth it if maxed."
+    },
+    {
+     "t": 534,
+     "kind": "method",
+     "text": "The whole team can cap when the boulder moves from position three to four and from four to five; multiple players can pick up a boulder on the same tick and everyone gets one. Do not cap when you could be mining the boulder, and do not stay capping too long as the boulder moves to position five, since the team has to wait for you."
+    },
+    {
+     "t": 563,
+     "kind": "tip",
+     "text": "Gnomonkey recommends learners practise their role solo by entering and doing the first half of it before the five-minute mark, then leaving or re-entering for the second half, so they can practise without hurting others' XP."
+    },
+    {
+     "t": 595,
+     "kind": "method",
+     "text": "A role: at the start spam the west ladder, go down, create a bridge across to a chamber, pick up the small boulder, immediately build a bridge south and check a vent; then return and cap up to four times for 200 points, leave the chamber fixed, run back over the original bridge and start mining the boulder."
+    },
+    {
+     "t": 625,
+     "kind": "method",
+     "text": "When the boulder moves from position three to four the A-role player touches the gas hole to join teammates mining for the rest of the game; typically even if chamber A has a horrible percentage, fixing both B and C chambers is enough to get through."
+    },
+    {
+     "t": 653,
+     "kind": "tip",
+     "text": "A-role timing: if stability is dropping before six minutes on the clock, immediately fix a chamber; if stability is below 50% at 5:15, recheck and fix A if necessary; check the vent as soon as five minutes hits and the chambers shuffle, since unlucky shuffles can kill the whole team if you do not save them."
+    },
+    {
+     "t": 686,
+     "kind": "method",
+     "text": "B check C fix is the combined role for trios; in fours or fives one person does B check and another does C fix. B check starts at the east ladder, immediately builds a bridge south toward the boulder, creates a bridge behind the boulder to check B so B fix knows how to fix their chamber, then returns and mines."
+    },
+    {
+     "t": 713,
+     "kind": "method",
+     "text": "C fix just starts mining the boulder at the beginning; when the clock reaches five minutes (boulder around position three at about 6:30), wait for B check to check chamber C, and if it needs fixing immediately create a bridge east and fix it, otherwise keep mining. You can cap B chamber repeatedly while waiting for the boulder to move from three to four."
+    },
+    {
+     "t": 746,
+     "kind": "method",
+     "text": "B/C role needs decent timing: go down the east ladder and run north to chamber B, cap repeatedly until B check checks the vent, leave it fixed, then go to the boulder and mine, always creating a new platform for the team; at about 5:20 run north to check C vent (not before five minutes), then run back, build a bridge north, check B, and rejoin teammates at the boulder."
+    },
+    {
+     "t": 778,
+     "kind": "method",
+     "text": "At the end of a Volcanic Mine game you must escape before the volcano collapses; after 30 seconds the displayed stability always shows extremely low as a script, and in general if you reach the ladder with 11 seconds on the clock you can escape safely, otherwise you die instantly and lose all points."
+    },
+    {
+     "t": 809,
+     "kind": "tip",
+     "text": "Gnomonkey recommends buying a big pile of VM teleports on your first completion; they are very cheap at 200 points each."
+    },
+    {
+     "t": 809,
+     "kind": "tip",
+     "text": "On a main, Gnomonkey says the best item to buy after VM teleports for GP is runite, coming to about 2 GP per XP, which is less GP per hour than methods like Motherlode Mine but not terrible; Ironmen usually should buy volcanic ash for farming, and the large vessel is only worth it for solos or duos since larger teams never run out of water."
+    },
+    {
+     "t": 841,
+     "kind": "stat",
+     "text": "You find about six fossils per hour in Volcanic Mine, which Gnomonkey says is not the best way to get fossils (that prize goes to Sulliuscep trees) but is not a terrible rate."
+    },
+    {
+     "t": 841,
+     "kind": "tip",
+     "text": "If you are not quick starting, bank after each game at the nearby bank and restore at your restore point, then teleport back with a tablet and re-enter immediately for the next game."
+    },
+    {
+     "t": 59,
+     "kind": "tip",
+     "text": "Gnomonkey recommends Motherlode Mine until 70 Mining to get the Prospector's outfit, which also boosts Volcanic Mine XP; high Prayer is beneficial too, as with over 91 Prayer you can get through a whole game without using a prayer potion dose."
+    },
+    {
+     "t": 59,
+     "kind": "tip",
+     "text": "For Volcanic Mine gear Gnomonkey wears the full Prospector's outfit if possible, then maximises prayer bonus, replacing any missing slot with your next best prayer item; if rich, an Elysian spirit shield (transcribed as Elijah and Spirit Shield) is best in slot because it reduces all damage taken, and a Thalador shield 4 is handy for the best prayer bonus and restoring prayer twice a day."
+    },
+    {
+     "t": 86,
+     "kind": "tip",
+     "text": "In Volcanic Mine wear a regen bracelet for health regeneration, always wear an elven signet when using a crystal pickaxe, and a ring of the gods is best in slot for prayer there, though a Ring of Suffering or Explorer's ring is also fine."
+    },
+    {
+     "t": 114,
+     "kind": "tip",
+     "text": "In Volcanic Mine Gnomonkey leaves his pickaxe in his inventory so he gets the additional prayer bonus of a crozier; if you can reach over 35 prayer bonus wear a hit points cape, otherwise an RD cloak 4 or Soul cape."
+    },
+    {
+     "t": 114,
+     "kind": "tip",
+     "text": "For standard Volcanic Mine, basic food is fine, even wines; for a first time bring some higher-healing food and karambwans for combo eats, and brews are completely unnecessary."
+    },
+    {
+     "t": 148,
+     "kind": "tip",
+     "text": "Gnomonkey only has a dragon pickaxe for Volcanic Mine because he started at 98 Mining, but says to make a crystal pickaxe as it is incredibly good here; calcite and pyrophosphite will stack in your inventory and you need 30 new Mulite to start a game, so bring a decent stack."
+    },
+    {
+     "t": 148,
+     "kind": "tip",
+     "text": "A Desert amulet 4 is great for Volcanic Mine since its teleport fully restores and overheals you between games and is faster than going to your house; without it, use house tabs to an ornate pool, or Ardougne cloak teleport for prayer and eating at the bank between games."
+    },
+    {
+     "t": 176,
+     "kind": "method",
+     "text": "Volcanic Mine quick starting: one person elects to quick start, taking a pile of brews and prayer potions and immediately restarting the game after leaving (the game takes 30 seconds to start) while the others restore and run back. Gnomonkey says quick starting boosts XP rates by about 3k to 4k XP per hour."
+    },
+    {
+     "t": 176,
+     "kind": "trivia",
+     "text": "VM teleport tablets are used every Volcanic Mine game but can only be bought after completing a game."
+    }
+   ]
+  }
+ ]
+}

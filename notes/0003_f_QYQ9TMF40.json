@@ -1,0 +1,460 @@
+{
+  "id": "f_QYQ9TMF40",
+  "title": "How to kill VORKATH (OSRS VORKATH GUIDE)",
+  "date": "2019-04-08",
+  "type": "guide",
+  "summary": "A comprehensive Vorkath guide built around the dragon hunter crossbow setup, covering requirements, gear, inventory, RuneLite setup, every attack, three-to-five-step Woox walking methods for the acid phase, and ways to improve kill times and save resources. Gnomonkey made it because he felt other guides did not show how to handle the acid phase.",
+  "outline": [
+    {
+      "t": 0,
+      "text": "Intro and the green/orange/red difficulty icons for techniques"
+    },
+    {
+      "t": 59,
+      "text": "Requirements: stat levels, void, salve amulet, rune pouch, Candar hard diary"
+    },
+    {
+      "t": 132,
+      "text": "Equipment"
+    },
+    {
+      "t": 168,
+      "text": "Inventory"
+    },
+    {
+      "t": 228,
+      "text": "Time saving tip: banking between trips without the Elite Diary"
+    },
+    {
+      "t": 254,
+      "text": "RuneLite UI setup"
+    },
+    {
+      "t": 389,
+      "text": "Regular attacks"
+    },
+    {
+      "t": 487,
+      "text": "Special attacks: ice phase and acid phase"
+    },
+    {
+      "t": 640,
+      "text": "Methods for Woox walking: 5 step, 4 step, 3 step, unkinking"
+    },
+    {
+      "t": 795,
+      "text": "Ways to improve your kill times, with a live kill commentary"
+    },
+    {
+      "t": 952,
+      "text": "Reduce resource waste: eating and prayer flicking"
+    }
+  ],
+  "topics": [
+    {
+      "name": "Vorkath",
+      "kind": "boss",
+      "claims": [
+        {
+          "t": 0,
+          "kind": "opinion",
+          "text": "Gnomonkey made the Vorkath guide because he felt most guides did not comprehensively show how to effectively deal with the acid phase."
+        },
+        {
+          "t": 0,
+          "kind": "opinion",
+          "text": "Gnomonkey describes the dragon hunter crossbow as, at the time of the video (2019), the most effective weapon for killing Vorkath."
+        },
+        {
+          "t": 389,
+          "kind": "tip",
+          "text": "Vorkath uses six regular attacks before each of his two special attacks, with the regular attacks chosen completely randomly; the same attack can be used up to six times in a row."
+        },
+        {
+          "t": 487,
+          "kind": "tip",
+          "text": "After six regular attacks Vorkath begins the ice phase or the acid phase. The first special is chosen randomly, after which he alternates between them."
+        },
+        {
+          "t": 952,
+          "kind": "stat",
+          "text": "Vorkath's instance is special in that all items on the ground in it do not disappear for 30 minutes, so items can be left on the ground for the whole trip."
+        },
+        {
+          "t": 952,
+          "kind": "tip",
+          "text": "Trips typically last six kills because that is the point where the inventory is usually completely full of loot."
+        },
+        {
+          "t": 952,
+          "kind": "tip",
+          "text": "A player who never dies could leave all loot on the ground until the end of the trip to save time; Gnomonkey does not do this because he still occasionally dies and all drops on the ground are lost on death."
+        },
+        {
+          "t": 952,
+          "kind": "opinion",
+          "text": "Gnomonkey says a Wrath talisman is basically Vorkath's worst drop and leaves it on the ground."
+        },
+        {
+          "t": 59,
+          "kind": "requirement",
+          "text": "To fight Vorkath at all one needs Dragon Slayer II (per the video description); the guide's baseline requirements are at least 80 Ranged and 74 Prayer for Rigor."
+        }
+      ]
+    },
+    {
+      "name": "Vorkath regular attacks",
+      "kind": "mechanic",
+      "claims": [
+        {
+          "t": 389,
+          "kind": "stat",
+          "text": "Vorkath's ranged hairball attack is his most common attack, with a max hit of 35, which is why Gnomonkey plays ranged rather than magic."
+        },
+        {
+          "t": 389,
+          "kind": "stat",
+          "text": "Vorkath's magic attack is used about a third as often as his ranged attack, has a max hit of 30 and is the player's main source of incoming damage."
+        },
+        {
+          "t": 389,
+          "kind": "tip",
+          "text": "The orange dragonfire breath does zero damage if the player has full fire protection."
+        },
+        {
+          "t": 427,
+          "kind": "tip",
+          "text": "The green breath is a dragonfire attack that does zero damage with full protection but inflicts venom if the player has not drunk anti-venom; drinking a dose of anti-venom cures it."
+        },
+        {
+          "t": 427,
+          "kind": "tip",
+          "text": "The pink breath is a dragonfire attack that turns the player's prayers off; clicking the quick prayers icon turns them back on, and doing so does not break the player's attack."
+        },
+        {
+          "t": 460,
+          "kind": "stat",
+          "text": "Vorkath's fireball is his most powerful regular attack and can hit up to 121 damage if the player is directly under it; it does half damage one tile away and can be avoided completely by being two or more tiles away."
+        },
+        {
+          "t": 460,
+          "kind": "tip",
+          "text": "If a player approaches Vorkath's melee range he can swing at them for high damage, but this should not occur when using ranged."
+        },
+        {
+          "t": 149,
+          "kind": "tip",
+          "text": "If using an odium ward or anti-dragon shield instead of a dragonfire ward, the player must pray Protect from Magic instead of Ranged or Vorkath's dragon breath will do heavy damage."
+        }
+      ]
+    },
+    {
+      "name": "Vorkath ice phase",
+      "kind": "mechanic",
+      "claims": [
+        {
+          "t": 491,
+          "kind": "tip",
+          "text": "Vorkath's ice breath does no damage but instantly freezes the player in place and prevents Vorkath from taking any damage until the phase ends."
+        },
+        {
+          "t": 491,
+          "kind": "stat",
+          "text": "During the ice phase Vorkath launches a zombified spawn that crawls towards the player and explodes with a max hit of 60 if it reaches the player before it is killed."
+        },
+        {
+          "t": 522,
+          "kind": "tip",
+          "text": "Crumble Undead always instantly kills the spawn."
+        },
+        {
+          "t": 522,
+          "kind": "opinion",
+          "text": "Gnomonkey advises against a melee setup because a dragon hunter lance can give a negative magic attack bonus, which can make Crumble Undead splash on the spawn."
+        },
+        {
+          "t": 522,
+          "kind": "tip",
+          "text": "Gnomonkey says the ice phase is the best time to eat during the fight because the player cannot damage Vorkath anyway."
+        },
+        {
+          "t": 522,
+          "kind": "tip",
+          "text": "The player should count six regular attacks after the acid phase to know when Vorkath will freeze them, and be ready to click a tile because the character continues attacking when the phase starts."
+        },
+        {
+          "t": 551,
+          "kind": "tip",
+          "text": "If the player accidentally attacks Vorkath twice at the start of the ice phase they will not have time to kill the spawn, let alone eat; if they do not attack at all they can eat as much as three pieces of food."
+        }
+      ]
+    },
+    {
+      "name": "Vorkath acid phase",
+      "kind": "mechanic",
+      "claims": [
+        {
+          "t": 551,
+          "kind": "opinion",
+          "text": "Gnomonkey calls the acid phase by far the most mechanically complicated and difficult attack to deal with."
+        },
+        {
+          "t": 551,
+          "kind": "tip",
+          "text": "All damage dealt during the acid phase is halved, including ruby bolt specials."
+        },
+        {
+          "t": 580,
+          "kind": "tip",
+          "text": "In the acid phase Vorkath spews acid on random tiles; if the player is far enough from the entrance no acid spawns near it, which is why Gnomonkey stands on his marked tiles."
+        },
+        {
+          "t": 580,
+          "kind": "stat",
+          "text": "In the acid phase Vorkath fires fireballs that land where the player stood each tick, so standing still means fireballs can hit for well over 30 each."
+        },
+        {
+          "t": 580,
+          "kind": "stat",
+          "text": "Walking into acid hits the player for 7 to 10 damage each tick, and those damage splats heal Vorkath by an equal amount."
+        },
+        {
+          "t": 610,
+          "kind": "tip",
+          "text": "A blob of acid always lands where the character stood when the phase started, so the player must move as soon as the phase starts; the acid is visible in the air right before it hits, giving one tick to react."
+        },
+        {
+          "t": 610,
+          "kind": "tip",
+          "text": "Gnomonkey recommends beginners who struggle simply walk around the arena without attacking Vorkath during the acid phase until they have a handle on the other attacks."
+        }
+      ]
+    },
+    {
+      "name": "Woox walking",
+      "kind": "mechanic",
+      "claims": [
+        {
+          "t": 640,
+          "kind": "tip",
+          "text": "The dragon hunter crossbow can fire every five ticks on rapid, so the player must walk at least four tiles before firing at Vorkath again during the acid phase."
+        },
+        {
+          "t": 640,
+          "kind": "tip",
+          "text": "The back wall is exactly one tile away from the range at which the player can fire at Vorkath, so clicking Vorkath makes the player step forward; as soon as Vorkath throws his head back the player should walk to the back wall and begin Woox walking."
+        },
+        {
+          "t": 674,
+          "kind": "method",
+          "text": "The 5 step: click a tile 5 tiles away (counting the tile stood on), click Vorkath once the tile indicator disappears, then click 5 tiles back to the start and click Vorkath again, repeating."
+        },
+        {
+          "t": 674,
+          "kind": "tip",
+          "text": "RuneLite will not generate a tile indicator unless the tile itself is clicked directly, for example clicking the wall behind the tile gives no indicator."
+        },
+        {
+          "t": 704,
+          "kind": "opinion",
+          "text": "Gnomonkey calls the 5 step the least click-intensive and simplest Woox walking method for Vorkath and recommends it for players who have never Woox walked, though it needs a lot of space."
+        },
+        {
+          "t": 733,
+          "kind": "method",
+          "text": "The 4 step is like the 5 step, but after each attack the player walks back one tile and left or right four tiles, moving in a horizontal line so they can walk underneath acid when there is not enough room for a 5 step."
+        },
+        {
+          "t": 733,
+          "kind": "method",
+          "text": "The 3 step is the most click-intensive and hardest method and needs only 6 tiles of space: attack Vorkath, click 3 tiles away on the back wall, click behind where the player attacked from, and click Vorkath again."
+        },
+        {
+          "t": 766,
+          "kind": "opinion",
+          "text": "Gnomonkey says the 3 step is very rarely needed and recommends it only to players very comfortable with Vorkath."
+        },
+        {
+          "t": 766,
+          "kind": "method",
+          "text": "Unkinking: if there is room for a 5 step but the character is oriented so it is not possible, click four tiles away, then when the indicator disappears click a tile left and back right (or vice versa); this wastes one tick but is worth it to Woox walk more easily."
+        }
+      ]
+    },
+    {
+      "name": "Dragon hunter crossbow",
+      "kind": "item",
+      "claims": [
+        {
+          "t": 0,
+          "kind": "opinion",
+          "text": "Gnomonkey states in 2019 that the dragon hunter crossbow is the most effective weapon to kill Vorkath with, and the guide is specifically built around it."
+        },
+        {
+          "t": 132,
+          "kind": "tip",
+          "text": "In the guide's gear setup the dragon hunter crossbow is used with enchanted ruby dragon bolts, with diamond dragon bolts in the inventory for a switch."
+        },
+        {
+          "t": 122,
+          "kind": "requirement",
+          "text": "Gnomonkey recommends completing the Candar (Western Provinces) hard diary because it increases the bolts' special effect proc chance by 10%."
+        },
+        {
+          "t": 1007,
+          "kind": "tip",
+          "text": "Gnomonkey says some players swap ruby bolts for diamond bolts at 35% Vorkath health, but he swaps at 40% because diamond bolts' proc chance is 5% higher than ruby bolts' and ruby bolts do the same damage regardless of Vorkath's health."
+        }
+      ]
+    },
+    {
+      "name": "Vorkath gear and inventory setup",
+      "kind": "other",
+      "claims": [
+        {
+          "t": 59,
+          "kind": "requirement",
+          "text": "Minimum Ranged is 80; going from 80 to 99 Ranged is about a 20% DPS difference. At least 74 Prayer is needed for Rigor, which is a 6-10% DPS increase, though kills are possible with Eagle Eye."
+        },
+        {
+          "t": 93,
+          "kind": "requirement",
+          "text": "Gnomonkey says 80+ Magic, Defence and Hitpoints are effectively necessary; Magic makes up 66% of the player's magic defence and Defence makes up 33%."
+        },
+        {
+          "t": 93,
+          "kind": "requirement",
+          "text": "Gnomonkey says the setup needs full elite void, an imbued salve amulet and a rune pouch; kills are possible with regular void but are significantly slower and use more prayer."
+        },
+        {
+          "t": 132,
+          "kind": "tip",
+          "text": "Equipment in the guide: full elite void including gloves, an imbued salve amulet, Ava's assembler (or accumulator), enchanted ruby dragon bolts, dragon hunter crossbow, dragonfire ward, Pegasian boots and an imbued archers ring."
+        },
+        {
+          "t": 149,
+          "kind": "tip",
+          "text": "Blessed dragonhide boots are acceptable until Pegasian boots are affordable, as Pegasian boots are only about a 1% DPS increase."
+        },
+        {
+          "t": 168,
+          "kind": "tip",
+          "text": "Inventory in the guide: three 4-dose prayer potions (one can be swapped for food if very experienced with prayer flicking and 96+ Prayer), diamond dragon bolts, a 4-dose ranging potion, anti-venom+, a 3-dose super antifire, 19 manta rays, a rune pouch with law, dust and chaos runes, and Fremennik sea boots 4."
+        },
+        {
+          "t": 179,
+          "kind": "stat",
+          "text": "A 3-dose super antifire gives 18 minutes of protection, up to 23 minutes if the next trip begins immediately, and a 6-kill trip should not take more than 14 minutes, so Gnomonkey does not bring a fourth dose."
+        },
+        {
+          "t": 210,
+          "kind": "tip",
+          "text": "Gnomonkey advises bringing manta rays or the cheapest 22+ healing food and not lower-healing food, which is inefficient at Vorkath."
+        },
+        {
+          "t": 210,
+          "kind": "tip",
+          "text": "The law, dust and chaos runes in the rune pouch allow casting Crumble Undead and teleporting to house."
+        },
+        {
+          "t": 228,
+          "kind": "tip",
+          "text": "Without the Elite Diary a Lunar Isle teleport portal in the player's house plus Bird Eye Jack's bank booth can prep the next trip; then talking to another banker kicks the player off the island in front of the dock to Vorkath."
+        }
+      ]
+    },
+    {
+      "name": "RuneLite",
+      "kind": "other",
+      "claims": [
+        {
+          "t": 254,
+          "kind": "tip",
+          "text": "Gnomonkey highlights the extent of Vorkath's acid with two back tiles and three middle tiles where he drops food and stands during the fight; standing halfway between Vorkath and the entrance means acid never spawns next to the exit. Tiles are highlighted by holding Shift and right-clicking."
+        },
+        {
+          "t": 275,
+          "kind": "tip",
+          "text": "Gnomonkey sets the tile indicator plugin to highlight hybrid tiles and changes the destination tile colour to 3A3632, roughly the opposite of the snow colour, to make the walk destination obvious."
+        },
+        {
+          "t": 305,
+          "kind": "tip",
+          "text": "Gnomonkey turns all boost timers on, moves them near the inventory, sets boosts to display the next stat always, and enables the relative boost option."
+        },
+        {
+          "t": 334,
+          "kind": "tip",
+          "text": "Gnomonkey adds the zombified spawn to the NPC indicator and keeps chat on All or Game filtered, noting RuneLite's potion timers can be off by as much as 20 seconds."
+        },
+        {
+          "t": 334,
+          "kind": "tip",
+          "text": "Gnomonkey sets Protect from Missiles and Rigor as quick prayers and considers Preserve basically worthless for this fight because it only works if left on the entire time."
+        },
+        {
+          "t": 368,
+          "kind": "tip",
+          "text": "Gnomonkey highlights ruby bolts green in the inventory to tell them from diamond bolts and remind himself to re-equip them each kill, keeps a tag tab in the bank for quick re-gearing, and sets a default world with the lowest ping via the world switcher."
+        }
+      ]
+    },
+    {
+      "name": "Prayer",
+      "kind": "skill",
+      "claims": [
+        {
+          "t": 1090,
+          "kind": "tip",
+          "text": "Gnomonkey turns his prayers off completely during Vorkath's ice phase, which saves a lot of prayer over the fight."
+        },
+        {
+          "t": 1126,
+          "kind": "tip",
+          "text": "Gnomonkey flicks prayers whenever Vorkath hits on the same tick he attacks; flicking is also possible if Vorkath is one tick off sync, but pointless if more out of sync because prayers drain every three ticks."
+        },
+        {
+          "t": 1126,
+          "kind": "tip",
+          "text": "During the acid phase Gnomonkey turns Protect from Missiles off but keeps Rigor on, which is harder than it sounds because Protect from Missiles must be turned off manually."
+        },
+        {
+          "t": 1007,
+          "kind": "tip",
+          "text": "Gnomonkey notes that if Vorkath's pink breath turns prayers off when attacks are slightly off-sync, the player can miss an attack with Rigor off."
+        }
+      ]
+    },
+    {
+      "name": "Vorkath kill speed and eating",
+      "kind": "mechanic",
+      "claims": [
+        {
+          "t": 1007,
+          "kind": "tip",
+          "text": "Each Ranged level is about a 1% DPS increase, so Gnomonkey keeps his Ranged boost high; he lets the boost decay to +9 and then immediately re-pots."
+        },
+        {
+          "t": 1034,
+          "kind": "tip",
+          "text": "Gnomonkey ranks the most efficient times to eat at Vorkath: between kills first, then during the ice phase, then during the acid phase because damage is halved."
+        },
+        {
+          "t": 1034,
+          "kind": "tip",
+          "text": "Eating one piece of food right as the breath leaves Vorkath's mouth wastes zero ticks; two pieces are possible if the player has not accidentally attacked him, and a third piece after casting Crumble Undead on the spawn."
+        },
+        {
+          "t": 1067,
+          "kind": "tip",
+          "text": "Vorkath is one of the easiest monsters to tick eat because his attacks take five ticks to reach the player; when health is below 30 the player can wait to eat until Vorkath fires a magic attack."
+        },
+        {
+          "t": 1034,
+          "kind": "tip",
+          "text": "Eating more food during the ice phase slows killing the spawn, which may cause the player to be hit by it."
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,235 @@
+{
+  "id": "3m9N8ZJ3flQ",
+  "title": "Max Efficient Kalphite Queen Guide (Best Pet) OSRS",
+  "date": "2022-02-19",
+  "type": "guide",
+  "summary": "An efficient pet-hunting guide to the Kalphite Queen assuming good gear, a Kalphite task and the Desert elite diary shortcut. Gnomonkey covers gear, an optional alt account that extends trips, the two-phase kill routine, and says the boss gives only about 2m gp/hr but is worth it for the largest pet in the game.",
+  "outline": [
+    {
+      "t": 0,
+      "text": "Intro: Kalphite Queen's poor drops, the large pet, and assumptions of the guide"
+    },
+    {
+      "t": 27,
+      "text": "Gear: Elysian, Dragon warhammer, Inquisitor's, scythe and ranged switch"
+    },
+    {
+      "t": 86,
+      "text": "Inventory and why thralls beat Vengeance"
+    },
+    {
+      "t": 150,
+      "text": "Using an alt account: loot pickup, Vengeance, high alchemy"
+    },
+    {
+      "t": 215,
+      "text": "Prepotting and getting to the Kalphite Queen"
+    },
+    {
+      "t": 271,
+      "text": "Phase one: thrall, hammer specs and scythe"
+    },
+    {
+      "t": 326,
+      "text": "Ranged phase and eating thresholds"
+    },
+    {
+      "t": 391,
+      "text": "Flinching, looting and the restore loop"
+    },
+    {
+      "t": 449,
+      "text": "Drops, pet rate and kills per hour"
+    }
+  ],
+  "topics": [
+    {
+      "name": "Kalphite Queen",
+      "kind": "boss",
+      "claims": [
+        {
+          "t": 0,
+          "kind": "opinion",
+          "text": "Gnomonkey says the Kalphite Queen has fairly poor drops and is annoying to kill, giving only about 2m gp/hr, but has the only 4-tile-large pet in the game, easily in his top five favourite pets."
+        },
+        {
+          "t": 0,
+          "kind": "requirement",
+          "text": "This efficient guide assumes you are going for the pet, have a Kalphite task, solid gear and the Desert elite diary, which provides a shortcut that skips a 30-second run around the room to the Kalphite Queen."
+        },
+        {
+          "t": 27,
+          "kind": "tip",
+          "text": "If you still need the Kalphite Queen head for a diary, Gnomonkey points to the Gear Discord, whose max-mage method he says is very solid for getting it."
+        },
+        {
+          "t": 86,
+          "kind": "stat",
+          "text": "Defence is almost completely irrelevant at the Kalphite Queen because her magic and ranged attacks always pass accuracy (they can still roll a zero), so stay in melee range, where her melee attack is not a guaranteed hit."
+        },
+        {
+          "t": 215,
+          "kind": "method",
+          "text": "Gnomonkey pre-pots Divine super combat and Divine ranging plus a dose of antidote or anti-venom before a trip, in case food drops last long enough to use the final divine doses; only the antidote needs prepotting as she drops super antipoison often."
+        },
+        {
+          "t": 244,
+          "kind": "method",
+          "text": "Route: teleport to the house and restore, take Fairy ring BIQ to near the Kalphite hive, run to the hole and climb down, have the alt cast Vengeance if there is one, and use the shortcut; as you travel through the hole, turn on thralls plus Protect from Melee and Piety, because the Kalphite guardians are accurate and can pop your Vengeance."
+        },
+        {
+          "t": 271,
+          "kind": "method",
+          "text": "Run toward the end of the arena where she stands, turn on Protect from Magic once the first guardian attacks you, and when you see her attack, switch the Elysian shield for an Avernic defender, summon a thrall and use a Dragon warhammer special on her."
+        },
+        {
+          "t": 271,
+          "kind": "stat",
+          "text": "Gnomonkey's setup has about 74% special accuracy for the Dragon warhammer, so you almost always land both or at least one hammer, with about a 5% chance to miss both; if that happens still finish the kill."
+        },
+        {
+          "t": 298,
+          "kind": "tip",
+          "text": "The thrall you summon does not matter here, but do not summon the zombie thrall at the start as it wastes time walking up to her."
+        },
+        {
+          "t": 298,
+          "kind": "method",
+          "text": "After the hammer, switch to the scythe and attack, standing under her every few attacks because she has a 4-tick attack cycle and the scythe is 5-tick; also go under her to eat if you drop below 31 HP, her max hit, and if flicking the Elysian shield go under on each attack."
+        },
+        {
+          "t": 326,
+          "kind": "tip",
+          "text": "Her attacks land the tick after you attack if timed properly, so switching to the Elysian shield when you see XP drop blocks a lot of damage; optionally double-switch to a Ring of suffering as you attack to reflect extra damage and further reduce her melee chance, and the suffering timing is lenient."
+        },
+        {
+          "t": 359,
+          "kind": "tip",
+          "text": "After phase one, eat up to above 70 HP if you hit both hammers or above 90 HP if you hit only one or none; these are the rough averages for the damage taken in the rest of the kill and avoid wasting food overeating to max HP."
+        },
+        {
+          "t": 359,
+          "kind": "method",
+          "text": "In phase two switch to ranged gear and Rigor and attack with the blowpipe; if below 31 HP go under her, eat, and continue, and resummon a zombie thrall if the thrall despawns because it will kill faster and does not need to walk to her."
+        },
+        {
+          "t": 391,
+          "kind": "tip",
+          "text": "If you run out of food or darts, go under her, switch back to melee and wait for three thrall attacks before swinging and immediately going back under; this flinches her and can help salvage a bad kill; if you have a ranging potion and a brew drop you can sip the brew then the range potion to continue ranging."
+        },
+        {
+          "t": 418,
+          "kind": "method",
+          "text": "After a kill pick up valuable loot with food drops taking priority, teleport back to the house, restore, run back, and re-sip divine potions every two kills with about a minute of timer left when restoring."
+        },
+        {
+          "t": 418,
+          "kind": "stat",
+          "text": "The Kalphite Queen's pet drop is 1 in 3,000, which Gnomonkey says he very unfortunately just exceeded."
+        },
+        {
+          "t": 449,
+          "kind": "stat",
+          "text": "She has no valuable rare drops; the best are occasional dragon chainbody, magic seed, grimy ranarr, torstol or snapdragon, enough to cover supplies plus about 500k to 1m gp/hr, so Gnomonkey says the boss is purely done for the pet."
+        },
+        {
+          "t": 449,
+          "kind": "tip",
+          "text": "Grab duplicate Kalphite Queen head drops, which can be alched for 30k or stacked in the bank."
+        },
+        {
+          "t": 449,
+          "kind": "stat",
+          "text": "At absolute max efficiency with an Elysian shield and an alt, Gnomonkey reaches 30 kills per hour; kills drop each time someone crashes you, and he estimates closer to 25 with max gear and no alt or Elysian."
+        },
+        {
+          "t": 478,
+          "kind": "tip",
+          "text": "If you see the small cow-fight-style spawns (as heard in the transcript) when nobody is in the cave, hop worlds to avoid stepping on people's toes, since they only spawn if someone was recently in the cave."
+        }
+      ]
+    },
+    {
+      "name": "Kalphite Queen gear and inventory",
+      "kind": "item",
+      "claims": [
+        {
+          "t": 27,
+          "kind": "opinion",
+          "text": "Gnomonkey calls the Elysian spirit shield a silly upgrade that barely improves kills per hour and needs heavy flicking; if you have one it saves roughly one food per kill and increases kills per hour by roughly 10%, but needs a good understanding of the scythe tick cycle, which Gnomonkey says Theatre of Blood players should have."
+        },
+        {
+          "t": 56,
+          "kind": "method",
+          "text": "Gnomonkey wears max melee with Inquisitor's armour and a slayer helmet; he recommends waiting to do the Kalphite Queen until you can afford Inquisitor's, otherwise wear Bandos and put the scythe on slash, and says Torva is not better than Inquisitor's here."
+        },
+        {
+          "t": 56,
+          "kind": "tip",
+          "text": "Inquisitor's is a 5-10% DPS upgrade here and gives a 4% higher chance for the hammer hit to land (from the chapter title)."
+        },
+        {
+          "t": 86,
+          "kind": "method",
+          "text": "The inventory brings a max ranged switch; Zaryte vambraces are nice but do not give the blowpipe and dragon darts a max hit, so they are only about a 1% DPS increase through accuracy, and Barrows gloves are fine."
+        },
+        {
+          "t": 86,
+          "kind": "opinion",
+          "text": "Gnomonkey says to definitely use dragon darts in the blowpipe here, a 5% DPS increase over amethyst darts."
+        },
+        {
+          "t": 86,
+          "kind": "opinion",
+          "text": "Gnomonkey prefers the Ring of suffering over the Archers ring because suffering gives better DPS through recoil damage and some protection from her melee attacks."
+        },
+        {
+          "t": 86,
+          "kind": "opinion",
+          "text": "Gnomonkey does not recommend doing the Kalphite Queen without a scythe if you have the diary done; the inventory also has an Avernic defender for the hammer spec, which he just camps with no Elysian."
+        },
+        {
+          "t": 118,
+          "kind": "method",
+          "text": "He brings the Max cape (or construction cape or house tabs) to teleport out, plus the Book of the Dead and cosmic, blood and fire runes for summoning thralls, and says Vengeance is worse here than thralls even without an alt to vengeance you."
+        }
+      ]
+    },
+    {
+      "name": "Alt account",
+      "kind": "account",
+      "claims": [
+        {
+          "t": 150,
+          "kind": "tip",
+          "text": "Gnomonkey says an alt for the Kalphite Queen is relatively unnecessary but can pick up loot you drop so you can carry more food drops, extending trips; his alt is a fresh account with an earth staff, a rune pouch with astral and death runes and a pile of house tabs."
+        },
+        {
+          "t": 150,
+          "kind": "method",
+          "text": "The loop with an alt is to kill the Kalphite Queen, house-tab, restore and run back; since she has a long respawn timer, tabbing and getting special attack back gives faster kills than waiting for the respawn."
+        },
+        {
+          "t": 150,
+          "kind": "tip",
+          "text": "If the alt cannot cast Vengeance but has High Level Alchemy, bring that instead so you never need to bank with it."
+        },
+        {
+          "t": 181,
+          "kind": "tip",
+          "text": "An alt without Vengeance can sit inside your house and you drop the Kalphite Queen loot to it after each teleport back; an alt that does cast Vengeance cannot stay in your house because it loses Vengeance when leaving, so sit it at the start of the Kalphite nest, which needs a rope unless it has the diary, or a Hitpoints cape and regeneration bracelet to outheal desert heat."
+        },
+        {
+          "t": 181,
+          "kind": "tip",
+          "text": "Even a low-level alt in the nest is fine because the Kalphite workers are unaggressive; Kalphite Queen heads cannot be dropped to an alt as they are untradeable until banked, so leave them on the ground since they are worth about 1k."
+        },
+        {
+          "t": 215,
+          "kind": "stat",
+          "text": "An alt boosts kills per hour by roughly 10% by extending trip length, about the same as the Elysian shield."
+        }
+      ]
+    }
+  ]
+}

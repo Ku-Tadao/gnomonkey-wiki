@@ -1,0 +1,145 @@
+{
+  "id": "puC-_fc7y0o",
+  "title": "WIKI GUIDES: Fight Caves MAGE ONLY (OSRS)",
+  "date": "2024-05-09",
+  "type": "challenge",
+  "summary": "Gnomonkey completes the Fight Caves using only magic, following the OSRS Wiki's mage-only setup with its worst gear downgrades (Infinity robes, no Shadow, no god cape needed). He relies on Thralls and Undead Grasp rather than Barrage spells, finishes Jad in 121 minutes 9 seconds, and notes that loose fire runes (17,000 used) were essential.",
+  "outline": [
+    {"t": 0, "text": "Preparing the wiki's mage-only gear with Infinity downgrades and getting a god staff from the Wilderness"},
+    {"t": 115, "text": "Planning around Jad's 480 magic level, Jad healers, thralls and fire rune supply"},
+    {"t": 264, "text": "Starting the Fight Caves; early waves, Undead Grasp bind and prayer bonus"},
+    {"t": 405, "text": "First melee monsters (Tok-Xil / Yt-MejKot) and Undead Grasp mechanics"},
+    {"t": 569, "text": "Checking Fight Caves NPC hitboxes"},
+    {"t": 685, "text": "Mid-waves: Ket-Zek mages, brews and prayer flicking"},
+    {"t": 840, "text": "Discussion of Fight Caves release history and early-era PvM skill"},
+    {"t": 1202, "text": "Discussion of Inferno tick manipulation secrecy and a possible underwater raid theme"},
+    {"t": 1500, "text": "Late waves and fire rune consumption"},
+    {"t": 1860, "text": "Preparing for and fighting TzTok-Jad with Demon Bane and Flames of Zamorak"},
+    {"t": 2020, "text": "Jad dies: 121:09 total, 17,000 fire runes used"}
+  ],
+  "topics": [
+    {
+      "name": "Fight Caves",
+      "kind": "activity",
+      "claims": [
+        {"t": 0, "kind": "event", "text": "Gnomonkey does the Fight Caves mage-only as part of his 'Wiki Guides' challenge series, using the OSRS Wiki's mage-only setup with the worst gear downgrades the wiki lists."},
+        {"t": 4, "kind": "event", "text": "For the mage-only Fight Caves run, Gnomonkey wears Infinity robes everywhere the wiki allows, which he calls very expensive."},
+        {"t": 4, "kind": "requirement", "text": "He picks up fire runes loose rather than in his rune pouch because he expects to run out of them otherwise; he starts with 262,000 fire runes."},
+        {"t": 315, "kind": "stat", "text": "In the early waves the Fight Caves rangers have a magic level of 60, and Gnomonkey says each NPC tier appears to roughly double the previous mage level."},
+        {"t": 437, "kind": "stat", "text": "A Fight Caves melee monster (Yt-MejKot-type) has about 80 health and a magic level of 120, which Gnomonkey says is not actually that bad for a mage-only run."},
+        {"t": 468, "kind": "stat", "text": "The Fight Caves melee monsters drain prayer points rather than run energy, so Gnomonkey tries to stay out of their range."},
+        {"t": 495, "kind": "tip", "text": "Gnomonkey says the Fight Caves melee monster only heals while it is meleeing you."},
+        {"t": 569, "kind": "trivia", "text": "Gnomonkey notes Fight Caves NPCs have large rectangular click boxes with no thigh or arm gaps, which he finds better than Inferno hitboxes."},
+        {"t": 745, "kind": "tip", "text": "Gnomonkey recommends getting a Slayer task before your first Fight Caves, according to a viewer suggestion he repeats."},
+        {"t": 850, "kind": "opinion", "text": "Gnomonkey notes Fight Caves spawns happen much faster than in the Inferno, which has a long spawn delay."},
+        {"t": 905, "kind": "trivia", "text": "Gnomonkey states the Fight Caves came out in October 2005, and says the Fight Caves was beaten on day one."},
+        {"t": 1925, "kind": "record", "text": "Gnomonkey finishes the mage-only Fight Caves in 121 minutes and 9 seconds, which he says is faster than many people complete their Ironman accounts."},
+        {"t": 2048, "kind": "stat", "text": "Gnomonkey used about 17,000 fire runes in the whole mage-only Fight Caves run; he says he would have run out had they been in the rune pouch."}
+      ]
+    },
+    {
+      "name": "TzTok-Jad",
+      "kind": "boss",
+      "claims": [
+        {"t": 115, "kind": "stat", "text": "Gnomonkey states Ket-Zek have 240 magic level and TzTok-Jad has 480 magic level, making a mage-only Jad fight very difficult."},
+        {"t": 142, "kind": "stat", "text": "Jad's healers will heal Jad if within four tiles of him, stop healing if interrupted, and re-aggro Jad if dragged within five tiles of Jad's southwest tile."},
+        {"t": 142, "kind": "tip", "text": "Gnomonkey's plan for Jad healers is to let them heal, tag them, and lead them far away rather than kill them, as they have 120 magic level and 100 mage defence."},
+        {"t": 1868, "kind": "tip", "text": "Gnomonkey positions himself northeast of Jad to avoid Jad's southwest tile so the healers can be tagged without re-aggroing Jad."},
+        {"t": 1925, "kind": "stat", "text": "Gnomonkey estimates about 27% accuracy against Jad's 480 magic level with his mage-only setup."},
+        {"t": 2018, "kind": "method", "text": "Gnomonkey says his thralls out-damage him on Jad, which is why he brought thralls instead of relying on Barrage spells."},
+        {"t": 2043, "kind": "trivia", "text": "Gnomonkey notes that a Jad in the normal Fight Caves usually just dies in a few hits to a blowpipe, so he had little experience with Jad's healers."}
+      ]
+    },
+    {
+      "name": "Undead Grasp",
+      "kind": "mechanic",
+      "claims": [
+        {"t": 348, "kind": "stat", "text": "Gnomonkey says Undead Grasp is a four-tick bind that works about 50% of the time, and Mark of Darkness is used to make Undead Grasp reliably bind."},
+        {"t": 379, "kind": "tip", "text": "Gnomonkey notes that Fight Caves speedruns already use Undead Grasp heavily as a long-range option with no travel time, so the technique is not new."},
+        {"t": 524, "kind": "stat", "text": "Undead Grasp lands in three ticks regardless of distance and binds the target in place, which Gnomonkey describes as a very useful spell."},
+        {"t": 4, "kind": "stat", "text": "Gnomonkey says Undead Grasp costs 12 fire runes per cast in his setup."},
+        {"t": 2043, "kind": "tip", "text": "Gnomonkey tried Demon Bane on Ket-Zek but learned it cannot be cast at non-demon targets at all, rather than just doing no extra damage."}
+      ]
+    },
+    {
+      "name": "Mage-only Fight Caves gear",
+      "kind": "other",
+      "claims": [
+        {"t": 4, "kind": "opinion", "text": "Gnomonkey considers the wiki's mage-only Fight Caves setup poor because the wiki recommends Infinity-tier gear and Barrage spells, which he cannot afford runes for."},
+        {"t": 57, "kind": "opinion", "text": "Gnomonkey believes Lunar spellbook swap with a staff bash is not worth it, and says he thinks thrall-based setups beat using Ice or Blood Barrage here because he cannot kill multiple targets with Barrage."},
+        {"t": 87, "kind": "stat", "text": "Gnomonkey's mage-only Fight Caves gear gives a melee strength bonus of 6 and a prayer bonus of 15."},
+        {"t": 257, "kind": "opinion", "text": "Gnomonkey says 'Tumblefire' is not on the wiki setups, and that wearing no boots would be better than the wiki's listed boots downgrade."},
+        {"t": 970, "kind": "tip", "text": "Gnomonkey says the wiki's better mage-only setup uses Shadow and full Ancestral robes, and that setup would be much better than the one he used; the wiki's upper tier also lists a Sang, Ward, Eternal boots and a Magus ring."},
+        {"t": 1670, "kind": "tip", "text": "Gnomonkey says you cannot autocast with base staves; autocast only works for standard elemental spells, so Flames of Zamorak had to be cast manually."},
+        {"t": 1688, "kind": "tip", "text": "Gnomonkey says Flames of Zamorak has a max hit of 20 and can be cast without the god cape, because the cape only enables the Charge spell."}
+      ]
+    },
+    {
+      "name": "Flames of Zamorak",
+      "kind": "mechanic",
+      "claims": [
+        {"t": 30, "kind": "stat", "text": "Flames of Zamorak drains the target's magic level by one plus five percent on a successful hit."},
+        {"t": 57, "kind": "tip", "text": "Gnomonkey does not think the Zamorak cape is needed to cast Flames of Zamorak; the cape only allows using Charge."},
+        {"t": 1663, "kind": "stat", "text": "Flames of Zamorak has a max hit of 20 according to Gnomonkey."}
+      ]
+    },
+    {
+      "name": "Thrall",
+      "kind": "mechanic",
+      "claims": [
+        {"t": 171, "kind": "tip", "text": "Gnomonkey says the key to any challenge run is using thralls always, because they deal a lot of damage while his own damage is low."},
+        {"t": 222, "kind": "stat", "text": "Gnomonkey says he does somehow more DPS to Jad than a thrall, and that a thrall costs 10 fire runes while Undead Grasp costs 12 per cast."},
+        {"t": 1950, "kind": "opinion", "text": "Gnomonkey chose thralls over Barrage in the mage-only Fight Caves because thralls out-damaged his own casts on the high-mage-defence monsters."}
+      ]
+    },
+    {
+      "name": "Fire runes",
+      "kind": "item",
+      "claims": [
+        {"t": 4, "kind": "stat", "text": "Gnomonkey estimates 1,000 casts would use 12,000 fire runes and thinks 1,000 casts will not kill the Fight Caves with his setup."},
+        {"t": 380, "kind": "stat", "text": "He starts the mage-only Fight Caves with 262,000 fire runes in his bank, held loose rather than in the rune pouch."},
+        {"t": 1558, "kind": "stat", "text": "After the early waves of the run Gnomonkey had used about 12,000 fire runes out of 250,000 remaining, and expected the tanky later waves to use another 2,000 to 4,000."},
+        {"t": 2048, "kind": "stat", "text": "In total he used about 17,000 fire runes, and says that without keeping them out of the rune pouch he would have run out."}
+      ]
+    },
+    {
+      "name": "Opinion: Early Old School PvM skill level",
+      "kind": "opinion",
+      "claims": [
+        {"t": 886, "kind": "trivia", "text": "While discussing release history, a chatter says Fight Caves came out in October 2005 and the MSB arrived in March 2002."},
+        {"t": 970, "kind": "opinion", "text": "Gnomonkey says that back in the day, prayer flicking in the Fight Caves was unheard of and extremely advanced, and compares today's flickers to Woox."},
+        {"t": 1145, "kind": "opinion", "text": "Gnomonkey says the first good PvMer he can think of is Woox doing Corp, and that besides Woox or Zezima he cannot name earlier PvM milestones; he says before about 2009 PvM interest was limited to Fight Caves, Barrows and God Wars."},
+        {"t": 1145, "kind": "opinion", "text": "Gnomonkey says Zezima isn't mechanically good, he just did a lot of grinding."},
+        {"t": 1180, "kind": "opinion", "text": "Gnomonkey thinks the improvement in PvM skill came from time and from one player innovating and others copying it, as in PvP."}
+      ]
+    },
+    {
+      "name": "Inferno",
+      "kind": "activity",
+      "claims": [
+        {"t": 466, "kind": "opinion", "text": "Gnomonkey notes that in the Inferno monsters do not drain prayer, and says it would be brutal if they did."},
+        {"t": 1231, "kind": "opinion", "text": "Gnomonkey says he heard Port Khazard (who did a ticketed Inferno run) does not plan to release his video, possibly out of worry that the techniques he used would be patched, and speculates they involve spawn manipulation or precise flinching."},
+        {"t": 1348, "kind": "trivia", "text": "Gnomonkey recalls a clip of the player Unpredictable attempting a similar Inferno record, whose inventory included a T-Flask (to store more T-doses), a gnome token and crab meat, which Gnomonkey took as a sign of heavy HP ticketing."},
+        {"t": 1380, "kind": "tip", "text": "Gnomonkey says Inferno ticketing requires tanking several Jads, so you need healing of one, two or more HP depending on how much health you need to survive the next attack."}
+      ]
+    },
+    {
+      "name": "Opinion: Next raid theme",
+      "kind": "opinion",
+      "claims": [
+        {"t": 1380, "kind": "opinion", "text": "Gnomonkey says RuneScape 3 has an underwater Elite Dungeon with a Lovecraftian boss that he would like to see as an Old School raid theme."},
+        {"t": 1428, "kind": "opinion", "text": "Gnomonkey would be happy with a Sailing-linked raid where you sail to a location and dive underwater to a Gower-type underwater area."},
+        {"t": 1442, "kind": "opinion", "text": "Gnomonkey expects the next raid to arrive in 2025, saying surely there is no way it does not come next year after Tombs of Amascut did so well."}
+      ]
+    },
+    {
+      "name": "Gnomonkey",
+      "kind": "person",
+      "claims": [
+        {"t": 0, "kind": "event", "text": "The Wiki Guides challenge series follows OSRS Wiki gear recommendations at their worst allowed downgrades; Gnomonkey says upcoming challenges include Tombs of Amascut, Whisperer and maybe Duke Sucellus."},
+        {"t": 1593, "kind": "trivia", "text": "Gnomonkey streams on Twitch for an hour then moves over to Kick."},
+        {"t": 1745, "kind": "opinion", "text": "Gnomonkey says he wants a RuneLite plugin for texture replacement similar to SoundSwapper so that in-game things can be swapped for something else, including Duke Sucellus texture mods."}
+      ]
+    }
+  ]
+}

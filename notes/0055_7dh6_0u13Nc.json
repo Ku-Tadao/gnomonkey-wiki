@@ -1,0 +1,284 @@
+{
+  "id": "7dh6_0u13Nc",
+  "title": "What Is The BEST Ammo to Use? (Darts/Bolts/Arrows/Scythe) (OSRS 2020)",
+  "date": "2020-10-01",
+  "type": "guide",
+  "summary": "An October 2020 profit-focused analysis of when higher-tier ammo and expensive weapons are worth their supply cost. Gnomonkey uses a simple rule (profit per hour times DPS increase must exceed the added cost per hour) to judge blowpipe darts, crossbow bolts, twisted bow arrows, the tentacle whip, scythe of Vitur, and magic staves.",
+  "outline": [
+    {
+      "t": 0,
+      "text": "Intro: why higher-tier ammo must pay for itself, and when raw DPS is not the only factor"
+    },
+    {
+      "t": 56,
+      "text": "Assumptions and the calculation method"
+    },
+    {
+      "t": 96,
+      "text": "Toxic blowpipe darts: adamant, rune and dragon costs and range strength"
+    },
+    {
+      "t": 148,
+      "text": "Dart break-even and where it matters (Theatre of Blood, Chambers of Xeric)"
+    },
+    {
+      "t": 208,
+      "text": "Crossbow bolts: dragon bolts versus ruby, diamond and amethyst"
+    },
+    {
+      "t": 321,
+      "text": "Twisted bow arrows: dragon versus amethyst"
+    },
+    {
+      "t": 354,
+      "text": "Tentacle whip"
+    },
+    {
+      "t": 389,
+      "text": "Scythe of Vitur"
+    },
+    {
+      "t": 450,
+      "text": "Magic staves: trident of the swamp and Sanguinesti staff"
+    }
+  ],
+  "topics": [
+    {
+      "name": "Ammunition cost analysis",
+      "kind": "opinion",
+      "claims": [
+        {
+          "t": 0,
+          "kind": "opinion",
+          "text": "Gnomonkey says higher-tier ammo only pays off if you make an equivalent or greater amount more GP from the monster you are fighting than the extra supply cost."
+        },
+        {
+          "t": 0,
+          "kind": "opinion",
+          "text": "Gnomonkey says raw DPS is not the only factor: if better ammo helps secure kills on a boss or increases kill trips, it helps you more than just speeding up kills; at the Inferno, if dragon darts are the difference maker you should absolutely use them."
+        },
+        {
+          "t": 0,
+          "kind": "opinion",
+          "text": "Gnomonkey notes that killing a boss faster means eating less and using fewer stat-boosting potions, though the difference is pretty small."
+        },
+        {
+          "t": 0,
+          "kind": "opinion",
+          "text": "Gnomonkey says the video focuses on profit only, and when pet hunting it is almost always best to use your most powerful weapon at a cost, since finishing the pet grind faster lets you return to optimal moneymakers."
+        },
+        {
+          "t": 56,
+          "kind": "method",
+          "text": "The analysis assumes max stats, the best available potion and prayer, and an assembler for ranged weapons, and is aimed at players capable of bossing rather than early Ranged training."
+        },
+        {
+          "t": 56,
+          "kind": "method",
+          "text": "Gnomonkey's rule: multiply profit per hour (X) at a location by the DPS increase in decimal form (Y); if that number is at least the increase in supply cost, the upgrade generates more money than it loses."
+        }
+      ]
+    },
+    {
+      "name": "Toxic blowpipe",
+      "kind": "item",
+      "claims": [
+        {
+          "t": 96,
+          "kind": "stat",
+          "text": "In 2020 a toxic blowpipe costs about 400k GP an hour to use in scale cost alone, before darts."
+        },
+        {
+          "t": 96,
+          "kind": "stat",
+          "text": "Adamant darts add only about 45k GP an hour and are Gnomonkey's baseline; rune darts cost just under 600k GP an hour and dragon darts just under 1.5m GP an hour to use."
+        },
+        {
+          "t": 96,
+          "kind": "stat",
+          "text": "Adamant darts have +10 range strength, rune darts +14 and dragon darts +20, each with a small ranged accuracy bonus; each dart upgrade typically gives one extra max hit, roughly 4% DPS."
+        },
+        {
+          "t": 148,
+          "kind": "tip",
+          "text": "Because the toxic blowpipe fires every two ticks you lose darts much more quickly than other ranged weapons."
+        },
+        {
+          "t": 148,
+          "kind": "stat",
+          "text": "For a roughly 4% DPS dart upgrade to be worth using you need to be making over 10m GP an hour, and you break even on dart cost on paper at just over 12m GP an hour."
+        },
+        {
+          "t": 148,
+          "kind": "opinion",
+          "text": "Gnomonkey says the only place he knows of that makes this much is the Theatre of Blood, at up to 11m GP an hour with perfect trios, and the Nightmare, where you do not use the blowpipe anyway."
+        },
+        {
+          "t": 148,
+          "kind": "stat",
+          "text": "Skeletal Mystics and the Chambers of Xeric are among the few monsters piped with high defence, but the upgrade there is still only about a 5% DPS increase versus 4%."
+        },
+        {
+          "t": 148,
+          "kind": "opinion",
+          "text": "Gnomonkey says you should almost always use adamant darts instead of rune darts in the blowpipe."
+        },
+        {
+          "t": 208,
+          "kind": "opinion",
+          "text": "Gnomonkey says dragon darts, costing an extra 1m GP an hour over rune darts for one more max hit, are only for pet hunters or people going for boss kill count high scores, as you would need over 20m GP an hour to make them pay off, which he knows of no source for."
+        }
+      ]
+    },
+    {
+      "name": "Crossbow bolts",
+      "kind": "item",
+      "claims": [
+        {
+          "t": 238,
+          "kind": "stat",
+          "text": "Dragon bolts give +17 range strength over diamond bolts and +19 over ruby bolts, which at most dragons is over 10% more DPS than standard bolts, about +7 max hit."
+        },
+        {
+          "t": 238,
+          "kind": "stat",
+          "text": "You lose about 200 bolts an hour on average with a crossbow, making regular bolts about 40k GP an hour and dragon bolts about 200k GP an hour."
+        },
+        {
+          "t": 238,
+          "kind": "opinion",
+          "text": "Gnomonkey says you need to make about 1.5m GP an hour for dragon bolts to be worth using over regular bolts, so you should definitely use them at brutal black dragons and Vorkath."
+        },
+        {
+          "t": 238,
+          "kind": "opinion",
+          "text": "At the King Black Dragon Gnomonkey says dragon bolts are almost questionable, but since you are probably after the pet there, use your best bolts."
+        },
+        {
+          "t": 238,
+          "kind": "stat",
+          "text": "Amethyst bolts are cheaper than even standard enchanted bolts and give +10 range strength over diamond bolts."
+        },
+        {
+          "t": 238,
+          "kind": "opinion",
+          "text": "Gnomonkey says amethyst bolts are not only cheaper but more powerful against low-defence, low-health monsters where neither the diamond nor ruby effect helps, and may be worth using if you make below 1m GP an hour, for example at skeletal wyverns."
+        },
+        {
+          "t": 300,
+          "kind": "tip",
+          "text": "With an armadillo crossbow against non-dragons dragon bolts are still almost exactly a 10% DPS increase over regular bolts, so the 1.5m GP an hour rule still stands."
+        }
+      ]
+    },
+    {
+      "name": "Twisted bow",
+      "kind": "item",
+      "claims": [
+        {
+          "t": 321,
+          "kind": "opinion",
+          "text": "Gnomonkey says twisted bow users should basically always use dragon arrows over amethyst arrows."
+        },
+        {
+          "t": 321,
+          "kind": "stat",
+          "text": "Dragon arrows are about a 4% DPS upgrade and cost about 140k GP an hour versus about 40k GP an hour for amethyst arrows, so you technically need about 2m GP an hour for dragon arrows to be worth it."
+        },
+        {
+          "t": 321,
+          "kind": "tip",
+          "text": "The only place Gnomonkey would use amethyst arrows with a twisted bow is Zulrah, since damage is capped at 50 there and better arrows barely increase DPS."
+        }
+      ]
+    },
+    {
+      "name": "Abyssal tentacle",
+      "kind": "item",
+      "claims": [
+        {
+          "t": 354,
+          "kind": "stat",
+          "text": "The abyssal tentacle costs a bit less to use than a blowpipe with adamant darts, and is typically only a 1 to 4% DPS increase over a regular whip, around 2% on average, rising with enemy defence, but it also poisons enemies."
+        },
+        {
+          "t": 354,
+          "kind": "opinion",
+          "text": "Gnomonkey says a 2% DPS increase from the tentacle whip needs you to make about 20m GP an hour to be worth it, or 10m GP an hour at its best 4% increase."
+        },
+        {
+          "t": 354,
+          "kind": "tip",
+          "text": "The tentacle whip matters at Verzik Vitur in the Theatre of Blood because it lets you poison the purple tick enemies there, so its use case is obvious in that fight."
+        },
+        {
+          "t": 354,
+          "kind": "opinion",
+          "text": "Gnomonkey would normally save up for a rapier or a scythe before using a tentacle whip."
+        }
+      ]
+    },
+    {
+      "name": "Scythe of Vitur",
+      "kind": "item",
+      "claims": [
+        {
+          "t": 389,
+          "kind": "stat",
+          "text": "In 2020 the scythe of Vitur costs almost 1,300 GP a swing, or about 1.6m GP an hour to use, nearly the cost of dragon darts from a blowpipe."
+        },
+        {
+          "t": 389,
+          "kind": "stat",
+          "text": "The scythe is over a 25% DPS increase over the Blade of Saeldor in most cases, higher when monsters have reduced defence, for example with Dragon warhammer specs."
+        },
+        {
+          "t": 389,
+          "kind": "opinion",
+          "text": "Gnomonkey says you need to make about 6m GP an hour for the scythe to be worth using over the Blade of Saeldor, so it is 100% worth using at the Theatre of Blood and the Nightmare."
+        },
+        {
+          "t": 389,
+          "kind": "opinion",
+          "text": "In the Chambers of Xeric against the Great Olm, Gnomonkey says the scythe is only about 10% more DPS than a lance, so it is not worth using there for profit alone."
+        },
+        {
+          "t": 389,
+          "kind": "tip",
+          "text": "If you are hunting the dust or kits in challenge mode or going after a pet, Gnomonkey says the scythe is probably worth using at a loss to get those items faster."
+        }
+      ]
+    },
+    {
+      "name": "Trident of the swamp",
+      "kind": "item",
+      "claims": [
+        {
+          "t": 420,
+          "kind": "stat",
+          "text": "The regular trident costs about 450k GP an hour to use and the toxic trident about 750k GP an hour."
+        },
+        {
+          "t": 450,
+          "kind": "stat",
+          "text": "The Trident of the swamp is about a 15% DPS increase through about +4 max hit, and can venom the target."
+        },
+        {
+          "t": 450,
+          "kind": "opinion",
+          "text": "Gnomonkey says the extra 300k GP an hour for the Trident of the swamp needs you to make at least 2m GP an hour to be worth it, so it is almost always worth using over the regular trident."
+        },
+        {
+          "t": 450,
+          "kind": "stat",
+          "text": "The Sanguinesti staff raises max hit by only 1 over the Trident of the swamp, about 2.5% more DPS, but it heals you; it costs much more to use at about 1.8m GP an hour."
+        },
+        {
+          "t": 450,
+          "kind": "opinion",
+          "text": "Gnomonkey would still use the Trident of the swamp in group Chambers of Xeric where the extra healing is rarely needed, but the Sanguinesti staff's healing could be the difference maker in the Theatre of Blood or solo Chambers of Xeric."
+        }
+      ]
+    }
+  ]
+}

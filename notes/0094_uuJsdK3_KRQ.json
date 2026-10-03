@@ -1,0 +1,319 @@
+{
+  "id": "uuJsdK3_KRQ",
+  "title": "My Problem With Wilderness Bosses (OSRS)",
+  "date": "2022-07-13",
+  "type": "news-opinion",
+  "summary": "From a PvMer and pet hunter's perspective (not a PKer), Gnomonkey criticises the Wilderness bosses: they are mostly done via safe spots, pets as the main incentive make risk unrewarding, and the announced boss rework into multi-combat caves could kill them. He proposes KBD-style cave bosses, PvP-themed loot without pets, and an MVP drop system.",
+  "outline": [
+    {
+      "t": 0,
+      "text": "Intro: the Wilderness and the perspective of a PvMer"
+    },
+    {
+      "t": 31,
+      "text": "What is intrinsic to the Wilderness: risk versus reward"
+    },
+    {
+      "t": 91,
+      "text": "Chaos Altar and black chinchompas"
+    },
+    {
+      "t": 147,
+      "text": "Wilderness bosses and safe spots: Venenatis, Callisto, Vet'ion"
+    },
+    {
+      "t": 263,
+      "text": "Chaos Elemental, Scorpia and KBD"
+    },
+    {
+      "t": 304,
+      "text": "Rewards and pets as the main incentive"
+    },
+    {
+      "t": 334,
+      "text": "Options when PKed: anti-PK versus escape"
+    },
+    {
+      "t": 366,
+      "text": "Teleblock, freezing, ZGS"
+    },
+    {
+      "t": 454,
+      "text": "Pets attached to bosses are aggravating; boosters"
+    },
+    {
+      "t": 484,
+      "text": "Team's goals for the Wilderness boss rework"
+    },
+    {
+      "t": 541,
+      "text": "Multi caves and loot drop mechanics"
+    },
+    {
+      "t": 601,
+      "text": "Gnomonkey's recommendations: KBD-style bosses"
+    },
+    {
+      "t": 633,
+      "text": "MVP drop system and Revenant Maledictus"
+    }
+  ],
+  "topics": [
+    {
+      "name": "Wilderness",
+      "kind": "activity",
+      "claims": [
+        {
+          "t": 0,
+          "kind": "opinion",
+          "text": "Gnomonkey says the Wilderness in 2007 was the RuneScape stomping ground, but is much less populated now due to a changing playerbase, a lack or surplus of updates and focus on the wrong areas; he notes it has been notoriously difficult for the Jagex team to improve."
+        },
+        {
+          "t": 31,
+          "kind": "trivia",
+          "text": "The Wilderness is the only place in the game where players can attack others and take their items, making it by default the most dangerous area; it gets more dangerous deeper, with a higher level range of players that can attack you and teleports prevented past level 20 Wilderness (some unique teleports work up to level 30)."
+        },
+        {
+          "t": 59,
+          "kind": "trivia",
+          "text": "The Wilderness has multi-combat areas (multiple people can attack a single target) and single-combat areas (one-on-one only), and Old School added content like Wilderness bosses, the Chaos Altar, black chinchompa hunting and revenants."
+        },
+        {
+          "t": 59,
+          "kind": "opinion",
+          "text": "Gnomonkey says with gravestones now in the game the Wilderness is really the only location that still has a risk mechanic, and he thinks the reward should always be gold or saving gold, encouraging risking items for more money."
+        }
+      ]
+    },
+    {
+      "name": "Chaos Altar and black chinchompas",
+      "kind": "opinion",
+      "claims": [
+        {
+          "t": 91,
+          "kind": "opinion",
+          "text": "Gnomonkey calls the Chaos Altar a great example of Wilderness skilling content: a 50% chance to save a bone while training Prayer makes more sense than pure double XP, which was the original plan; it does not give better XP per hour than the Gilded Altar but is far cheaper, at the cost of being attackable."
+        },
+        {
+          "t": 121,
+          "kind": "opinion",
+          "text": "Gnomonkey feels black chinchompas were a mistake because the best Hunter XP being in the Wilderness encourages players who do not bring risk to enter; they leave after about 30 chinchompas, as all bots do."
+        },
+        {
+          "t": 147,
+          "kind": "opinion",
+          "text": "Gnomonkey says if he added black chinchompas now, they would exist outside the Wilderness too, with a chance of multiple catches in the Wilderness and no extra XP for the double catch, in line with the Chaos Altar approach."
+        }
+      ]
+    },
+    {
+      "name": "Venenatis",
+      "kind": "boss",
+      "claims": [
+        {
+          "t": 180,
+          "kind": "method",
+          "text": "The main Venenatis safespot has you drag her one tile into multi, then move east a few tiles so you stand in singles."
+        },
+        {
+          "t": 180,
+          "kind": "opinion",
+          "text": "Gnomonkey says most people like Venenatis best as it is the lowest Wilderness level of any Wilderness boss in singles, so it is incredibly easy to escape PKers."
+        },
+        {
+          "t": 210,
+          "kind": "stat",
+          "text": "Venenatis and Callisto have the highest defence levels of any boss in the game at 490 and 440 respectively; Inferno Jad at 480 defence is the only boss that comes close."
+        }
+      ]
+    },
+    {
+      "name": "Callisto",
+      "kind": "boss",
+      "claims": [
+        {
+          "t": 198,
+          "kind": "method",
+          "text": "Callisto has a more complicated lure where you pull him south into singles and attack him with a chainmace, completely AFK."
+        }
+      ]
+    },
+    {
+      "name": "Vet'ion",
+      "kind": "boss",
+      "claims": [
+        {
+          "t": 223,
+          "kind": "opinion",
+          "text": "Gnomonkey says most agree Vet'ion is the most annoying of the three main Wilderness bosses to kill; the lure requires maintaining a three-hit attack cycle with an awkward walk pattern to avoid being hit."
+        },
+        {
+          "t": 223,
+          "kind": "method",
+          "text": "At half HP Vet'ion summons two skeletal hellhounds that make him invulnerable until killed, and when his HP is depleted he revives to full HP and turns orange, repeating the fight."
+        },
+        {
+          "t": 243,
+          "kind": "tip",
+          "text": "All Vet'ion safespots are in multi; the main one is a few steps from level 30 Wilderness, meaning you cannot immediately teleport."
+        }
+      ]
+    },
+    {
+      "name": "Chaos Elemental",
+      "kind": "boss",
+      "claims": [
+        {
+          "t": 263,
+          "kind": "method",
+          "text": "The Chaos Elemental is an actual (very chaotic) fight using random attacks in random styles, can teleport you and can remove your items; it is located just above level 50 Wilderness in multi."
+        },
+        {
+          "t": 454,
+          "kind": "opinion",
+          "text": "Gnomonkey says for Scorpia and Chaos Elemental the pet drops are the only incentive, which he truly despises."
+        }
+      ]
+    },
+    {
+      "name": "Scorpia",
+      "kind": "boss",
+      "claims": [
+        {
+          "t": 276,
+          "kind": "method",
+          "text": "Scorpia is in a cave just north of the Chaos Elemental, is very weak to magic and only attacks with melee, so players freeze her in place to avoid being attacked; at half HP she summons two healing scorpions which can be killed, frozen and lured away, or she can be burst down by multiple people."
+        },
+        {
+          "t": 334,
+          "kind": "opinion",
+          "text": "Gnomonkey says Scorpia is the only Wilderness boss that overlaps with PvP weaponry (Harmonised nightmare staff if doloing or duoing), which is also great for killing PKers; he wants more bosses like her that incentivise bringing anti-PK weapons."
+        }
+      ]
+    },
+    {
+      "name": "Wilderness boss rewards and risk",
+      "kind": "opinion",
+      "claims": [
+        {
+          "t": 304,
+          "kind": "opinion",
+          "text": "Gnomonkey says the main incentive for killing Wilderness bosses is their pet drops, and the big three (Venenatis, Callisto, Vet'ion) all make over 3m gp per hour so there is some monetary incentive, though not a lot."
+        },
+        {
+          "t": 304,
+          "kind": "opinion",
+          "text": "Gnomonkey says because players ignore these bosses' mechanics via safespots, PKers are the only real risk."
+        },
+        {
+          "t": 334,
+          "kind": "opinion",
+          "text": "Gnomonkey says a PvMer attacked at these bosses can either anti-PK (needing extra risk in PvP weapons and being at a disadvantage due to boss-specific gear; the bosses' crossbow or chainmace are terrible PvP weapons) or escape, and anti-PKing only really works in singles, never against a clan in multi."
+        },
+        {
+          "t": 454,
+          "kind": "opinion",
+          "text": "As a PvMer who only cares about the pets, Gnomonkey would rather maximise kills per hour: bring less risk, escape whenever a PKer attacks, and gear back up, which he finds pretty boring; his other option is paying boosters to finish the pet grind, which he finds more boring."
+        },
+        {
+          "t": 484,
+          "kind": "opinion",
+          "text": "Gnomonkey says if the bosses had good gp incentives instead of pets, bringing anti-PK gear would make much more sense, but the pets cannot be removed at this point."
+        }
+      ]
+    },
+    {
+      "name": "Wilderness escape options",
+      "kind": "mechanic",
+      "claims": [
+        {
+          "t": 366,
+          "kind": "tip",
+          "text": "Teleporting is viable if you are not teleblocked: at Venenatis you can teleport at any moment; at Callisto or Vet'ion you theoretically can tank to level 30 Wilderness; at Vet'ion you are nearly guaranteed to be blocked because it is in multi."
+        },
+        {
+          "t": 399,
+          "kind": "event",
+          "text": "Gnomonkey says the old escape of tanking something to X-log (closing the client while retaliating against a monster in singles) was patched out of the game months before the video."
+        },
+        {
+          "t": 399,
+          "kind": "tip",
+          "text": "You can freeze your target in singles but that requires being on the Ancient spellbook; since Venenatis and Callisto have the highest defence in the game, you really need thralls, which make up 10 to 20% of your DPS at those bosses."
+        },
+        {
+          "t": 426,
+          "kind": "method",
+          "text": "Zamorak godsword's special attack uses 50% of the spec meter to freeze the target for twenty seconds if it lands; if it lands, stand under the target and log out; if it misses, you must tank to the ditch or a ladder, and being frozen after landing yours before getting under them is also lost."
+        },
+        {
+          "t": 452,
+          "kind": "opinion",
+          "text": "Gnomonkey says at Scorpia, Chaos Elemental and Vet'ion, getting teleblocked is pretty much a guaranteed death because clans with five or more PKers love to PK there."
+        }
+      ]
+    },
+    {
+      "name": "Opinion: Wilderness boss rework",
+      "kind": "opinion",
+      "claims": [
+        {
+          "t": 484,
+          "kind": "event",
+          "text": "A Jagex developer (Mod Ayiza) outlined team goals for the Wilderness boss rework: bosses likely moved into multi caves similar to Scorpia with no safespots, designed with a stronger focus on the PK ecosystem and mechanically interesting fights aimed at mid-level or higher stats."
+        },
+        {
+          "t": 516,
+          "kind": "opinion",
+          "text": "Gnomonkey says if Jagex does this he thinks Wilderness bosses will be 'dead and buried' unless they drop enough gp (he suggests 10 to 20m gp per hour, which he says will not happen) for large groups or are in low enough Wilderness to teleport out instantly."
+        },
+        {
+          "t": 541,
+          "kind": "opinion",
+          "text": "Gnomonkey says bosses in multi mean you cannot anti-PK huge clans and escape is basically impossible, so you would need to go in a group; and because you must deal the main part of the damage to get the drop, pet hunting in groups is extremely slow."
+        },
+        {
+          "t": 571,
+          "kind": "opinion",
+          "text": "Gnomonkey says pet hunters would end up paying boost clans lots of gp to keep them safe and kill the bosses quickly; he personally does not plan to kill these bosses in that state until he has enough gp to boost them all, so his dream of all pets may never come to fruition."
+        },
+        {
+          "t": 601,
+          "kind": "opinion",
+          "text": "Gnomonkey's proposed fix is to make the existing Wilderness bosses KBD-style: put them in caves in the Wilderness with unique, fun mechanics that become non-Wilderness once you get there, making their uniques and pet drops reasonable to grind for PvMers."
+        },
+        {
+          "t": 601,
+          "kind": "opinion",
+          "text": "Gnomonkey recommends that new Wilderness bosses have PvP-centric loot and no pet drops or untradeables, with loot based on how dangerous the area is (deeper Wilderness or multi means more loot)."
+        },
+        {
+          "t": 633,
+          "kind": "opinion",
+          "text": "Gnomonkey wants better drop mechanics for multi bosses so teams not necessarily working together can kill them; he notes even the Revenant Maledictus, added recently with similar fight mechanics, only drops loot to the highest damage dealer, and says an MVP system like Nex or Nightmare would make more sense."
+        },
+        {
+          "t": 661,
+          "kind": "opinion",
+          "text": "Gnomonkey suggests a boss weaker to slower heavy-hitting weapons like Ballista or Elder maul would be really good, and says Wilderness bosses should encourage risk and reward both fighting the boss and each other."
+        },
+        {
+          "t": 689,
+          "kind": "opinion",
+          "text": "Gnomonkey expects this to be one of his more controversial videos and invites rework suggestions in the comments."
+        }
+      ]
+    },
+    {
+      "name": "Gnomonkey",
+      "kind": "person",
+      "claims": [
+        {
+          "t": 661,
+          "kind": "event",
+          "text": "Gnomonkey says he was live on Twitch pushing for a solid Inferno PB before Raids 3 comes out and had started using thralls, which he says is the fastest available Inferno method but also the most dangerous."
+        }
+      ]
+    }
+  ]
+}

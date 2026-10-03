@@ -1,0 +1,109 @@
+{
+  "id": "6DbyYWQYzKk",
+  "title": "Fastest Skilling Pets (OSRS 2020) Best to 99 and Post 99",
+  "date": "2020-07-04",
+  "type": "guide",
+  "summary": "A guide to the fastest methods of obtaining each general skilling pet, ordered from least to most rare: Rocky (Thieving), Heron (Fishing), Beaver (Woodcutting), Rock golem (Mining), Giant squirrel (Agility) and Rift guardian (Runecrafting). For each, Gnomonkey gives average hours to pet for the best methods both before and after 99.",
+  "outline": [
+    {"t": 0, "text": "Intro and which pets are covered"},
+    {"t": 27, "text": "Rocky (Thieving): Ardougne Knights, Pyramid Plunder, fish stalls"},
+    {"t": 122, "text": "Heron (Fishing): two-tick tuna/swordfish, barbarian fishing, dark crabs"},
+    {"t": 152, "text": "Beaver (Woodcutting): two-tick teak and redwoods"},
+    {"t": 184, "text": "Rock golem (Mining): Volcanic Mine, gem rocks, Motherlode Mine"},
+    {"t": 237, "text": "Giant squirrel (Agility): courses and Hallowed Sepulchre"},
+    {"t": 324, "text": "Penguin course and Rift guardian intro"},
+    {"t": 350, "text": "Rift guardian (Runecrafting): blood, soul, lava and mind runes"},
+    {"t": 408, "text": "Outro and Dark Crab event stream"}
+  ],
+  "topics": [
+    {
+      "name": "Skilling pets",
+      "kind": "mechanic",
+      "claims": [
+        {"t": 0, "kind": "opinion", "text": "Gnomonkey says skilling pets are hugely sought after but often have unorthodox drop rates depending on the skilling activity."},
+        {"t": 0, "kind": "tip", "text": "The fastest way to get the Phoenix pet is by doing solo Wintertodt for more pet rolls, according to Gnomonkey."},
+        {"t": 0, "kind": "event", "text": "Gnomonkey skips obvious single-source pets such as the herbi and chinchompa pets, and skips the Tangleroot pet since it can be boosted by planting more or by just going for XP."},
+        {"t": 27, "kind": "opinion", "text": "Gnomonkey orders the skilling pets from least rare to most rare, putting Rocky first."}
+      ]
+    },
+    {
+      "name": "Rocky",
+      "kind": "item",
+      "claims": [
+        {"t": 27, "kind": "opinion", "text": "Gnomonkey says Rocky is arguably less rare than Heron to 99, but the efficient pet method takes an average of only 25 to 35 hours, blowing every other method for any other pet out of the water."},
+        {"t": 59, "kind": "stat", "text": "The Rocky pet is rolled each time you successfully steal something, either from a stall or on each pickpocket."},
+        {"t": 59, "kind": "stat", "text": "Rocky takes an average of 86 hours from Ardougne Knights, or 61 hours through Pyramid Plunder."},
+        {"t": 59, "kind": "tip", "text": "To get Rocky before 99, Gnomonkey would do as much Pyramid Plunder as possible."},
+        {"t": 59, "kind": "method", "text": "Post 99, the best method for Rocky is the Rellekka fish stalls, using two alts to hold the guards in place: one talks to the fishmonger and holds him in place while luring all the guards behind the fence, and the other talks to the fur trader, so you can hop between all four stalls and steal without getting caught."},
+        {"t": 93, "kind": "stat", "text": "The Rellekka stall method is a bit faster at 99, varying about 8% depending on your level, so Gnomonkey would most likely wait to get the pet until post 99."},
+        {"t": 93, "kind": "opinion", "text": "Gnomonkey does not recommend the Draynor stalls method because it also requires two alts and is about ten hours slower."}
+      ]
+    },
+    {
+      "name": "Heron",
+      "kind": "item",
+      "claims": [
+        {"t": 122, "kind": "stat", "text": "The Heron pet is rolled each time you catch a fish, and Gnomonkey says it has no unique standout method for obtaining it."},
+        {"t": 122, "kind": "stat", "text": "The technically fastest way to get Heron is two-tick tuna/swordfish, which gives the pet in an average of 84 hours, with three-tick barbarian fishing very close in rates."},
+        {"t": 122, "kind": "tip", "text": "Most other fishing methods have very similar rates, so Gnomonkey says to use your favourite method and keep going until you get the pet."},
+        {"t": 152, "kind": "stat", "text": "The best AFK fishing method, dark crabs, takes about 200 hours to get the Heron pet."}
+      ]
+    },
+    {
+      "name": "Beaver",
+      "kind": "item",
+      "claims": [
+        {"t": 152, "kind": "method", "text": "The fastest option for the Beaver pet is also the fastest woodcutting option, two-tick teaks, which can also be done in Prifddinas for crystal shards."},
+        {"t": 152, "kind": "stat", "text": "On average the Beaver pet takes 127 hours of chopping two-tick teaks, and the extremely intensive 1.5-tick teaks are even a bit faster."},
+        {"t": 184, "kind": "stat", "text": "The most AFK woodcutting option, redwoods, takes an average of 331 hours for the Beaver pet."},
+        {"t": 184, "kind": "opinion", "text": "Gnomonkey would personally stick with redwood logs even post 99, calling it genuinely one of the most AFK-scaling methods in the game."}
+      ]
+    },
+    {
+      "name": "Rock golem",
+      "kind": "item",
+      "claims": [
+        {"t": 184, "kind": "stat", "text": "The Rock golem pet is rolled for most mining methods each time you receive an ore."},
+        {"t": 210, "kind": "stat", "text": "Volcanic Mine solo gives the Rock golem in about 240 hours, and faster with a team; Gnomonkey calls it one of the best methods from 50 to 99 and very good AFK XP an hour."},
+        {"t": 210, "kind": "opinion", "text": "Gnomonkey says the Volcanic Mine minigame does not get enough love, and links a Volcanic Mine Discord for finding teams."},
+        {"t": 210, "kind": "stat", "text": "The Motherlode Mine and amethyst mining both have a pretty terrible Rock golem chance, taking just over 400 hours each."},
+        {"t": 237, "kind": "stat", "text": "Regular gem rock mining takes about 180 hours for the Rock golem and about 150 hours when four-ticking the gems."},
+        {"t": 237, "kind": "opinion", "text": "Gnomonkey says gem rocks are fairly intensive but give good XP and gp rates plus the best pet rate, so they are not a bad option even to 99 if you really want the pet."}
+      ]
+    },
+    {
+      "name": "Giant squirrel",
+      "kind": "item",
+      "claims": [
+        {"t": 237, "kind": "event", "text": "The Giant squirrel pet has been made a lot less rare to 99 with the addition of the Hallowed Sepulchre."},
+        {"t": 264, "kind": "stat", "text": "The agility pet is rolled each time you complete a full lap of a course."},
+        {"t": 264, "kind": "stat", "text": "Without the Sepulchre the pet is pretty slow, around 500 hours on the Prifddinas Agility Course or 400 hours on the Ardougne course."},
+        {"t": 264, "kind": "stat", "text": "The Hallowed Sepulchre's pet chance is rolled each time you exit a run back to the lobby, with a higher chance the deeper you go; the best chance is exiting floor five at 1 in 2,000, and it is not affected by level."},
+        {"t": 292, "kind": "stat", "text": "Looting coffins on floors four and five slows the Sepulchre pet rate to almost exactly 300 hours on average, while speedrunning to only the Grand Coffin could take around 240 hours or less."},
+        {"t": 292, "kind": "method", "text": "For the best chance at the pet before 99 Agility, Gnomonkey would do the Prifddinas Agility Course up to 85, then boost Ardougne and do that up to level 92, then move on to the Hallowed Sepulchre."},
+        {"t": 324, "kind": "stat", "text": "The Penguin course is the absolute fastest option for the agility pet at an average of 140 hours, but Gnomonkey recommends it only post 99 because it gives very poor XP and is still a pretty low pet chance."}
+      ]
+    },
+    {
+      "name": "Rift guardian",
+      "kind": "item",
+      "claims": [
+        {"t": 324, "kind": "opinion", "text": "Gnomonkey places the Rift guardian as the most rare skilling pet."},
+        {"t": 324, "kind": "stat", "text": "The Rift guardian pet is rolled for each essence used, so being able to use more essence is usually better."},
+        {"t": 350, "kind": "stat", "text": "For standard training, blood runes give the Rift guardian on average in 505 hours, and soul runecrafting is not far behind at around 515 hours, with more XP."},
+        {"t": 350, "kind": "stat", "text": "The technically best option for the pet, if you are insanely rich, is lava runecrafting with four runners, at only 78 hours."},
+        {"t": 376, "kind": "stat", "text": "Hiring people to run lava runecrafting costs 28 to 32M an hour, so doing it for the full 78 hours would cost over two billion gp, which Gnomonkey says is not realistically viable for most players."},
+        {"t": 376, "kind": "method", "text": "The best solo option for the Rift guardian is mind runes, using Mind Altar teleports to craft runes there as quickly as possible, averaging 250 hours."},
+        {"t": 376, "kind": "opinion", "text": "Lava runes are only slightly slower than mind runes, so Gnomonkey would probably just do lavas over mind runes if going for the pet post 99."}
+      ]
+    },
+    {
+      "name": "Gnomonkey",
+      "kind": "person",
+      "claims": [
+        {"t": 408, "kind": "event", "text": "Gnomonkey says that as the video went up he was streaming the Dark Crab event with his clan on Twitch, and planned to stream a lot of content."},
+        {"t": 408, "kind": "trivia", "text": "The video description credits the Pet Hunters Discord for the pet information used in the video."}
+      ]
+    }
+  ]
+}

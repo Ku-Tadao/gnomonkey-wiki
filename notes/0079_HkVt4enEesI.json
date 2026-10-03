@@ -1,0 +1,544 @@
+{
+  "id": "HkVt4enEesI",
+  "title": "PVM Boss Tier List (ALL BOSSES) OSRS",
+  "date": "2022-03-19",
+  "type": "news-opinion",
+  "summary": "Gnomonkey ranks essentially every OSRS boss and raid in a tier list based purely on how much he enjoys the fight, judged by skill floor and skill cap rather than loot. He puts Inferno at the very top of S tier, rates most simple tank-and-click bosses F, and ends with a full reordering of all tiers.",
+  "outline": [
+    {"t": 0, "text": "Introduction: tier list criteria (enjoyment, skill floor and skill cap)"},
+    {"t": 67, "text": "King Black Dragon, Hallowed Sepulchre, Scorpia and Wilderness bosses"},
+    {"t": 187, "text": "Skotizo, Zalcano, Kraken and free-to-play bosses"},
+    {"t": 374, "text": "Thermonuclear smoke devil, Zulrah, Wintertodt, Hespori, Kril Tsutsaroth"},
+    {"t": 554, "text": "Phosani's Nightmare and Grotesque Guardians"},
+    {"t": 731, "text": "Nex"},
+    {"t": 856, "text": "Cerberus, Kree'arra, Chaos Fanatic, Alchemical Hydra"},
+    {"t": 1070, "text": "Kalphite Queen, Corporeal Beast, Tempoross, Abyssal Sire"},
+    {"t": 1345, "text": "General Graardor and Dagannoth Kings"},
+    {"t": 1496, "text": "Chaos Elemental, Sarachnis, Venenatis, Giant Mole"},
+    {"t": 1789, "text": "Commander Zilyana, The Gauntlet, Fight Caves"},
+    {"t": 2086, "text": "The Inferno"},
+    {"t": 2236, "text": "Vorkath, Vet'ion, Barrows, Callisto, Mimic"},
+    {"t": 2598, "text": "Chambers of Xeric bosses: Tekton, Muttadile, Vespula, Vanguards, Vasa"},
+    {"t": 3109, "text": "The Great Olm and Chambers of Xeric overall"},
+    {"t": 3404, "text": "Challenge Mode Chambers of Xeric"},
+    {"t": 3524, "text": "Theater of Blood: Maiden, Bloat, Nylocas, Sotetseg"},
+    {"t": 4171, "text": "Xarpus and Verzik Vitur"},
+    {"t": 4600, "text": "Hard mode Theater of Blood rooms"},
+    {"t": 5263, "text": "Theater of Blood overall and hard mode overall"},
+    {"t": 5345, "text": "Ranking wrap-up: reordering S tier"},
+    {"t": 5402, "text": "Reordering A and B tiers"},
+    {"t": 5520, "text": "Reordering C, then F tier"}
+  ],
+  "topics": [
+    {
+      "name": "Opinion: PvM boss tier list",
+      "kind": "opinion",
+      "claims": [
+        {"t": 0, "kind": "opinion", "text": "Gnomonkey's boss tier list ranks bosses purely by how much he enjoys them, based on their skill floor and skill cap; he says it is opinion."},
+        {"t": 0, "kind": "trivia", "text": "Gnomonkey defines a skill floor as how difficult content is to jump into (a higher floor is worse), and a skill cap as how skilled you can become before the content peaks out (a high cap is good); he says some content has an infinite skill cap."},
+        {"t": 33, "kind": "trivia", "text": "In the tier list, the greyed-out versions of top bosses are the hard mode variants of Theater of Blood bosses, which he rates separately because they are mechanically different."},
+        {"t": 67, "kind": "trivia", "text": "Gnomonkey does not rank Challenge Mode variants of Chambers of Xeric bosses separately because they just have higher defence and health and are the same fight."},
+        {"t": 5345, "kind": "opinion", "text": "In the final order, Gnomonkey places the Inferno at the very top of S tier, with Theater of Blood content, Fight Caves, Verzik Vitur, Nylocas, and the Great Olm following in S tier, with Challenge Mode Chambers of Xeric near the bottom of S tier."},
+        {"t": 5432, "kind": "opinion", "text": "Gnomonkey puts The Gauntlet at the top of A tier, with Nex above Phosani's Nightmare and Hallowed Sepulchre right below Nex; Maiden of Sugadinti is the best of the A tier Theater of Blood fights."},
+        {"t": 5520, "kind": "opinion", "text": "In B tier Gnomonkey places Zalcano, Tempoross, Tekton and Xarpus hard mode toward the bottom, with Dagannoth Kings toward the top, Kril Tsutsaroth a step above Vanguards, and Vanguards above Vorkath."},
+        {"t": 5520, "kind": "opinion", "text": "In C tier Gnomonkey puts Kree'arra at the top followed by Giant Mole and Barrows right below it, with Zilyana, Vespula, Cerberus, Alchemical Hydra, Abyssal Sire, Chaos Elemental and Sarachnis below, calling Cerberus mechanically more interesting than most of them."},
+        {"t": 5520, "kind": "opinion", "text": "Gnomonkey says Muttadile is the worst boss in the game, with Wilderness bosses next, then Mimic, Corporeal Beast, Wintertodt, Thermonuclear smoke devil and Kraken, which he says is worse than the smoke devil."},
+        {"t": 5831, "kind": "opinion", "text": "Gnomonkey concludes the list has lots of F-tier bosses but lots of S and A tier content, and calls it a better balance than his pets video."}
+      ]
+    },
+    {
+      "name": "King Black Dragon",
+      "kind": "boss",
+      "claims": [
+        {"t": 67, "kind": "opinion", "text": "Gnomonkey says the most interesting thing about King Black Dragon is running to his lair in the Wilderness; the boss itself has no mechanics, just dragonfire, poison and stat drain, and you can kill it with a Twisted bow."},
+        {"t": 5402, "kind": "opinion", "text": "In the final reordering Gnomonkey says any boss with a mechanic must rank above King Black Dragon in the F tier, because KBD is just click the boss."}
+      ]
+    },
+    {
+      "name": "Hallowed Sepulchre",
+      "kind": "activity",
+      "claims": [
+        {"t": 101, "kind": "opinion", "text": "Gnomonkey calls Hallowed Sepulchre the agility boss and very good content that pushes movement in the game to its limits."},
+        {"t": 133, "kind": "opinion", "text": "Gnomonkey says Hallowed Sepulchre floor 5 is great because you can keep learning and getting better, the skill cap is really high, and it has some of the best scaling money in the game; he places it in A tier."},
+        {"t": 5432, "kind": "opinion", "text": "In the final order Gnomonkey places Hallowed Sepulchre just below Nex in A tier and not at the top, noting it is not a boss encounter so the placement is arbitrary."}
+      ]
+    },
+    {
+      "name": "Scorpia",
+      "kind": "boss",
+      "claims": [
+        {"t": 159, "kind": "trivia", "text": "Scorpia's only mechanic is that below half health she summons two small scorpions that heal her; solo you freeze them and move her away, or with an alt you just DPS through it."},
+        {"t": 159, "kind": "opinion", "text": "Gnomonkey rates Scorpia F tier because there is no skill involved, and says that since you can no longer X-log at the axe hut, fighting her in level 50 Wilderness is pretty much suicide until you get the pet."}
+      ]
+    },
+    {
+      "name": "Skotizo",
+      "kind": "boss",
+      "claims": [
+        {"t": 187, "kind": "opinion", "text": "Gnomonkey rates Skotizo easy F tier: he hits hard but if you stay out of his melee range while praying magic he cannot hit you, which Gnomonkey finds boring."},
+        {"t": 187, "kind": "opinion", "text": "Gnomonkey says the main problem with Skotizo is the crystals that spawn on the arena edge, killed by the melee weapon Arclight in one hit, with no cooldown, so unlucky runs are spent circling the arena hitting crystals."},
+        {"t": 219, "kind": "opinion", "text": "Gnomonkey says Skotizo would be a lot better if the crystal cooldown were reduced and a cap added on how many spawn at once."}
+      ]
+    },
+    {
+      "name": "Zalcano",
+      "kind": "boss",
+      "claims": [
+        {"t": 249, "kind": "opinion", "text": "Gnomonkey calls Zalcano an interesting skilling boss with cool movement options around her portals to avoid damage, and rates it B tier, saying it has more going on than people give it credit for but is not exceptional."},
+        {"t": 5520, "kind": "opinion", "text": "In the final reordering Gnomonkey puts Zalcano toward the bottom of B tier."}
+      ]
+    },
+    {
+      "name": "Kraken",
+      "kind": "boss",
+      "claims": [
+        {"t": 278, "kind": "opinion", "text": "Gnomonkey rates Kraken F tier, saying the most skilled thing is throwing a fishing explosive and moving back four tiles before the first cast; he describes it as left-click the boss until it dies, with typeless magic from tentacles."},
+        {"t": 5520, "kind": "opinion", "text": "Gnomonkey says Kraken is worse than Thermonuclear smoke devil in the final F tier ordering."}
+      ]
+    },
+    {
+      "name": "Obor",
+      "kind": "boss",
+      "claims": [
+        {"t": 311, "kind": "opinion", "text": "Gnomonkey rates the free-to-play boss Obor F tier: he can stun you sometimes, otherwise he just hits you and you hit him until he dies."},
+        {"t": 341, "kind": "opinion", "text": "Gnomonkey says it is hard to make a free-to-play boss mechanically interesting with no mechanics to work with."}
+      ]
+    },
+    {
+      "name": "Bryophyta",
+      "kind": "boss",
+      "claims": [
+        {"t": 311, "kind": "opinion", "text": "Gnomonkey rates the free-to-play boss Bryophyta F tier, noting her little spawns that you must chop with an axe require no skill or thought."}
+      ]
+    },
+    {
+      "name": "Thermonuclear smoke devil",
+      "kind": "boss",
+      "claims": [
+        {"t": 341, "kind": "opinion", "text": "Gnomonkey rates the Thermonuclear smoke devil F tier: it is left-click and it dies, with typeless damage like Kraken, though it dies fast."},
+        {"t": 341, "kind": "method", "text": "Gnomonkey notes skips at the smoke devil such as walking under it with a Scythe or harm staff, or freezing it out of range and then going to max range with a sanguinesti staff, but says none requires skill."},
+        {"t": 374, "kind": "opinion", "text": "Gnomonkey says the most skilled thing at the smoke devil is running an alt from a house and spec transferring over and over, which he dislikes and does not think sets a good precedent."}
+      ]
+    },
+    {
+      "name": "Zulrah",
+      "kind": "boss",
+      "claims": [
+        {"t": 374, "kind": "opinion", "text": "Gnomonkey says Zulrah has a lot going on, such as knowing how many hits you can fit in before she submerges, saving volatile nightmare staff specs for the melee phase (higher defence), and eight-way switches with lots of running."},
+        {"t": 408, "kind": "tip", "text": "Gnomonkey says that during Zulrah's first blue phase you can fit two blowpipe shots then a Twisted bow shot, landing the Twisted bow on the last tick before she submerges."},
+        {"t": 435, "kind": "opinion", "text": "Gnomonkey places Zulrah in high B tier, saying you cannot put it in A tier because it is not crazy, though there is cool stuff to do."}
+      ]
+    },
+    {
+      "name": "Wintertodt",
+      "kind": "activity",
+      "claims": [
+        {"t": 462, "kind": "opinion", "text": "Gnomonkey includes Wintertodt only because the game considers it a boss; he says he does not, describing it as chopping logs and throwing them in a fire, and calls it pretty terrible skilling content that is only better than clicking logs over and over."},
+        {"t": 5520, "kind": "opinion", "text": "Gnomonkey says Wintertodt is almost not a boss and may as well not be one, ranking it very low among the F tier."}
+      ]
+    },
+    {
+      "name": "Hespori",
+      "kind": "boss",
+      "claims": [
+        {"t": 491, "kind": "opinion", "text": "Gnomonkey rates Hespori F tier, saying it is only a little interesting in a speedrun, where hitting over a hundred with a chally can skip a phase."},
+        {"t": 5831, "kind": "opinion", "text": "In the final F tier reordering Gnomonkey places Hespori at the top of F because it is at least somewhat interesting in a speedrun."}
+      ]
+    },
+    {
+      "name": "Kril Tsutsaroth",
+      "kind": "boss",
+      "claims": [
+        {"t": 491, "kind": "opinion", "text": "Gnomonkey says Kril Tsutsaroth has many methods (solo 5-0 with a Twisted bow, DOLO, trolling, resupply alts) and rates him B tier, though even the 5-0 is just clicking the right tiles and then Kril, not exceptional skill."}
+      ]
+    },
+    {
+      "name": "Phosani's Nightmare",
+      "kind": "boss",
+      "claims": [
+        {"t": 554, "kind": "opinion", "text": "Gnomonkey says he is not a huge fan of the Nightmare and, in the video, assumes he is talking about Phosani's Nightmare because it pretty much replaces the regular Nightmare."},
+        {"t": 581, "kind": "trivia", "text": "Gnomonkey describes the Nightmare as having a big health pool hit with crush, very high defence, then a totem phase where you eight-way into magic to kill the totems; special attacks include husks, parasites and shadows, and everything kills you in two hits."},
+        {"t": 610, "kind": "opinion", "text": "Gnomonkey rates Phosani's Nightmare A tier content, saying it takes a lot of skill and practice but is lacking something: the skill is not making a mistake against a high-hitting boss, and he prefers content that pushes you toward better times or more damage."},
+        {"t": 5402, "kind": "opinion", "text": "In the final ordering Gnomonkey places Nex above Phosani's Nightmare in A tier."}
+      ]
+    },
+    {
+      "name": "Grotesque Guardians",
+      "kind": "boss",
+      "claims": [
+        {"t": 643, "kind": "opinion", "text": "Gnomonkey calls Dawn and Dusk (Grotesque Guardians) genuinely the most mechanically interesting Slayer boss, with several phases, lots of gear switching, and last hits with a chally and ballista."},
+        {"t": 673, "kind": "opinion", "text": "Gnomonkey says Grotesque Guardians has horrible loot, which is why many dislike it, but he is judging only on how interesting the fight is, and places it in high B tier."},
+        {"t": 701, "kind": "opinion", "text": "Gnomonkey says the Grotesque Guardians fight is mostly hitting the boss and moving away from things on the ground; the heal skip is just shooting a lot and hoping, and the end is switching prayer to whatever the boss last attacked with."},
+        {"t": 5520, "kind": "opinion", "text": "In the final reordering Gnomonkey puts Grotesque Guardians below Zulrah in B tier."}
+      ]
+    },
+    {
+      "name": "Nex",
+      "kind": "boss",
+      "claims": [
+        {"t": 731, "kind": "opinion", "text": "Gnomonkey says rating Nex high will be controversial: he calls her high A tier, not S tier, with more going on than people give her credit for."},
+        {"t": 760, "kind": "method", "text": "In his Nex teams Gnomonkey says they use a rapier switch and a four-way to the Twisted bow, and previously a ZCB switch, hitting the boss with the rapier then quickly switching to the Twisted bow on the minions."},
+        {"t": 792, "kind": "trivia", "text": "Gnomonkey notes Nex's Embrace Darkness attack can kill you if she enters melee mode on someone, hitting 20s repeatedly, so his team positions during Fumus so they can reset her to the middle before Umbra and hit her from a specific area in the shadow phase."},
+        {"t": 792, "kind": "tip", "text": "If Nex enters melee mode, Gnomonkey's team goes under her to reset her to the middle."},
+        {"t": 824, "kind": "opinion", "text": "Gnomonkey says he likes controlling Nex's position and having one person in range of her while the rest stay out of range to avoid damage, and that this is a mechanic people ignore by just ranging the boss with their brain off; he calls it definitely A tier."}
+      ]
+    },
+    {
+      "name": "Cerberus",
+      "kind": "boss",
+      "claims": [
+        {"t": 856, "kind": "opinion", "text": "Gnomonkey says Cerberus has an algorithm to his auto attacks you could learn to protect against everything, but calls it insanely difficult and not worth the effort; the ghosts only require switching prayer to the ghost colour every two ticks."},
+        {"t": 888, "kind": "tip", "text": "Gnomonkey dodges Cerberus's initial lava pool by moving under him with correct timing, which he finds a little interesting."},
+        {"t": 888, "kind": "opinion", "text": "Gnomonkey rates Cerberus C tier, saying half the fight is pretty much AFK; the most interesting thing is running a resupply alt."}
+      ]
+    },
+    {
+      "name": "Kree'arra",
+      "kind": "boss",
+      "claims": [
+        {"t": 918, "kind": "method", "text": "Gnomonkey describes Kree'arra (Armadyl) solo as two-ticking the boss and one-ticking the minion with chinchompas to prevent melee hits; DOLO it is almost AFK, praying ranged with Rigor and chinning."},
+        {"t": 949, "kind": "opinion", "text": "Gnomonkey rates Kree'arra high C tier, saying there is little going on besides juggling food and freezing the boss over the minion by targeting it."}
+      ]
+    },
+    {
+      "name": "Chaos Fanatic",
+      "kind": "boss",
+      "claims": [
+        {"t": 983, "kind": "opinion", "text": "Gnomonkey lumps Chaos Fanatic with the archaeologists, saying they are not interesting bosses: they throw out books or green energy that explodes if you stand in it, and otherwise you just attack the boss."}
+      ]
+    },
+    {
+      "name": "Alchemical Hydra",
+      "kind": "boss",
+      "claims": [
+        {"t": 1015, "kind": "opinion", "text": "Gnomonkey says the Alchemical Hydra is boring and mindless: if you can count to three attacks you are good at it, and he rates it C tier."},
+        {"t": 1044, "kind": "trivia", "text": "Gnomonkey notes you can lure the Alchemical Hydra onto the vents early for extra DPS, and that the electricity skip and fire skip are simple, with all mechanics learnable in 10 or 20 kills."}
+      ]
+    },
+    {
+      "name": "Kalphite Queen",
+      "kind": "boss",
+      "claims": [
+        {"t": 1070, "kind": "opinion", "text": "Gnomonkey says the Kalphite Queen's special mechanic is that she hits through armour, which he calls stupid design (negating a mechanic entirely); the eight-way between phases is only about fifteen seconds and requires little thought."},
+        {"t": 1100, "kind": "opinion", "text": "Gnomonkey rates the Kalphite Queen high F tier."}
+      ]
+    },
+    {
+      "name": "Corporeal Beast",
+      "kind": "boss",
+      "claims": [
+        {"t": 1127, "kind": "opinion", "text": "Gnomonkey calls Corporeal Beast so bad it cannot go anywhere but F: drain all its defence and hit it with a spear, with groups slightly more interesting because you drain it less before fighting."},
+        {"t": 1157, "kind": "opinion", "text": "Gnomonkey says the most interesting Corporeal Beast mechanic is walking back and forth on the dark core, but everyone just freezes it in place; he rates it a higher F tier."}
+      ]
+    },
+    {
+      "name": "Tempoross",
+      "kind": "boss",
+      "claims": [
+        {"t": 1157, "kind": "opinion", "text": "Gnomonkey says Jagex considers Tempoross a boss and that he finds it interesting if you do firefighter, because it plays into Sepulchre-style movement tech by positioning efficiently near many fires."},
+        {"t": 1219, "kind": "opinion", "text": "Gnomonkey says Tempoross is boring for the first half and, done any other way (not solo, or XP solo methods), boring overall; he rates it between C and B and puts it below Zalcano."}
+      ]
+    },
+    {
+      "name": "Abyssal Sire",
+      "kind": "boss",
+      "claims": [
+        {"t": 1219, "kind": "method", "text": "Gnomonkey describes the Abyssal Sire fight: shadow barrage the boss to stun it, kill the respiratory systems with magic, then hit the boss in the second phase; with an alt you land a hammer, then claw, and the last phase is a time attack."},
+        {"t": 1252, "kind": "opinion", "text": "Gnomonkey says the Abyssal Sire's time-attack ending does not play well with RNG because you can flop, and that the only skills are walking the square at the end and moving on when the respiratory XP drop shows; he rates it a higher C tier."}
+      ]
+    },
+    {
+      "name": "General Graardor",
+      "kind": "boss",
+      "claims": [
+        {"t": 1345, "kind": "opinion", "text": "Gnomonkey calls the solo melee method at General Graardor, with shield flicking and going under the boss to set up minion patterns so you can flick everything, crazy skilled and very cool to see on an Ironman."},
+        {"t": 1374, "kind": "opinion", "text": "Gnomonkey also likes the Bova (9-0 / 7-0) method that involves clicking around the room constantly, and says duo or DOLO is just hitting the boss, which is boring."},
+        {"t": 1401, "kind": "opinion", "text": "Gnomonkey places General Graardor in lower A tier because the shield method makes the boss transcend B tier, saying methods change how interesting a boss is."}
+      ]
+    },
+    {
+      "name": "Dagannoth Kings",
+      "kind": "boss",
+      "claims": [
+        {"t": 1432, "kind": "opinion", "text": "Gnomonkey says fighting the Dagannoth Kings in one cave while waiting for respawns is F tier, but going back and forth between two caves with reactive off-ticking of Supreme and Prime is interesting; it is one of the only reactive content besides the Inferno."},
+        {"t": 1463, "kind": "opinion", "text": "Gnomonkey says Dagannoth Kings take some skill to set up off-ticks but are simple once you have a method, and he places them in high B tier, near the top of B."}
+      ]
+    },
+    {
+      "name": "Chaos Elemental",
+      "kind": "boss",
+      "claims": [
+        {"t": 1496, "kind": "trivia", "text": "Gnomonkey says the Chaos Elemental uses purely random attack styles, protecting from magic prevents the most damage, it teleports you, and its item takeoff attack is the most interesting part because leaving one inventory slot open lets it use a free attack."},
+        {"t": 1559, "kind": "opinion", "text": "Gnomonkey rates the Chaos Elemental low C tier and likes that it is a fast Wilderness boss with a high pet drop rate, saying he hates Wilderness pets in general and wishes more followed that model."}
+      ]
+    },
+    {
+      "name": "Sarachnis",
+      "kind": "boss",
+      "claims": [
+        {"t": 1586, "kind": "opinion", "text": "Gnomonkey calls Sarachnis a mid-level boss that is not for mid-levels but for high levels wanting elite clues or the pet, which he considers bad design."},
+        {"t": 1586, "kind": "trivia", "text": "Gnomonkey notes that at Sarachnis you pray melee, pray ranged when she webs you (a guaranteed ranged hit), stand in a specific square to be hit only once, and she spawns melee and mage spiders so high mage defence like Karil's is encouraged."},
+        {"t": 1616, "kind": "opinion", "text": "Gnomonkey rates Sarachnis C tier, saying it has the bare minimum of mechanics and thought."}
+      ]
+    },
+    {
+      "name": "Venenatis",
+      "kind": "boss",
+      "claims": [
+        {"t": 1643, "kind": "opinion", "text": "Gnomonkey rates Venenatis easy F tier because you safe spot it, then AFK and hover over your seed pod, and says the only skill is clicking a seed pod when a red dot appears."},
+        {"t": 1672, "kind": "opinion", "text": "Gnomonkey says all Wilderness bosses that can be safe-spotted go in F tier, adding that you should not be able to safe spot them."}
+      ]
+    },
+    {
+      "name": "Giant Mole",
+      "kind": "boss",
+      "claims": [
+        {"t": 1672, "kind": "opinion", "text": "Gnomonkey calls Giant Mole the best mid-level boss in the game, with 200 health and a random chance for each hitsplat once below 100 health to make it dig around the room."},
+        {"t": 1705, "kind": "opinion", "text": "Gnomonkey says Giant Mole encourages slow heavy-hitting weapons like a Dharok's set or Twisted bow and discourages claw or dragon dagger specs, which he says no other boss in the game does."},
+        {"t": 1734, "kind": "opinion", "text": "Gnomonkey says fighting Giant Mole taught him corner safe spots for the Inferno, because mole digging works like an Inferno melee."},
+        {"t": 1763, "kind": "opinion", "text": "Gnomonkey rates Giant Mole in highest C tier, saying it has more going on than people give it credit for but is not exceptional."}
+      ]
+    },
+    {
+      "name": "Commander Zilyana",
+      "kind": "boss",
+      "claims": [
+        {"t": 1789, "kind": "opinion", "text": "Gnomonkey calls Commander Zilyana boring: with a Twisted bow or Armadyl crossbow you run in a big square clicking the boss every five ticks, and the only skill is optionally flicking minions."},
+        {"t": 1820, "kind": "opinion", "text": "Gnomonkey says Zilyana DOLO can be done almost forever with an alt killing the minions and giving run energy, and calls her the only boss that really requires purple sweets besides challenge mode speedruns."},
+        {"t": 1848, "kind": "opinion", "text": "Gnomonkey considers Zilyana genuinely the least interesting God Wars boss and rates her high C tier."}
+      ]
+    },
+    {
+      "name": "The Gauntlet",
+      "kind": "activity",
+      "claims": [
+        {"t": 1876, "kind": "opinion", "text": "Gnomonkey treats the Gauntlet (normal and corrupted) as one piece of content, with the normal Gauntlet an easy mode that teaches corrupted safely."},
+        {"t": 1876, "kind": "opinion", "text": "Gnomonkey says the Gauntlet has the lowest skill floor and the highest skill cap gap in the game: you can start really bad and work up to very good, which he calls one of its best design features."},
+        {"t": 1907, "kind": "opinion", "text": "Gnomonkey dislikes that as you get faster in the Gauntlet you eventually have to chance it, working down the number of fish and dying if you do not hit hard enough, which he says makes the skill cap arbitrarily lower than it needs to be; a perfect 10 fish kill is where he says it is a guaranteed kill."},
+        {"t": 1937, "kind": "opinion", "text": "Gnomonkey rates the Gauntlet A tier, great content but not S, and in the final order places it at the top of A tier."}
+      ]
+    },
+    {
+      "name": "Fight Caves",
+      "kind": "activity",
+      "claims": [
+        {"t": 1971, "kind": "opinion", "text": "Gnomonkey says a standard Fight Caves run is probably B tier, with skill in safe spotting and Jad being scary the first time."},
+        {"t": 1971, "kind": "opinion", "text": "Gnomonkey says Fight Caves speedruns are crazy skill-intensive: a third age bow, long-range fast hits, a website laying out where to run for the next wave, not dragging enemies, venging when you have health, and drinking Guthix rest to not waste ticks."},
+        {"t": 1998, "kind": "opinion", "text": "Gnomonkey dislikes that Fight Caves speedruns still require grinding Slayer tasks but is glad there is an off-task speedrun category."},
+        {"t": 2027, "kind": "opinion", "text": "Gnomonkey places Fight Caves speedrunning in S tier at the bottom of S, double venging Jad so you have one health left at the end; some players bring claws and some do not."}
+      ]
+    },
+    {
+      "name": "Inferno",
+      "kind": "activity",
+      "claims": [
+        {"t": 2058, "kind": "opinion", "text": "Gnomonkey calls the Inferno the best content in the game by far and says if he had an SSS tier it would go there, so he puts it at the top of S tier."},
+        {"t": 2086, "kind": "opinion", "text": "Gnomonkey calls the Inferno the only reactive content in the game: waves are purely random and you must immediately react to what spawns, like a speed chess match, while constantly at low health trying to heal efficiently."},
+        {"t": 2117, "kind": "opinion", "text": "Gnomonkey says he is judging the Inferno from a speedrun perspective, but it is still S tier on a normal run because of the reactive wave-solving."},
+        {"t": 2143, "kind": "tip", "text": "Gnomonkey cites Inferno speedrun tech from the Inferno Speedrunning Discord: Scythe tech to kill things faster, not dragging NPCs so they die a tick faster, killing in the right order because of death animation lengths, and standing in the right place for triple Jads so healers lure behind you."},
+        {"t": 2174, "kind": "tip", "text": "Gnomonkey describes Zuk skips such as tagging the mage without killing it, tagging Jad and off-ticking them two ticks apart to protect against both, and tagging every healer while flicking the mage and Jad."},
+        {"t": 2206, "kind": "opinion", "text": "Gnomonkey says no one will ever hit the skill cap on the Inferno, calling it RuneScape at its best."}
+      ]
+    },
+    {
+      "name": "Vorkath",
+      "kind": "boss",
+      "claims": [
+        {"t": 2236, "kind": "opinion", "text": "Gnomonkey says Vorkath is interesting mostly because of Woox walking, and likes it more with the Dragon hunter crossbow; Torva with the Dragon hunter lance is another method, and a ZCB may now be faster."},
+        {"t": 2265, "kind": "opinion", "text": "Gnomonkey says there is not a lot going on at Vorkath beyond avoiding fireballs, Woox walking the whole kill with the lance, and clicking the spawn when frozen."},
+        {"t": 2293, "kind": "opinion", "text": "Gnomonkey places Vorkath in B tier, lower than Zulrah, saying it is not bad but not great."}
+      ]
+    },
+    {
+      "name": "Vet'ion",
+      "kind": "boss",
+      "claims": [
+        {"t": 2293, "kind": "opinion", "text": "Gnomonkey calls Vet'ion the worst Wilderness boss, an easy F tier, because after the X-logging change you are in multi above level 30 Wilderness and are likely to die suiciding for the pet."},
+        {"t": 2326, "kind": "opinion", "text": "Gnomonkey says before the X-logging change you escaped by running to singles and logging out on the red spiders, which was lame itself; now you tank all the way to the ditch or a ladder."},
+        {"t": 2379, "kind": "opinion", "text": "Gnomonkey says the one thing he likes at Vet'ion is dragging the hellhounds back to level 30 Wilderness so you can teleport while killing them."}
+      ]
+    },
+    {
+      "name": "Barrows",
+      "kind": "activity",
+      "claims": [
+        {"t": 2379, "kind": "opinion", "text": "Gnomonkey considers Barrows good mid-level content and what Jagex should strive for if they add more, though he thinks they should not add many mid-level bosses."},
+        {"t": 2410, "kind": "opinion", "text": "Gnomonkey says all mid-level content should not have a pet, because it keeps mid-levels grinding it instead of high levels; he notes Barrows has no pet."},
+        {"t": 2443, "kind": "opinion", "text": "Gnomonkey rates Barrows C tier, below Giant Mole, as solid mid-level content for mid-levels."}
+      ]
+    },
+    {
+      "name": "Callisto",
+      "kind": "boss",
+      "claims": [
+        {"t": 2470, "kind": "opinion", "text": "Gnomonkey considers Callisto the second-worst Wilderness boss, unaffected by the X-logging change, with one interesting trick: luring it on a different world and killing it on your main while hopping."},
+        {"t": 2502, "kind": "opinion", "text": "Gnomonkey says Callisto may have the highest defence of any boss, enough that thralls provide something like 20% of your DPS, and that high-defence bosses are not fun."},
+        {"t": 2532, "kind": "trivia", "text": "Gnomonkey jokes that his bone dagger tech puts Callisto in S tier: when your alt uses vulnerability, you can use a bone dagger as the first hit on the main."}
+      ]
+    },
+    {
+      "name": "Mimic",
+      "kind": "boss",
+      "claims": [
+        {"t": 2565, "kind": "trivia", "text": "Gnomonkey says you kill the Mimic by going max melee with claws and speccing twice, then switching to max mage, killing it in about five seconds."},
+        {"t": 2565, "kind": "opinion", "text": "Gnomonkey rates the Mimic F tier but says it is just a loot roll on a clue scroll, so he does not mind that it is not exceptional."}
+      ]
+    },
+    {
+      "name": "Tekton",
+      "kind": "boss",
+      "claims": [
+        {"t": 2598, "kind": "trivia", "text": "Gnomonkey says at Tekton you can either cycle his hits every third tick or run around him in a square, which breaks his animation so he looks like he is hitting you but is not."},
+        {"t": 2629, "kind": "opinion", "text": "Gnomonkey says Tekton is a high-defence boss that is fun if you hit hammers and miserable if you do not, with a challenge mode tech involving landing vulnerability and luring him over, and dislikes that he regenerates defence on the way to the anvil."},
+        {"t": 2656, "kind": "opinion", "text": "Gnomonkey rates Tekton lower B tier and notes a last hit with a harder-hitting weapon like a Scythe instead of a mace as he walks to the anvil."}
+      ]
+    },
+    {
+      "name": "Muttadile",
+      "kind": "boss",
+      "claims": [
+        {"t": 2688, "kind": "opinion", "text": "Gnomonkey calls Muttadile the worst boss in the game and says one of the main reasons he made the video was to rant about it."},
+        {"t": 2688, "kind": "trivia", "text": "Gnomonkey describes the small Muttadile as sporadic, sometimes backing off and sometimes approaching, switching between ranged and melee even while biting, and sometimes not allowing safe spotting around the tree."},
+        {"t": 2751, "kind": "trivia", "text": "Gnomonkey says freezing the small Muttadile needs someone beyond Ancient magic, big Muttadile cannot really be frozen because of its very high magic level (needing a ZGS), and in CMs at most scales you just chop the tree while being hit."},
+        {"t": 2783, "kind": "opinion", "text": "Gnomonkey says Big Muttadile has an instant-kill melee attack and that you can be comboed for a 60 or more in one hit; he says Jagex reduced combo potential by raising the minimum and lowering the maximum hit, but he would be happy to see the boss removed."}
+      ]
+    },
+    {
+      "name": "Vespula",
+      "kind": "boss",
+      "claims": [
+        {"t": 2844, "kind": "method", "text": "Gnomonkey says his team cheeses Vespula instead of doing it the intended way (shooting her down and hitting the portal until she gets back up), praying Rigor and Redemption and following a tile pattern to Twisted bow the portal."},
+        {"t": 2873, "kind": "tip", "text": "Gnomonkey says you can use prayer enhance or extra prayer potions made in a CM so you waste no prayer potions at Vespula."},
+        {"t": 2873, "kind": "opinion", "text": "Gnomonkey rates Vespula high C tier, a DPS check against a portal with stupid defence that cannot be drained because it is outside melee distance, and says it is not skilled."}
+      ]
+    },
+    {
+      "name": "Vanguards",
+      "kind": "boss",
+      "claims": [
+        {"t": 2901, "kind": "trivia", "text": "Gnomonkey says there are three Vanguards (mage, melee, ranged) that you hit with the combat triangle and must be killed at the same time; if you do too much damage to one they reset and heal to full."},
+        {"t": 2934, "kind": "opinion", "text": "Gnomonkey dislikes the Vanguards reset mechanic and would prefer it to punish you with something like meteors, saying that if it did he would put Vanguards in high A tier."},
+        {"t": 2962, "kind": "opinion", "text": "Gnomonkey rates Vanguards high B tier, calling it one of the better Chambers of Xeric fights with a lot of thought in keeping health similar and timing claw specs, but annoying when a hard Twisted bow shot forces a restart."}
+      ]
+    },
+    {
+      "name": "Vasa Nistirio",
+      "kind": "boss",
+      "claims": [
+        {"t": 3019, "kind": "trivia", "text": "Gnomonkey says Vasa instantly health bombs you at the start, so players heal to full and take the hit on purpose to Vengeance the boss, which he calls the only boss where Vengeance is technically better than thralls."},
+        {"t": 3049, "kind": "opinion", "text": "Gnomonkey says Vasa is a DPS check like Vespula but not a bad one, with an eight-way into stab to hit crystals, typically two or three crystals to kill her, and rates it B tier, with less skill than Vanguards but less annoying."},
+        {"t": 3109, "kind": "opinion", "text": "Gnomonkey notes that not a single regular Chambers of Xeric boss made it into A tier."}
+      ]
+    },
+    {
+      "name": "Great Olm",
+      "kind": "boss",
+      "claims": [
+        {"t": 3109, "kind": "opinion", "text": "Gnomonkey calls the Great Olm one of the best fights in the game, with so much skill and thought in cycles, and puts it in lower S tier."},
+        {"t": 3109, "kind": "opinion", "text": "Gnomonkey says the Olm is good because you prep the whole raid for one final battle, so the skill is how much prep you have to do, and he says in teams Olm is usually really simple."},
+        {"t": 3163, "kind": "method", "text": "Gnomonkey describes solo Olm methods: a 1-4 (or 4-1) melee method with four melee hits then dodging the special without losing ticks, and 4-0 magic where you take no hits from Olm, including on the last phase by switching gear very fast because the hand does not cripple."},
+        {"t": 3192, "kind": "tip", "text": "Gnomonkey notes the flame skip works when standing next to a wall or in the dead centre of the room, and that in the head phase you take a hit about every four turns, or can skip ticks on a Twisted bow to avoid all damage."},
+        {"t": 3220, "kind": "opinion", "text": "Gnomonkey dislikes Olm's teleports that can randomly place you in a corner in solo, and says the melee hand defence holds Olm back as it does the other Chambers bosses if you miss a hammer."}
+      ]
+    },
+    {
+      "name": "Chambers of Xeric",
+      "kind": "raid",
+      "claims": [
+        {"t": 3253, "kind": "opinion", "text": "Gnomonkey says Chambers of Xeric has a ton of thought in layout and scouting, but that scouting is disliked and holds it back; he rates regular Chambers A tier, not S, because the regular bosses do not need much skill."},
+        {"t": 3344, "kind": "opinion", "text": "Gnomonkey says Challenge Mode Chambers has a ton of skill and teamwork, such as sending one person to finish the Vanguard prep while the rest kill Vanguards, tightrope skips, and crab communication, but also lots of boring downtime."},
+        {"t": 3434, "kind": "opinion", "text": "Gnomonkey says the skill in Challenge Mode is mostly logistics, pulling out what you need for next rooms efficiently, and dislikes that everything has its defence cranked for no reason and that missing hammers is annoying."},
+        {"t": 3464, "kind": "opinion", "text": "Gnomonkey calls the Muttadile room horrible in CMs, way worse than regular, but still cannot put Challenge Mode lower than S because it is so skilled; he places it at the bottom of S, below Olm."},
+        {"t": 3495, "kind": "opinion", "text": "Gnomonkey complains that Challenge Mode has loading lag lines where you can lag for about three ticks loading the next chunk of the room, which he calls an engine bug."},
+        {"t": 5520, "kind": "opinion", "text": "In the final order Gnomonkey places the entire Chambers of Xeric raid just above Xarpus."}
+      ]
+    },
+    {
+      "name": "Theater of Blood",
+      "kind": "raid",
+      "claims": [
+        {"t": 5230, "kind": "opinion", "text": "Gnomonkey calls Theater of Blood as a whole amazing S tier content, above CMs, where every room requires skill and allows harder, chancier strategies that lower your health but make you go faster, which he says Jagex should focus on in future."},
+        {"t": 5263, "kind": "opinion", "text": "Gnomonkey says the main thing he dislikes about Theater of Blood is that almost every room requires reducing defence."},
+        {"t": 4077, "kind": "opinion", "text": "Gnomonkey says a through line of Theater of Blood is that when you mess up your team is punished, which he says is something the raid does a lot."}
+      ]
+    },
+    {
+      "name": "Maiden of Sugadinti",
+      "kind": "boss",
+      "claims": [
+        {"t": 3524, "kind": "opinion", "text": "Gnomonkey says he really likes Maiden of Sugadinti and thinks she may be the best boss of the Theater of Blood; he rates her high A tier, not quite S."},
+        {"t": 3524, "kind": "trivia", "text": "Gnomonkey says everyone scythes Maiden as best DPS, and near 70% health one or two mages quickly switch to magic and cast freezes on the blood tick spawns."},
+        {"t": 3555, "kind": "tip", "text": "Gnomonkey describes MG in a trio, where the team kills the ticks on one side while the mage freezes the other side, and stacking in four or five man, where two mages tick-perfect freeze while DPS drop claw specs and barrage the clump."},
+        {"t": 3620, "kind": "opinion", "text": "Gnomonkey says Maiden's blood mechanic is annoying because the whole team is punished when one person messes up, but he considers it simple to dodge and says mages have the hardest role in the fight."}
+      ]
+    },
+    {
+      "name": "Pestilent Bloat",
+      "kind": "boss",
+      "claims": [
+        {"t": 3685, "kind": "trivia", "text": "Gnomonkey says Pestilent Bloat walks around a central pillar shooting flies if you are in line of sight, pseudo-randomly turning, and you do half damage while he is up, so you cram damage in when he goes down roughly every 40 ticks."},
+        {"t": 3719, "kind": "tip", "text": "Gnomonkey says you can tick eat Bloat's stomp attack to get an extra hit, helping get the two-down or one-down more consistently, and that peanut ging is another advanced technique he has barely tried."},
+        {"t": 3746, "kind": "opinion", "text": "Gnomonkey rates Pestilent Bloat lower A tier, less interesting than other Theater of Blood bosses but still a good fight."}
+      ]
+    },
+    {
+      "name": "Nylocas",
+      "kind": "boss",
+      "claims": [
+        {"t": 3773, "kind": "opinion", "text": "Gnomonkey says learners think the Nylocas room is the most boring wave fight, but he genuinely thinks it might be the highest skill room in the raid if you are going fast, close to Verzik."},
+        {"t": 3799, "kind": "trivia", "text": "Gnomonkey says the Nylocas spawns are set and always come the same way, with only the big ones that split into small ones being random, and that it takes about fifty to a hundred raids to be good at any given roll."},
+        {"t": 3831, "kind": "trivia", "text": "Gnomonkey describes the Nylocas roles: the mage catches barrages on the pillars, the ranger decides when to chin and pipe without losing ticks, and the melee runs around the room with a three tick weapon."},
+        {"t": 3863, "kind": "trivia", "text": "Gnomonkey says Nylocas Vasilias switches style repeatedly so you need the protection prayer up for each (hitting up to a 70), only the matching style can damage it, and you prioritise melee, then ranged, then magic hits."},
+        {"t": 3895, "kind": "tip", "text": "Gnomonkey explains tick banking: tick-saving after a mage cycle lets you fit extra shots like a Twisted bow, pipe, then Twisted bow in a ten tick cycle, and similarly chally specs without losing hits."},
+        {"t": 3956, "kind": "opinion", "text": "Gnomonkey says he loves the Nylocas room and places it at the bottom of S tier."},
+        {"t": 5402, "kind": "opinion", "text": "In the final ordering Gnomonkey places regular Nylocas right below Great Olm in S tier, with hard mode a step down."}
+      ]
+    },
+    {
+      "name": "Sotetseg",
+      "kind": "boss",
+      "claims": [
+        {"t": 3956, "kind": "opinion", "text": "Gnomonkey says the fight part of Sotetseg is not that good: it has three phases with high defence that resets each phase, so teammates plan spec order to drain defence, and he dislikes defence-draining mechanics and missed hammers."},
+        {"t": 4012, "kind": "trivia", "text": "Gnomonkey says Sotetseg fires a magic or ranged attack at someone that splits into two orbs toward teammates, with skill in timing your melee prayer between orbs, and that the Bandos or Torva defence encourages leaving Void."},
+        {"t": 4044, "kind": "opinion", "text": "Gnomonkey loves the Sotetseg maze: one person goes to the underworld and runs a tile path that the team must follow in the overworld, with about 20s damage per tick if they step wrong and a tornado if too slow."},
+        {"t": 4109, "kind": "opinion", "text": "Gnomonkey says he kills learners in the Sotetseg maze by running as fast as he can, which makes people go fast, and rates Sotetseg A tier."},
+        {"t": 4137, "kind": "tip", "text": "Gnomonkey says you can group up in Sotetseg's main fight to spread the orb damage, or tick eat it, and that you can pop Vengeance the whole fight because there is no reason to keep health high, flinching with the Scythe."}
+      ]
+    },
+    {
+      "name": "Xarpus",
+      "kind": "boss",
+      "claims": [
+        {"t": 4171, "kind": "opinion", "text": "Gnomonkey says Xarpus is the easiest room in Theater of Blood and he has never wiped there; he hates the start where you walk on graves so it does not heal armour, and suggests letting players poke Xarpus to absorb the grave health and start immediately."},
+        {"t": 4204, "kind": "trivia", "text": "Gnomonkey says Scythe walking at Xarpus takes skill and has a big learning curve, and a mistake hurts teammates later because it marks tiles, while five-ticking with the Scythe means purposefully raging tiles that do not matter to teammates."},
+        {"t": 4263, "kind": "trivia", "text": "Gnomonkey says in Xarpus's last phase damage taken facing you is reflected back, so a Scythe hit can kill you, and the 2-2-1 technique gets two Scythe hits tick perfect, another two the next turn, then one."},
+        {"t": 4291, "kind": "opinion", "text": "Gnomonkey places Xarpus in A tier because it is still scalable to go fast, even though you almost never wipe there."}
+      ]
+    },
+    {
+      "name": "Verzik Vitur",
+      "kind": "boss",
+      "claims": [
+        {"t": 4320, "kind": "opinion", "text": "Gnomonkey treats Verzik Vitur as one boss with three phases and says explaining all the mechanics would take about ten minutes."},
+        {"t": 4320, "kind": "trivia", "text": "Gnomonkey describes phase 1: Verzik attacks about every 15 ticks hitting up to a 60 through Protect from Magic, you hide behind pillars, Scythe and thralls give the most DPS, and you cast Dawnbringer specs in an order across the team."},
+        {"t": 4417, "kind": "tip", "text": "Gnomonkey describes the trio 1-1-2 spec order in Verzik phase 1, where the first two players do one spec each and the next does two before getting behind the pillar, all tick perfect."},
+        {"t": 4445, "kind": "opinion", "text": "Gnomonkey says phase 2 has the least interesting skill of the fight: a four tick attack cycle, healing crabs after 35%, and some skill in knowing when to ignore the crabs."},
+        {"t": 4511, "kind": "trivia", "text": "Gnomonkey describes phase 3: she picks a tank who must stay out of melee range on a seven tick cycle, spawns tick bombs, web running is easy, yellow tiles are about communication, and the green ball hits up to a 74 so health must be high enough."},
+        {"t": 4574, "kind": "opinion", "text": "Gnomonkey says Verzik has to be an S tier fight, especially the tornadoes at the end, with a lot of skill in not losing ticks, and that it ends up above Nylocas."}
+      ]
+    },
+    {
+      "name": "Theater of Blood Hard Mode",
+      "kind": "raid",
+      "claims": [
+        {"t": 4600, "kind": "opinion", "text": "Gnomonkey says hard mode Maiden makes blood spawns invincible so you want to freeze them, and each crab that reaches Maiden makes her attack a tick faster; he thinks it is about on par with regular Maiden, just more punishing, with less fun skill tech like MG or stacking."},
+        {"t": 4693, "kind": "opinion", "text": "Gnomonkey says hard mode Bloat turns more often and more randomly, drops meat even when he is down, and has more health, making Bloat less interesting because stomp tick tricks are now random and he can turn right into you, though it is still A tier."},
+        {"t": 4752, "kind": "opinion", "text": "Gnomonkey says hard mode Nylocas adds mini-bosses and reflects damage when you hit clumps with the wrong style, making it less skilled because chinning and barraging clumps is lost, and says hard mode Nylocas Vasilias punishes you for teammates' positioning (magic hits only the targeted player if clumped, ranged hits all) and is a step down from regular, still S tier."},
+        {"t": 4925, "kind": "opinion", "text": "Gnomonkey says hard mode Sotetseg shoots two death orbs to be split across teammates and has per-person maze chunks, which adds little, placing it about equal to regular Sotetseg."},
+        {"t": 4987, "kind": "opinion", "text": "Gnomonkey calls hard mode Xarpus a joke and easier than regular Xarpus because of lower defence and a final phase where he turns toward the last person who hit him, making it an AFK fight; he says no hard mode boss should be easier and puts it in high B tier."},
+        {"t": 5109, "kind": "opinion", "text": "Gnomonkey says hard mode Verzik is a big step up: rocks in phase 1, poison on the ground in phase 2, three yellow tiles per person in phase 3, a green ball you cannot tank so you must bounce it, and a heal at sub-5% health; he calls it one of the best-changed fights."},
+        {"t": 5291, "kind": "opinion", "text": "Gnomonkey says Theater of Blood hard mode overall is a step down from the regular raid since it takes longer and forces safer play, and he expected more mechanical changes; he ranks it right below regular Theater of Blood, though hard mode Verzik he places above regular Verzik."}
+      ]
+    }
+  ]
+}

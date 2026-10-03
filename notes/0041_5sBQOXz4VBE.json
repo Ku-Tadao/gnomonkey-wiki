@@ -1,0 +1,120 @@
+{
+  "id": "5sBQOXz4VBE",
+  "title": "ZMI Daeyalt Runecrafting (NEW AFK METHOD) OSRS 2020",
+  "date": "2020-06-09",
+  "type": "guide",
+  "summary": "A guide to combining the newly added Daeyalt essence mining with ZMI runecrafting for a low-intensity, very AFK runecrafting method. Gnomonkey covers mining the essence, the ZMI setup and gear, run execution, plugins, and how it compares with other runecrafting methods. His verdict is that it is the best low-intensity runecrafting option now, while lava runes remain best for faster XP.",
+  "outline": [
+    {"t": 0, "text": "Introduction to Daeyalt essence and why it stacks with ZMI"},
+    {"t": 60, "text": "Preparation and getting to the Daeyalt mine via Darkmire"},
+    {"t": 118, "text": "Mining rates, pickaxe effect and downsides of Daeyalt essence"},
+    {"t": 181, "text": "ZMI requirements and gear"},
+    {"t": 270, "text": "Inventory, rune pouch and pouch setup"},
+    {"t": 334, "text": "Banking at Ourania and starting a run"},
+    {"t": 390, "text": "Following other players and dropping cheap runes"},
+    {"t": 418, "text": "Pouch degradation and repairing with NPC Contact"},
+    {"t": 445, "text": "RuneLite plugins and bank tags that help"},
+    {"t": 502, "text": "XP and profit rates obtained"},
+    {"t": 531, "text": "Comparison with Zeah, Blood, Soul and lava runecrafting and conclusion"}
+  ],
+  "topics": [
+    {
+      "name": "Daeyalt essence",
+      "kind": "item",
+      "claims": [
+        {"t": 0, "kind": "stat", "text": "Daeyalt essence used for runecrafting provides 50% more XP than normal essence."},
+        {"t": 0, "kind": "event", "text": "Daeyalt essence mining was recently added to the game with the Sins of the Father quest, making ZMI much more similar to Zeah runecrafting."},
+        {"t": 0, "kind": "stat", "text": "ZMI gives 170% more XP per essence, and this stacks multiplicatively with Daeyalt essence's 50% for 255% more XP per essence, which Gnomonkey describes as about an 85% increase from Daeyalt essence at ZMI rather than the regular 50%."},
+        {"t": 31, "kind": "requirement", "text": "To mine Daeyalt essence you must have completed the Sins of the Father quest."},
+        {"t": 31, "kind": "opinion", "text": "Gnomonkey considers Daeyalt ZMI an incredibly good option for early Ironman builds, since it can be tough to get essence early on an Ironman."},
+        {"t": 60, "kind": "tip", "text": "Daeyalt essence is stackable, so only one free inventory space is needed while mining it."},
+        {"t": 151, "kind": "method", "text": "Daeyalt shards are handed in to an NPC in the corner of the essence mine, who sends all of the shards to your bank as essence."},
+        {"t": 151, "kind": "stat", "text": "Compared with pure essence at ZMI, Daeyalt essence gives somewhat less total XP an hour, less total profit from runecrafting, and half the pet chance."},
+        {"t": 151, "kind": "opinion", "text": "Gnomonkey thinks the downsides of Daeyalt essence are worth accepting to make early runecrafting more tolerable if you are doing ZMI anyway."}
+      ]
+    },
+    {
+      "name": "Daeyalt Essence Mine",
+      "kind": "activity",
+      "claims": [
+        {"t": 60, "kind": "tip", "text": "Gnomonkey recommends wearing the Prospector's outfit for the very small mining XP bonus at the Daeyalt essence mine, but says it is by no means necessary."},
+        {"t": 60, "kind": "tip", "text": "Gems can be received while mining Daeyalt essence, and wearing a charged amulet of glory increases the rate at which they are received, so he also brings a gem bag."},
+        {"t": 90, "kind": "method", "text": "To reach the mine, teleport to Theatre of Blood with the Drakan's medallion and talk to the Vyrewatch by the bank, who offers to send you to the mines. Talk to a Vyre in the mines while wearing the Vyre noble outfit to be released immediately, then crawl through the northern wall and walk down the stairs just inside Darkmire."},
+        {"t": 90, "kind": "tip", "text": "Gnomonkey says this route through Darkmire is also the fastest way to reach the lab for the new Blood Altar spot."},
+        {"t": 90, "kind": "method", "text": "There are three Daeyalt essence mining spots in the mine, and one at a time lights up to show it is mineable, similar to the essence blocks in Zeah runecrafting."},
+        {"t": 118, "kind": "stat", "text": "A lit Daeyalt essence pillar can typically be mined for about 30 seconds before it jumps to another pillar and you have to move to it."},
+        {"t": 118, "kind": "stat", "text": "Gnomonkey tested a black pickaxe and found it significantly slower than a dragon pickaxe at mining Daeyalt essence, so a better pickaxe gives better rates; he is unsure whether mining level also matters but thinks it likely does."},
+        {"t": 118, "kind": "stat", "text": "Each successful mine gives two to three Daeyalt essence, and with a dragon pickaxe Gnomonkey received about 4,000 essence an hour without mining perfectly, so rates could be a bit higher."},
+        {"t": 31, "kind": "stat", "text": "More than 4,000 Daeyalt essence an hour can be mined, which in Gnomonkey's testing lasted about an hour and a half of ZMI."}
+      ]
+    },
+    {
+      "name": "Ourania Altar",
+      "kind": "activity",
+      "claims": [
+        {"t": 181, "kind": "opinion", "text": "Gnomonkey describes ZMI as a more complicated runecrafting method than others but much less intensive."},
+        {"t": 181, "kind": "requirement", "text": "To do ZMI effectively you need Lunar Diplomacy completed for the Lunar spellbook, as you need it for the Ourania Teleport and for NPC Contact to repair your pouches."},
+        {"t": 181, "kind": "tip", "text": "Gnomonkey recommends not starting ZMI until you have a high Agility level and the Graceful outfit, as the method involves a lot of running."},
+        {"t": 181, "kind": "stat", "text": "ZMI has no runecrafting level requirement, but it scales with your runecrafting level, so a higher level gives more XP and better runes."},
+        {"t": 208, "kind": "stat", "text": "The chance of better runes at ZMI only increases every 10 levels, such as 1 to 9 and 9 to 19, all the way up to 99."},
+        {"t": 208, "kind": "tip", "text": "For ZMI gear, Gnomonkey prioritises run energy bonuses and then defensive bonuses, because there are so many players at ZMI that you very rarely get attacked by the enemies in the dungeon."},
+        {"t": 208, "kind": "method", "text": "Gnomonkey's ZMI gear was full Graceful, an amulet of glory (a fury is better if you have one), a dust battlestaff, a Dragonfire shield (not necessary), and he says to bring the best defensive shield you have."},
+        {"t": 240, "kind": "tip", "text": "Gnomonkey also brings an Explorer's ring for run energy restoration and a blessing in case he needs prayer."},
+        {"t": 240, "kind": "opinion", "text": "Gnomonkey says the best in slot ring for ZMI is the Ring of endurance, which came out with the Sins of the Father quest and is obtainable from the Hallowed Sepulchre; at the time it cost around 40 million."},
+        {"t": 240, "kind": "stat", "text": "The Ring of endurance lets you use two doses of stamina and reduces run energy drain rate by 15%, which stacks with Graceful's 30% run recharge bonus."},
+        {"t": 270, "kind": "opinion", "text": "Gnomonkey says reducing the energy drain rate is a unique effect of the Ring of endurance and is incredibly useful at ZMI, so it is the priority if you can afford it; an imbued ring of suffering is also a good choice for its extra defensive bonuses."},
+        {"t": 270, "kind": "method", "text": "The inventory needs a rune pouch with cosmic, astral and mine runes: cosmic and astral for NPC Contact and the Ourania Teleport, and mine runes for opening the bank because they are the cheapest rune in the game. Law runes can be used instead of cosmics, pulling out a cosmic when you need to repair pouches."},
+        {"t": 301, "kind": "tip", "text": "Gnomonkey skips law runes because you almost always craft at least one law rune at the ZMI altar."},
+        {"t": 301, "kind": "tip", "text": "Bring all the runecrafting pouches you can to ZMI, as without all of them it becomes more likely you will not get a rune; they can be obtained in the Abyss, reached with fairy ring code ALR."},
+        {"t": 301, "kind": "tip", "text": "Talking to the Dark Mage in the Abyss to receive the Abyssal book skips a dialogue option with him when using NPC Contact."},
+        {"t": 301, "kind": "tip", "text": "Gnomonkey prefers one-dose stamina potions because with vial smashing unlocked at the Barbarian Outpost you do not have to bank the remaining potion."},
+        {"t": 334, "kind": "method", "text": "Set the spellbook to Lunar and use the Ourania Teleport, then go down the ladder to the north; Gnomonkey recommends marking the ladder so it is easier to click."},
+        {"t": 334, "kind": "method", "text": "The banker near the ladder offers quick payment deals; selecting mine runes means a left click on the banker takes a payment of twenty runes and opens the bank. Any type of rune can pay, and mine runes are cheapest at 3 gp each at the time."},
+        {"t": 360, "kind": "method", "text": "At the bank, pull out essence and fill your pouches. A stamina potion lasts about two runs, so pull it out the second time you take essence if you have a giant pouch, or the first time if you do not."},
+        {"t": 360, "kind": "stat", "text": "You use the ZMI bank three times a run with a giant pouch, or two times without."},
+        {"t": 360, "kind": "tip", "text": "Remove placeholders from your pouches and rune pouch and fill your bank with bank fillers, so you can quickly bank the runes you craft."},
+        {"t": 390, "kind": "tip", "text": "Many players follow other players to AFK the run to the ZMI altar; Gnomonkey recommends using something such as a piece of essence on a player, which improves pathing and prevents getting stuck on geometry. Huge trains of people can be found on world 327."},
+        {"t": 390, "kind": "stat", "text": "Each ZMI run gives about 25 seconds of AFK time, at which point you craft all your essence."},
+        {"t": 390, "kind": "tip", "text": "Drop the cheap runes between crafts to improve XP rates, since otherwise you have to pull essence out of your pouches and craft extra times."},
+        {"t": 418, "kind": "method", "text": "Once all pouch essence is used, teleport back to Ourania and start another run."},
+        {"t": 418, "kind": "tip", "text": "If you are hit too hard to keep your HP up at ZMI, Gnomonkey recommends Rapid Heal and Protect from Ranged and praying at the altar between runs; he barely got hit because of the huge number of players there."},
+        {"t": 418, "kind": "stat", "text": "A pouch degrades after about ten trips when using the giant pouch, or after around thirty-one trips without it."},
+        {"t": 445, "kind": "method", "text": "To repair degraded pouches, use NPC Contact and talk to the Dark Mage and complete his dialogue; afterward the spell's right-click menu shows the last person contacted, so you can right-click and choose Dark Mage to save time."}
+      ]
+    },
+    {
+      "name": "RuneLite",
+      "kind": "other",
+      "claims": [
+        {"t": 445, "kind": "tip", "text": "For ZMI, Gnomonkey recommends a bank tag tab holding essence and stamina potions so you can quickly pull out the supplies you need."},
+        {"t": 471, "kind": "tip", "text": "Highlight the cheap runes you can drop using inventory tags (right-click the inventory icon and choose configure inventory tags); he marked them red."},
+        {"t": 471, "kind": "tip", "text": "The Essence Pouch external plugin is supposed to show how many essence are stored in each runecrafting pouch, but it was not working for Gnomonkey and he believes it was bugged at the time; it is available from the Plugin Hub."},
+        {"t": 502, "kind": "tip", "text": "Gnomonkey recommends enabling the boost timer for stamina potions in the Timers plugin, as it shows when to repot."}
+      ]
+    },
+    {
+      "name": "Runecrafting",
+      "kind": "skill",
+      "claims": [
+        {"t": 502, "kind": "record", "text": "Gnomonkey got about 63k runecrafting XP an hour at level 86 using Daeyalt ZMI without being fast at banking or crafting, and says it could easily be higher; worse pouches or a lower runecrafting level would give a bit less."},
+        {"t": 502, "kind": "record", "text": "Gnomonkey made about 300k gp profit an hour at Daeyalt ZMI, noting this is not per hour of mining since time is spent mining the essence."},
+        {"t": 31, "kind": "opinion", "text": "Gnomonkey says Daeyalt ZMI gives slightly worse runecrafting XP an hour than regular ZMI but is much more AFK."},
+        {"t": 531, "kind": "opinion", "text": "Gnomonkey does not think Daeyalt ZMI beats Zeah runecrafting at a higher runecrafting level; he says Blood runecrafting provides a lot of gp an hour and is only a bit worse than ZMI even at his level."},
+        {"t": 531, "kind": "opinion", "text": "Gnomonkey would bet Blood runecrafting beats ZMI for XP an hour from level 77 to 79."},
+        {"t": 531, "kind": "opinion", "text": "Gnomonkey says Soul runecrafting should still always give more profit and more XP an hour than Daeyalt ZMI while being of similar intensity."},
+        {"t": 561, "kind": "opinion", "text": "Gnomonkey says a good reason to use pure essence at ZMI is lacking the quest requirement for the Daeyalt mine, but even with it, pure essence ZMI is a bit faster in XP, much more gp an hour and has double the pet chance."},
+        {"t": 561, "kind": "opinion", "text": "Gnomonkey personally probably will not use pure essence at ZMI on any account he makes, because it is much less AFK for only a bit more XP in runes."},
+        {"t": 561, "kind": "opinion", "text": "Gnomonkey says lava runecrafting is still the way to go for faster XP, and that Daeyalt ZMI now seems the best bet for low-intensity runecrafting."}
+      ]
+    },
+    {
+      "name": "Sins of the Father",
+      "kind": "quest",
+      "claims": [
+        {"t": 0, "kind": "event", "text": "With the release of the Sins of the Father quest, ZMI runecrafting became much more similar to Zeah runecrafting through the addition of Daeyalt essence mining."},
+        {"t": 31, "kind": "requirement", "text": "Completing Sins of the Father is required to mine Daeyalt essence."},
+        {"t": 240, "kind": "event", "text": "The Ring of endurance came out with the vampire-themed Sins of the Father content and is obtainable from the Hallowed Sepulchre."}
+      ]
+    }
+  ]
+}

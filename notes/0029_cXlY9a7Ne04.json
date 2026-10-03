@@ -1,0 +1,49 @@
+{
+  "id": "cXlY9a7Ne04",
+  "title": "Troll Slayer Guide (50K Slayer XP/HR) OSRS",
+  "date": "2020-04-23",
+  "type": "guide",
+  "summary": "A guide to ice troll Slayer tasks using a cannon on Jatizso. Gnomonkey reports about 50k Slayer XP an hour with good melee and ranged XP, decent alchable drops that can cover cannonballs, and stresses the need for the Neitiznot faceguard.",
+  "outline": [
+    {"t": 0, "text": "Introduction, XP rates, drops and requirements"},
+    {"t": 32, "text": "Gear"},
+    {"t": 64, "text": "Inventory"},
+    {"t": 94, "text": "Getting to Jatizso and setting up the cannon"},
+    {"t": 123, "text": "Task results and XP rates"}
+  ],
+  "topics": [
+    {
+      "name": "Troll",
+      "kind": "other",
+      "claims": [
+        {"t": 0, "kind": "opinion", "text": "Gnomonkey calls troll tasks a classic staple and a great cannonable task."},
+        {"t": 0, "kind": "stat", "text": "Ice trolls give about 50k Slayer XP an hour, along with 75k combat XP an hour and 50k ranged XP an hour."},
+        {"t": 0, "kind": "stat", "text": "Ice trolls have decent alchable drops in granite shields and rune warhammers, which can in some cases cover the cost of cannonballs."},
+        {"t": 0, "kind": "requirement", "text": "Regular trolls have no requirements, but ice trolls need The Fremennik Isles to access them and to use a Neitiznot faceguard."},
+        {"t": 0, "kind": "tip", "text": "The Neitiznot faceguard tremendously reduces ice trolls' maximum hit and Gnomonkey says you will most likely die without it."},
+        {"t": 94, "kind": "method", "text": "To reach the ice trolls, get to Relleka (lyre teleport, house teleport, or a house tablet to the Relleka portal, or Fremennik sea boots 4 with the elite Fremennik diary), take the boat to Jatizso, run through the gates, and set the cannon on a specific tile."},
+        {"t": 94, "kind": "tip", "text": "Gnomonkey says even with Bandos armour the melee trolls smash through your defences, so he uses protect from melee and piety for the whole task."},
+        {"t": 123, "kind": "record", "text": "A full task of 176 trolls took Gnomonkey about 17 minutes, using 550 cannonballs (about 90k) and giving about 120k gp in loot."},
+        {"t": 123, "kind": "stat", "text": "On that task Gnomonkey received only one rune warhammer and no snapdragon or ranarr seeds, which he calls a fairly below-average run, though he still profited after cannonballs; he says on average you should at least break even."},
+        {"t": 123, "kind": "stat", "text": "That ice troll task gave 12k Slayer XP, about 46k Slayer XP an hour, with 75k melee XP an hour and 50k ranged XP an hour."}
+      ]
+    },
+    {
+      "name": "Slayer",
+      "kind": "skill",
+      "claims": [
+        {"t": 32, "kind": "tip", "text": "For ice trolls Gnomonkey wears standard melee gear and says Bandos could be downgraded to obsidian and fighter torso, primordial boots to dragon boots, ferocious gloves to Barrows gloves, or torture to fury."},
+        {"t": 64, "kind": "tip", "text": "Gnomonkey brings a bone crusher for extra Prayer XP, a wrench to save prayer doses, a herb and gem sack, a Saradomin godsword, a rune pouch with alchemy runes, and a soul bearer to bank unsired heads."},
+        {"t": 64, "kind": "tip", "text": "Gnomonkey brings a divine super combat potion, five prayer potions and three sharks for an ice troll task."}
+      ]
+    },
+    {
+      "name": "Dwarf multicannon",
+      "kind": "item",
+      "claims": [
+        {"t": 0, "kind": "opinion", "text": "Gnomonkey says troll tasks are a great cannonable task."},
+        {"t": 123, "kind": "stat", "text": "Gnomonkey's 176-troll task used 550 cannonballs costing about 90k."}
+      ]
+    }
+  ]
+}

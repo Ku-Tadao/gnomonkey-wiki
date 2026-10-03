@@ -1,0 +1,196 @@
+{
+  "id": "a9V3c9mDf9E",
+  "title": "Raids 3 Invocation TIERLIST (OSRS)",
+  "date": "2022-09-25",
+  "type": "guide",
+  "summary": "A livestreamed tier list in which Gnomonkey ranks every Tombs of Amascut invocation from S to F by raid level value, how much it speeds up or slows the raid, and how free it is to use. He names Medic the worst invocation, Quiet Prayers second worst and Overly Draining third worst, and Feeling Special the best, followed by Insanity.",
+  "outline": [
+    {"t": 0, "text": "Intro: why make an invocation tier list and the F-tier deaths invocations (Try Again, Persistence)"},
+    {"t": 58, "text": "Softcore and Hardcore, then time invocations (Jog Forth, Walk Forth, etc.)"},
+    {"t": 154, "text": "Help invocations: Need Some Help, Need Less Help, No Help Needed"},
+    {"t": 240, "text": "Walk the Path, Pathseeker, Pathfinder and Pathmaster"},
+    {"t": 391, "text": "Prayer invocations: Quiet Prayers and Deadly Prayers"},
+    {"t": 480, "text": "On a Diet, Dehydration and Overly Draining"},
+    {"t": 666, "text": "Kephri invocations: Lively Larva, More Overlords, Blowing Mud, Medic, Aerial Assault"},
+    {"t": 1058, "text": "Zebak invocations: Not Just a Head, Arterial Spray, Blood Thinners, Upset Stomach"},
+    {"t": 1397, "text": "Akkha invocations: Double Trouble, Keep Back, Stay Vigilant, Feeling Special"},
+    {"t": 1855, "text": "Ba-Ba invocations: Mind the Gap, Gotta Have Faith, Jungle Japes, Shaking Things Up, Boulder Dash"},
+    {"t": 2229, "text": "Wardens invocations: Overclocked, Overclocked II, Penetration, Ancient Haste, Acceleration, Insanity"},
+    {"t": 2749, "text": "Sorting the S, A, B and C tiers against each other"},
+    {"t": 3492, "text": "Final check of the list, chat questions, and worst invocations confirmed"}
+  ],
+  "topics": [
+    {
+      "name": "Tombs of Amascut",
+      "kind": "raid",
+      "claims": [
+        {"t": 0, "kind": "opinion", "text": "Gnomonkey made the invocation tier list so that his Tombs of Amascut guide does not have to go over every invocation, since ranking them is largely a matter of preference."},
+        {"t": 4, "kind": "event", "text": "Raids 3 (Tombs of Amascut) added a large number of invocation modifiers so that players can customise raid difficulty."},
+        {"t": 1020, "kind": "opinion", "text": "Gnomonkey ranks the invocations by how much raid level they give, how useful they are for the speed of the raid, and whether they slow it down, rather than by simple difficulty."},
+        {"t": 2160, "kind": "tip", "text": "Gnomonkey says S tier means invocations you have no reason to ever turn off, to the point where you would be sad you cannot use them in an entry-mode raid."},
+        {"t": 2790, "kind": "opinion", "text": "Gnomonkey considers Feeling Special the best invocation in the game, with Insanity second and Shaking Things Up lower than both."},
+        {"t": 3499, "kind": "opinion", "text": "Gnomonkey's final bottom three are Medic as the worst invocation, Quiet Prayers second worst and Overly Draining third worst."},
+        {"t": 3615, "kind": "opinion", "text": "Gnomonkey says the only invocation worse than Medic would have been Silent Prayers, if it still existed, which he recalls as worth about 25 raid level."},
+        {"t": 4020, "kind": "opinion", "text": "Gnomonkey says everything in the lowest tier is bad to have on if you can avoid it, and that these invocations are only worth turning on for raid level at very high levels."}
+      ]
+    },
+    {
+      "name": "Invocations (Tombs of Amascut)",
+      "kind": "mechanic",
+      "claims": [
+        {"t": 31, "kind": "stat", "text": "Try Again is worth 5 raid level and Persistence is worth 10 raid level in Tombs of Amascut; they relate to the number of deaths allowed."},
+        {"t": 31, "kind": "opinion", "text": "Gnomonkey considers Try Again and Persistence pointless and puts both in F tier, because softcore is free and gives three deaths while hardcore is worth more."},
+        {"t": 58, "kind": "opinion", "text": "Gnomonkey places Softcore in B tier and says he thinks it is used less than Hardcore."},
+        {"t": 91, "kind": "opinion", "text": "Gnomonkey says you would typically run Hardcore almost always."},
+        {"t": 124, "kind": "opinion", "text": "Gnomonkey says the time invocations (Jog Forth, Walk Forth and similar) are hard to rank because they are used at different raid levels; he puts Walk Forth as probably the most useful and Jog Forth in B tier."},
+        {"t": 156, "kind": "opinion", "text": "Gnomonkey puts the least-used time invocations in C tier because at higher raid levels you do not get the chance to use them; at low levels you could use them if fast, but he says you should just push the raid level instead."},
+        {"t": 3615, "kind": "opinion", "text": "Gnomonkey places Medic, Quiet Prayers and Overly Draining at the very bottom of the list, below Need Less Help and the death-count invocations."}
+      ]
+    },
+    {
+      "name": "Need Some Help / No Help Needed",
+      "kind": "mechanic",
+      "claims": [
+        {"t": 156, "kind": "opinion", "text": "Gnomonkey says Need Some Help is pretty free because you get fewer potions from the life room but still get two salt from the power room, and he uses it a lot; it is a given in his final ranking."},
+        {"t": 184, "kind": "opinion", "text": "Gnomonkey puts Need Less Help in F tier, saying it is not very worth using; it was completely worthless before a recent change, and he is not sure whether the change fixed it."},
+        {"t": 211, "kind": "stat", "text": "No Help Needed guarantees a salt and an adrenaline potion from the power room and is worth 40 raid level."},
+        {"t": 211, "kind": "opinion", "text": "Gnomonkey considers No Help Needed really good and underrated, ranking it a mid or low A just below Mind the Gap, and says there are good reasons not to take it but it is worth a ton of raid level."},
+        {"t": 3611, "kind": "tip", "text": "Gnomonkey notes you only need one salt per raid with Need Some Help, so No Help Needed, which also gives one salt, is straight better because it is worth far more raid level."}
+      ]
+    },
+    {
+      "name": "Walk the Path / Pathseeker / Pathfinder / Pathmaster",
+      "kind": "mechanic",
+      "claims": [
+        {"t": 243, "kind": "opinion", "text": "Gnomonkey ranks Walk the Path A tier, calling it a very cheap 50 raid level; it slows the raid slightly because bosses get a small amount more health and defence."},
+        {"t": 270, "kind": "tip", "text": "Gnomonkey says Walk the Path is a given at around 300 raid level and above, though at expert level you might look for something else to use instead."},
+        {"t": 270, "kind": "stat", "text": "Pathseeker adds one level to every boss and is worth 15 raid level, which Gnomonkey calls not a ton."},
+        {"t": 300, "kind": "stat", "text": "Pathfinder is worth 40 raid level and gives every boss two levels; Pathmaster is worth 50 raid level and gives every boss three levels."},
+        {"t": 330, "kind": "opinion", "text": "Gnomonkey says Walk the Path is straight up better than Pathseeker, Pathfinder and Pathmaster, because it gives one level per boss for 50 raid level, so anyone using one of those three should use Walk the Path."},
+        {"t": 300, "kind": "opinion", "text": "Gnomonkey puts Pathseeker in C tier, as an invocation with some use that you typically would not turn on, and puts Pathfinder (a typical one to have on) and Pathmaster in B tier."},
+        {"t": 3148, "kind": "opinion", "text": "Gnomonkey says Pathmaster is always worse than Pathfinder because it is only worth an extra 10 raid level for three levels per boss instead of two."}
+      ]
+    },
+    {
+      "name": "Quiet Prayers",
+      "kind": "mechanic",
+      "claims": [
+        {"t": 391, "kind": "opinion", "text": "Gnomonkey considers Quiet Prayers the second worst invocation in Tombs of Amascut, calling it absolute trash."},
+        {"t": 391, "kind": "opinion", "text": "Gnomonkey says the main problem with Quiet Prayers is Zebak, where you take chip damage from every hit, and it got worse once the safe spot in the corners was patched."},
+        {"t": 418, "kind": "stat", "text": "Quiet Prayers makes you take 10% damage through your protection prayer."},
+        {"t": 445, "kind": "opinion", "text": "Gnomonkey says Quiet Prayers is terrible at Akkha, Wardens phase 2, phase 3 and phase 4 as well as at Zebak, and that you should never use it."}
+      ]
+    },
+    {
+      "name": "Deadly Prayers",
+      "kind": "mechanic",
+      "claims": [
+        {"t": 452, "kind": "stat", "text": "Deadly Prayers causes 20% of the damage you take to be drained as prayer points, rounded down, so a hit of 4 or lower drains no prayer points and a hit of 5 drains one point."},
+        {"t": 476, "kind": "opinion", "text": "Gnomonkey ranks Deadly Prayers A tier and says you very rarely would not take it, calling it very solid."},
+        {"t": 2843, "kind": "opinion", "text": "Gnomonkey says Deadly Prayers comes out to roughly half an extra prayer restore you need to bring and is incredibly free."},
+        {"t": 3579, "kind": "opinion", "text": "Gnomonkey says people do not realise how little prayer drain Deadly Prayers causes and that it should not hurt you with the supplies you already have."}
+      ]
+    },
+    {
+      "name": "On a Diet / Dehydration / Overly Draining",
+      "kind": "mechanic",
+      "claims": [
+        {"t": 476, "kind": "stat", "text": "On a Diet is worth 15 raid level and Gnomonkey says it hampers you very little, making it usually free raid level; he ranks it A tier."},
+        {"t": 2891, "kind": "opinion", "text": "Gnomonkey says bandages are really underrated and make On a Diet almost free, though not as free as people claim."},
+        {"t": 540, "kind": "stat", "text": "Dehydration is worth 30 raid level and prevents you from drinking any healing potion, including ambrosia and brews."},
+        {"t": 540, "kind": "opinion", "text": "Gnomonkey says the real problem with Dehydration is losing ambrosia, not brews, since with yellow Kiris you do not need brews and if you are good at Wardens P4 you do not need ambrosia."},
+        {"t": 573, "kind": "opinion", "text": "Gnomonkey ranks Dehydration B tier: usable and worth a lot but not always a take, only used at very high raid levels and never at expert level."},
+        {"t": 606, "kind": "opinion", "text": "Gnomonkey considers Overly Draining the third worst invocation in the game because it stops you from healing as much and blocks special attacks such as claws, Bandos godsword, bone dagger and hammer."},
+        {"t": 606, "kind": "stat", "text": "Overly Draining is worth 15 raid level; with 75% spec energy and 50 prayer points a Kiri gives 118 health, which Overly Draining prevents."},
+        {"t": 666, "kind": "tip", "text": "Gnomonkey says he uses Overly Draining for 540-level raids because it is what gets him up to 540 raid level, but avoids it at all costs otherwise."}
+      ]
+    },
+    {
+      "name": "Kephri",
+      "kind": "boss",
+      "claims": [
+        {"t": 666, "kind": "stat", "text": "Lively Larva is worth 5 raid level and increases the number of dark brown eggs launched during Kephri's mass incubation attack from two to four."},
+        {"t": 692, "kind": "opinion", "text": "Gnomonkey ranks Lively Larva A tier as a nothing invocation and a free 5 raid level that you can toggle if you need to adjust by 5."},
+        {"t": 721, "kind": "stat", "text": "More Overlords is worth 15 raid level and adds a melee scarab to the first spawn and a spitting scarab to the second spawn of scarabs, so two extra overlords appear."},
+        {"t": 721, "kind": "opinion", "text": "Gnomonkey says More Overlords slows the raid down and is one of the worst room invocations, so he turns it off when possible; he ranks it C tier."},
+        {"t": 780, "kind": "stat", "text": "In a solo raid Blowing Mud does literally nothing and is a free 10 raid level; in a team Kephri shoots two lines of dung at two people instead of one."},
+        {"t": 811, "kind": "opinion", "text": "Gnomonkey ranks Blowing Mud B tier: it is free in solo and manageable in teams with good coordination, but one of the worst invocations in teams; he calls it the highest B."},
+        {"t": 873, "kind": "opinion", "text": "Gnomonkey considers Medic the worst invocation in the entire game."},
+        {"t": 873, "kind": "stat", "text": "Medic is worth 15 raid level and spawns a slow scarab swarm on Kephri about every 10 ticks, moving one tile every two ticks, that heals her about 60 in solo and scales with each person in the raid unless it is shot down."},
+        {"t": 903, "kind": "opinion", "text": "Gnomonkey says Medic's healing does not change when a teammate dies, so if someone dies at Kephri the raid is probably over; with four people left in an eight-man it would heal about 400 per swarm."},
+        {"t": 873, "kind": "opinion", "text": "Gnomonkey says Medic should be worth about 50 raid level and that even at that value he would probably avoid it."},
+        {"t": 968, "kind": "stat", "text": "Aerial Assault is worth 10 raid level and makes Kephri's typical attacks a 3x3 area, with damage greater in the center of the area."},
+        {"t": 968, "kind": "opinion", "text": "Gnomonkey says Aerial Assault is basically free in solo but awful in a large team, even at 500 raid level, and ranks it a high C."}
+      ]
+    },
+    {
+      "name": "Zebak",
+      "kind": "boss",
+      "claims": [
+        {"t": 1058, "kind": "stat", "text": "Not Just a Head is worth 10 raid level and makes Zebak fire a blood barrage-style attack that hits you for a small amount and heals Zebak; it must be on to use Arterial Spray and Blood Thinners."},
+        {"t": 1058, "kind": "tip", "text": "Gnomonkey says the Not Just a Head attack is shown by an icon under Zebak and can be caught with Protect from Magic unless Zebak is level four, in which case it can land on the same tick as range projectiles."},
+        {"t": 1121, "kind": "opinion", "text": "Gnomonkey ranks Not Just a Head as a high A and considers it a given to always have on."},
+        {"t": 1153, "kind": "stat", "text": "Arterial Spray is worth 10 raid level and gives Zebak's Blood Magic increased range and healing; Gnomonkey says it does nothing in solo and is a free 10 raid level in teams."},
+        {"t": 1214, "kind": "opinion", "text": "Gnomonkey first calls Blood Thinners an S-tier invocation, as it is worth 5 raid level and splits the large 3x3 blood spawn into three small ones, but after hearing a change was made to how the spawns die he moves it to a high A."},
+        {"t": 1260, "kind": "stat", "text": "Upset Stomach is now worth 15 raid level (it used to be 5) and shrinks the jugs that cleanse poison around the barricade from a 5x5 to a 3x3 area."},
+        {"t": 1275, "kind": "opinion", "text": "Gnomonkey ranks Upset Stomach high B, saying it can end your run very easily but he has not died to it in a long time and thinks it is worth using most of the time; he calls it obnoxious rather than hard."}
+      ]
+    },
+    {
+      "name": "Akkha",
+      "kind": "boss",
+      "claims": [
+        {"t": 1397, "kind": "stat", "text": "Akkha invocations are worth the most of any boss except Wardens, and many of them are worth 20 raid level."},
+        {"t": 1397, "kind": "stat", "text": "Double Trouble is worth 20 raid level and makes Akkha perform his special attack and Simon Says at the same time, every time."},
+        {"t": 1429, "kind": "opinion", "text": "Gnomonkey considers Double Trouble the worst Akkha invocation because it slows the raid down and is hard to deal with in teams at high scale, but says it is good to start using once pushing past expert and ranks it a high C."},
+        {"t": 1491, "kind": "stat", "text": "Keep Back is worth 10 raid level and makes Akkha melee you two ticks before each ranged or magic attack lands."},
+        {"t": 1519, "kind": "tip", "text": "Gnomonkey says you can pray melee then the incoming style, or flinch by praying range and stepping back a tile before the attack; Akkha is six tick and a player with a fang is five tick, so flinching loses ticks against ranged."},
+        {"t": 1552, "kind": "tip", "text": "Gnomonkey says against Akkha's magic mode with Keep Back, a blowpipe fits perfectly with the pattern shot, shot, step back, shot, step in, losing no ticks."},
+        {"t": 1581, "kind": "opinion", "text": "Gnomonkey ranks Keep Back C tier: bad for ranged, fine for mage, unnoticeable on melee, and puts it after Double Trouble in the final sort."},
+        {"t": 1611, "kind": "stat", "text": "Stay Vigilant is worth 15 raid level and makes Akkha's attack cycle random instead of the set six or seven hits before switching style."},
+        {"t": 1642, "kind": "opinion", "text": "Gnomonkey says Stay Vigilant introduces RNG: it can give more hits while butterflying but can also make Akkha switch immediately after one hit; he ranks it high B, a low A to high B."},
+        {"t": 1673, "kind": "opinion", "text": "Gnomonkey says Stay Vigilant and Aerial Assault are bad on the Akkha and Kephri sides of Wardens respectively, but notes everybody takes the Zebak and Ba-Ba side."},
+        {"t": 1749, "kind": "opinion", "text": "Gnomonkey ranks Feeling Special S tier because it is worth 20 raid level and is the only invocation in the game that actually makes the raid faster."},
+        {"t": 1766, "kind": "stat", "text": "Feeling Special leaves a shadow trail behind and in front of you instead of just in front, makes the white explosion in teams go in all orthogonal and cardinal directions, and cuts the gap between Simon Says explosions to about two ticks instead of five or six."},
+        {"t": 1827, "kind": "opinion", "text": "Gnomonkey calls Feeling Special probably the best invocation, with no reason to ever not run it except in entry mode where you wish you could, and says it takes some practice to deal with."}
+      ]
+    },
+    {
+      "name": "Ba-Ba",
+      "kind": "boss",
+      "claims": [
+        {"t": 1855, "kind": "stat", "text": "Mind the Gap is worth 10 raid level; it is free in solo but gets worse in higher team scale because more people can fall in the gap."},
+        {"t": 1886, "kind": "tip", "text": "Gnomonkey's tip for Mind the Gap is to mark a line in the middle of the room that would make you fall in the gap and avoid it, using an HP plugin to know boulders come out every 66% and 33%."},
+        {"t": 1914, "kind": "opinion", "text": "Gnomonkey ranks Mind the Gap low A, high B."},
+        {"t": 1943, "kind": "stat", "text": "Gotta Have Faith is worth 10 raid level and makes energy blasts from open sarcophagi in Ba-Ba's room deal extra damage based on your remaining prayer points; it is avoidable if the monkeys are not allowed to open sarcophagi."},
+        {"t": 1974, "kind": "opinion", "text": "Gnomonkey says Gotta Have Faith is freer than Mind the Gap and ranks it A."},
+        {"t": 1974, "kind": "stat", "text": "Jungle Japes is worth only 5 raid level; before a patch the bananas hit for about 40 and stunned, now they hit for about 15."},
+        {"t": 2003, "kind": "opinion", "text": "Gnomonkey ranks Jungle Japes A tier, an easy 5 raid level to toggle, noting it would have been much lower before the patch."},
+        {"t": 2084, "kind": "stat", "text": "Shaking Things Up is worth 10 raid level and makes the shockwave from Ba-Ba's slam damage a wider area and gives more time to react."},
+        {"t": 2084, "kind": "opinion", "text": "Gnomonkey ranks Shaking Things Up S tier because it makes the raid easier, saying there is no reason not to use it and it would hurt not to have it in entry mode; he rates it below Feeling Special and Insanity."},
+        {"t": 2128, "kind": "stat", "text": "Boulder Dash decreases the gap between the boulders in the boulder phase so they come out faster, making a one-boulder phase essentially impossible and costing roughly four seconds per boulder."},
+        {"t": 2128, "kind": "opinion", "text": "Gnomonkey calls Boulder Dash the worst Ba-Ba invocation: it is worth 10 raid level, slows the raid, and gets people hit; he keeps it off until pushing past expert and ranks it low C."}
+      ]
+    },
+    {
+      "name": "Wardens",
+      "kind": "boss",
+      "claims": [
+        {"t": 2229, "kind": "stat", "text": "Most Wardens invocations are worth 10 raid level and are relatively free apart from Insanity."},
+        {"t": 2256, "kind": "stat", "text": "Overclocked makes Wardens' final-phase slam attack one tick faster; Overclocked II makes it two ticks faster and requires Overclocked to be on, bringing the slam from about seven or eight ticks to five or six."},
+        {"t": 2288, "kind": "opinion", "text": "Gnomonkey ranks Overclocked and Overclocked II S tier as the lowest S, since they are completely free raid level, with Overclocked II slightly lower."},
+        {"t": 2375, "kind": "stat", "text": "Penetration makes all obelisk specials in Wardens P2, such as the clock attack, radiating triangles and dropped skulls, hit harder and also turns your prayer off; it is worth 10 raid level."},
+        {"t": 2405, "kind": "opinion", "text": "Gnomonkey ranks Penetration B tier because the prayer disable can combo you for about 70 damage and has killed him many times, though it is still pretty free."},
+        {"t": 2437, "kind": "stat", "text": "Ancient Haste makes the obelisk charge faster at the start of P2 so you take more orbs; at low raid level it does nothing, but at high raid level it can cost roughly 70 to 140 damage."},
+        {"t": 2437, "kind": "opinion", "text": "Gnomonkey ranks Ancient Haste A tier and keeps it on even at 500 raid level, though he says there is good reason to turn it off at that level."},
+        {"t": 2461, "kind": "stat", "text": "Acceleration makes the obelisk in the second phase of the Wardens fight do more special attacks and makes the Warden attack a bit faster; it is worth 10 raid level."},
+        {"t": 2461, "kind": "opinion", "text": "Gnomonkey ranks Acceleration A tier, saying he would turn off Penetration before it and that its faster specials are not a problem if you are good."},
+        {"t": 2591, "kind": "opinion", "text": "Gnomonkey says Insanity should upset people but is S tier, because it is worth 50 raid level with no chip damage and no downside if you can deal with it, and he says it is silly not to take it almost always."},
+        {"t": 2623, "kind": "tip", "text": "Gnomonkey advises learning Insanity by practising at 150 or 300 raid level without it; the skulls always appear in the same places and come out at every 20% of the boss's HP (80, 60, 40, 20), which an HP percentage display helps you predict."},
+        {"t": 2654, "kind": "stat", "text": "Insanity makes the Warden attack at three ticks and reportedly makes the floor rip up faster in P4; Gnomonkey says the faster attack speed does not matter because it is easy to dodge."},
+        {"t": 2685, "kind": "tip", "text": "With Insanity, if you leave one red skull up the Warden hits for about 70 depending on raid level, and if you miss two skulls he will kill you, but you are allowed to lose roughly three ticks, so being in the right position is what matters."},
+        {"t": 2654, "kind": "opinion", "text": "Gnomonkey says you would not take Insanity at 150 raid level when speedrunning, but in teams it is quite free because the red skulls are less of a problem."}
+      ]
+    }
+  ]
+}

@@ -1,0 +1,205 @@
+{
+  "id": "O6INgH6Adw0",
+  "title": "My Ironman is Locked to Gnome Areas - Gnomonkey",
+  "date": "2019-07-24",
+  "type": "series-episode",
+  "summary": "Episode 1 of Gnomonkey's Gnome and Monkey locked Ironman account, restricted to the Tree Gnome Stronghold, Battlefield and Tree Gnome Village. He sets up the account, trains Agility, struggles to find any way to earn gold, and ends the roughly eight-hour session with a few combat and tool upgrades.",
+  "outline": [
+    {
+      "t": 0,
+      "text": "Introduction to the account's restrictions and goals"
+    },
+    {
+      "t": 96,
+      "text": "Setting up the account: buying a house, saw and fishing rod"
+    },
+    {
+      "t": 187,
+      "text": "Agility training and initial skilling"
+    },
+    {
+      "t": 281,
+      "text": "Combat training: kicking rats, the goblin problem"
+    },
+    {
+      "t": 387,
+      "text": "First combat upgrade and first GP"
+    },
+    {
+      "t": 456,
+      "text": "Cooking and equipment upgrades at the stronghold"
+    },
+    {
+      "t": 523,
+      "text": "Crafting theorycrafting and Fletching problems"
+    },
+    {
+      "t": 607,
+      "text": "Goblin drops, red cape and wrap-up with next episode preview"
+    }
+  ],
+  "topics": [
+    {
+      "name": "Gnome and Monkey locked Ironman",
+      "kind": "account",
+      "claims": [
+        {
+          "t": 26,
+          "kind": "event",
+          "text": "Gnomonkey's Gnome and Monkey locked Ironman may only use content within the Tree Gnome Stronghold, Battlefield and Tree Gnome Village, and later will access Ape Atoll."
+        },
+        {
+          "t": 52,
+          "kind": "tip",
+          "text": "The account may leave to do tasks for the gnomes or monkeys, including quests and Gnome Restaurant, but all items for these tasks must be foraged within the restricted areas."
+        },
+        {
+          "t": 52,
+          "kind": "tip",
+          "text": "Exceptions Gnomonkey makes: buying a house and bringing a saw (needed for Eyes of Glouphrie) and a fishing rod to allow fishing later, since he found no way to obtain them within the restrictions; he also later needs Druidic Ritual to access Herblore."
+        },
+        {
+          "t": 81,
+          "kind": "event",
+          "text": "The goal of the account is to complete every gnome and monkey related quest, up to and including Monkey Madness II; Gnomonkey does not plan to go for 99s because the account is so restricted."
+        },
+        {
+          "t": 607,
+          "kind": "event",
+          "text": "Episode 1 represented about eight hours of playtime, and Gnomonkey expects progress to be slow for a while."
+        },
+        {
+          "t": 639,
+          "kind": "event",
+          "text": "Gnomonkey previews that the next episode will finish the Tree Gnome Village quest and take on the Khazard Warlord."
+        }
+      ]
+    },
+    {
+      "name": "Gnomonkey",
+      "kind": "person",
+      "claims": [
+        {
+          "t": 0,
+          "kind": "trivia",
+          "text": "The series opens with a narrated intro about a hybrid born of neither gnome nor monkey, too tall for the gnomes and too gnome-like for the monkeys, restricted to the lands of his people."
+        },
+        {
+          "t": 81,
+          "kind": "event",
+          "text": "The Gnome and Monkey locked Ironman is also the channel's recurring series for the character Gnomonkey, labelled Episode 1 in the video description."
+        }
+      ]
+    },
+    {
+      "name": "Tree Gnome Stronghold",
+      "kind": "other",
+      "claims": [
+        {
+          "t": 81,
+          "kind": "tip",
+          "text": "Gnomonkey wears the Ironman armor to safely get through the Stronghold of Security and earn 5k GP to buy a house."
+        },
+        {
+          "t": 138,
+          "kind": "trivia",
+          "text": "Gnomonkey discovers that a seller in the area also sells saws, which cost him 13 coins."
+        },
+        {
+          "t": 164,
+          "kind": "tip",
+          "text": "To reach the Tree Gnome Stronghold from the shop area Gnomonkey must run past White Wolf Mountain, and warns that dropping armor too early made the wolves dangerous."
+        },
+        {
+          "t": 492,
+          "kind": "stat",
+          "text": "The stronghold's axe seller charges 200 coins for a steel axe; Gnomonkey buys the iron axe instead, which has better stats than a bronze pickaxe, as his new melee weapon."
+        }
+      ]
+    },
+    {
+      "name": "Agility",
+      "kind": "skill",
+      "claims": [
+        {
+          "t": 226,
+          "kind": "event",
+          "text": "Gnomonkey starts the account with a long period of Agility training, which he jokes every Ironman does."
+        },
+        {
+          "t": 260,
+          "kind": "trivia",
+          "text": "While training Agility Gnomonkey receives a kebab from the sandwich lady, which he notes is a fairly high-healing food and may matter since he is unsure what food will be available on the account."
+        }
+      ]
+    },
+    {
+      "name": "Combat",
+      "kind": "skill",
+      "claims": [
+        {
+          "t": 325,
+          "kind": "event",
+          "text": "Gnomonkey finds that gnomes only drop bones despite the wiki saying they drop a lot of items, and that rats drop nothing and giant rats drop only bones and meat that do not sell for anything."
+        },
+        {
+          "t": 352,
+          "kind": "event",
+          "text": "His best bet for gear is killing low-level goblins, but he initially cannot kill them without armor or weapons, so he kicks rats until his combat level is high enough."
+        },
+        {
+          "t": 381,
+          "kind": "event",
+          "text": "An early attempt to kill a goblin while flicking Thick Skin fails because the goblin keeps healing, leaving Gnomonkey on 2 health; he then kicks rats for about 30 minutes before killing the goblin."
+        },
+        {
+          "t": 410,
+          "kind": "event",
+          "text": "The goblin's drop was earth runes, which sell for 1 coin each at the Tree Gnome Village general store, his first GP on the account; he buys a bronze pickaxe, which has slightly better stats."
+        },
+        {
+          "t": 607,
+          "kind": "event",
+          "text": "Later goblin drops give him an upgraded weapon and a red cape with some defence stats, which he jokes begins Red Cape season."
+        }
+      ]
+    },
+    {
+      "name": "Crafting",
+      "kind": "skill",
+      "claims": [
+        {
+          "t": 292,
+          "kind": "event",
+          "text": "Gnomonkey finds he cannot string bowstrings on an account this low in level and fears there may be no way to train Crafting on the account."
+        },
+        {
+          "t": 523,
+          "kind": "event",
+          "text": "While theorycrafting Crafting methods Gnomonkey finds he cannot get wool, cook pottery or blow glass, and has no way to get molten glass; he hopes Gnome Restaurant's opal drop is the key."
+        },
+        {
+          "t": 523,
+          "kind": "event",
+          "text": "The wiki claims gnomes drop items, which Gnomonkey considers completely wrong, hoping it is right at least half the time."
+        }
+      ]
+    },
+    {
+      "name": "Fletching",
+      "kind": "skill",
+      "claims": [
+        {
+          "t": 550,
+          "kind": "event",
+          "text": "After 30 minutes of woodcutting and cutting logs, Gnomonkey reaches level 5 Fletching and 5 Firemaking but finds he needs feathers to make bronze arrows."
+        },
+        {
+          "t": 577,
+          "kind": "event",
+          "text": "Gnomonkey concludes there is literally no way to get feathers on the account, so arrow Fletching is out of the question."
+        }
+      ]
+    }
+  ]
+}

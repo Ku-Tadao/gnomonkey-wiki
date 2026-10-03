@@ -1,0 +1,130 @@
+{
+  "id": "3ytuSMH19PU",
+  "title": "The Problem with POLLS in OSRS",
+  "date": "2022-08-14",
+  "type": "news-opinion",
+  "summary": "Gnomonkey argues that Old School RuneScape's polling system should be kept rather than abolished, but that Jagex should poll more often with clearer wording. He covers polling history, integrity changes, badly worded polls, failed updates like Warding, wanting art direction and design feedback polls, and unclear voter restrictions on the PvP Arena polls.",
+  "outline": [
+    {"t": 0, "text": "Why OSRS has polls and the 75% requirement"},
+    {"t": 34, "text": "History of polling: website polls, purists, and what used to fail"},
+    {"t": 84, "text": "Player bias and integrity changes"},
+    {"t": 142, "text": "Poll wording issues: spellbook filters and Christmas slayer task example"},
+    {"t": 262, "text": "Failed updates: Warding"},
+    {"t": 302, "text": "Why polls should stay and Jagex should poll more"},
+    {"t": 335, "text": "Polling direction, not just yes/no: Nex and HECA examples"},
+    {"t": 423, "text": "Art direction: Masori armour and Osmumten's Fang"},
+    {"t": 480, "text": "Restricted voting: UIM changes and the PvP Arena poll"},
+    {"t": 562, "text": "Conclusion and Twitch plug"}
+  ],
+  "topics": [
+    {
+      "name": "Polling system",
+      "kind": "mechanic",
+      "claims": [
+        {"t": 0, "kind": "trivia", "text": "Gnomonkey says Old School RuneScape was created due to community outcry against the changes to RuneScape's combat system (EOC), with a polling system for every update as part of the plan to avoid repeating those mistakes."},
+        {"t": 0, "kind": "requirement", "text": "Per the video, any update needs a 75% majority in a poll to be put into the game."},
+        {"t": 26, "kind": "trivia", "text": "Gnomonkey says poll boosts originally did not exist, and for the first six months of OSRS polls were conducted on the website."},
+        {"t": 26, "kind": "opinion", "text": "Gnomonkey says the community's tremendous input into the game's direction through polls is a rare system for any video game."},
+        {"t": 57, "kind": "opinion", "text": "Gnomonkey says things that failed polls years ago would never fail today, because the early player base had many more purists and was generally smaller, and many obvious QoL suggestions were turned down, citing the green pixel on the construction icon poll."},
+        {"t": 57, "kind": "opinion", "text": "Gnomonkey says more recently Jagex has been very careful about what and how they poll, generally polling things near guaranteed to pass since content is often created before it is polled."}
+      ]
+    },
+    {
+      "name": "Opinion: Polls should stay",
+      "kind": "opinion",
+      "claims": [
+        {"t": 26, "kind": "opinion", "text": "Gnomonkey says some players argue polls are archaic and Jagex should simply update the game the way they want, and he sets out to examine that view."},
+        {"t": 262, "kind": "opinion", "text": "Gnomonkey answers 'absolutely not' to whether Jagex should do away with polls, saying Jagex is not perfect and needs to be held accountable."},
+        {"t": 302, "kind": "event", "text": "Gnomonkey cites the recent PvP Arena polls, where Jagex tried to let accounts skip the quest for Piety as a reward from the arena, as something that without polls would simply have been added without question."},
+        {"t": 302, "kind": "opinion", "text": "Gnomonkey says Jagex needs to poll more often and make the writing of poll questions clear and concise."}
+      ]
+    },
+    {
+      "name": "Integrity changes",
+      "kind": "mechanic",
+      "claims": [
+        {"t": 91, "kind": "opinion", "text": "Gnomonkey says players are biased to vote yes to things that benefit them and no to things that don't, and would never vote yes to something like the blowpipe nerf or no to a boss loot buff."},
+        {"t": 91, "kind": "opinion", "text": "Gnomonkey says this is why Jagex lumps necessary changes under integrity changes, which would not pass a poll because of player bias."},
+        {"t": 118, "kind": "event", "text": "Gnomonkey gives the blowpipe nerf, the GE tax and nerfs to loot tables such as Zulrah as examples of integrity changes."},
+        {"t": 118, "kind": "opinion", "text": "Gnomonkey says the system mostly works great, but some updates Jagex classes as integrity are questionable, pointing to the Revenant Maledictus."}
+      ]
+    },
+    {
+      "name": "Poll: Spellbook filters",
+      "kind": "update",
+      "claims": [
+        {"t": 151, "kind": "event", "text": "The first poll asked whether the mobile spellbook filters, which hide unused spells and make remaining icons bigger, should also be added to desktop, and it passed by a huge margin at 86.6%."},
+        {"t": 180, "kind": "event", "text": "A follow-up poll asked whether the desktop spellbook filters should be changed so that filtering does not change the spell icon size, noting that if it failed, the previously polled larger icons would be implemented."},
+        {"t": 180, "kind": "opinion", "text": "Gnomonkey says the follow-up question was so horribly worded that the result was roughly a 50-50 split, and the negative wording made it basically impossible to pass."},
+        {"t": 214, "kind": "event", "text": "Jagex then redid the poll as two separate questions, and the icon size question failed by 0.3%."},
+        {"t": 214, "kind": "opinion", "text": "Gnomonkey says spell filtering effectively passed a poll twice and finally failed the third time Jagex rewrote the questions."}
+      ]
+    },
+    {
+      "name": "Opinion: Poll wording",
+      "kind": "opinion",
+      "claims": [
+        {"t": 118, "kind": "opinion", "text": "Gnomonkey says the wording of a poll is crucial and can be manipulative or confusing, for example through double negatives."},
+        {"t": 180, "kind": "opinion", "text": "Gnomonkey prefers when Jagex splits a poll into multiple separate questions, and says the spellbook question should have asked whether the icon size should increase like on mobile if filters are added."},
+        {"t": 214, "kind": "event", "text": "Gnomonkey describes a poll about adding additional slayer tasks to Chaeldar that sounded harmless but omitted context: the only place to kill Bloodveld was the Wilderness God Wars dungeon and the best Black Knight spot north of Venenatis had only two spawns."},
+        {"t": 244, "kind": "opinion", "text": "Gnomonkey says he voted yes on the Chaeldar slayer task question himself and does not think Jagex was heinous there, but calls it a great example of context being important."}
+      ]
+    },
+    {
+      "name": "Warding",
+      "kind": "skill",
+      "claims": [
+        {"t": 244, "kind": "event", "text": "Jagex mocked up the entire design for a new skill, Warding, with a plethora of different mechanics, which Gnomonkey describes as a lengthy process that took a lot of work."},
+        {"t": 273, "kind": "event", "text": "Warding was brought to a poll and failed by quite a large margin, wasting much of Jagex's time."},
+        {"t": 273, "kind": "opinion", "text": "Gnomonkey says gauging interest was really important in the Warding case."}
+      ]
+    },
+    {
+      "name": "Opinion: Poll more for direction",
+      "kind": "opinion",
+      "claims": [
+        {"t": 302, "kind": "opinion", "text": "Gnomonkey says he personally wants more polls to get the community's input on the direction of the game; feedback questionnaires through Reddit or email catch only a fraction of the player base."},
+        {"t": 335, "kind": "opinion", "text": "Gnomonkey says older polls often offered several options for the direction of content and asked which players liked most, whereas pretty much every question now is a yes/no, which he thinks is done for hype and mystery."},
+        {"t": 364, "kind": "opinion", "text": "Gnomonkey says the Nex poll was simply 'do you want Nex added', and Jagex could have asked follow-ups such as whether she should be soloable, or offered ten new mechanic ideas and asked which players most wanted, without passing or failing anything."},
+        {"t": 364, "kind": "opinion", "text": "Gnomonkey says such direction questions help avoid fiascos where the community hates content that gets added, at the cost of dev time."}
+      ]
+    },
+    {
+      "name": "Update: Raids 3 rewards",
+      "kind": "update",
+      "claims": [
+        {"t": 396, "kind": "event", "text": "When Jagex polled the initial HECA, the Raids 3 equivalent of the Twisted bow reward, devs responded to comments that it seemed too weak by saying they had not gotten any solid feedback on how to make it better."},
+        {"t": 396, "kind": "opinion", "text": "Gnomonkey says the devs were 100% right, because besides Reddit there is no avenue to give feedback to the devs, and his video on the topic was doing fairly well with multiple Reddit threads suggesting ideas."},
+        {"t": 423, "kind": "opinion", "text": "Gnomonkey says Jagex could have asked the community through the poll system which direction to take the HECA."},
+        {"t": 451, "kind": "opinion", "text": "Gnomonkey says he dislikes that Jagex had not fully shown the design of Osmumten's Fang, only its tiny inventory icon and a minor appearance in the 3D trailer, a couple of weeks before the raid's release, and says it looks absolutely hideous."}
+      ]
+    },
+    {
+      "name": "Opinion: Art direction polls",
+      "kind": "opinion",
+      "claims": [
+        {"t": 423, "kind": "opinion", "text": "Gnomonkey says Jagex should have shown the design for Masori armour much earlier, to prevent a crisis where right before the new raid releases they are forced to redesign the whole thing."},
+        {"t": 423, "kind": "opinion", "text": "Gnomonkey suggests Jagex could ask months ahead which of five concept art pieces for a design players like best, saying communication is key to avoiding outcry and riots."},
+        {"t": 451, "kind": "opinion", "text": "Gnomonkey says it is unfair to content designers to be forced to guess what the community will like and settle on one design."}
+      ]
+    },
+    {
+      "name": "Opinion: Restricted voting",
+      "kind": "opinion",
+      "claims": [
+        {"t": 480, "kind": "opinion", "text": "Gnomonkey says polls should mostly be a 75-25 majority by the entire player base, but there are times it makes sense to limit who can vote."},
+        {"t": 480, "kind": "event", "text": "Gnomonkey says past restrictions made sense for Ultimate Ironman changes and other alternate game modes, where only players who had interacted with those modes could vote, the criteria were clearly outlined, and the updates did not affect anyone outside those modes."},
+        {"t": 507, "kind": "event", "text": "For the recent PvP Arena polls, Gnomonkey says no one knew the criteria to vote, which appeared to be some combination of participation in LMS and PvP; his alt could vote but his main, which has killed people in the Wilderness, could not."},
+        {"t": 507, "kind": "opinion", "text": "Gnomonkey says limiting the PvP Arena poll implied only people who had done PvP are interested in the arena, which may not be true, and that Jagex should have said exactly what the voting criteria were."},
+        {"t": 539, "kind": "opinion", "text": "Gnomonkey would not mind restricted polling being extended to certain PvM mechanics, such as locking some PvM QoL questions to certain kill counts on the bosses they affect, though he says it usually makes more sense to poll the whole community."}
+      ]
+    },
+    {
+      "name": "Gnomonkey",
+      "kind": "person",
+      "claims": [
+        {"t": 567, "kind": "event", "text": "As of August 2022, Gnomonkey says he is still hard at work sending Inferno speedruns on stream, and towards the end of streams does other content such as Zul-Andra run Gauntlet."}
+      ]
+    }
+  ]
+}

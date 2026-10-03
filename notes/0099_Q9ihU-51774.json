@@ -1,0 +1,48 @@
+{
+  "id": "Q9ihU-51774",
+  "title": "Raids 3 Solo EXPERT World Record (Pre-Buff) OSRS",
+  "date": "2022-09-09",
+  "type": "speedrun",
+  "summary": "Gnomonkey's live-streamed Solo Expert Tombs of Amascut run with no food, finishing in 22:15 overall and 20:22.20 challenge time, which he says retook the world record by 15 seconds about an hour before the update that made Raids 3 far easier. Commentary is mostly live reactions, with a few notes on the boss splits.",
+  "outline": [
+    {"t": 0, "text": "Start of the raid and early chat banter about entry mode"},
+    {"t": 226, "text": "Chat skit about a RuneScape wedding date"},
+    {"t": 298, "text": "Navigating the puzzle rooms"},
+    {"t": 453, "text": "Combat preparation"},
+    {"t": 535, "text": "Akkha boss fight and damage taken"},
+    {"t": 769, "text": "Crocodile (Zebak) boss fight"},
+    {"t": 1039, "text": "Final boss and record time"},
+    {"t": 1363, "text": "Celebration and review of splits"}
+  ],
+  "topics": [
+    {
+      "name": "Tombs of Amascut",
+      "kind": "raid",
+      "claims": [
+        {"t": 0, "kind": "record", "text": "Gnomonkey's Solo Expert Tombs of Amascut run with no food whatsoever finished in 22:15 overall and 20:22.20 challenge time, pre-buff, as stated in the description."},
+        {"t": 1348, "kind": "record", "text": "Before this run the Solo Expert world record on the leaderboard was 22:30 flat, and Gnomonkey beat it by 15 seconds."},
+        {"t": 0, "kind": "event", "text": "Gnomonkey says it took a couple of days to get his world record back, and that he snagged it an hour before the update that made Raids 3 far easier, with the improved Tumeken's shadow."},
+        {"t": 0, "kind": "opinion", "text": "Gnomonkey says running Solo Expert mode with no food whatsoever is no joke, and expects someone to soon take the record with the improved Tumeken's shadow."},
+        {"t": 0, "kind": "event", "text": "The run was done live on Twitch, and Gnomonkey says he had been streaming non-stop since Raids 3 released."}
+      ]
+    },
+    {
+      "name": "Gnomonkey",
+      "kind": "person",
+      "claims": [
+        {"t": 1363, "kind": "record", "text": "After the record run Gnomonkey says his splits for Zebak, Baba, Akkha and Kephri were very fast and close to his best, while the Wardens were a little below average."},
+        {"t": 1363, "kind": "record", "text": "Gnomonkey says he lost about 20 seconds to the crocodile (Zebak) puzzle fight and did not care because he still got the world record."},
+        {"t": 1363, "kind": "event", "text": "Gnomonkey says the world record was back in his hands after seeing it on the leaderboard."}
+      ]
+    },
+    {
+      "name": "Akkha",
+      "kind": "boss",
+      "claims": [
+        {"t": 535, "kind": "event", "text": "In the record run Gnomonkey says he took a lot of damage at Akkha, which was not ideal, and that Akkha stayed on a style he wanted to change back from."},
+        {"t": 720, "kind": "opinion", "text": "Gnomonkey says a Toxic blowpipe is not that much worse in DPS than Tumeken's shadow at Akkha, so a style that did not return to red was okay."},
+        {"t": 523, "kind": "record", "text": "Gnomonkey says the Akkha fight in this run was the fastest he had ever gone."}
+      ]
+    }
+  ]
+}

@@ -1,0 +1,124 @@
+{
+  "id": "l1y2oE5E9x4",
+  "title": "PROFITABLE MAGIC SEEDS? (How to grow crystal trees OSRS)",
+  "date": "2019-07-31",
+  "type": "guide",
+  "summary": "A short guide to growing crystal trees from crystal acorns, which Gnomonkey describes as profitable magic seeds that need no protection and cannot be diseased. The crystal shards harvested can be crushed into dust for divine potions, and he recommends adding them to farm runs once Prifddinas is unlocked.",
+  "outline": [
+    {
+      "t": 0,
+      "text": "What crystal acorns are and the requirements"
+    },
+    {
+      "t": 0,
+      "text": "Getting an acorn from Pennant and planting it"
+    },
+    {
+      "t": 32,
+      "text": "Growth time, XP and crystal shard yield"
+    },
+    {
+      "t": 61,
+      "text": "Turning shards into divine potions and profit per shard"
+    },
+    {
+      "t": 88,
+      "text": "Expected profit per tree and recommendation to add to farm runs"
+    }
+  ],
+  "topics": [
+    {
+      "name": "Crystal tree",
+      "kind": "skill",
+      "claims": [
+        {
+          "t": 0,
+          "kind": "tip",
+          "text": "Gnomonkey describes crystal acorns as effectively profitable magic seeds that do not need to be protected and cannot become diseased."
+        },
+        {
+          "t": 0,
+          "kind": "requirement",
+          "text": "Growing crystal trees requires access to Prifddinas (the elf city), 74 Farming and 70+ Herblore to mix potions with the shards."
+        },
+        {
+          "t": 0,
+          "kind": "method",
+          "text": "To get a crystal acorn, trade Pennant, the farmer next to the crystal tree patch, a crystal seed; weapon seeds are currently far cheaper than other options at around 30k."
+        },
+        {
+          "t": 32,
+          "kind": "method",
+          "text": "The acorn is planted in a plant pot and watered like any sapling, then planted in the crystal tree patch, where it needs neither compost nor protection."
+        },
+        {
+          "t": 32,
+          "kind": "stat",
+          "text": "Crystal trees take the same time to grow as a magic sapling and give 13,240 Farming XP, about 500 less than a magic tree."
+        },
+        {
+          "t": 32,
+          "kind": "stat",
+          "text": "A fully grown crystal tree can be harvested once for 5 to 10 crystal shards."
+        },
+        {
+          "t": 88,
+          "kind": "opinion",
+          "text": "Gnomonkey notes the profit will fall in the future as weapon seeds rise in price and potions fall, but says even if the trees cost money, they are incredibly cheap Farming XP; he recommends adding them to farm runs ASAP if Prifddinas is unlocked."
+        },
+        {
+          "t": 119,
+          "kind": "opinion",
+          "text": "Gnomonkey says he has not seen many people talking about crystal trees and made the short video for that reason."
+        }
+      ]
+    },
+    {
+      "name": "Crystal shard",
+      "kind": "item",
+      "claims": [
+        {
+          "t": 32,
+          "kind": "tip",
+          "text": "Crystal shards are used to sing new elf equipment and are untradeable, but can be crushed into dust and mixed into most combat potions to create divine potions."
+        },
+        {
+          "t": 61,
+          "kind": "tip",
+          "text": "Divine potions keep the stat they increase boosted to its maximum for a full five minutes, like an overload."
+        },
+        {
+          "t": 61,
+          "kind": "stat",
+          "text": "One crushed crystal shard gives 10 dust, and each dust creates one dose of divine combat potion, like an amylase crystal."
+        },
+        {
+          "t": 61,
+          "kind": "stat",
+          "text": "Per shard, making most divine potions gives about 10k profit, and divine super combat potions give about 25k per shard but need level 97 Herblore."
+        },
+        {
+          "t": 88,
+          "kind": "stat",
+          "text": "With 97 Herblore and 10 shards from a tree, profit is over 200k; with only 5 shards and the worst potions it is still at least 20k per tree."
+        }
+      ]
+    },
+    {
+      "name": "Divine potions",
+      "kind": "item",
+      "claims": [
+        {
+          "t": 61,
+          "kind": "tip",
+          "text": "Divine potions are made by mixing crushed crystal shard dust into most combat potions, and each dust makes one dose."
+        },
+        {
+          "t": 61,
+          "kind": "stat",
+          "text": "Making divine super combat potions needs 97 Herblore, which Gnomonkey doubts most viewers have."
+        }
+      ]
+    }
+  ]
+}

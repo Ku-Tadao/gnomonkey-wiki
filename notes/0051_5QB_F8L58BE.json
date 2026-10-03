@@ -1,0 +1,122 @@
+{
+  "id": "5QB_F8L58BE",
+  "title": "Kalphites Slayer Guide (65K Slayer XP/HR) OSRS 2020",
+  "date": "2020-08-21",
+  "type": "guide",
+  "summary": "A short 2020 guide to the Kalphite Slayer task, which Gnomonkey calls the second best cannon task for XP after Dagannoth at about 65k Slayer XP an hour. Covers gear, an inventory that needs no food or prayer potions with the Desert amulet 4, the route in, and his results from a 13-minute task.",
+  "outline": [
+    {
+      "t": 0,
+      "text": "Intro: Kalphites as the second best cannon task, drops, and assignment"
+    },
+    {
+      "t": 20,
+      "text": "Gear and budget downgrades"
+    },
+    {
+      "t": 32,
+      "text": "Inventory depends on the Desert Elite Diary and Desert amulet 4"
+    },
+    {
+      "t": 65,
+      "text": "Inventory walkthrough"
+    },
+    {
+      "t": 124,
+      "text": "Fastest way to get there and where to cannon"
+    },
+    {
+      "t": 156,
+      "text": "Results: loot, Slayer XP, and verdict"
+    }
+  ],
+  "topics": [
+    {
+      "name": "Kalphite",
+      "kind": "activity",
+      "claims": [
+        {
+          "t": 0,
+          "kind": "opinion",
+          "text": "Gnomonkey considers Kalphites the second best cannon Slayer task for XP in the game, right behind Dagannoth, at about 65k Slayer XP an hour."
+        },
+        {
+          "t": 0,
+          "kind": "trivia",
+          "text": "Kalphites have poor drops, cannot drop clue scrolls at all, and in Gnomonkey's words you basically only pick up their rune drops."
+        },
+        {
+          "t": 0,
+          "kind": "stat",
+          "text": "The Kalphite task has a weight of 9 from Duradel and has no requirements to be assigned."
+        },
+        {
+          "t": 0,
+          "kind": "method",
+          "text": "For gear Gnomonkey brings his standard melee gear, with primordial boots normally, and notes you can downgrade to Fighter torso and obsidian legs, dragon boots, Barrows gloves, or an amulet of torture swapped for a fury if you lack money."
+        },
+        {
+          "t": 32,
+          "kind": "tip",
+          "text": "Kalphites are weak to crush, but their defence is so low that a bludgeon is still worse DPS than a whip and dragon defender, according to Gnomonkey."
+        },
+        {
+          "t": 65,
+          "kind": "tip",
+          "text": "Gnomonkey says a rune pouch is not needed for Kalphites because their alchable drops are rarer than 1 in 128, and a quest cape and Soulbearer are not necessary since head drops are about 1 in 90."
+        },
+        {
+          "t": 65,
+          "kind": "method",
+          "text": "Gnomonkey's Kalphite inventory with the diary done: Desert amulet, Karamja gloves for retasking Duradel, cannon, holy wrench for prayer restore, optional herb sack, an antidote++ (Kalphites deal 4 poison damage, though you could skip it because you restore), a divine super set, and a spec weapon such as dragon claws."
+        },
+        {
+          "t": 124,
+          "kind": "tip",
+          "text": "Gnomonkey says a dragon dagger works fine as the spec weapon and that a bulwark spec should also work decently but he had not tested it."
+        },
+        {
+          "t": 124,
+          "kind": "method",
+          "text": "Without the amulet, the next fastest route is a fairy ring teleport to the Kalphite Queen lair and running east; inside the cave run to the northeast section with the soldiers, place the cannon, drink potions, turn on Piety and fight."
+        },
+        {
+          "t": 124,
+          "kind": "trivia",
+          "text": "Kalphites have no superior or other special mechanic; you simply restore using your amulet when you run out of prayer and come back."
+        },
+        {
+          "t": 156,
+          "kind": "record",
+          "text": "On a 13-minute Kalphite task Gnomonkey received about 10k GP in loot, the only substantial drop being a brimstone key, while earning 65k Slayer XP an hour, 80k Ranged XP an hour and 90k Melee XP an hour."
+        },
+        {
+          "t": 156,
+          "kind": "opinion",
+          "text": "Gnomonkey says that since a Desert amulet removes the need for prayer potions, Kalphites are practically just a better Suqah task and an amazing XP task you should always do."
+        }
+      ]
+    },
+    {
+      "name": "Desert amulet 4",
+      "kind": "item",
+      "claims": [
+        {
+          "t": 32,
+          "kind": "requirement",
+          "text": "The Desert amulet 4 requires the Desert Elite Diary."
+        },
+        {
+          "t": 32,
+          "kind": "method",
+          "text": "The Desert amulet 4 provides unlimited teleports to Nardah for stat restoration and unlimited teleports to the Kalphite cave entrance."
+        },
+        {
+          "t": 32,
+          "kind": "tip",
+          "text": "With the Desert amulet 4 you do not need prayer potions or food for the Kalphite task because you can restore at Nardah and return; without the diary Gnomonkey brings a Saradomin godsword, food and prayer potions."
+        }
+      ]
+    }
+  ]
+}

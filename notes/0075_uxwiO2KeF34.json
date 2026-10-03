@@ -1,0 +1,266 @@
+{
+  "id": "uxwiO2KeF34",
+  "title": "The Raids 3 Twisted Bow is Disappointing (Heka of Tumeken OSRS)",
+  "date": "2022-02-26",
+  "type": "news-opinion",
+  "summary": "An opinion piece reacting to Jagex's reworked Tombs of Amascut rewards blog, arguing the planned Heka of Tumeken magic wand is far weaker and less meta-shifting than the scythe and twisted bow it is meant to match. Gnomonkey explains the wand's attack cycle and spellbook effects, criticises tying effects to spellbooks, proposes alternatives such as a defence-draining wand, and also criticises Osmumten's fang and the Masori armour rework.",
+  "outline": [
+    {
+      "t": 0,
+      "text": "Intro: opinion piece on the reworked Raids 3 rewards"
+    },
+    {
+      "t": 36,
+      "text": "Heka description: runes, range and the 2-2-2-4 tick cycle"
+    },
+    {
+      "t": 111,
+      "text": "Spellbook effects: standard, ancient, lunar, Arceuus"
+    },
+    {
+      "t": 211,
+      "text": "Breakdown: why magic weapons are hard to make good"
+    },
+    {
+      "t": 242,
+      "text": "Evaluating each spellbook effect"
+    },
+    {
+      "t": 424,
+      "text": "Where the Heka would and would not be used compared to twisted bow and scythe"
+    },
+    {
+      "t": 462,
+      "text": "Concerns about spellbook swapping and shock-and-awe of super weapons"
+    },
+    {
+      "t": 553,
+      "text": "Possible solution 1: smaller effects on small casts"
+    },
+    {
+      "t": 634,
+      "text": "Possible solution 2: a defence-draining wand"
+    },
+    {
+      "t": 707,
+      "text": "Osmumten's fang"
+    },
+    {
+      "t": 727,
+      "text": "Masori armour rework"
+    }
+  ],
+  "topics": [
+    {
+      "name": "Heka of Tumeken",
+      "kind": "item",
+      "claims": [
+        {
+          "t": 29,
+          "kind": "event",
+          "text": "In February 2022 Jagex described the Heka of Tumeken as a new magic wand for Raids 3, the big nasty drop equivalent to the scythe or twisted bow from the other raids, filling out the combat triangle with a magic super weapon."
+        },
+        {
+          "t": 29,
+          "kind": "stat",
+          "text": "The planned Heka is powered like the trident or Sanguinesti staff with a built-in spell, charged with soul and chaos runes: one soul and three chaos runes per cast."
+        },
+        {
+          "t": 59,
+          "kind": "stat",
+          "text": "The planned Heka has an attack range of six tiles, one less than the Sanguinesti staff."
+        },
+        {
+          "t": 59,
+          "kind": "stat",
+          "text": "The Heka's main twist is its attack speed: three attacks at two ticks each like a blowpipe followed by a powerful four-tick hit, a four-attack cycle of ten ticks, which constantly attacking is about 4% more powerful than the Harmonised nightmare staff while not needing the standard spellbook."
+        },
+        {
+          "t": 86,
+          "kind": "stat",
+          "text": "The Heka's cycle is saved for as much as 10 ticks, so you can do three small casts, switch to a twisted bow for a shot and switching back immediately casts the powerful fourth hit; this was bugged in the beta and did not work this way."
+        },
+        {
+          "t": 86,
+          "kind": "event",
+          "text": "Jagex released a beta for the Raids 3 weapons and many people found the original Heka cumbersome; Gnomonkey says it needed an incredibly specific cycle at the Great Olm for questionable benefit over the Sanguinesti staff and had similar issues at Zulrah due to her diving."
+        },
+        {
+          "t": 118,
+          "kind": "event",
+          "text": "In response, Jagex gave the Heka's final powerful hit an extra effect depending on your spellbook, seen every ten ticks of attacking; Gnomonkey thinks tying it to spellbooks is a mistake."
+        },
+        {
+          "t": 149,
+          "kind": "stat",
+          "text": "Standard spellbook effect: the final hit receives a 10% damage boost."
+        },
+        {
+          "t": 149,
+          "kind": "stat",
+          "text": "Ancient spellbook effect: the final hit blasts a 3x3 area."
+        },
+        {
+          "t": 149,
+          "kind": "stat",
+          "text": "Lunar spellbook effect: the final projectile heals up to 5 teammates in its path for 5% of your Magic level rounded down (4 at 99 Magic, 5 boosted by an imbued heart, 6 if boosted in Chambers of Xeric) and the wand gains an extra tile of range, matching the Sanguinesti staff."
+        },
+        {
+          "t": 149,
+          "kind": "stat",
+          "text": "Arceuus spellbook effect: an impermanent drain like Turmoil in RS2, draining the target's Magic by 5% (stacking to 20% over repeated cycles) and boosting your Magic by 50% of the drained amount, capped at 15% additional level; Gnomonkey assumes this means about 113-114 Magic, not much above an imbued heart's 10-level boost."
+        },
+        {
+          "t": 181,
+          "kind": "opinion",
+          "text": "Gnomonkey notes Jagex did not say how the Spellbook Swap spell would work with the Heka."
+        },
+        {
+          "t": 212,
+          "kind": "opinion",
+          "text": "Gnomonkey says the Heka's complexity (it took him two long paragraphs to describe) shows Jagex is struggling to make a decent magic weapon, which is understandable since magic damage is calculated from the monster's Magic level."
+        },
+        {
+          "t": 242,
+          "kind": "opinion",
+          "text": "Gnomonkey says the standard-spellbook effect is only about a 5% DPS increase over the stock Heka (since the 4-tick hit is half its DPS), is outweighed by the ability to use thralls on other books, and is boring; he sees it used mainly at Kraken where thralls cannot be used."
+        },
+        {
+          "t": 272,
+          "kind": "opinion",
+          "text": "Gnomonkey says the ancient AoE effect only fires once per ten ticks so it is limited to uses like catching double spawns in the Nylocas room at Theatre of Blood, would not beat normal barraging for Slayer tasks, and is too slow for the Maiden crab stack."
+        },
+        {
+          "t": 306,
+          "kind": "opinion",
+          "text": "Gnomonkey doubts the Lunar healing effect is useful: it is unclear if it works when teammates are stacked, it may not work in single combat like healing an alt at Kraken, and he would prefer a big AoE heal around you; it would mostly be used by Chambers of Xeric teams."
+        },
+        {
+          "t": 369,
+          "kind": "opinion",
+          "text": "Gnomonkey considers the Arceuus drain effect by far the most interesting and most likely to be used, since it works anywhere you are forced to mage due to defence and still allows thralls; it would have huge application at Zulrah and the Great Olm in team Chambers of Xeric and might shift some metas such as Bandos."
+        },
+        {
+          "t": 427,
+          "kind": "opinion",
+          "text": "Gnomonkey says the Heka would be good in the same places magic is currently good, by 4-10% more than the Harmonised staff depending on spellbook, and would be difficult at Zulrah and nearly impossible for solo Olm but shine in team Chambers of Xeric."
+        },
+        {
+          "t": 427,
+          "kind": "opinion",
+          "text": "Gnomonkey contrasts this with the twisted bow, the best DPS at over 25 bosses, and the scythe, which changed where you use each style by a dramatic margin; he only sees the Heka possibly changing style at Bandos on Arceuus spellbook and doubts it would even beat the Bow of Faerdhinen there."
+        },
+        {
+          "t": 463,
+          "kind": "opinion",
+          "text": "Gnomonkey worries that tying the Heka to spellbooks means swapping with a magic or max cape, which is limited to five swaps per day, which he calls terrible design; he would rather tie effects to attack style or use gems or a hilt like Nightmare staffs, and says the Heka would be a small upgrade over the Harmonised staff while the Sanguinesti staff keeps its utility."
+        },
+        {
+          "t": 520,
+          "kind": "opinion",
+          "text": "Gnomonkey says the community reaction to the Heka would not resemble the awe when the twisted bow or scythe were announced, which knocked everything old out of the park, and that the shock and awe of a hyper-rare raid super weapon is one of his favourite things about raids."
+        }
+      ]
+    },
+    {
+      "name": "Opinion: Heka of Tumeken design proposals",
+      "kind": "opinion",
+      "claims": [
+        {
+          "t": 553,
+          "kind": "opinion",
+          "text": "Gnomonkey's first proposal keeps the four spellbook effects but gives smaller versions on the two-tick casts (a smaller damage boost for standard, 1x1 then 3x3 AoE for ancient, small then larger Magic drain for Arceuus), noting Lunar needs a rework because few bosses need group mages; a reworked Lunar Heka could replace the Sanguinesti staff as healing utility staff."
+        },
+        {
+          "t": 553,
+          "kind": "opinion",
+          "text": "Gnomonkey admits this first proposal keeps Jagex's design but does not give the meta shift he wants, and says the Heka needs a bigger kick."
+        },
+        {
+          "t": 634,
+          "kind": "opinion",
+          "text": "Gnomonkey's second proposal scraps the spellbook effects and makes the Arceuus-style drain the main effect but on the target's Defence level, draining to zero, with the Heka rolling only against the boss's magic defence rather than its Magic level, making it a defence-draining utility weapon."
+        },
+        {
+          "t": 663,
+          "kind": "opinion",
+          "text": "Gnomonkey pictures that wand being used at Theatre of Blood's Maiden (south and north mages casting to drain defence and save claw specs), draining Tekton's defence so the team can melee harder, and cutting Vespula's portal defence for twisted bow users, at roughly 80% of the DPS of a twisted bow or scythe while boosting those weapons; he admits it would need monster stat changes to balance."
+        }
+      ]
+    },
+    {
+      "name": "Magic combat",
+      "kind": "mechanic",
+      "claims": [
+        {
+          "t": 212,
+          "kind": "opinion",
+          "text": "Gnomonkey says magic weapons have always been hard to make good because magic damage is based on the monster's Magic level, and magic is almost always used only at bosses where you are forced to, due to high defence or immunity to other styles, such as Kraken, the Great Olm's hand, Zulrah and Nylocas."
+        },
+        {
+          "t": 242,
+          "kind": "opinion",
+          "text": "Gnomonkey lists the bosses where mage is the best DPS as Scorpia, Mimic, Nightmare, Crazy archaeologist, Deranged archaeologist, Dagannoth Rex, Barrows, Ice demon and the Melee Vanguard, and says that is all of them."
+        },
+        {
+          "t": 607,
+          "kind": "opinion",
+          "text": "Gnomonkey says magic's strength is its large amount of utility spells across spellbooks, while its weakness is things with a high Magic level, which is most bosses, which is why the twisted bow is so good."
+        }
+      ]
+    },
+    {
+      "name": "Osmumten's fang",
+      "kind": "item",
+      "claims": [
+        {
+          "t": 707,
+          "kind": "opinion",
+          "text": "Gnomonkey says Osmumten's fang as announced is hilariously bad, seemingly without Jagex testing its DPS, and points to Saebae's video on it."
+        },
+        {
+          "t": 707,
+          "kind": "stat",
+          "text": "According to Gnomonkey the fang is a 1% DPS increase against Nex and nowhere else, so it is not like the rapier as Jagex described but just bad."
+        }
+      ]
+    },
+    {
+      "name": "Masori armour",
+      "kind": "item",
+      "claims": [
+        {
+          "t": 727,
+          "kind": "opinion",
+          "text": "Gnomonkey says scrapping Masori's low-life effect and making it effectively Pernix armour is the most boring way to make it good and kills the interesting dichotomy of Void being good against low defence and Armadyl against high."
+        },
+        {
+          "t": 727,
+          "kind": "opinion",
+          "text": "Gnomonkey says the old Masori needed tweaking but he had been bouncing around ideas of doing raids and the Inferno at 49 HP and found it an interesting set."
+        },
+        {
+          "t": 754,
+          "kind": "opinion",
+          "text": "Gnomonkey would have scrapped the dodge effect as Jagex did and also the amulet, and instead either made the armour instantly cap HP to 49 or scaled damage with missing HP (from about 80 down to 20 HP), though he does not think the current design is horrible."
+        }
+      ]
+    },
+    {
+      "name": "Tombs of Amascut",
+      "kind": "raid",
+      "claims": [
+        {
+          "t": 0,
+          "kind": "event",
+          "text": "Jagex recently released a news post on the reworked Raids 3 (Tombs of Amascut) rewards; Gnomonkey is happy with about 80% of the many rewards but disappointed by a few, mainly the Heka of Tumeken."
+        },
+        {
+          "t": 0,
+          "kind": "opinion",
+          "text": "Gnomonkey notes this video is a departure from his normal content since he is not normally a fan of opinion pieces, and says he is not a content developer but plays the game a lot and enjoys PvM."
+        }
+      ]
+    }
+  ]
+}

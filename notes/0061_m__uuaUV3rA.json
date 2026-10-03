@@ -1,0 +1,453 @@
+{
+ "id": "m__uuaUV3rA",
+ "title": "1-99 Mining Guide (AFK/GP/EFFICIENT) OSRS",
+ "date": "2021-03-01",
+ "type": "guide",
+ "summary": "A 1-99 Mining guide covering pickaxes and other equipment, questing for early levels, power mining copper, tin and iron, then the fastest method (3-tick 4-granite), Motherlode Mine, Volcanic Mine, gem rocks, Blast Mine and Amethyst. Gnomonkey recommends 3-tick 4-granite for speed, and Volcanic Mine as the best AFK option from level 71 for most accounts.",
+ "outline": [
+  {
+   "t": 0,
+   "text": "Intro: why Mining is a hard skill and which quests need it"
+  },
+  {
+   "t": 18,
+   "text": "Equipment: pickaxes, Infernal and Crystal pickaxe, Prospector's outfit, Varrock armour, gem bag"
+  },
+  {
+   "t": 243,
+   "text": "Quests that give 27,525 Mining XP"
+  },
+  {
+   "t": 263,
+   "text": "Levels 1-15: copper and tin power mining"
+  },
+  {
+   "t": 274,
+   "text": "Levels 15-45/55: iron power mining and tick manipulation"
+  },
+  {
+   "t": 327,
+   "text": "Levels 45-99: 3-tick 4-granite setup and method"
+  },
+  {
+   "t": 544,
+   "text": "Levels 55-99: Motherlode Mine"
+  },
+  {
+   "t": 619,
+   "text": "Levels 71-99: Volcanic Mine"
+  },
+  {
+   "t": 689,
+   "text": "Gem rocks"
+  },
+  {
+   "t": 740,
+   "text": "Blast Mine"
+  },
+  {
+   "t": 747,
+   "text": "Amethyst"
+  }
+ ],
+ "topics": [
+  {
+   "name": "Mining",
+   "kind": "skill",
+   "claims": [
+    {
+     "t": 0,
+     "kind": "opinion",
+     "text": "Gnomonkey considers Mining one of the harder skills to train in the game, up there with Runecrafting and Agility for most players, being usually either very click intensive and fast, or somewhat AFK and very slow."
+    },
+    {
+     "t": 0,
+     "kind": "requirement",
+     "text": "Mining is required for quite a few important quests, namely Dragon Slayer II and Song of the Elves; the skill also provides fairly good GP and many diaries require it."
+    },
+    {
+     "t": 213,
+     "kind": "tip",
+     "text": "Gnomonkey says to start with the fastest, most efficient way to 99 (which is very intensive) and then discuss other options, and recommends always questing for the early levels."
+    },
+    {
+     "t": 244,
+     "kind": "method",
+     "text": "Completing Doric's Quest, Dig Site, Plague City, The Giant Dwarf, The Lost Tribe and Another Slice of H.A.M. grants a total of 27,525 Mining experience, jumping you straight to level 37; Gnomonkey says the early levels are incredibly slow, so it is usually best to skip them."
+    },
+    {
+     "t": 244,
+     "kind": "method",
+     "text": "From levels 1 to 15 without questing you can only mine copper and tin, at the mine southeast of Lumbridge Swamp or south of Varrock, and Gnomonkey says to power mine and drop all the ore since it has little value."
+    },
+    {
+     "t": 244,
+     "kind": "method",
+     "text": "From levels 15 to 45 Gnomonkey says to power mine iron; without tick manipulation the best place is anywhere with a triangle orientation of three rocks, and he uses the mine south of the Legends Guild, mining the next rock as soon as the current one depletes and dropping the ore."
+    },
+    {
+     "t": 277,
+     "kind": "tip",
+     "text": "Iron can be tick manipulated at the eastern section of the Legends Guild mine, which dramatically increases XP rates especially without a rune pickaxe, but it is extremely intensive, about the same intensity as 3-tick 4-granite."
+    },
+    {
+     "t": 305,
+     "kind": "tip",
+     "text": "If you do not intend to mine granite and want AFK Mining, Gnomonkey recommends the standard power mining method until 55 Mining, then Motherlode Mine, because Motherlode Mine is incredibly slow before you have unlocked at least mithril ore."
+    },
+    {
+     "t": 305,
+     "kind": "opinion",
+     "text": "Gnomonkey says that from levels 45 to 99 the absolute fastest Mining method is 3-tick 4-granite."
+    },
+    {
+     "t": 604,
+     "kind": "opinion",
+     "text": "Gnomonkey recommends Volcanic Mine from level 71 to 99 for most accounts, calling it the most AFK and best option for most accounts, though it can be started at 50 Mining."
+    },
+    {
+     "t": 780,
+     "kind": "tip",
+     "text": "If you seriously need to AFK Gnomonkey recommends AFKing through other skills like Fishing, Woodcutting or Runecrafting, but if Mining is one of your last skills and you need something AFK, there are definitely worse options than Amethyst."
+    }
+   ]
+  },
+  {
+   "name": "Pickaxe",
+   "kind": "item",
+   "claims": [
+    {
+     "t": 0,
+     "kind": "stat",
+     "text": "Every ten levels of Mining unlocks a new pickaxe tier, from the iron pickaxe at level 1 to the crystal pickaxe at level 71 (as Gnomonkey describes it)."
+    },
+    {
+     "t": 28,
+     "kind": "stat",
+     "text": "A higher-tier pickaxe increases mining speed, ranging from eight ticks per mine chance to just under three ticks for the dragon and crystal pickaxes; Gnomonkey says to always buy and use the best pickaxe you can for your level."
+    },
+    {
+     "t": 28,
+     "kind": "requirement",
+     "text": "Pickaxes require an Attack level to equip, ranging from 1 to 70, but you do not need to equip a pickaxe to mine with it."
+    },
+    {
+     "t": 28,
+     "kind": "method",
+     "text": "The dragon pickaxe and above have a special attack called Rock Knocker that temporarily boosts Mining by three levels, which can only be used if you can equip the pickaxe, so Attack level is relevant."
+    }
+   ]
+  },
+  {
+   "name": "Infernal pickaxe",
+   "kind": "item",
+   "claims": [
+    {
+     "t": 56,
+     "kind": "method",
+     "text": "The Infernal pickaxe is created with 85 Smithing by using a smoldering stone on a dragon pickaxe, consuming the stone."
+    },
+    {
+     "t": 56,
+     "kind": "method",
+     "text": "The Infernal pickaxe gives a one-third chance of disintegrating mined ore and granting the Smithing XP that smelting the ore would give; it has 5,000 charges, one used per ore destroyed, and is recharged by adding a dragon pickaxe or smoldering stone."
+    },
+    {
+     "t": 56,
+     "kind": "opinion",
+     "text": "Gnomonkey typically only recommends the Infernal pickaxe when rushing the skill with tick manipulation, because it is fairly expensive to use and gives little benefit outside of mining granite compared to the crystal pickaxe."
+    },
+    {
+     "t": 361,
+     "kind": "tip",
+     "text": "At 3-tick 4-granite an Infernal pickaxe is pretty expensive to use but burns some of the granite, meaning you drop less, so it may be worth buying if you plan to do a lot of granite."
+    }
+   ]
+  },
+  {
+   "name": "Crystal pickaxe",
+   "kind": "item",
+   "claims": [
+    {
+     "t": 85,
+     "kind": "requirement",
+     "text": "The crystal pickaxe can be created after Song of the Elves by combining a dragon pickaxe with a crystal tool seed and 120 crystal shards at a singing bowl with 76 Crafting and Smithing."
+    },
+    {
+     "t": 85,
+     "kind": "stat",
+     "text": "The crystal pickaxe has a 1/4 chance of mining ore at 2 ticks compared to the dragon pickaxe's 1/6 chance, making it about 3% faster than a dragon pickaxe; each ore mined depletes one of its 10,000 charges, recharged with crystal shards at 100 charges each."
+    },
+    {
+     "t": 118,
+     "kind": "method",
+     "text": "Wearing an elven signet while using the crystal pickaxe gives a 10% chance not to use a charge."
+    },
+    {
+     "t": 118,
+     "kind": "opinion",
+     "text": "Gnomonkey recommends making a crystal pickaxe when you can and using a dragon pickaxe or your best usable pickaxe until then, since it cuts into profits slightly but reduces the time spent mining; it gives no benefit for granite to 99."
+    }
+   ]
+  },
+  {
+   "name": "Prospector's outfit",
+   "kind": "item",
+   "claims": [
+    {
+     "t": 118,
+     "kind": "stat",
+     "text": "The Prospector's outfit boosts Mining XP by 2.5%."
+    },
+    {
+     "t": 148,
+     "kind": "requirement",
+     "text": "The Prospector's outfit costs 180 golden nuggets from the Motherlode Mine, which takes roughly 10 hours to mine."
+    },
+    {
+     "t": 148,
+     "kind": "opinion",
+     "text": "Gnomonkey says the Prospector's outfit is not worth getting for the XP alone, since you will not make up the 10 hours spent at Motherlode Mine on the way to 99, but it is required for a Falador hard diary step and a master clue step, so on a main it is basically mandatory at some point."
+    },
+    {
+     "t": 148,
+     "kind": "tip",
+     "text": "For an alt such as the rune dragon alt Gnomonkey was training, he highly recommends skipping the Prospector's outfit and mining with faster methods."
+    },
+    {
+     "t": 361,
+     "kind": "tip",
+     "text": "At granite, Gnomonkey says to wear full Prospector's if you have it; the Prospector jacket, legs and boots also provide desert heat protection."
+    }
+   ]
+  },
+  {
+   "name": "Varrock armour",
+   "kind": "item",
+   "claims": [
+    {
+     "t": 179,
+     "kind": "stat",
+     "text": "The Varrock armours from the Varrock Diary give a 10% chance of getting two ores when you mine certain rocks, giving the full experience for both ores; they range from only helping with iron at the easy tier to all ores up to runite at the elite tier."
+    },
+    {
+     "t": 179,
+     "kind": "method",
+     "text": "The elite Varrock armour also acts as a Prospector jacket, including for the master clue step, but does not work for the Falador hard diary step, so you still need to buy the Prospector jacket for that."
+    },
+    {
+     "t": 391,
+     "kind": "tip",
+     "text": "At 3-tick 4-granite you can use Varrock armour for increased experience, but you need at least the medium armour to receive double granite, which makes the method even more intensive and requires dropping more granite."
+    }
+   ]
+  },
+  {
+   "name": "Gem bag",
+   "kind": "item",
+   "claims": [
+    {
+     "t": 179,
+     "kind": "requirement",
+     "text": "The gem bag is bought from the Motherlode Mine for 100 golden nuggets."
+    },
+    {
+     "t": 213,
+     "kind": "stat",
+     "text": "The gem bag holds up to 60 of each main uncut gem from sapphire to dragonstone, and pairs nicely with a charged amulet of glory (needing at least one charge), which triples your chance of receiving a gem while mining and also triples mining success chance at gem rocks."
+    },
+    {
+     "t": 540,
+     "kind": "tip",
+     "text": "Gnomonkey says the gem bag and coal bag are useful purchases outside Motherlode Mine, but are not necessary on any account."
+    }
+   ]
+  },
+  {
+   "name": "3-tick 4-granite",
+   "kind": "activity",
+   "claims": [
+    {
+     "t": 333,
+     "kind": "opinion",
+     "text": "Gnomonkey calls 3-tick 4-granite one of the more intensive tick manipulation methods in the game, but found it quite enjoyable while learning it for the video, slipping into a rhythm; it requires 100% attention as you often click multiple times per game tick."
+    },
+    {
+     "t": 333,
+     "kind": "tip",
+     "text": "3-tick 4-granite is incredibly good for something like a Hardcore Ironman because the pickaxe does not affect the method's speed at all, from bronze to crystal, so you do not need to risk your account getting a dragon pickaxe; using a crystal pickaxe just wastes charges."
+    },
+    {
+     "t": 361,
+     "kind": "requirement",
+     "text": "The granite quarry is in the desert, so you need heat protection: Desert amulet 4 gives complete immunity, a hit points cape with a regen bracelet can out-heal the damage, or desert robes with a Menaphite hat give the most protection otherwise; heat protection extends time between water skin sips up to a maximum of 132 seconds."
+    },
+    {
+     "t": 418,
+     "kind": "method",
+     "text": "For 3-tick 4-granite, bring four to eight water skins and a rune pouch with water, fire and astral runes to cast Humidify (or just bank if you lack Lunars), a big stack of swamp tar and two different types of clean herb (two of the same herb makes a dialogue box that prevents 3-ticking), and optionally an herb sack for spare herbs."
+    },
+    {
+     "t": 447,
+     "kind": "method",
+     "text": "The fastest way to the quarry is a Camulet teleport or the Desert Treasure Temple teleport on the Pharaoh's sceptre; Gnomonkey also sets up RuneLite using the minimap plugin to click the southern rock, and the stretched mode plugin to make the inventory very large lined up with the right side of the rocks at a certain camera zoom."
+    },
+    {
+     "t": 447,
+     "kind": "method",
+     "text": "3-tick 4-granite requires you to start making tar as soon as you actually mine the rock and, in the same tick, click to the next rock."
+    },
+    {
+     "t": 480,
+     "kind": "method",
+     "text": "To start a cycle, start mining a rock and when your pickaxe hits or you genuinely mine the granite, use swamp tar on your herb, then quickly click to the next rock; at lower levels it is harder since you will not always mine the rock, and if you were off a tick you never mine granite and must correct your cycle."
+    },
+    {
+     "t": 480,
+     "kind": "tip",
+     "text": "Gnomonkey recommends getting a feel for the cycle while learning and completely dropping granite when the inventory is full; once you get the hang of it you can drop one or two granite between mining actions, which requires four to five clicks per tick."
+    },
+    {
+     "t": 507,
+     "kind": "opinion",
+     "text": "Gnomonkey says 3-tick 4-granite will improve your clicks at raids in PvM, so he recommends it to improve overall clicking."
+    },
+    {
+     "t": 507,
+     "kind": "stat",
+     "text": "3-tick 4-granite scales dramatically with level because it increases your chance of mining the rock: Gnomonkey got around 70k XP/hr after only an hour of testing at 61 Mining, and says 130k XP/hr is possible at level 99, making it by far the fastest mining method in the game."
+    }
+   ]
+  },
+  {
+   "name": "Motherlode Mine",
+   "kind": "activity",
+   "claims": [
+    {
+     "t": 540,
+     "kind": "requirement",
+     "text": "Gnomonkey says you can start Motherlode Mine at level 55 or 61, and on a main highly recommends using it until you get at least the Prospector's outfit."
+    },
+    {
+     "t": 540,
+     "kind": "method",
+     "text": "Motherlode Mine is in the Dwarven mine north of Falador (reachable via the eastern stairs in a house in Falador) and involves mining pay-dirt from the walls, depositing it in the hopper, then retrieving cleaned ore and golden nuggets from the sack."
+    },
+    {
+     "t": 574,
+     "kind": "tip",
+     "text": "At Motherlode Mine fill your inventory with two items, usually a hammer and a gem bag, so you can deposit an additional load of dirt, as the sack normally holds 81 dirt but can be overfilled."
+    },
+    {
+     "t": 574,
+     "kind": "method",
+     "text": "On the lower level of Motherlode Mine veins deplete after a random number of successful mines, usually 1 to 4; the upper level (100 golden nuggets and 72 Mining) has veins with unlimited ore for 14 to 27 seconds, making it much more AFK."
+    },
+    {
+     "t": 604,
+     "kind": "tip",
+     "text": "Gnomonkey recommends buying the upper level of Motherlode Mine ASAP if you plan to do it for a long period, and doubling the sack capacity for 200 golden nuggets only as the last upgrade since it is very expensive."
+    }
+   ]
+  },
+  {
+   "name": "Volcanic Mine",
+   "kind": "activity",
+   "claims": [
+    {
+     "t": 604,
+     "kind": "tip",
+     "text": "Volcanic Mine can be started at level 50, but Gnomonkey recommends starting at 71 because the crystal pickaxe is incredibly good there."
+    },
+    {
+     "t": 635,
+     "kind": "requirement",
+     "text": "Volcanic Mine requires Fossil Island and 150 kudos; if you lack kudos Gnomonkey recommends hunting fossils at Sulliuscep trees through Woodcutting."
+    },
+    {
+     "t": 635,
+     "kind": "method",
+     "text": "Volcanic Mine is similar to Wintertodt for Mining: teams of 3 to 5 players mine a central boulder while managing the stability of the mine, requiring some coordination but allowing you to AFK for about 80 seconds at a time at several points."
+    },
+    {
+     "t": 661,
+     "kind": "stat",
+     "text": "At level 71 with a crystal pickaxe Volcanic Mine gives about 75k XP/hr, scaling to 94k XP/hr at level 99, with about 2 GP per XP, a little under 200k GP/hr, and it also gives fossils which help if the museum is not complete."
+    },
+    {
+     "t": 661,
+     "kind": "opinion",
+     "text": "Gnomonkey calls Volcanic Mine one of the few Mining methods that did not make him hate his life, and highly recommends learning it with friends or the VM Discord."
+    }
+   ]
+  },
+  {
+   "name": "Gem rocks",
+   "kind": "activity",
+   "claims": [
+    {
+     "t": 692,
+     "kind": "requirement",
+     "text": "Gem rocks can be mined from level 40 with at least the Karamja hard diary completed."
+    },
+    {
+     "t": 692,
+     "kind": "stat",
+     "text": "Mining gem rocks is fairly intensive but gives around 300k GP/hr in gems and Gnomonkey says it has the best pet chance in the game; tick manipulating speeds it up by about 25%."
+    },
+    {
+     "t": 692,
+     "kind": "stat",
+     "text": "Gem rocks give 30k to 60k XP/hr without manipulation and up to 85k XP/hr with manipulation, always lower than Volcanic Mine."
+    },
+    {
+     "t": 722,
+     "kind": "opinion",
+     "text": "Gnomonkey is not a huge fan of gem rocks and would pick Volcanic Mine over them in almost every case, since Volcanic Mine has a fairly similar pet chance and better XP while also being AFK; gem rocks are the best option only to grind out the pet as fast as possible."
+    }
+   ]
+  },
+  {
+   "name": "Blast Mine",
+   "kind": "activity",
+   "claims": [
+    {
+     "t": 722,
+     "kind": "requirement",
+     "text": "Blast Mine can be started at level 75 Mining."
+    },
+    {
+     "t": 722,
+     "kind": "opinion",
+     "text": "Gnomonkey says to skip Blast Mine and just do Volcanic Mine instead."
+    }
+   ]
+  },
+  {
+   "name": "Amethyst",
+   "kind": "activity",
+   "claims": [
+    {
+     "t": 722,
+     "kind": "requirement",
+     "text": "Amethyst can be mined at level 92 Mining, inside the Mining Guild, and is the most AFK option for Mining."
+    },
+    {
+     "t": 751,
+     "kind": "stat",
+     "text": "Amethyst mining is probably the slowest option, peaking at about 25k XP/hr, but provides about 300k GP/hr."
+    },
+    {
+     "t": 751,
+     "kind": "tip",
+     "text": "Varrock armour 4 works at Amethyst, along with expert mining gloves from the Mining Guild, which give a 25% chance not to deplete an amethyst vein."
+    },
+    {
+     "t": 751,
+     "kind": "opinion",
+     "text": "Gnomonkey did Amethyst from 92 to 98 on his main because he did not know Volcanic Mine was a decent method, and says he really regrets it."
+    }
+   ]
+  }
+ ]
+}

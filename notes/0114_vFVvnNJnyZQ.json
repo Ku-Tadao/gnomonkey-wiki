@@ -1,0 +1,61 @@
+{
+  "id": "vFVvnNJnyZQ",
+  "title": "Duo Nex Teaching Stream (Melee) OSRS",
+  "date": "2023-05-28",
+  "type": "guide",
+  "summary": "Gnomonkey teaches duo Nex with a melee-focused approach, covering gear, five-ticking, resets, positioning and brewing timing across the phases. He calls duo Nex the best money in the game at around 18-20m gp per hour, and the hardest PvM encounter outside raids and Inferno.",
+  "outline": [
+    {"t": 0, "text": "Gear and prep (weapon choices, Torva, supplies)"},
+    {"t": 101, "text": "Phase 1 strategy and five-ticking"},
+    {"t": 152, "text": "Phase 2 mechanics and prayer swaps"},
+    {"t": 234, "text": "Tanking, positioning and tick walking"},
+    {"t": 351, "text": "Minion management and Reavers"},
+    {"t": 420, "text": "Phase 3 mechanics and resetting repeatedly"},
+    {"t": 498, "text": "Phase 4 (ice phase) brewing and containing"},
+    {"t": 625, "text": "Final kill, loot and wrap-up"}
+  ],
+  "topics": [
+    {
+      "name": "Nex",
+      "kind": "boss",
+      "claims": [
+        {"t": 0, "kind": "opinion", "text": "Gnomonkey says Nex is still the best money in the game and most profitable as a duo."},
+        {"t": 110, "kind": "stat", "text": "Gnomonkey says his duo Nex kills the previous day came out at between 18 and 20 million gp per hour; the video description says absolute max is around 20m gp/hr with max efficiency."},
+        {"t": 0, "kind": "requirement", "text": "The video description gives bare minimum gear for Nex as Fang, Armadyl crossbow and Karil's, so Nex is doable with a low bank value but very challenging."},
+        {"t": 0, "kind": "opinion", "text": "Gnomonkey considers duo Nex the most difficult PvM encounter outside raids and Inferno."},
+        {"t": 110, "kind": "opinion", "text": "Gnomonkey says Nex Mass (mass Nex) is really bad compared with duo Nex."},
+        {"t": 143, "kind": "tip", "text": "The biggest thing for duo Nex is learning to five-tick properly: Nex's normal attack timer is four ticks while your attack timer is five, so you force her to attack at five ticks without losing DPS and take far less damage."},
+        {"t": 176, "kind": "tip", "text": "Nex typically swaps target every two attacks but cannot pick the same person twice in a row; Gnomonkey says to pray melee whenever she is attacking you."},
+        {"t": 203, "kind": "tip", "text": "Gnomonkey has red tiles marked everywhere as easy reset tiles; you wait for Nex to run past the lip when you want to reset and then go in."},
+        {"t": 203, "kind": "opinion", "text": "Gnomonkey says getting resets down is probably the next most important thing, because failing resets will get you killed in phase 2 as Nex lawnmowers you."},
+        {"t": 231, "kind": "tip", "text": "To tick walk when Nex chases you, click under the center of her tile every tick; if she did her dash last she always follows with Fear the Shadow."},
+        {"t": 240, "kind": "tip", "text": "If Nex gets a virus off she does Embrace Darkness, and you cannot really melee her during it without some cheese."},
+        {"t": 260, "kind": "tip", "text": "Because the ranged attack calculates a tick later, you can pray melee and then use ranged between attacks to get the melee prayer off."},
+        {"t": 346, "kind": "tip", "text": "On phase 2 (the mage setup), Gnomonkey says to pray mage if you are forced to take ranged autos, because Umbra is a lot more dangerous."},
+        {"t": 373, "kind": "tip", "text": "Gnomonkey advises killing the Reavers fast and not leaving them up, because they heal Nex every time they hit you; the only time to leave them up is when killing Kreer so it won't heal her."},
+        {"t": 399, "kind": "stat", "text": "When Reavers die they heal Nex for whatever their remaining health was times three, according to Gnomonkey, who says Reavers heal about 150 health."},
+        {"t": 399, "kind": "tip", "text": "During the blood phase, Gnomonkey says to try to hit Ultar to get special attack energy back, since the health impair is nice but spec back is the real reason."},
+        {"t": 431, "kind": "tip", "text": "For the phase with Kreer, you both repeatedly reset; go to the red tile that always drags her in a set direction because NPCs prefer to move east-west first."},
+        {"t": 465, "kind": "tip", "text": "While the other player is far away, Gnomonkey stands at a spot so Nex attacks him when she resets, then drags her back; repeating this stalls her attacks, stops Reavers healing her and prevents damage."},
+        {"t": 494, "kind": "tip", "text": "For the ice phase, Gnomonkey says to heal enough while ranging and during Contain this that you do not need to heal again until the next Contain this, because brewing while using the ZCB loses the least DPS."},
+        {"t": 528, "kind": "tip", "text": "Gnomonkey says you should be careful of when Contain This lands, get out of range so she does not hit you, and then she dashes up so you can reset; stay close enough to help each other if frozen but do not stack on top of each other."},
+        {"t": 557, "kind": "stat", "text": "Gnomonkey says if you are below 30 health you are safe from Nex's melee attacks when praying melee, because they max 15, and you can tick eat the mage hits."},
+        {"t": 590, "kind": "tip", "text": "Gnomonkey says to always brew when you are ranging and try to reach that point without needing to brew while meleeing; he death charges because Nex gives death charge and he wants the spec for the next kill."},
+        {"t": 643, "kind": "tip", "text": "Around Nex's 300 health mark Gnomonkey switches from the ZCB to the T-Bow (twisted bow) and drops the ZCB or a Void Waker; he says getting your gear switches down quickly is the tough part and just takes practice."}
+      ]
+    },
+    {
+      "name": "Nex gear and supplies",
+      "kind": "item",
+      "claims": [
+        {"t": 0, "kind": "opinion", "text": "Gnomonkey is torn between bringing a six-way (BGS/Fang setup) with a ZCB or just a Twisted bow with Pegasian boots and Assembler; he says the T-Bow is only 2% worse than ZCB when just autoing Nex at full ranged potion."},
+        {"t": 26, "kind": "opinion", "text": "Gnomonkey says the T-Bow is really good for minions and Reavers, while bringing the ZCB is really good for potting down, and he thinks either choice is very close."},
+        {"t": 26, "kind": "opinion", "text": "Gnomonkey says Voidwaker is a better special attack than the Claws/ZCB option at Nex."},
+        {"t": 54, "kind": "tip", "text": "Gnomonkey brings full Torva for duo Nex because it reduces a lot of damage; you use about the same supplies, dropping two brews but taking much less damage, which allows meleeing on phase 2 and speeds it up dramatically."},
+        {"t": 54, "kind": "tip", "text": "Gnomonkey brings four Prayer restores because his Grandmaster-level setup saves about a dose; he suggests five or six restores if you are learning."},
+        {"t": 80, "kind": "tip", "text": "Gnomonkey brings seven brews; if learning, drop the Buckler and bring about eight brews."},
+        {"t": 80, "kind": "tip", "text": "Gnomonkey typically uses Voidwaker on phase 2 because it works out spec-energy wise, and previously one Voidwaker spec would leave you at 100% spec energy and sitting on it."}
+      ]
+    }
+  ]
+}

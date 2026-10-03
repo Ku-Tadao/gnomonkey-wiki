@@ -1,0 +1,260 @@
+{
+  "id": "3C7naDl1ieY",
+  "title": "We Can Use THESE Plugins in Runelite (OSRS)",
+  "date": "2022-06-18",
+  "type": "news-opinion",
+  "summary": "Reacting to Jagex's announcement that all third-party clients will be banned after a one-week grace period, Gnomonkey goes through the plugins now allowed in RuneLite (hide dead NPCs, shift-click walk under, left-click pickpocket, party/socket features, monster true tiles), what he wishes was kept (Neverlog), and his concerns about Jagex controlling the client long term.",
+  "outline": [
+    {
+      "t": 0,
+      "text": "Jagex bans third-party clients; one-week grace period; new RuneLite features"
+    },
+    {
+      "t": 31,
+      "text": "Hide dead NPCs (Entity Hider extended)"
+    },
+    {
+      "t": 116,
+      "text": "Shift-click walk under"
+    },
+    {
+      "t": 146,
+      "text": "Left-click pickpocket"
+    },
+    {
+      "t": 177,
+      "text": "Socket features via the party plugin"
+    },
+    {
+      "t": 238,
+      "text": "Monster true tiles"
+    },
+    {
+      "t": 270,
+      "text": "Neverlog and logout timer suggestions"
+    },
+    {
+      "t": 359,
+      "text": "Six-hour logout and effect on botting"
+    },
+    {
+      "t": 419,
+      "text": "Anti-cheat and client spoofing"
+    },
+    {
+      "t": 447,
+      "text": "Concerns about Jagex controlling the client and stifling plugin development"
+    },
+    {
+      "t": 542,
+      "text": "Stream plans: Inferno push"
+    }
+  ],
+  "topics": [
+    {
+      "name": "Update: Third-party client ban and RuneLite plugins",
+      "kind": "update",
+      "claims": [
+        {
+          "t": 0,
+          "kind": "event",
+          "text": "Jagex announced they will ban all third-party clients going forward, with everyone given a one-week grace period to switch to RuneLite before banning begins."
+        },
+        {
+          "t": 0,
+          "kind": "event",
+          "text": "Jagex is also allowing several useful plugins to be transferred to RuneLite: Entity Hider Extended (hides dead NPCs), shift-click walk under, left-click pickpocket, and various features from Socket."
+        },
+        {
+          "t": 31,
+          "kind": "opinion",
+          "text": "Gnomonkey says he fully expected client bans but feared Jagex would forget things like hiding dead NPCs, which would make Inferno so annoying he would probably stop running it."
+        },
+        {
+          "t": 270,
+          "kind": "opinion",
+          "text": "Gnomonkey says these additions walked in a gray area but should have been in RuneLite from the beginning, and he is glad he will no longer be called a cheater for a plugin that makes the game work the way it should."
+        },
+        {
+          "t": 270,
+          "kind": "event",
+          "text": "Jagex asked at the bottom of the news post whether players wanted any other plugins pulled over."
+        },
+        {
+          "t": 391,
+          "kind": "opinion",
+          "text": "Gnomonkey says Jagex has finally drawn a clear line in the sand, bringing over the plugins that third-party client users mention as quality of life and banning the rest, which he finds totally fair."
+        }
+      ]
+    },
+    {
+      "name": "RuneLite hide dead NPCs",
+      "kind": "item",
+      "claims": [
+        {
+          "t": 31,
+          "kind": "method",
+          "text": "Entity Hider Extended is now a setting under Entity Hider, a tick box to hide dead NPCs, which makes NPCs instantly disappear when killed; Gnomonkey says this was the 'low RAM' meme every Inferno speedrunner talked about."
+        },
+        {
+          "t": 60,
+          "kind": "opinion",
+          "text": "Gnomonkey says hiding dead NPCs was practically necessary for speedrunning Inferno or Gauntlet because a dead NPC's clickbox sits at the top of the menu and eats clicks, causing extra damage taken and lost time; he would not want to run Inferno without it."
+        },
+        {
+          "t": 87,
+          "kind": "tip",
+          "text": "Gnomonkey says RuneLite seems to have copy-pasted the plugin from clients and it still has bugs with multi-phase bosses, mainly Ice Demon, who simply disappears when the fight starts."
+        },
+        {
+          "t": 87,
+          "kind": "opinion",
+          "text": "In the third-party client plugin he used, Gnomonkey could whitelist only Inferno NPCs to avoid bugs, and he hopes RuneLite implements something similar."
+        }
+      ]
+    },
+    {
+      "name": "RuneLite shift-click walk under",
+      "kind": "item",
+      "claims": [
+        {
+          "t": 116,
+          "kind": "method",
+          "text": "With the Menu Entry Swapper plugin, holding Shift while right-clicking an NPC gives a 'shift-click walk here' option; when toggled on, holding Shift removes the NPC's whole menu so you can move freely underneath it."
+        },
+        {
+          "t": 116,
+          "kind": "opinion",
+          "text": "Gnomonkey says walk under is big for Nex resets, Verzik P3 tanking and bosses like Kalphite Queen or Bandos where you walk under them to avoid damage; the implementation is a bit clunky compared with the other client, where holding Shift simply removes all menus."
+        },
+        {
+          "t": 146,
+          "kind": "opinion",
+          "text": "Gnomonkey says walk under is not really necessary anywhere except manual Nex resets, but is a nice quality-of-life change for most bosses."
+        }
+      ]
+    },
+    {
+      "name": "RuneLite left-click pickpocket",
+      "kind": "item",
+      "claims": [
+        {
+          "t": 146,
+          "kind": "method",
+          "text": "Holding Shift and right-clicking a pickpocketable NPC lets you change that option to the top left-click one; it will not allow left-click blackjacking as third-party clients did, but allows left-click pickpocketing of Elves and Vyres, and removes the need to tinker with attack options for Ardougne Knights."
+        }
+      ]
+    },
+    {
+      "name": "RuneLite party plugin and Socket features",
+      "kind": "item",
+      "claims": [
+        {
+          "t": 177,
+          "kind": "opinion",
+          "text": "Gnomonkey says nearly everything from the Socket plugins is now in RuneLite except the Sotetseg mazes, which he calls arguably one of the most busted cheat client plugins, showing the whole team the maze so the chosen player could run straight through."
+        },
+        {
+          "t": 177,
+          "kind": "method",
+          "text": "With the Party plugin, open it in the sidebar and hit create party to generate a password teammates can use to show HP, prayer and now which special attacks have landed."
+        },
+        {
+          "t": 208,
+          "kind": "opinion",
+          "text": "Gnomonkey says showing which hammers have landed and total BGS damage lets teams efficiently lower boss defence, used a lot in Theatre of Blood and great for Chambers; he says almost every other MMO has such a feature and it should have been in the game ages ago."
+        }
+      ]
+    },
+    {
+      "name": "RuneLite monster true tiles",
+      "kind": "item",
+      "claims": [
+        {
+          "t": 238,
+          "kind": "method",
+          "text": "RuneLite added monster true tiles, which show exactly where a monster is at any moment."
+        },
+        {
+          "t": 238,
+          "kind": "opinion",
+          "text": "Gnomonkey found it one of the weirdest decisions that true tiles were considered cheating, since players could already see their own true tile; he says it is useful anywhere monsters stall, such as Inferno melee monsters whose true tile can be far off from where they appear, and for Nex resets."
+        }
+      ]
+    },
+    {
+      "name": "Opinion: Logout timer and Neverlog",
+      "kind": "opinion",
+      "claims": [
+        {
+          "t": 288,
+          "kind": "opinion",
+          "text": "Gnomonkey says the one plugin he wishes was not lost is Neverlog, which entered a random keyboard input every few minutes to keep you logged in; he admits it is borderline botting and that giving the whole community access would tax the servers, but says it made alting much more feasible."
+        },
+        {
+          "t": 299,
+          "kind": "opinion",
+          "text": "Gnomonkey suggests the logout timer could be increased to 10 to 20 minutes without hurting game integrity, or that the game not log you out if your last click was not a red click (e.g. an alt that clicks a tile in Chambers to hold the raid would never log out, while chopping a redwood would still log you out after five minutes)."
+        },
+        {
+          "t": 359,
+          "kind": "opinion",
+          "text": "Gnomonkey asks Jagex to remove the six-hour logout, assuming it was originally an anti-botting mechanic, saying it is pointless and causes headaches in team content where you must remember how long you were logged in."
+        }
+      ]
+    },
+    {
+      "name": "Botting and client enforcement",
+      "kind": "opinion",
+      "claims": [
+        {
+          "t": 359,
+          "kind": "opinion",
+          "text": "Gnomonkey had a feeling Jagex would move this direction when they announced the Jagex launcher, and says this seems a very reasonable relaxation of the rules."
+        },
+        {
+          "t": 359,
+          "kind": "opinion",
+          "text": "Gnomonkey thinks the change should reduce botting populations at least temporarily since most bots run on their own botting clients, but bots still run on RuneLite so he does not expect them to go away; Jagex may detect them more easily."
+        },
+        {
+          "t": 419,
+          "kind": "opinion",
+          "text": "Gnomonkey says it is likely Jagex developed a system to detect other clients and would not be surprised if cheat client developers find ways to spoof RuneLite, starting a new war like with banning bots, though he notes it is at least a step up from before when pretty much nobody was banned for it."
+        }
+      ]
+    },
+    {
+      "name": "Opinion: Concerns about Jagex control of RuneLite",
+      "kind": "opinion",
+      "claims": [
+        {
+          "t": 447,
+          "kind": "opinion",
+          "text": "Gnomonkey says having community clients was one of the main reasons he came to OSRS instead of RS3, which has zero third-party clients; tile indicators or highlighted agility obstacles would never have appeared in RS3."
+        },
+        {
+          "t": 479,
+          "kind": "opinion",
+          "text": "Gnomonkey worries that with only RuneLite, the HD client and Jagex's own client allowed, Jagex has full control over the primary client, which could stifle RuneLite development and creativity; he sees it possibly as part of a long-term goal to get everyone onto Jagex's own client, and notes they are working on a C++ client with a new engine away from Java."
+        },
+        {
+          "t": 510,
+          "kind": "opinion",
+          "text": "Gnomonkey says he fully supports this update but worries that stifling PvM-related plugins (like Chambers extensions, Scouter and the many Theatre of Blood plugins on the Plugin Hub) would cause problems, because they improve the content rather than take away from it; he does not expect anything for a good while."
+        }
+      ]
+    },
+    {
+      "name": "Gnomonkey",
+      "kind": "person",
+      "claims": [
+        {
+          "t": 542,
+          "kind": "event",
+          "text": "Gnomonkey says he had just obtained the Zuk helmet (Infernal cape-related reward, 'Zuck helmet') and would be pushing a sub-48-minute Inferno and possibly a pillarless Inferno completion on stream."
+        }
+      ]
+    }
+  ]
+}

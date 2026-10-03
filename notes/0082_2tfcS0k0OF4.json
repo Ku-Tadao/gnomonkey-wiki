@@ -1,0 +1,77 @@
+{
+  "id": "2tfcS0k0OF4",
+  "title": "Soul Wars DOLO Pet Guide (1.2M GP/HR) OSRS",
+  "date": "2022-04-05",
+  "type": "guide",
+  "summary": "A guide to a two-account (main plus alt) method for getting the Lil' Destructor pet from Soul Wars without playing real games, at 1.2m gp per hour and 380 zeal per hour. It covers requirements, gear, the game loop, and what to buy with zeal.",
+  "outline": [
+    {"t": 0, "text": "Intro: the Soul Wars pet method, gp/hr and pet time"},
+    {"t": 30, "text": "Requirements and setup"},
+    {"t": 63, "text": "Gear and inventory for the main and the alt"},
+    {"t": 100, "text": "Starting the game with the clan portal"},
+    {"t": 136, "text": "The gameplay loop: fragments, obelisk, avatar damage, forfeit at 1210"},
+    {"t": 210, "text": "Points, zeal and the Spoils of war pet roll"},
+    {"t": 242, "text": "Method efficiency, Soul Wars cape and ectoplasmator"}
+  ],
+  "topics": [
+    {
+      "name": "Soul Wars",
+      "kind": "activity",
+      "claims": [
+        {"t": 0, "kind": "opinion", "text": "Gnomonkey says he was never fond of Jagex adding Soul Wars, especially with a pet tied to it, and that minigames are not his thing but pets are."},
+        {"t": 0, "kind": "method", "text": "Gnomonkey's Soul Wars method gets the pet without playing real games, using a main and an alt account together (DOLO), and provides 1.2m gp per hour."},
+        {"t": 33, "kind": "requirement", "text": "The main account only needs high Ranged and Agility for this Soul Wars method; having Elite Void unlocked is also helpful."},
+        {"t": 33, "kind": "requirement", "text": "The alt needs at least 75 Ranged to wield a blowpipe and ideally Rigor unlocked; Elite Void is better than regular ranged armour on the alt but not necessary."},
+        {"t": 33, "kind": "tip", "text": "Gnomonkey says an Ava's assembler on the alt saves more ammo at Soul Wars, though an accumulator works fine with a little ammo lost."},
+        {"t": 33, "kind": "requirement", "text": "The hardest requirement for the Soul Wars method is a locator orb from Dragon Slayer II; a Dwarven rock cake can technically be used instead but is much more annoying."},
+        {"t": 90, "kind": "method", "text": "The easiest way to get to Soul Wars is the minigame teleport; the portal is located in Edgeville."},
+        {"t": 90, "kind": "tip", "text": "On the first visit, use your Ava's device on both accounts on Nomad; you are forced to wear a Soul Wars cape in the minigame, but this allows the device to save ammo."},
+        {"t": 90, "kind": "tip", "text": "On both accounts set quick prayers to protect from melee, preserve and Rigor, turn on accept aid, and turn on auto-retaliate."}
+      ]
+    },
+    {
+      "name": "Soul Wars pet method",
+      "kind": "mechanic",
+      "claims": [
+        {"t": 63, "kind": "method", "text": "Gnomonkey's main wears max Ranged with Void and wields a dark bow with dragon arrows, wearing Graceful boots and an Archer's ring because he has no Ring of Endurance and Pegasian boots."},
+        {"t": 63, "kind": "method", "text": "The main's inventory holds a blowpipe and runes for telekinetic grab; the alt's inventory is the same but with only a blowpipe, plus the locator orb."},
+        {"t": 90, "kind": "tip", "text": "Dragon darts on both accounts make the Soul Wars method more lenient, but amethyst darts are perfectly fine if you want to save money."},
+        {"t": 120, "kind": "method", "text": "The method uses the clan portal: each account joins its own clan, both enter the Eastern portal surrounded by lava, then right-click challenge on both accounts and accept to start the game."},
+        {"t": 120, "kind": "tip", "text": "The method is rigid and requires playing two accounts at once, which takes getting used to, but it is fairly lenient timing-wise."},
+        {"t": 120, "kind": "method", "text": "On both accounts grab multiple potions from the lobby table, which provide prayer and a near-overload stat boost so prayer is not a worry; use the locator orb to move the alt down as you go."},
+        {"t": 151, "kind": "method", "text": "Each account heads to opposite sides of the north or south soul obelisk and kills ghosts; the goal is 28 to 32 fragments combined, usually 8 to 12 on the main and 16 on the alt."},
+        {"t": 151, "kind": "method", "text": "Once the main has roughly enough fragments, run it to the centre obelisk while placing the alt within range of the main's dark bow; do not walk past the ruins on the main, since standing in the area caps the obelisk."},
+        {"t": 184, "kind": "method", "text": "Spec the alt with the main's dark bow (a guaranteed minimum 16 damage with ten tile range); when the alt dies, telegrab the fragments it collected from across the river, wait near the obelisk for it to be capped (shown by the colour change and the bar filling at top left), then sacrifice the fragments."},
+        {"t": 210, "kind": "method", "text": "After capping, run to the alt's base: click the portal on the alt and get ready to exit, while the main runs to the avatar and blowpipes it for a minimum damage contribution of roughly 300 (a bit less depending on fragments deposited)."},
+        {"t": 210, "kind": "tip", "text": "Watch the clock carefully: as soon as it reaches 1210 the alt leaves and forfeits the game, which ends the match and awards 19 zeal if the criteria are met."},
+        {"t": 237, "kind": "stat", "text": "Each Soul Wars game of this method takes 2 minutes 50 seconds, and a fast player can start the next game within 10 seconds; at about 3 minutes and 19 zeal per game this comes to 380 zeal per hour."}
+      ]
+    },
+    {
+      "name": "Lil' Destructor",
+      "kind": "item",
+      "claims": [
+        {"t": 237, "kind": "stat", "text": "The Lil' Destructor pet is obtained by buying Spoils of war from Nomad for 30 zeal each, each giving a 1/400 chance at the pet."},
+        {"t": 237, "kind": "stat", "text": "Spoils of war are worth an average of 97k gp each."},
+        {"t": 267, "kind": "stat", "text": "The pet needs an average of 12,000 zeal, which Gnomonkey says is 31.5 hours with this method."},
+        {"t": 0, "kind": "opinion", "text": "Gnomonkey says getting the Lil' Destructor takes only about 30 hours on average, compared to about 100 hours for most pets, and that it is a great first pet to get on a fresh alt."}
+      ]
+    },
+    {
+      "name": "Soul Wars cape",
+      "kind": "item",
+      "claims": [
+        {"t": 267, "kind": "stat", "text": "The Soul Wars cape costs 2,500 zeal and gives +8 prayer bonus, by far best in slot for prayer bonus according to Gnomonkey."},
+        {"t": 267, "kind": "opinion", "text": "Gnomonkey would not bother getting the Soul Wars cape because it is a 6.5 hour grind for +2 prayer bonus over the Ardougne cloak 4, and in most cases where a prayer bonus cape helps a hitpoints cape helps more."}
+      ]
+    },
+    {
+      "name": "Ectoplasmator",
+      "kind": "item",
+      "claims": [
+        {"t": 267, "kind": "stat", "text": "The ectoplasmator costs 250 zeal and, when killing ghosts, provides prayer XP equal to 20% of the ghost's hit points."},
+        {"t": 297, "kind": "opinion", "text": "Gnomonkey calls the ectoplasmator effect incredibly minor, useful for some minor benefit in Nightmare Zone (many monsters are ghosts) and Ankou Slayer tasks; whether it is worth a little over half an hour of zeal is up to you."}
+      ]
+    }
+  ]
+}

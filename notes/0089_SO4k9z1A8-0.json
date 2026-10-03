@@ -1,0 +1,267 @@
+{
+  "id": "SO4k9z1A8-0",
+  "title": "Why Power Creep is NECESSARY (OSRS)",
+  "date": "2022-05-25",
+  "type": "news-opinion",
+  "summary": "Responding to comments on his Shadow of Tumeken video, Gnomonkey argues that a small amount of power creep is inevitable and necessary for OSRS, drawing on his RS3 experience (Nex, Chaotic weapons, Invention) and OSRS examples such as the toxic blowpipe. He concludes the Shadow of Tumeken is a balanced tactical choice that does not replace the Twisted bow or Scythe.",
+  "outline": [
+    {
+      "t": 0,
+      "text": "Intro: power creep fears in the OSRS community"
+    },
+    {
+      "t": 26,
+      "text": "Definition of power creep and examples of devaluing"
+    },
+    {
+      "t": 87,
+      "text": "Why power creep is a problem, and Ironman"
+    },
+    {
+      "t": 113,
+      "text": "Old School versus RS2 approach: Nex and Torva/Pernix/Virtus"
+    },
+    {
+      "t": 170,
+      "text": "Sink items and inflation"
+    },
+    {
+      "t": 265,
+      "text": "OSRS weapon brackets versus RS2 Chaotic weapons"
+    },
+    {
+      "t": 372,
+      "text": "RS3 solution: Invention"
+    },
+    {
+      "t": 430,
+      "text": "Why some power creep is necessary; GE tax"
+    },
+    {
+      "t": 489,
+      "text": "Raid rewards and gear choice depth"
+    },
+    {
+      "t": 535,
+      "text": "Case study: the toxic blowpipe"
+    },
+    {
+      "t": 577,
+      "text": "Shadow of Tumeken is balanced"
+    }
+  ],
+  "topics": [
+    {
+      "name": "Opinion: Power creep is necessary",
+      "kind": "opinion",
+      "claims": [
+        {
+          "t": 0,
+          "kind": "opinion",
+          "text": "Gnomonkey says, as a former RuneScape 3 player who has seen extreme power creep, that power creep is less of a problem than the Old School community makes it out to be."
+        },
+        {
+          "t": 26,
+          "kind": "trivia",
+          "text": "Gnomonkey defines power creep (reading from Google) as the gradual unbalancing of a game due to successive releases of new content leaving older content underpowered; the community commonly calls it devaluing."
+        },
+        {
+          "t": 26,
+          "kind": "opinion",
+          "text": "Gnomonkey says any update that adds something devalues something else: the blowpipe devalued crossbows, Twisted bow further devalued the blowpipe, and even Guardians of the Rift removing the delay after crafting essence or shift-click dropping counts."
+        },
+        {
+          "t": 55,
+          "kind": "opinion",
+          "text": "Gnomonkey says power creep is a problem because it devalues content: old bosses become easier and items become irrelevant to grind for economically."
+        },
+        {
+          "t": 113,
+          "kind": "opinion",
+          "text": "Gnomonkey argues that every update ever added was power creep in some way, so there is no solution but to either stop adding updates and let everything decay, or accept a small amount of power creep while curbing it in various ways as other MMOs do."
+        },
+        {
+          "t": 430,
+          "kind": "opinion",
+          "text": "Gnomonkey says a small amount of power creep is not only inevitable but necessary to keep a game fun and interesting, as long as it is maintained with checks and balances; without a Twisted bow in Chambers or a Scythe in Theatre of Blood those raids would be much less fun."
+        },
+        {
+          "t": 462,
+          "kind": "opinion",
+          "text": "Gnomonkey says the OSRS team recently decided it is OK to start adding actual best-in-slot items like Torva and Masori armour; he says when the team struggles to find enticing rewards comparable to existing ones, that weapon or armour tier is fully fleshed out and it is time to move on."
+        },
+        {
+          "t": 462,
+          "kind": "opinion",
+          "text": "Gnomonkey says raids need solid rewards to be interesting and engaging, and that gear choices (how many switches you can afford, and the impact of each) keep raids engaging; e.g. one challenge mode player might bring Torva for BGS specs while others use Inquisitor's to land hammer specs."
+        }
+      ]
+    },
+    {
+      "name": "Power creep and inflation",
+      "kind": "mechanic",
+      "claims": [
+        {
+          "t": 87,
+          "kind": "opinion",
+          "text": "Gnomonkey says this is the main reason many people play Ironman, as it gives a reason to kill less relevant bosses, though power creep is still a problem for Ironman: Zulrah's uniques have become less useful while the amount she is grinded has not changed, so the value from killing her has decreased."
+        },
+        {
+          "t": 227,
+          "kind": "opinion",
+          "text": "Gnomonkey says given enough time, supply outweighs demand: players have mastered both Theatre of Blood and Chambers so drops have fallen in value, even best-in-slot ones like Scythe and Twisted bow, though those have held up best."
+        },
+        {
+          "t": 232,
+          "kind": "stat",
+          "text": "Gnomonkey says the Nightmare still drops many best-in-slot upgrades like Inquisitor's and the Nightmare staves but fell from around 12m gp per hour to 4m due to huge numbers of farmers and bots."
+        },
+        {
+          "t": 232,
+          "kind": "opinion",
+          "text": "Gnomonkey says power creep and inflation go hand in hand; with no new bosses to use old weaponry, supply of those items eventually catches up to demand and devalues them regardless of new items."
+        },
+        {
+          "t": 430,
+          "kind": "opinion",
+          "text": "Gnomonkey calls the Grand Exchange tax an ingenious, simple solution that gives the Old School team power over how many items are in the game at a given time."
+        },
+        {
+          "t": 192,
+          "kind": "opinion",
+          "text": "Gnomonkey thinks the Old School team has been a bit overly cautious over time in adding new best-in-slot items."
+        }
+      ]
+    },
+    {
+      "name": "RuneScape 3 power creep",
+      "kind": "opinion",
+      "claims": [
+        {
+          "t": 113,
+          "kind": "event",
+          "text": "When Nex was first added in RS2 she dropped Torva armour like in OSRS but also Pernix (extremely powerful ranged armour, which Gnomonkey says is what Masori armour will be), Virtus (stronger magic armour than Ancestral) and the Zaryte bow, which was simply best-in-slot ranged and arguably equal to the Chaotic crossbow then available."
+        },
+        {
+          "t": 113,
+          "kind": "trivia",
+          "text": "Gnomonkey says RS2 had no Ancestral armour at the time, so the best mage robes were still Air Runes-era robes, and RS2 immediately added Torva after Bandos armour as the next upgrade."
+        },
+        {
+          "t": 265,
+          "kind": "event",
+          "text": "In RS2, Dungeoneering added the Chaotic weapons (rapier, staff, crossbow, maul, longsword) and Chaotic kite shield, making them best in slot for every combat style in one update and rotting prior weapons like the Armadyl crossbow, Abyssal whip and Staff of Light without sinking any."
+        },
+        {
+          "t": 265,
+          "kind": "opinion",
+          "text": "Gnomonkey says RS2 had no blowpipe, trident or Sanguinesti staff before jumping immediately to Chaotic weaponry, outdating everything; RS2 threw caution to the wind and let items become irrelevant."
+        },
+        {
+          "t": 372,
+          "kind": "event",
+          "text": "Gnomonkey says the economic implications were so major that years later RS3 needed an entirely new skill, Invention, to solve it; by then Chaotic weapons were mid-tier and the boss Araxxor had every best-in-slot weapon (scythe, staff, bow) attached."
+        },
+        {
+          "t": 400,
+          "kind": "method",
+          "text": "Invention lets players perk weapons with augmentations created from broken-down weapons, with stronger perks requiring more powerful weapons destroyed; e.g. breaking down the Noxious scythe gives a 5% damage-bonus augmentation, and old weapons with unique components gained value."
+        },
+        {
+          "t": 400,
+          "kind": "opinion",
+          "text": "Gnomonkey calls Invention easily the best new skill ever added to RS3, and says OSRS likely will not need such a solution for years because the devs are careful with each addition."
+        }
+      ]
+    },
+    {
+      "name": "OSRS gear bracket design",
+      "kind": "opinion",
+      "claims": [
+        {
+          "t": 170,
+          "kind": "opinion",
+          "text": "Gnomonkey praises OSRS for fleshing out armour with Inquisitor's (good for crush damage and landing hammers) and Justiciar (the best tank armour) instead of just adding Torva as a straight upgrade, saying it is still power creep but fleshes out options."
+        },
+        {
+          "t": 170,
+          "kind": "method",
+          "text": "OSRS also uses sink items to keep previous items relevant: Torva consumes Bandos armour to create it, and the Abyssal tentacle consumes an Abyssal whip."
+        },
+        {
+          "t": 265,
+          "kind": "opinion",
+          "text": "Gnomonkey says OSRS has done an amazing job curbing power creep compared to most games by filling out each combat bracket instead of simply adding best-in-slot items over and over."
+        },
+        {
+          "t": 265,
+          "kind": "stat",
+          "text": "Gnomonkey lists OSRS melee weapons: Abyssal whip then tentacle, outclassed a bit by the Ghrazi rapier, with side grades like Blade of Saeldor (slash, Gauntlet) and Inquisitor's mace (crush, Nightmare), Dragon hunter lance for dragons, Dinh's bulwark and Zamorakian hasta for tanking, Dharok's for extremely low HP, Obsidian knife with the full set for very low defence monsters, and Scythe of Vitur as the best slash weapon and typically best regardless as long as the target is 3x3 or larger."
+        },
+        {
+          "t": 462,
+          "kind": "opinion",
+          "text": "Gnomonkey says a weapon not best in slot everywhere, like Bow of Faerdhinen (best in slot only at Bandos and some Chambers rooms), still has value to people who cannot afford the higher tier."
+        }
+      ]
+    },
+    {
+      "name": "Toxic blowpipe",
+      "kind": "item",
+      "claims": [
+        {
+          "t": 535,
+          "kind": "opinion",
+          "text": "Gnomonkey calls the toxic blowpipe the worst case of power creep in OSRS history by far; it was added with Zulrah near the start of OSRS."
+        },
+        {
+          "t": 535,
+          "kind": "trivia",
+          "text": "According to Gnomonkey the blowpipe was intended to have an attack speed of three ticks, but when creating it a Jmod forgot about the rapid attack style reducing attack speed by a tick."
+        },
+        {
+          "t": 554,
+          "kind": "opinion",
+          "text": "Gnomonkey says the devs back then were less experienced with worse tools; even when Twisted bow came out later, the blowpipe was so overpowered it challenged the Twisted bow in many locations, with a mid-level boss dropping arguably the best ranged weapon in the game."
+        },
+        {
+          "t": 587,
+          "kind": "event",
+          "text": "Years later the devs nerfed the blowpipe, letting other weapons like Bow of Faerdhinen shine in their tier; Gnomonkey thinks the blowpipe is still fairly overpowered and has truly shaped the direction the game has taken."
+        }
+      ]
+    },
+    {
+      "name": "Shadow of Tumeken",
+      "kind": "item",
+      "claims": [
+        {
+          "t": 597,
+          "kind": "opinion",
+          "text": "Gnomonkey says players worrying that the Shadow of Tumeken will devalue Twisted bow and Scythe are wrong; the Shadow is far less useful than either, being better than Twisted bow in about four locations, better than Scythe in about two, and equal in a few."
+        },
+        {
+          "t": 616,
+          "kind": "opinion",
+          "text": "Gnomonkey calls the Shadow a tactical choice that keeps everything relevant: it is amazing where bosses do not have a high magic level, but requires considering which switches to bring and whether defence matters, as Ancestral is paper thin."
+        },
+        {
+          "t": 646,
+          "kind": "opinion",
+          "text": "Gnomonkey says the Shadow devalues Twisted bow and Scythe in such a small and calculated way that it is balanced: Scythe still shreds large, melee-weak bosses and Twisted bow still annihilates anything with a high magic level and lower defence, while the Shadow shreds bosses with lower magic level where you can bring the gear."
+        }
+      ]
+    },
+    {
+      "name": "Gnomonkey",
+      "kind": "person",
+      "claims": [
+        {
+          "t": 646,
+          "kind": "event",
+          "text": "Gnomonkey says he had just unlocked the Verzik helmet from the Master tier of Combat Achievements, giving two Inferno attempts per task, and planned to push for a sub-50 Inferno using a 'Psych Tech' while live on Twitch."
+        }
+      ]
+    }
+  ]
+}
