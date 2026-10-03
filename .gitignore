@@ -1,0 +1,10 @@
+transcripts/
+transcripts_whisper/
+_audio/
+*.log
+*.err
+PAUSE
+STOP
+__pycache__/
+site/
+failed.json
