@@ -64,9 +64,9 @@ This article is compiled from the videos of [GnomonkeyRS](https://www.youtube.co
 * [Jal-ImKot](Jal-ImKot.md)
 * [Phantom barrage](Phantom_barrage.md)
 * [TzKal-Zuk](TzKal-Zuk.md)
-* [Inferno gear](Inferno_gear.md)
 * [Jal-MejRah](Jal-MejRah.md)
 * [Jal-Xil](Jal-Xil.md)
+* [Inferno gear](Inferno_gear.md)
 
 ## References
 

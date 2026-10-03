@@ -61,10 +61,10 @@ This article is compiled from the videos of [GnomonkeyRS](https://www.youtube.co
 ## See also
 
 * [Inferno plugins](Inferno_plugins.md)
-* [Inferno waves](Inferno_waves.md)
 * [Off-ticking](Off-ticking.md)
-* [Prayer flicking](Prayer_flicking.md)
+* [Inferno waves](Inferno_waves.md)
 * [JalTok-Jad](JalTok-Jad.md)
+* [Prayer flicking](Prayer_flicking.md)
 * [TzKal-Zuk](TzKal-Zuk.md)
 
 ## References

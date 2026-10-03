@@ -10,76 +10,54 @@ This article is compiled from the videos of [GnomonkeyRS](https://www.youtube.co
 
 | | |
 |---|---|
-| **Type** | Activity |
+| **Type** | Minigame |
+| **Requirements** | Decent quest requirements: many stats in the 40s and 50s, and Prayer[^3kmWbjwmZqI-130] |
+| **Group size** | 2 (a friend or an alt)[^m_QPkyjfRIs-116] |
+| **Former XP rate** | about 200k Cooking, 100k split between Fletching and Hunter per hour[^m_QPkyjfRIs-0][^3kmWbjwmZqI-130] |
+| **Status** | XP nerfed to a little under one-third of former rates (January 2025)[^3kmWbjwmZqI-33] |
 | **Videos** | 2 (first 2024-11-15, latest 2025-01-27) |
 | **Main source** | [INSANE LEVELING - Trouble Brewing Guide (NERFED)](videos/2024-11-15_m_QPkyjfRIs.md) |
 </div>
 
-**Trouble Brewing** is an activity topic that Gnomonkey covers in 2 videos between 2024-11-15 and 2025-01-27. This article is a stub: his statements are grouped by type, repeated ones merged.
+**Trouble Brewing** is a two-player minigame that gave a flat, free source of Cooking, Fletching and Hunter XP. Gnomonkey considers it relevant even for mains because it has no input cost, and especially good for early ironmen[^m_QPkyjfRIs-567]. It is the subject of two videos: a guide in November 2024 after Jagex heavily buffed it, and a January 2025 video after the XP was nerfed again, which he says made the method completely dead[^m_QPkyjfRIs-0][^3kmWbjwmZqI-33].
 
 [TOC]
 
 ## Requirements
+* One other person is needed: a friend or an alt, and both sides can play at the same time without competing, each skilling on their own side[^m_QPkyjfRIs-116].
+* Decent quest requirements, including many stats in the 40s and 50s and Prayer, which must be raised first[^3kmWbjwmZqI-130].
+* No items can be brought in the inventory and no helmet can be worn, but other equipment such as Graceful can be[^m_QPkyjfRIs-148].
+* Higher Agility (about 60 rather than 52) and Graceful help a lot because the player runs around constantly[^m_QPkyjfRIs-176]. A better axe (a Dragon axe is ideal) and higher Woodcutting speed up the loop[^m_QPkyjfRIs-176].
 
-* Trouble Brewing requires one other person to play: a friend or an alt account, and both sides can play at the same time without competing, each skilling on their own side.[^m_QPkyjfRIs-116]
-* You cannot bring any items into Trouble Brewing in your inventory, and you cannot wear a helmet, but you can wear other equipment such as Graceful.[^m_QPkyjfRIs-148]
-* Trouble Brewing has decent quest requirements, including many stats in the 40s and 50s and Prayer, which Gnomonkey says must be raised first.[^3kmWbjwmZqI-130]
+## XP rates
+After the buff, a game gave about 200k Cooking XP per hour plus roughly 100k per hour split between Fletching and Hunter, around 50k each, adjustable depending on the levels needed[^m_QPkyjfRIs-0]. A full game in the video took about 20 minutes and gave the expected 200k Cooking and about 100k split between Hunter and Fletching[^m_QPkyjfRIs-738]. Skipping Cooking XP and fletching only with tick manipulation should give around 170k Fletching XP per hour[^m_QPkyjfRIs-738]. At one point his XP counter showed about 460k per hour, which he says is not an accurate sustained rate[^m_QPkyjfRIs-505].
 
-## Methods
+The XP does not scale with level, so it is best for skipping very low early levels and less good after roughly the 70s in these stats[^m_QPkyjfRIs-27]. On a fresh hardcore ironman he arrived with 9 Hunter and reached 28 Hunter in a single game[^m_QPkyjfRIs-27]. The method gives a flat 200k Cooking and 100k Fletching with no input cost, which suits an account that rushes there early[^3kmWbjwmZqI-130].
 
-* The Trouble Brewing loop is to put rat meat into the grub mound (one-tick spam) until a swarm spawns or the mound depletes, run to the tree's blue tile (the swarm's aggro radius) so the swarm stops attacking, chop the tree, then return and repeat.[^m_QPkyjfRIs-358]
-* Gnomonkey tick-manipulates the Trouble Brewing tree, turning the usually four-tick chop into a three-tick action, which he describes as roughly 25 percent faster.[^m_QPkyjfRIs-414]
-* After filling the inventory in Trouble Brewing, Gnomonkey deposits logs in the fletching hopper, which he one-ticks, and then the grubs and bark into the sweet grub hopper and the bark hopper for Cooking, repeating the whole loop until needed levels are done.[^m_QPkyjfRIs-471]
-* Gnomonkey describes Trouble Brewing as a method that does not scale and gives a flat 200k Cooking XP and 100k Fletching XP, with no input cost, which suits an account that rushes there early.[^3kmWbjwmZqI-130]
+## Method
+**Lobby:** grab a knife, a tinderbox for passive Firemaking (about 20k Firemaking XP per hour at most) and about 10 meat, using custom swaps to make the left click Take-5[^m_QPkyjfRIs-299]. There is a three-minute timer between games. With an alt that hops worlds, the timer can be waited out by entering the lobby early and then starting instantly by joining[^m_QPkyjfRIs-148].
 
-## Stats and numbers
+**Before the game:** mark the grub mound and the scrapie tree, plus a second set on the other end of the island that he does not typically use[^m_QPkyjfRIs-330].
 
-* After the buff, Trouble Brewing gives about 200k Cooking XP per hour plus roughly 100k XP per hour split between Fletching and Hunter, around 50k each, adjustable depending on the levels needed.[^m_QPkyjfRIs-0]
-* At one point while depositing in Trouble Brewing, Gnomonkey's XP counter showed about 460k XP per hour, which he says is not an accurate sustained rate.[^m_QPkyjfRIs-505]
-* A full Trouble Brewing game in this video took about 20 minutes and gave the expected 200k Cooking and about 100k split between Hunter and Fletching.[^m_QPkyjfRIs-738]
-* Before the nerf, Trouble Brewing gave a little over 100k Fletching XP per hour along with about 200k Cooking XP per hour, according to Gnomonkey.[^3kmWbjwmZqI-0]
+**Loop:**
+1. Put rat meat into the grub mound (one-tick spam) until a swarm spawns or the mound depletes[^m_QPkyjfRIs-358].
+2. Run to the tree's blue tile (the swarm's aggro radius) so the swarm stops attacking, chop the tree, then return and repeat[^m_QPkyjfRIs-358]. He tick-manipulates the tree, turning the usually four-tick chop into three ticks, roughly 25 percent faster[^m_QPkyjfRIs-414].
+3. While waiting for the mound or tree to respawn, throw a regular log in the boiler for passive Firemaking. Before the update he said it gave 320 and was a decent way to get early Firemaking levels[^m_QPkyjfRIs-414].
+4. With a full inventory, deposit logs in the fletching hopper (one-ticked), then the grubs and bark into the sweet grub and bark hoppers for Cooking. Repeat until the needed levels are done[^m_QPkyjfRIs-471].
 
-## Tips
-
-* Trouble Brewing XP does not scale with level, so it is best for skipping very low early levels; Gnomonkey says it is less good after roughly level 70s in these stats.[^m_QPkyjfRIs-27]
-* There is a three-minute timer between Trouble Brewing games; with an alt that hops worlds, you can wait out the timer by entering the lobby early and then start instantly by joining.[^m_QPkyjfRIs-148]
-* Higher Agility (about 60 or so rather than 52) and Graceful help a lot in Trouble Brewing because you run around constantly.[^m_QPkyjfRIs-176]
-* A better axe (a Dragon axe is ideal) and a higher Woodcutting level make Trouble Brewing faster, since the loop involves chopping a tree.[^m_QPkyjfRIs-176]
-* In the Trouble Brewing lobby, Gnomonkey grabs a knife, a tinderbox for passive Firemaking (about 20k Firemaking XP per hour at most), and about 10 meat, using custom swaps to make the left click Take-5.[^m_QPkyjfRIs-299]
-* Before starting a Trouble Brewing game, Gnomonkey marks the grub mound and the scrapie tree, plus a second set on the other end of the island that he does not typically use.[^m_QPkyjfRIs-330]
-* While waiting for the mound or tree to respawn in Trouble Brewing, you can throw a regular log in the boiler for passive Firemaking; he says the boiler gives 320 and is a decent way to get early Firemaking levels.[^m_QPkyjfRIs-414]
-* If you skip Cooking XP and only fletch with tick manipulation in Trouble Brewing, you should get around 170k Fletching XP per hour, so XP can be shifted between skills depending on need.[^m_QPkyjfRIs-738]
+## Buff and nerf
+The 2024 buff came about two months before the November video[^m_QPkyjfRIs-0], though the January 2025 video places it roughly six months before, when he made a guide[^3kmWbjwmZqI-0]. Before the nerf, Trouble Brewing gave a little over 100k Fletching XP per hour along with about 200k Cooking XP per hour[^3kmWbjwmZqI-0]. Jagex then nerfed the XP rates to a little under one-third of what they were. The same update patched the exploit that gave Firemaking XP in the one boiler, which no longer gives XP[^3kmWbjwmZqI-33][^3kmWbjwmZqI-33].
 
 ## Gnomonkey's opinion
+In January 2025 he says Trouble Brewing was never meta and should not have been nerfed at all. No Ironman Discord communities were reporting records broken with it[^3kmWbjwmZqI-520]. It was an early hybrid method, not as good as the best methods for either Fletching or Cooking even with combined XP[^3kmWbjwmZqI-386]. Cooking karambwans and Fletching broad arrows with zero-time Fletching were so strong that some HCIM players laughed at him for using it[^3kmWbjwmZqI-100]. He thinks it better to unlock broad arrows and buy cooked karambwans with gp from other methods, leaving Trouble Brewing as an option for players who do not want to put in input[^3kmWbjwmZqI-520].
 
-* Gnomonkey considers Trouble Brewing relevant even for mains because it is completely free with no input cost, while being especially good for early ironmen.[^m_QPkyjfRIs-567]
-* Gnomonkey says some HCIM players laughed at him for using Trouble Brewing because Cooking karambwans and Fletching broad arrows with zero-time Fletching were so strong that Trouble Brewing was barely worth it.[^3kmWbjwmZqI-100]
-* Gnomonkey lists Trouble Brewing's downsides as big quest requirements and needing a second player to access it, though he notes the second-player requirement encouraged communication and group play.[^3kmWbjwmZqI-386]
-* Gnomonkey says Trouble Brewing was not as good as the best methods for either Fletching or Cooking even when combined XP is considered, so it was an early hybrid method rather than a meta method.[^3kmWbjwmZqI-386]
-* Gnomonkey considers it better to unlock broad arrows and make broads for Fletching, and better to buy cooked karambwans with gp from other methods for Cooking, so Trouble Brewing was worse than those and merely an option for players who do not want to put in input.[^3kmWbjwmZqI-520]
-* Gnomonkey says no Ironman Discord communities were reporting records broken with Trouble Brewing, so he argues it was never meta and should not have been nerfed at all.[^3kmWbjwmZqI-520]
-
-## Records
-
-* On a fresh hardcore ironman, Gnomonkey arrived at Trouble Brewing with level 9 Hunter and reached level 28 Hunter in a single game.[^m_QPkyjfRIs-27]
-
-## Events
-
-* Trouble Brewing was buffed hard a couple of months before this video (November 2024), after which Gnomonkey says it has very high XP rates despite its former reputation as dead content.[^m_QPkyjfRIs-0]
-* Jagex heavily buffed Trouble Brewing roughly six months before this video; Gnomonkey made a guide on it back then.[^3kmWbjwmZqI-0]
-* Jagex nerfed Trouble Brewing's XP rates to a little under one-third of what they were, which Gnomonkey says makes the method completely dead.[^3kmWbjwmZqI-33]
-* The same update patched the exploit where players could get Firemaking XP in the one boiler; that boiler no longer gives XP.[^3kmWbjwmZqI-33]
-
-## Trivia
-
-* Trouble Brewing's only rewards are cosmetics and a teleport back, plus a small amount of brewing stuff that Gnomonkey says nobody uses.[^3kmWbjwmZqI-447]
+Its downsides are the big quest requirements and the need for a second player, though the latter encouraged communication and group play[^3kmWbjwmZqI-386]. Its only rewards are cosmetics, a teleport back and a small amount of brewing stuff that nobody uses[^3kmWbjwmZqI-447].
 
 ## Revision history
-
 | Date | Video | Change |
 |---|---|---|
-| 2025-01-27 | [Trouble Brewing Nerfs and the Minigames of OSRS](videos/2025-01-27_3kmWbjwmZqI.md) | Added: 12 statements (event, method, opinion, requirement, stat, trivia) |
-| 2024-11-15 | [INSANE LEVELING - Trouble Brewing Guide (NERFED)](videos/2024-11-15_m_QPkyjfRIs.md) | Page created: 19 statements (event, method, opinion, record, requirement, stat, tip) |
+| 2025-01-27 | [Trouble Brewing Nerfs and the Minigames of OSRS](videos/2025-01-27_3kmWbjwmZqI.md) | Added the nerf to under one-third of former rates, the boiler Firemaking patch and his verdict that it was never meta. |
+| 2024-11-15 | [INSANE LEVELING - Trouble Brewing Guide (NERFED)](videos/2024-11-15_m_QPkyjfRIs.md) | Page created: post-buff XP rates, requirements, lobby setup and the grub mound and tree loop. |
 ## See also
 
 * [Forestry](Forestry.md)
@@ -87,25 +65,25 @@ This article is compiled from the videos of [GnomonkeyRS](https://www.youtube.co
 ## References
 
 ///Footnotes Go Here///
-[^m_QPkyjfRIs-116]: [INSANE LEVELING - Trouble Brewing Guide (NERFED)](videos/2024-11-15_m_QPkyjfRIs.md), 2024-11-15. [▶ 1:56](https://youtu.be/m_QPkyjfRIs?t=116)
-[^m_QPkyjfRIs-148]: [INSANE LEVELING - Trouble Brewing Guide (NERFED)](videos/2024-11-15_m_QPkyjfRIs.md), 2024-11-15. [▶ 2:28](https://youtu.be/m_QPkyjfRIs?t=148)
 [^3kmWbjwmZqI-130]: [Trouble Brewing Nerfs and the Minigames of OSRS](videos/2025-01-27_3kmWbjwmZqI.md), 2025-01-27. [▶ 2:10](https://youtu.be/3kmWbjwmZqI?t=130)
+[^m_QPkyjfRIs-116]: [INSANE LEVELING - Trouble Brewing Guide (NERFED)](videos/2024-11-15_m_QPkyjfRIs.md), 2024-11-15. [▶ 1:56](https://youtu.be/m_QPkyjfRIs?t=116)
+[^m_QPkyjfRIs-0]: [INSANE LEVELING - Trouble Brewing Guide (NERFED)](videos/2024-11-15_m_QPkyjfRIs.md), 2024-11-15. [▶ 0:00](https://youtu.be/m_QPkyjfRIs)
+[^3kmWbjwmZqI-33]: [Trouble Brewing Nerfs and the Minigames of OSRS](videos/2025-01-27_3kmWbjwmZqI.md), 2025-01-27. [▶ 0:33](https://youtu.be/3kmWbjwmZqI?t=33)
+[^m_QPkyjfRIs-567]: [INSANE LEVELING - Trouble Brewing Guide (NERFED)](videos/2024-11-15_m_QPkyjfRIs.md), 2024-11-15. [▶ 9:27](https://youtu.be/m_QPkyjfRIs?t=567)
+[^m_QPkyjfRIs-148]: [INSANE LEVELING - Trouble Brewing Guide (NERFED)](videos/2024-11-15_m_QPkyjfRIs.md), 2024-11-15. [▶ 2:28](https://youtu.be/m_QPkyjfRIs?t=148)
+[^m_QPkyjfRIs-176]: [INSANE LEVELING - Trouble Brewing Guide (NERFED)](videos/2024-11-15_m_QPkyjfRIs.md), 2024-11-15. [▶ 2:56](https://youtu.be/m_QPkyjfRIs?t=176)
+[^m_QPkyjfRIs-738]: [INSANE LEVELING - Trouble Brewing Guide (NERFED)](videos/2024-11-15_m_QPkyjfRIs.md), 2024-11-15. [▶ 12:18](https://youtu.be/m_QPkyjfRIs?t=738)
+[^m_QPkyjfRIs-505]: [INSANE LEVELING - Trouble Brewing Guide (NERFED)](videos/2024-11-15_m_QPkyjfRIs.md), 2024-11-15. [▶ 8:25](https://youtu.be/m_QPkyjfRIs?t=505)
+[^m_QPkyjfRIs-27]: [INSANE LEVELING - Trouble Brewing Guide (NERFED)](videos/2024-11-15_m_QPkyjfRIs.md), 2024-11-15. [▶ 0:27](https://youtu.be/m_QPkyjfRIs?t=27)
+[^m_QPkyjfRIs-299]: [INSANE LEVELING - Trouble Brewing Guide (NERFED)](videos/2024-11-15_m_QPkyjfRIs.md), 2024-11-15. [▶ 4:59](https://youtu.be/m_QPkyjfRIs?t=299)
+[^m_QPkyjfRIs-330]: [INSANE LEVELING - Trouble Brewing Guide (NERFED)](videos/2024-11-15_m_QPkyjfRIs.md), 2024-11-15. [▶ 5:30](https://youtu.be/m_QPkyjfRIs?t=330)
 [^m_QPkyjfRIs-358]: [INSANE LEVELING - Trouble Brewing Guide (NERFED)](videos/2024-11-15_m_QPkyjfRIs.md), 2024-11-15. [▶ 5:58](https://youtu.be/m_QPkyjfRIs?t=358)
 [^m_QPkyjfRIs-414]: [INSANE LEVELING - Trouble Brewing Guide (NERFED)](videos/2024-11-15_m_QPkyjfRIs.md), 2024-11-15. [▶ 6:54](https://youtu.be/m_QPkyjfRIs?t=414)
 [^m_QPkyjfRIs-471]: [INSANE LEVELING - Trouble Brewing Guide (NERFED)](videos/2024-11-15_m_QPkyjfRIs.md), 2024-11-15. [▶ 7:51](https://youtu.be/m_QPkyjfRIs?t=471)
-[^m_QPkyjfRIs-0]: [INSANE LEVELING - Trouble Brewing Guide (NERFED)](videos/2024-11-15_m_QPkyjfRIs.md), 2024-11-15. [▶ 0:00](https://youtu.be/m_QPkyjfRIs)
-[^m_QPkyjfRIs-505]: [INSANE LEVELING - Trouble Brewing Guide (NERFED)](videos/2024-11-15_m_QPkyjfRIs.md), 2024-11-15. [▶ 8:25](https://youtu.be/m_QPkyjfRIs?t=505)
-[^m_QPkyjfRIs-738]: [INSANE LEVELING - Trouble Brewing Guide (NERFED)](videos/2024-11-15_m_QPkyjfRIs.md), 2024-11-15. [▶ 12:18](https://youtu.be/m_QPkyjfRIs?t=738)
 [^3kmWbjwmZqI-0]: [Trouble Brewing Nerfs and the Minigames of OSRS](videos/2025-01-27_3kmWbjwmZqI.md), 2025-01-27. [▶ 0:00](https://youtu.be/3kmWbjwmZqI)
-[^m_QPkyjfRIs-27]: [INSANE LEVELING - Trouble Brewing Guide (NERFED)](videos/2024-11-15_m_QPkyjfRIs.md), 2024-11-15. [▶ 0:27](https://youtu.be/m_QPkyjfRIs?t=27)
-[^m_QPkyjfRIs-176]: [INSANE LEVELING - Trouble Brewing Guide (NERFED)](videos/2024-11-15_m_QPkyjfRIs.md), 2024-11-15. [▶ 2:56](https://youtu.be/m_QPkyjfRIs?t=176)
-[^m_QPkyjfRIs-299]: [INSANE LEVELING - Trouble Brewing Guide (NERFED)](videos/2024-11-15_m_QPkyjfRIs.md), 2024-11-15. [▶ 4:59](https://youtu.be/m_QPkyjfRIs?t=299)
-[^m_QPkyjfRIs-330]: [INSANE LEVELING - Trouble Brewing Guide (NERFED)](videos/2024-11-15_m_QPkyjfRIs.md), 2024-11-15. [▶ 5:30](https://youtu.be/m_QPkyjfRIs?t=330)
-[^m_QPkyjfRIs-567]: [INSANE LEVELING - Trouble Brewing Guide (NERFED)](videos/2024-11-15_m_QPkyjfRIs.md), 2024-11-15. [▶ 9:27](https://youtu.be/m_QPkyjfRIs?t=567)
-[^3kmWbjwmZqI-100]: [Trouble Brewing Nerfs and the Minigames of OSRS](videos/2025-01-27_3kmWbjwmZqI.md), 2025-01-27. [▶ 1:40](https://youtu.be/3kmWbjwmZqI?t=100)
-[^3kmWbjwmZqI-386]: [Trouble Brewing Nerfs and the Minigames of OSRS](videos/2025-01-27_3kmWbjwmZqI.md), 2025-01-27. [▶ 6:26](https://youtu.be/3kmWbjwmZqI?t=386)
 [^3kmWbjwmZqI-520]: [Trouble Brewing Nerfs and the Minigames of OSRS](videos/2025-01-27_3kmWbjwmZqI.md), 2025-01-27. [▶ 8:40](https://youtu.be/3kmWbjwmZqI?t=520)
-[^3kmWbjwmZqI-33]: [Trouble Brewing Nerfs and the Minigames of OSRS](videos/2025-01-27_3kmWbjwmZqI.md), 2025-01-27. [▶ 0:33](https://youtu.be/3kmWbjwmZqI?t=33)
+[^3kmWbjwmZqI-386]: [Trouble Brewing Nerfs and the Minigames of OSRS](videos/2025-01-27_3kmWbjwmZqI.md), 2025-01-27. [▶ 6:26](https://youtu.be/3kmWbjwmZqI?t=386)
+[^3kmWbjwmZqI-100]: [Trouble Brewing Nerfs and the Minigames of OSRS](videos/2025-01-27_3kmWbjwmZqI.md), 2025-01-27. [▶ 1:40](https://youtu.be/3kmWbjwmZqI?t=100)
 [^3kmWbjwmZqI-447]: [Trouble Brewing Nerfs and the Minigames of OSRS](videos/2025-01-27_3kmWbjwmZqI.md), 2025-01-27. [▶ 7:27](https://youtu.be/3kmWbjwmZqI?t=447)
 
 <div class="navbox" markdown="1" data-search-exclude>

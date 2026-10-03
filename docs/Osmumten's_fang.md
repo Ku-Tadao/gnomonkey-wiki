@@ -11,70 +11,60 @@ This article is compiled from the videos of [GnomonkeyRS](https://www.youtube.co
 | | |
 |---|---|
 | **Type** | Item |
+| **Combat style** | Five-tick one-handed stab spear[^Kgm0VYX_4no-462] |
+| **Stab bonus** | 105 (was 175 before the poll change)[^Kgm0VYX_4no-462] |
+| **Melee strength** | 103 (was 115)[^Kgm0VYX_4no-462] |
+| **Special property** | Rolls accuracy twice[^Kgm0VYX_4no-462][^e0y_auD9JhY-764] |
+| **Price** | 13m gp (July 2024)[^e0y_auD9JhY-764] |
 | **Videos** | 9 (first 2022-02-26, latest 2026-06-25) |
 | **Main source** | [Death to Voidwaker and Fang - Weapon Rebalance (OSRS)](videos/2023-12-22_t5mXf8KJztU.md) |
 </div>
 
-**Osmumten's fang** is an item topic that Gnomonkey covers in 9 videos between 2022-02-26 and 2026-06-25. This article is a stub: his statements are grouped by type, repeated ones merged.
+**Osmumten's fang** is a five-tick, hyper-accurate, one-handed spear that rolls accuracy twice and has a low max hit[^Kgm0VYX_4no-462][^e0y_auD9JhY-764]. Gnomonkey's view of it moved from dismissing the announced version in February 2022 as hilariously bad, through a period in which he considered it the best-in-slot weapon for almost every situation, to a July 2024 verdict that it is amazing on high-defence bosses weak to melee and bad on low-defence targets[^uxwiO2KeF34-707][^t5mXf8KJztU-0][^e0y_auD9JhY-793].
 
 [TOC]
 
-## Methods
+## Stats and changes
 
-* The Osmumten's fang has a low max hit but rolls accuracy twice, making it extremely accurate.[^e0y_auD9JhY-764]
-* The Osmumten's fang does not benefit as much from strength bonus as most weapons, so it pairs well with the Lightbearer where strength bonus matters less.[^e0y_auD9JhY-793]
+At its announcement Gnomonkey said the fang was a 1% DPS increase against [Nex](Nex.md) and nowhere else, so it was not like the rapier as Jagex described but just bad. He suspected Jagex had not tested its DPS[^uxwiO2KeF34-707][^uxwiO2KeF34-707].
 
-## Stats and numbers
+The poll blog changed it in May 2022. Its stab bonus fell to 105 instead of 175, and melee strength was reduced to 103 from 115, but it now re-rolls for accuracy if the first roll fails[^Kgm0VYX_4no-462]. He said the re-roll makes the fang a bit more accurate than before without an awkwardly high stab bonus, though the strength cut from 115 to 103 seemed strange, perhaps because it beat the rapier in too many places[^Kgm0VYX_4no-488]. He called it worse DPS than the Zamorakian spear on a fully drained Corp but far more DPS than before on Nex because of her insane defence, a neutral change that solidifies its niche status[^Kgm0VYX_4no-488].
 
-* According to Gnomonkey the fang is a 1% DPS increase against Nex and nowhere else, so it is not like the rapier as Jagex described but just bad.[^uxwiO2KeF34-707]
-* In the naked Challenge Mode Chambers run, Gnomonkey calculated Osmumten's fang as 69.42 percent better than the scythe for Tekton, and 55 percent better than the rapier at another room.[^f1Y2Pd6dQoA-6343]
-* If you BGS Vorkath to low defence, the blowpipe takes over and is about 10% better than Osmumten's fang, though Fang would also do better with BGS.[^WvmEY9v6AnI-585]
-* The Osmumten's fang costs 13 million GP at the time of the video and is useful almost everywhere, but he sees many people misuse it.[^e0y_auD9JhY-764]
+In December 2023 Jagex announced removing the doubled accuracy roll when the fang is used on slash. Gnomonkey said this is exactly what he had suggested[^t5mXf8KJztU-30]. Before it, the fang had been extremely competitive as a slash weapon against Arclight and Saradomin sword, in some cases beating even the Scythe, which blurred the line between best stab weapon and best melee weapon; he said it had reigned too long as best in slot for almost every situation and style[^t5mXf8KJztU-0][^t5mXf8KJztU-0]. After the change he expects the Saradomin sword to be second best in slot on Vardorvis and the Arclight on the Duke[^t5mXf8KJztU-30].
 
-## Tips
+The fang kit adds 20 DPS to slash, but Gnomonkey, using stab on the fang in 2025, set it to stab and avoided putting the kit on[^qCsJAdpSeTU-686]. He called the kit drop dead gorgeous[^h4hf5hPQHms-0].
 
-* When going into Tombs of Amascut naked, Osmumten's fang is probably the best weapon.[^f1Y2Pd6dQoA-2882]
-* The Fang might be better than the Ghrazi rapier in that naked setup.[^f1Y2Pd6dQoA-5050]
-* The Osmumten's fang is amazing on high-defence bosses weakest to melee, which is most Tombs of Amascut bosses, and bad on anything under 50 defence, which is basically all Slayer monsters.[^e0y_auD9JhY-793]
-* The Fang kit adds 20 DPS (to slash), but because he was using stab on the Fang he set it to stab and avoided putting the kit on.[^qCsJAdpSeTU-686]
+## Uses
 
-## Gnomonkey's opinion
+The fang is amazing on high-defence bosses weakest to melee, which covers most Tombs of Amascut bosses, and bad on anything under 50 defence, which is basically all Slayer monsters[^e0y_auD9JhY-793]. It benefits less from strength bonus than most weapons, so it pairs well with the Lightbearer, where strength bonus matters less[^e0y_auD9JhY-793]. He says many people misuse it[^e0y_auD9JhY-764].
 
-* Gnomonkey says Osmumten's fang as announced is hilariously bad, seemingly without Jagex testing its DPS, and points to Saebae's video on it.[^uxwiO2KeF34-707]
-* Gnomonkey says the re-roll makes the Fang a bit more accurate than before and not awkwardly high on stab bonus, but he finds the strength cut from 115 to 103 strange, perhaps because it beat Rapier in too many places.[^Kgm0VYX_4no-488]
-* Gnomonkey says the change makes the Fang worse DPS than Zamorakian spear on a fully drained Corp but far more DPS than before on Nex due to her insane defence; he regards it as a neutral change that solidifies its niche status, though he expects it to be useful inside Raids 3 itself.[^Kgm0VYX_4no-488]
-* Gnomonkey says the Osmumten's Fang kit looks drop dead gorgeous.[^h4hf5hPQHms-0]
-* Gnomonkey says Nex is definitely better money than Theatre of Blood now, with the Fang and how fast you can get kills and how much the drops are worth.[^h4hf5hPQHms-1857]
-* Gnomonkey says duo Nex with the Fang is very viable and that you will never use ranged at any scale, calling it much worse and saying it is absurd how fast you can duo with the Fang.[^h4hf5hPQHms-1937]
-* Gnomonkey says the Fang has been extremely competitive as a slash weapon against other slash weapons such as Arclight and Saradomin sword, in some cases beating even the Scythe, blurring the line between best stab weapon and best melee weapon.[^t5mXf8KJztU-0]
-* Gnomonkey says in the description that the Fang has reigned too long as the best in slot weapon for almost every situation and style.[^t5mXf8KJztU-0]
-* Gnomonkey says the Fang change means Saradomin sword will now be second best in slot on Vardorvis and Arclight on the Duke.[^t5mXf8KJztU-30]
-* Gnomonkey still thinks the Fang's drop rates at Tombs of Amascut need to be addressed so the all-encompassing super sword is not worth 25 mil, but calls the change a good step.[^t5mXf8KJztU-30]
-* Gnomonkey says the Osmumten's fang spec is strong for its cost and that Fang is quite good for a weapon that costs 'zero' on this budget.[^WvmEY9v6AnI-421]
-* Gnomonkey says Gearscape confirmed Fang as the best choice for Vorkath under the budget and says Osmumten's fang is supreme there.[^WvmEY9v6AnI-485]
-* Gnomonkey says the Osmumten's fang is extremely good against Vorkath.[^qCsJAdpSeTU-863]
-* Gnomonkey says that in the finale if you did not have fangs or Galiths you basically lose, which is why the Odablock Warriors prioritised getting fangs.[^lJexGv6dxu8-1680]
-* Gnomonkey says the team never planned to do quests or Slayer, so they had no plan for quests that would have been solid for getting a Purging staff, or for Dragon Slayer 2 for dragon crossbows, and so they had to get fangs without questing.[^lJexGv6dxu8-1709]
+* **[Nex](Nex.md):** He called Nex definitely better money than Theatre of Blood in September 2022, given the fang, the speed of kills and the drop value. Duo Nex with the fang is very viable and absurdly fast, and ranged is never worth using at any scale[^h4hf5hPQHms-1857][^h4hf5hPQHms-1937].
+* **[Tombs of Amascut](Tombs_of_Amascut.md) and [Chambers of Xeric](Chambers_of_Xeric.md):** In a naked Tombs of Amascut run the fang is probably the best weapon and might beat the Ghrazi rapier[^f1Y2Pd6dQoA-2882][^f1Y2Pd6dQoA-5050]. In his naked Challenge Mode Chambers run he calculated the fang at 69.42 percent better than the Scythe for Tekton and 55 percent better than the rapier at another room[^f1Y2Pd6dQoA-6343].
+* **[Vorkath](Vorkath.md):** Gearscape confirmed the fang as the best Vorkath choice under his budget, and he calls it supreme and extremely good there[^WvmEY9v6AnI-421][^WvmEY9v6AnI-485][^qCsJAdpSeTU-863]. If Vorkath is brought to low defence with a Bandos godsword, the blowpipe takes over at about 10% better, though the fang also improves with it[^WvmEY9v6AnI-585].
 
-## Events
+The fang's spec is strong for its cost, and he called it quite good for a weapon that costs "zero" on that budget[^WvmEY9v6AnI-421].
 
-* The poll blog changed Osmumten's fang, the five-tick hyper-accurate one-handed spear: it now has a 105 stab bonus instead of 175, and melee strength reduced to 103 (from 115), but it re-rolls for accuracy if the first roll fails.[^Kgm0VYX_4no-462]
-* Jagex is removing the doubled accuracy roll from the Fang when it is on slash, which Gnomonkey says is exactly what he suggested.[^t5mXf8KJztU-30]
-* The Odablock Warriors got four of their five needed fangs before Odablock told Gnomonkey to stop Tombs of Amascut and move to Chambers of Xeric.[^lJexGv6dxu8-2222]
+## Price and drop rate
+
+The fang costs 13 million gp as of July 2024[^e0y_auD9JhY-764]. In December 2023 Gnomonkey still thought its Tombs of Amascut drop rate needed addressing so that the all-encompassing super sword is not worth 25 million, but called the slash change a good step[^t5mXf8KJztU-30].
+
+## Odablock Warriors
+
+In the finale, a team without fangs or Galiths basically loses, so the Odablock Warriors prioritised getting fangs[^lJexGv6dxu8-1680]. The team had never planned to do quests or Slayer, so it had no plan for questing toward a Purging staff or Dragon Slayer 2 for dragon crossbows, and had to obtain fangs without questing[^lJexGv6dxu8-1709]. They got four of the five needed fangs before Odablock told Gnomonkey to stop Tombs of Amascut and move to Chambers of Xeric[^lJexGv6dxu8-2222].
 
 ## Revision history
 
 | Date | Video | Change |
 |---|---|---|
-| 2026-06-25 | [PVM to PVP: My DMM Allstars Experience (OSRS)](videos/2026-06-25_lJexGv6dxu8.md) | Added: 3 statements (event, opinion) |
-| 2025-09-06 | [WIKI GUIDES - VORKATH V2 (OSRS)](videos/2025-09-06_qCsJAdpSeTU.md) | Added: 2 statements (opinion, tip) |
-| 2024-07-07 | [Ultimate Account Building Guide (OSRS)](videos/2024-07-07_e0y_auD9JhY.md) | Added: 4 statements (method, stat, tip) |
-| 2024-05-18 | [WIKI GUIDES - VORKATH (OSRS)](videos/2024-05-18_WvmEY9v6AnI.md) | Added: 3 statements (opinion, stat) |
-| 2023-12-22 | [Death to Voidwaker and Fang - Weapon Rebalance (OSRS)](videos/2023-12-22_t5mXf8KJztU.md) | Added: 5 statements (event, opinion) |
-| 2023-09-12 | [Naked Man Triathlon (OSRS)](videos/2023-09-12_f1Y2Pd6dQoA.md) | Added: 3 statements (stat, tip) |
-| 2022-09-13 | [Raids 3 500 Raid Level SOLO (OSRS)](videos/2022-09-13_h4hf5hPQHms.md) | Added: 3 statements (opinion) |
-| 2022-05-18 | [The NEW Raids 3 Twisted Bow is INSANE (Shadow of Tumeken OSRS)](videos/2022-05-18_Kgm0VYX_4no.md) | Added: 3 statements (event, opinion) |
-| 2022-02-26 | [The Raids 3 Twisted Bow is Disappointing (Heka of Tumeken OSRS)](videos/2022-02-26_uxwiO2KeF34.md) | Page created: 2 statements (opinion, stat) |
+| 2026-06-25 | [PVM to PVP: My DMM Allstars Experience (OSRS)](videos/2026-06-25_lJexGv6dxu8.md) | Added the Odablock Warriors finale context. |
+| 2025-09-06 | [WIKI GUIDES - VORKATH V2 (OSRS)](videos/2025-09-06_qCsJAdpSeTU.md) | Added the fang kit adding 20 DPS to slash and Vorkath praise. |
+| 2024-07-07 | [Ultimate Account Building Guide (OSRS)](videos/2024-07-07_e0y_auD9JhY.md) | Added July 2024 price, the twice-rolled accuracy explanation and where it is bad (under 50 defence). |
+| 2024-05-18 | [WIKI GUIDES - VORKATH (OSRS)](videos/2024-05-18_WvmEY9v6AnI.md) | Added Vorkath budget placement and the Bandos godsword blowpipe note. |
+| 2023-12-22 | [Death to Voidwaker and Fang - Weapon Rebalance (OSRS)](videos/2023-12-22_t5mXf8KJztU.md) | Added concern about slash dominance and welcomed the removal of the double roll on slash. |
+| 2023-09-12 | [Naked Man Triathlon (OSRS)](videos/2023-09-12_f1Y2Pd6dQoA.md) | Added naked Tombs of Amascut and Chambers recommendations with Tekton and rapier comparisons. |
+| 2022-09-13 | [Raids 3 500 Raid Level SOLO (OSRS)](videos/2022-09-13_h4hf5hPQHms.md) | Added Nex and duo Nex value, replacing the earlier negative view with an endorsement. |
+| 2022-05-18 | [The NEW Raids 3 Twisted Bow is INSANE (Shadow of Tumeken OSRS)](videos/2022-05-18_Kgm0VYX_4no.md) | Added the poll changes (stab 175 to 105, strength 115 to 103, accuracy re-roll) and his view of them as a neutral niche change. |
+| 2022-02-26 | [The Raids 3 Twisted Bow is Disappointing (Heka of Tumeken OSRS)](videos/2022-02-26_uxwiO2KeF34.md) | Page created: reaction to the announced fang as a 1% DPS gain on Nex only. |
 ## See also
 
 * [Masori armour](Masori_armour.md)
@@ -87,26 +77,26 @@ This article is compiled from the videos of [GnomonkeyRS](https://www.youtube.co
 ## References
 
 ///Footnotes Go Here///
+[^Kgm0VYX_4no-462]: [The NEW Raids 3 Twisted Bow is INSANE (Shadow of Tumeken OSRS)](videos/2022-05-18_Kgm0VYX_4no.md), 2022-05-18. [▶ 7:42](https://youtu.be/Kgm0VYX_4no?t=462)
 [^e0y_auD9JhY-764]: [Ultimate Account Building Guide (OSRS)](videos/2024-07-07_e0y_auD9JhY.md), 2024-07-07. [▶ 12:44](https://youtu.be/e0y_auD9JhY?t=764)
-[^e0y_auD9JhY-793]: [Ultimate Account Building Guide (OSRS)](videos/2024-07-07_e0y_auD9JhY.md), 2024-07-07. [▶ 13:13](https://youtu.be/e0y_auD9JhY?t=793)
 [^uxwiO2KeF34-707]: [The Raids 3 Twisted Bow is Disappointing (Heka of Tumeken OSRS)](videos/2022-02-26_uxwiO2KeF34.md), 2022-02-26. [▶ 11:47](https://youtu.be/uxwiO2KeF34?t=707)
-[^f1Y2Pd6dQoA-6343]: [Naked Man Triathlon (OSRS)](videos/2023-09-12_f1Y2Pd6dQoA.md), 2023-09-12. [▶ 1:45:43](https://youtu.be/f1Y2Pd6dQoA?t=6343)
-[^WvmEY9v6AnI-585]: [WIKI GUIDES - VORKATH (OSRS)](videos/2024-05-18_WvmEY9v6AnI.md), 2024-05-18. [▶ 9:45](https://youtu.be/WvmEY9v6AnI?t=585)
-[^f1Y2Pd6dQoA-2882]: [Naked Man Triathlon (OSRS)](videos/2023-09-12_f1Y2Pd6dQoA.md), 2023-09-12. [▶ 48:02](https://youtu.be/f1Y2Pd6dQoA?t=2882)
-[^f1Y2Pd6dQoA-5050]: [Naked Man Triathlon (OSRS)](videos/2023-09-12_f1Y2Pd6dQoA.md), 2023-09-12. [▶ 1:24:10](https://youtu.be/f1Y2Pd6dQoA?t=5050)
-[^qCsJAdpSeTU-686]: [WIKI GUIDES - VORKATH V2 (OSRS)](videos/2025-09-06_qCsJAdpSeTU.md), 2025-09-06. [▶ 11:26](https://youtu.be/qCsJAdpSeTU?t=686)
+[^t5mXf8KJztU-0]: [Death to Voidwaker and Fang - Weapon Rebalance (OSRS)](videos/2023-12-22_t5mXf8KJztU.md), 2023-12-22. [▶ 0:00](https://youtu.be/t5mXf8KJztU)
+[^e0y_auD9JhY-793]: [Ultimate Account Building Guide (OSRS)](videos/2024-07-07_e0y_auD9JhY.md), 2024-07-07. [▶ 13:13](https://youtu.be/e0y_auD9JhY?t=793)
 [^Kgm0VYX_4no-488]: [The NEW Raids 3 Twisted Bow is INSANE (Shadow of Tumeken OSRS)](videos/2022-05-18_Kgm0VYX_4no.md), 2022-05-18. [▶ 8:08](https://youtu.be/Kgm0VYX_4no?t=488)
+[^t5mXf8KJztU-30]: [Death to Voidwaker and Fang - Weapon Rebalance (OSRS)](videos/2023-12-22_t5mXf8KJztU.md), 2023-12-22. [▶ 0:30](https://youtu.be/t5mXf8KJztU?t=30)
+[^qCsJAdpSeTU-686]: [WIKI GUIDES - VORKATH V2 (OSRS)](videos/2025-09-06_qCsJAdpSeTU.md), 2025-09-06. [▶ 11:26](https://youtu.be/qCsJAdpSeTU?t=686)
 [^h4hf5hPQHms-0]: [Raids 3 500 Raid Level SOLO (OSRS)](videos/2022-09-13_h4hf5hPQHms.md), 2022-09-13. [▶ 0:00](https://youtu.be/h4hf5hPQHms)
 [^h4hf5hPQHms-1857]: [Raids 3 500 Raid Level SOLO (OSRS)](videos/2022-09-13_h4hf5hPQHms.md), 2022-09-13. [▶ 30:57](https://youtu.be/h4hf5hPQHms?t=1857)
 [^h4hf5hPQHms-1937]: [Raids 3 500 Raid Level SOLO (OSRS)](videos/2022-09-13_h4hf5hPQHms.md), 2022-09-13. [▶ 32:17](https://youtu.be/h4hf5hPQHms?t=1937)
-[^t5mXf8KJztU-0]: [Death to Voidwaker and Fang - Weapon Rebalance (OSRS)](videos/2023-12-22_t5mXf8KJztU.md), 2023-12-22. [▶ 0:00](https://youtu.be/t5mXf8KJztU)
-[^t5mXf8KJztU-30]: [Death to Voidwaker and Fang - Weapon Rebalance (OSRS)](videos/2023-12-22_t5mXf8KJztU.md), 2023-12-22. [▶ 0:30](https://youtu.be/t5mXf8KJztU?t=30)
+[^f1Y2Pd6dQoA-2882]: [Naked Man Triathlon (OSRS)](videos/2023-09-12_f1Y2Pd6dQoA.md), 2023-09-12. [▶ 48:02](https://youtu.be/f1Y2Pd6dQoA?t=2882)
+[^f1Y2Pd6dQoA-5050]: [Naked Man Triathlon (OSRS)](videos/2023-09-12_f1Y2Pd6dQoA.md), 2023-09-12. [▶ 1:24:10](https://youtu.be/f1Y2Pd6dQoA?t=5050)
+[^f1Y2Pd6dQoA-6343]: [Naked Man Triathlon (OSRS)](videos/2023-09-12_f1Y2Pd6dQoA.md), 2023-09-12. [▶ 1:45:43](https://youtu.be/f1Y2Pd6dQoA?t=6343)
 [^WvmEY9v6AnI-421]: [WIKI GUIDES - VORKATH (OSRS)](videos/2024-05-18_WvmEY9v6AnI.md), 2024-05-18. [▶ 7:01](https://youtu.be/WvmEY9v6AnI?t=421)
 [^WvmEY9v6AnI-485]: [WIKI GUIDES - VORKATH (OSRS)](videos/2024-05-18_WvmEY9v6AnI.md), 2024-05-18. [▶ 8:05](https://youtu.be/WvmEY9v6AnI?t=485)
 [^qCsJAdpSeTU-863]: [WIKI GUIDES - VORKATH V2 (OSRS)](videos/2025-09-06_qCsJAdpSeTU.md), 2025-09-06. [▶ 14:23](https://youtu.be/qCsJAdpSeTU?t=863)
+[^WvmEY9v6AnI-585]: [WIKI GUIDES - VORKATH (OSRS)](videos/2024-05-18_WvmEY9v6AnI.md), 2024-05-18. [▶ 9:45](https://youtu.be/WvmEY9v6AnI?t=585)
 [^lJexGv6dxu8-1680]: [PVM to PVP: My DMM Allstars Experience (OSRS)](videos/2026-06-25_lJexGv6dxu8.md), 2026-06-25. [▶ 28:00](https://youtu.be/lJexGv6dxu8?t=1680)
 [^lJexGv6dxu8-1709]: [PVM to PVP: My DMM Allstars Experience (OSRS)](videos/2026-06-25_lJexGv6dxu8.md), 2026-06-25. [▶ 28:29](https://youtu.be/lJexGv6dxu8?t=1709)
-[^Kgm0VYX_4no-462]: [The NEW Raids 3 Twisted Bow is INSANE (Shadow of Tumeken OSRS)](videos/2022-05-18_Kgm0VYX_4no.md), 2022-05-18. [▶ 7:42](https://youtu.be/Kgm0VYX_4no?t=462)
 [^lJexGv6dxu8-2222]: [PVM to PVP: My DMM Allstars Experience (OSRS)](videos/2026-06-25_lJexGv6dxu8.md), 2026-06-25. [▶ 37:02](https://youtu.be/lJexGv6dxu8?t=2222)
 
 <div class="navbox" markdown="1" data-search-exclude>

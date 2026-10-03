@@ -128,7 +128,7 @@ Gnomonkey describes the [Tombs of Amascut changes](Update_Tombs_of_Amascut_chang
 * [The Wardens](The_Wardens.md)
 * [Akkha](Akkha.md)
 * [Invocations (Tombs of Amascut)](Invocations_%28Tombs_of_Amascut%29.md)
-* [Monkey Room](Monkey_Room.md)
+* [Tombs of Amascut gear setup](Tombs_of_Amascut_gear_setup.md)
 
 ## References
 

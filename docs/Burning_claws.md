@@ -83,12 +83,12 @@ In the Summer Sweep-up the special attack cost rose to 35% from 30%[^6tsf-brc-sE
 | 2024-07-15 | [Tormented Demons Guide + Triple KC CA (OSRS)](videos/2024-07-15_eIAkPiQivJk.md) | Page created: mechanics, per-boss testing results and release controversy. |
 ## See also
 
-* [Ambrosia](Ambrosia.md)
 * [Rosewood blowpipe](Rosewood_blowpipe.md)
+* [Ambrosia](Ambrosia.md)
 * [Monkey Room](Monkey_Room.md)
 * [Bone dagger](Bone_dagger.md)
 * [Sanguinesti staff](Sanguinesti_staff.md)
-* [Tombs of Amascut gear setup](Tombs_of_Amascut_gear_setup.md)
+* [Venator bow](Venator_bow.md)
 
 ## References
 

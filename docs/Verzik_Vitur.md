@@ -113,9 +113,9 @@ After the update, Verzik's max hit exceeds a player's max health, so a P2 mistak
 * [Maiden of Sugadinti](Maiden_of_Sugadinti.md)
 * [Sotetseg](Sotetseg.md)
 * [Xarpus](Xarpus.md)
-* [Nylocas Vasilias](Nylocas_Vasilias.md)
-* [Theatre of Blood: Hard Mode](Theatre_of_Blood_Hard_Mode.md)
 * [Nylocas](Nylocas.md)
+* [Nylocas Vasilias](Nylocas_Vasilias.md)
+* [Pestilent Bloat](Pestilent_Bloat.md)
 
 ## References
 

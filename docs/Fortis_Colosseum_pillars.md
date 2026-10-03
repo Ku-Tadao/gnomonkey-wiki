@@ -89,10 +89,10 @@ The Minotaur only heals if there is line of sight from its centre tile to the ot
 
 * [Colosseum invocations](Colosseum_invocations.md)
 * [Sol Heredit](Sol_Heredit.md)
-* [Fortis Colosseum setup](Fortis_Colosseum_setup.md)
 * [Manticore](Manticore.md)
+* [Fortis Colosseum setup](Fortis_Colosseum_setup.md)
 * [Saradomin godsword](Saradomin_godsword.md)
-* [Arceuus spellbook](Arceuus_spellbook.md)
+* [Atlatl](Atlatl.md)
 
 ## References
 

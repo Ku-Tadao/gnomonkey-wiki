@@ -123,11 +123,11 @@ Challenge Mode (CM) is covered on its own page, [Chambers of Xeric: Challenge Mo
 ## See also
 
 * [Great Olm](Great_Olm.md)
-* [Tekton](Tekton.md)
 * [Vespula](Vespula.md)
+* [Tekton](Tekton.md)
 * [Muttadile](Muttadile.md)
 * [Vasa Nistirio](Vasa_Nistirio.md)
-* [Mystics](Mystics.md)
+* [Theatre of Blood](Theatre_of_Blood.md)
 
 ## References
 

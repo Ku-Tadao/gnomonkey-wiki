@@ -87,11 +87,11 @@ Each wave adds another of the weakest enemy, and two of the same enemy combine i
 ## See also
 
 * [Skotizo](Skotizo.md)
-* [Fire cape](Fire_cape.md)
 * [Chaos Elemental](Chaos_Elemental.md)
 * [Corporeal Beast](Corporeal_Beast.md)
 * [Dagannoth Kings](Dagannoth_Kings.md)
 * [Kalphite Queen](Kalphite_Queen.md)
+* [Fire cape](Fire_cape.md)
 
 ## References
 

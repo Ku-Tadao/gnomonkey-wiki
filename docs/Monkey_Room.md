@@ -66,8 +66,8 @@ On the 500 run the room must be passed without brews. He took only about 10 dama
 * [Ba-Ba](Ba-Ba.md)
 * [Zebak](Zebak.md)
 * [The Wardens](The_Wardens.md)
-* [Ambrosia](Ambrosia.md)
 * [Tombs of Amascut supplies](Tombs_of_Amascut_supplies.md)
+* [Ambrosia](Ambrosia.md)
 
 ## References
 

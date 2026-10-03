@@ -76,8 +76,8 @@ The run begins by dropping a few brews and killing the first nibblers, which run
 * [Prayer flicking](Prayer_flicking.md)
 * [Inferno plugins](Inferno_plugins.md)
 * [TzKal-Zuk](TzKal-Zuk.md)
-* [Inferno gear](Inferno_gear.md)
 * [Jal-MejRah](Jal-MejRah.md)
+* [Jal-Xil](Jal-Xil.md)
 
 ## References
 

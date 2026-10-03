@@ -94,8 +94,8 @@ As of March 2026 the Jagex blog describes the shadow as an outlier because it is
 | 2022-05-18 | [The NEW Raids 3 Twisted Bow is INSANE (Shadow of Tumeken OSRS)](videos/2022-05-18_Kgm0VYX_4no.md) | Page created: stats, passive, design opinions and expected best-in-slot status. |
 ## See also
 
-* [Update: Doom of Mokhaiotl rewards](Update_Doom_of_Mokhaiotl_rewards.md)
 * [Osmumten's fang](Osmumten's_fang.md)
+* [Update: Doom of Mokhaiotl rewards](Update_Doom_of_Mokhaiotl_rewards.md)
 * [Confliction gauntlets](Confliction_gauntlets.md)
 * [Gnomonkey](Gnomonkey.md)
 * [Twisted bow](Twisted_bow.md)

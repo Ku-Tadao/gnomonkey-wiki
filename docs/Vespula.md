@@ -11,71 +11,57 @@ This article is compiled from the videos of [GnomonkeyRS](https://www.youtube.co
 | | |
 |---|---|
 | **Type** | Boss |
+| **Strategy** | Flinch under her from a marked green tile, shoot the portal, run back[^jdvQVwg8niM-1213] |
+| **Tier** | High C tier (March 2022)[^HkVt4enEesI-2873] |
+| **Trample max hit** | 8[^jdvQVwg8niM-1227] |
+| **Prayer** | Rigor and Redemption, with Prayer enhance[^HkVt4enEesI-2844][^jdvQVwg8niM-1213] |
+| **Thieving room** | 30 grubs needed[^8JxarzSiiME-680] |
+| **Recommended Prayer** | 82[^jdvQVwg8niM-1253] |
 | **Videos** | 7 (first 2022-03-19, latest 2025-05-01) |
 | **Main source** | [NEW Entry Mode CM CoX Guide (OSRS)](videos/2025-05-01_jdvQVwg8niM.md) |
 </div>
 
-**Vespula** is a boss topic that Gnomonkey covers in 7 videos between 2022-03-19 and 2025-05-01. This article is a stub: his statements are grouped by type, repeated ones merged.
+**Vespula** is a boss whose portal must be shot down while she tramples the player. Gnomonkey rated her high C tier in March 2022, calling the fight a DPS check against a portal with stupid defence that cannot be drained because it is outside melee distance, and not skilled[^HkVt4enEesI-2873]. His team does not do the intended method, which is to shoot her down and hit the portal until she gets back up. They cheese her instead, praying Rigor and Redemption and following a tile pattern to shoot the portal[^HkVt4enEesI-2844].
+
+By May 2025 the cheese had become a refined routine: flinch in under her from a marked tile, shoot the portal and run back, using Prayer enhance to proc Redemption repeatedly[^jdvQVwg8niM-1213].
 
 [TOC]
 
-## Requirements
+## Method
 
-* You should have 82 Prayer for this method because below that level the Prayer enhance restores prayer points a tick slower (a seven-tick timer instead of six).[^jdvQVwg8niM-1253]
+Gnomonkey takes a shot from a green tile at the left corner of the square every time, then cycles by waiting one tick on the tile and going back in[^wxGBi89vE_s-2546][^2r5Wlx2BiI0-2189]. He runs in as soon as he gets the XP drop and deactivates Rigor so he is never smited while running[^2r5Wlx2BiI0-2216]. In 2024 he used the Bofa from that tile, shooting again the instant he reaches it, which is difficult and awkward once resort doses are thrown in[^wxGBi89vE_s-2546][^wxGBi89vE_s-2579]. He says the Bofa is better DPS than the Twisted bow at Vespula but is tick-perfect and difficult to use without losing ticks[^jdvQVwg8niM-1405]. In March 2025 he did the whole fight with a crystal bow, needing the three prayer potions he brought, with Hedron noting that it is not many[^tTn3JmSD4fI-902].
 
-## Methods
+He tells Hedron during the fight that the player has to stall two ticks[^tTn3JmSD4fI-873].
 
-* His team cheeses Vespula instead of doing it the intended way (shooting her down and hitting the portal until she gets back up), praying Rigor and Redemption and following a tile pattern to Twisted bow the portal.[^HkVt4enEesI-2844]
-* Gnomonkey brings plenty of food to Vespula because she takes all his health away, and he wants to heal up and pick up her potions afterward.[^wxGBi89vE_s-2546]
-* Gnomonkey shoots Vespula's portal with the Bofa from a green tile at the left corner of the square every time.[^wxGBi89vE_s-2546]
-* At Vespula he takes a shot from the corner, then cycles by waiting one tick on the tile and going back in; Cox Editions can show a tick timer on prayer enhance that helps use it.[^2r5Wlx2BiI0-2189]
-* Gnomonkey runs in as soon as he gets the XP drop and deactivates Rigor so he is never smited while running.[^2r5Wlx2BiI0-2216]
-* Gnomonkey does Vespula by flinching in under her from a marked green tile, shooting the portal and running back, while she tramples you; the Prayer enhance gives prayer back to proc Redemption repeatedly.[^jdvQVwg8niM-1213]
+### Safety and Prayer
 
-## Stats and numbers
+Her trample has a max hit of eight, and Redemption procs under 10 health, so Gnomonkey says the method is guaranteed safe with unlimited health[^jdvQVwg8niM-1227]. Redemption drains prayer, so he turns off Rigor for the shot, because the other prayer otherwise stays on and drains the prayer point[^jdvQVwg8niM-1345].
 
-* The Thieving room needs 30 grubs total to finish Vespula, and a counter shows how many you still need.[^8JxarzSiiME-680]
-* A Thieving cape is maybe a 20-30 second time save and can boost Thieving to 110-120 if you are lucky, or give no help at all.[^8JxarzSiiME-2034]
-* Vespula's trample has a max hit of eight, and Redemption procs under 10 health, so Gnomonkey says the method is guaranteed safe with unlimited health.[^jdvQVwg8niM-1227]
+Prayer enhance gives a prayer point every six ticks, and Gnomonkey watches the Enhanced Timer for the whole kill, since knowing when the point arrives lets him waste the fewest ticks[^F0qIr7azCwg-419]. He recommends using the Cox Editions plugin to detach the timer from the buff meter so the tick is visible[^2r5Wlx2BiI0-2189][^jdvQVwg8niM-1314]. Players should have 82 Prayer for the method; below that level Prayer enhance restores points a tick slower (a seven-tick timer instead of six)[^jdvQVwg8niM-1253]. Prayer enhance or extra prayer potions made in a Challenge Mode can be used so no prayer potions are wasted[^HkVt4enEesI-2873]. Vespula drops an enhance potion in the raid, so it is available immediately after the kill[^tTn3JmSD4fI-994].
 
-## Tips
+He sometimes runs in without prayer and uses Redemption on the way back if it saves ticks[^F0qIr7azCwg-445].
 
-* You can use prayer enhance or extra prayer potions made in a CM so you waste no prayer potions at Vespula.[^HkVt4enEesI-2873]
-* Before Vespula Portal Gnomonkey removes his boots, sets his staff to long range, sorts his inventory and drinks Kodai for the mage boost.[^F0qIr7azCwg-419]
-* He watches the Enhanced Timer the whole kill, since Enhance gives a prayer point every six ticks and knowing when it arrives lets him waste the fewest ticks.[^F0qIr7azCwg-419]
-* Gnomonkey sometimes runs into Vespula without prayer and uses Redemption on the way back if it saves ticks.[^F0qIr7azCwg-445]
-* In the Thieving room, Gnomonkey runs Light bearer for consistency but says you can swap it for a Thieving cape, which at 100 gives a chance at four grubs because it boosts your Thieving level.[^8JxarzSiiME-619]
-* In the Thieving room, you need to get the grubs as quickly as possible and keep feeding the Vespula; whenever she is not eating grubs she heals slowly over time.[^8JxarzSiiME-650]
-* Gnomonkey stresses being fast banking in the Thieving room, because bad thieving luck can lose a lot of time.[^8JxarzSiiME-714]
-* With the Bofa you can shoot again the instant you reach that tile, which is difficult, and gets awkward once you have to throw in resort doses.[^wxGBi89vE_s-2579]
-* To bank most brew, revitalisation and mage switches after Thieving and keep Sanguinesti staff, salve, pickaxe and a fresh stamina for Vespula.[^2r5Wlx2BiI0-2161]
-* Gnomonkey tells Hedron during the Vespula fight that you have to stall two ticks.[^tTn3JmSD4fI-873]
-* Gnomonkey does a boots takeoff if possible, swaps quick-prayers to Rigor and Redemption, and sips stamina as he enters the room.[^jdvQVwg8niM-1284]
-* To detach the Prayer enhance timer from the buff meter using Cox Editions so you can see which tick you get a prayer point back.[^jdvQVwg8niM-1314]
-* Gnomonkey turns off Rigor as he does the shot because after Redemption drains prayer, the other prayer stays on and drains your prayer point.[^jdvQVwg8niM-1345]
-* To wait for your overload to wear off before Vespula, because you do not want it to run out mid-room.[^jdvQVwg8niM-1405]
+## Preparation
 
-## Gnomonkey's opinion
+Before the portal he removes his boots (a boots takeoff where possible), sets his staff to long range, sorts his inventory, drinks Kodai for the mage boost and sips stamina on entering; quick-prayers are swapped to Rigor and Redemption[^F0qIr7azCwg-419][^jdvQVwg8niM-1284]. He waits for his overload to wear off beforehand so it does not run out mid-room[^jdvQVwg8niM-1405].
 
-* Gnomonkey rates Vespula high C tier, a DPS check against a portal with stupid defence that cannot be drained because it is outside melee distance, and says it is not skilled.[^HkVt4enEesI-2873]
-* Gnomonkey says the Bofa is better DPS than the Twisted bow at Vespula, but it is tick-perfect and difficult to use without losing ticks.[^jdvQVwg8niM-1405]
+He brings plenty of food because she takes all his health away, and picks up her potions afterwards to heal up[^wxGBi89vE_s-2546]. After Thieving, he banks most brew, revitalisation and mage switches and keeps the Sanguinesti staff, salve, pickaxe and a fresh stamina[^2r5Wlx2BiI0-2161].
 
-## Events
+## Thieving room
 
-* Gnomonkey does the whole Vespula fight with a crystal bow and needs the three prayer potions he brought, with Hedron noting that it is not many.[^tTn3JmSD4fI-902]
-* Vespula drops an enhance potion in the raid, so the enhance is available immediately after the kill.[^tTn3JmSD4fI-994]
+In the Thieving room the player must get grubs as fast as possible and keep feeding Vespula, who heals slowly over time whenever she is not eating grubs[^8JxarzSiiME-650]. 30 grubs are needed in total, shown by a counter of how many are still needed[^8JxarzSiiME-680]. He runs the Lightbearer for consistency but says it can be swapped for a Thieving cape, which at 100 gives a chance at four grubs because it boosts Thieving level; he estimates it as maybe a 20 to 30 second time save and a boost to 110 to 120 if lucky, or no help at all[^8JxarzSiiME-619][^8JxarzSiiME-2034]. He stresses fast banking here, because bad thieving luck can lose a lot of time[^8JxarzSiiME-714].
 
 ## Revision history
 
 | Date | Video | Change |
 |---|---|---|
-| 2025-05-01 | [NEW Entry Mode CM CoX Guide (OSRS)](videos/2025-05-01_jdvQVwg8niM.md) | Added: 8 statements (method, opinion, requirement, stat, tip) |
-| 2025-03-20 | [HCIM SCUFFED = STUFFED TBOW (OSRS)](videos/2025-03-20_tTn3JmSD4fI.md) | Added: 3 statements (event, tip) |
-| 2024-11-08 | [SOLO CM COX GUIDE + Shadow Running! (OSRS)](videos/2024-11-08_2r5Wlx2BiI0.md) | Added: 3 statements (method, tip) |
-| 2024-10-27 | [Your First Budget Solo CoX Guide (OSRS)](videos/2024-10-27_wxGBi89vE_s.md) | Added: 3 statements (method, tip) |
-| 2023-06-14 | [COX CM Solo Teaching Stream OSRS](videos/2023-06-14_8JxarzSiiME.md) | Added: 5 statements (stat, tip) |
-| 2023-02-02 | [The Chambers CM Experience (OSRS)](videos/2023-02-02_F0qIr7azCwg.md) | Added: 3 statements (tip) |
-| 2022-03-19 | [PVM Boss Tier List (ALL BOSSES) OSRS](videos/2022-03-19_HkVt4enEesI.md) | Page created: 3 statements (method, opinion, tip) |
+| 2025-05-01 | [NEW Entry Mode CM CoX Guide (OSRS)](videos/2025-05-01_jdvQVwg8niM.md) | Added the refined method, trample max hit of 8, 82 Prayer requirement and the Bofa versus Twisted bow DPS note. |
+| 2025-03-20 | [HCIM SCUFFED = STUFFED TBOW (OSRS)](videos/2025-03-20_tTn3JmSD4fI.md) | Added the stall two ticks advice and a crystal bow clear. |
+| 2024-11-08 | [SOLO CM COX GUIDE + Shadow Running! (OSRS)](videos/2024-11-08_2r5Wlx2BiI0.md) | Added banking after Thieving, tick cycling and the Cox Editions timer. |
+| 2024-10-27 | [Your First Budget Solo CoX Guide (OSRS)](videos/2024-10-27_wxGBi89vE_s.md) | Added the Bofa from a green tile and food supplies. |
+| 2023-06-14 | [COX CM Solo Teaching Stream OSRS](videos/2023-06-14_8JxarzSiiME.md) | Added the Thieving room, grub count and Thieving cape. |
+| 2023-02-02 | [The Chambers CM Experience (OSRS)](videos/2023-02-02_F0qIr7azCwg.md) | Added pre-fight preparation and the Enhanced Timer. |
+| 2022-03-19 | [PVM Boss Tier List (ALL BOSSES) OSRS](videos/2022-03-19_HkVt4enEesI.md) | Page created: Rigor and Redemption cheese with a Twisted bow, and the high C tier rating. |
 ## See also
 
 * [Muttadile](Muttadile.md)
@@ -88,30 +74,30 @@ This article is compiled from the videos of [GnomonkeyRS](https://www.youtube.co
 ## References
 
 ///Footnotes Go Here///
-[^jdvQVwg8niM-1253]: [NEW Entry Mode CM CoX Guide (OSRS)](videos/2025-05-01_jdvQVwg8niM.md), 2025-05-01. [▶ 20:53](https://youtu.be/jdvQVwg8niM?t=1253)
+[^jdvQVwg8niM-1213]: [NEW Entry Mode CM CoX Guide (OSRS)](videos/2025-05-01_jdvQVwg8niM.md), 2025-05-01. [▶ 20:13](https://youtu.be/jdvQVwg8niM?t=1213)
+[^HkVt4enEesI-2873]: [PVM Boss Tier List (ALL BOSSES) OSRS](videos/2022-03-19_HkVt4enEesI.md), 2022-03-19. [▶ 47:53](https://youtu.be/HkVt4enEesI?t=2873)
+[^jdvQVwg8niM-1227]: [NEW Entry Mode CM CoX Guide (OSRS)](videos/2025-05-01_jdvQVwg8niM.md), 2025-05-01. [▶ 20:27](https://youtu.be/jdvQVwg8niM?t=1227)
 [^HkVt4enEesI-2844]: [PVM Boss Tier List (ALL BOSSES) OSRS](videos/2022-03-19_HkVt4enEesI.md), 2022-03-19. [▶ 47:24](https://youtu.be/HkVt4enEesI?t=2844)
+[^8JxarzSiiME-680]: [COX CM Solo Teaching Stream OSRS](videos/2023-06-14_8JxarzSiiME.md), 2023-06-14. [▶ 11:20](https://youtu.be/8JxarzSiiME?t=680)
+[^jdvQVwg8niM-1253]: [NEW Entry Mode CM CoX Guide (OSRS)](videos/2025-05-01_jdvQVwg8niM.md), 2025-05-01. [▶ 20:53](https://youtu.be/jdvQVwg8niM?t=1253)
 [^wxGBi89vE_s-2546]: [Your First Budget Solo CoX Guide (OSRS)](videos/2024-10-27_wxGBi89vE_s.md), 2024-10-27. [▶ 42:26](https://youtu.be/wxGBi89vE_s?t=2546)
 [^2r5Wlx2BiI0-2189]: [SOLO CM COX GUIDE + Shadow Running! (OSRS)](videos/2024-11-08_2r5Wlx2BiI0.md), 2024-11-08. [▶ 36:29](https://youtu.be/2r5Wlx2BiI0?t=2189)
 [^2r5Wlx2BiI0-2216]: [SOLO CM COX GUIDE + Shadow Running! (OSRS)](videos/2024-11-08_2r5Wlx2BiI0.md), 2024-11-08. [▶ 36:56](https://youtu.be/2r5Wlx2BiI0?t=2216)
-[^jdvQVwg8niM-1213]: [NEW Entry Mode CM CoX Guide (OSRS)](videos/2025-05-01_jdvQVwg8niM.md), 2025-05-01. [▶ 20:13](https://youtu.be/jdvQVwg8niM?t=1213)
-[^8JxarzSiiME-680]: [COX CM Solo Teaching Stream OSRS](videos/2023-06-14_8JxarzSiiME.md), 2023-06-14. [▶ 11:20](https://youtu.be/8JxarzSiiME?t=680)
-[^8JxarzSiiME-2034]: [COX CM Solo Teaching Stream OSRS](videos/2023-06-14_8JxarzSiiME.md), 2023-06-14. [▶ 33:54](https://youtu.be/8JxarzSiiME?t=2034)
-[^jdvQVwg8niM-1227]: [NEW Entry Mode CM CoX Guide (OSRS)](videos/2025-05-01_jdvQVwg8niM.md), 2025-05-01. [▶ 20:27](https://youtu.be/jdvQVwg8niM?t=1227)
-[^HkVt4enEesI-2873]: [PVM Boss Tier List (ALL BOSSES) OSRS](videos/2022-03-19_HkVt4enEesI.md), 2022-03-19. [▶ 47:53](https://youtu.be/HkVt4enEesI?t=2873)
-[^F0qIr7azCwg-419]: [The Chambers CM Experience (OSRS)](videos/2023-02-02_F0qIr7azCwg.md), 2023-02-02. [▶ 6:59](https://youtu.be/F0qIr7azCwg?t=419)
-[^F0qIr7azCwg-445]: [The Chambers CM Experience (OSRS)](videos/2023-02-02_F0qIr7azCwg.md), 2023-02-02. [▶ 7:25](https://youtu.be/F0qIr7azCwg?t=445)
-[^8JxarzSiiME-619]: [COX CM Solo Teaching Stream OSRS](videos/2023-06-14_8JxarzSiiME.md), 2023-06-14. [▶ 10:19](https://youtu.be/8JxarzSiiME?t=619)
-[^8JxarzSiiME-650]: [COX CM Solo Teaching Stream OSRS](videos/2023-06-14_8JxarzSiiME.md), 2023-06-14. [▶ 10:50](https://youtu.be/8JxarzSiiME?t=650)
-[^8JxarzSiiME-714]: [COX CM Solo Teaching Stream OSRS](videos/2023-06-14_8JxarzSiiME.md), 2023-06-14. [▶ 11:54](https://youtu.be/8JxarzSiiME?t=714)
 [^wxGBi89vE_s-2579]: [Your First Budget Solo CoX Guide (OSRS)](videos/2024-10-27_wxGBi89vE_s.md), 2024-10-27. [▶ 42:59](https://youtu.be/wxGBi89vE_s?t=2579)
-[^2r5Wlx2BiI0-2161]: [SOLO CM COX GUIDE + Shadow Running! (OSRS)](videos/2024-11-08_2r5Wlx2BiI0.md), 2024-11-08. [▶ 36:01](https://youtu.be/2r5Wlx2BiI0?t=2161)
-[^tTn3JmSD4fI-873]: [HCIM SCUFFED = STUFFED TBOW (OSRS)](videos/2025-03-20_tTn3JmSD4fI.md), 2025-03-20. [▶ 14:33](https://youtu.be/tTn3JmSD4fI?t=873)
-[^jdvQVwg8niM-1284]: [NEW Entry Mode CM CoX Guide (OSRS)](videos/2025-05-01_jdvQVwg8niM.md), 2025-05-01. [▶ 21:24](https://youtu.be/jdvQVwg8niM?t=1284)
-[^jdvQVwg8niM-1314]: [NEW Entry Mode CM CoX Guide (OSRS)](videos/2025-05-01_jdvQVwg8niM.md), 2025-05-01. [▶ 21:54](https://youtu.be/jdvQVwg8niM?t=1314)
-[^jdvQVwg8niM-1345]: [NEW Entry Mode CM CoX Guide (OSRS)](videos/2025-05-01_jdvQVwg8niM.md), 2025-05-01. [▶ 22:25](https://youtu.be/jdvQVwg8niM?t=1345)
 [^jdvQVwg8niM-1405]: [NEW Entry Mode CM CoX Guide (OSRS)](videos/2025-05-01_jdvQVwg8niM.md), 2025-05-01. [▶ 23:25](https://youtu.be/jdvQVwg8niM?t=1405)
 [^tTn3JmSD4fI-902]: [HCIM SCUFFED = STUFFED TBOW (OSRS)](videos/2025-03-20_tTn3JmSD4fI.md), 2025-03-20. [▶ 15:02](https://youtu.be/tTn3JmSD4fI?t=902)
+[^tTn3JmSD4fI-873]: [HCIM SCUFFED = STUFFED TBOW (OSRS)](videos/2025-03-20_tTn3JmSD4fI.md), 2025-03-20. [▶ 14:33](https://youtu.be/tTn3JmSD4fI?t=873)
+[^jdvQVwg8niM-1345]: [NEW Entry Mode CM CoX Guide (OSRS)](videos/2025-05-01_jdvQVwg8niM.md), 2025-05-01. [▶ 22:25](https://youtu.be/jdvQVwg8niM?t=1345)
+[^F0qIr7azCwg-419]: [The Chambers CM Experience (OSRS)](videos/2023-02-02_F0qIr7azCwg.md), 2023-02-02. [▶ 6:59](https://youtu.be/F0qIr7azCwg?t=419)
+[^jdvQVwg8niM-1314]: [NEW Entry Mode CM CoX Guide (OSRS)](videos/2025-05-01_jdvQVwg8niM.md), 2025-05-01. [▶ 21:54](https://youtu.be/jdvQVwg8niM?t=1314)
 [^tTn3JmSD4fI-994]: [HCIM SCUFFED = STUFFED TBOW (OSRS)](videos/2025-03-20_tTn3JmSD4fI.md), 2025-03-20. [▶ 16:34](https://youtu.be/tTn3JmSD4fI?t=994)
+[^F0qIr7azCwg-445]: [The Chambers CM Experience (OSRS)](videos/2023-02-02_F0qIr7azCwg.md), 2023-02-02. [▶ 7:25](https://youtu.be/F0qIr7azCwg?t=445)
+[^jdvQVwg8niM-1284]: [NEW Entry Mode CM CoX Guide (OSRS)](videos/2025-05-01_jdvQVwg8niM.md), 2025-05-01. [▶ 21:24](https://youtu.be/jdvQVwg8niM?t=1284)
+[^2r5Wlx2BiI0-2161]: [SOLO CM COX GUIDE + Shadow Running! (OSRS)](videos/2024-11-08_2r5Wlx2BiI0.md), 2024-11-08. [▶ 36:01](https://youtu.be/2r5Wlx2BiI0?t=2161)
+[^8JxarzSiiME-650]: [COX CM Solo Teaching Stream OSRS](videos/2023-06-14_8JxarzSiiME.md), 2023-06-14. [▶ 10:50](https://youtu.be/8JxarzSiiME?t=650)
+[^8JxarzSiiME-619]: [COX CM Solo Teaching Stream OSRS](videos/2023-06-14_8JxarzSiiME.md), 2023-06-14. [▶ 10:19](https://youtu.be/8JxarzSiiME?t=619)
+[^8JxarzSiiME-2034]: [COX CM Solo Teaching Stream OSRS](videos/2023-06-14_8JxarzSiiME.md), 2023-06-14. [▶ 33:54](https://youtu.be/8JxarzSiiME?t=2034)
+[^8JxarzSiiME-714]: [COX CM Solo Teaching Stream OSRS](videos/2023-06-14_8JxarzSiiME.md), 2023-06-14. [▶ 11:54](https://youtu.be/8JxarzSiiME?t=714)
 
 <div class="navbox" markdown="1" data-search-exclude>
 <div class="navbox-title">Bosses</div>

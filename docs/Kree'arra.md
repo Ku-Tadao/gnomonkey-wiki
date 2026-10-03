@@ -11,102 +11,115 @@ This article is compiled from the videos of [GnomonkeyRS](https://www.youtube.co
 | | |
 |---|---|
 | **Type** | Boss |
+| **Location** | [God Wars Dungeon](God_Wars_Dungeon.md) (Armadyl) |
+| **Combat style** | Ranged required; melee does not reach[^6bBzEerDw4o-0] |
+| **Gp/hr** | about 8.4m at 30 kills/hr; about 6.65m after supplies on a 39-kill task[^6bBzEerDw4o-536][^6bBzEerDw4o-569] |
+| **Drops** | Armadyl helmet, chestplate, legs and hilt[^6bBzEerDw4o-536] |
+| **Pet** | 1 in 5,000[^6bBzEerDw4o-597] |
+| **Tier** | High C[^HkVt4enEesI-949] |
 | **Videos** | 2 (first 2022-03-10, latest 2022-03-19) |
 | **Main source** | [Armadyl DOLO Guide (6.5m GP/HR) OSRS](videos/2022-03-10_6bBzEerDw4o.md) |
 </div>
 
-**Kree'arra** is a boss topic that Gnomonkey covers in 2 videos between 2022-03-10 and 2022-03-19. This article is a stub: his statements are grouped by type, repeated ones merged.
+**Kree'arra** (Armadyl) is the [God Wars Dungeon](God_Wars_Dungeon.md) bird boss. Gnomonkey says he has always been one of the tougher bosses of the dungeon: he has a lot of defence and the player is forced to use ranged because melee attacks do not reach, so his defence cannot be drained.[^6bBzEerDw4o-0] As of March 2022 he is by far the most profitable God Wars Dungeon boss, because the announced Masori armour breaking down Armadyl armour pushed the Armadyl top and bottom to about 80m together, giving about 9m gp/hr before chinchompa costs.[^6bBzEerDw4o-0] Gnomonkey rates him high C tier, with little going on besides juggling food and freezing the boss over the minion by targeting it.[^HkVt4enEesI-949]
 
 [TOC]
 
+## Mechanics
+
+Kree'arra has a mechanic like the Mystics at the Chambers of Xeric: a melee mode and a range/mage mode. Whenever he is not being attacked, after a random time he decides to melee and moves toward the player.[^6bBzEerDw4o-329] His melee is incredibly accurate and maxes at 26, but Protect from Missiles must stay up since his ranged maxes at 69; that is the alt's main purpose.[^6bBzEerDw4o-388]
+
+Solo, the attack is awkward because chinchompas must be used in a 2-ticks-on, 1-tick-off cycle to keep him from meleeing.[^6bBzEerDw4o-28] Gnomonkey describes it as two-ticking the boss and one-ticking the minion with chinchompas to prevent melee hits; DOLO it is almost AFK, praying ranged with Rigor and chinning.[^HkVt4enEesI-918] Using an alt bypasses the cycle, gives a small amount of extra DPS and allows bringing enough supplies to finish a whole slayer task without leaving.[^6bBzEerDw4o-28]
+
 ## Requirements
 
-* You really should have 99 Ranged to do Kree'arra, as it is too big a DPS increase and too easy to get; he also wants 96 Prayer for the maximum prayer potion boost, 92 Magic for Blood barrage (higher is better for defence) and 90+ Defence since the main tanks the melee and mage minions.[^6bBzEerDw4o-48]
-* The alt wants 90+ Defence and Magic (minimum 84 Magic for Pot Share), 75 Ranged to wield a blowpipe (higher is better), Barrows gloves unlocked as the tankiest gloves, and Rigor with a minimum of 74 Prayer, as Rigor is important for both defence and damage.[^6bBzEerDw4o-66]
+| Account | Requirement |
+|---|---|
+| Main | 99 Ranged (too large a DPS increase and too easy to skip); 96 Prayer for the maximum prayer potion boost; 92 Magic for Blood barrage (higher is better for defence); 90+ Defence, since the main tanks the melee and mage minions[^6bBzEerDw4o-48] |
+| Alt | 90+ Defence and Magic (minimum 84 Magic for Pot Share); 75 Ranged for a blowpipe (higher is better); Barrows gloves unlocked as the tankiest gloves; Rigor with minimum 74 Prayer, important for both defence and damage[^6bBzEerDw4o-66] |
 
-## Methods
+A Max cape is quite beneficial on the main if maxed; otherwise a Fletching cape helps and saves an inventory spot.[^6bBzEerDw4o-66]
 
-* The main wears max ranged gear with Zaryte vambraces and an Assembler, which gives chinchompas a max hit at max ranged boost, with a buckler; a twisted bow is nice but realistically barely used over a trip, and an Armadyl crossbow is also fine.[^6bBzEerDw4o-106]
-* The main also brings a blowpipe filled with dragon darts for the minions (serpentine-style specs heal you more), and a Kodai wand or any staff giving a 15% damage boost (the Nightmare staff works the same) for Blood barrage.[^6bBzEerDw4o-151]
-* The main's inventory has two Divine bastion potions, lots of prayer potions with one emergency brew and restore, four anglerfish in case Blood barrage cannot heal to full, a God Wars teleport hilt (dropped to hold coin drops; Trollheim tabs also work), Bones to Peaches tabs, an imbued heart, and a rune pouch with Blood barrage runes, blood, death and soul runes.[^6bBzEerDw4o-180]
-* Gnomonkey's alt setup is a very strange one: absolute max tank gear with Justiciar, Fury (blood fury works), Guardian boots, Barrows gloves, Ring of suffering, an Armadyl crossbow with diamond dragon bolts, and a good tank shield; the Elysian is best in slot, but he sold his for Torva and uses a Dragonfire shield, the next best.[^6bBzEerDw4o-237]
-* The alt's inventory has a blowpipe, three Divine bastion potions, eight restores, nine anglerfish, two emergency brews, an ecumenical key if you have one, a Trollheim tab, a Mithril grapple to cross the dungeon, a stack of Bones to Peaches tabs (usable without the spell unlocked), and a rune pouch with earth, water and astral runes while on Lunars; an imbued heart is nice but not required.[^6bBzEerDw4o-298]
-* To start, hop until you find a world, pray Preserve, Protect from Missiles and Rigor on both accounts, have the alt pot share a Divine bastion potion to the main, then enter the room on both accounts.[^6bBzEerDw4o-388]
-* First kill: run to the bottom-left corner and have the alt start shooting Kree'arra when he gets close, then chinchompa the melee minion when it shows up; after it dies, twisted bow Kree'arra until he falls.[^6bBzEerDw4o-415]
-* If the tag window is missed, stop attacking Kree'arra and let him approach fully then chinchompa the melee minion; when the ranged minion dies, the alt stops attacking until he starts approaching again and re-tags him while the main chins the melee minion, so almost the entire kill is chinned and only rarely do the two minions fail to kill him, forcing twisted bow use.[^6bBzEerDw4o-475]
-* Gnomonkey describes Kree'arra (Armadyl) solo as two-ticking the boss and one-ticking the minion with chinchompas to prevent melee hits; DOLO it is almost AFK, praying ranged with Rigor and chinning.[^HkVt4enEesI-918]
+## Gear and inventories
 
-## Stats and numbers
+### Main
 
-* Solo Kree'arra is annoying because you need a 2-ticks-on, 1-tick-off attack cycle with your chinchompas to keep him from meleeing you; with an alt you bypass this mechanic, gain a small amount of extra DPS and bring enough supplies to finish an entire slayer task without leaving.[^6bBzEerDw4o-28]
-* A twisted bow is 55% worse DPS than chinning the minions, so it is not used instead of chinchompas, and that the Bow of Faerdhinen actually beats the twisted bow by 1% here.[^6bBzEerDw4o-120]
-* Gnomonkey takes around 1,000 black chinchompas for a task and finished a 160-aviansie task with 250 left; take only roughly what you need since they are lost on death, and he does not bring an Explorer's ring because alchables at Kree'arra are rarer and under 10k each.[^6bBzEerDw4o-211]
-* Kree'arra has a weird mechanic like Mystics at the Chambers of Xeric: a melee mode and a range/mage mode; whenever he is not being attacked, after a random time he decides to melee you and moves towards you.[^6bBzEerDw4o-329]
-* Kree'arra melee is incredibly accurate and maxes at 26, but you must keep Protect from Missiles up since his ranged maxes at 69, which is the alt's primary purpose.[^6bBzEerDw4o-388]
-* For every kill after the first, both players stand in the bottom-left corner; when the alt attacks Kree'arra he immediately stops where he is, which is abused: when he spawns and moves about three tiles, the alt tags him to stop him over the ranged minion so the main can chinchompa that minion in a two-tick window.[^6bBzEerDw4o-444]
-* Kree'arra's drops are the Armadyl helmet, chestplate, legs and the Armadyl hilt, and the money is in the chestplate and legs; a kill was worth 280,000 gp according to the OSRS Wiki, and Gnomonkey got 30 kills per hour at peak efficiency, or about 8.4m gp/hr.[^6bBzEerDw4o-536]
-* For a 39-kill task Gnomonkey used 750 black chinchompas and 1,200 blood runes, about 20 chinchompas and 31 blood runes per kill (60k in supplies per kill), cutting profit by 1.75m to roughly 6.65m gp/hr.[^6bBzEerDw4o-569]
-* The Kree'arra pet is 1 in 5,000 like the other God Wars Dungeon bosses; Gnomonkey calls it one of the coolest and rarest pets, just behind the Zamorak pet and his own favourite God Wars pet.[^6bBzEerDw4o-597]
+The main wears max ranged gear with Zaryte vambraces and an Assembler, giving chinchompas a max hit at max ranged boost, with a buckler. A twisted bow is nice but barely used over a trip, and an Armadyl crossbow is also fine.[^6bBzEerDw4o-106] A twisted bow is 55% worse DPS than chinning the minions, so it is not used instead of chinchompas; the Bow of Faerdhinen beats it by 1% here.[^6bBzEerDw4o-120] Because the minions' and Kree'arra's magical damage roll off ranged defence rather than Magic, Crystal armour gives superior defence, though it burns shards fast; it is a good use for a big stack from the Gauntlet or Zalcano.[^6bBzEerDw4o-120]
 
-## Tips
+Also carried: a blowpipe with dragon darts for the minions (serpentine-style specs heal more) and a Kodai wand or any staff giving a 15% damage boost (the Nightmare staff works the same) for Blood barrage.[^6bBzEerDw4o-151] Inventory: two Divine bastion potions, lots of prayer potions with one emergency brew and restore, four anglerfish in case Blood barrage cannot heal fully, a God Wars teleport hilt (dropped to hold coin drops; Trollheim tabs also work), Bones to Peaches tabs, an imbued heart, and a rune pouch with Blood barrage runes, blood, death and soul runes.[^6bBzEerDw4o-180] Crystal dust is good with excess ranged potions to make divine potions, better still with Zaryte vambraces to keep the max hit.[^6bBzEerDw4o-211]
 
-* A Max cape is quite beneficial on the main if maxed; otherwise a Fletching cape is beneficial and saves an inventory spot.[^6bBzEerDw4o-66]
-* Because the minions' and Kree'arra's magical damage roll off your ranged defence instead of Magic, Crystal armour provides superior defence, though it burns crystal shards fast; it is a solid use for a big stack of shards from the Gauntlet or Zalcano.[^6bBzEerDw4o-120]
-* Ecumenical keys are effectively necessary at Kree'arra for killcount, since with an aviansie slayer task your options for killcount are limited to avoid wasting task kills; Gnomonkey uses ecumenical keys on the main and gets killcount on the alt, who has no task.[^6bBzEerDw4o-151]
-* Crystal dust can be good if you get excess ranged potions so you can make divine potions, even better with Zaryte vambraces to keep the max hit.[^6bBzEerDw4o-211]
-* Diamond bolts are guaranteed to hit when they proc (they can still roll zero but always pass accuracy), so even with very negative ranged attack the alt does decent damage but never snipes kills; the alt regains HP only from Bones to Peaches, food drops and pipe specs.[^6bBzEerDw4o-269]
-* To get killcount on the alt instead of using keys, trade his gear to the main and have him wear regular ranged gear with an Armadyl item and blowpipe, pray ranged and tag about ten aviansies; make sure the Gorak gets stuck so it cannot hit the alt, then give the alt back his gear and a full inventory of food.[^6bBzEerDw4o-326]
-* When crossing the grapple, you can search a Max cape or Fletching cape for the crossbow and grapple; drop food on each side to cross, and note the grapple can break so you may need to search for another; hide behind a wall on both accounts while looking for a world, and make sure the alt is on Lunars before setting out.[^6bBzEerDw4o-326]
-* As a rule of thumb the alt gets all the bones for Bones to Peaches while the main uses Blood barrage to heal; dump blowpipe specs whenever you need HP; juggle manta rays or potatoes from minions, as dry periods with no food drops can happen.[^6bBzEerDw4o-415]
-* Hit the altar whenever possible, have the alt pot share prayer doses if the main needs prayer, and re-pot share a Divine bastion when at about a +9 boost, which varies with how many ranged potion drops you get.[^6bBzEerDw4o-444]
-* Watch both accounts' HP and eat below 40 HP to avoid being comboed; usually only the main takes real damage, and after the kill the main dumps pipe specs and barrages.[^6bBzEerDw4o-508]
-* If the melee minion is still alive it stays aggressive to whoever it was on permanently; if it is on the alt, pray melee after Kree'arra dies and have the alt move under the mage minion so you can barrage both on the main; taking armour off can help barrages land on the mage minion.[^6bBzEerDw4o-521]
-* Do not leave the main room without Protect from Missiles on the alt, since the aviansies outside are aggressive due to the alt unequipping its crossbow occasionally; ideally just teleport out via Clan Wars.[^6bBzEerDw4o-536]
+Supplies: about 1,000 black chinchompas for a task (he finished a 160-aviansie task with 250 left); take only what is needed since they are lost on death. He does not bring an Explorer's ring because alchables there are rarer and under 10k each.[^6bBzEerDw4o-211]
 
-## Gnomonkey's opinion
+Ecumenical keys are effectively necessary for killcount with an aviansie slayer task, since options are otherwise limited to avoid wasting task kills; he uses keys on the main and gets killcount on the alt, who has no task.[^6bBzEerDw4o-151]
 
-* Gnomonkey says Kree'arra (Armadyl) has always been one of the tougher God Wars Dungeon bosses: he has a lot of defence and you are forced to use ranged because melee attacks do not reach, so you cannot drain his defence.[^6bBzEerDw4o-0]
-* Gnomonkey says a Zaryte crossbow on the alt is barely better than an Armadyl crossbow and not an armour item, so he would just use the Armadyl crossbow even if he had a Zaryte crossbow.[^6bBzEerDw4o-269]
-* Gnomonkey rates Kree'arra high C tier, saying there is little going on besides juggling food and freezing the boss over the minion by targeting it.[^HkVt4enEesI-949]
+### Alt
 
-## Events
+The alt is absolute max tank gear: Justiciar, Fury (blood fury works), Guardian boots, Barrows gloves, Ring of suffering, an Armadyl crossbow with diamond dragon bolts, and a good tank shield. The Elysian is best in slot but he sold his for Torva and uses a Dragonfire shield, the next best.[^6bBzEerDw4o-237] A Zaryte crossbow is barely better than an Armadyl crossbow and not an armour item, so he would use the Armadyl one regardless.[^6bBzEerDw4o-269] Diamond bolts always pass accuracy when they proc (they can still roll zero), so with very negative ranged attack the alt does decent damage but never snipes; it regains HP only from Bones to Peaches, food drops and pipe specs.[^6bBzEerDw4o-269]
 
-* As of March 2022, Kree'arra is by far the most profitable God Wars Dungeon boss because of the announcement of Masori armour breaking down Armadyl armour, which pushed the Armadyl armour top and bottom to about 80m total and gives about 9m gp/hr before chinchompa costs.[^6bBzEerDw4o-0]
+The alt's inventory: blowpipe, three Divine bastion potions, eight restores, nine anglerfish, two emergency brews, an ecumenical key if available, a Trollheim tab, a Mithril grapple, a stack of Bones to Peaches tabs (usable without the spell unlocked), and a rune pouch with earth, water and astral runes while on Lunars; an imbued heart is nice but not required.[^6bBzEerDw4o-298]
+
+## Strategy
+
+### Setup
+
+Hop to a world, pray Preserve, Protect from Missiles and Rigor on both accounts, have the alt pot share a Divine bastion potion to the main, then enter on both.[^6bBzEerDw4o-388] To get killcount on the alt without keys, trade his gear to the main, have him wear regular ranged gear with an Armadyl item and blowpipe, pray ranged and tag about ten aviansies, making sure the Gorak gets stuck so it cannot hit the alt; then return gear and a full inventory of food.[^6bBzEerDw4o-326] When crossing the grapple, search a Max or Fletching cape for the crossbow and grapple; drop food on each side to cross, remember that the grapple can break, hide behind a wall on both accounts while looking for a world, and make sure the alt is on Lunars.[^6bBzEerDw4o-326]
+
+### First kill
+
+Run to the bottom-left corner and have the alt start shooting Kree'arra when he gets close, then chinchompa the melee minion when it shows up; after it dies, twisted bow Kree'arra until he falls.[^6bBzEerDw4o-415]
+
+### Later kills
+
+Both players stand in the bottom-left corner. When the alt attacks Kree'arra he immediately stops where he is: when he spawns and moves about three tiles, the alt tags him to stop him over the ranged minion so the main can chinchompa it in a two-tick window.[^6bBzEerDw4o-444] If the window is missed, the alt stops attacking and lets him approach fully, then the main chins the melee minion; once the ranged minion dies, the alt stops until he starts approaching again and re-tags him while the main chins the melee minion. Almost the whole kill is chinned, and only rarely do the two minions fail to kill him, forcing twisted bow use.[^6bBzEerDw4o-475]
+
+### Sustain and safety
+
+* The alt gets all the bones for Bones to Peaches while the main heals with Blood barrage; dump blowpipe specs when HP is needed, and juggle manta rays or potatoes from minions since food-drop dry spells happen.[^6bBzEerDw4o-415]
+* Hit the altar whenever possible, have the alt pot share prayer doses if the main needs prayer, and re-pot share a Divine bastion at about a +9 boost.[^6bBzEerDw4o-444]
+* Eat below 40 HP to avoid being comboed. Usually only the main takes real damage, and after the kill the main dumps pipe specs and barrages.[^6bBzEerDw4o-508]
+* A surviving melee minion stays aggressive to whoever it was on. If it is on the alt, pray melee after Kree'arra dies and move the alt under the mage minion to barrage both on the main; taking armour off can help barrages land on the mage minion.[^6bBzEerDw4o-521]
+* Do not leave the main room without Protect from Missiles on the alt, since aviansies outside are aggressive when the alt unequips its crossbow; ideally teleport out via Clan Wars.[^6bBzEerDw4o-536]
+
+## Drops and profit
+
+Kree'arra drops the Armadyl helmet, chestplate, legs and hilt, with the money in the chestplate and legs. A kill was worth 280,000 gp according to the OSRS Wiki, and Gnomonkey reached 30 kills per hour at peak efficiency, about 8.4m gp/hr.[^6bBzEerDw4o-536] On a 39-kill task he used 750 black chinchompas and 1,200 blood runes, about 20 chinchompas and 31 blood runes (60k in supplies) per kill, cutting profit by 1.75m to roughly 6.65m gp/hr.[^6bBzEerDw4o-569]
+
+The pet is 1 in 5,000, like the other God Wars Dungeon bosses; he calls it one of the coolest and rarest pets, just behind the Zamorak pet and his own favourite God Wars pet.[^6bBzEerDw4o-597]
 
 ## Revision history
 
 | Date | Video | Change |
 |---|---|---|
-| 2022-03-19 | [PVM Boss Tier List (ALL BOSSES) OSRS](videos/2022-03-19_HkVt4enEesI.md) | Added: 2 statements (method, opinion) |
-| 2022-03-10 | [Armadyl DOLO Guide (6.5m GP/HR) OSRS](videos/2022-03-10_6bBzEerDw4o.md) | Page created: 34 statements (event, method, opinion, requirement, stat, tip) |
+| 2022-03-19 | [PVM Boss Tier List (ALL BOSSES) OSRS](videos/2022-03-19_HkVt4enEesI.md) | Added solo method description and rating of high C tier. |
+| 2022-03-10 | [Armadyl DOLO Guide (6.5m GP/HR) OSRS](videos/2022-03-10_6bBzEerDw4o.md) | Page created: profit, requirements, gear, alt setup, inventories, kill strategy, drops and pet. |
 ## References
 
 ///Footnotes Go Here///
-[^6bBzEerDw4o-48]: [Armadyl DOLO Guide (6.5m GP/HR) OSRS](videos/2022-03-10_6bBzEerDw4o.md), 2022-03-10. [▶ 0:48](https://youtu.be/6bBzEerDw4o?t=48)
-[^6bBzEerDw4o-66]: [Armadyl DOLO Guide (6.5m GP/HR) OSRS](videos/2022-03-10_6bBzEerDw4o.md), 2022-03-10. [▶ 1:06](https://youtu.be/6bBzEerDw4o?t=66)
-[^6bBzEerDw4o-106]: [Armadyl DOLO Guide (6.5m GP/HR) OSRS](videos/2022-03-10_6bBzEerDw4o.md), 2022-03-10. [▶ 1:46](https://youtu.be/6bBzEerDw4o?t=106)
-[^6bBzEerDw4o-151]: [Armadyl DOLO Guide (6.5m GP/HR) OSRS](videos/2022-03-10_6bBzEerDw4o.md), 2022-03-10. [▶ 2:31](https://youtu.be/6bBzEerDw4o?t=151)
-[^6bBzEerDw4o-180]: [Armadyl DOLO Guide (6.5m GP/HR) OSRS](videos/2022-03-10_6bBzEerDw4o.md), 2022-03-10. [▶ 3:00](https://youtu.be/6bBzEerDw4o?t=180)
-[^6bBzEerDw4o-237]: [Armadyl DOLO Guide (6.5m GP/HR) OSRS](videos/2022-03-10_6bBzEerDw4o.md), 2022-03-10. [▶ 3:57](https://youtu.be/6bBzEerDw4o?t=237)
-[^6bBzEerDw4o-298]: [Armadyl DOLO Guide (6.5m GP/HR) OSRS](videos/2022-03-10_6bBzEerDw4o.md), 2022-03-10. [▶ 4:58](https://youtu.be/6bBzEerDw4o?t=298)
-[^6bBzEerDw4o-388]: [Armadyl DOLO Guide (6.5m GP/HR) OSRS](videos/2022-03-10_6bBzEerDw4o.md), 2022-03-10. [▶ 6:28](https://youtu.be/6bBzEerDw4o?t=388)
-[^6bBzEerDw4o-415]: [Armadyl DOLO Guide (6.5m GP/HR) OSRS](videos/2022-03-10_6bBzEerDw4o.md), 2022-03-10. [▶ 6:55](https://youtu.be/6bBzEerDw4o?t=415)
-[^6bBzEerDw4o-475]: [Armadyl DOLO Guide (6.5m GP/HR) OSRS](videos/2022-03-10_6bBzEerDw4o.md), 2022-03-10. [▶ 7:55](https://youtu.be/6bBzEerDw4o?t=475)
-[^HkVt4enEesI-918]: [PVM Boss Tier List (ALL BOSSES) OSRS](videos/2022-03-19_HkVt4enEesI.md), 2022-03-19. [▶ 15:18](https://youtu.be/HkVt4enEesI?t=918)
-[^6bBzEerDw4o-28]: [Armadyl DOLO Guide (6.5m GP/HR) OSRS](videos/2022-03-10_6bBzEerDw4o.md), 2022-03-10. [▶ 0:28](https://youtu.be/6bBzEerDw4o?t=28)
-[^6bBzEerDw4o-120]: [Armadyl DOLO Guide (6.5m GP/HR) OSRS](videos/2022-03-10_6bBzEerDw4o.md), 2022-03-10. [▶ 2:00](https://youtu.be/6bBzEerDw4o?t=120)
-[^6bBzEerDw4o-211]: [Armadyl DOLO Guide (6.5m GP/HR) OSRS](videos/2022-03-10_6bBzEerDw4o.md), 2022-03-10. [▶ 3:31](https://youtu.be/6bBzEerDw4o?t=211)
-[^6bBzEerDw4o-329]: [Armadyl DOLO Guide (6.5m GP/HR) OSRS](videos/2022-03-10_6bBzEerDw4o.md), 2022-03-10. [▶ 5:29](https://youtu.be/6bBzEerDw4o?t=329)
-[^6bBzEerDw4o-444]: [Armadyl DOLO Guide (6.5m GP/HR) OSRS](videos/2022-03-10_6bBzEerDw4o.md), 2022-03-10. [▶ 7:24](https://youtu.be/6bBzEerDw4o?t=444)
+[^6bBzEerDw4o-0]: [Armadyl DOLO Guide (6.5m GP/HR) OSRS](videos/2022-03-10_6bBzEerDw4o.md), 2022-03-10. [▶ 0:00](https://youtu.be/6bBzEerDw4o)
 [^6bBzEerDw4o-536]: [Armadyl DOLO Guide (6.5m GP/HR) OSRS](videos/2022-03-10_6bBzEerDw4o.md), 2022-03-10. [▶ 8:56](https://youtu.be/6bBzEerDw4o?t=536)
 [^6bBzEerDw4o-569]: [Armadyl DOLO Guide (6.5m GP/HR) OSRS](videos/2022-03-10_6bBzEerDw4o.md), 2022-03-10. [▶ 9:29](https://youtu.be/6bBzEerDw4o?t=569)
 [^6bBzEerDw4o-597]: [Armadyl DOLO Guide (6.5m GP/HR) OSRS](videos/2022-03-10_6bBzEerDw4o.md), 2022-03-10. [▶ 9:57](https://youtu.be/6bBzEerDw4o?t=597)
+[^HkVt4enEesI-949]: [PVM Boss Tier List (ALL BOSSES) OSRS](videos/2022-03-19_HkVt4enEesI.md), 2022-03-19. [▶ 15:49](https://youtu.be/HkVt4enEesI?t=949)
+[^6bBzEerDw4o-329]: [Armadyl DOLO Guide (6.5m GP/HR) OSRS](videos/2022-03-10_6bBzEerDw4o.md), 2022-03-10. [▶ 5:29](https://youtu.be/6bBzEerDw4o?t=329)
+[^6bBzEerDw4o-388]: [Armadyl DOLO Guide (6.5m GP/HR) OSRS](videos/2022-03-10_6bBzEerDw4o.md), 2022-03-10. [▶ 6:28](https://youtu.be/6bBzEerDw4o?t=388)
+[^6bBzEerDw4o-28]: [Armadyl DOLO Guide (6.5m GP/HR) OSRS](videos/2022-03-10_6bBzEerDw4o.md), 2022-03-10. [▶ 0:28](https://youtu.be/6bBzEerDw4o?t=28)
+[^HkVt4enEesI-918]: [PVM Boss Tier List (ALL BOSSES) OSRS](videos/2022-03-19_HkVt4enEesI.md), 2022-03-19. [▶ 15:18](https://youtu.be/HkVt4enEesI?t=918)
+[^6bBzEerDw4o-48]: [Armadyl DOLO Guide (6.5m GP/HR) OSRS](videos/2022-03-10_6bBzEerDw4o.md), 2022-03-10. [▶ 0:48](https://youtu.be/6bBzEerDw4o?t=48)
+[^6bBzEerDw4o-66]: [Armadyl DOLO Guide (6.5m GP/HR) OSRS](videos/2022-03-10_6bBzEerDw4o.md), 2022-03-10. [▶ 1:06](https://youtu.be/6bBzEerDw4o?t=66)
+[^6bBzEerDw4o-106]: [Armadyl DOLO Guide (6.5m GP/HR) OSRS](videos/2022-03-10_6bBzEerDw4o.md), 2022-03-10. [▶ 1:46](https://youtu.be/6bBzEerDw4o?t=106)
+[^6bBzEerDw4o-120]: [Armadyl DOLO Guide (6.5m GP/HR) OSRS](videos/2022-03-10_6bBzEerDw4o.md), 2022-03-10. [▶ 2:00](https://youtu.be/6bBzEerDw4o?t=120)
+[^6bBzEerDw4o-151]: [Armadyl DOLO Guide (6.5m GP/HR) OSRS](videos/2022-03-10_6bBzEerDw4o.md), 2022-03-10. [▶ 2:31](https://youtu.be/6bBzEerDw4o?t=151)
+[^6bBzEerDw4o-180]: [Armadyl DOLO Guide (6.5m GP/HR) OSRS](videos/2022-03-10_6bBzEerDw4o.md), 2022-03-10. [▶ 3:00](https://youtu.be/6bBzEerDw4o?t=180)
+[^6bBzEerDw4o-211]: [Armadyl DOLO Guide (6.5m GP/HR) OSRS](videos/2022-03-10_6bBzEerDw4o.md), 2022-03-10. [▶ 3:31](https://youtu.be/6bBzEerDw4o?t=211)
+[^6bBzEerDw4o-237]: [Armadyl DOLO Guide (6.5m GP/HR) OSRS](videos/2022-03-10_6bBzEerDw4o.md), 2022-03-10. [▶ 3:57](https://youtu.be/6bBzEerDw4o?t=237)
 [^6bBzEerDw4o-269]: [Armadyl DOLO Guide (6.5m GP/HR) OSRS](videos/2022-03-10_6bBzEerDw4o.md), 2022-03-10. [▶ 4:29](https://youtu.be/6bBzEerDw4o?t=269)
+[^6bBzEerDw4o-298]: [Armadyl DOLO Guide (6.5m GP/HR) OSRS](videos/2022-03-10_6bBzEerDw4o.md), 2022-03-10. [▶ 4:58](https://youtu.be/6bBzEerDw4o?t=298)
 [^6bBzEerDw4o-326]: [Armadyl DOLO Guide (6.5m GP/HR) OSRS](videos/2022-03-10_6bBzEerDw4o.md), 2022-03-10. [▶ 5:26](https://youtu.be/6bBzEerDw4o?t=326)
+[^6bBzEerDw4o-415]: [Armadyl DOLO Guide (6.5m GP/HR) OSRS](videos/2022-03-10_6bBzEerDw4o.md), 2022-03-10. [▶ 6:55](https://youtu.be/6bBzEerDw4o?t=415)
+[^6bBzEerDw4o-444]: [Armadyl DOLO Guide (6.5m GP/HR) OSRS](videos/2022-03-10_6bBzEerDw4o.md), 2022-03-10. [▶ 7:24](https://youtu.be/6bBzEerDw4o?t=444)
+[^6bBzEerDw4o-475]: [Armadyl DOLO Guide (6.5m GP/HR) OSRS](videos/2022-03-10_6bBzEerDw4o.md), 2022-03-10. [▶ 7:55](https://youtu.be/6bBzEerDw4o?t=475)
 [^6bBzEerDw4o-508]: [Armadyl DOLO Guide (6.5m GP/HR) OSRS](videos/2022-03-10_6bBzEerDw4o.md), 2022-03-10. [▶ 8:28](https://youtu.be/6bBzEerDw4o?t=508)
 [^6bBzEerDw4o-521]: [Armadyl DOLO Guide (6.5m GP/HR) OSRS](videos/2022-03-10_6bBzEerDw4o.md), 2022-03-10. [▶ 8:41](https://youtu.be/6bBzEerDw4o?t=521)
-[^6bBzEerDw4o-0]: [Armadyl DOLO Guide (6.5m GP/HR) OSRS](videos/2022-03-10_6bBzEerDw4o.md), 2022-03-10. [▶ 0:00](https://youtu.be/6bBzEerDw4o)
-[^HkVt4enEesI-949]: [PVM Boss Tier List (ALL BOSSES) OSRS](videos/2022-03-19_HkVt4enEesI.md), 2022-03-19. [▶ 15:49](https://youtu.be/HkVt4enEesI?t=949)
 
 <div class="navbox" markdown="1" data-search-exclude>
 <div class="navbox-title">Bosses</div>

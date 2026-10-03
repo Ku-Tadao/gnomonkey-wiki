@@ -80,10 +80,10 @@ Gnomonkey considers the new rock block better than car park, since the longer th
 
 * [Doom of Mokhaiotl: melee punish](Doom_of_Mokhaiotl_melee_punish.md)
 * [Doom of Mokhaiotl: car attack](Doom_of_Mokhaiotl_car_attack.md)
-* [Doom of Mokhaiotl: acid](Doom_of_Mokhaiotl_acid.md)
 * [Doom of Mokhaiotl: gear and inventory](Doom_of_Mokhaiotl_gear_and_inventory.md)
 * [Doom of Mokhaiotl: holy water](Doom_of_Mokhaiotl_holy_water.md)
 * [Doom of Mokhaiotl: slam and stalagmite orb](Doom_of_Mokhaiotl_slam_and_stalagmite_orb.md)
+* [Doom of Mokhaiotl: acid](Doom_of_Mokhaiotl_acid.md)
 
 ## References
 

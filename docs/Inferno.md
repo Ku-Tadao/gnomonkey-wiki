@@ -200,9 +200,9 @@ See [Inferno plugins](Inferno_plugins.md). The Tzhaar HP Tracker shows pillar an
 ## See also
 
 * [TzKal-Zuk](TzKal-Zuk.md)
+* [Jal-Zek](Jal-Zek.md)
 * [Jal-Ak](Jal-Ak.md)
 * [Jal-ImKot](Jal-ImKot.md)
-* [Jal-Zek](Jal-Zek.md)
 * [Inferno gear](Inferno_gear.md)
 * [Jal-MejRah](Jal-MejRah.md)
 

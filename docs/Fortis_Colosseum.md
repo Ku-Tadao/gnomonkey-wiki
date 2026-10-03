@@ -133,11 +133,11 @@ The Fortis Colosseum is the wave-based Varlamore combat encounter that Gnomonkey
 | 2023-11-06 | [Colosseum: Glory or a Waste of Dev time?](videos/2023-11-06_88kOTb9qUKc.md) | Page created: announcement blog overview, Glory, rewards. |
 ## See also
 
-* [Colosseum invocations](Colosseum_invocations.md)
 * [Sol Heredit](Sol_Heredit.md)
+* [Colosseum invocations](Colosseum_invocations.md)
 * [Arceuus spellbook](Arceuus_spellbook.md)
-* [Fortis Colosseum setup](Fortis_Colosseum_setup.md)
 * [Manticore](Manticore.md)
+* [Minotaur](Minotaur.md)
 * [Group Hardcore Ironman: Big Dawgs V1](Group_Hardcore_Ironman_Big_Dawgs_V1.md)
 
 ## References

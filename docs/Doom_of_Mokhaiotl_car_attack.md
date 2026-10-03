@@ -66,11 +66,11 @@ This article is compiled from the videos of [GnomonkeyRS](https://www.youtube.co
 ## See also
 
 * [Doom of Mokhaiotl: shield phase](Doom_of_Mokhaiotl_shield_phase.md)
-* [Doom of Mokhaiotl: acid](Doom_of_Mokhaiotl_acid.md)
 * [Doom of Mokhaiotl: gear and inventory](Doom_of_Mokhaiotl_gear_and_inventory.md)
 * [Doom of Mokhaiotl: holy water](Doom_of_Mokhaiotl_holy_water.md)
 * [Doom of Mokhaiotl: melee punish](Doom_of_Mokhaiotl_melee_punish.md)
 * [Doom of Mokhaiotl: rock block method](Doom_of_Mokhaiotl_rock_block_method.md)
+* [Doom of Mokhaiotl: slam and stalagmite orb](Doom_of_Mokhaiotl_slam_and_stalagmite_orb.md)
 
 ## References
 

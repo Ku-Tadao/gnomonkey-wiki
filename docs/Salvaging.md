@@ -88,10 +88,10 @@ He says realistic 25-minute AFK Salvaging at level 87 gave roughly 40k to 60k XP
 ## See also
 
 * [Barracuda Trials](Barracuda_Trials.md)
+* [Charting](Charting.md)
 * [Crystal extractor](Crystal_extractor.md)
 * [Gwenith Glide](Gwenith_Glide.md)
 * [Port tasks](Port_tasks.md)
-* [Charting](Charting.md)
 * [Sailing](Sailing.md)
 
 ## References

@@ -10,73 +10,70 @@ This article is compiled from the videos of [GnomonkeyRS](https://www.youtube.co
 
 | | |
 |---|---|
-| **Type** | Activity |
+| **Type** | Minigame |
+| **Location** | Edgeville portal (minigame teleport)[^2tfcS0k0OF4-90] |
+| **Requirements** | 500 total level[^Jktw_nf9kKs-185] |
+| **Reward** | Lil' Creator pet; Soul Wars cape (2,500 zeal)[^vwCm9NKJhRE-60][^2tfcS0k0OF4-267] |
+| **Zeal rate** | 380 zeal/hr with the DOLO method[^2tfcS0k0OF4-237] |
+| **Gp/hr** | 1.2m with the DOLO method[^2tfcS0k0OF4-0] |
 | **Videos** | 4 (first 2022-03-12, latest 2025-04-03) |
 | **Main source** | [Soul Wars DOLO Pet Guide (1.2M GP/HR) OSRS](videos/2022-04-05_2tfcS0k0OF4.md) |
 </div>
 
-**Soul Wars** is an activity topic that Gnomonkey covers in 4 videos between 2022-03-12 and 2025-04-03. This article is a stub: his statements are grouped by type, repeated ones merged.
+**Soul Wars** is a team minigame entered through a portal in Edgeville. Gnomonkey does not enjoy it as a minigame: he was never fond of Jagex adding it, especially with a pet tied to it, noting that minigames are not his thing but pets are[^2tfcS0k0OF4-0]. He values it for the pet and for early money. The Lil' Creator pet is easy to obtain with an alt in about 30 hours, and he placed it in D tier in 2022 for its giant-mouthed, doofy look[^vwCm9NKJhRE-60]. By 2025 he calls Soul Wars very good money for an ironman, with the runes, gems and ores in the crates useful early on beyond raw gp[^Jktw_nf9kKs-241].
+
+His standard approach, laid out in 2022, is a two-account method that earns the pet and zeal without playing real games[^2tfcS0k0OF4-0]. The 2022 guide was still accurate in 2024, the only change being that a salve amulet now works[^_cIv_pRhm9U-2520].
 
 [TOC]
 
 ## Requirements
+Soul Wars requires 500 total level, which is why fresh ironmen go there at that level for early gp[^Jktw_nf9kKs-185].
 
-* The main account only needs high Ranged and Agility for this Soul Wars method; having Elite Void unlocked is also helpful.[^2tfcS0k0OF4-33]
-* The alt needs at least 75 Ranged to wield a blowpipe and ideally Rigor unlocked; Elite Void is better than regular ranged armour on the alt but not necessary.[^2tfcS0k0OF4-33]
-* The hardest requirement for the Soul Wars method is a locator orb from Dragon Slayer II; a Dwarven rock cake can technically be used instead but is much more annoying.[^2tfcS0k0OF4-33]
-* Soul Wars requires 500 total level, which Gnomonkey says is why fresh ironmen go there at 500 total level for early gp.[^Jktw_nf9kKs-185]
+The two-account method has these requirements:
+* **Main:** high Ranged and Agility. Elite Void is helpful[^2tfcS0k0OF4-33].
+* **Alt:** at least 75 Ranged to wield a blowpipe, ideally Rigor unlocked. Elite Void is better than regular ranged armour here but not necessary[^2tfcS0k0OF4-33].
+* **Locator orb** from Dragon Slayer II, the hardest requirement. A Dwarven rock cake can technically be used instead but is much more annoying[^2tfcS0k0OF4-33].
 
-## Methods
+## Gear and inventory
+* The main wears max Ranged gear with Void and wields a dark bow with dragon arrows. He wears Graceful boots and an Archer's ring because he has no Ring of Endurance or Pegasian boots[^2tfcS0k0OF4-63].
+* The main's inventory holds a blowpipe and the runes for telekinetic grab. The alt's inventory is the same with only a blowpipe, plus the locator orb[^2tfcS0k0OF4-63].
+* An Ava's assembler on the alt saves more ammo, though an accumulator works fine with a little ammo lost[^2tfcS0k0OF4-33].
+* Dragon darts on both accounts make the method more lenient. Amethyst darts are perfectly fine to save money[^2tfcS0k0OF4-90].
 
-* Gnomonkey's Soul Wars method gets the pet without playing real games, using a main and an alt account together (DOLO), and provides 1.2m gp per hour.[^2tfcS0k0OF4-0]
-* Gnomonkey's main wears max Ranged with Void and wields a dark bow with dragon arrows, wearing Graceful boots and an Archer's ring because he has no Ring of Endurance and Pegasian boots.[^2tfcS0k0OF4-63]
-* The main's inventory holds a blowpipe and runes for telekinetic grab; the alt's inventory is the same but with only a blowpipe, plus the locator orb.[^2tfcS0k0OF4-63]
-* The easiest way to get to Soul Wars is the minigame teleport; the portal is located in Edgeville.[^2tfcS0k0OF4-90]
-* The method uses the clan portal: each account joins its own clan, both enter the Eastern portal surrounded by lava, then right-click challenge on both accounts and accept to start the game.[^2tfcS0k0OF4-120]
-* On both accounts grab multiple potions from the lobby table, which provide prayer and a near-overload stat boost so prayer is not a worry; use the locator orb to move the alt down as you go.[^2tfcS0k0OF4-120]
-* Each account heads to opposite sides of the north or south soul obelisk and kills ghosts; the goal is 28 to 32 fragments combined, usually 8 to 12 on the main and 16 on the alt.[^2tfcS0k0OF4-151]
-* Once the main has roughly enough fragments, run it to the centre obelisk while placing the alt within range of the main's dark bow; do not walk past the ruins on the main, since standing in the area caps the obelisk.[^2tfcS0k0OF4-151]
-* Spec the alt with the main's dark bow (a guaranteed minimum 16 damage with ten tile range); when the alt dies, telegrab the fragments it collected from across the river, wait near the obelisk for it to be capped (shown by the colour change and the bar filling at top left), then sacrifice the fragments.[^2tfcS0k0OF4-184]
-* After capping, run to the alt's base: click the portal on the alt and get ready to exit, while the main runs to the avatar and blowpipes it for a minimum damage contribution of roughly 300 (a bit less depending on fragments deposited).[^2tfcS0k0OF4-210]
-* Gnomonkey did a lot of Soul Wars to get the GP and supplies needed for the Fight Caves, as the group hardcore had no GP.[^_cIv_pRhm9U-0]
+## Setup
+1. Use the minigame teleport to reach Soul Wars[^2tfcS0k0OF4-90].
+2. On the first visit, use the Ava's device on both accounts on Nomad. The Soul Wars cape is forced on in the minigame, but this still allows the device to save ammo[^2tfcS0k0OF4-90].
+3. On both accounts set quick prayers to protect from melee, preserve and Rigor, turn on accept aid and turn on auto-retaliate[^2tfcS0k0OF4-90].
+4. Each account joins its own clan, then both enter the Eastern portal surrounded by lava. Right-click challenge on both accounts and accept to start the game[^2tfcS0k0OF4-120].
+5. Grab multiple potions from the lobby table on both accounts. They provide prayer and a near-overload stat boost, so prayer is not a worry. The locator orb is used to move the alt down as the game goes on[^2tfcS0k0OF4-120].
 
-## Stats and numbers
+## The method
+The method is rigid and requires playing two accounts at once, which takes getting used to, but it is fairly lenient timing-wise[^2tfcS0k0OF4-120].
 
-* Each Soul Wars game of this method takes 2 minutes 50 seconds, and a fast player can start the next game within 10 seconds; at about 3 minutes and 19 zeal per game this comes to 380 zeal per hour.[^2tfcS0k0OF4-237]
-* The Soul Wars cape costs 2,500 zeal and gives +8 prayer bonus, by far best in slot for prayer bonus according to Gnomonkey.[^2tfcS0k0OF4-267]
-* Opening the final Soul Wars crates gave loot including bolts, around 30k GP, soul runes, rune arrows and adamant bolts, which he describes as a very solid first ten.[^_cIv_pRhm9U-2866]
-* Soul Wars reward crates contain a wide variety of loot such as raw fish, runes, bolts, arrows, coal, mithril, rubies, diamonds, soul runes, rune armour and rune ore, plus rare dragon gear and coins.[^Jktw_nf9kKs-212]
+1. Each account heads to opposite sides of the north or south soul obelisk and kills ghosts. The goal is 28 to 32 fragments combined, usually 8 to 12 on the main and 16 on the alt[^2tfcS0k0OF4-151].
+2. Once the main has roughly enough fragments, it runs to the centre obelisk while the alt is placed within range of the main's dark bow. The main must not walk past the ruins, since standing in that area caps the obelisk[^2tfcS0k0OF4-151].
+3. The alt is specced with the main's dark bow, a guaranteed minimum of 16 damage at ten tile range. When the alt dies, the main telegrabs the fragments it collected from across the river, waits near the obelisk for it to be capped (shown by the colour change and the bar filling at top left), then sacrifices the fragments[^2tfcS0k0OF4-184].
+4. After capping, the alt clicks its portal and gets ready to exit, while the main runs to the avatar and blowpipes it for a minimum damage contribution of roughly 300, a bit less depending on fragments deposited[^2tfcS0k0OF4-210].
+5. The clock must be watched carefully. As soon as it reaches 1210 the alt leaves and forfeits, which ends the match and awards 19 zeal if the criteria are met[^2tfcS0k0OF4-210].
 
-## Tips
+Each game takes 2 minutes 50 seconds, and a fast player can start the next game within 10 seconds. At about 3 minutes and 19 zeal per game this comes to 380 zeal per hour[^2tfcS0k0OF4-237]. Gnomonkey puts the method at 1.2m gp per hour[^2tfcS0k0OF4-0].
 
-* An Ava's assembler on the alt saves more ammo at Soul Wars, though an accumulator works fine with a little ammo lost.[^2tfcS0k0OF4-33]
-* On the first visit, use your Ava's device on both accounts on Nomad; you are forced to wear a Soul Wars cape in the minigame, but this allows the device to save ammo.[^2tfcS0k0OF4-90]
-* On both accounts set quick prayers to protect from melee, preserve and Rigor, turn on accept aid, and turn on auto-retaliate.[^2tfcS0k0OF4-90]
-* Dragon darts on both accounts make the Soul Wars method more lenient, but amethyst darts are perfectly fine if you want to save money.[^2tfcS0k0OF4-90]
-* The method is rigid and requires playing two accounts at once, which takes getting used to, but it is fairly lenient timing-wise.[^2tfcS0k0OF4-120]
-* Watch the clock carefully: as soon as it reaches 1210 the alt leaves and forfeits the game, which ends the match and awards 19 zeal if the criteria are met.[^2tfcS0k0OF4-210]
-* He has an old Soul Wars guide that is still accurate, with the only change being that a salve amulet now works.[^_cIv_pRhm9U-2520]
+## Soul Wars cape
+The cape costs 2,500 zeal and gives +8 prayer bonus, by far the best in slot for prayer bonus[^2tfcS0k0OF4-267]. Gnomonkey would not bother getting it: it is a 6.5 hour grind for +2 prayer bonus over the Ardougne cloak 4, and in most cases where a prayer bonus cape helps, a hitpoints cape helps more[^2tfcS0k0OF4-267].
 
-## Gnomonkey's opinion
+## Reward crates
+Reward crates contain a wide variety of loot: raw fish, runes, bolts, arrows, coal, mithril, rubies, diamonds, soul runes, rune armour and rune ore, plus rare dragon gear and coins[^Jktw_nf9kKs-212]. In 2024 the last crates of a long session gave bolts, around 30k gp, soul runes, rune arrows and adamant bolts, which he called a very solid first ten[^_cIv_pRhm9U-2866].
 
-* Gnomonkey says the Soul Wars pet (Lil' Creator) is funny looking, a giant-mouthed doofy pet, and is easy to get with an alt in about 30 hours, so he places it in D tier.[^vwCm9NKJhRE-60]
-* Gnomonkey says he was never fond of Jagex adding Soul Wars, especially with a pet tied to it, and that minigames are not his thing but pets are.[^2tfcS0k0OF4-0]
-* Gnomonkey would not bother getting the Soul Wars cape because it is a 6.5 hour grind for +2 prayer bonus over the Ardougne cloak 4, and in most cases where a prayer bonus cape helps a hitpoints cape helps more.[^2tfcS0k0OF4-267]
-* Gnomonkey says Soul Wars is very good money for an ironman and the useful runes, gems and ores help early on, even besides raw gp.[^Jktw_nf9kKs-241]
-
-## Events
-
-* Gnomonkey planned a brief Soul Wars warm-up before the Fight Caves, but gifted subs each added or removed crates to his total, turning it into a long session (Sub Wars).[^_cIv_pRhm9U-2349]
-* Gifted subs pushed the Soul Wars crate target up through 20, 30, 50 and 100 crates, with some gifts subtracting from the total, until about 30 crates remained near the end.[^_cIv_pRhm9U-2491]
+## Sub Wars (2024)
+In 2024 Gnomonkey did a lot of Soul Wars to get the gp and supplies needed for the Fight Caves, since the group hardcore had no gp[^_cIv_pRhm9U-0]. He planned only a brief warm-up, but gifted subs each added or removed crates from his total, turning it into a long session called Sub Wars[^_cIv_pRhm9U-2349]. The crate target rose through 20, 30, 50 and 100, with some gifts subtracting from the total, until about 30 crates remained near the end[^_cIv_pRhm9U-2491].
 
 ## Revision history
-
 | Date | Video | Change |
 |---|---|---|
-| 2025-04-03 | [CASTLE WARS  - The New Bot Farm (OSRS)](videos/2025-04-03_Jktw_nf9kKs.md) | Added: 3 statements (opinion, requirement, stat) |
-| 2024-08-08 | [HIGH RISK PVP FIRECAPE ON GHCIM (OSRS)](videos/2024-08-08__cIv_pRhm9U.md) | Added: 5 statements (event, method, stat, tip) |
-| 2022-04-05 | [Soul Wars DOLO Pet Guide (1.2M GP/HR) OSRS](videos/2022-04-05_2tfcS0k0OF4.md) | Added: 23 statements (method, opinion, requirement, stat, tip) |
-| 2022-03-12 | [Pet Hunter Tier List (Bosses, Skilling, Etc) OSRS](videos/2022-03-12_vwCm9NKJhRE.md) | Page created: 1 statement (opinion) |
+| 2025-04-03 | [CASTLE WARS  - The New Bot Farm (OSRS)](videos/2025-04-03_Jktw_nf9kKs.md) | Added the 500 total level requirement, crate loot and opinion that it is very good money for ironmen. |
+| 2024-08-08 | [HIGH RISK PVP FIRECAPE ON GHCIM (OSRS)](videos/2024-08-08__cIv_pRhm9U.md) | Added the 2024 Sub Wars session and note that the old guide is still accurate (salve amulet now works). |
+| 2022-04-05 | [Soul Wars DOLO Pet Guide (1.2M GP/HR) OSRS](videos/2022-04-05_2tfcS0k0OF4.md) | Added the main and alt DOLO method with requirements, setup, game steps, 1.2m gp/hr and 380 zeal/hr; added opinion on the Soul Wars cape. |
+| 2022-03-12 | [Pet Hunter Tier List (Bosses, Skilling, Etc) OSRS](videos/2022-03-12_vwCm9NKJhRE.md) | Page created: Lil' Creator pet placed in D tier, about 30 hours with an alt. |
 ## See also
 
 * [TzHaar Fight Cave](TzHaar_Fight_Cave.md)
@@ -84,23 +81,23 @@ This article is compiled from the videos of [GnomonkeyRS](https://www.youtube.co
 ## References
 
 ///Footnotes Go Here///
-[^2tfcS0k0OF4-33]: [Soul Wars DOLO Pet Guide (1.2M GP/HR) OSRS](videos/2022-04-05_2tfcS0k0OF4.md), 2022-04-05. [▶ 0:33](https://youtu.be/2tfcS0k0OF4?t=33)
-[^Jktw_nf9kKs-185]: [CASTLE WARS  - The New Bot Farm (OSRS)](videos/2025-04-03_Jktw_nf9kKs.md), 2025-04-03. [▶ 3:05](https://youtu.be/Jktw_nf9kKs?t=185)
-[^2tfcS0k0OF4-0]: [Soul Wars DOLO Pet Guide (1.2M GP/HR) OSRS](videos/2022-04-05_2tfcS0k0OF4.md), 2022-04-05. [▶ 0:00](https://youtu.be/2tfcS0k0OF4)
-[^2tfcS0k0OF4-63]: [Soul Wars DOLO Pet Guide (1.2M GP/HR) OSRS](videos/2022-04-05_2tfcS0k0OF4.md), 2022-04-05. [▶ 1:03](https://youtu.be/2tfcS0k0OF4?t=63)
 [^2tfcS0k0OF4-90]: [Soul Wars DOLO Pet Guide (1.2M GP/HR) OSRS](videos/2022-04-05_2tfcS0k0OF4.md), 2022-04-05. [▶ 1:30](https://youtu.be/2tfcS0k0OF4?t=90)
+[^Jktw_nf9kKs-185]: [CASTLE WARS  - The New Bot Farm (OSRS)](videos/2025-04-03_Jktw_nf9kKs.md), 2025-04-03. [▶ 3:05](https://youtu.be/Jktw_nf9kKs?t=185)
+[^vwCm9NKJhRE-60]: [Pet Hunter Tier List (Bosses, Skilling, Etc) OSRS](videos/2022-03-12_vwCm9NKJhRE.md), 2022-03-12. [▶ 1:00](https://youtu.be/vwCm9NKJhRE?t=60)
+[^2tfcS0k0OF4-267]: [Soul Wars DOLO Pet Guide (1.2M GP/HR) OSRS](videos/2022-04-05_2tfcS0k0OF4.md), 2022-04-05. [▶ 4:27](https://youtu.be/2tfcS0k0OF4?t=267)
+[^2tfcS0k0OF4-237]: [Soul Wars DOLO Pet Guide (1.2M GP/HR) OSRS](videos/2022-04-05_2tfcS0k0OF4.md), 2022-04-05. [▶ 3:57](https://youtu.be/2tfcS0k0OF4?t=237)
+[^2tfcS0k0OF4-0]: [Soul Wars DOLO Pet Guide (1.2M GP/HR) OSRS](videos/2022-04-05_2tfcS0k0OF4.md), 2022-04-05. [▶ 0:00](https://youtu.be/2tfcS0k0OF4)
+[^Jktw_nf9kKs-241]: [CASTLE WARS  - The New Bot Farm (OSRS)](videos/2025-04-03_Jktw_nf9kKs.md), 2025-04-03. [▶ 4:01](https://youtu.be/Jktw_nf9kKs?t=241)
+[^_cIv_pRhm9U-2520]: [HIGH RISK PVP FIRECAPE ON GHCIM (OSRS)](videos/2024-08-08__cIv_pRhm9U.md), 2024-08-08. [▶ 42:00](https://youtu.be/_cIv_pRhm9U?t=2520)
+[^2tfcS0k0OF4-33]: [Soul Wars DOLO Pet Guide (1.2M GP/HR) OSRS](videos/2022-04-05_2tfcS0k0OF4.md), 2022-04-05. [▶ 0:33](https://youtu.be/2tfcS0k0OF4?t=33)
+[^2tfcS0k0OF4-63]: [Soul Wars DOLO Pet Guide (1.2M GP/HR) OSRS](videos/2022-04-05_2tfcS0k0OF4.md), 2022-04-05. [▶ 1:03](https://youtu.be/2tfcS0k0OF4?t=63)
 [^2tfcS0k0OF4-120]: [Soul Wars DOLO Pet Guide (1.2M GP/HR) OSRS](videos/2022-04-05_2tfcS0k0OF4.md), 2022-04-05. [▶ 2:00](https://youtu.be/2tfcS0k0OF4?t=120)
 [^2tfcS0k0OF4-151]: [Soul Wars DOLO Pet Guide (1.2M GP/HR) OSRS](videos/2022-04-05_2tfcS0k0OF4.md), 2022-04-05. [▶ 2:31](https://youtu.be/2tfcS0k0OF4?t=151)
 [^2tfcS0k0OF4-184]: [Soul Wars DOLO Pet Guide (1.2M GP/HR) OSRS](videos/2022-04-05_2tfcS0k0OF4.md), 2022-04-05. [▶ 3:04](https://youtu.be/2tfcS0k0OF4?t=184)
 [^2tfcS0k0OF4-210]: [Soul Wars DOLO Pet Guide (1.2M GP/HR) OSRS](videos/2022-04-05_2tfcS0k0OF4.md), 2022-04-05. [▶ 3:30](https://youtu.be/2tfcS0k0OF4?t=210)
-[^_cIv_pRhm9U-0]: [HIGH RISK PVP FIRECAPE ON GHCIM (OSRS)](videos/2024-08-08__cIv_pRhm9U.md), 2024-08-08. [▶ 0:00](https://youtu.be/_cIv_pRhm9U)
-[^2tfcS0k0OF4-237]: [Soul Wars DOLO Pet Guide (1.2M GP/HR) OSRS](videos/2022-04-05_2tfcS0k0OF4.md), 2022-04-05. [▶ 3:57](https://youtu.be/2tfcS0k0OF4?t=237)
-[^2tfcS0k0OF4-267]: [Soul Wars DOLO Pet Guide (1.2M GP/HR) OSRS](videos/2022-04-05_2tfcS0k0OF4.md), 2022-04-05. [▶ 4:27](https://youtu.be/2tfcS0k0OF4?t=267)
-[^_cIv_pRhm9U-2866]: [HIGH RISK PVP FIRECAPE ON GHCIM (OSRS)](videos/2024-08-08__cIv_pRhm9U.md), 2024-08-08. [▶ 47:46](https://youtu.be/_cIv_pRhm9U?t=2866)
 [^Jktw_nf9kKs-212]: [CASTLE WARS  - The New Bot Farm (OSRS)](videos/2025-04-03_Jktw_nf9kKs.md), 2025-04-03. [▶ 3:32](https://youtu.be/Jktw_nf9kKs?t=212)
-[^_cIv_pRhm9U-2520]: [HIGH RISK PVP FIRECAPE ON GHCIM (OSRS)](videos/2024-08-08__cIv_pRhm9U.md), 2024-08-08. [▶ 42:00](https://youtu.be/_cIv_pRhm9U?t=2520)
-[^vwCm9NKJhRE-60]: [Pet Hunter Tier List (Bosses, Skilling, Etc) OSRS](videos/2022-03-12_vwCm9NKJhRE.md), 2022-03-12. [▶ 1:00](https://youtu.be/vwCm9NKJhRE?t=60)
-[^Jktw_nf9kKs-241]: [CASTLE WARS  - The New Bot Farm (OSRS)](videos/2025-04-03_Jktw_nf9kKs.md), 2025-04-03. [▶ 4:01](https://youtu.be/Jktw_nf9kKs?t=241)
+[^_cIv_pRhm9U-2866]: [HIGH RISK PVP FIRECAPE ON GHCIM (OSRS)](videos/2024-08-08__cIv_pRhm9U.md), 2024-08-08. [▶ 47:46](https://youtu.be/_cIv_pRhm9U?t=2866)
+[^_cIv_pRhm9U-0]: [HIGH RISK PVP FIRECAPE ON GHCIM (OSRS)](videos/2024-08-08__cIv_pRhm9U.md), 2024-08-08. [▶ 0:00](https://youtu.be/_cIv_pRhm9U)
 [^_cIv_pRhm9U-2349]: [HIGH RISK PVP FIRECAPE ON GHCIM (OSRS)](videos/2024-08-08__cIv_pRhm9U.md), 2024-08-08. [▶ 39:09](https://youtu.be/_cIv_pRhm9U?t=2349)
 [^_cIv_pRhm9U-2491]: [HIGH RISK PVP FIRECAPE ON GHCIM (OSRS)](videos/2024-08-08__cIv_pRhm9U.md), 2024-08-08. [▶ 41:31](https://youtu.be/_cIv_pRhm9U?t=2491)
 

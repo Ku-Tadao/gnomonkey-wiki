@@ -135,8 +135,8 @@ He called Yama hard with a killer enrage but more doable than expected and genui
 * [Judge of Yama](Judge_of_Yama.md)
 * [Yama: budget setup](Yama_budget_setup.md)
 * [Emberlight](Emberlight.md)
-* [Opinion: Quality-of-life updates](Opinion_Quality-of-life_updates.md)
-* [Update: Yama contracts](Update_Yama_contracts.md)
+* [Mark of Darkness](Mark_of_Darkness.md)
+* [Yama glyphs](Yama_glyphs.md)
 
 ## References
 

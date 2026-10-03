@@ -11,76 +11,54 @@ This article is compiled from the videos of [GnomonkeyRS](https://www.youtube.co
 | | |
 |---|---|
 | **Type** | Item |
+| **Slot** | Body, legs and other armour pieces (set) |
+| **Requirements** | 72 Hunter for the full set (57 for the legs)[^Mg9hcqcFC1U-1596] |
+| **Cost** | About 10k[^17ynF_0ltPc-1599] |
+| **Bonuses** | Strength, stab and 27 ranged[^Mg9hcqcFC1U-93][^Mg9hcqcFC1U-185] |
+| **Best used with** | [Osmumten's fang](Osmumten's_fang.md), [Twisted bow](Twisted_bow.md)[^WvmEY9v6AnI-545][^YizVhRWXnxs-0] |
+| **Added** | Alongside the Coliseum, to the Hunter Guild[^Mg9hcqcFC1U-93] |
 | **Videos** | 5 (first 2024-05-18, latest 2024-06-27) |
 | **Main source** | [500 TOA Teaching Stream (Monkey Room Update) OSRS](videos/2024-05-30_Mg9hcqcFC1U.md) |
 </div>
 
-**Mixed hide armour** is an item topic that Gnomonkey covers in 5 videos between 2024-05-18 and 2024-06-27. This article is a stub: his statements are grouped by type, repeated ones merged.
+**Mixed hide armour** is Hunter armour costing about 10k that gives both strength and stab bonus, which Gnomonkey considers very good[^17ynF_0ltPc-1599]. He describes the body as effectively Bandos but with stab and ranged bonus, and says almost every budget setup now includes it[^WvmEY9v6AnI-515]. Added alongside the Coliseum at the Hunter Guild, it is known to few players[^Mg9hcqcFC1U-93]. Over May and June 2024 his view grew from calling himself a big proponent to calling it overpowered and the new meta for first 500s in Tombs of Amascut[^WvmEY9v6AnI-515][^Mg9hcqcFC1U-0][^17ynF_0ltPc-2066].
 
 [TOC]
 
-## Methods
+## Stats and requirements
 
-* Osmumten's fang rolls accuracy twice, so strength bonus matters less for it while stab bonus matters a lot; he likens the fang to a mini Shadow that rolls stab twice.[^Mg9hcqcFC1U-124]
-* Because Mixed hide replaces the ranged armour switch, Gnomonkey brings eight restore potions in a 500, up from four or five in his previous teaching stream, and says this makes the 500 much more relaxed.[^Mg9hcqcFC1U-215]
+The chestplate carries the strength bonus while the legs have only stab bonus; his full setup showed a stab bonus of 137[^Mg9hcqcFC1U-93]. The set has a 27 ranged bonus (hybrid ranged armour)[^Mg9hcqcFC1U-185]. Ranged defence is very low, so ranged attacks in Tombs of Amascut hit hard, but defence matters in very few rooms there[^Mg9hcqcFC1U-705]. The legs need 57 Hunter and the full set 72 Hunter; he first thought it also needed 72 Crafting, then learned from chat that the crafting can be paid for, so it is effectively just 72 Hunter[^Mg9hcqcFC1U-1596].
 
-## Stats and numbers
+## Why it works with the Osmumten's fang
 
-* Mixed hide armour provides both strength bonus and stab bonus; Gnomonkey says the chestplate has the strength bonus while the legs have only stab bonus, and his full setup showed a stab bonus of 137.[^Mg9hcqcFC1U-93]
-* In Gnomonkey's DPS calculator against Ba-Ba at raid level 500, path level 2, with no defence drained, Mixed hide had 1.5% better accuracy than Bandos and killed half a second faster; Torva was still about two seconds faster than Mixed hide.[^Mg9hcqcFC1U-152]
-* Mixed hide has a 27 ranged bonus (hybrid ranged armour), so Gnomonkey wears it instead of Masori in Tombs of Amascut, saving two inventory slots for extra potions.[^Mg9hcqcFC1U-185]
-* Mixed hide has very low ranged defence, so he gets hit hard by ranged attacks in Tombs of Amascut, but that defence matters in very few rooms there.[^Mg9hcqcFC1U-705]
-* The Mixed hide legs need 57 Hunter and the full set needs 72 Hunter; he first thought it also needed 72 Crafting, then learned from chat that you can pay for the crafting, so it is effectively just 72 Hunter.[^Mg9hcqcFC1U-1596]
-* His calc shows Mixed hide gives better DPS than Bandos down to 300 invocation level, even if you carry a Masori switch for money.[^Mg9hcqcFC1U-1684]
-* Gnomonkey describes Mixed hide armour as Hunter armour that costs about 10k and has strength bonus and stab bonus, both of which he says are very good.[^17ynF_0ltPc-1599]
-* Mixed hide loses one max hit behind Bandos, but beats Bandos with a fang against something with very high stab defence.[^17ynF_0ltPc-1659]
-* In the budget run Gnomonkey had seven and a half restores, double what he normally takes.[^17ynF_0ltPc-2274]
-* Gnomonkey finished the Mixed hide budget run with two restores left over.[^17ynF_0ltPc-2573]
-* Mixed hide is one max hit lower than Bandos at Nex but its stab bonus gives better DPS than Bandos there.[^rnLS-oZr3wU-87]
+The Osmumten's fang rolls accuracy twice, so strength bonus matters less for it while stab bonus matters a lot; he likens the fang to a mini Shadow that rolls stab twice[^Mg9hcqcFC1U-124]. Mixed hide is essentially better Bandos for use with the fang[^Mg9hcqcFC1U-0]. The strength bonus is not equal to Bandos, so it loses one max hit behind Bandos, but beats Bandos with a fang against something with very high stab defence[^WvmEY9v6AnI-545][^17ynF_0ltPc-1659].
 
-## Tips
+| Comparison | Result | Source |
+|---|---|---|
+| Ba-Ba, raid level 500, path level 2, no defence drained | 1.5% better accuracy than Bandos and a kill half a second faster; [Torva armour](Torva_armour.md) still about two seconds faster |[^Mg9hcqcFC1U-152] |
+| Most bosses with the fang, including Vorkath | Mixed hide beats Bandos; only rare cases where Bandos is slightly better |[^Mg9hcqcFC1U-185] |
+| Down to 300 invocation level (calc) | Better DPS than Bandos, even with a Masori switch for money |[^Mg9hcqcFC1U-1684] |
+| Nex | One max hit lower than Bandos, but stab bonus gives better DPS; he calculated Eclipse moon is not a max hit, so he wants Mixed hide there |[^rnLS-oZr3wU-87][^rnLS-oZr3wU-336] |
 
-* The downside of Mixed hide is awkward switching: with two pieces of armour used on both sides, Gnomonkey says he has to swap back into the ranged setup first to keep his inventory set up properly.[^Mg9hcqcFC1U-370]
-* Mixed hide takes more damage from Akkha's hits, but Gnomonkey says this is fine because he butterflies Akkha and takes almost no damage.[^Mg9hcqcFC1U-1050]
-* He calculated Eclipse moon and it is not a max hit, so he wants Mixed hide for its stab bonus at Nex.[^rnLS-oZr3wU-336]
+He concludes that fang users should just wear Mixed hide instead of Bandos, calling Bandos effectively dead content for them[^Mg9hcqcFC1U-185][^Mg9hcqcFC1U-1718]. It is the stronger option over Bandos and over Torva for getting a completion rather than for speed GP, with DPS between the two[^Mg9hcqcFC1U-1596]. Against Torva, he notes the latter helps face-tank Kephri's hatchlings and zero prayer, while Mixed hide allows about six more Sanfew[^17ynF_0ltPc-2100]. In June 2024 he added that Mixed hide is for Twisted bow setups and Moons gear for Bofa setups: with a Twisted bow it is dramatically better than Bandos and better than a Blue Moon hybrid, but with Blue Moon's strength bonus it can still be better to hybridise in some cases[^YizVhRWXnxs-0][^YizVhRWXnxs-574]. He accepts losing a few max hits on Core (Kephri-room) as still worth it[^YizVhRWXnxs-612].
 
-## Gnomonkey's opinion
+It is not good without the fang because it is stab armour with negative bonuses otherwise; he would not use it below 300 invocations or with the Bow of Faerdhinen[^Mg9hcqcFC1U-1684].
 
-* Gnomonkey describes mixed hide body as effectively Bandos but with stab bonus and ranged bonus, and says almost every budget setup now includes it.[^WvmEY9v6AnI-515]
-* Gnomonkey describes himself as a big proponent of mixed hide.[^WvmEY9v6AnI-515]
-* Gnomonkey says that as long as you are using Osmumten's fang, mixed hide is really good, though its strength bonus is not the same as Bandos.[^WvmEY9v6AnI-545]
-* Gnomonkey calls Mixed hide armour the new meta setup for a Tombs of Amascut raid level 500 and says it is overpowered; he says it is essentially better Bandos for use with Osmumten's fang and also gives ranged stats.[^Mg9hcqcFC1U-0]
-* Gnomonkey says that across almost every boss, Mixed hide with the fang beats Bandos with the fang, including at Vorkath, and that anyone using Bandos with a fang should switch to Mixed hide; he notes only rare cases where Bandos is slightly better.[^Mg9hcqcFC1U-185]
-* Gnomonkey calls Mixed hide the stronger option over Bandos and over Torva for getting a completion rather than for speed GP, and says it slots in DPS between Bandos and Torva.[^Mg9hcqcFC1U-1596]
-* Gnomonkey says Mixed hide is not good without Osmumten's fang because it is stab armour with negative bonuses otherwise, and he would not use it below 300 invocations or with the Bow of Faerdhinen.[^Mg9hcqcFC1U-1684]
-* Gnomonkey says you should just wear Mixed hide instead of Bandos when using a fang, calling Bandos effectively dead content for fang users.[^Mg9hcqcFC1U-1718]
-* Gnomonkey says Mixed hide is best in slot below Masori for a budget setup and better than Karil's in every way, describing it as black dragonhide with strength bonus and stab bonus.[^17ynF_0ltPc-1599]
-* Gnomonkey says Mixed hide might genuinely be better than Masori for a first 500 because you get so many restores.[^17ynF_0ltPc-2032]
-* Gnomonkey says he thinks Mixed hide is the new meta for first 500s, better than Masori, and notes it is the only armour set that matches the Quiver.[^17ynF_0ltPc-2066]
-* Gnomonkey says Mixed hide has stab, strength and ranged bonus and lets you carry far more Sanfew serums; he says Torva helps face-tank Kephri's hatchlings and zero prayer, but Mixed hide lets him take about six more Sanfew.[^17ynF_0ltPc-2100]
-* After first thinking the lower defence of Mixed hide made Akkha too dangerous, Gnomonkey concluded the Mixed hide setup made the 500 feel like a 150.[^17ynF_0ltPc-2214]
-* Gnomonkey says Mixed hide is the meta for sub-75 tier gear in Tombs of Amascut.[^17ynF_0ltPc-2301]
-* Gnomonkey says mixed hide is for Twisted bow setups and Moons gear is for Bofa setups; if you have a Twisted bow, mixed hide is dramatically better than Bandos and better than a Blue Moon hybrid.[^YizVhRWXnxs-0]
-* Gnomonkey says mixed hide is directly better than Bandos, but one is better off hybriding with Blue Moon in some cases because Blue Moon has strength bonus.[^YizVhRWXnxs-574]
-* Gnomonkey acknowledges you lose a few max hits on Core (Kephri-room) with mixed hide but says it is still worth it.[^YizVhRWXnxs-612]
+## Use in Tombs of Amascut
 
-## Events
+Because Mixed hide replaces the ranged armour switch, he wears it instead of Masori, saving two inventory slots for extra potions[^Mg9hcqcFC1U-185]. He brings eight restore potions in a 500, up from four or five in his previous teaching stream, which makes the 500 much more relaxed[^Mg9hcqcFC1U-215]. In his budget run he had seven and a half restores, double his normal amount, and finished with two left over[^17ynF_0ltPc-2274][^17ynF_0ltPc-2573]. After first thinking the lower defence made Akkha too dangerous, he concluded the setup made the 500 feel like a 150, and that it is fine because he butterflies Akkha and takes almost no damage[^Mg9hcqcFC1U-1050][^17ynF_0ltPc-2214]. He considers it best in slot below Masori for a budget setup, better than Karil's in every way, the only set that matches the Quiver, and possibly better than Masori for a first 500 because of the restores; it is the meta for sub-75 tier gear in the raid[^17ynF_0ltPc-1599][^17ynF_0ltPc-2032][^17ynF_0ltPc-2066][^17ynF_0ltPc-2301].
 
-* In the video description Gnomonkey says Mixed hide is a new item that replaces the Karil's plus Bandos or melee setups from his earlier guides, letting you stack supplies while doing outrageous damage compared with even Bandos.[^rnLS-oZr3wU-0]
-
-## Trivia
-
-* Mixed hide armour was added alongside the Coliseum, to the Hunter Guild, and that few players know about it.[^Mg9hcqcFC1U-93]
+The downside is awkward switching: with two armour pieces used on both sides, he has to swap back into the ranged setup first to keep his inventory set up properly[^Mg9hcqcFC1U-370].
 
 ## Revision history
 
 | Date | Video | Change |
 |---|---|---|
-| 2024-06-27 | [TOA 500 BUDGET Meta (OSRS)](videos/2024-06-27_YizVhRWXnxs.md) | Added: 3 statements (opinion) |
-| 2024-06-15 | [HOW TO DUO Budget Nex Guide (OSRS)](videos/2024-06-15_rnLS-oZr3wU.md) | Added: 3 statements (event, stat, tip) |
-| 2024-06-01 | [WIKI GUIDES - TOA 500 FINALE (OSRS)](videos/2024-06-01_17ynF_0ltPc.md) | Added: 10 statements (opinion, stat) |
-| 2024-05-30 | [500 TOA Teaching Stream (Monkey Room Update) OSRS](videos/2024-05-30_Mg9hcqcFC1U.md) | Added: 16 statements (method, opinion, stat, tip, trivia) |
-| 2024-05-18 | [WIKI GUIDES - VORKATH (OSRS)](videos/2024-05-18_WvmEY9v6AnI.md) | Page created: 3 statements (opinion) |
+| 2024-06-27 | [TOA 500 BUDGET Meta (OSRS)](videos/2024-06-27_YizVhRWXnxs.md) | Added Twisted bow versus Bofa distinction and Blue Moon hybrid caveat. |
+| 2024-06-15 | [HOW TO DUO Budget Nex Guide (OSRS)](videos/2024-06-15_rnLS-oZr3wU.md) | Added Nex notes (one max hit lower, better stab DPS); replaces Karil's plus Bandos or melee setups from earlier guides. |
+| 2024-06-01 | [WIKI GUIDES - TOA 500 FINALE (OSRS)](videos/2024-06-01_17ynF_0ltPc.md) | Added cost, best-in-slot-below-Masori claim and the 500-feels-like-a-150 conclusion. |
+| 2024-05-30 | [500 TOA Teaching Stream (Monkey Room Update) OSRS](videos/2024-05-30_Mg9hcqcFC1U.md) | Added Tombs of Amascut 500 meta claim, stats, requirements, DPS calculations and switching downside. |
+| 2024-05-18 | [WIKI GUIDES - VORKATH (OSRS)](videos/2024-05-18_WvmEY9v6AnI.md) | Page created: Bandos comparison and budget-setup role. |
 ## See also
 
 * [Wiki Guides challenge series](Wiki_Guides_challenge_series.md)
@@ -93,35 +71,34 @@ This article is compiled from the videos of [GnomonkeyRS](https://www.youtube.co
 ## References
 
 ///Footnotes Go Here///
-[^Mg9hcqcFC1U-124]: [500 TOA Teaching Stream (Monkey Room Update) OSRS](videos/2024-05-30_Mg9hcqcFC1U.md), 2024-05-30. [▶ 2:04](https://youtu.be/Mg9hcqcFC1U?t=124)
-[^Mg9hcqcFC1U-215]: [500 TOA Teaching Stream (Monkey Room Update) OSRS](videos/2024-05-30_Mg9hcqcFC1U.md), 2024-05-30. [▶ 3:35](https://youtu.be/Mg9hcqcFC1U?t=215)
-[^Mg9hcqcFC1U-93]: [500 TOA Teaching Stream (Monkey Room Update) OSRS](videos/2024-05-30_Mg9hcqcFC1U.md), 2024-05-30. [▶ 1:33](https://youtu.be/Mg9hcqcFC1U?t=93)
-[^Mg9hcqcFC1U-152]: [500 TOA Teaching Stream (Monkey Room Update) OSRS](videos/2024-05-30_Mg9hcqcFC1U.md), 2024-05-30. [▶ 2:32](https://youtu.be/Mg9hcqcFC1U?t=152)
-[^Mg9hcqcFC1U-185]: [500 TOA Teaching Stream (Monkey Room Update) OSRS](videos/2024-05-30_Mg9hcqcFC1U.md), 2024-05-30. [▶ 3:05](https://youtu.be/Mg9hcqcFC1U?t=185)
-[^Mg9hcqcFC1U-705]: [500 TOA Teaching Stream (Monkey Room Update) OSRS](videos/2024-05-30_Mg9hcqcFC1U.md), 2024-05-30. [▶ 11:45](https://youtu.be/Mg9hcqcFC1U?t=705)
 [^Mg9hcqcFC1U-1596]: [500 TOA Teaching Stream (Monkey Room Update) OSRS](videos/2024-05-30_Mg9hcqcFC1U.md), 2024-05-30. [▶ 26:36](https://youtu.be/Mg9hcqcFC1U?t=1596)
-[^Mg9hcqcFC1U-1684]: [500 TOA Teaching Stream (Monkey Room Update) OSRS](videos/2024-05-30_Mg9hcqcFC1U.md), 2024-05-30. [▶ 28:04](https://youtu.be/Mg9hcqcFC1U?t=1684)
 [^17ynF_0ltPc-1599]: [WIKI GUIDES - TOA 500 FINALE (OSRS)](videos/2024-06-01_17ynF_0ltPc.md), 2024-06-01. [▶ 26:39](https://youtu.be/17ynF_0ltPc?t=1599)
-[^17ynF_0ltPc-1659]: [WIKI GUIDES - TOA 500 FINALE (OSRS)](videos/2024-06-01_17ynF_0ltPc.md), 2024-06-01. [▶ 27:39](https://youtu.be/17ynF_0ltPc?t=1659)
-[^17ynF_0ltPc-2274]: [WIKI GUIDES - TOA 500 FINALE (OSRS)](videos/2024-06-01_17ynF_0ltPc.md), 2024-06-01. [▶ 37:54](https://youtu.be/17ynF_0ltPc?t=2274)
-[^17ynF_0ltPc-2573]: [WIKI GUIDES - TOA 500 FINALE (OSRS)](videos/2024-06-01_17ynF_0ltPc.md), 2024-06-01. [▶ 42:53](https://youtu.be/17ynF_0ltPc?t=2573)
-[^rnLS-oZr3wU-87]: [HOW TO DUO Budget Nex Guide (OSRS)](videos/2024-06-15_rnLS-oZr3wU.md), 2024-06-15. [▶ 1:27](https://youtu.be/rnLS-oZr3wU?t=87)
-[^Mg9hcqcFC1U-370]: [500 TOA Teaching Stream (Monkey Room Update) OSRS](videos/2024-05-30_Mg9hcqcFC1U.md), 2024-05-30. [▶ 6:10](https://youtu.be/Mg9hcqcFC1U?t=370)
-[^Mg9hcqcFC1U-1050]: [500 TOA Teaching Stream (Monkey Room Update) OSRS](videos/2024-05-30_Mg9hcqcFC1U.md), 2024-05-30. [▶ 17:30](https://youtu.be/Mg9hcqcFC1U?t=1050)
-[^rnLS-oZr3wU-336]: [HOW TO DUO Budget Nex Guide (OSRS)](videos/2024-06-15_rnLS-oZr3wU.md), 2024-06-15. [▶ 5:36](https://youtu.be/rnLS-oZr3wU?t=336)
-[^WvmEY9v6AnI-515]: [WIKI GUIDES - VORKATH (OSRS)](videos/2024-05-18_WvmEY9v6AnI.md), 2024-05-18. [▶ 8:35](https://youtu.be/WvmEY9v6AnI?t=515)
+[^Mg9hcqcFC1U-93]: [500 TOA Teaching Stream (Monkey Room Update) OSRS](videos/2024-05-30_Mg9hcqcFC1U.md), 2024-05-30. [▶ 1:33](https://youtu.be/Mg9hcqcFC1U?t=93)
+[^Mg9hcqcFC1U-185]: [500 TOA Teaching Stream (Monkey Room Update) OSRS](videos/2024-05-30_Mg9hcqcFC1U.md), 2024-05-30. [▶ 3:05](https://youtu.be/Mg9hcqcFC1U?t=185)
 [^WvmEY9v6AnI-545]: [WIKI GUIDES - VORKATH (OSRS)](videos/2024-05-18_WvmEY9v6AnI.md), 2024-05-18. [▶ 9:05](https://youtu.be/WvmEY9v6AnI?t=545)
-[^Mg9hcqcFC1U-0]: [500 TOA Teaching Stream (Monkey Room Update) OSRS](videos/2024-05-30_Mg9hcqcFC1U.md), 2024-05-30. [▶ 0:00](https://youtu.be/Mg9hcqcFC1U)
-[^Mg9hcqcFC1U-1718]: [500 TOA Teaching Stream (Monkey Room Update) OSRS](videos/2024-05-30_Mg9hcqcFC1U.md), 2024-05-30. [▶ 28:38](https://youtu.be/Mg9hcqcFC1U?t=1718)
-[^17ynF_0ltPc-2032]: [WIKI GUIDES - TOA 500 FINALE (OSRS)](videos/2024-06-01_17ynF_0ltPc.md), 2024-06-01. [▶ 33:52](https://youtu.be/17ynF_0ltPc?t=2032)
-[^17ynF_0ltPc-2066]: [WIKI GUIDES - TOA 500 FINALE (OSRS)](videos/2024-06-01_17ynF_0ltPc.md), 2024-06-01. [▶ 34:26](https://youtu.be/17ynF_0ltPc?t=2066)
-[^17ynF_0ltPc-2100]: [WIKI GUIDES - TOA 500 FINALE (OSRS)](videos/2024-06-01_17ynF_0ltPc.md), 2024-06-01. [▶ 35:00](https://youtu.be/17ynF_0ltPc?t=2100)
-[^17ynF_0ltPc-2214]: [WIKI GUIDES - TOA 500 FINALE (OSRS)](videos/2024-06-01_17ynF_0ltPc.md), 2024-06-01. [▶ 36:54](https://youtu.be/17ynF_0ltPc?t=2214)
-[^17ynF_0ltPc-2301]: [WIKI GUIDES - TOA 500 FINALE (OSRS)](videos/2024-06-01_17ynF_0ltPc.md), 2024-06-01. [▶ 38:21](https://youtu.be/17ynF_0ltPc?t=2301)
 [^YizVhRWXnxs-0]: [TOA 500 BUDGET Meta (OSRS)](videos/2024-06-27_YizVhRWXnxs.md), 2024-06-27. [▶ 0:00](https://youtu.be/YizVhRWXnxs)
+[^WvmEY9v6AnI-515]: [WIKI GUIDES - VORKATH (OSRS)](videos/2024-05-18_WvmEY9v6AnI.md), 2024-05-18. [▶ 8:35](https://youtu.be/WvmEY9v6AnI?t=515)
+[^Mg9hcqcFC1U-0]: [500 TOA Teaching Stream (Monkey Room Update) OSRS](videos/2024-05-30_Mg9hcqcFC1U.md), 2024-05-30. [▶ 0:00](https://youtu.be/Mg9hcqcFC1U)
+[^17ynF_0ltPc-2066]: [WIKI GUIDES - TOA 500 FINALE (OSRS)](videos/2024-06-01_17ynF_0ltPc.md), 2024-06-01. [▶ 34:26](https://youtu.be/17ynF_0ltPc?t=2066)
+[^Mg9hcqcFC1U-705]: [500 TOA Teaching Stream (Monkey Room Update) OSRS](videos/2024-05-30_Mg9hcqcFC1U.md), 2024-05-30. [▶ 11:45](https://youtu.be/Mg9hcqcFC1U?t=705)
+[^Mg9hcqcFC1U-124]: [500 TOA Teaching Stream (Monkey Room Update) OSRS](videos/2024-05-30_Mg9hcqcFC1U.md), 2024-05-30. [▶ 2:04](https://youtu.be/Mg9hcqcFC1U?t=124)
+[^17ynF_0ltPc-1659]: [WIKI GUIDES - TOA 500 FINALE (OSRS)](videos/2024-06-01_17ynF_0ltPc.md), 2024-06-01. [▶ 27:39](https://youtu.be/17ynF_0ltPc?t=1659)
+[^Mg9hcqcFC1U-152]: [500 TOA Teaching Stream (Monkey Room Update) OSRS](videos/2024-05-30_Mg9hcqcFC1U.md), 2024-05-30. [▶ 2:32](https://youtu.be/Mg9hcqcFC1U?t=152)
+[^Mg9hcqcFC1U-1684]: [500 TOA Teaching Stream (Monkey Room Update) OSRS](videos/2024-05-30_Mg9hcqcFC1U.md), 2024-05-30. [▶ 28:04](https://youtu.be/Mg9hcqcFC1U?t=1684)
+[^rnLS-oZr3wU-87]: [HOW TO DUO Budget Nex Guide (OSRS)](videos/2024-06-15_rnLS-oZr3wU.md), 2024-06-15. [▶ 1:27](https://youtu.be/rnLS-oZr3wU?t=87)
+[^rnLS-oZr3wU-336]: [HOW TO DUO Budget Nex Guide (OSRS)](videos/2024-06-15_rnLS-oZr3wU.md), 2024-06-15. [▶ 5:36](https://youtu.be/rnLS-oZr3wU?t=336)
+[^Mg9hcqcFC1U-1718]: [500 TOA Teaching Stream (Monkey Room Update) OSRS](videos/2024-05-30_Mg9hcqcFC1U.md), 2024-05-30. [▶ 28:38](https://youtu.be/Mg9hcqcFC1U?t=1718)
+[^17ynF_0ltPc-2100]: [WIKI GUIDES - TOA 500 FINALE (OSRS)](videos/2024-06-01_17ynF_0ltPc.md), 2024-06-01. [▶ 35:00](https://youtu.be/17ynF_0ltPc?t=2100)
 [^YizVhRWXnxs-574]: [TOA 500 BUDGET Meta (OSRS)](videos/2024-06-27_YizVhRWXnxs.md), 2024-06-27. [▶ 9:34](https://youtu.be/YizVhRWXnxs?t=574)
 [^YizVhRWXnxs-612]: [TOA 500 BUDGET Meta (OSRS)](videos/2024-06-27_YizVhRWXnxs.md), 2024-06-27. [▶ 10:12](https://youtu.be/YizVhRWXnxs?t=612)
-[^rnLS-oZr3wU-0]: [HOW TO DUO Budget Nex Guide (OSRS)](videos/2024-06-15_rnLS-oZr3wU.md), 2024-06-15. [▶ 0:00](https://youtu.be/rnLS-oZr3wU)
+[^Mg9hcqcFC1U-215]: [500 TOA Teaching Stream (Monkey Room Update) OSRS](videos/2024-05-30_Mg9hcqcFC1U.md), 2024-05-30. [▶ 3:35](https://youtu.be/Mg9hcqcFC1U?t=215)
+[^17ynF_0ltPc-2274]: [WIKI GUIDES - TOA 500 FINALE (OSRS)](videos/2024-06-01_17ynF_0ltPc.md), 2024-06-01. [▶ 37:54](https://youtu.be/17ynF_0ltPc?t=2274)
+[^17ynF_0ltPc-2573]: [WIKI GUIDES - TOA 500 FINALE (OSRS)](videos/2024-06-01_17ynF_0ltPc.md), 2024-06-01. [▶ 42:53](https://youtu.be/17ynF_0ltPc?t=2573)
+[^Mg9hcqcFC1U-1050]: [500 TOA Teaching Stream (Monkey Room Update) OSRS](videos/2024-05-30_Mg9hcqcFC1U.md), 2024-05-30. [▶ 17:30](https://youtu.be/Mg9hcqcFC1U?t=1050)
+[^17ynF_0ltPc-2214]: [WIKI GUIDES - TOA 500 FINALE (OSRS)](videos/2024-06-01_17ynF_0ltPc.md), 2024-06-01. [▶ 36:54](https://youtu.be/17ynF_0ltPc?t=2214)
+[^17ynF_0ltPc-2032]: [WIKI GUIDES - TOA 500 FINALE (OSRS)](videos/2024-06-01_17ynF_0ltPc.md), 2024-06-01. [▶ 33:52](https://youtu.be/17ynF_0ltPc?t=2032)
+[^17ynF_0ltPc-2301]: [WIKI GUIDES - TOA 500 FINALE (OSRS)](videos/2024-06-01_17ynF_0ltPc.md), 2024-06-01. [▶ 38:21](https://youtu.be/17ynF_0ltPc?t=2301)
+[^Mg9hcqcFC1U-370]: [500 TOA Teaching Stream (Monkey Room Update) OSRS](videos/2024-05-30_Mg9hcqcFC1U.md), 2024-05-30. [▶ 6:10](https://youtu.be/Mg9hcqcFC1U?t=370)
 
 <div class="navbox" markdown="1" data-search-exclude>
 <div class="navbox-title">Items</div>
