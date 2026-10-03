@@ -10,6 +10,15 @@ theme:
     - navigation.top
     - search.suggest
     - search.highlight
+extra_css:
+  - css/osrs.css
+markdown_extensions:
+  - tables
+  - footnotes
+  - md_in_html
+  - toc:
+      toc_depth: "2-3"
+      title: Contents
 nav:
   - Home: index.md
   - Topics: topics.md
