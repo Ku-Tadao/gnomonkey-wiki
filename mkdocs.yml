@@ -1,6 +1,15 @@
 site_name: GnomonkeyRS Wiki
+site_url: https://ku-tadao.github.io/gnomonkey-wiki/
+repo_url: https://github.com/Ku-Tadao/gnomonkey-wiki
 theme:
-  name: readthedocs
+  name: material
+  palette:
+    primary: brown
+    accent: amber
+  features:
+    - navigation.top
+    - search.suggest
+    - search.highlight
 nav:
   - Home: index.md
   - Topics: topics.md

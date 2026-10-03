@@ -329,8 +329,26 @@ def build() -> None:
     (DOCS / "index.md").write_text("\n".join(idx) + "\n", encoding="utf-8")
 
     (HERE / "mkdocs.yml").write_text(
-        "site_name: GnomonkeyRS Wiki\ntheme:\n  name: readthedocs\nnav:\n  - Home: index.md\n  - Topics: topics.md\n  - Videos: videos/index.md\n"
-        "validation:\n  links:\n    unrecognized_links: warn\n", encoding="utf-8")
+        """site_name: GnomonkeyRS Wiki
+site_url: https://ku-tadao.github.io/gnomonkey-wiki/
+repo_url: https://github.com/Ku-Tadao/gnomonkey-wiki
+theme:
+  name: material
+  palette:
+    primary: brown
+    accent: amber
+  features:
+    - navigation.top
+    - search.suggest
+    - search.highlight
+nav:
+  - Home: index.md
+  - Topics: topics.md
+  - Videos: videos/index.md
+validation:
+  links:
+    unrecognized_links: warn
+""", encoding="utf-8")
     print(f"built {len(notes)} video pages, index, topics.md, videos/index.md, mkdocs.yml")
 
 
