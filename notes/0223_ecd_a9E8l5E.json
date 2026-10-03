@@ -1,0 +1,349 @@
+{
+  "id": "ecd_a9E8l5E",
+  "title": "NEW MELEE ZULRAH GUIDE (OSRS)",
+  "date": "2025-05-07",
+  "type": "guide",
+  "summary": "A showcase of the new melee Zulrah meta after Jagex made Zulrah hittable with halberds: she has zero melee defence, so the Noxious halberd with Crystal halberd specs, thralls and death charge beats camping the Bofa, Twisted bow or Shadow. Gnomonkey demonstrates a mid-level setup with Bandos, Eclipse atlatl switches and a Suffering ring for snakelings, with several kills of roughly 100 to 150 ticks.",
+  "outline": [
+    {
+      "t": 0,
+      "text": "New Zulrah meta: Zulrah has no melee defence and halberds now work"
+    },
+    {
+      "t": 22,
+      "text": "Gear and setup: Noxious halberd, Bandos, Serpentine helm, Suffering"
+    },
+    {
+      "t": 90,
+      "text": "Inventory and strategy: Crystal halberd spec, atlatl, death charge, Bellator ring"
+    },
+    {
+      "t": 161,
+      "text": "Kill demonstrations"
+    },
+    {
+      "t": 326,
+      "text": "Advanced mechanics: pillar stalling with melee, death charge, atlatl hit at the start"
+    },
+    {
+      "t": 517,
+      "text": "Maximizing efficiency: consistent DPS across phases and trip length"
+    },
+    {
+      "t": 743,
+      "text": "Summary and tips: plugins, Noxious halberd spec, Light bearer, Blood fury, Echo boots"
+    }
+  ],
+  "topics": [
+    {
+      "name": "Zulrah",
+      "kind": "boss",
+      "claims": [
+        {
+          "t": 0,
+          "kind": "event",
+          "text": "Jagex changed Zulrah so players can melee her with halberds, and Zulrah has zero melee defence."
+        },
+        {
+          "t": 0,
+          "kind": "opinion",
+          "text": "Gnomonkey says melee with a Noxious halberd has basically replaced camping a single style at Zulrah, such as a Bofa camp, Twisted bow camp or Shadow camp."
+        },
+        {
+          "t": 449,
+          "kind": "opinion",
+          "text": "Gnomonkey says melee is normally Zulrah's slowest phase for most weapons, but the halberd does the same damage on every phase because it ignores her defences, so DPS never changes between phases."
+        },
+        {
+          "t": 542,
+          "kind": "opinion",
+          "text": "Gnomonkey says red phases that last a long time are not a problem for the halberd setup because its DPS is the same."
+        },
+        {
+          "t": 606,
+          "kind": "stat",
+          "text": "Gnomonkey estimates the melee setup gets around six kills per hour fewer than a maxed Twisted bow plus Harmonised staff switch setup."
+        },
+        {
+          "t": 513,
+          "kind": "stat",
+          "text": "Gnomonkey's melee Zulrah kills typically take about 110 to 140 ticks, with an occasional slow kill of 145 to 150 and a best of 86 and 101 seen in the video."
+        },
+        {
+          "t": 756,
+          "kind": "stat",
+          "text": "Gnomonkey says that in this setup he killed four, almost five Zulrah with seven food left, and could probably get a six or seven kill trip."
+        },
+        {
+          "t": 513,
+          "kind": "record",
+          "text": "Gnomonkey says he almost got a Grandmaster time on Zulrah with this same cheap melee setup, which can happen if the Crystal halberd spec hits three 100s."
+        },
+        {
+          "t": 449,
+          "kind": "tip",
+          "text": "Gnomonkey says the Zulrah plugin shows a side panel on RuneLite that tells you where Zulrah will be, useful while you have not memorised the rotations."
+        },
+        {
+          "t": 692,
+          "kind": "tip",
+          "text": "If both snakelings are mage-type you can keep the mage prayer up and they never hit you, so you do not need to switch."
+        },
+        {
+          "t": 929,
+          "kind": "opinion",
+          "text": "Gnomonkey says kills are simple with this setup, and tells viewers to go kill Zulrah because it is free and easy."
+        }
+      ]
+    },
+    {
+      "name": "Noxious halberd",
+      "kind": "item",
+      "claims": [
+        {
+          "t": 0,
+          "kind": "opinion",
+          "text": "Gnomonkey says the Noxious halberd is cheap and very easy to get, and that it beats a Twinflame staff plus Bofa setup while costing less than a Bofa setup."
+        },
+        {
+          "t": 26,
+          "kind": "requirement",
+          "text": "On an Iron Man the Noxious halberd has a slayer requirement, so Gnomonkey says you will probably want to do some Zulrah before you get it, though he says some Irons who have already done Araxxor before Zulrah may already have it."
+        },
+        {
+          "t": 59,
+          "kind": "stat",
+          "text": "Gnomonkey says that on its own the Noxious halberd is already well over the damage cap on Zulrah, so higher max hit from upgraded gear matters less."
+        },
+        {
+          "t": 184,
+          "kind": "opinion",
+          "text": "Gnomonkey says no more Twisted bow camp or Shadow camp: the Noxious halberd is the new thing for relaxed Zulrah PvM."
+        },
+        {
+          "t": 155,
+          "kind": "opinion",
+          "text": "Gnomonkey says players with giga-max gear such as full Torva who want to pet hunt would still find the Noxious halberd the best option for simple camping, though switches with a Twisted bow and Harmonised staff would be much better for DPS."
+        },
+        {
+          "t": 816,
+          "kind": "opinion",
+          "text": "Gnomonkey says the Noxious halberd's special attack is terrible and does no damage, so never use it; a Dragon halberd spec is better and the Crystal halberd spec is best."
+        },
+        {
+          "t": 900,
+          "kind": "opinion",
+          "text": "Gnomonkey says Oathplate will be better than Torva for this setup once it releases, and says he is hyped for the Yama update the following week."
+        }
+      ]
+    },
+    {
+      "name": "Crystal halberd",
+      "kind": "item",
+      "claims": [
+        {
+          "t": 121,
+          "kind": "opinion",
+          "text": "Gnomonkey calls the Crystal halberd the new best spec weapon at Zulrah, with potential to hit up to 100 total across its two hits (50/50) and no tick loss if used right as she goes underwater."
+        },
+        {
+          "t": 218,
+          "kind": "method",
+          "text": "Gnomonkey tries to end each phase with a Crystal halberd spec, then puts on the Ring of suffering and goes back to work."
+        },
+        {
+          "t": 542,
+          "kind": "stat",
+          "text": "Gnomonkey says you cannot main-hand the Crystal halberd because it has a seven-tick attack speed, and anything other than the Noxious halberd is not good for melee here."
+        },
+        {
+          "t": 816,
+          "kind": "tip",
+          "text": "Gnomonkey says if you do not have a Crystal halberd, use a Dragon halberd, which Zulrah drops, but he recommends buying a Crystal halberd before doing Zulrah if possible."
+        }
+      ]
+    },
+    {
+      "name": "Eclipse atlatl",
+      "kind": "item",
+      "claims": [
+        {
+          "t": 93,
+          "kind": "stat",
+          "text": "Gnomonkey says the Eclipse atlatl scales off strength bonus and he brings it with an Ava's assembler as a two-way."
+        },
+        {
+          "t": 93,
+          "kind": "tip",
+          "text": "Gnomonkey says the atlatl is needed in the melee setup for cases where Zulrah is behind poison clouds and cannot be meleed, and in some cases it lets you fit an extra hit."
+        },
+        {
+          "t": 218,
+          "kind": "tip",
+          "text": "At the start of kills, throwing one atlatl dart gives a free hit, and it lets you finish the phase with a Crystal halberd spec."
+        },
+        {
+          "t": 421,
+          "kind": "tip",
+          "text": "Gnomonkey starts each phase with an atlatl hit before the Crystal halberd, because you otherwise lose a full swing of four ticks at the end."
+        },
+        {
+          "t": 722,
+          "kind": "tip",
+          "text": "Gnomonkey says you probably want to fit an atlatl hit in some phases, as some rotations are awkward for melee."
+        }
+      ]
+    },
+    {
+      "name": "Death charge",
+      "kind": "mechanic",
+      "claims": [
+        {
+          "t": 121,
+          "kind": "tip",
+          "text": "Gnomonkey brings thrall runes and death charge on the melee Zulrah setup; you can charge off recoil damage on snakelings, letting you get more Crystal halberd specs."
+        },
+        {
+          "t": 394,
+          "kind": "tip",
+          "text": "Gnomonkey says death charge is worth bringing because recoil killing a snakeling gives you the death charge, and it adds up."
+        },
+        {
+          "t": 482,
+          "kind": "opinion",
+          "text": "Gnomonkey says double death charge from the Yama update coming the next week will be really good for this melee Zulrah setup."
+        }
+      ]
+    },
+    {
+      "name": "Bandos armour",
+      "kind": "item",
+      "claims": [
+        {
+          "t": 184,
+          "kind": "stat",
+          "text": "Gnomonkey says Bandos gives an extra 100 range defence at Zulrah compared with Blood moon, and that it is a lot better here despite him usually saying to skip Bandos."
+        },
+        {
+          "t": 184,
+          "kind": "opinion",
+          "text": "Gnomonkey says with Bandos you barely get hit during Zulrah's ranged mage phases, and Blood moon still works but you get hit a lot more."
+        },
+        {
+          "t": 276,
+          "kind": "opinion",
+          "text": "Gnomonkey says the ranged mage phases no longer hurt with Bandos."
+        }
+      ]
+    },
+    {
+      "name": "Melee Zulrah gear setup",
+      "kind": "other",
+      "claims": [
+        {
+          "t": 26,
+          "kind": "tip",
+          "text": "Gnomonkey's mid-level melee Zulrah setup uses a Serpentine helm, Bandos, Barrows gloves, Dragon boots and a Ring of suffering, and he says it can be upgraded or downgraded and remain good."
+        },
+        {
+          "t": 59,
+          "kind": "tip",
+          "text": "Gnomonkey says Pharaoh's gloves are amazing on a main, a Rancour is tremendously better if you have one on an Iron, and Torva is insane if available."
+        },
+        {
+          "t": 93,
+          "kind": "tip",
+          "text": "Gnomonkey's inventory is divine super combat potions and a few restores, with no anti-venom because he wears a Serpentine helm."
+        },
+        {
+          "t": 121,
+          "kind": "tip",
+          "text": "Gnomonkey uses a Bellator ring until Zulrah spawns snakelings, and then puts the Ring of suffering on, which he says is worth two max hits."
+        },
+        {
+          "t": 246,
+          "kind": "tip",
+          "text": "Gnomonkey uses the Ring of suffering until snakelings are gone, since it is not a huge DPS loss, then swaps back to the Bellator ring."
+        },
+        {
+          "t": 756,
+          "kind": "tip",
+          "text": "Gnomonkey says to put on the Ring of suffering any time snakelings are hitting you, otherwise you get shredded."
+        },
+        {
+          "t": 845,
+          "kind": "opinion",
+          "text": "Gnomonkey is unsure about the Lightbearer here, thinking it is probably okay since you are over the hit cap, but says the main thing is not to camp the Ring of suffering and to switch to it only when snakelings spawn."
+        },
+        {
+          "t": 845,
+          "kind": "opinion",
+          "text": "Gnomonkey says Amulet of blood fury is great here and extends trips tremendously, with trip length mostly limited by restores and potions; he says rancour and torture are also good."
+        },
+        {
+          "t": 873,
+          "kind": "tip",
+          "text": "Gnomonkey says Echo boots, which most Irons will not have, hit in a 3x3 area around you for recoil and kill snakelings, so you do not need the Ring of suffering with them."
+        },
+        {
+          "t": 873,
+          "kind": "opinion",
+          "text": "Gnomonkey says to use a Bellator ring over an Ultor ring because increasing max hit matters less with the hit cap and Bellator lands hits more often."
+        }
+      ]
+    },
+    {
+      "name": "Pillar stalling",
+      "kind": "mechanic",
+      "claims": [
+        {
+          "t": 336,
+          "kind": "tip",
+          "text": "Gnomonkey says you can pillar stall Zulrah with melee, though you sometimes need an awkward walk to fit hits in because of the pathing, and you take a little poison damage."
+        },
+        {
+          "t": 336,
+          "kind": "method",
+          "text": "When pillar stalling with melee, you run up and hit Zulrah on every attack, which increases DPS and reduces damage, and the fourth attack is a Crystal halberd spec."
+        },
+        {
+          "t": 645,
+          "kind": "tip",
+          "text": "Gnomonkey says most kills in this setup go through the same pattern with a few pillar stalls, mainly throwing on the Ring of suffering for snakelings."
+        }
+      ]
+    },
+    {
+      "name": "Snakeling",
+      "kind": "mechanic",
+      "claims": [
+        {
+          "t": 787,
+          "kind": "tip",
+          "text": "Gnomonkey says to import the snakeling radius markers (pastebin linked in the description), as snakelings are either mage or melee and mage ones are unlikely to hit you."
+        },
+        {
+          "t": 573,
+          "kind": "stat",
+          "text": "Gnomonkey says with the Bandos melee defence, melee snakelings sometimes struggle to hit you."
+        }
+      ]
+    },
+    {
+      "name": "Gnomonkey",
+      "kind": "person",
+      "claims": [
+        {
+          "t": 0,
+          "kind": "event",
+          "text": "Gnomonkey made this showcase of the melee Zulrah setup as a follow-up to his Twinflame staff Zulrah guide."
+        },
+        {
+          "t": 513,
+          "kind": "record",
+          "text": "Gnomonkey says he nearly got a Grandmaster time on Zulrah on this melee setup."
+        }
+      ]
+    }
+  ]
+}

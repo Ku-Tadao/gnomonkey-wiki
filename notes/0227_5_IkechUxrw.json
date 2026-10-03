@@ -1,0 +1,83 @@
+{
+  "id": "5_IkechUxrw",
+  "title": "Solo Yama Guide Day 1 (OSRS)",
+  "date": "2025-05-14",
+  "type": "guide",
+  "summary": "A day-one walkthrough for soloing Yama with a max mage setup, a small melee switch and Burning claws. Gnomonkey explains the gear, how to reach the boss, how to block special attacks by stepping on matching glyphs, how to deal with orbs using the Purging staff, the Judge phases, and the harder enrage phase, ending with a roughly seven minute kill. He rates it as similar in difficulty to Fasani.",
+  "outline": [
+    {"t": 0, "text": "Intro: difficulty compared to Fasani and why mage is used solo"},
+    {"t": 30, "text": "Gear: max mage, Purging staff and Shadow, melee switch for the Judge"},
+    {"t": 117, "text": "Spells and potions: Death Charge, Thralls, Ward of Arceus, Mark of Darkness"},
+    {"t": 150, "text": "Getting there: Fairy Ring DJR and agility shortcuts into the Chasm of Fire"},
+    {"t": 208, "text": "Starting the fight and the basic attack styles"},
+    {"t": 242, "text": "Orbs and the Purging staff"},
+    {"t": 273, "text": "Glyph blocking of the big special attacks"},
+    {"t": 302, "text": "66% phase: fighting the Judge with style swaps"},
+    {"t": 366, "text": "Boosted specials, meteors and waves"},
+    {"t": 512, "text": "Enrage phase at 33%: the hardest part of the fight"},
+    {"t": 665, "text": "Kill result, difficulty reflection and final advice"}
+  ],
+  "topics": [
+    {
+      "name": "Yama",
+      "kind": "boss",
+      "claims": [
+        {"t": 0, "kind": "opinion", "text": "Gnomonkey compares the difficulty of solo Yama to Fasani, saying it is not easy but fairly decent players who have sent Fasani can get kills."},
+        {"t": 0, "kind": "method", "text": "Gnomonkey runs mage as the primary style for solo Yama because it is his best DPS if the player is not heavily trained on the boss; in duo he expects Scythe or Emberlight with BGS draining to be better."},
+        {"t": 30, "kind": "method", "text": "For solo Yama, Gnomonkey brings max mage gear with the Purging staff and Shadow, noting Shadow seems best at the very end of the fight while the Purging staff is similar throughout; he got many kills with just the Purging staff and no Shadow."},
+        {"t": 208, "kind": "method", "text": "To start the Yama fight, right-click Challenge on Yama, which works like starting P1 Verzik; drink potions beforehand, cast the spells first, and drop food to unequip."},
+        {"t": 214, "kind": "method", "text": "Yama's black smoke attack is a ranged attack and the shadow attack is ranged while the other is magic, so the player flicks between ranged and mage prayers depending on what they see."},
+        {"t": 214, "kind": "method", "text": "Sand fuse is used in the fight because Yama poisons the player."},
+        {"t": 273, "kind": "method", "text": "Every special Yama does is a massive attack hitting for around 80 damage; the player blocks it by stepping on the glyph matching the attack colour, alternating each time, roughly every three attacks."},
+        {"t": 302, "kind": "event", "text": "At 66% Yama phases and the player fights the Judge on the side, with agility obstacles to jump over; the player can hit him from a tile with Shadow."},
+        {"t": 512, "kind": "event", "text": "Phase three at 33% is another Judge fight followed by the rage phase where Yama's defence goes up dramatically and orbs or jellies appear almost constantly, making it the toughest part of the fight."},
+        {"t": 512, "kind": "method", "text": "In the enrage phase Yama's attacks always alternate between mage and range, and a new hourglass attack requires stepping perpendicular to the tiles to dodge."},
+        {"t": 512, "kind": "tip", "text": "Gnomonkey drops a couple of specs on Yama at the start of the rage phase and prays melee if in melee range because he will hit you."},
+        {"t": 665, "kind": "record", "text": "Gnomonkey's example kill of solo Yama took seven minutes and he received his first worms, though he says he has had cleaner kills."},
+        {"t": 665, "kind": "opinion", "text": "Gnomonkey calls Yama very tough because the waves pull prayer off, a player can be comboed for around 50 damage, and the meteors, attacks and waves come at the same time, but he considers it definitely doable with practice."},
+        {"t": 692, "kind": "tip", "text": "Gnomonkey says he does one-kill trips on Yama for now, though multiple-kill trips may be possible once players get cleaner."}
+      ]
+    },
+    {
+      "name": "Yama: setup and gear",
+      "kind": "mechanic",
+      "claims": [
+        {"t": 58, "kind": "method", "text": "Solo Yama needs a small melee switch because the Judge demon on the side must be hit alternating between melee and mage every attack, and Gnomonkey brings Burning claws as a solid spec."},
+        {"t": 85, "kind": "tip", "text": "Against the Judge a max hit is guaranteed, so accuracy and armour do not matter; the player should just boost strength to maximise max hit, and a bigger switch and better Burning claws improve damage to the Judge."},
+        {"t": 85, "kind": "tip", "text": "Gnomonkey suggests bringing a small number of melee switches while learning, as a full eight-way switch felt fine only once he had a solid foundation, and fewer switches make the Judge phase easier."},
+        {"t": 85, "kind": "method", "text": "Gnomonkey avoids brews because re-potting mage is hard, though a first-kill option is Forgotten brew for plus 10 magic and using Bruise."},
+        {"t": 117, "kind": "method", "text": "Gnomonkey brings runes for Death Charge, Thralls, Ward of Arceus and Mark of Darkness; Ward of Arceus reduces damage taken, and he says a Purging staff is really needed to deal with the orbs."},
+        {"t": 117, "kind": "tip", "text": "A viewer pointed out that Pharaoh's sceptre is better than the cape for Yama, which Gnomonkey agrees with."},
+        {"t": 242, "kind": "method", "text": "Orbs in the Yama fight heal the boss and damage the player (up to 80 if ignored) unless killed; the Purging staff hits them very hard and finishing them with a spec refunds ticks and the spec energy."},
+        {"t": 456, "kind": "tip", "text": "Death Charge works on the Judge phase and is really strong."},
+        {"t": 482, "kind": "tip", "text": "If the player is about to phase when orbs appear, they can skip the orbs, but greeding and getting hit by them will destroy the player."}
+      ]
+    },
+    {
+      "name": "Yama: getting to the boss",
+      "kind": "mechanic",
+      "claims": [
+        {"t": 150, "kind": "method", "text": "To reach Yama, use the Fairy Ring DJR, ideally via a house Fairy Ring, then go down into the Chasm of Fire where a cage takes you straight to the bottom."},
+        {"t": 150, "kind": "requirement", "text": "The chain shortcut into the Chasm of Fire requires 83 agility, while a cliff jump and cage route requires about 73 agility and is slightly slower."}
+      ]
+    },
+    {
+      "name": "Yama: Judge phase",
+      "kind": "mechanic",
+      "claims": [
+        {"t": 302, "kind": "method", "text": "During the Judge phase, he swaps styles like a Tormented Demon, so the player must alternate melee and mage each attack."},
+        {"t": 332, "kind": "method", "text": "The Judge fires skulls at the player's current location, and standing under him makes the skulls hit him for damage, like Araxxor step-unders, so stepping under and switching gives bonus damage."},
+        {"t": 366, "kind": "method", "text": "After the Judge phase the specials are boosted into huge attacks; they are blocked the same way by stepping on the glyph tile but are more punishing if mistimed."},
+        {"t": 403, "kind": "method", "text": "Waves in the fight take off the player's prayer, and the meteor turns off run so the player must be close to the glyph before it starts and cannot control-click like at Tormented Demons."}
+      ]
+    },
+    {
+      "name": "Gnomonkey",
+      "kind": "person",
+      "claims": [
+        {"t": 0, "kind": "event", "text": "Gnomonkey made this day-one solo Yama guide shortly after the first solos had been achieved, based on his rough idea of how to get kills."},
+        {"t": 692, "kind": "tip", "text": "Gnomonkey says players who are not solid at the game will find a big difficulty curve in solo Yama, but solos are definitely doable with some practice."}
+      ]
+    }
+  ]
+}

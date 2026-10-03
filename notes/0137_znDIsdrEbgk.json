@@ -1,0 +1,152 @@
+{
+  "id": "znDIsdrEbgk",
+  "title": "19 MINUTE SOLO NEX (OSRS)",
+  "date": "2024-02-11",
+  "type": "speedrun",
+  "summary": "Gnomonkey completes a solo Nex kill in under 20 minutes, about 19 minutes, improving his earlier 26:30 time. He says his setup is about as refined as it can get and discusses weapons, difficulty and what a faster time would need. The video is mostly live commentary over gameplay.",
+  "outline": [
+    {
+      "t": 0,
+      "text": "Stream chatter and start of the run"
+    },
+    {
+      "t": 59,
+      "text": "Phase 1 and early damage rolls"
+    },
+    {
+      "t": 168,
+      "text": "Chat questions on weapons: Void Waker, DDS, claws"
+    },
+    {
+      "t": 318,
+      "text": "Talk of solo Nex drops and KC, tbow damage on P2"
+    },
+    {
+      "t": 442,
+      "text": "Leech spawn and ice prison/blood sacrifice phases"
+    },
+    {
+      "t": 705,
+      "text": "Prison roll, Glacies dying fast, tick eating"
+    },
+    {
+      "t": 949,
+      "text": "Sub-20 finish and discussion of sub-19 and sub-18"
+    }
+  ],
+  "topics": [
+    {
+      "name": "Nex",
+      "kind": "boss",
+      "claims": [
+        {
+          "t": 949,
+          "kind": "record",
+          "text": "Gnomonkey killed Nex solo in under 20 minutes, with the description saying it was close to 19 minutes, smashing his previous time."
+        },
+        {
+          "t": 949,
+          "kind": "opinion",
+          "text": "Gnomonkey considers solo Nex on par in difficulty with solo Theatre of Blood, because it requires perfect control of movement and reacting to Nex's random movements is very challenging."
+        },
+        {
+          "t": 0,
+          "kind": "opinion",
+          "text": "Gnomonkey says solo Nex is not worth it for money, but it is still over 10m GP/hr even with sweet usage, assuming consistent KC."
+        },
+        {
+          "t": 0,
+          "kind": "tip",
+          "text": "Gnomonkey says the hardest part of solo Nex is tick eating perfectly and adapting to weird distance dashes."
+        },
+        {
+          "t": 0,
+          "kind": "method",
+          "text": "Gnomonkey says his solo Nex setup is as refined as it can get, with the optimal amount of brew and restore, and that packing a ZCB or additional switches is not worth the inventory slots."
+        },
+        {
+          "t": 0,
+          "kind": "method",
+          "text": "Gnomonkey says tbow camping on phase 2 of Nex is painful but seems the best option unless something new is discovered."
+        },
+        {
+          "t": 949,
+          "kind": "tip",
+          "text": "In phase 5 of Nex, anything where you do not have to start tick eating is very good, according to Gnomonkey."
+        },
+        {
+          "t": 949,
+          "kind": "tip",
+          "text": "Gnomonkey credits the advice 'don't die' for the sub-20 solo Nex time, noting that phase 2 was slow but phases 3 and 4 were very fast."
+        },
+        {
+          "t": 949,
+          "kind": "opinion",
+          "text": "Gnomonkey thinks a sub-19 solo Nex is definitely possible but would be rare, and a sub-18 is probably technically possible but would be about the end of the line."
+        },
+        {
+          "t": 318,
+          "kind": "trivia",
+          "text": "At the time of the video, Gnomonkey says no one had received a solo Nex drop, and he would like to be the first, which is why he still goes for KC."
+        },
+        {
+          "t": 705,
+          "kind": "stat",
+          "text": "Gnomonkey considers a 25 a pretty low roll for Nex's ice prison, and notes Glacies dying really fast in that kill."
+        },
+        {
+          "t": 168,
+          "kind": "opinion",
+          "text": "Gnomonkey says a dragon dagger (DDS) is better than claws for solo Nex."
+        },
+        {
+          "t": 168,
+          "kind": "stat",
+          "text": "Gnomonkey states the dragon dagger special has a max of 110, while the Voidwaker's max is only around 80."
+        }
+      ]
+    },
+    {
+      "name": "Gnomonkey",
+      "kind": "person",
+      "claims": [
+        {
+          "t": 949,
+          "kind": "record",
+          "text": "Gnomonkey achieved a solo Nex kill of just under 20 minutes in February 2024, improving on his earlier 26:30 time."
+        },
+        {
+          "t": 318,
+          "kind": "opinion",
+          "text": "Gnomonkey says he would love a solo Nex pet and that getting a solo pet would make him lose it and quit streaming."
+        },
+        {
+          "t": 0,
+          "kind": "trivia",
+          "text": "Gnomonkey streams his speedrun attempts and answers viewer questions during runs, such as whether Voidwaker is needed and whether DDS beats claws."
+        }
+      ]
+    },
+    {
+      "name": "Voidwaker",
+      "kind": "item",
+      "claims": [
+        {
+          "t": 168,
+          "kind": "stat",
+          "text": "Gnomonkey says the Voidwaker has a max hit of only about 80 on its special, compared with 110 for a dragon dagger special."
+        },
+        {
+          "t": 168,
+          "kind": "opinion",
+          "text": "Gnomonkey jokes that an Iron Man should not have to grind bosses just to get a Voidwaker to click a blue orb for 23 damage."
+        },
+        {
+          "t": 949,
+          "kind": "tip",
+          "text": "Gnomonkey used his Voidwaker on a late attempt at the sub-20 solo Nex kill, saying he wanted to go for it really badly."
+        }
+      ]
+    }
+  ]
+}

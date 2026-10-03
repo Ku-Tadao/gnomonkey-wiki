@@ -1,0 +1,415 @@
+{
+ "id": "17ynF_0ltPc",
+ "title": "WIKI GUIDES - TOA 500 FINALE (OSRS)",
+ "date": "2024-06-01",
+ "type": "challenge",
+ "summary": "Gnomonkey completes a Tombs of Amascut raid level 500 using the worst possible downgrade gear from the wiki's three recommended setups, which took almost eight hours of attempts over two streams and a 72-minute clear. He then builds a budget setup of roughly equal price around Mixed hide armour and Osmumten's fang and clears the same raid in about 47.5 minutes, concluding Mixed hide is a new meta for first 500s. He says this is likely the last Wiki Guides video.",
+ "outline": [
+  {
+   "t": 0,
+   "text": "Challenge setup: the wiki downgrade gear for melee, ranged and magic, and the rules he allows himself"
+  },
+  {
+   "t": 66,
+   "text": "Early raid struggles and deaths while learning four-tick butterfly with the downgraded setup"
+  },
+  {
+   "t": 295,
+   "text": "Recorded weeks earlier: commentary on the eight hours of attempts and why P1 Wardens was the wall"
+  },
+  {
+   "t": 540,
+   "text": "Baba and Kephri with the abyssal dagger, saving divine doses"
+  },
+  {
+   "t": 636,
+   "text": "Level four Zebak and Akkha with the infinite run energy plan"
+  },
+  {
+   "t": 1137,
+   "text": "Warden fight attempts: weak DPS, blowpipe then crossbow, abyssal dagger specs on last row"
+  },
+  {
+   "t": 1496,
+   "text": "Loot and setup analysis: the downgrade setup cost 39 mil, 72-minute run, no purple"
+  },
+  {
+   "t": 1780,
+   "text": "Optimized budget setup test: Mixed hide, Hunter's sunlight crossbow, bone dagger, fang"
+  },
+  {
+   "t": 2132,
+   "text": "Completing the 500 with the budget setup, Akkha and the Wardens"
+  },
+  {
+   "t": 2502,
+   "text": "Final loot and conclusion: 47 min 30 sec versus 72 minutes for roughly the same price"
+  }
+ ],
+ "topics": [
+  {
+   "name": "Series: Wiki Guides",
+   "kind": "other",
+   "claims": [
+    {
+     "t": 0,
+     "kind": "event",
+     "text": "This video is the finale of Gnomonkey's Wiki Guides series, where he completes content using the OSRS Wiki's recommended gear; his previous video attempted a Phosani's Nightmare kill using the worst possible downgrades."
+    },
+    {
+     "t": 0,
+     "kind": "event",
+     "text": "Gnomonkey says the wiki's Tombs of Amascut guide lists three setups (melee, ranged and magic) that include items you realistically should never bring anywhere, such as a DFS and a Ring of Suffering, and he attempts a 500 with the worst possible choice for each."
+    },
+    {
+     "t": 357,
+     "kind": "event",
+     "text": "Gnomonkey says this is likely his last wiki guide because they are starting to get a bit stale, and calls this the most interesting run he did and the finale of the series."
+    },
+    {
+     "t": 0,
+     "kind": "event",
+     "text": "Per the description, Gnomonkey may later run a Challenge Mode raid in wiki gear for fun but cannot currently because the mage thrall is still broken and will not turn the Olm head properly."
+    }
+   ]
+  },
+  {
+   "name": "Challenge: Tombs of Amascut 500 in wiki downgrade gear",
+   "kind": "challenge",
+   "claims": [
+    {
+     "t": 0,
+     "kind": "trivia",
+     "text": "Gnomonkey describes this as by far the hardest Tombs of Amascut challenge he has completed, taking almost 8 hours of total attempts across two streams, with no fang, no Shadow and not even an Occult necklace."
+    },
+    {
+     "t": 27,
+     "kind": "method",
+     "text": "Gnomonkey's downgrade melee setup includes a Nezi helmet, a Glory, an Artie cloak, a Fighter torso and Blessed chaps."
+    },
+    {
+     "t": 27,
+     "kind": "stat",
+     "text": "For ranging he wears a SERP helmet, which Gnomonkey says is worse than no helmet at all because of a negative five ranged bonus, even though it means bringing a better melee helmet that is only used for the worse ranged bonus."
+    },
+    {
+     "t": 27,
+     "kind": "method",
+     "text": "The wiki downgrades Ruby bolts to Diamond bolts, so Gnomonkey uses Diamond bolts and an Archer's ring switch for ranged, and Blood bark with a regular Trident for magic."
+    },
+    {
+     "t": 57,
+     "kind": "method",
+     "text": "The setup was so confusing that Gnomonkey used inventory tags: pink items are both melee and mage and blue items are ranged and mage; he says this is the only case where inventory tags make sense, when your gear is not what it appears to be."
+    },
+    {
+     "t": 86,
+     "kind": "trivia",
+     "text": "The wiki specifies a blowpipe spec as the worst downgrade for the range spec and a dragon dagger as the worst downgrade for the melee spec, so Gnomonkey allows himself to use those."
+    },
+    {
+     "t": 86,
+     "kind": "method",
+     "text": "Gnomonkey also allows himself a Keris even though the wiki does not mention it, because he does not think the 500 is possible without one; he brings one divine melee potion, one divine super combat and one divine ranging, with the blowpipe only for spec."
+    },
+    {
+     "t": 116,
+     "kind": "event",
+     "text": "Gnomonkey had attempted this once on a prior stream and died in the Wardens' P1 due to not having enough restore; he found Divine super combat does not last long enough (20 minutes is not enough) and that leftover Divine ranging is wasted."
+    },
+    {
+     "t": 144,
+     "kind": "method",
+     "text": "His plan is Baba, Kephri, Zebak then Akkha, using both salts on Akkha because he needs the run energy for four-tick butterfly, and using divine ranging to get through Zebak; he says Akkha without butterfly is not possible because it uses too much restore."
+    },
+    {
+     "t": 178,
+     "kind": "method",
+     "text": "He runs Hardcore, Walk the path, Pathfinder and Deadly prayer, typical for a 500 but with no Overly Draining and no Keep Back, because chip damage adds up fast whenever Akkha swaps styles."
+    },
+    {
+     "t": 295,
+     "kind": "record",
+     "text": "Gnomonkey says the footage was recorded several weeks before upload, when the monkey room was still difficult, and that he completed it over two separate streams totalling about eight hours."
+    },
+    {
+     "t": 325,
+     "kind": "stat",
+     "text": "Gnomonkey says each room takes an eternity: Baba and Kephri together took about half an hour, drastically draining supplies and requiring over an hour of perfect flicking."
+    },
+    {
+     "t": 325,
+     "kind": "opinion",
+     "text": "Gnomonkey says the biggest problem was the Wardens' P1, where most deaths happened, because he simply did not have enough DPS, even with a blowpipe, to pass that DPS check."
+    },
+    {
+     "t": 1476,
+     "kind": "record",
+     "text": "The downgrade-gear 500 took about 72 to 73 minutes, after six and a half hours of stream attempts, and gave no purple; Gnomonkey says he really expected the Shadow."
+    },
+    {
+     "t": 1509,
+     "kind": "stat",
+     "text": "Gnomonkey prices the downgrade setup at 39 mil, calling it fairly cheap but terrible, and says you could not choose worse value items if you tried."
+    }
+   ]
+  },
+  {
+   "name": "Abyssal dagger",
+   "kind": "item",
+   "claims": [
+    {
+     "t": 574,
+     "kind": "trivia",
+     "text": "Gnomonkey notes the abyssal dagger special attack is called Abyssal Puncture and is a slash special attack, which he says makes it worse than the DDS."
+    },
+    {
+     "t": 1241,
+     "kind": "tip",
+     "text": "On the Wardens' last row Gnomonkey spams abyssal dagger specs, saying they seemed okay and that he can pull off about eight."
+    },
+    {
+     "t": 1322,
+     "kind": "record",
+     "text": "Gnomonkey says the abyssal dagger specs on last row did something like 300 damage in total."
+    },
+    {
+     "t": 1910,
+     "kind": "opinion",
+     "text": "In the budget run Gnomonkey says the fang was a very good choice and that he likes the fang and does not like the abyssal dagger."
+    }
+   ]
+  },
+  {
+   "name": "Zebak",
+   "kind": "boss",
+   "claims": [
+    {
+     "t": 636,
+     "kind": "opinion",
+     "text": "In this run Gnomonkey says a level four Zebak is actually a good thing because Akkha becomes much easier and Zebak wastes more supplies; he says he would take a level four Akkha and a level two Zebak or the other way around."
+    },
+    {
+     "t": 914,
+     "kind": "method",
+     "text": "Gnomonkey says Zebak is boring: you count to nine and then he blood barrages you."
+    },
+    {
+     "t": 1241,
+     "kind": "opinion",
+     "text": "Gnomonkey notes the downgrade run also had a level four Zebak when he reached the Wardens, and says it is going to suck."
+    }
+   ]
+  },
+  {
+   "name": "Akkha",
+   "kind": "boss",
+   "claims": [
+    {
+     "t": 204,
+     "kind": "record",
+     "text": "Gnomonkey says he had never done four-tick butterfly on Akkha before this run and was doing it for the first time."
+    },
+    {
+     "t": 2128,
+     "kind": "tip",
+     "text": "With the Mixed hide setup Gnomonkey says Torva is good on Akkha but you can butterfly him anyway, and that the fang is way better than the crossbow on Akkha's Shadow."
+    },
+    {
+     "t": 2182,
+     "kind": "opinion",
+     "text": "Gnomonkey says Akkha is the one place where defence matters in Tombs of Amascut and that Mixed hide's lower defence makes him take a lot of damage there."
+    },
+    {
+     "t": 2243,
+     "kind": "record",
+     "text": "In the Mixed hide budget run Gnomonkey got through Akkha without Keris specs and without healing once."
+    }
+   ]
+  },
+  {
+   "name": "The Wardens",
+   "kind": "boss",
+   "claims": [
+    {
+     "t": 1002,
+     "kind": "record",
+     "text": "In the downgrade run Gnomonkey did 13 damage with 20 blowpipe shots in the Wardens' P1 and concluded the crossbow was best for the rest of the fight."
+    },
+    {
+     "t": 1093,
+     "kind": "tip",
+     "text": "Gnomonkey says the crossbow seemed quite a bit better than the Trident in the Wardens fight in the downgrade setup."
+    },
+    {
+     "t": 1269,
+     "kind": "stat",
+     "text": "In the downgrade setup Gnomonkey's crossbow max hit is 43, or 49 on a Diamond bolt proc."
+    },
+    {
+     "t": 1269,
+     "kind": "record",
+     "text": "Four minutes into the Wardens' P3 or P4 in the downgrade run the core was at half health and Gnomonkey expected to run out of salt on last row."
+    },
+    {
+     "t": 1241,
+     "kind": "tip",
+     "text": "On the Wardens' last row Gnomonkey holds his special attack energy and spams the abyssal dagger special."
+    },
+    {
+     "t": 2392,
+     "kind": "tip",
+     "text": "In the budget run Gnomonkey stays on the crossbow in P4 until the core's health is low, then dumps fang specs; chat said to swap to the fang under 300 health, and he judged a bone dagger not worth it when the core has about 800 health."
+    },
+    {
+     "t": 2573,
+     "kind": "tip",
+     "text": "In the budget run Gnomonkey left Offensive prayer on from the start of P1 to the end of P4 without touching it, and camped offensive and protection prayer with infinite prayer."
+    }
+   ]
+  },
+  {
+   "name": "Ruby bolts (e)",
+   "kind": "item",
+   "claims": [
+    {
+     "t": 0,
+     "kind": "opinion",
+     "text": "Gnomonkey says the lack of Ruby bolts was the main thing that made the downgrade run harder, since the wiki states Diamond bolts are a downgrade of Ruby bolts."
+    },
+    {
+     "t": 2392,
+     "kind": "event",
+     "text": "In the budget run Gnomonkey got a Ruby bolt proc on the first shot at the Wardens' P4 and called it a sign of power."
+    },
+    {
+     "t": 2425,
+     "kind": "opinion",
+     "text": "Gnomonkey says Ruby bolts are not good at all in general, but after shooting Diamond bolts they feel like a real gun compared with a BB gun."
+    }
+   ]
+  },
+  {
+   "name": "Mixed hide armour",
+   "kind": "item",
+   "claims": [
+    {
+     "t": 1599,
+     "kind": "stat",
+     "text": "Gnomonkey describes Mixed hide armour as Hunter armour that costs about 10k and has strength bonus and stab bonus, both of which he says are very good."
+    },
+    {
+     "t": 1599,
+     "kind": "opinion",
+     "text": "Gnomonkey says Mixed hide is best in slot below Masori for a budget setup and better than Karil's in every way, describing it as black dragonhide with strength bonus and stab bonus."
+    },
+    {
+     "t": 1659,
+     "kind": "stat",
+     "text": "Gnomonkey says Mixed hide loses one max hit behind Bandos, but beats Bandos with a fang against something with very high stab defence."
+    },
+    {
+     "t": 2032,
+     "kind": "opinion",
+     "text": "Gnomonkey says Mixed hide might genuinely be better than Masori for a first 500 because you get so many restores."
+    },
+    {
+     "t": 2066,
+     "kind": "opinion",
+     "text": "Gnomonkey says he thinks Mixed hide is the new meta for first 500s, better than Masori, and notes it is the only armour set that matches the Quiver."
+    },
+    {
+     "t": 2100,
+     "kind": "opinion",
+     "text": "Gnomonkey says Mixed hide has stab, strength and ranged bonus and lets you carry far more Sanfew serums; he says Torva helps face-tank Kephri's hatchlings and zero prayer, but Mixed hide lets him take about six more Sanfew."
+    },
+    {
+     "t": 2214,
+     "kind": "opinion",
+     "text": "After first thinking the lower defence of Mixed hide made Akkha too dangerous, Gnomonkey concluded the Mixed hide setup made the 500 feel like a 150."
+    },
+    {
+     "t": 2274,
+     "kind": "stat",
+     "text": "In the budget run Gnomonkey had seven and a half restores, double what he normally takes."
+    },
+    {
+     "t": 2301,
+     "kind": "opinion",
+     "text": "Gnomonkey says Mixed hide is the meta for sub-75 tier gear in Tombs of Amascut."
+    },
+    {
+     "t": 2573,
+     "kind": "stat",
+     "text": "Gnomonkey finished the Mixed hide budget run with two restores left over."
+    }
+   ]
+  },
+  {
+   "name": "Challenge: Budget Tombs of Amascut 500 with Mixed hide",
+   "kind": "challenge",
+   "claims": [
+    {
+     "t": 1509,
+     "kind": "method",
+     "text": "Gnomonkey builds his own budget setup of roughly the same value as the 39 mil downgrade setup (he says about 35 mil), which he expects to be about 50% more effective, and gives it a single attempt."
+    },
+    {
+     "t": 1570,
+     "kind": "method",
+     "text": "The budget setup uses Blood bark, Book of the Dead as the offhand, a Trident of the Swamp (three max hit higher than the regular Trident), an Occult necklace, a very cheap cape and Mixed hide armour."
+    },
+    {
+     "t": 1599,
+     "kind": "method",
+     "text": "The budget setup also uses a Lightbearer, dragon boots, gloves, a Blood fury and a Quiver, which Gnomonkey says are free or cheap."
+    },
+    {
+     "t": 1630,
+     "kind": "stat",
+     "text": "Gnomonkey uses a Hunter's sunlight crossbow (about 3k, a good MSB with better range) instead of a blowpipe, and says his range switch is a two-way, with 170 ranged accuracy compared with 184 for the Dragon crossbow."
+    },
+    {
+     "t": 1659,
+     "kind": "method",
+     "text": "He uses a bone dagger as a very good cheap defence-lowering spec and a DDS for the core, plus Osmumten's fang as his main melee weapon."
+    },
+    {
+     "t": 1691,
+     "kind": "trivia",
+     "text": "Gnomonkey found it is bugged to wear a Quiver in the Tombs of Amascut Tombs setup, which costs him a slot, but he says it does not matter because he has infinite restore."
+    },
+    {
+     "t": 1848,
+     "kind": "opinion",
+     "text": "Gnomonkey says killing things fast is better than blocking damage, because if they die they stop hitting you."
+    },
+    {
+     "t": 1910,
+     "kind": "tip",
+     "text": "Gnomonkey says he should have brought chinchompas for Kephri's room and regrets it."
+    },
+    {
+     "t": 1941,
+     "kind": "method",
+     "text": "Gnomonkey says thralls path towards the southwest tile only, so a thrall he summoned while attacking Kephri failed to find the boss."
+    },
+    {
+     "t": 2602,
+     "kind": "record",
+     "text": "Gnomonkey completed the 500 in the budget setup in 47 minutes 30 seconds, compared with 1 hour 12 minutes in the downgrade setup, and says the budget setup cost about 32 mil."
+    },
+    {
+     "t": 2602,
+     "kind": "record",
+     "text": "The budget run made about 1.1 mil in loot, more than the downgrade run, though Gnomonkey got no purple again."
+    },
+    {
+     "t": 2634,
+     "kind": "opinion",
+     "text": "Gnomonkey says the budget run avoided the mental tax of flicking an extra half hour with fewer Sanfew and that every room was free, calling a clear under 50 minutes for under 30 mil unbelievable."
+    }
+   ]
+  }
+ ]
+}

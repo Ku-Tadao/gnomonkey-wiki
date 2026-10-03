@@ -1,0 +1,119 @@
+{
+  "id": "H6qB5NmGEFQ",
+  "title": "Yama Contracts: Missed the Mark (OSRS)",
+  "date": "2025-05-09",
+  "type": "news-opinion",
+  "summary": "Gnomonkey reads Jagex's early blog section on Yama contracts and reacts live. He says the system is better than Awakener's Orbs but still flawed: contracts are solo-only despite the duo hype, enabled a week after release, obtained partly via a Slayer-like demon farming method that reminds him of RuneScape 3 Ascension keys, and still gatekeep content by GP once all contracts are used. He concludes that making hard content cost-per-attempt is the wrong approach and that, a week before launch, it is too late to fix.",
+  "outline": [
+    {"t": 0, "text": "Reading the Yama contracts blog section: tradable agreements, fixed rewards"},
+    {"t": 59, "text": "Seven bespoke contracts; they are not a simple harder-fight/better-drop system"},
+    {"t": 119, "text": "Contracts are solo only; reaction to the lack of a duo challenge"},
+    {"t": 204, "text": "Contracts enabled May 23rd, a week after release, and why a wait is needed"},
+    {"t": 406, "text": "Target-farming contracts from demons in the Chasm of Fire and the Ascension keys comparison"},
+    {"t": 641, "text": "Radiant Oathplate contracts and why the supply approach does not fix the issue"},
+    {"t": 738, "text": "No free re-access once contracts are used up; gatekeeping persists"},
+    {"t": 861, "text": "Cost-per-attempt aspirational content is bad; alternative ideas"},
+    {"t": 1018, "text": "Guaranteed tradable rewards and the Oathplate kit using the same system"},
+    {"t": 1134, "text": "Tradable contracts cannot be fixed after release; communication failures"},
+    {"t": 1261, "text": "Final take: step up from orbs but wrong approach, missed duo aspirational content"}
+  ],
+  "topics": [
+    {
+      "name": "Yama contracts",
+      "kind": "mechanic",
+      "claims": [
+        {"t": 29, "kind": "event", "text": "Jagex released a section of the following Wednesday's blog early to explain Yama contracts and let players give feedback before the game update."},
+        {"t": 29, "kind": "stat", "text": "Per the blog as read by Gnomonkey, Yama contracts are tradable agreements brought to Yama for a more challenging fight with a guaranteed reward if the player succeeds."},
+        {"t": 59, "kind": "requirement", "text": "On obtaining a contract, a player must decide whether to attempt it in a single try or sell it to another player, since the contract is consumed on the attempt."},
+        {"t": 90, "kind": "stat", "text": "Jagex states that base-form Yama is the intended experience for the overwhelming majority of players, with contracts as an added layer on top for those wanting to push themselves."},
+        {"t": 90, "kind": "stat", "text": "At the time of the blog there are at least seven bespoke Yama contracts; each should fundamentally change how the fight is approached and each offers a fixed reward known before the fight starts."},
+        {"t": 119, "kind": "stat", "text": "Jagex states Yama contracts are not a system of making the fight slightly harder and uniques slightly more common; some of Yama's restraints are removed and the reward is guaranteed on success."},
+        {"t": 119, "kind": "requirement", "text": "Yama contracts must be completed solo, per the blog; Jagex said it wanted to avoid having to handle two players with the same contract."},
+        {"t": 204, "kind": "event", "text": "Contracts could be obtained and their rewards seen at Yama's release, but Jagex planned to enable contracts fully on Friday, May 23rd, a week after release, to fix bugs and let players stock up in advance."},
+        {"t": 238, "kind": "opinion", "text": "Gnomonkey considers the one-week delay necessary because with a tradable drop and awakened-style bosses live instantly, contracts would cost around a hundred million GP and only the wealthiest players could attempt them."},
+        {"t": 641, "kind": "stat", "text": "Jagex said the contracts for the cosmetic Radiant Oathplate armor variant can be obtained from the demons in the Chasm, and expected them to be in greater supply than Awakener's Orbs and not break the bank like the chase for Sanguine Torva."},
+        {"t": 1018, "kind": "stat", "text": "Jagex said the purpose of guaranteed tradable rewards on rarer contracts is that skilled players profit every kill, because market forces mean the contract must be cheaper than the reward."},
+        {"t": 782, "kind": "stat", "text": "The blog says some contracts with guaranteed tradable rewards can only be obtained from Yama himself and not from the common Chasm demons."},
+        {"t": 794, "kind": "event", "text": "Per the blog, Jagex said the team is warm on the idea of repeat contracts for untradable rewards and would raise it as feedback if it comes up a lot."}
+      ]
+    },
+    {
+      "name": "Opinion: Solo-only Yama contracts",
+      "kind": "opinion",
+      "claims": [
+        {"t": 145, "kind": "opinion", "text": "Gnomonkey says he did not expect Yama contracts to simply be solo; he had expected duo contracts, as the hype around the boss had been a duo encounter."},
+        {"t": 174, "kind": "opinion", "text": "Gnomonkey finds it weird that the harder contract version is solo, since fewer players removes communication and team mechanics, so the difficulty both goes down and up; he thinks it would make more sense for base Yama to be solo and the hard mode to be duo."},
+        {"t": 200, "kind": "opinion", "text": "Gnomonkey says he would have liked a truly difficult duo challenge because nothing like that exists in the game, but acknowledges that a tradable drop system makes duo contracts really difficult to implement."},
+        {"t": 231, "kind": "opinion", "text": "Gnomonkey argues the fact contracts are tradable drops is forcing Jagex to make the content solo and holding the content back."},
+        {"t": 1261, "kind": "opinion", "text": "Gnomonkey says he would much prefer Yama to be the first true duo aspirational content in the game, noting the only group aspirational content is something like the Fang, which people are encouraged to do solo unless leeching."},
+        {"t": 1221, "kind": "event", "text": "Gnomonkey says Jagex staff indicated they had spoken about the duo versus solo problem and knew it would be rough, and would wait to see how things settle after release."},
+        {"t": 828, "kind": "opinion", "text": "Gnomonkey says you should not pitch a duo endgame boss and then make the endgame solo."}
+      ]
+    },
+    {
+      "name": "Update: Yama",
+      "kind": "update",
+      "claims": [
+        {"t": 0, "kind": "opinion", "text": "Gnomonkey says he is happy Jagex shared an early blog on Yama contracts but is not excited or at ease with most of it."},
+        {"t": 259, "kind": "opinion", "text": "Gnomonkey says waiting a week after release for contracts to be turned on kills a lot of the hype, since he wanted to rush the hard variant on day one and try for world first."},
+        {"t": 319, "kind": "opinion", "text": "Gnomonkey says contracts being off for the first week mostly affects streamers, and he would prefer the hard variant be available instantly so players can rush to learn the bosses."},
+        {"t": 1134, "kind": "opinion", "text": "Gnomonkey says a week before launch, a lot of the community's complaints about the Yama contract system cannot be fixed, particularly because the contracts are tied to the market."}
+      ]
+    },
+    {
+      "name": "Yama contracts: demon farming method",
+      "kind": "mechanic",
+      "claims": [
+        {"t": 406, "kind": "method", "text": "Besides drops from Yama, players can target farm certain contracts from demons in the Chasm of Fire by killing them in specific ways, with the demons displaying a glyph indicating how to dispatch them."},
+        {"t": 468, "kind": "method", "text": "Examples of glyph instructions include killing a demon with magic, using Slayer with invocations, or killing it while bound, and more active methods give better odds of a contract drop."},
+        {"t": 515, "kind": "opinion", "text": "Gnomonkey strongly dislikes the demon target-farming system and compares it to RuneScape 3's Ascension keys, where random key drops from ascension creatures were needed to fight a specific boss once."},
+        {"t": 523, "kind": "trivia", "text": "Gnomonkey describes the RuneScape 3 Ascension bosses as six bosses whose keys drop from blue Slayer creatures in a dungeon, with each key allowing one boss kill, and rewards that combine into a powerful crossbow."},
+        {"t": 523, "kind": "opinion", "text": "Gnomonkey says nobody likes the Ascension bosses because the activity is more about getting keys than killing the boss, and he says he has completed their collection log."},
+        {"t": 538, "kind": "opinion", "text": "Gnomonkey understands the logic of the demon source as a second, cheaper supply of contracts, but thinks it is not a fun way to get them and calls it a Slayer 2.0 system that does not benefit the game."},
+        {"t": 553, "kind": "stat", "text": "Jagex said the demon source is an easy lever to tweak, and that it will watch the volume of contracts entering the game, their price, and the feel for ironmen."},
+        {"t": 641, "kind": "opinion", "text": "Gnomonkey says that having used five contracts on Oathplate attempts, a player must either buy more as a main or kill greater demons for a while, and considers both unengaging."},
+        {"t": 1293, "kind": "opinion", "text": "Gnomonkey says needing AFK Slayer to unlock more attempts at the hardest content is backwards; doing something harder should be what lets you do it more."}
+      ]
+    },
+    {
+      "name": "Awakened bosses",
+      "kind": "mechanic",
+      "claims": [
+        {"t": 641, "kind": "opinion", "text": "Gnomonkey says the Yama contract system does share similarities with the Awakener's Orb system but differs in several ways, such as cosmetic contracts being target farmable and likely much cheaper than orbs."},
+        {"t": 738, "kind": "opinion", "text": "Gnomonkey says the Yama contract system keeps the main issue of Awakener's Orbs: after completing everything you can only continue by buying more contracts, and no free or no-loot access is mentioned."},
+        {"t": 828, "kind": "opinion", "text": "Gnomonkey says he believes the Yama system is better than Awakener's Orbs, with no question, but still has major flaws."},
+        {"t": 828, "kind": "opinion", "text": "Gnomonkey says even at a hypothetical 250k per contract, a quarter of an Awakener's Orb, contracts would still not allow grinding, challenges, speedruns or casual fights."},
+        {"t": 890, "kind": "opinion", "text": "Gnomonkey says aspirational content on a cost-per-attempt basis keeps people from trying new things; with Blorva it is not just mental, because if you do not get it in about 150 attempts you run out of money."},
+        {"t": 946, "kind": "opinion", "text": "Gnomonkey says cost-per-attempt systems make sense only if the attempt gives great loot or GP, not for a cosmetic, and he believes content should only be gatekept by skill, not GP."},
+        {"t": 977, "kind": "tip", "text": "Gnomonkey suggested alternative fix ideas such as paying around 50 Awakener's Orbs once for a splash pass granting unlimited awakened boss access, or paying to enter once with free re-entry after a successful kill."},
+        {"t": 1194, "kind": "opinion", "text": "Gnomonkey says gatekeeping makes the cosmetic prestigious in the wrong way, being more about GP than skill, and encourages servicing."},
+        {"t": 1342, "kind": "opinion", "text": "Gnomonkey says Jagex has taken the terrible Awakener's Orb system and tweaked it to be somewhat better, but he still considers the approach wrong and thinks it actively discourages people from playing."}
+      ]
+    },
+    {
+      "name": "Opinion: Developer communication and polls",
+      "kind": "opinion",
+      "claims": [
+        {"t": 1134, "kind": "opinion", "text": "Gnomonkey says tradable contracts will never be removed from the market once content releases, so unlike drop rates the system cannot be tweaked easily and should have been communicated and decided early."},
+        {"t": 1201, "kind": "opinion", "text": "Gnomonkey says he had heard rumors of this plan, including that Arcane had mentioned it at Rinfest, but nothing was written down, and the initial blog should have covered it."},
+        {"t": 1201, "kind": "opinion", "text": "Gnomonkey credits Mod Goblin for putting the info out and says mistakes were made all around."}
+      ]
+    },
+    {
+      "name": "Opinion: Guaranteed rewards and Oathplate kit",
+      "kind": "opinion",
+      "claims": [
+        {"t": 1018, "kind": "opinion", "text": "Gnomonkey says he is okay with the system of guaranteed rewards from contracts, but he would prefer a chance at rare drops on top of the guaranteed reward."},
+        {"t": 1074, "kind": "opinion", "text": "Gnomonkey's main problem is that the Oathplate cosmetic kit uses the exact same per-attempt paid system as the guaranteed-reward contracts, which he says he cannot get on board with."},
+        {"t": 1104, "kind": "opinion", "text": "Gnomonkey speculates that a guaranteed reward could be something like a large chunk of sunfire splinters for killing a Coliseum boss such as Echo Soul, and says he is fine with that type of reward but not with the cosmetic contracts gating the hardest content."}
+      ]
+    },
+    {
+      "name": "Opinion: Chasm of Fire contract acquisition and Sunfire splinter farming",
+      "kind": "opinion",
+      "claims": [
+        {"t": 1281, "kind": "opinion", "text": "Gnomonkey compares the boring contract-getting option to wave one farming for Sunfire splinters in Fortis Colosseum, a boring way to get more of a needed resource."}
+      ]
+    }
+  ]
+}

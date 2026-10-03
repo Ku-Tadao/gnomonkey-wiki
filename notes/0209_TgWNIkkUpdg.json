@@ -1,0 +1,341 @@
+{
+  "id": "TgWNIkkUpdg",
+  "title": "Tormented Demons Guide (OSRS)",
+  "date": "2025-03-04",
+  "type": "guide",
+  "summary": "An updated guide to Tormented Demons, which Gnomonkey calls the best Slayer monsters for GP right now. He covers gear (Arclight or Emberlight plus a Scorching bow), the punish mechanic using slow heavy weapons, the dropping shield that guarantees hits, the Purging staff trick, XP and GP rates, and why the Scorching bow is only good against demons.",
+  "outline": [
+    {
+      "t": 0,
+      "text": "Overview and gear: Eclipse armour, Arclight or Emberlight, two styles"
+    },
+    {
+      "t": 66,
+      "text": "Weapon selection: Scorching bow, Atlatl and blowpipe; which synapse item to make first"
+    },
+    {
+      "t": 130,
+      "text": "Inventory and punish weapons: heavy ranged and heavy crush"
+    },
+    {
+      "t": 206,
+      "text": "Spec weapons and teleport scrolls"
+    },
+    {
+      "t": 283,
+      "text": "Efficient trip management: spots and the Tears of Guthix route"
+    },
+    {
+      "t": 353,
+      "text": "Combat technique: predicting styles and the ten-attack cycle"
+    },
+    {
+      "t": 434,
+      "text": "The punish mechanic in detail"
+    },
+    {
+      "t": 510,
+      "text": "Bonus damage and fireballs"
+    },
+    {
+      "t": 593,
+      "text": "Shield dropping: flames out means you cannot miss"
+    },
+    {
+      "t": 680,
+      "text": "Advanced strategies: Purging staff and Mark of Darkness"
+    },
+    {
+      "t": 750,
+      "text": "XP rates and profitability"
+    },
+    {
+      "t": 820,
+      "text": "GP per hour and requirements"
+    },
+    {
+      "t": 886,
+      "text": "Scorching bow and early game on irons"
+    },
+    {
+      "t": 943,
+      "text": "Scorching bow limitations; common drops"
+    },
+    {
+      "t": 1003,
+      "text": "Slayer tasks and technique"
+    },
+    {
+      "t": 1087,
+      "text": "Mage versus ranged DPS and Emberlight shards"
+    },
+    {
+      "t": 1137,
+      "text": "Final tips: ranged weapon choices"
+    }
+  ],
+  "topics": [
+    {
+      "name": "Tormented Demon",
+      "kind": "boss",
+      "claims": [
+        {
+          "t": 0,
+          "kind": "opinion",
+          "text": "Gnomonkey considers Tormented demons the best Slayer monsters in the game for GP right now, and recommends any new account to get them as soon as possible."
+        },
+        {
+          "t": 0,
+          "kind": "tip",
+          "text": "Gnomonkey says Tormented demons require two combat styles, similar to demonic gorillas but, in his words, not boring."
+        },
+        {
+          "t": 353,
+          "kind": "tip",
+          "text": "Gnomonkey says Tormented demons attack with a random style (mage, range or melee), and if they walk towards you they are meleeing; if you safe spot a meleeing one they switch to other styles."
+        },
+        {
+          "t": 405,
+          "kind": "stat",
+          "text": "Gnomonkey says a Tormented demon uses the same attack style ten times in a row, then does a fireball special attack that turns your run off, which you can avoid being hit by while holding the control key to click out; it then swaps to another random style."
+        },
+        {
+          "t": 434,
+          "kind": "tip",
+          "text": "Gnomonkey says that by properly judging the style you will usually take about one hit per demon kill."
+        },
+        {
+          "t": 682,
+          "kind": "stat",
+          "text": "Gnomonkey says Tormented demons change their protection prayer every 25% of damage you deal."
+        },
+        {
+          "t": 520,
+          "kind": "stat",
+          "text": "Gnomonkey says they give a huge XP multiplier, with about 1k Slayer XP per kill drop."
+        },
+        {
+          "t": 788,
+          "kind": "stat",
+          "text": "According to Gnomonkey, kill rates are at most about 80 kills per hour for a fully maxed setup, 50 to 60 for less experienced players with worse gear, and he gets about 60 per hour on his account, giving around 60k Slayer XP per hour."
+        },
+        {
+          "t": 822,
+          "kind": "stat",
+          "text": "Gnomonkey says Tormented demons give around 10 million gp per hour at 80 kills per hour (about 7.5 million at 60 kills per hour) as profit after supplies, noting that the on-screen estimate used an outdated synapse price (synapses about 56 million and rising)."
+        },
+        {
+          "t": 1003,
+          "kind": "stat",
+          "text": "Gnomonkey says an extended Slayer task of Tormented demons gives 200 to 250 greater demons and takes about a minute each, making roughly a four-hour task."
+        },
+        {
+          "t": 1050,
+          "kind": "opinion",
+          "text": "Gnomonkey says you should always do Tormented demons on task rather than off task, because you get the Slayer helm bonus and the 1k Slayer XP drop per kill, and you can Turael-cancel to get a better task."
+        },
+        {
+          "t": 1003,
+          "kind": "tip",
+          "text": "Gnomonkey says he trained most of his combat stats by Turael-cancelling to get Tormented demon tasks."
+        },
+        {
+          "t": 825,
+          "kind": "opinion",
+          "text": "Gnomonkey says that for mains with under a 200 million bank it is really hard to beat Tormented demons for GP per hour, and early grinding them on a main is great."
+        },
+        {
+          "t": 1043,
+          "kind": "opinion",
+          "text": "Gnomonkey says killing multiple Tormented demons at once is technically faster because the punish is slightly faster, but in practice it barely raises kills per hour, so it is not worth it."
+        },
+        {
+          "t": 593,
+          "kind": "event",
+          "text": "Gnomonkey says that since his earlier guide, Jagex added an animation so that the flames on a Tormented demon's back go out when its shield drops, telling you that you cannot miss."
+        },
+        {
+          "t": 600,
+          "kind": "stat",
+          "text": "Gnomonkey says the shield drops roughly after four attacks, then you cannot miss, including mage hits in non-mage gear, until you punish again and the fires come back."
+        },
+        {
+          "t": 640,
+          "kind": "tip",
+          "text": "Gnomonkey says to wait to use your special attack until the fires go out, as it lets a Dragon dagger special, for example, hit repeatedly for around fifty."
+        },
+        {
+          "t": 0,
+          "kind": "tip",
+          "text": "Gnomonkey says Eclipse armour doubles as both ranged and melee armour for Tormented demons, letting you bring fewer switches."
+        }
+      ]
+    },
+    {
+      "name": "Punish mechanic",
+      "kind": "mechanic",
+      "claims": [
+        {
+          "t": 130,
+          "kind": "tip",
+          "text": "Gnomonkey says for the Tormented demon punish mechanic you want a slow heavy ranged weapon such as a heavy ballista (or a rune crossbow on accurate) and a slow heavy crush weapon such as Dharok's greataxe on crush (transcribed as 'Derox axe'), with the Abyssal maul as a nice second best."
+        },
+        {
+          "t": 174,
+          "kind": "tip",
+          "text": "Gnomonkey says the slower the weapon the more damage the punish does, so you should not bring five- or six-tick weapons like a Soul reaper or Saradomin godsword, and weapons such as a Chally or Dark bow do not work because they are not crush or heavy ranged."
+        },
+        {
+          "t": 490,
+          "kind": "stat",
+          "text": "According to Gnomonkey, during a punish your weapon attacks at four ticks regardless of its speed, and it adds bonus damage: 20 for a six-tick weapon and 33 for a seven-tick weapon like the Abyssal maul or ballista, on top of the normal hit."
+        },
+        {
+          "t": 435,
+          "kind": "tip",
+          "text": "Gnomonkey says you can punish right after your first attack on a demon and again every time it does fireballs, so you usually get two punishes per kill."
+        },
+        {
+          "t": 540,
+          "kind": "tip",
+          "text": "Gnomonkey says accidentally attacking when you should punish loses the punish, but nothing else eats it, as it was patched so burn no longer eats the punish and burning claws are fine."
+        },
+        {
+          "t": 574,
+          "kind": "tip",
+          "text": "Gnomonkey says the Dragon two-handed sword is also seven-tick on crush and works well for the punish."
+        },
+        {
+          "t": 510,
+          "kind": "stat",
+          "text": "Gnomonkey demonstrates punish hits of 52 and 77 damage with his weapons."
+        }
+      ]
+    },
+    {
+      "name": "Scorching bow",
+      "kind": "item",
+      "claims": [
+        {
+          "t": 55,
+          "kind": "opinion",
+          "text": "Gnomonkey says the Scorching bow is always best in slot against Tormented demons, and that the Atlatl is very good before you can get one."
+        },
+        {
+          "t": 87,
+          "kind": "stat",
+          "text": "Gnomonkey says synapses drop at one in five hundred from Tormented demons and one is needed to make the Scorching bow, Emberlight or Purging staff, and that the Scorching bow gives about 36% better damage over the Atlatl for part of the fight and 15% for another part."
+        },
+        {
+          "t": 87,
+          "kind": "opinion",
+          "text": "Gnomonkey says players should make the Scorching bow before Emberlight since the gap over the Atlatl is much bigger than Emberlight's over Arclight (17% for a chunk of the fight, then about 4%)."
+        },
+        {
+          "t": 886,
+          "kind": "tip",
+          "text": "Gnomonkey says on a new ironman getting a Scorching bow lets you go kill Zamorak immediately for a Zamorak hasta, and that he rushes this on every new hardcore he makes."
+        },
+        {
+          "t": 929,
+          "kind": "opinion",
+          "text": "Gnomonkey says the Scorching bow is not a Bofa replacement and is utterly useless outside demons."
+        },
+        {
+          "t": 960,
+          "kind": "opinion",
+          "text": "Gnomonkey says the Scorching bow is insane for Zamorak, quite good on Abyssal Sire vents, and that it is also good for general Slayer and for AFK ranged training; the one non-demon place he uses it is a Turael task whose name the transcript garbles."
+        },
+        {
+          "t": 1137,
+          "kind": "opinion",
+          "text": "Gnomonkey says ranked options for Tormented demons are Atlatl, blowpipe, Twisted bow slightly worse than the Scorching bow, and the Scorching bow best, and that the Bofa is not good here because slow accurate weapons waste the guaranteed-hit mechanic."
+        }
+      ]
+    },
+    {
+      "name": "Emberlight",
+      "kind": "item",
+      "claims": [
+        {
+          "t": 26,
+          "kind": "stat",
+          "text": "Gnomonkey says Emberlight and Arclight have only 13 strength bonus, so they soak up strength bonus and you should maximise strength bonus gear when using them."
+        },
+        {
+          "t": 26,
+          "kind": "opinion",
+          "text": "Gnomonkey says Arclight or Emberlight is your best DPS option against Tormented demons, and Emberlight does almost 11 DPS at best compared with 7 or 8 for the Scorching bow."
+        },
+        {
+          "t": 1087,
+          "kind": "stat",
+          "text": "Gnomonkey says Emberlight needs 30 Arclight shards (banked as you hit monsters, regardless of wasted charges), and recommends killing Dust Devils for shards because their drops pay back the cost of bursting them."
+        },
+        {
+          "t": 1087,
+          "kind": "tip",
+          "text": "Gnomonkey says to do as many burst tasks as possible to get shards, since Emberlight's jump over Arclight is smaller than the Scorching bow's jump over an Atlatl."
+        },
+        {
+          "t": 55,
+          "kind": "opinion",
+          "text": "Gnomonkey considers both the Scorching bow and Emberlight best in slot for Tormented demons."
+        }
+      ]
+    },
+    {
+      "name": "Purging staff",
+      "kind": "item",
+      "claims": [
+        {
+          "t": 680,
+          "kind": "tip",
+          "text": "Gnomonkey says that when a Tormented demon's shield is down you can cast a spell, even in melee gear, since you cannot miss, which changes the demon's prayer away from melee so you can keep meleeing."
+        },
+        {
+          "t": 680,
+          "kind": "tip",
+          "text": "Gnomonkey says he uses a Purging staff with Mark of Darkness and that any staff works to cast once, but it is especially important if you do not have a Scorching bow yet."
+        },
+        {
+          "t": 1090,
+          "kind": "opinion",
+          "text": "Gnomonkey says mage is not worth it against Tormented demons because there is no seven-tick mage weapon (besides Twinflame) and the runes cost a lot, including Mark of Darkness upkeep, even though mage is technically about 5% more DPS than the Scorching bow."
+        }
+      ]
+    },
+    {
+      "name": "Special attack",
+      "kind": "mechanic",
+      "claims": [
+        {
+          "t": 206,
+          "kind": "tip",
+          "text": "Gnomonkey says the Dragon dagger special is an extremely good spec on Tormented demons, because the guaranteed hit makes this inaccurate hard-hitting spec effective, with Burning claws best if you have them and the Abyssal dagger slightly better than the Dragon dagger."
+        },
+        {
+          "t": 920,
+          "kind": "tip",
+          "text": "Gnomonkey says Burning claws, dropped by Tormented demons, are amazing early and a great best spec weapon for a long time on an iron, especially with bad gear."
+        }
+      ]
+    },
+    {
+      "name": "Tears of Guthix",
+      "kind": "activity",
+      "claims": [
+        {
+          "t": 283,
+          "kind": "tip",
+          "text": "Gnomonkey says on a first trip when you lack teleport scrolls, you can use the games necklace to Tears of Guthix, use a sapphire lantern on the blue orbs and go down the pit to get dropped near the demons, with a long cutscene."
+        },
+        {
+          "t": 283,
+          "kind": "tip",
+          "text": "Gnomonkey says teleport scrolls (buyable on the Grand Exchange, and sustainable on an iron with even five-kill trips) save 30 to 45 seconds on each trip and are worth maintaining."
+        }
+      ]
+    }
+  ]
+}

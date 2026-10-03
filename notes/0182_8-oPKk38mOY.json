@@ -1,0 +1,349 @@
+{
+  "id": "8-oPKk38mOY",
+  "title": "Perilous Moons Boss Guide (OSRS)",
+  "date": "2024-10-20",
+  "type": "guide",
+  "summary": "A guide to the Perilous Moons bosses (Eclipse, Blue and Blood Moon) in Moons of Peril, covering requirements, tank gear, flat armour weapon choices, supplies, curse mechanics, step-unders and the drops. Gnomonkey argues Moons replaces Bandos and Barrows for ironmen because the Blood moon set, Boppers and Atlatl are so strong.",
+  "outline": [
+    {
+      "t": 0,
+      "text": "Intro: why Moons changes the ironman meta"
+    },
+    {
+      "t": 45,
+      "text": "Requirements: quest, Herblore, Hunter, Cooking"
+    },
+    {
+      "t": 148,
+      "text": "Gear: tank armour, slash defence, flat armour weapons"
+    },
+    {
+      "t": 297,
+      "text": "Preparation: thralls, kill order, campsite supplies"
+    },
+    {
+      "t": 504,
+      "text": "Moons mechanics: circle, hit splats, curse"
+    },
+    {
+      "t": 744,
+      "text": "Eclipse Moon fight"
+    },
+    {
+      "t": 772,
+      "text": "Blue Moon fight"
+    },
+    {
+      "t": 895,
+      "text": "Blood Moon fight and step-unders"
+    },
+    {
+      "t": 1072,
+      "text": "Chest, drops and sets"
+    },
+    {
+      "t": 1289,
+      "text": "Dupe protection and conclusion"
+    }
+  ],
+  "topics": [
+    {
+      "name": "Perilous Moons",
+      "kind": "boss",
+      "claims": [
+        {
+          "t": 0,
+          "kind": "opinion",
+          "text": "Gnomonkey says Moons has completely changed the ironman meta: you do Moons instead of getting Bandos, and all of the drops are super good."
+        },
+        {
+          "t": 0,
+          "kind": "opinion",
+          "text": "In the description Gnomonkey says the Perilous Moons update replaced the tedious early/mid level grind, so ironmen no longer farm Barrows or Bandos, and with Moons dupe protection you get stronger armour in less time."
+        },
+        {
+          "t": 0,
+          "kind": "opinion",
+          "text": "Gnomonkey says Barrows is not dead content but is becoming dangerously close if Jagex keeps releasing extremely overpowered early/mid-game content like this."
+        },
+        {
+          "t": 27,
+          "kind": "requirement",
+          "text": "To fight the Perilous Moons you need the Moons of Peril quest (around 50 Slayer), and Gnomonkey wants 55 Herblore before coming, since you make your own supplies there and 55 Herblore gives the super strength effect."
+        },
+        {
+          "t": 55,
+          "kind": "requirement",
+          "text": "Gnomonkey says 70 Herblore gives the extreme defence effect from the Moons potions, which is really helpful there."
+        },
+        {
+          "t": 55,
+          "kind": "tip",
+          "text": "Gnomonkey says Hunter and Cooking also help at Moons: Hunter is easy with Hunter contracts and Cooking is trained with Trouble Brewing, which was recently buffed to over 200k Cooking XP an hour."
+        },
+        {
+          "t": 85,
+          "kind": "stat",
+          "text": "At Perilous Moons the food heals you for half your Hunter level or a third of your Cooking level, whichever is lower, so with both in the 70s Gnomonkey says the food heals about 25."
+        },
+        {
+          "t": 306,
+          "kind": "tip",
+          "text": "Gnomonkey says the kill order is Eclipse, then Blue Moon, then Blood Moon, which speeds up looting the chest and getting back in."
+        },
+        {
+          "t": 366,
+          "kind": "tip",
+          "text": "At the campsite you can right click to make cuppa, which gives full run energy each time, so you do not need stamina potions at Moons."
+        },
+        {
+          "t": 1367,
+          "kind": "opinion",
+          "text": "Gnomonkey says Moons has shifted the meta: you do not have to go to Bandos early or do Barrows to full collection log, it supercharges the mid-game, with no supply use and incredibly good drops that train your skills, so you should come as early as possible."
+        }
+      ]
+    },
+    {
+      "name": "Moons of Peril",
+      "kind": "mechanic",
+      "claims": [
+        {
+          "t": 501,
+          "kind": "method",
+          "text": "In Moons of Peril there is a circle icon you follow around the moons and stay inside; outside the circle you take constant damage that ramps up to 16s, which will kill you."
+        },
+        {
+          "t": 522,
+          "kind": "method",
+          "text": "Every moon attack swings three times (three hit splats) and checks accuracy for each; if any splat misses, the later splats are zero, and the third splat maxes twice as high (20 instead of 10) and carries the ramping curse."
+        },
+        {
+          "t": 646,
+          "kind": "method",
+          "text": "Step-unders: you cannot be attacked by the moon if you step under it, so by clicking under the moon when its animation starts the third hit splat can never hit you."
+        },
+        {
+          "t": 646,
+          "kind": "tip",
+          "text": "Gnomonkey says shield flicking helps a lot at Moons for roughly 20% less damage taken, and a default RuneLite plugin tracks your curse value."
+        },
+        {
+          "t": 1067,
+          "kind": "tip",
+          "text": "Gnomonkey says to eat after every rotation of the moons, and to check whether you have enough food and potions for the next three moons when you reach Blue Moon's campsite."
+        }
+      ]
+    },
+    {
+      "name": "Eclipse Moon",
+      "kind": "boss",
+      "claims": [
+        {
+          "t": 177,
+          "kind": "stat",
+          "text": "Eclipse Moon has positive five flat armour, so every hit against it is reduced by five; Gnomonkey says to use big, slow-hitting weapons."
+        },
+        {
+          "t": 150,
+          "kind": "tip",
+          "text": "Gnomonkey says a Zombie axe is almost necessary at Eclipse Moon, calling it your best option until a Zamorakian hasta (as heard, 'hosta'), and that Eclipse is so terrible without one."
+        },
+        {
+          "t": 204,
+          "kind": "stat",
+          "text": "If you have no hasta the Zombie axe is only about 10% worse at Eclipse, and it is also the best option for the clone phase."
+        },
+        {
+          "t": 585,
+          "kind": "method",
+          "text": "Eclipse Moon's curse: for each of his three hit splats that lands it adds curse equal to the hit times 1, 3 and 5 respectively; curse caps at 128, decays by about two every four ticks, and reduces your max hit when you attack, up to 8 max off each hit at full stack."
+        },
+        {
+          "t": 708,
+          "kind": "tip",
+          "text": "Gnomonkey says you should basically never use specials on Eclipse because multi-hit specs are each reduced by five."
+        },
+        {
+          "t": 738,
+          "kind": "method",
+          "text": "In Eclipse Moon's clone phase you click in the direction of the moon and your character auto-attacks; Eclipse has reduced armour, around two instead of five, and Gnomonkey believes hits are guaranteed to pass accuracy."
+        }
+      ]
+    },
+    {
+      "name": "Blue Moon",
+      "kind": "boss",
+      "claims": [
+        {
+          "t": 204,
+          "kind": "stat",
+          "text": "Blue Moon has negative five flat armour, so every hit splat is boosted by five, which makes double-hit weapons like Boppers amazing against him."
+        },
+        {
+          "t": 770,
+          "kind": "method",
+          "text": "Blue Moon's curse adds 2, 4 and 8 curse if the first, second and third hit splats hit you regardless of damage, and at 18 curse it freezes you for one attack; Gnomonkey says people consider Blue Moon the easiest because this curse is the least bad."
+        },
+        {
+          "t": 800,
+          "kind": "tip",
+          "text": "In Blue Moon's tornado phase, lighting the braziers prevents Blue Moon from healing; if tornadoes hit you, hold control to keep run on."
+        },
+        {
+          "t": 854,
+          "kind": "stat",
+          "text": "Gnomonkey says the minimum hit with Boppers on Blue Moon is 12 because double hits are boosted by 5 per hit, as long as they hit."
+        },
+        {
+          "t": 860,
+          "kind": "tip",
+          "text": "Gnomonkey calls one Moons special the most pointless special in the game: it hits 0 to 10 if you fail it, so you can AFK on one tile."
+        }
+      ]
+    },
+    {
+      "name": "Blood Moon",
+      "kind": "boss",
+      "claims": [
+        {
+          "t": 204,
+          "kind": "stat",
+          "text": "Blood Moon has negative two flat armour, so each hit splat is boosted by two."
+        },
+        {
+          "t": 275,
+          "kind": "tip",
+          "text": "Gnomonkey recommends the Dragon dagger special attack on Blood Moon because DDS is a slash spec and each hit is boosted by two for about plus four damage; Burning claws are better."
+        },
+        {
+          "t": 894,
+          "kind": "opinion",
+          "text": "Gnomonkey says Blood Moon is the most dangerous moon and the hardest, especially if your defence, Herblore or DPS is low."
+        },
+        {
+          "t": 894,
+          "kind": "method",
+          "text": "Blood Moon heals based on what he hits you: the first splat heals the hit, the second heals three times the hit, and the third heals between 30 and 45."
+        },
+        {
+          "t": 927,
+          "kind": "tip",
+          "text": "Gnomonkey says step-unders are essential at Blood Moon because stepping under means the third hit splat never lands, so you never see the 30-plus heal and the curse stacks slower."
+        },
+        {
+          "t": 955,
+          "kind": "tip",
+          "text": "Gnomonkey says at Blood Moon you open by spamming specs (DDS or Burning claws), then the Jaguar phase: click away from the jaguars just before their animation, since hitting them only heals you."
+        },
+        {
+          "t": 953,
+          "kind": "tip",
+          "text": "Gnomonkey says there is a rare bug on entering the Blood Moon room where the timing is wrong."
+        }
+      ]
+    },
+    {
+      "name": "Moons gear and weapons",
+      "kind": "item",
+      "claims": [
+        {
+          "t": 90,
+          "kind": "tip",
+          "text": "Gnomonkey says Moons is the one place in the game where you need tank armour, because each moon's negative effect when you get hit matters; all of the moons attack with slash so slash defence is key."
+        },
+        {
+          "t": 119,
+          "kind": "opinion",
+          "text": "Gnomonkey says the Rune kite shield is a surprisingly good option at Moons with over 50 slash defence, with a Crystal shield about six higher."
+        },
+        {
+          "t": 305,
+          "kind": "tip",
+          "text": "Gnomonkey wears the Blood moon helmet at Moons because it has higher slash defence than a Neitiznot faceguard, which is plenty good if you do not have one; he also recommends getting a tank top and bottom from Barrows or at least Dragon platelegs."
+        },
+        {
+          "t": 270,
+          "kind": "tip",
+          "text": "Gnomonkey says he wears an Amulet of glory for defence even though strength is a bit better for DPS, and Mixed hide boots are tankier than climbing boots."
+        },
+        {
+          "t": 230,
+          "kind": "tip",
+          "text": "Gnomonkey says to get the Sulphur blades and Glacial hammers from the sulphur nagas and frost nagas before going to Moons; Sulphur blades are slash and best until a whip on Blood Moon, Glacial hammers are best until Boppers, and he considers Boppers best until scythe."
+        },
+        {
+          "t": 346,
+          "kind": "tip",
+          "text": "Gnomonkey says thralls are really good at Moons and uses the Ghostly grasp spell to keep the thrall attacking; if you have no thralls bring no spells."
+        }
+      ]
+    },
+    {
+      "name": "Moons food and potions",
+      "kind": "mechanic",
+      "claims": [
+        {
+          "t": 382,
+          "kind": "tip",
+          "text": "Gnomonkey catches lizards rather than fish at Moons because lizards cook into multiple food, up to three depending on your Cooking level, whereas fish heal only 33% of your fishing or cooking level, whichever is lower, and take longer."
+        },
+        {
+          "t": 441,
+          "kind": "tip",
+          "text": "Gnomonkey collects six lizards, enough for about two rounds of kill count, and cooks more of them after fights; he says you only need enough food for the current encounter."
+        },
+        {
+          "t": 468,
+          "kind": "method",
+          "text": "To make potions at Moons you grind up herbs with a pestle and mortar and decant; Gnomonkey grabs eight and decants them, which covers quite a few kills, and the doses you get are random, possibly based on Herblore level."
+        },
+        {
+          "t": 468,
+          "kind": "tip",
+          "text": "Gnomonkey says five food should be good for Eclipse."
+        }
+      ]
+    },
+    {
+      "name": "Perilous Moons drops",
+      "kind": "item",
+      "claims": [
+        {
+          "t": 1076,
+          "kind": "tip",
+          "text": "The Moons chest drops include super compost (easy to make into ultra compost), Irit and Harralander herbs for Herblore training, and bones including Wyrmling bones, Bone shards and Sunkist bones for passive Prayer training of about 10k Prayer XP per hour, per Gnomonkey."
+        },
+        {
+          "t": 1111,
+          "kind": "tip",
+          "text": "Moons chest drops water orbs, which are really good Crafting training through battlestaves and also give profit."
+        },
+        {
+          "t": 1141,
+          "kind": "opinion",
+          "text": "Gnomonkey says the Atlatl is amazing because it is effectively a mini blowpipe and is your ranged option until you have a blowpipe; the Eclipse set gives a burn chance on Atlatl hits for an extra 10 damage and he has used it at Tombs of Amascut and Chambers of Xeric."
+        },
+        {
+          "t": 1168,
+          "kind": "opinion",
+          "text": "Gnomonkey says Blue moon armour is basically Ahrim's with a strength bonus and not as heavy, super good at Tombs of Amascut, and the Blue moon spear gives 5% magic damage early."
+        },
+        {
+          "t": 1199,
+          "kind": "opinion",
+          "text": "Gnomonkey says Blood moon is Bandos armour and the helmet gives one more strength than a Neitiznot faceguard, and that Dual macuahuitl (Boppers) are an amazing main hand weapon, best until very late, with the full set giving roughly 3.5 tick attack speed instead of four."
+        },
+        {
+          "t": 1229,
+          "kind": "opinion",
+          "text": "Gnomonkey says everything from Moons is useful, so it is really good to rush Moons on an ironman because it gives you everything you need."
+        },
+        {
+          "t": 1289,
+          "kind": "tip",
+          "text": "Moons has dupe protection, so a Blood moon roll after getting the armour will be a missing piece; Gnomonkey says that once you have a full set from one moon, you can stop killing that moon and kill the other two, which does reduce your common loot."
+        }
+      ]
+    }
+  ]
+}

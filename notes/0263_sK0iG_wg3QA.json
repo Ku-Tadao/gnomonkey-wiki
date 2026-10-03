@@ -1,0 +1,172 @@
+{
+  "id": "sK0iG_wg3QA",
+  "title": "AMAZING NEW SLAYER SAILING BLOG (OSRS)",
+  "date": "2025-09-18",
+  "type": "news-opinion",
+  "summary": "Gnomonkey reacts to the official Sailing blog about new Slayer creatures and unique drops: gryphons and a Shellbane gryphon boss, Aquanites, lava strykewyrms and frost dragons, plus a gleaming rapier and an off-hand bolt shield. He is positive on the Slayer additions, especially the mid-game stab weapon, but wants some high-level content for long-term players at launch.",
+  "outline": [
+    {"t": 0, "text": "Introduction to the Sailing Slayer blog; Gnomonkey appears in the blog video"},
+    {"t": 28, "text": "Gryphons: requirements, weight mechanic, Horn of Plenty"},
+    {"t": 181, "text": "Shellbane gryphon Slayer boss and gleaming rapier"},
+    {"t": 331, "text": "Gryphon pet and Aquanites"},
+    {"t": 389, "text": "Aquanite task details and the Aquanite hopper ranged off-hand"},
+    {"t": 569, "text": "Lava strykewyrms: requirements, assignment and drops"},
+    {"t": 722, "text": "Frost dragons: requirements, prayer bones"},
+    {"t": 849, "text": "Sailing pets poll and skill total worlds poll"},
+    {"t": 915, "text": "Bank space increase, hemostatic dressing, max cape clarification"},
+    {"t": 1036, "text": "Overall thoughts on the Slayer additions"},
+    {"t": 1124, "text": "Wish for higher-level Sailing content at launch"}
+  ],
+  "topics": [
+    {
+      "name": "Sailing",
+      "kind": "update",
+      "claims": [
+        {"t": 0, "kind": "event", "text": "In September 2025 the official Sailing blog covered new Slayer creatures and unique drops that are being added with the Sailing skill; Gnomonkey appears in the official blog video."},
+        {"t": 28, "kind": "trivia", "text": "Many of the new Sailing Slayer monsters are returning from RuneScape 3 (RS2), which Gnomonkey says he has experience with."},
+        {"t": 1124, "kind": "opinion", "text": "Gnomonkey would like at least one higher-level boss or piece of content added for Sailing, since the highest-level Sailing content he sees in the blog is frost dragons."},
+        {"t": 1182, "kind": "opinion", "text": "Gnomonkey believes much of the hate for Sailing from higher-level players comes from there being nothing added that entices long-term players, and says he himself is all about Sailing."},
+        {"t": 1182, "kind": "event", "text": "Gnomonkey says he thinks higher-level Sailing content is planned for roughly six months after launch."},
+        {"t": 1210, "kind": "opinion", "text": "Gnomonkey wants all Sailing levels at least somewhat fleshed out before launch, so that players do not stop caring about training Sailing after level 60 because there is nothing to unlock."},
+        {"t": 1124, "kind": "opinion", "text": "Gnomonkey is unsure what players will use dragon cannonballs made through Sailing on, saying that does not sound like it points at much high-level content."},
+        {"t": 849, "kind": "opinion", "text": "Gnomonkey says he wants the turtle as the new Sailing pet rather than the hermit crab, which he thinks looks odd and tall."},
+        {"t": 915, "kind": "event", "text": "The blog says Sailing launch plans include stress testing to make sure the game is not laggy, and a feedback survey at the bottom of the blog."}
+      ]
+    },
+    {
+      "name": "Slayer",
+      "kind": "skill",
+      "claims": [
+        {"t": 1036, "kind": "opinion", "text": "Gnomonkey thinks the Sailing blog is good for Slayer and that many of the additions are solid."},
+        {"t": 1036, "kind": "opinion", "text": "Gnomonkey considers Aquanites likely to be a high-XP Slayer task, and hopes single-target additions like lava strykewyrms get buffed Slayer XP so they do not just clog up the Slayer unlock list."},
+        {"t": 400, "kind": "opinion", "text": "Gnomonkey says anything that is cannonable or can be hit with a Venator bow is good in his book and should be added to Slayer, because Slayer is really slow."},
+        {"t": 722, "kind": "opinion", "text": "Gnomonkey says anything added to Slayer that gives bad Slayer XP makes Slayer even slower."},
+        {"t": 90, "kind": "opinion", "text": "Gnomonkey is not worried about the gryphon task being forced on players, noting from the blog that the new creatures are not forced and are not a nerf to Slayer."}
+      ]
+    },
+    {
+      "name": "Gryphon",
+      "kind": "other",
+      "claims": [
+        {"t": 28, "kind": "requirement", "text": "Gryphons are met through the Tortugon questline and require the quest to unlock; they need 51 Slayer, 45 Sailing and 60 combat."},
+        {"t": 28, "kind": "stat", "text": "Gryphons attack with melee and are weak to magic; Gnomonkey notes air spells make sense because anything flying has an air weakness, and you can also melee them."},
+        {"t": 28, "kind": "trivia", "text": "Gryphons have a special mechanic where if a player's total weight is too low, the gryphon knocks them back, dealing unavoidable damage."},
+        {"t": 55, "kind": "opinion", "text": "Gnomonkey notes that magic gear is lightweight, so a mager might need extra weight, but that endgame armours such as Masori are very heavy so high-level players should not be affected."},
+        {"t": 90, "kind": "stat", "text": "Gryphons can be assigned by Vannaka, Konar, Nieve and Duradel."},
+        {"t": 115, "kind": "stat", "text": "Gryphons drop gryphon feathers, tradable items used to charge the Horn of Plenty."},
+        {"t": 331, "kind": "event", "text": "A gryphon pet is being added; Gnomonkey says no picture was shown and he hopes it can fly, since he likes flying pets such as Kree'arra."}
+      ]
+    },
+    {
+      "name": "Horn of Plenty",
+      "kind": "item",
+      "claims": [
+        {"t": 115, "kind": "stat", "text": "The Horn of Plenty is a new off-hand item requiring level 50 Hunter; when equipped and charged with gryphon feathers it provides an invisible +4 boost to Hunter level."},
+        {"t": 148, "kind": "stat", "text": "While equipped, the Horn of Plenty consumes a charge once every 2,500 catches."},
+        {"t": 148, "kind": "stat", "text": "The Horn of Plenty can be toggled on to give a 1 in 10 chance to double a Hunter catch; a doubled catch consumes an additional gryphon feather and grants no extra XP."},
+        {"t": 148, "kind": "opinion", "text": "Gnomonkey likens the Horn of Plenty's extra catch to the rod blessing for fishing, and thinks it will be nice for chinchompa hunting; he wonders whether the invisible boost lets players set extra traps."}
+      ]
+    },
+    {
+      "name": "Shellbane gryphon",
+      "kind": "boss",
+      "claims": [
+        {"t": 181, "kind": "stat", "text": "The Shellbane gryphon is a new Slayer boss requiring 51 Slayer; Gnomonkey says it is the lowest-level Slayer boss in the game, as most are above the 70s."},
+        {"t": 181, "kind": "stat", "text": "Like normal gryphons, the Shellbane gryphon is weak to magic but can also be defeated with melee; it primarily attacks with melee but has a ranged attack too."},
+        {"t": 209, "kind": "opinion", "text": "Gnomonkey expects the Shellbane gryphon to be mageable, assumes players will need extra weight as with regular gryphons, and doubts it will be very hard."},
+        {"t": 209, "kind": "event", "text": "The Shellbane gryphon's unique drop is the gleaming rapier."},
+        {"t": 1124, "kind": "opinion", "text": "Gnomonkey says the Shellbane gryphon is at the low end of mid-level content at 50 Slayer, so it is probably not going to be very hard."}
+      ]
+    },
+    {
+      "name": "Gleaming rapier",
+      "kind": "item",
+      "claims": [
+        {"t": 209, "kind": "stat", "text": "The gleaming rapier is a new tradable melee weapon requiring 65 Attack, with a 5-tick attack speed (the normal rapier is 4-tick)."},
+        {"t": 242, "kind": "stat", "text": "Gnomonkey describes the gleaming rapier as effectively a zombie axe but stab, and his calculations show it almost the same as a Zamorakian hasta."},
+        {"t": 242, "kind": "stat", "text": "With mid-level gear and 85 combat stats, Gnomonkey's calcs show the gleaming rapier only about 2% worse than a Zamorakian hasta against Baba, and about 3.5% worse against Eclipse moon."},
+        {"t": 242, "kind": "opinion", "text": "Gnomonkey thinks the gleaming rapier may be an effective way to skip the Zamorakian hasta, which has been near-mandatory: players have had to kill Tormented Demons and then go kill Zammy to get a weapon to do Tombs of Amascut with. He says both routes are valid."},
+        {"t": 276, "kind": "opinion", "text": "Gnomonkey says stab weapons for mid-game ironmen were lacking, with the only mid-game option being the dragon sword, which is super rare and which nobody goes to get, so players used the Arcanblade (as transcribed) until the hasta; he calls the gleaming rapier a good mid-level weapon drop that fills a gap."},
+        {"t": 1064, "kind": "opinion", "text": "Gnomonkey notes ironmen have been using a zombie axe on Eclipse moon despite its stab weakness because there are no mid-game stab weapons, and says the rapier gives a different option than going for the hasta."}
+      ]
+    },
+    {
+      "name": "Aquanite",
+      "kind": "other",
+      "claims": [
+        {"t": 331, "kind": "stat", "text": "Aquanites are level 86 Slayer monsters returning from RuneScape 3; Gnomonkey recalls that back then they mainly dropped seeds and almost nobody killed them."},
+        {"t": 389, "kind": "requirement", "text": "Aquanites need 86 Slayer and 73 Sailing, are assigned by Nieve and Duradel with a weight of 5, and the extend (150 to 200 kills) costs 80 points; they are an unlockable task."},
+        {"t": 374, "kind": "stat", "text": "Aquanites are found in multi-way combat and can be cannoned, with elder aquanite superior variants that test the player's ability to swap prayers."},
+        {"t": 400, "kind": "opinion", "text": "Gnomonkey expects Aquanites to be a good XP task with a Venator bow and cannon, and thinks the unlock is probably worth buying just for the XP."},
+        {"t": 331, "kind": "opinion", "text": "Gnomonkey hopes the Aquanite drop table is more interesting than just seeds, perhaps filling the gap left by seed nerfs at raids."}
+      ]
+    },
+    {
+      "name": "Aquanite hopper",
+      "kind": "item",
+      "claims": [
+        {"t": 427, "kind": "stat", "text": "An aquanite tendon, which Aquanites can drop, can be combined with a mithril bar to create the Aquanite hopper, a ranged off-hand."},
+        {"t": 456, "kind": "stat", "text": "The Aquanite hopper gives crossbows a 10% chance to fire twice, with the second bolt having reduced damage, accuracy and enchanted bolt chance (blog says 67% reduced)."},
+        {"t": 485, "kind": "opinion", "text": "Gnomonkey assumes the second bolt works at 33% damage and accuracy, given the blog says it won't replace the Twisted buckler as best in slot, and notes it would add only about a 2% extra chance at a ruby proc."},
+        {"t": 545, "kind": "stat", "text": "The Aquanite hopper gives +12 ranged attack and +1 ranged strength, against the Twisted buckler's +18 and +10 as Gnomonkey remembers them."},
+        {"t": 515, "kind": "opinion", "text": "Gnomonkey thinks the Aquanite hopper could be a gap filler for ironmen before the Twisted buckler, because ranged off-hands are hard to obtain, and calls it either pretty good or pretty garbage depending on implementation."}
+      ]
+    },
+    {
+      "name": "Lava strykewyrm",
+      "kind": "other",
+      "claims": [
+        {"t": 571, "kind": "stat", "text": "Lava strykewyrms need 62 Slayer, 60 Sailing and 70 combat, are assigned by Konar, Nieve and Duradel, and have very low task weights (4 from Duradel)."},
+        {"t": 571, "kind": "trivia", "text": "In RuneScape 3, lava strykewyrms were the source of the ashes tertiary for aggression potions and gave good prayer XP, at a much higher Slayer level (around 90-something); the new version is much lower level."},
+        {"t": 604, "kind": "opinion", "text": "Gnomonkey hopes lava strykewyrms can be attacked instantly rather than needing the old mound-stepping animation of about 5-6 ticks, which he found annoying."},
+        {"t": 628, "kind": "stat", "text": "Lava strykewyrms are part of the wyrm tasks, attack with melee or ranged, and a superior magma strykewyrm can burrow underground; some magic spells weaken them while others may make them stronger."},
+        {"t": 633, "kind": "stat", "text": "The wyrm task extend increases the number assigned to 200 to 250 and costs 100 points."},
+        {"t": 665, "kind": "opinion", "text": "Gnomonkey notes strykewyrms are not mentioned as multi or cannonable, so he does not expect fast XP, and hopes they get buffed Slayer XP like Tormented Demons did."},
+        {"t": 692, "kind": "stat", "text": "Lava strykewyrms drop strykewyrm bones, worth 60 prayer XP when buried (between wyrm and dragon bones), plus bone shards; they also drop dragon sheets used in Sailing."}
+      ]
+    },
+    {
+      "name": "Frost dragon",
+      "kind": "other",
+      "claims": [
+        {"t": 722, "kind": "trivia", "text": "In RuneScape 3, frost dragons were the best prayer XP method because their bones gave great prayer XP."},
+        {"t": 722, "kind": "stat", "text": "Frost dragons can be fought outside Slayer tasks and also assigned as low-weight tasks to higher-level Slayer masters, without needing to be unlocked with Slayer points."},
+        {"t": 755, "kind": "stat", "text": "Frost dragons attack with melee and icy dragonfire, are weak to stab, are found in single-way combat where cannons will not work."},
+        {"t": 755, "kind": "requirement", "text": "Frost dragons need 87 Sailing (Gnomonkey calls it a very high Slayer/Sailing requirement, the highest he has seen laid out) and 85 combat; Nieve assigns 30-40 and Duradel 20-30 with very low weight."},
+        {"t": 784, "kind": "stat", "text": "Frost dragon bones give 100 prayer XP when buried, placing them between lava dragon bones and hydra bones; they also drop dragon sheets."},
+        {"t": 818, "kind": "opinion", "text": "Gnomonkey says that if frost dragons are as low-health as in RS3 or as tanky as blue dragons, they could be very good prayer training and the new meta for ironmen."}
+      ]
+    },
+    {
+      "name": "Poll: Sailing skill total worlds",
+      "kind": "opinion",
+      "claims": [
+        {"t": 882, "kind": "event", "text": "Because total levels are rising with Sailing, the blog asks about skill total worlds: raising the 2200 requirement to 2250, or adding a new tier above 2200 such as 2350."},
+        {"t": 882, "kind": "opinion", "text": "Gnomonkey calls skill total worlds terrible, the slowest and laggiest worlds, and says he does not care what is decided; he would only use a 2350 world if it turned out good."}
+      ]
+    },
+    {
+      "name": "Bank space",
+      "kind": "update",
+      "claims": [
+        {"t": 915, "kind": "event", "text": "With Sailing, the blog proposes adding 100 bank spaces for all members at no cost, plus an extra 10 spaces per bank space unlock purchased, increasing maximum bank space by 190 in total."},
+        {"t": 915, "kind": "opinion", "text": "Gnomonkey thinks the extra bank space is appropriate because Sailing is adding a huge number of items, such as potions, fish and ship components."}
+      ]
+    },
+    {
+      "name": "Max cape",
+      "kind": "item",
+      "claims": [
+        {"t": 997, "kind": "event", "text": "When Sailing launches, players will keep their max cape but cannot equip it until they have re-maxed; if worn at next login it is unequipped automatically, like the quest cape when requirements are no longer met."},
+        {"t": 997, "kind": "event", "text": "Cosmetic variants of the max cape (Gnomonkey mentions Inferno cape buyers) can be dismantled, returning both the base max cape and the item it was combined with."}
+      ]
+    },
+    {
+      "name": "Hemostatic dressing",
+      "kind": "item",
+      "claims": [
+        {"t": 976, "kind": "event", "text": "The anti-bleed tonic is being renamed hemostatic dressing, with a slightly changed way of making it; it cures bleed when used, for example at Vardorvis."}
+      ]
+    }
+  ]
+}

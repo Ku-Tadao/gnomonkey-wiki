@@ -1,0 +1,55 @@
+{
+ "id": "yJCJ-7T_oxQ",
+ "title": "1 HP DHAROK ECHO SOL (OSRS)",
+ "date": "2024-11-30",
+ "type": "challenge",
+ "summary": "Gnomonkey kills Echo Sol in Leagues 5 using a 1 HP Dharok bomb build with the Gloves of the Damned, after many deaths to random attacks and footwork mistakes. He first gets a 1:04 kill and then a 54 second kill, and says the theoretical max hit with all echoes, Piety and Last Stand is 1692.",
+ "outline": [
+  {"t": 0, "text": "Setup and first attempts"},
+  {"t": 75, "text": "Unlucky deaths to random attacks"},
+  {"t": 178, "text": "DPS optimisation and totems"},
+  {"t": 285, "text": "Refining the method and skipping parts of the fight"},
+  {"t": 381, "text": "Mid-combat adjustments and dropping ticks"},
+  {"t": 515, "text": "Chasing faster kills and using the recall orb at 1 HP"},
+  {"t": 609, "text": "Random encounter trouble"},
+  {"t": 741, "text": "Final push strategy"},
+  {"t": 868, "text": "Victory in 1:04 and loot"},
+  {"t": 926, "text": "Setting a personal best of 54 seconds"}
+ ],
+ "topics": [
+  {
+   "name": "Echo Sol",
+   "kind": "boss",
+   "claims": [
+    {"t": 0, "kind": "method", "text": "Gnomonkey's 1 HP Dharok bomb setup for Echo Sol in Leagues 5 is Ultor ring, Asgarnia boots, the Gloves of the Damned (which double Dharok's damage), full Dharok's, Rancor and an Inferno cape, which he calls basically max for his regions except for the Primordial boots."},
+    {"t": 30, "kind": "stat", "text": "Gnomonkey's first hit on Echo Sol with the 1 HP Dharok build was 126, with the next 147; he notes 147 as the max Dharok hit, and 213 as his biggest hit in Leagues at that point."},
+    {"t": 191, "kind": "tip", "text": "Gnomonkey says Dharok's set is 100% the best DPS on Echo Sol at roughly 60 DPS, and that the DPS totems stack, so he tried to see how far he could get without tagging totems."},
+    {"t": 609, "kind": "tip", "text": "Gnomonkey found that he can reach 1 HP for the build by saving the recall orb at 1 HP, so that clicking the orb puts him at 1 HP every time because this league's recall orb remembers your stats."},
+    {"t": 280, "kind": "tip", "text": "Gnomonkey considers it possible to skip the last parts of the Echo Sol fight from about 25% health and finish with Dharok's hits, trying it as a method to get faster kills."},
+    {"t": 388, "kind": "tip", "text": "Gnomonkey found that waiting to see the hitsplats and react, dropping a tick rather than starting to attack immediately, avoids getting hit by Echo Sol's attacks, saying 'it's not worth it' to risk the tick."},
+    {"t": 646, "kind": "stat", "text": "Echo Sol's special attack heals are not triggered by Dharok's hits since Jagex made Dharok not trigger heals, which Gnomonkey says he is really glad about; the specs heal him, which he notes to keep in mind."},
+    {"t": 868, "kind": "record", "text": "Gnomonkey killed Echo Sol with the 1 HP Dharok bomb build in 1 minute 4 seconds, receiving a Sunfire chestplate."},
+    {"t": 926, "kind": "record", "text": "Gnomonkey set a personal best Echo Sol kill time of 54 seconds with the 1 HP Dharok bomb, helped by an echo hit on the grapple."},
+    {"t": 0, "kind": "stat", "text": "Gnomonkey says 1692 is the theoretical maximum hit on Echo Sol with all echoes, Piety and Last Stand active, and describes it as basically a 1 in 1,000,000,000,000 chance."},
+    {"t": 255, "kind": "opinion", "text": "Gnomonkey says the random attacks during the Echo Sol fight are brutal and killed him multiple times, including once when he misjudged which tile he was standing on."}
+   ]
+  },
+  {
+   "name": "Dharok's armour",
+   "kind": "item",
+   "claims": [
+    {"t": 0, "kind": "stat", "text": "In Leagues 5, the Gloves of the Damned double the effect of Dharok's set, which Gnomonkey used for the 1 HP Dharok bomb on Echo Sol."},
+    {"t": 548, "kind": "stat", "text": "Gnomonkey notes the maximum Dharok's hit without echoes is 147, and he hit a 183 at one point which he joked is the worst because he can do too much damage and kill things early."},
+    {"t": 0, "kind": "event", "text": "After this Echo Sol kill Gnomonkey says he plans to try Dharok bombing all of Theatre of Blood."}
+   ]
+  },
+  {
+   "name": "Leagues V: Raging Echoes",
+   "kind": "update",
+   "claims": [
+    {"t": 0, "kind": "event", "text": "Gnomonkey says he was having a blast in Leagues 5 doing funny melee builds, and planned to do a ranged build after the weekend, with progress on his stream."},
+    {"t": 4, "kind": "opinion", "text": "Gnomonkey describes the 1 HP Dharok bomb build as 'a disgusting build' and says he could not beat Dharok in the tunnels so he joined him."}
+   ]
+  }
+ ]
+}

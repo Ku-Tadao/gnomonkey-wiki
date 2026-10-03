@@ -1,0 +1,97 @@
+{
+  "id": "wRHsOi8plqM",
+  "title": "RS3 - Day Three - Questing",
+  "date": "2023-10-26",
+  "type": "series-episode",
+  "summary": "Day three of Gnomonkey's RuneScape 3 ironman series, focused on rushing early quests, wilderness flash events, and why he is stuck needing Invention for PvM. He explains that combat XP was nerfed, necromancy is the most powerful style, and his goal is streaking Telos.",
+  "outline": [
+    {"t": 0, "text": "Early game RS3 compared to OSRS; quest rewards"},
+    {"t": 62, "text": "No RuneLite in RS3 and old quests"},
+    {"t": 146, "text": "Why quest points matter and why he plays ironman"},
+    {"t": 180, "text": "Daily challenges and wilderness flash events (Evil Tree)"},
+    {"t": 449, "text": "Chaos altar and prayer XP"},
+    {"t": 481, "text": "RS3 total levels and nerfed combat XP"},
+    {"t": 538, "text": "Quest list and the guide's step problems"},
+    {"t": 575, "text": "Invention gating and divination"},
+    {"t": 625, "text": "Necromancy and the Telos goal"},
+    {"t": 716, "text": "Playing both games and series feedback"}
+  ],
+  "topics": [
+    {
+      "name": "RuneScape 3 ironman series",
+      "kind": "account",
+      "claims": [
+        {"t": 0, "kind": "opinion", "text": "Gnomonkey says the early game of RS3 is really similar to early game OSRS: rush all the quests you can for big XP drops and to unlock important items and areas."},
+        {"t": 62, "kind": "opinion", "text": "Gnomonkey notes RS3 has no RuneLite, no plugins, no true tile and no radius markers."},
+        {"t": 146, "kind": "event", "text": "Gnomonkey says he is playing an ironman in RS3 because RS3 is chock full of microtransactions such as keys and chests that give XP or bonus XP, which make it inauthentic to RuneScape; ironmen cannot use or acquire those keys."},
+        {"t": 146, "kind": "tip", "text": "On the day's itinerary, Gnomonkey plans about two hours minimum of dailies and then quests, with the guide being mostly quests up to roughly step 240."},
+        {"t": 539, "kind": "event", "text": "Gnomonkey says step 32 of the guide he follows was to train magic to level 40 in the Burthorpe troll cave, but magic XP is maybe a fifth of what it was, so he got magic to 30 by killing cows for about an hour and moved on."},
+        {"t": 575, "kind": "event", "text": "Gnomonkey says he has not been making RS3 content because he hit a wall later on, and that he has been AFKing a lot of smithing and crafting."},
+        {"t": 716, "kind": "event", "text": "Gnomonkey says he still plays both RS3 and OSRS roughly equally on Twitch and has quit neither game, and that he has never really done a series before so he asks viewers to comment on it."},
+        {"t": 625, "kind": "record", "text": "Gnomonkey says he has a main that is maxed except for new skills, and has done some basic PvM there like Araxxor and very low enraged Telos."}
+      ]
+    },
+    {
+      "name": "RuneScape 3 quests",
+      "kind": "quest",
+      "claims": [
+        {"t": 30, "kind": "stat", "text": "In RS3, every 25 quest points you can talk to Mei outside Varrock for a big chunk of coins, and at 150 quest points she gives Vanquish, which Gnomonkey calls a really powerful tier 75 weapon for all styles."},
+        {"t": 146, "kind": "tip", "text": "Gnomonkey says he is rushing quest points because it gives a really powerful weapon once he has enough, and quests also give a bunch of XP like in old school."},
+        {"t": 62, "kind": "opinion", "text": "Gnomonkey says old quests in RS3 are more outdated than in OSRS because they never get quality-of-life updates."},
+        {"t": 30, "kind": "stat", "text": "Gnomonkey lists early quests he is working through: Digsite, Witch's House, Death Plateau, Lost Tribe and more, then elf city quests like Murder Mystery, Plague City and Biohazard, and Tree Gnome Village and Grand Tree to unlock Gnome area."},
+        {"t": 391, "kind": "opinion", "text": "Gnomonkey says he expects to be able to kill Queen Black Dragon once he has the weapon from quests and around base 70 stats."}
+      ]
+    },
+    {
+      "name": "Wilderness flash events (RuneScape 3)",
+      "kind": "mechanic",
+      "claims": [
+        {"t": 212, "kind": "stat", "text": "Wilderness flash events in RS3 occur every hour, such as a shooting star, an evil tree or a herd of spiders, and take about five minutes for a sack reward."},
+        {"t": 212, "kind": "stat", "text": "Most wilderness flash events give one normal wilderness sack, containing useful items like prayer ashes, bloodweed seeds, energies and alkabulls, and Gnomonkey says you can pull around 250k coins out of them."},
+        {"t": 212, "kind": "opinion", "text": "Gnomonkey says the Evil Tree is the longest and best flash event, giving three normal sacks and then a very wild sack at the end."},
+        {"t": 245, "kind": "stat", "text": "Only three flash events can give a very wild sack and two of them require combat, so Evil Tree is the only way Gnomonkey can get one at his level."},
+        {"t": 245, "kind": "stat", "text": "A very wild sack can contain tier 80 plus weapons, which Gnomonkey says are roughly equivalent to a twisted bow, upgrades to skilling items and rings, plus more alkabulls, ashes and seeds."},
+        {"t": 277, "kind": "opinion", "text": "Gnomonkey says flash events are super important especially for an early ironman, since they also give woodcutting, farming and firemaking XP."}
+      ]
+    },
+    {
+      "name": "Combat XP (RuneScape 3)",
+      "kind": "mechanic",
+      "claims": [
+        {"t": 481, "kind": "stat", "text": "Gnomonkey says RS3 has about 800 extra total levels because of extra skills that old school does not have, and that many early skills are actually worse."},
+        {"t": 481, "kind": "event", "text": "Gnomonkey says combat XP was recently nerfed with the necromancy release, making it much slower to train combat than in old school RuneScape."},
+        {"t": 511, "kind": "tip", "text": "Gnomonkey is using most of his combat lamps on Attack, which he says is unusual, because it is hard to train and he needs 62 Attack eventually for a powerful ring from Dungeoneering."},
+        {"t": 571, "kind": "opinion", "text": "Gnomonkey says the combat XP nerf applied across the board at all levels, and calls it brutal because the developers did not care about the early game."}
+      ]
+    },
+    {
+      "name": "Invention (RuneScape 3)",
+      "kind": "skill",
+      "claims": [
+        {"t": 575, "kind": "opinion", "text": "Gnomonkey says he desperately needs Invention to do any PvM on his RS3 ironman."},
+        {"t": 575, "kind": "stat", "text": "Invention is an elite skill, which Gnomonkey says is the only elite skill in RuneScape 3."},
+        {"t": 599, "kind": "requirement", "text": "To start training Invention, an account needs 80 Smithing, Divination and Crafting."},
+        {"t": 599, "kind": "stat", "text": "Gnomonkey is gated by Divination, which he can only train once a day via Guthixian caches, a bit like doing a birdhouse run twice a day."},
+        {"t": 625, "kind": "event", "text": "Gnomonkey says he needed to mine about 20,000 gems for his Invention prerequisites, which took roughly a few weeks to a month."}
+      ]
+    },
+    {
+      "name": "Necromancy",
+      "kind": "skill",
+      "claims": [
+        {"t": 625, "kind": "opinion", "text": "Gnomonkey says Necromancy is by far the most powerful combat style in RS3 right now and also the easiest to get gear upgrades for."},
+        {"t": 625, "kind": "stat", "text": "Necromancy gear upgrades are made by the player and are not tradable, which Gnomonkey says makes it designed like an ironman upgrade path."},
+        {"t": 653, "kind": "opinion", "text": "Gnomonkey says Necromancy is by far the easiest way to get through any combat, which he did not know at the time he started his ironman."},
+        {"t": 653, "kind": "tip", "text": "Gnomonkey's plan is to train Invention to upgrade equipment and level up Necromancy so he has high enough level weapons to take on Telos."}
+      ]
+    },
+    {
+      "name": "Telos",
+      "kind": "boss",
+      "claims": [
+        {"t": 653, "kind": "event", "text": "Gnomonkey's big overarching goal on his RS3 ironman is to get to Telos because he really wants to try streaking him."},
+        {"t": 653, "kind": "stat", "text": "Telos gets harder with each kill in a row; you can choose to leave your loot in the chest and do another kill, increasing your loot per kill in a row but risking a chunk of the total loot."}
+      ]
+    }
+  ]
+}

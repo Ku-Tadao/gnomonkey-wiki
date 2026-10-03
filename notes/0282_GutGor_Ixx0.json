@@ -1,0 +1,137 @@
+{
+  "id": "GutGor_Ixx0",
+  "title": "RUNESCAPE 3 RELEASES BEST UPDATE EVER",
+  "date": "2026-01-19",
+  "type": "news-opinion",
+  "summary": "Gnomonkey reacts to RuneScape 3's roadmap blog, which removes Treasure Hunter, overhauls the interface and early-game art, modernises combat, removes auras and many dailies, and promises plugin support. He calls it the best set of changes he has seen for RS3 and says he might try an RS3 main and Leagues 2.",
+  "outline": [
+    {"t": 0, "text": "Why an OSRS channel is covering the RS3 roadmap"},
+    {"t": 38, "text": "Treasure Hunter removal"},
+    {"t": 73, "text": "Interface overhaul with the classic tab bar"},
+    {"t": 158, "text": "Toggle to hide cosmetic microtransaction items"},
+    {"t": 238, "text": "Early game graphical update"},
+    {"t": 347, "text": "Free RuneMetrics"},
+    {"t": 379, "text": "Combat modernisation and ability changes"},
+    {"t": 548, "text": "Balance update and daily reduction"},
+    {"t": 640, "text": "Aura overhaul"},
+    {"t": 682, "text": "API plugin support"},
+    {"t": 780, "text": "Leagues 2 and new identity"},
+    {"t": 832, "text": "Long-term commitment and what it means for Ironmen and mains"},
+    {"t": 1017, "text": "Hopes to try RS3 and credit to the RS3 community and RS Guy"}
+  ],
+  "topics": [
+    {
+      "name": "Update: RuneScape 3 roadmap",
+      "kind": "update",
+      "claims": [
+        {"t": 0, "kind": "opinion", "text": "Gnomonkey has always said RuneScape 3 is good at its core with some major flaws, and the roadmap looks like Jagex is willing to get rid of all the major flaws; he thinks many Old School players will give RS3 a shot."},
+        {"t": 1017, "kind": "opinion", "text": "Gnomonkey says almost every major issue he has with RS3 was addressed in the roadmap blog, and that the game has never looked better to give a shot."},
+        {"t": 1017, "kind": "event", "text": "Jagex plans to roll out the roadmap changes throughout the year, so they will not come quickly."},
+        {"t": 912, "kind": "opinion", "text": "Gnomonkey says RS3 was effectively unplayable unless you made an Ironman, because that was the only way to avoid microtransactions, but Ironmen were hit hard by dailies; with microtransactions and many dailies cut, he can now play a main or an Ironman."},
+        {"t": 872, "kind": "opinion", "text": "Gnomonkey says a typical company with a declining player base would crank up microtransactions, but Jagex is taking a short-term hit to make RS3 better in the long term, which he calls very rare."},
+        {"t": 1017, "kind": "opinion", "text": "Gnomonkey says he might try an RS3 main once some of the changes land, expects other Old School creators may try RS3 too, and might play RS3 during gaps between Old School boss releases."}
+      ]
+    },
+    {
+      "name": "Treasure Hunter",
+      "kind": "mechanic",
+      "claims": [
+        {"t": 23, "kind": "event", "text": "RuneScape 3 is removing Treasure Hunter completely, including Squeal of Fortune and the paid chest rolls for XP and useful items."},
+        {"t": 23, "kind": "event", "text": "Jagex is also looking to purge items that came from Treasure Hunter out of the game, which Gnomonkey describes as paving over it and pretending it did not happen."}
+      ]
+    },
+    {
+      "name": "RuneScape 3 interface",
+      "kind": "mechanic",
+      "claims": [
+        {"t": 55, "kind": "event", "text": "RuneScape 3 is reworking its UI with an Old School-style classic tab bar and the modern-style layout, with the RS3 twist of letting two of these bars be open at once."},
+        {"t": 55, "kind": "opinion", "text": "Gnomonkey says people in his chat tried RS3 but quit because they could not figure out how to open their inventory, and thinks the old-schoolified interface will help attract new players."},
+        {"t": 106, "kind": "tip", "text": "RS3's full interface lets you open as many tabs as you want at once, and the new bar is meant as a gentle push toward customising interfaces, such as placing the inventory, worn equipment, skills or friends list in them."},
+        {"t": 158, "kind": "event", "text": "RS3 is adding a settings toggle to hide all cosmetics bought with real money, including particle effects, flying characters, idle animation overrides and pet transmogs."},
+        {"t": 158, "kind": "opinion", "text": "Gnomonkey compares RS3's cosmetic art direction to Team Fortress 2 for being over the top and hard to follow, and likes that with cosmetics hidden you can tell when armour looks cool because it is endgame armour rather than bought from a shop."},
+        {"t": 238, "kind": "event", "text": "RS3 is reworking early game areas such as Lumbridge, Varrock and Edgeville to look more visually coherent and like Old School, cutting clutter such as the giant crater behind Lumbridge."},
+        {"t": 238, "kind": "opinion", "text": "Gnomonkey thinks the area rework helps new players who get lost, confused and log out, and that Jagex has seen Old School's success and is bringing RS3 back to its roots."},
+        {"t": 283, "kind": "trivia", "text": "Jagex's area rework map shows green for fully updated areas, blue for considerable work done and red for likely future work; the desert and Port Sarim had not been reached."}
+      ]
+    },
+    {
+      "name": "RuneMetrics",
+      "kind": "mechanic",
+      "claims": [
+        {"t": 340, "kind": "event", "text": "RuneMetrics (RS3's XP tracker) is becoming completely free; previously it was rented, which Gnomonkey believes cost a bond every two weeks or month."},
+        {"t": 340, "kind": "opinion", "text": "Gnomonkey calls paid XP tracking one of RS3's most ridiculous microtransactions and says free RuneMetrics is a much needed update, noting Old School players are used to trackers like Wise Old Man."}
+      ]
+    },
+    {
+      "name": "RuneScape 3 combat modernisation",
+      "kind": "update",
+      "claims": [
+        {"t": 379, "kind": "opinion", "text": "Gnomonkey, who says he has never gotten deep into RS3 endgame PvM, reads the combat changes as simplification inspired by what Jagex learned from Necromancy, the fourth combat style, which uses charges spent on big attacks."},
+        {"t": 397, "kind": "event", "text": "RS3 combat changes include removing unnecessary bloated abilities and completely removing thresholds, the small-bar-cost abilities that sit alongside ultimates, which spend the whole adrenaline bar."},
+        {"t": 426, "kind": "event", "text": "RS3 combat will gain a basic attack as its own ability in the combat bar and rotation, rather than constant background auto attacks unattached to the abilities used."},
+        {"t": 426, "kind": "event", "text": "RS3 will redistribute ability unlocks by level, remove lesser abilities, clean up visuals, normalise ammo consumption, rebalance solid food and change the default action bar."},
+        {"t": 459, "kind": "opinion", "text": "Gnomonkey says early RS3 combat is bad because many styles have basically nothing to use until levels in the 40s or 50s, and hopes redistributed unlocks fix that."},
+        {"t": 459, "kind": "event", "text": "RS3 is raising all combat styles' levels up to 120, which Necromancy already had."},
+        {"t": 493, "kind": "event", "text": "RS3 is removing the Berserker, Reckless, Maniacal and Mobilising-type damage auras, which give extra damage for one hour (as heard, 'Moderat' Aura)."},
+        {"t": 493, "kind": "opinion", "text": "Gnomonkey says needing a damage aura to push endgame combat feels like you cannot do something until the aura is back, so removing them is good."}
+      ]
+    },
+    {
+      "name": "RuneScape 3 dailies",
+      "kind": "mechanic",
+      "claims": [
+        {"t": 548, "kind": "opinion", "text": "Gnomonkey says RS3 has been adding endgame content constantly while neglecting the early game, and that levels are not fast until the 80s and some skills are even slower than in Old School."},
+        {"t": 573, "kind": "opinion", "text": "Gnomonkey considers dailies the worst part of RS3, with entire skills trained only through daily events done once and then ignored until the next day."},
+        {"t": 573, "kind": "event", "text": "The roadmap blog says Jagex will take a holistic look at all daily escape systems, from shop stocks to Viswax, Daily Challenges and hourly Wilderness flash events."},
+        {"t": 603, "kind": "trivia", "text": "Gnomonkey notes that most RS3 shops restock every 24 hours."},
+        {"t": 603, "kind": "opinion", "text": "Gnomonkey says RS3 dailies are heavily rewarding and feed FOMO, making you feel you play the game just to do dailies, and he praises the goal of a game you play for what it is without a checklist of chores."},
+        {"t": 992, "kind": "opinion", "text": "Gnomonkey says RS3 Ironmen were hit especially hard by upkeeping resources through hours of daily activities such as hourly Wilderness flash events, and with dailies cut they should play more like Old School, where you train a skill by training it."}
+      ]
+    },
+    {
+      "name": "RuneScape 3 auras",
+      "kind": "mechanic",
+      "claims": [
+        {"t": 640, "kind": "event", "text": "Jagex intends to fully remove all auras from RuneScape 3 this spring, because auras created time pressure and complexity before starting any task."},
+        {"t": 640, "kind": "trivia", "text": "RS3 auras were bought with membership loyalty points, and lasted one hour with a full cooldown unless you used a refresh."},
+        {"t": 640, "kind": "opinion", "text": "Gnomonkey says auras feel necessary for a lot of content and limit what you can do in PvM, and that removing them and aura refreshes gives a more enjoyable gameplay loop."}
+      ]
+    },
+    {
+      "name": "RuneScape 3 plugin support",
+      "kind": "mechanic",
+      "claims": [
+        {"t": 682, "kind": "event", "text": "RuneScape 3's roadmap announces a dedicated new development team with a single mission of bringing plugin support, similar to Old School plugins."},
+        {"t": 682, "kind": "opinion", "text": "Gnomonkey says plugins such as Quest Helper were what everyone missed when trying RS3 Leagues, and that he considers plugin support maybe more important than cutting back on dailies."},
+        {"t": 729, "kind": "opinion", "text": "Gnomonkey says a menu entry swapper would be amazing for RS3, since the RS3 community currently has to beg devs to swap menu entries and it takes about a month."},
+        {"t": 760, "kind": "opinion", "text": "Gnomonkey says even Old School mobile has basic built-in plugins, and that features like marking ground tiles and swapping menus remove friction, so even anti-plugin players should benefit."}
+      ]
+    },
+    {
+      "name": "Leagues",
+      "kind": "activity",
+      "claims": [
+        {"t": 780, "kind": "event", "text": "RuneScape 3 announced a second Leagues, with Jagex saying they know the mistakes made in the first Leagues, which Gnomonkey describes as very slow; they are looking at quest unlocks and similar improvements."},
+        {"t": 1017, "kind": "opinion", "text": "Gnomonkey definitely plans on giving RS3 Leagues 2 a shot."}
+      ]
+    },
+    {
+      "name": "RuneScape 3 new identity",
+      "kind": "update",
+      "claims": [
+        {"t": 780, "kind": "event", "text": "RS3 is getting a new identity with a cleaner background showing the whole game world and a new logo, which Gnomonkey likes."},
+        {"t": 841, "kind": "event", "text": "Jagex describes the new identity as a symbol of renewal and growth, a turning point focused on game integrity and meaningful updates that are worth your time to return to."},
+        {"t": 841, "kind": "opinion", "text": "Gnomonkey reads the roadmap as Jagex hitting the brakes and taking what works from Old School to make a different game better, without just becoming Old School."},
+        {"t": 872, "kind": "trivia", "text": "Gnomonkey says Old School RuneScape is now 25 years old."}
+      ]
+    },
+    {
+      "name": "RS Guide",
+      "kind": "person",
+      "claims": [
+        {"t": 1017, "kind": "tip", "text": "Gnomonkey recommends RS Guy's website, the RS Guide, for Old School players trying RS3: it explains the tick system, keybinds, combat, damage, styles, the combat triangle and prayers with clean animations and sounds."},
+        {"t": 1017, "kind": "opinion", "text": "Gnomonkey gives a shout-out to the RS3 community and RS Guy for constantly pushing for these changes and helping the new player experience."}
+      ]
+    }
+  ]
+}

@@ -1,0 +1,173 @@
+{
+  "id": "WQ9Zg4fQRJo",
+  "title": "Clue Boxes and Gambling Tokens (OSRS)",
+  "date": "2025-04-08",
+  "type": "news-opinion",
+  "summary": "Gnomonkey reacts to the Poll 84 stackable clue scroll proposal (scroll boxes with a 2-to-5 stack cap and tradable skip tokens). He argues the progression table is pointless, the despawn timer reversion keeps juggling alive but more annoying, and skip tokens would wreck clue item values and encourage botting. His preferred fix is to make all clues remember step progress and drop the tokens, and he urges viewers not to vote yes on this implementation.",
+  "outline": [
+    {"t": 0, "text": "Introduction to the update and Jagex's stackable clue blog"},
+    {"t": 18, "text": "The history of clue juggling and the one-hour despawn change"},
+    {"t": 102, "text": "Introducing scroll boxes"},
+    {"t": 201, "text": "Earning stacking capacity: mimic kill and per-tier clue counts"},
+    {"t": 420, "text": "Despawn timer reduction concerns"},
+    {"t": 555, "text": "Introducing skip tokens"},
+    {"t": 754, "text": "Alternative solutions: make clues remember progress"},
+    {"t": 942, "text": "Final verdict on the poll"}
+  ],
+  "topics": [
+    {
+      "name": "Poll: Stackable clues and skip tokens",
+      "kind": "opinion",
+      "claims": [
+        {"t": 0, "kind": "event", "text": "Poll 84 proposed stackable clue scrolls, delivered as scroll boxes, together with tradable skip tokens; Gnomonkey covers only the clue scroll parts and not the other changes in the blog, such as the Sire changes."},
+        {"t": 201, "kind": "event", "text": "Under the proposal, players who have completed the quest X Marks the Spot would receive scroll boxes instead of regular clue scrolls, and could hold a maximum of five scroll boxes, or four plus one open clue scroll."},
+        {"t": 201, "kind": "event", "text": "Under the poll, geodes, bottles and birds' nests would give scroll boxes instead of loose clue scrolls."},
+        {"t": 420, "kind": "event", "text": "The proposed reduction of the clue scroll despawn timer back to three minutes would happen whether or not the stackable clues poll passes."},
+        {"t": 508, "kind": "event", "text": "Jagex stated the stack limit would firmly stay at five and that there were no plans to expand it."},
+        {"t": 1074, "kind": "opinion", "text": "Gnomonkey says his solution is a passive buff to clues: make all clues remember their step progress even when dropped, with no skip tokens, reroll tokens or bonus currencies to hold on to."},
+        {"t": 1074, "kind": "opinion", "text": "Gnomonkey says polls repeatedly offer only yes or no, with no 'yes if changed' option, so players who want stackable clues feel pressured to vote yes on a bad implementation; he suggests a feedback box."},
+        {"t": 1118, "kind": "opinion", "text": "Gnomonkey calls this a terrible implementation that would ruin clue scrolls for mains, because all of the value would come from the tickets."},
+        {"t": 1344, "kind": "opinion", "text": "Gnomonkey urges viewers not to vote yes just because they want scroll boxes, and to vote yes only once the system is changed, since he expects Jagex to deliver stackable clues eventually anyway."},
+        {"t": 1370, "kind": "opinion", "text": "Gnomonkey tells viewers not to fear losing stackable clues by voting no, because players have asked for them for a long time and Jagex is seeing the feedback."}
+      ]
+    },
+    {
+      "name": "Scroll box",
+      "kind": "item",
+      "claims": [
+        {"t": 121, "kind": "stat", "text": "Under the Poll 84 proposal, the maximum is five scroll boxes held at once, or four plus one open clue scroll, so a player cannot overstock to six."},
+        {"t": 151, "kind": "opinion", "text": "Gnomonkey says the scroll box system is technically weaker than clue juggling, which allows unlimited clues, but argues it is a bigger nerf than Jagex lets on because steps are no longer maintained across the pile of clues."},
+        {"t": 181, "kind": "opinion", "text": "Gnomonkey notes that Jagex's blog talks only about the quantity of clues that can be held and not about step progress being maintained, and he finds that omission odd given how important it is to juggling."},
+        {"t": 240, "kind": "stat", "text": "Under the proposed scroll box progression, the base capacity for each clue tier is two clues."},
+        {"t": 271, "kind": "stat", "text": "Under the proposal, the first cap increase raises capacity for that tier to three clues and the second raises it to four; Gnomonkey calls this stingy."},
+        {"t": 271, "kind": "stat", "text": "The proposed capacity bonus from defeating the mimic is retroactive, so players who already killed the mimic receive the plus one immediately."},
+        {"t": 384, "kind": "opinion", "text": "Gnomonkey says a hard clue doer who could hold many clues before the update could hold only two hard clues at a time after it, which he describes as a nerf, and that this does not solve anything such as slayer tasks that give six or seven hard clues."},
+        {"t": 1030, "kind": "opinion", "text": "Gnomonkey says that if progression is needed, it should apply to all clue tiers equally rather than via the per-tier chart."}
+      ]
+    },
+    {
+      "name": "Clue scroll",
+      "kind": "mechanic",
+      "claims": [
+        {"t": 32, "kind": "stat", "text": "In March 2024 the clue scroll despawn timer was changed from three minutes to one hour."},
+        {"t": 32, "kind": "tip", "text": "Dropped clue scrolls stored the steps progressed in that cluster of clues on the ground, so a player who drops a clue they are four steps into keeps that progress when picking up the next clue; clues taken from the bank or a fresh drop start at zero steps."},
+        {"t": 785, "kind": "opinion", "text": "Gnomonkey says clues should carry progress from one clue to the next by default; he argues the current system is disjointed because juggling keeps steps but doing clues in a row from the bank does not."},
+        {"t": 804, "kind": "opinion", "text": "Gnomonkey acknowledges that maintaining progress across all clues would still be a buff to clue scrolls, but a much smaller one than the skip tokens, and notes it matches what juggling already does."},
+        {"t": 833, "kind": "opinion", "text": "Gnomonkey says there are many annoying clue steps, such as Wilderness steps that force players to bank gear, and he would be fine with no clue scrolls steps in the Wilderness at all, replacing them with equally challenging steps near dangerous creatures."},
+        {"t": 833, "kind": "stat", "text": "Gnomonkey says there is a hard clue step just outside the Ferox Enclave that takes about a 15 tick run from Ferox to dig and run back in, which makes players debate banking their whole inventory."},
+        {"t": 890, "kind": "opinion", "text": "Gnomonkey says master clue 'sweaty' setups exist so Wilderness steps can be done with the current inventory, risking only about five million, and that forcing clue doers into the Wilderness adds nothing for PKers."},
+        {"t": 892, "kind": "opinion", "text": "Gnomonkey dislikes clue steps requiring untradeable unlocks, such as the step requiring the farmer's hat, which requires Tithe Farm, and asks what the purpose is."},
+        {"t": 911, "kind": "opinion", "text": "Gnomonkey praises the agility shortcut added for the dragon's eye clue step in the Legends' Quest area and says Jagex should make more steps like it."},
+        {"t": 972, "kind": "opinion", "text": "Gnomonkey says having to de-gear for clues is a major reason he drops clues, and not because he fears PKers."}
+      ]
+    },
+    {
+      "name": "Clue scroll juggling",
+      "kind": "mechanic",
+      "claims": [
+        {"t": 32, "kind": "event", "text": "The March 2024 change to a one-hour despawn timer (previously three minutes) was made after a small group of players found a method of juggling clue scrolls; the hour-long timer led the whole clue hunting community to juggle clues."},
+        {"t": 66, "kind": "method", "text": "Clue juggling works by keeping multiple clue scrolls on the ground, because progress is stored across the cluster: if you are four steps into a hard clue and get a step you dislike, you drop it and pick up the next clue, which then needs only one or two more steps."},
+        {"t": 151, "kind": "stat", "text": "Gnomonkey says he saw screenshots of players juggling 50 to 100 clues on the ground, picking them up and re-dropping them every 15 minutes within the hour timer."},
+        {"t": 445, "kind": "opinion", "text": "Gnomonkey says that after the despawn timer returns to three minutes, players can still juggle but it is more annoying, so the update undoes a quality-of-life change without removing juggling."},
+        {"t": 478, "kind": "opinion", "text": "Gnomonkey notes that in a slayer task giving two hard clues he would simply keep juggling, ending with four clues by the end of the task, which he says is the same as before but more annoying."},
+        {"t": 1074, "kind": "opinion", "text": "Gnomonkey argues that reducing the clue despawn timer, whatever else is done, will allow juggling unless the underlying step-progress mechanic is changed."}
+      ]
+    },
+    {
+      "name": "Clue scroll despawn timer",
+      "kind": "update",
+      "claims": [
+        {"t": 0, "kind": "event", "text": "In March 2024, Jagex changed clue scrolls to despawn after an hour instead of three minutes."},
+        {"t": 92, "kind": "event", "text": "Jagex's blog said the one-hour timer, which was meant as a small quality-of-life fix, became a sweaty meta, with many players who disliked juggling feeling compelled to do it to stay competitive."},
+        {"t": 420, "kind": "event", "text": "The poll blog states the despawn timer would return to three minutes regardless of the poll result, because Jagex felt the one-hour timer led to unhealthy play patterns."},
+        {"t": 445, "kind": "opinion", "text": "Gnomonkey calls it a joke that the timer was lengthened because juggling on a three-minute timer was tedious and is now being turned back, and says he wonders whether Jagex knows steps are maintained across juggled clues."}
+      ]
+    },
+    {
+      "name": "Mimic",
+      "kind": "boss",
+      "claims": [
+        {"t": 212, "kind": "event", "text": "Under the Poll 84 proposal, defeating the mimic would increase the clue scroll stack capacity across all tiers by one."},
+        {"t": 240, "kind": "opinion", "text": "Gnomonkey notes that the mimic is an RNG drop from clues, so it is unlikely to be a quick unlock; he says getting a mimic takes hours and hours on average and could take forever if unlucky."},
+        {"t": 1011, "kind": "stat", "text": "Gnomonkey says the mimic is a drop of around one in five masters when five master clues are completed; the transcript phrasing is unclear."}
+      ]
+    },
+    {
+      "name": "Skip token",
+      "kind": "item",
+      "claims": [
+        {"t": 555, "kind": "event", "text": "The Poll 84 proposal introduces a skip token for each clue tier, obtained from clue scroll reward chests, which is tradable and stackable."},
+        {"t": 593, "kind": "event", "text": "A skip token skips a single clue step within a scroll and adds a step of progress without doing it, but cannot be used on the final step of a clue."},
+        {"t": 713, "kind": "stat", "text": "Gnomonkey notes that the blog does not mention a limit on how many skip tokens can be used per clue, so players could rip through all steps except the final one."},
+        {"t": 621, "kind": "opinion", "text": "Gnomonkey expects skip tokens to be used mainly by collection log players chasing max rank, and not by regular players, because they would spend large amounts of GP spamming through clues."},
+        {"t": 648, "kind": "opinion", "text": "Gnomonkey says tradable skip tokens would make selling the tokens to cloggers the main profit from clues, so clue loot like a third age piece becomes secondary to getting a ticket roll."},
+        {"t": 643, "kind": "stat", "text": "Gnomonkey says RuneScape 3 has skip tickets for specific step types, such as the puzzle box ticket, which he cites as around 1.3 million RuneScape GP, and which he says would equate to about 100K to 200K in Old School RuneScape."},
+        {"t": 684, "kind": "stat", "text": "Gnomonkey says the RuneScape 3 puzzle box skip ticket recently dropped from a price as high as 4 million, which he estimates as roughly 300K to 500K in Old School RuneScape."},
+        {"t": 735, "kind": "opinion", "text": "Gnomonkey says he does not like skip tokens even if they were untradeable, calling them a band-aid for people who liked stacking clues."},
+        {"t": 972, "kind": "opinion", "text": "Gnomonkey notes that other players have suggested reroll tokens or making skip tokens untradeable, but argues that anything that skips or re-rolls steps is a buff that reduces clue item value."},
+        {"t": 1258, "kind": "opinion", "text": "Gnomonkey argues that tickets and tokens in any form should be removed, because a drop from a clue that boosts clue scrolls further only buffs clues for the sake of buffing them."}
+      ]
+    },
+    {
+      "name": "Opinion: Skip tokens harm the clue economy and encourage botting",
+      "kind": "opinion",
+      "claims": [
+        {"t": 643, "kind": "opinion", "text": "Gnomonkey argues that skip tokens would drop the value of clue scroll items, because the profit from clues would shift to selling tickets to collection log players."},
+        {"t": 804, "kind": "opinion", "text": "Gnomonkey says skip tokens encourage botting, since there would be a GP incentive on every clue, including beginner clues, as bots farm tokens for cloggers."},
+        {"t": 1139, "kind": "opinion", "text": "Gnomonkey describes a loop where players kill goblins for beginner clues, rip through all steps with tokens, do the one remaining step, and stack up five clues at a time, so nothing in beginner clues would have value except the tokens."},
+        {"t": 1198, "kind": "opinion", "text": "Gnomonkey says bots would no longer be concentrated on medium clues and would spread out to doing beginner, easy, medium and hard clues, and compares the situation to the Castle Wars change."},
+        {"t": 1231, "kind": "opinion", "text": "Gnomonkey says pet hunters, such as those chasing the bloodhound, would also spam master clues with tokens, so the value of ultra-rare drops like the third age druidic, pickaxe, bow and longsword that exceed max cash would drop."},
+        {"t": 1258, "kind": "opinion", "text": "Gnomonkey compares paying about 1.5 million to rip through a master clue to gambling, and says it turns clues from treasure hunts into gambling, hence the video title."},
+        {"t": 1118, "kind": "opinion", "text": "Gnomonkey says Iron Man accounts would still get collection log unlocks, but main accounts would get almost no value from clue scrolls other than the tickets."}
+      ]
+    },
+    {
+      "name": "Opinion: Clue scroll stack cap progression is unnecessary",
+      "kind": "opinion",
+      "claims": [
+        {"t": 270, "kind": "opinion", "text": "Gnomonkey says the stingy base cap of two when players could previously hold around a hundred clues means the change is a massive nerf, and that most players would not get past three clues for a long time."},
+        {"t": 298, "kind": "stat", "text": "Gnomonkey says players need to complete 75 master clues to reach the full five master clue capacity under the proposed table."},
+        {"t": 298, "kind": "opinion", "text": "Gnomonkey questions the point of the capacity progression, wondering whether it exists to dissuade bots, and says a complicated table behind an RNG mimic kill is ridiculous because players would have to look up the wiki to know how close they are."},
+        {"t": 327, "kind": "opinion", "text": "Gnomonkey says he is glad Jagex did not lock the stack cap behind combat achievements as was floated on Reddit, because combat achievements should not reward unrelated things."},
+        {"t": 354, "kind": "stat", "text": "Gnomonkey says he has 59 master clues completed on his main, and that reaching 75 for the second cap takes a very large number of hours."},
+        {"t": 384, "kind": "opinion", "text": "Gnomonkey wants Jagex to scrap the progression entirely, so that completing X Marks the Spot allows holding the full number of scroll boxes."},
+        {"t": 1030, "kind": "opinion", "text": "Gnomonkey says the per-tier chart is obnoxious and difficult to follow because players must track how many clues of each tier they completed to know whether they can hold more."},
+        {"t": 508, "kind": "opinion", "text": "Gnomonkey says he does not understand why five is a firm cap and why it could not be 10 or 15, and wishes Jagex would explain the reasoning, possibly botting."}
+      ]
+    },
+    {
+      "name": "Collection log",
+      "kind": "mechanic",
+      "claims": [
+        {"t": 621, "kind": "opinion", "text": "Gnomonkey expects skip tokens to be used mainly by collection log players chasing max rank, spending large amounts of GP to spam through clues."},
+        {"t": 1118, "kind": "opinion", "text": "Gnomonkey says Iron Man accounts would still get their collection log unlocks from clues under the update, while main accounts would see little value from clue scrolls."},
+        {"t": 1139, "kind": "opinion", "text": "Gnomonkey says beginner clue collection log slots could be obtained very fast under the skip token system, since players could rip through beginner clues from goblin drops."}
+      ]
+    },
+    {
+      "name": "Combat achievements",
+      "kind": "mechanic",
+      "claims": [
+        {"t": 327, "kind": "opinion", "text": "Gnomonkey says combat achievements should not have rewards for unrelated things, so he is glad clue scroll stack capacity was not locked behind them."},
+        {"t": 327, "kind": "tip", "text": "Gnomonkey says Reddit discussions at some point suggested locking the stack capacity behind combat achievements, which he considers stupid because killing bosses is not the only way to get clues."}
+      ]
+    },
+    {
+      "name": "Botting",
+      "kind": "mechanic",
+      "claims": [
+        {"t": 804, "kind": "opinion", "text": "Gnomonkey says tradable skip tokens give a GP incentive on every clue tier, which will encourage bots to do beginner clues to help cloggers get tokens."},
+        {"t": 1139, "kind": "opinion", "text": "Gnomonkey says it is very easy to get an account ready to start doing beginner clues, so bots would expand beyond medium clues to every tier."},
+        {"t": 1139, "kind": "opinion", "text": "Gnomonkey says it is notable that two blogs in a row would encourage botting, and says it feels very similar to the Castle Wars change."}
+      ]
+    },
+    {
+      "name": "Gnomonkey",
+      "kind": "person",
+      "claims": [
+        {"t": 354, "kind": "record", "text": "Gnomonkey says he has 59 master clues completed on his main account."},
+        {"t": 1344, "kind": "opinion", "text": "Gnomonkey asks viewers in the comments whether they were juggling a hundred clues before the update."}
+      ]
+    }
+  ]
+}

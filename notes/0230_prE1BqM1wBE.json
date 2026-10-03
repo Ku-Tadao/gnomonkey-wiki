@@ -1,0 +1,140 @@
+{
+  "id": "prE1BqM1wBE",
+  "title": "MELEE YAMA GUIDE (OLD) #DONOFLY",
+  "date": "2025-05-15",
+  "type": "guide",
+  "summary": "Solo Yama guide built around the Dono fly (butterfly) tile method, found by Dono, which lets you melee the whole fight including the enraged third phase. Gnomonkey retracts his earlier mage-focused solo guides, explains the fight phase by phase, and shows one max-gear and one budget kill.",
+  "outline": [
+    {"t": 0, "text": "Yama mechanics overview and why maging is bad"},
+    {"t": 71, "text": "The butterfly (Dono fly) method"},
+    {"t": 136, "text": "Phases one and two strategy: prayers and glyphs"},
+    {"t": 307, "text": "Judge of Yama encounter"},
+    {"t": 420, "text": "Phase three mechanics for mage camping"},
+    {"t": 510, "text": "Executing the butterfly method: delay tile and the three-tick start"},
+    {"t": 673, "text": "Full solo run demonstration in max gear"},
+    {"t": 1050, "text": "Gear and weapon recommendations"},
+    {"t": 1177, "text": "Budget gear run and final tips"},
+    {"t": 1648, "text": "Conclusion: melee is always better than mage"}
+  ],
+  "topics": [
+    {
+      "name": "Yama",
+      "kind": "boss",
+      "claims": [
+        {"t": 0, "kind": "event", "text": "Gnomonkey says the solo Yama guides he made the previous day were complete trolling, because new findings showed maging Yama is terrible."},
+        {"t": 0, "kind": "stat", "text": "When you cast a spell at Yama and he stops walking towards you, his magic defence goes up by 90, from negative 30 to 60, according to Gnomonkey."},
+        {"t": 0, "kind": "opinion", "text": "Gnomonkey says maging is fine for chill kills but dramatically slower, and that melee is better in all phases of Yama."},
+        {"t": 157, "kind": "trivia", "text": "Yama has three phases and phases every 33.3% of damage dealt."},
+        {"t": 188, "kind": "trivia", "text": "Yama has three possible attacks like Nightmare: a melee swing, a mage attack shown by little flames on your body, and a ranged attack shown as a shadow around you."},
+        {"t": 188, "kind": "method", "text": "Gnomonkey says to camp protect from melee by default at Yama, because you cannot catch that prayer in time; flick to mage when you see orange flames and to ranged when you see a shadow around yourself."},
+        {"t": 218, "kind": "trivia", "text": "Every few attacks Yama does a massive special (a giant fireball or shadow projectile) hitting for roughly 40 to 80 damage, which you block by stepping on a glyph."},
+        {"t": 1608, "kind": "opinion", "text": "Gnomonkey says there is no point at which mage is good at Yama, no matter the setup, that he apologises for bad info in the old guide, and that Emberlight or Arclight is your best option the whole time."},
+        {"t": 1647, "kind": "stat", "text": "Per Gnomonkey, meleeing the last phase with Emberlight is roughly 20 to 30% better DPS, and the description says on average meleeing does about 20% more DPS than maging."},
+        {"t": 1720, "kind": "event", "text": "Gnomonkey credits Dono with finding the Yama tech on day one."}
+      ]
+    },
+    {
+      "name": "Dono fly",
+      "kind": "mechanic",
+      "claims": [
+        {"t": 29, "kind": "event", "text": "The butterfly method, called Dono fly, is a Yama tile method found by Dono that lets you melee the entire kill and dodge everything by default, like a Bandos 6-0 style method."},
+        {"t": 59, "kind": "method", "text": "To start the Dono fly method you spawn in, spam-click to the delay tile, then attack Yama; after that each time your true tile reaches the next tile in the cycle (one, two, three, four, 4.1, then start) you attack Yama again."},
+        {"t": 90, "kind": "trivia", "text": "In the Dono fly cycle you run to a tile and attack from it, which dodges everything including the waves, which go straight through you."},
+        {"t": 126, "kind": "stat", "text": "Gnomonkey says the Dono fly cycle breaks down solo eventually, at around 12 of Yama's attacks (Yama attacks every seven ticks), so you mage a little at the end."},
+        {"t": 540, "kind": "method", "text": "The hardest part of Dono fly is reaching Yama in exactly three game ticks after the Judge teleports you back; spam click to the delay tile along true tiles and click Yama on the third tick."},
+        {"t": 566, "kind": "trivia", "text": "If you reach Yama in two ticks, he punches you for about 50 and spawns an orb, so if you spawn close to the delay tile you must stop on a tile for a tick before attacking."},
+        {"t": 628, "kind": "method", "text": "One tile in the cycle is the only part not simply attack as soon as your true tile reaches it: you click to the Dono tile and wait until you are off attack cooldown, or Yama hits you."},
+        {"t": 1503, "kind": "tip", "text": "When dodging the waves with Dono fly, click right before the wave reaches you, basically on top of the tile."},
+        {"t": 1621, "kind": "opinion", "text": "Gnomonkey says Dono fly lets you brain off and skip everything, making the final phase harder to learn but easier to execute than mage camping."},
+        {"t": 0, "kind": "trivia", "text": "Per the description, Dono fly can be done in duo by stacking, but there are hiccups such as players not spawning in at the same time."}
+      ]
+    },
+    {
+      "name": "Yama glyphs",
+      "kind": "mechanic",
+      "claims": [
+        {"t": 218, "kind": "method", "text": "Glyphs around Yama's arena let you protect yourself from the big special; Gnomonkey goes clockwise by default, always starting at one of two starting glyphs."},
+        {"t": 249, "kind": "method", "text": "When Yama shows the big special animation you step on the glyph, which blocks the attack and uses the glyph up, then go back to hitting Yama and work around the room to the next glyph."},
+        {"t": 342, "kind": "trivia", "text": "Before the fireball special Yama does flames across the sides of the arena; getting hit stuns you in place so you cannot reach the glyph."},
+        {"t": 370, "kind": "trivia", "text": "Before the shadow special Yama sends waves of energy across the screen that drop your prayer, so you can be comboed; Gnomonkey says this is probably the most dangerous thing in the fight."},
+        {"t": 393, "kind": "trivia", "text": "In phase two the fire special drops a giant meteor that disables your run energy, so you must be right next to the glyph."},
+        {"t": 1103, "kind": "trivia", "text": "Sometimes Yama replaces a special with orbs; when the orbs are just above half charged, run onto two glyphs so they pop on the glyphs and do not heal the boss, then skip one glyph in the cycle."},
+        {"t": 1346, "kind": "tip", "text": "A special is always preceded by flame snakes; missing the glyph can one-shot you as the hit can exceed 100."}
+      ]
+    },
+    {
+      "name": "Judge of Yama",
+      "kind": "mechanic",
+      "claims": [
+        {"t": 278, "kind": "trivia", "text": "At each phase Yama sends you to a side area where jumps across stones can be done every tick and the Judge of Yama shoots fireballs you must dodge."},
+        {"t": 278, "kind": "trivia", "text": "The Judge is a guaranteed max hit on the correct style, alternating strictly mage hit then melee hit with no threshold like demonic gorillas."},
+        {"t": 304, "kind": "tip", "text": "You can pre-switch and mage the Judge once you reach the stone to hit a bit early; its skulls land on the ground where you stand like Tormented Demons, so step aside."},
+        {"t": 322, "kind": "tip", "text": "Stepping underneath the Judge when it shoots a skull makes the skull damage the Judge itself, a minor time save."},
+        {"t": 1424, "kind": "tip", "text": "Gnomonkey advises eating when you reach the Judge if low on health, since there is downtime."}
+      ]
+    },
+    {
+      "name": "Yama phase three",
+      "kind": "mechanic",
+      "claims": [
+        {"t": 420, "kind": "opinion", "text": "Gnomonkey says phase three of Yama is the hardest part of the fight and what will kill you."},
+        {"t": 429, "kind": "tip", "text": "For a first kill, Gnomonkey says to put on mage gear and not enter melee range in phase three; you can mage just the last phase to get a feel for it."},
+        {"t": 429, "kind": "trivia", "text": "In phase three Yama throws rows of meteorites in sets of three and you step in the middle perpendicular to each row."},
+        {"t": 455, "kind": "trivia", "text": "In phase three Yama alternates mage and range attacks, so you alternate prayers, and he also throws huge diamond-shaped waves across the screen."},
+        {"t": 481, "kind": "method", "text": "To dodge the diamond waves, Gnomonkey marks the tile just left of Yama and runs straight through the middle of the diamond."},
+        {"t": 157, "kind": "trivia", "text": "Anytime Yama melees you in phase three, it spawns an orb you must kill that heals him and hits you hard, around 40."},
+        {"t": 1596, "kind": "tip", "text": "In phase three you can throw an Emberlight spec at the orbs; with Mark of Darkness they are guaranteed one-shots, and then you mage the rest."}
+      ]
+    },
+    {
+      "name": "Emberlight",
+      "kind": "item",
+      "claims": [
+        {"t": 0, "kind": "opinion", "text": "Per the description, Emberlight and Arclight are amazing at Yama and the scythe is dead content there."},
+        {"t": 668, "kind": "method", "text": "Gnomonkey spams Emberlight specs at the start of the Yama fight (deliberately missing normally), aiming for three Emberlight specs to hit the defence cap."},
+        {"t": 691, "kind": "opinion", "text": "Gnomonkey says Emberlight on average is better drain than a bandos godsword at Yama, so he does not bring BGS."},
+        {"t": 1082, "kind": "method", "text": "After three Emberlight specs land Yama is at the defence cap, so Gnomonkey says to switch to burning claws specs."},
+        {"t": 1651, "kind": "opinion", "text": "Gnomonkey says Emberlight is dramatically better than anything else in the last phase, when Yama's defence goes up massively."}
+      ]
+    },
+    {
+      "name": "Purging staff",
+      "kind": "item",
+      "claims": [
+        {"t": 0, "kind": "stat", "text": "Per the description, Shadow is best in slot on the Yama boss by 3%, because Yama's defence when attacked by the tanking player changes to his enrage stats."},
+        {"t": 0, "kind": "tip", "text": "Per the description, you still need the purging staff to nuke the orbs, so you need a three-way swap with mage and Mark of Darkness."},
+        {"t": 1139, "kind": "opinion", "text": "Gnomonkey says if you only have one synapse you actually want a purging staff, which he calls crazy because it has always been the most worthless one but is the important one at Yama."},
+        {"t": 1115, "kind": "opinion", "text": "Gnomonkey says synapses are almost the same DPS as a Shadow at Yama and that you should get them, though you can get kills without them."}
+      ]
+    },
+    {
+      "name": "Mark of Darkness",
+      "kind": "mechanic",
+      "claims": [
+        {"t": 781, "kind": "tip", "text": "Gnomonkey says to cast Mark of Darkness at Yama because it is important to your damage; he gained roughly 18 to 20 max hits from it."},
+        {"t": 1310, "kind": "tip", "text": "Gnomonkey also casts Death Charge at Yama, noting it works on him."},
+        {"t": 643, "kind": "tip", "text": "Gnomonkey casts spells such as thrall, death charge and Ward of Arceus before starting the Yama fight."}
+      ]
+    },
+    {
+      "name": "Ward of Arceus",
+      "kind": "item",
+      "claims": [
+        {"t": 643, "kind": "trivia", "text": "Gnomonkey brings nature runes for Ward of Arceus at Yama because it reduces his damage by 10%."}
+      ]
+    },
+    {
+      "name": "Yama budget setup",
+      "kind": "other",
+      "claims": [
+        {"t": 1177, "kind": "requirement", "text": "Gnomonkey's budget Yama setup uses a cheap max cape, Bandos face guard, Torture instead of Rancour, Berserker ring instead of Ultor, and Arma-style starter gear."},
+        {"t": 1139, "kind": "stat", "text": "Gnomonkey says Arclight is usable and better than a scythe at Yama because demonbane weapons are multiplied by 1.2 there and the scythe is very inaccurate."},
+        {"t": 1139, "kind": "opinion", "text": "Gnomonkey says to try to get both synapses if possible even though they are expensive, including for Iron Men."},
+        {"t": 1198, "kind": "tip", "text": "Gnomonkey leaves an inventory spot open at Yama to equip claws and avoids food juggling."},
+        {"t": 1198, "kind": "trivia", "text": "Yama poisons, so Gnomonkey uses Sanfew serums; pre-potting extended antivenom also works and lasts long enough."},
+        {"t": 1591, "kind": "stat", "text": "Gnomonkey's max gear kill time was 5:46 with missed specs, and his budget kill was 6:30 with landed specs, which he calls a roughly one-minute difference showing how much the synapses carry."},
+        {"t": 1050, "kind": "record", "text": "Gnomonkey says he has seen sub-5 minute Yama kills with the Dono fly method if you land your specs."}
+      ]
+    }
+  ]
+}

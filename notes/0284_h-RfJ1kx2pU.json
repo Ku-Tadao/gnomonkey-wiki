@@ -1,0 +1,191 @@
+{
+  "id": "h-RfJ1kx2pU",
+  "title": "WINTER SUMMIT IS HERE AND JAGEX COOKED! (OSRS)",
+  "date": "2026-01-25",
+  "type": "news-opinion",
+  "summary": "Gnomonkey reacts to the Winter Summit 2026 roadmap: Deadman All-Stars and RuneFest dates, Leagues VI in April, Sailing combat changes, the Blood Moon Rises quest with its new items and solo boss, and the Raids 4 reveal. He is positive overall, with concerns about range power creep and dislike of the Griffin change.",
+  "outline": [
+    {"t": 0, "text": "Roadmap introduction"},
+    {"t": 19, "text": "Upcoming community events: Deadman All-Stars and RuneFest"},
+    {"t": 57, "text": "Leagues VI and its rewards"},
+    {"t": 120, "text": "Sailing combat changes and the Griffin change"},
+    {"t": 242, "text": "Player island finalists"},
+    {"t": 279, "text": "Blood Moon Rises: Blisterwood flail upgrade and the execute spec weapon"},
+    {"t": 365, "text": "Bloodwood woodcutting and seeker arrows"},
+    {"t": 483, "text": "New Hunter and Fishing methods; leech fin sandwich"},
+    {"t": 660, "text": "Venators/sentinels Slayer alternative and off-task access"},
+    {"t": 725, "text": "Maggot King boss and its rewards"},
+    {"t": 757, "text": "Crimson bludgeon and Necklace of Pursuit; range power creep concern"},
+    {"t": 869, "text": "Raids 4: the Fractured Archive"},
+    {"t": 1111, "text": "Jagex delaying content and Gnomonkey's view on quality over speed"},
+    {"t": 1229, "text": "Closing thoughts and links"}
+  ],
+  "topics": [
+    {
+      "name": "Update: Winter Summit 2026",
+      "kind": "update",
+      "claims": [
+        {"t": 0, "kind": "event", "text": "The Winter Summit 2026 revealed the year's roadmap: Raids 4, a new quest series with a new solo boss, and many smaller updates."},
+        {"t": 1111, "kind": "opinion", "text": "Gnomonkey notes that Reddit complains the Winter Summit content is pushed to the second half of the year, even though he made a video complaining about a lack of content, and he is happy Jagex is taking its time."},
+        {"t": 1139, "kind": "event", "text": "Jagex said Blood Moon Rises was not coming together fast enough, so it was pushed back a few months and Leagues were brought forward to make up for it."},
+        {"t": 1229, "kind": "opinion", "text": "Gnomonkey says the Winter Summit has blogs on every piece of content covered, linked in the description, and he is excited for All-Stars, RuneFest and Deadman."}
+      ]
+    },
+    {
+      "name": "Deadman All-Stars",
+      "kind": "activity",
+      "claims": [
+        {"t": 0, "kind": "event", "text": "Deadman All-Stars takes place on June 20 in person in Chicago with 3,000 seats, so it will be played on LAN rather than risking DDoS."},
+        {"t": 30, "kind": "trivia", "text": "Gnomonkey is one of the people involved with Deadman All-Stars and says he will attend; he has never done Deadman before and has been dipping into PvP."}
+      ]
+    },
+    {
+      "name": "RuneFest",
+      "kind": "activity",
+      "claims": [
+        {"t": 30, "kind": "event", "text": "RuneFest was announced for October 3rd and 4th at the NEC, and Gnomonkey plans to go."}
+      ]
+    },
+    {
+      "name": "Leagues",
+      "kind": "activity",
+      "claims": [
+        {"t": 59, "kind": "event", "text": "Leagues VI (Demonic Pacts) is coming in April, with a 666 theme featuring Yama, and players start in Yama's layer."},
+        {"t": 59, "kind": "opinion", "text": "Gnomonkey says Jagex showed little about how Leagues VI will work gameplay-wise but hinted at slight deviations from past Leagues."},
+        {"t": 86, "kind": "trivia", "text": "Leagues VI rewards include an outfit, a banner with flames and Yama, a teleport animation where imps drag you down into hell, Demonic Thrones, Thrall reskins, trident and staff reskins, the Soul Reaper axe (Yama's axe), Oathplate and Slayer helmet skins, a Radiant Slayer helmet skin and a reskinned Demon Butler."},
+        {"t": 120, "kind": "opinion", "text": "Gnomonkey thinks the Leagues VI rewards might be the strongest he has seen from Leagues."}
+      ]
+    },
+    {
+      "name": "Sailing",
+      "kind": "skill",
+      "claims": [
+        {"t": 120, "kind": "event", "text": "Jagex's Sailing roadmap focuses on combat: the cannon becomes affected by ranged gear, players get double cannonballs per bar, and regular weapons do full normal damage."},
+        {"t": 147, "kind": "opinion", "text": "Gnomonkey says the Sailing combat change makes cannons a bonus-damage side option, like thralls from crewmates, boosted by ranged gear, and thinks it is probably the best way Jagex could have gone, working fine though not amazing."},
+        {"t": 179, "kind": "event", "text": "The Sailing blog also adds a new Barracuda trial and a player-designed island."},
+        {"t": 179, "kind": "opinion", "text": "Gnomonkey dislikes the Griffin change: Jagex says it wants to make getting Bell's Folly more like getting a zombie axe (it is very rare from a rare Slayer task), so it extends Griffin and increases its weight while adding combat achievements, but does not buff the rapier's drop rate."},
+        {"t": 211, "kind": "opinion", "text": "Gnomonkey says the Griffin boss does not need combat achievements and its rapier should be about a one in 100 drop, while he does not mind it being a Slayer task."}
+      ]
+    },
+    {
+      "name": "Player Island Competition",
+      "kind": "update",
+      "claims": [
+        {"t": 242, "kind": "event", "text": "Jagex presented four player-submitted island designs for a community vote; Hedron's Maw of Whispers did not make it in."},
+        {"t": 242, "kind": "trivia", "text": "Most of the four finalist islands focus on crafting or agility, and almost all have some crafting or agility method."},
+        {"t": 242, "kind": "opinion", "text": "Gnomonkey's pick is the first island, which has a PvP practice boss and a hybrid agility and crafting method, and he says it has the most merit while he does not hate any of the four."},
+        {"t": 242, "kind": "opinion", "text": "Gnomonkey dislikes one finalist island that has a Slayer master available only on islands."}
+      ]
+    },
+    {
+      "name": "Update: Blood Moon Rises",
+      "kind": "update",
+      "claims": [
+        {"t": 273, "kind": "event", "text": "Blood Moon Rises is a vampire Grandmaster quest that also adds a solo repeatable boss, new items and new Hunter, Fishing and Woodcutting methods."},
+        {"t": 273, "kind": "stat", "text": "The Blisterwood flail upgrade is a four tick weapon instead of five tick, with a 25% damage and accuracy bonus against vampires and no unique special attack, making blood shards much easier to get."},
+        {"t": 307, "kind": "stat", "text": "A new stab special attack weapon costs 50% special energy, always deals 70% of its maximum damage on a successful hit, and finishes off the target if its remaining HP is below that value, making it an execute weapon."},
+        {"t": 333, "kind": "opinion", "text": "Gnomonkey thinks the execute spec would be useful for finishing each phase of Fasani and bosses in Tombs of Amascut such as Kephri and Akkha, and calls it a neat gimmick spec that will see use."},
+        {"t": 333, "kind": "stat", "text": "A new Woodcutting method gives semi-AFK 50 to 60k XP per hour and produces bloodwood sap, used to make seeker arrows."}
+      ]
+    },
+    {
+      "name": "Seeker arrows",
+      "kind": "item",
+      "claims": [
+        {"t": 365, "kind": "stat", "text": "Seeker arrows fit any standard arrow head, including dragon, amethyst and rune, and give plus 23 ranged accuracy, about the same as Masori legs, to all ammunition-based bows such as the Twisted bow, Scorching bow and Magic shortbow."},
+        {"t": 394, "kind": "stat", "text": "Seeker arrows also give a minimum hit bonus of plus two, raising your minimum damage from one to three, which matters more on fast weapons like the Magic shortbow than the Twisted bow."},
+        {"t": 394, "kind": "opinion", "text": "Gnomonkey thinks the best use will be Scorching bow at Doom with Void, since bonus accuracy and a higher minimum hit matter a lot on a very fast weapon, and calls seeker arrows maybe the strongest addition from the update."},
+        {"t": 424, "kind": "method", "text": "To make seeker arrows, chop bloodwood trees for sap (a boss drop multiplies the sap), treat logs with the sap and cut them into special arrow shafts that you attach to heads; alternatively you can apply the sap to existing arrows such as dragon arrows."},
+        {"t": 453, "kind": "opinion", "text": "Gnomonkey wonders whether the Bow of Faerdhinen stays useful since arrows cannot be used with it, and whether the Venator bow gets a minimum hit of three on every hit splat and a big accuracy buff, making Slayer and Colosseum runs faster."}
+      ]
+    },
+    {
+      "name": "Hunter",
+      "kind": "skill",
+      "claims": [
+        {"t": 483, "kind": "stat", "text": "A new Hunter activity needs 76 Hunter to collect bait and 82 Hunter to lure and catch the creatures (heard as stim pikes); it gives pure XP and no rewards."},
+        {"t": 514, "kind": "opinion", "text": "Gnomonkey thinks the new Hunter method will be more relaxed than tick-manipulated chinchompas, with active bait collecting and chill catching, and calls it not a bad idea."},
+        {"t": 691, "kind": "trivia", "text": "Gnomonkey says time to kill the new blood shard Slayer creatures off-task is earned by doing the new Hunter method, like Warriors' Guild tokens."}
+      ]
+    },
+    {
+      "name": "Fishing",
+      "kind": "skill",
+      "claims": [
+        {"t": 514, "kind": "stat", "text": "Leech fins is a new Fishing method giving 60k XP per hour, which Jagex says keeps it competitive without overtaking existing high-efficiency methods, with medium interaction similar to the Moons of Peril fishing activity."},
+        {"t": 543, "kind": "opinion", "text": "Gnomonkey dislikes that every new Fishing method gives poor XP like Sailing trawling, and wishes leech fins were 80 to 90k XP per hour or AFK at 40 to 50k."}
+      ]
+    },
+    {
+      "name": "Leech fin sandwich",
+      "kind": "item",
+      "claims": [
+        {"t": 572, "kind": "stat", "text": "Eating the leech fin sandwich heals 16, increases your next attack delay by two ticks, and sets your next eat delay to nine ticks, so you can eat only one in the time you could eat three fish."},
+        {"t": 599, "kind": "stat", "text": "The leech fin sandwich's next successful melee hit heals an additional 16 HP, but the secondary heal must be triggered within 12 seconds or it is lost, for 32 health if you melee."},
+        {"t": 632, "kind": "opinion", "text": "Gnomonkey finds the leech fin sandwich gimmicky and confusing, thinks it would be super good food at Theatre of Blood and Vardorvis, and wishes it was tuned into a simpler delayed heal."}
+      ]
+    },
+    {
+      "name": "Slayer",
+      "kind": "skill",
+      "claims": [
+        {"t": 660, "kind": "stat", "text": "New Slayer creatures, venators (alongside sentinels), are an alternative on vampyre tasks and require 74 Slayer; they are mostly single combat, reward-focused rather than XP-focused, and give a higher rate of blood shards."},
+        {"t": 660, "kind": "opinion", "text": "Gnomonkey says the new vampyre Slayer creatures address crowded sentinels and give irons a decent way to passively get blood shards."}
+      ]
+    },
+    {
+      "name": "Maggot King",
+      "kind": "boss",
+      "claims": [
+        {"t": 691, "kind": "trivia", "text": "The Maggot King is the new solo repeatable boss: a parasite on the corpse of a venator, related to Zarpus' race, with a huge maggot sticking up."},
+        {"t": 725, "kind": "opinion", "text": "Jagex says the Maggot King suits players eyeing the Inferno or in the middle of their Fasani grind, and Gnomonkey reads this as slightly harder than Yama, which he is glad about."},
+        {"t": 725, "kind": "stat", "text": "Maggot King rewards include the Necklace of Pursuit, an upgrade to the Necklace of anguish, and the Crimson bludgeon."}
+      ]
+    },
+    {
+      "name": "Crimson bludgeon",
+      "kind": "item",
+      "claims": [
+        {"t": 757, "kind": "stat", "text": "The Crimson bludgeon rolls crush four times, and the more rolls that succeed the higher the damage on its single hit splat; if all four land it hits very hard, with a max hit slightly below Dual macuahuitl-like claws."},
+        {"t": 757, "kind": "opinion", "text": "Gnomonkey says the Crimson bludgeon is basically Crush Claws made much simpler, good against crush-weak bosses and comparable to claws on zero-defence targets."}
+      ]
+    },
+    {
+      "name": "Necklace of Pursuit",
+      "kind": "item",
+      "claims": [
+        {"t": 790, "kind": "stat", "text": "The Necklace of Pursuit gives plus seven accuracy, plus three ranged strength and plus one prayer over the Necklace of anguish."},
+        {"t": 790, "kind": "opinion", "text": "Gnomonkey says plus three ranged strength on one item is huge, and combined with seeker arrows it is perhaps too much for ranged at once."},
+        {"t": 816, "kind": "stat", "text": "A quick calc from his chat, not including the minimum hit or Venator ring, shows Twisted bow with Void being only about 1% less than Scythe in Oathplate with Torva helm at Theatre of Blood."},
+        {"t": 842, "kind": "opinion", "text": "Gnomonkey thinks Jagex should tune the range rewards back or add a melee reward too, and that Scythe should stay best in slot at Theatre of Blood; he is unsure how it plays out at the Colosseum, where Twisted bow and Scythe are close."}
+      ]
+    },
+    {
+      "name": "Raids 4",
+      "kind": "raid",
+      "claims": [
+        {"t": 869, "kind": "event", "text": "Raids 4 is called the Fractured Archive, a Guthix-themed raid that is Theatre of Blood-styled with a series of demibosses, no puzzles and a final boss showdown."},
+        {"t": 895, "kind": "event", "text": "Jagex says the Fractured Archive aims, like Theatre of Blood, at simple mechanics leaving plenty of space for optimisation, with difficulty too early to discuss."},
+        {"t": 895, "kind": "event", "text": "Raids 4 is planned, subject to change, to scale between two and eight players, so solo clears are possible but difficult."},
+        {"t": 921, "kind": "opinion", "text": "Gnomonkey strongly supports the team-raid-with-optional-solo design and says no raid should be easier to solo, and wishes Jagex removed the subject-to-change line; he says team content is needed in the game."},
+        {"t": 954, "kind": "event", "text": "A Raids 4 practice mode letting players jump into any raid boss at regular difficulty will launch in the weeks after release, not at launch."},
+        {"t": 954, "kind": "event", "text": "At Raids 4 release, a full team wipe resets the raid, and in the weeks following it moves to a Tombs of Amascut-style wipe system (heard as toe-style) with infinite tries but reduced rewards and dwindling resources."},
+        {"t": 984, "kind": "opinion", "text": "Gnomonkey loves the release wipes because the race to world first is preserved, unlike Chambers of Xeric where nobody knows who got the first completion."},
+        {"t": 1014, "kind": "requirement", "text": "Accessing the Fractured Archive requires completing While Guthix Sleeps, which Gnomonkey thinks is probably the hardest requirement of any raid, harder than Beneath Cursed Sands."},
+        {"t": 1014, "kind": "event", "text": "Gnomonkey's plan for Raids 4's winter release is to team up with Bodhi, build a god team to chase world first for teams, and then try for world first solo."},
+        {"t": 1047, "kind": "event", "text": "Jagex is not ready to talk about Raids 4 rewards yet, and Gnomonkey says he will cover every blog and any item issues, as he did with Moons."},
+        {"t": 1047, "kind": "trivia", "text": "Raids 4 concept art looks inspired by the RS3 World Wakes quest, showing God Wars factions fighting, with a skull boss held together by roots and a Saradomin knight boss with a bloodied cape."}
+      ]
+    },
+    {
+      "name": "Opinion: Jagex should take time and release finished content",
+      "kind": "opinion",
+      "claims": [
+        {"t": 1139, "kind": "opinion", "text": "Gnomonkey says he is sick of content coming out half baked, citing Yama contracts and Doom as not perfect."},
+        {"t": 1166, "kind": "opinion", "text": "Gnomonkey wants content that stands the test of time like Zulrah, Chambers of Xeric and the Inferno, and not content like the Colosseum, which he says is not worth grinding because it is botted and Slinter prices are low."},
+        {"t": 1196, "kind": "opinion", "text": "Gnomonkey says two Yama contracts were impossible to complete at launch, and Moons of Peril (heard as Mocha) had a hole players could not enter and killed hardcores instantly, and he thinks both still need help."},
+        {"t": 1196, "kind": "opinion", "text": "Gnomonkey says he would rather an update be mostly complete at release with finishing touches after, instead of people dying and content being impossible, as with the Soul Reaper axe hitting 500."}
+      ]
+    }
+  ]
+}

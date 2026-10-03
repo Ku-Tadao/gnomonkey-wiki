@@ -1,0 +1,852 @@
+{
+ "id": "wxGBi89vE_s",
+ "title": "Your First Budget Solo CoX Guide (OSRS)",
+ "date": "2024-10-27",
+ "type": "guide",
+ "summary": "A beginner-focused guide to solo Chambers of Xeric, showing two full runs: an ironman-style budget setup (Muttadile, Tekton, Mystics) and a Bow of Faerdhinen run (Vespula, Vasa, Shamans, Ice Demon). Gnomonkey explains scouting, room mechanics, Great Olm's 3-0 and 4-1 methods, recommended upgrades, and finishes with a normal-mode tightrope skip.",
+ "outline": [
+  {
+   "t": 0,
+   "text": "Entry-level solo gear and why it is chosen (hasta/whip, Eclipse and Blue Moon armour, hammer)"
+  },
+  {
+   "t": 148,
+   "text": "Scouting: V-rooms, reloading the raid, overloads, plugins"
+  },
+  {
+   "t": 329,
+   "text": "Items to bring for specific rooms and plan for the raid"
+  },
+  {
+   "t": 412,
+   "text": "Muttadile"
+  },
+  {
+   "t": 534,
+   "text": "Tekton"
+  },
+  {
+   "t": 640,
+   "text": "Crabs"
+  },
+  {
+   "t": 759,
+   "text": "Mystics"
+  },
+  {
+   "t": 906,
+   "text": "Thieving room and herb prep for Olm"
+  },
+  {
+   "t": 1138,
+   "text": "Great Olm: line of sight, thralls, 3-0 and 4-1 explained"
+  },
+  {
+   "t": 1964,
+   "text": "Olm phases, flame walls and head phase"
+  },
+  {
+   "t": 2446,
+   "text": "Second raid with Bofa: Vespula"
+  },
+  {
+   "t": 2616,
+   "text": "Shamans and Vasa"
+  },
+  {
+   "t": 2880,
+   "text": "Ice Demon and prep for Olm"
+  },
+  {
+   "t": 3055,
+   "text": "Second Olm run: getting back in cycle"
+  },
+  {
+   "t": 3791,
+   "text": "Recommended upgrades: Sang, Lance, Ultor, Berserker ring"
+  },
+  {
+   "t": 3961,
+   "text": "Normal-mode tightrope skip with two Phoenix necklaces"
+  }
+ ],
+ "topics": [
+  {
+   "name": "Chambers of Xeric",
+   "kind": "raid",
+   "claims": [
+    {
+     "t": 0,
+     "kind": "tip",
+     "text": "Gnomonkey made this guide as an entry-level gear solo Chambers guide based on the gear from his ironman, what he says you would expect to have before entering Chambers."
+    },
+    {
+     "t": 56,
+     "kind": "tip",
+     "text": "Gnomonkey says an ironman should do the basic grinds first (Xeric-related, dragon warhammer, Moons of Peril) because Chambers is rough without them."
+    },
+    {
+     "t": 148,
+     "kind": "tip",
+     "text": "Gnomonkey says Chambers is the only raid with scouting, so which bosses you get are random, and that which rooms you want to avoid depends on the weapons you have."
+    },
+    {
+     "t": 148,
+     "kind": "opinion",
+     "text": "Gnomonkey says people fear the V-rooms (Vanguards, Vespula, Vasa), but Vanguards is the hardest regular room and a slow one he would avoid if possible."
+    },
+    {
+     "t": 179,
+     "kind": "opinion",
+     "text": "Gnomonkey says Vasa and Vespula are incredibly fast and are the fastest rooms with good weapons such as Tbow or Shadow, so a baby learner without those probably does not do them."
+    },
+    {
+     "t": 2453,
+     "kind": "opinion",
+     "text": "Gnomonkey says a Bofa raid with Vespula, Vasa and Vanguards-free rooms (VSV-style) is one of the best speed raids possible, roughly what world record runs are, and that Vespula and Vasa were changed to drop overloads so such a raid was not possible to do before."
+    },
+    {
+     "t": 3934,
+     "kind": "tip",
+     "text": "Gnomonkey says that after learning rope skips you can also learn the CM tightrope skip, and recommends looking up Molgoatkirby's skip for challenge mode, which is a lot different (video description)."
+    },
+    {
+     "t": 0,
+     "kind": "opinion",
+     "text": "Gnomonkey says he does not suggest learning solo Challenge Mode Chambers unless you have a Tbow and near max gear, as it is better purples per hour to do normal raids quickly (video description)."
+    },
+    {
+     "t": 0,
+     "kind": "tip",
+     "text": "Gnomonkey highly suggests getting a Dragon hunter lance when you can, saying it is expensive but will make your life a breeze, and says most people learn Chambers with teammates because mechanics change by scale (video description)."
+    }
+   ]
+  },
+  {
+   "name": "Chambers of Xeric gear setup",
+   "kind": "item",
+   "claims": [
+    {
+     "t": 26,
+     "kind": "opinion",
+     "text": "Gnomonkey says that a hasta (transcribed as Hosta) and the abyssal whip are both very good for Chambers; the hasta is easier to get earlier but maxes lower, and can crush, which matters for Tekton, while the whip is better in raids without Tekton."
+    },
+    {
+     "t": 26,
+     "kind": "method",
+     "text": "Gnomonkey's entry-level ironman Chambers setup is a Fury amulet, Eclipse Moon armour, Barrows gloves, dragon boots and a Berserker ring."
+    },
+    {
+     "t": 56,
+     "kind": "opinion",
+     "text": "Gnomonkey says the dragon warhammer is the worst thing to grind for Chambers, but you really want it for Tekton and it is also amazing for Great Olm's hands, as melee hands take much longer without one; he estimates raids will be about five minutes slower without a hammer."
+    },
+    {
+     "t": 56,
+     "kind": "tip",
+     "text": "Gnomonkey says that if you are not bringing a hammer, he would bring something like Burning claws and spam specs for DPS."
+    },
+    {
+     "t": 89,
+     "kind": "tip",
+     "text": "Gnomonkey says you should not bring the Osmumten's fang as your only weapon in Chambers because the fang is five-tick and Great Olm needs a four-tick weapon (lance, hasta, whip and so on), though you can bring the fang in addition for rooms like Tekton."
+    },
+    {
+     "t": 117,
+     "kind": "method",
+     "text": "Gnomonkey uses Eclipse Moon armour (which has strength) as his ranged armour, making ranged a two-way switch, and Blue Moon armour for mage, giving a six-way switch; he says an imbued god cape is questionable as it adds only about one max hit."
+    },
+    {
+     "t": 363,
+     "kind": "tip",
+     "text": "Gnomonkey says axe tier does nothing in Chambers so you should bring the lowest tier of axe, while pickaxe tier and Woodcutting level do matter."
+    },
+    {
+     "t": 3791,
+     "kind": "opinion",
+     "text": "Gnomonkey says the Lightbearer is a common mistake as it does barely anything for you given the downtime between rooms, and a camped melee ring like the Berserker ring is usually better."
+    },
+    {
+     "t": 3818,
+     "kind": "opinion",
+     "text": "Gnomonkey says the Ultor ring is really good if you have it and are using the Dragon hunter lance, and that the Bellator ring is good once you have a scythe."
+    },
+    {
+     "t": 3818,
+     "kind": "opinion",
+     "text": "Gnomonkey says the Dragon hunter lance as your melee weapon is probably the biggest possible upgrade for Chambers, and that grinding Hydra for it will speed up your Olms a lot."
+    },
+    {
+     "t": 3848,
+     "kind": "opinion",
+     "text": "Gnomonkey says general gear upgrades like Virtus, Ancestral, Pharaoh's sceptre-set pieces, better melee armour and the Elder maul are good, and as you improve you need fewer supplies and kill bosses faster."
+    },
+    {
+     "t": 3848,
+     "kind": "opinion",
+     "text": "Gnomonkey calls the Sanguinesti staff a massive upgrade for Chambers because it heals you; it can put you back at full health after melee phases and save one or two brews, and he says the Sang and the lance are the two biggest and most important upgrades."
+    }
+   ]
+  },
+  {
+   "name": "Chambers of Xeric scouting",
+   "kind": "mechanic",
+   "claims": [
+    {
+     "t": 208,
+     "kind": "method",
+     "text": "Gnomonkey explains that after entering with a clan shot you make the party at the board and enter the raid, and the stairs were updated about six months before this video so you can reload the raid, rerolling until you get a layout you want."
+    },
+    {
+     "t": 208,
+     "kind": "tip",
+     "text": "Gnomonkey says certain bosses drop overloads (Muttadile, Tekton and the V-rooms), and they drop the best tier variant, whereas making the best tier overload yourself needs 90 Herblore."
+    },
+    {
+     "t": 238,
+     "kind": "stat",
+     "text": "Gnomonkey says there are only two possible room rotations the game can give you, and that sometimes RuneLite scouting tells you unknown because the game needs two combat rooms to tell you the whole raid."
+    },
+    {
+     "t": 271,
+     "kind": "tip",
+     "text": "Gnomonkey recommends a plugin called Raid Reloader, which adds a button on the side; running closer to the entrance and hitting reload raid lets RuneLite see more of the map and clear up unknown rooms."
+    },
+    {
+     "t": 301,
+     "kind": "tip",
+     "text": "Gnomonkey says the Chambers of Zarek plugin lets you type rooms into whitelisted and blacklisted rooms so they turn green or red, letting you scout very quickly, for example blacklisting Vanguards, Vespula and Vasa if you have no Bofa."
+    },
+    {
+     "t": 329,
+     "kind": "tip",
+     "text": "Gnomonkey says to bring specialty items based on the rooms: a pickaxe for Guardians, a salve amulet for Mystics (undead), a lockpick for thieving, and an axe for Muttadile's tree (there is an axe in the room you can take)."
+    },
+    {
+     "t": 1073,
+     "kind": "tip",
+     "text": "Gnomonkey says the letters shown for the raid layout tell you what each room is (scavs, farming, combat, puzzle), so you can plan to do scavs before a puzzle room to avoid running around, and plan to grab seeds from Mystics, Guardians, Shamans or raking weeds."
+    }
+   ]
+  },
+  {
+   "name": "Muttadile",
+   "kind": "boss",
+   "claims": [
+    {
+     "t": 363,
+     "kind": "method",
+     "text": "Gnomonkey kills Muttadile first, takes the overload it drops and sips it immediately for the rest of the raid, so he only needs one dose of a pre-raid potion rather than multi-dose."
+    },
+    {
+     "t": 394,
+     "kind": "method",
+     "text": "In Muttadile's room, Gnomonkey runs straight to the tree, drops an item, and chops; between each XP drop he throws a hammer-style attack at Muttadile (throwing at the baby does not interrupt chopping), and chopping damage depends on his Woodcutting level."
+    },
+    {
+     "t": 422,
+     "kind": "tip",
+     "text": "Gnomonkey says if Muttadile drops below 50% health he heals off the tree, so you want to avoid that, and says to pray melee when he gets close and expect to take a lot of damage from random ranged attacks."
+    },
+    {
+     "t": 454,
+     "kind": "tip",
+     "text": "Gnomonkey says with Muttadile you can do two throws then step under until you are off cooldown and only take one hit to two of yours."
+    },
+    {
+     "t": 485,
+     "kind": "tip",
+     "text": "Gnomonkey says not to walk into melee range of the mother Muttadile because she can one-shot you, and that she does at least three mage attacks before switching to ranged, so you can pray mage for three attacks then swap back."
+    },
+    {
+     "t": 518,
+     "kind": "opinion",
+     "text": "Gnomonkey says Muttadile is a very high damage room where you should be ready to spam brew."
+    }
+   ]
+  },
+  {
+   "name": "Tekton",
+   "kind": "boss",
+   "claims": [
+    {
+     "t": 518,
+     "kind": "method",
+     "text": "Gnomonkey runs up next to Tekton to get him off his anvil, runs to the back of the room, hammers twice, then crushes him with his hasta while running around him."
+    },
+    {
+     "t": 549,
+     "kind": "tip",
+     "text": "Gnomonkey explains Tekton's attacks are not where they look like they are, since he is always one cycle behind; he baits out a second attack on the side that hits him and then runs around Tekton, and says to pre-melee because he hits hard."
+    },
+    {
+     "t": 609,
+     "kind": "opinion",
+     "text": "Gnomonkey says that without a hammer Tekton could take upwards of six anvils, and that this is the biggest time loss in the raid, which is why he says to grind the hammer first."
+    },
+    {
+     "t": 609,
+     "kind": "tip",
+     "text": "Gnomonkey says Tekton's room shortcut can be a rock, a tree or a boulder you push; clearing it gives a few points and is a bit faster."
+    }
+   ]
+  },
+  {
+   "name": "Crabs",
+   "kind": "mechanic",
+   "claims": [
+    {
+     "t": 642,
+     "kind": "opinion",
+     "text": "Gnomonkey calls the Chambers crabs room the bane of every learner's existence, and says bad crabs layouts are harder because the room is more awkward."
+    },
+    {
+     "t": 642,
+     "kind": "tip",
+     "text": "Gnomonkey says a relatively recent change lets you grab all the crabs in one tick."
+    },
+    {
+     "t": 674,
+     "kind": "stat",
+     "text": "Gnomonkey says crabs stay hammered for 50 game ticks, so you hammer them and then colour the crystals in the right colour while lining the crabs up with the crystal."
+    },
+    {
+     "t": 738,
+     "kind": "tip",
+     "text": "Gnomonkey recommends the Crab Solver plugin for crabs, and says the way you do crabs can be the same every time and you gradually get a feel for it."
+    },
+    {
+     "t": 2640,
+     "kind": "tip",
+     "text": "Gnomonkey says to stand to the side of the crab once lined up so the other crab cannot get off you."
+    },
+    {
+     "t": 2640,
+     "kind": "opinion",
+     "text": "Gnomonkey says crabs is a very hard room, and in the Bofa raid he gets frustrated and has to re-hammer the crabs."
+    }
+   ]
+  },
+  {
+   "name": "Mystics",
+   "kind": "boss",
+   "claims": [
+    {
+     "t": 738,
+     "kind": "stat",
+     "text": "Gnomonkey says Mystics primarily mage you unless you run into melee range of them, in which case they have a 50-50 chance to choose to melee you."
+    },
+    {
+     "t": 771,
+     "kind": "method",
+     "text": "Gnomonkey gets all Mystics trying to melee him by running through the room, then corner-traps them one by one and kills them so he does not tank a lot of damage."
+    },
+    {
+     "t": 834,
+     "kind": "tip",
+     "text": "Gnomonkey says every time you attack a Mystic it has a chance to get out of melee mode and start maging again, so it flips back and forth between the two and the outcome is RNG."
+    },
+    {
+     "t": 865,
+     "kind": "tip",
+     "text": "Gnomonkey says to always stand at the corner of the Mystic's tile for the corner trap (as in Inferno), because monsters want to go west or east before north or south so it cannot reach you, and the only time it hits you is if it is maging."
+    },
+    {
+     "t": 892,
+     "kind": "tip",
+     "text": "Gnomonkey says Mystics drop seeds and he wants Buchu, which lets you make supply potions (restore and brew)."
+    }
+   ]
+  },
+  {
+   "name": "Thieving room",
+   "kind": "mechanic",
+   "claims": [
+    {
+     "t": 892,
+     "kind": "stat",
+     "text": "Gnomonkey says grubs now stack in the Chambers thieving room, and the number of grubs you get depends on your Thieving level, so higher Thieving gives more grubs per steal."
+    },
+    {
+     "t": 918,
+     "kind": "stat",
+     "text": "Gnomonkey says with his Thieving he gets two grubs every time and sometimes three, whereas lower Thieving gets one and sometimes two, and he thinks 95 is the breakpoint."
+    },
+    {
+     "t": 918,
+     "kind": "method",
+     "text": "Gnomonkey deposits around 15 grubs in the chests at a time if you have lower Thieving, and the grub counter shows the total deposited; the room is done at 30 total."
+    }
+   ]
+  },
+  {
+   "name": "Chambers of Xeric herblore prep",
+   "kind": "mechanic",
+   "claims": [
+    {
+     "t": 950,
+     "kind": "opinion",
+     "text": "Gnomonkey says the regular raid is pretty easy to get through compared to Great Olm, so the whole thing with learning Chambers is learning Olm."
+    },
+    {
+     "t": 978,
+     "kind": "method",
+     "text": "Gnomonkey plants Buchu seeds (he needs two at some point, and says three is plenty) to make potions and kills scavengers, who drop the secondaries for the potions."
+    },
+    {
+     "t": 1009,
+     "kind": "stat",
+     "text": "Gnomonkey says you need at most about three restores for Olm, and juice makes brews while mushrooms make restores; he fills his inventory with brews and ends up with about 12 brew plus an overload, enhance and about three restores."
+    },
+    {
+     "t": 1040,
+     "kind": "tip",
+     "text": "Gnomonkey says you can make the potions while running to save time, and drops everything he does not need for Olm and equips his hammer."
+    },
+    {
+     "t": 3028,
+     "kind": "tip",
+     "text": "Gnomonkey says as you improve at solos you can do a no-prep, getting enough potions from the raid to do Olm without prepping early, but inexperienced players take more damage at Olm and want to prep."
+    },
+    {
+     "t": 1105,
+     "kind": "tip",
+     "text": "Gnomonkey says a noob tactic is to make a pile before Olm: drop a brew and a restore to heal up."
+    }
+   ]
+  },
+  {
+   "name": "Great Olm",
+   "kind": "boss",
+   "claims": [
+    {
+     "t": 1136,
+     "kind": "opinion",
+     "text": "Gnomonkey says Great Olm is the hard part of the raid, and in solo it is much harder than in teams because teammates can do things to the boss that make it easier; he does it solo for a flawless teaching experience."
+    },
+    {
+     "t": 1163,
+     "kind": "stat",
+     "text": "Gnomonkey says Olm can spawn on either side of the arena and flips back and forth through the fight; if he spawns on one side he is on that side for phases two and three."
+    },
+    {
+     "t": 1191,
+     "kind": "tip",
+     "text": "Gnomonkey explains Olm's head only attacks you if it can see you, with a very narrow field of view; if you are out of his line of sight he turns toward you instead of attacking."
+    },
+    {
+     "t": 1247,
+     "kind": "tip",
+     "text": "Gnomonkey says Olm knows you are on the far side only if you are damaging the hand on that side; if nobody hits that hand and you are not in his field of view, he turns to the middle."
+    },
+    {
+     "t": 1279,
+     "kind": "tip",
+     "text": "Gnomonkey says if you are attacking the hand on the opposite side of his field of view, Olm turns all the way over, and if you do not, he turns middle; this is very important for soloing."
+    },
+    {
+     "t": 1279,
+     "kind": "tip",
+     "text": "Gnomonkey says thralls ignore defence and hit almost every time (three out of four Olm attacks make his hands go ow), so a thrall attacking the hand you are killing means Olm basically never turns middle and is predictable."
+    },
+    {
+     "t": 1342,
+     "kind": "stat",
+     "text": "Gnomonkey says there are two methods used in solos: 3-0 with mage on the mage hand, and 4-1 with melee on the melee hand, where the first number is hits you get in the cycle and the second is hits Olm gets."
+    },
+    {
+     "t": 1404,
+     "kind": "stat",
+     "text": "Gnomonkey says Olm has a four-attack cycle: attack, null, attack, special (he uses a mnemonic for it), which lets you pick which attack hits you, and you want to tank the first attack rather than the special attack."
+    },
+    {
+     "t": 1459,
+     "kind": "method",
+     "text": "Gnomonkey's rule of thumb for Olm is to enter each phase with the hammer on and hammer him first, then mage every time except the last phase, where he has a trick."
+    },
+    {
+     "t": 1488,
+     "kind": "tip",
+     "text": "Gnomonkey says if you do too much damage to the melee hand while the mage hand is alive, the hand can clench and stop being attackable, so you always kill the mage hand first, except on the last phase."
+    },
+    {
+     "t": 1516,
+     "kind": "tip",
+     "text": "Gnomonkey says to put your weapon on accurate for Olm and says people are often confused why nothing works because it was on long range; it has to be accurate or you cannot kill him."
+    },
+    {
+     "t": 1543,
+     "kind": "tip",
+     "text": "Gnomonkey says you can overload when entering Olm to heal back to full and then restore afterward, but this wastes time and he sees people doing it into the 500 kc region, which he says not to do once you are good."
+    },
+    {
+     "t": 3606,
+     "kind": "tip",
+     "text": "Gnomonkey says before head phase you should heal up because it is chaotic and better to heal then than during head phase, which he calls the most dangerous part."
+    },
+    {
+     "t": 3791,
+     "kind": "record",
+     "text": "Gnomonkey finishes his second Olm with four brews left and his Olm drop about 400k, and calls a 4-2 result good enough."
+    }
+   ]
+  },
+  {
+   "name": "Great Olm 3-0 method",
+   "kind": "mechanic",
+   "claims": [
+    {
+     "t": 1573,
+     "kind": "method",
+     "text": "To start the 3-0 mage hand method, Gnomonkey goes to the middle of the room, drops a brew, summons a mage thrall and hammers, forcing Olm to turn his head to the side."
+    },
+    {
+     "t": 1600,
+     "kind": "tip",
+     "text": "Gnomonkey says Olm has a four-tick attack cycle, and the 3-0 cycle is tick-perfect: Olm can never hit you because you can move and attack on the same tick when you get dragged, which is why the weapon must be on accurate."
+    },
+    {
+     "t": 1629,
+     "kind": "tip",
+     "text": "Gnomonkey says to get into the 3-0 cycle you go to a particular tile and click the instant Olm turns his head, pre-empting it, and that this is probably the hardest thing to learn at the start."
+    },
+    {
+     "t": 1662,
+     "kind": "tip",
+     "text": "Gnomonkey says that with a thrall every thrall hit is good enough to turn Olm's head, so even if you splash Olm does not turn middle and hit you, and the same applies to the melee hand."
+    },
+    {
+     "t": 1964,
+     "kind": "tip",
+     "text": "Gnomonkey says 3-0 is very simple and always the same, with no cycles to worry about because you are not taking any hits."
+    }
+   ]
+  },
+  {
+   "name": "Great Olm 4-1 method",
+   "kind": "mechanic",
+   "claims": [
+    {
+     "t": 1721,
+     "kind": "opinion",
+     "text": "Gnomonkey says 4-1 on the melee hand is much harder than 3-0, calls it the bane of people's existence, and the hardest thing for people to do."
+    },
+    {
+     "t": 1721,
+     "kind": "method",
+     "text": "Gnomonkey says to get into 4-1 you go to the thumb, wait until Olm attacks and then click the hand, wait for two attacks and then run."
+    },
+    {
+     "t": 1817,
+     "kind": "tip",
+     "text": "Gnomonkey says that anytime you get pulled out of cycle you should go to the thumb, wait for an attack and click, and that when things go wrong you should not stop following the rules."
+    },
+    {
+     "t": 1755,
+     "kind": "tip",
+     "text": "Gnomonkey says if you get acid or another bad effect while learning, you should just walk it off and get back into cycle."
+    },
+    {
+     "t": 1964,
+     "kind": "tip",
+     "text": "Gnomonkey says if Olm attacks you and then does nothing you are in 4-1 by default; you just run to the left and drag him."
+    },
+    {
+     "t": 1995,
+     "kind": "tip",
+     "text": "Gnomonkey says if Olm attacks twice and no flame wall is in your way, you do three hits instead of four (a 3-1) to fix the cycle, and if he does a special you wait on the thumb for two attacks and then you are in cycle."
+    },
+    {
+     "t": 3428,
+     "kind": "tip",
+     "text": "Gnomonkey says on phase three you can get into 4-1 instantly using a thrall and a hammer, and the melee hand cannot cripple on phase three."
+    },
+    {
+     "t": 3512,
+     "kind": "tip",
+     "text": "Gnomonkey says when you lose cycle you go to the thumb, attack after Olm attacks, and if he did two attacks do a three-to-one; he says Olm becomes hell if you cannot get back into cycle quickly, but once you can, everything is fixable."
+    },
+    {
+     "t": 3572,
+     "kind": "tip",
+     "text": "Gnomonkey says once you know you are in cycle and are using a thrall, you can pull the protection prayer off because you will not take hits."
+    },
+    {
+     "t": 3338,
+     "kind": "tip",
+     "text": "Gnomonkey says that when Olm attacks and just stares at you you are in 4-1 by default, which is the easiest way into the cycle."
+    },
+    {
+     "t": 3152,
+     "kind": "tip",
+     "text": "Gnomonkey says anytime you see a special you take two more hits and then run to be in 4-1, and to change your protection prayer when an attack differs from what you were praying since Olm often repeats the same attack."
+    }
+   ]
+  },
+  {
+   "name": "Great Olm flame phase",
+   "kind": "mechanic",
+   "claims": [
+    {
+     "t": 2203,
+     "kind": "tip",
+     "text": "Gnomonkey says that on the flame phase, if you tank the hit on the pinky side on phase three, Olm cannot flame wall you because there is not enough room, so it nulls the attack."
+    },
+    {
+     "t": 2262,
+     "kind": "tip",
+     "text": "Gnomonkey says if you are in the middle you also cannot be flame walled, and the same applies if you tank the hit while standing at that spot."
+    },
+    {
+     "t": 2262,
+     "kind": "tip",
+     "text": "Gnomonkey says if you do not yet know flame skips, you can bring a watering can, which gives eight flame wall escapes and can save a brew if you tank more than two flame walls in a kill."
+    },
+    {
+     "t": 2295,
+     "kind": "stat",
+     "text": "Gnomonkey says Olm adds a fourth special attack in the third phase where the melee hand gets a heal aura, which cannot be damaged and heals from damage dealt, so you want to kill the melee hand quickly."
+    },
+    {
+     "t": 3281,
+     "kind": "tip",
+     "text": "Gnomonkey says you can run one tile above the thumb out of habit to avoid flame walls, which does not matter on the crystal phase because Olm will not flame wall there."
+    }
+   ]
+  },
+  {
+   "name": "Great Olm head phase",
+   "kind": "mechanic",
+   "claims": [
+    {
+     "t": 2328,
+     "kind": "method",
+     "text": "For Olm's last phase Gnomonkey swaps to ranged and summons a ranged thrall, moving the instant Olm's head turns from the side so he tanks hits in the middle and a flame wall cannot hit him."
+    },
+    {
+     "t": 2355,
+     "kind": "stat",
+     "text": "Gnomonkey says Olm hits really hard in head phase, so his max hit is higher, and he found the Atlatl a bit better than a Rune crossbow when he checked, if you have the full Eclipse Moon outfit."
+    },
+    {
+     "t": 2386,
+     "kind": "stat",
+     "text": "Gnomonkey says the full Eclipse Moon set effect adds burn damage (the orange hitsplats), which is 10 per stack, and each proc is another 10 damage."
+    },
+    {
+     "t": 2386,
+     "kind": "tip",
+     "text": "Gnomonkey says a big mistake on head phase is running too fast: if you are on a certain tile as Olm turns to the middle he will turn all the way to the side instead and you will take an extra hit, so wait until his head is about to turn and then run."
+    },
+    {
+     "t": 3727,
+     "kind": "method",
+     "text": "On the Bofa head phase Gnomonkey moves as Olm's head is about to turn, tanks a hit in the middle, waits for the head to catch up, and repeats; he warns that moving too early makes you take a hit every time."
+    }
+   ]
+  },
+  {
+   "name": "Thralls",
+   "kind": "mechanic",
+   "claims": [
+    {
+     "t": 363,
+     "kind": "opinion",
+     "text": "Gnomonkey says Chambers is one of the few raids where you do not use a thrall spellbook by default and there are many reasons to use different spellbooks, but thralls are really good for learning solo Olm."
+    },
+    {
+     "t": 2940,
+     "kind": "stat",
+     "text": "Gnomonkey says a thrall on the Ice Demon hits a one about one in four hits, and when it would hit a three it hits a one, otherwise a zero, so it is optional but he does not knock people for using it."
+    }
+   ]
+  },
+  {
+   "name": "Bow of Faerdhinen raid",
+   "kind": "mechanic",
+   "claims": [
+    {
+     "t": 2453,
+     "kind": "method",
+     "text": "In his second raid Gnomonkey runs a Bofa setup using Blue Moon armour as his melee and mage armour, bringing a Phoenix necklace for Vasa."
+    },
+    {
+     "t": 2486,
+     "kind": "opinion",
+     "text": "Gnomonkey says Vespula is very tanky and the Bofa cuts through it, giving it better DPS than a Tbow there, and that the Tbow is better on Vasa but the Bofa works well enough."
+    },
+    {
+     "t": 2514,
+     "kind": "stat",
+     "text": "Gnomonkey says Shamans poison you so he brings an antidote, which lasts 12 minutes (he believes), and says you can also bring an anti-poison or a sand few as anti-poison."
+    },
+    {
+     "t": 2546,
+     "kind": "trivia",
+     "text": "Gnomonkey notes a little known fact that Vasa is weak to crush and you can drain her defence, so he hammers her."
+    }
+   ]
+  },
+  {
+   "name": "Vespula",
+   "kind": "boss",
+   "claims": [
+    {
+     "t": 2546,
+     "kind": "method",
+     "text": "Gnomonkey brings plenty of food to Vespula because she takes all his health away, and he wants to heal up and pick up her potions afterward."
+    },
+    {
+     "t": 2546,
+     "kind": "method",
+     "text": "Gnomonkey shoots Vespula's portal with the Bofa from a green tile at the left corner of the square every time."
+    },
+    {
+     "t": 2579,
+     "kind": "tip",
+     "text": "Gnomonkey says with the Bofa you can shoot again the instant you reach that tile, which is difficult, and gets awkward once you have to throw in resort doses."
+    }
+   ]
+  },
+  {
+   "name": "Shamans",
+   "kind": "boss",
+   "claims": [
+    {
+     "t": 2733,
+     "kind": "tip",
+     "text": "Gnomonkey says to stay adjacent to a wall when fighting Shamans because if you are next to a wall they cannot jump, letting you keep shooting them."
+    },
+    {
+     "t": 2733,
+     "kind": "tip",
+     "text": "Gnomonkey says to move three tiles every time the Shamans do their attack animation, and ideally stay out of range of the next one until you are close to killing the first."
+    },
+    {
+     "t": 2764,
+     "kind": "opinion",
+     "text": "Gnomonkey says safe spotting Shamans is trolling because it slows the raid down and it is easy enough to just kill them."
+    },
+    {
+     "t": 2733,
+     "kind": "tip",
+     "text": "Gnomonkey says you can redemption off an overload, so if you are low on prayer and around 50 health it is a way to get some health back."
+    }
+   ]
+  },
+  {
+   "name": "Vasa",
+   "kind": "boss",
+   "claims": [
+    {
+     "t": 2764,
+     "kind": "stat",
+     "text": "Gnomonkey explains that when you enter Vasa's room she teleports you, scans your health and then hits you for that health minus five, so you can heal up after being teleported, and the Phoenix necklace gives health back."
+    },
+    {
+     "t": 2797,
+     "kind": "tip",
+     "text": "Gnomonkey says when Vasa walks towards you she tramples you, and praying melee reduces the damage though you do not have to."
+    },
+    {
+     "t": 2855,
+     "kind": "stat",
+     "text": "Gnomonkey says Vasa goes to crystals over and over, and after roughly the third crystal she heals off them and goes to the middle to do another bomb, and that repeats."
+    },
+    {
+     "t": 2797,
+     "kind": "tip",
+     "text": "Gnomonkey says to hammer Vasa but not at the end of the fight."
+    }
+   ]
+  },
+  {
+   "name": "Ice Demon",
+   "kind": "boss",
+   "claims": [
+    {
+     "t": 2886,
+     "kind": "tip",
+     "text": "Gnomonkey says an axe chop cycle is five ticks and you can move three tiles per chop if you move as soon as the XP drop happens, so you can chop on the way to Ice Demon."
+    },
+    {
+     "t": 2914,
+     "kind": "method",
+     "text": "Gnomonkey fills three braziers for Ice Demon: the first with as much as you can, at least 24 kindling (28 is the most you can hold), the second the same way, and the third with about ten."
+    },
+    {
+     "t": 2940,
+     "kind": "stat",
+     "text": "Gnomonkey says Ice Demon is on a three-tick attack cycle, so you move every time he does the animation, though sometimes it does not show, and the AoE attack needs you to move two tiles."
+    },
+    {
+     "t": 2968,
+     "kind": "tip",
+     "text": "Gnomonkey says to pray ranged against Ice Demon because if you do not, it will sometimes mage you."
+    }
+   ]
+  },
+  {
+   "name": "Dragonbane wand",
+   "kind": "item",
+   "claims": [
+    {
+     "t": 3903,
+     "kind": "opinion",
+     "text": "Gnomonkey calls the dragonbane wand garbage for Olm, saying it is only about one percent better than a warped sceptre, requires giving up thralls and the regular spellbook, and assumes wrath runes which an ironman does not have, though he says that might change in future."
+    }
+   ]
+  },
+  {
+   "name": "Tightrope skip",
+   "kind": "mechanic",
+   "claims": [
+    {
+     "t": 3934,
+     "kind": "tip",
+     "text": "Gnomonkey says the Chambers tightrope skip in normal mode starts from near the entrance and uses rapid heal; for solo he says the typical setup is two Phoenix necklaces, and he practises with an inventory full of necklaces and healing items."
+    },
+    {
+     "t": 3992,
+     "kind": "stat",
+     "text": "Gnomonkey explains that when a Phoenix necklace procs, all the damage coming at you that tick is deleted, since the first hitsplat procs it and the rest vanish, so you can delete all the damage from the rope."
+    },
+    {
+     "t": 3992,
+     "kind": "method",
+     "text": "For the normal-mode rope skip Gnomonkey prays ranged and augury (or piety if no augury) for max defence."
+    },
+    {
+     "t": 4025,
+     "kind": "stat",
+     "text": "Gnomonkey says you need at least 23 health before crossing since the max hit from the rope guys is 22, and there is about a 5 percent chance on any given rope that it fails because a small hit might not proc the necklace and then a max hit kills you."
+    },
+    {
+     "t": 4053,
+     "kind": "method",
+     "text": "Gnomonkey wears a Phoenix necklace and prays ranged and defence, crosses the rope, procs the necklace at the other end, grabs the crystal and comes back, putting on a necklace before crossing and moving very quickly."
+    },
+    {
+     "t": 4085,
+     "kind": "tip",
+     "text": "Gnomonkey warns that if the Phoenix necklace procs early you start walking the rope without a necklace and take around 800 damage when you exit, so you need it not to proc early."
+    },
+    {
+     "t": 4112,
+     "kind": "tip",
+     "text": "Gnomonkey says after crossing you run to the gate and spam brew because you still tank the hits."
+    },
+    {
+     "t": 4143,
+     "kind": "tip",
+     "text": "Gnomonkey says if you are really healthy you should wait on putting the necklace on until you come back, and that the XP drop is the cue the instant you can click the crystal; you must wait on the crystal for a tick because there is a delay and you must actually grab it."
+    },
+    {
+     "t": 4172,
+     "kind": "tip",
+     "text": "Gnomonkey says his cue on the way back is: true tile update, click the Phoenix necklace, click the rope."
+    }
+   ]
+  }
+ ]
+}

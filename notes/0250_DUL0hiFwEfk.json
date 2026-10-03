@@ -1,0 +1,172 @@
+{
+  "id": "DUL0hiFwEfk",
+  "title": "DOOM DELVE BOSS GUIDE  (OSRS)",
+  "date": "2025-07-23",
+  "type": "guide",
+  "summary": "A full guide to the Doom of Mokhaiotl delve boss using a max ranged setup (Twisted bow, or Scorching bow in Void as a cheaper option) rather than melee, which Gnomonkey says is not feasible yet. He covers gear, inventory and spec choices, explains every mechanic across caves 1-8, then narrates a full 1-8 run. His main takeaway: the fight is as hard as the Colosseum and caves 6 and 8 ramp up massively, but loot drops from early caves, so it is worth doing even if you cannot clear cave 8.",
+  "outline": [
+    {"t": 0, "text": "Intro: how hard the Doom of Mokhaiotl is and whether it is worth doing at lower caves"},
+    {"t": 56, "text": "Gear: max ranged with Twisted bow, Masori, Lightbearer, dragon arrows (p++)"},
+    {"t": 210, "text": "Inventory: Ralos and Zaryte crossbow specs, double Death Charge, three demonbane sources"},
+    {"t": 354, "text": "Cheaper setups: Scorching bow in Void, Bow of Faerdhinen comparison"},
+    {"t": 475, "text": "Mechanics: basic attacks, boulder colour tell, grubs"},
+    {"t": 653, "text": "Shield-together melee attack and the cave 3 demonbane shield phase"},
+    {"t": 772, "text": "Cave 4 coloured grubs and cave 5 car (eyeball dash) attack"},
+    {"t": 858, "text": "Stalagmite orb mechanic against the slam attack"},
+    {"t": 1005, "text": "Cave 6 car dashes and cover, cave 8 triple grubs and six-attack prayer flick"},
+    {"t": 1213, "text": "Full walkthrough of caves 1-8 with voiceover"},
+    {"t": 2075, "text": "Alternative specs: Elder maul, Warhammer, and why other specs are poor"},
+    {"t": 2163, "text": "Ward of Arceus, surge potions, and closing advice on loot from early caves"}
+  ],
+  "topics": [
+    {
+      "name": "Doom of Mokhaiotl",
+      "kind": "boss",
+      "claims": [
+        {"t": 0, "kind": "opinion", "text": "Gnomonkey compares the difficulty of the Doom of Mokhaiotl (the delve boss) to the Colosseum and calls it incredibly hard; he says clearing cave 8 took him about two and a half hours and he dies constantly."},
+        {"t": 0, "kind": "record", "text": "Gnomonkey describes himself as the world's first cave 8 completionist of the Doom of Mokhaiotl at the time of this video."},
+        {"t": 27, "kind": "tip", "text": "Players who cannot clear cave 8 of the Doom of Mokhaiotl can still go through about cave 4 and get loot; Gnomonkey says people have received the boots as early as cave 3."},
+        {"t": 56, "kind": "stat", "text": "At the time of the video the Doom of Mokhaiotl boots were worth about 1.6 billion gp; Gnomonkey says later in the video that he bought his for 1.2 billion gp."},
+        {"t": 86, "kind": "opinion", "text": "Gnomonkey says melee is not currently feasible at the Doom of Mokhaiotl because the boss melees through prayer very hard, so he uses ranged; he leaves open that it could turn out like Yama, and that he may make a new guide if a better approach is found."},
+        {"t": 210, "kind": "stat", "text": "The Doom of Mokhaiotl has close to 500 health and resets to a little over 500 health in each of its eight caves."},
+        {"t": 241, "kind": "stat", "text": "The Doom of Mokhaiotl has 90 defence that can be drained down to 60 at most, and a Ralos spec drains 27 defence per hit splat, so landing a single splat is enough for the full drain."},
+        {"t": 413, "kind": "stat", "text": "The Doom of Mokhaiotl has 90 defence and 160 ranged defence, according to Gnomonkey."},
+        {"t": 2102, "kind": "stat", "text": "The Doom of Mokhaiotl has 300 defence against stab and slash even though it is a demon, and is extremely tanky to anything that is not crush, so melee specs, claws and burning claws are poor against it."},
+        {"t": 2049, "kind": "tip", "text": "Gnomonkey says the Doom of Mokhaiotl is so weak to crush that the Elder maul is a decent spec against it."},
+        {"t": 2163, "kind": "stat", "text": "Gnomonkey says the Doom of Mokhaiotl is only roughly a 10-minute fight when running caves 1 through 8."},
+        {"t": 2222, "kind": "opinion", "text": "Gnomonkey says the Doom of Mokhaiotl is incredibly good money at the time of the video and worth doing even if you are not a top-tier player."}
+      ]
+    },
+    {
+      "name": "Doom of Mokhaiotl: gear and inventory",
+      "kind": "other",
+      "claims": [
+        {"t": 56, "kind": "method", "text": "Gnomonkey's Doom of Mokhaiotl setup is max ranged: Twisted bow with Masori armour and a Fulmasori quiver, which he calls the typical max setup and the best known gear at the time."},
+        {"t": 86, "kind": "stat", "text": "Gnomonkey first ran Scythe of Vitur with Ink at the Doom of Mokhaiotl because it has better DPS than the Twisted bow, but abandoned it because the boss melees through prayer too hard."},
+        {"t": 118, "kind": "stat", "text": "At the Doom of Mokhaiotl the Twisted bow is within about 5% of the DPS of the Scythe with Ink, per Gnomonkey."},
+        {"t": 118, "kind": "opinion", "text": "Gnomonkey does not wear a Venator ring at the Doom of Mokhaiotl because it does not grant a max hit, and considers the Lightbearer far better."},
+        {"t": 147, "kind": "opinion", "text": "Gnomonkey says there is so much downtime in the Doom of Mokhaiotl fight that a Lightbearer returns spec energy often, so he thinks you very likely want to camp the Lightbearer."},
+        {"t": 147, "kind": "method", "text": "Gnomonkey uses dragon arrows (p++) with the Twisted bow at the Doom of Mokhaiotl because the boss can be poisoned and they deal 4 poison damage as free extra DPS; they cost almost 3k each but he considers the premium worth it given the boss's loot."},
+        {"t": 176, "kind": "tip", "text": "Gnomonkey brings a Buckler at the Doom of Mokhaiotl solely to increase the Zaryte crossbow's accuracy; wearing the Book of the Dead instead for an extra inventory slot (such as another brew) is also fine."},
+        {"t": 354, "kind": "stat", "text": "In Gearscape (which had added the Doom of Mokhaiotl at the time) the Twisted bow setup is about 11.55 DPS, closer to 12 once free poison damage is included, which Gearscape does not model."},
+        {"t": 384, "kind": "method", "text": "Gnomonkey's second best Doom of Mokhaiotl setup is a Scorching bow in Void rather than Masori, because the Scorching bow has built-in accuracy and Void gives it four extra max hits; without a Twisted bow you do not need Masori, so this is cheaper and better."},
+        {"t": 413, "kind": "stat", "text": "Gnomonkey says a Bow of Faerdhinen setup is about 26% worse than the Twisted bow at the Doom of Mokhaiotl and he would not do the content with it; a Scorching bow setup is about 13% worse than the Twisted bow."},
+        {"t": 446, "kind": "opinion", "text": "Gnomonkey says clears are possible with a Scorching bow, but good DPS is very important for killing the Doom of Mokhaiotl in time and low damage makes the fight even harder."},
+        {"t": 298, "kind": "requirement", "text": "A Scorching bow is mandatory for Gnomonkey's Doom of Mokhaiotl setup because it is the only bow that is demonbane; you need three types of demonbane, and what matters is having them, not how strong they are."},
+        {"t": 327, "kind": "tip", "text": "For the other demonbane sources at the Doom of Mokhaiotl, a purging staff is not required since any Slayer staff casting a demonbane spell is the same, and an Arclight is fine in place of an Ember light, which only does slightly more damage in a couple of parts of the fight."},
+        {"t": 327, "kind": "tip", "text": "Gnomonkey says the melee demonbane weapon's job at the Doom of Mokhaiotl is mainly to one-shot the adds (grubs), which an Arclight does just as well as an Ember light."},
+        {"t": 210, "kind": "method", "text": "Gnomonkey brings both a Ralos and a Zaryte crossbow for specs at the Doom of Mokhaiotl; the Zaryte crossbow spec is better on average, but the Ralos lets you fit in more specs."},
+        {"t": 210, "kind": "method", "text": "In later caves Gnomonkey opens with a Ralos spec and uses the Zaryte crossbow later in the phase, because a Zaryte crossbow opener can waste spec energy when the phase takes long; this still lands about 80 to 90 damage."},
+        {"t": 272, "kind": "requirement", "text": "Gnomonkey says double Death Charge is insanely important at the Doom of Mokhaiotl and not worth attempting the content without it; he says there is no better place in the game for double Death Charge, better than Kephri or Tombs of Amascut, and suggests getting it from Yama first."},
+        {"t": 272, "kind": "tip", "text": "At the Doom of Mokhaiotl there are many adds that can be one-shot and constantly give spec back, and Gnomonkey says everything in the fight, including the grubs and the boss's corpse after each cave, gives Death Charge, so he spams the spell constantly."},
+        {"t": 2130, "kind": "opinion", "text": "Gnomonkey ranks Doom of Mokhaiotl specs when in ranged gear as Zaryte crossbow best, Ralos second, Elder maul third and Warhammer fourth, with everything after that very poor."},
+        {"t": 2075, "kind": "tip", "text": "At the Doom of Mokhaiotl the Elder maul is fairly close to the Ralos because it applies a similar defence drain; the Warhammer is also decent but its accuracy is lower (about 73% against 83% in his check)."},
+        {"t": 2130, "kind": "stat", "text": "The Ember light spec is a stab spec with only 44% accuracy against the Doom of Mokhaiotl and an average drain of 6 that does not even drain the full amount, so Gnomonkey says it is unusable."},
+        {"t": 2130, "kind": "opinion", "text": "Gnomonkey speculates that if players eventually melee the Doom of Mokhaiotl, Voidwaker may become the best spec, but he has no idea whether melee will be viable."},
+        {"t": 2163, "kind": "opinion", "text": "Gnomonkey is unsure whether Ward of Arceus works against all Doom of Mokhaiotl attacks or only autos; if it works on everything it would be great and may be worth a slot (with nature runes) over one brew, but he had not tested it."},
+        {"t": 2163, "kind": "opinion", "text": "Gnomonkey does not bring a surge potion to the Doom of Mokhaiotl because the fight lasts only about 10 minutes through cave 8, giving at most three doses, and a brew is more valuable for the slot; he might change this once the fight is mastered."}
+      ]
+    },
+    {
+      "name": "Doom of Mokhaiotl: basic attacks and boulder tell",
+      "kind": "mechanic",
+      "claims": [
+        {"t": 475, "kind": "method", "text": "The Doom of Mokhaiotl's basic attacks are a slow-moving mage star and a ranged projectile; both are very bright and obvious, deal no chip damage through the correct prayer, and you just block them with protection prayers."},
+        {"t": 501, "kind": "method", "text": "The Doom of Mokhaiotl occasionally shoots a boulder that is either dark greenish-brown (a ranged attack follows) or blue like water (a mage attack follows); it drops rubble on your location, so you must move off the shadows, and the colour tells you which prayer to use for the attack right after it lands."},
+        {"t": 501, "kind": "tip", "text": "At the Doom of Mokhaiotl the boulder colour tells you the prayer ahead of time, which becomes very important by cave 8."},
+        {"t": 1297, "kind": "stat", "text": "The Doom of Mokhaiotl can throw in melee attacks after the first cave, and its attack order is always the same: mage, ranged, mage if the boulder was blue, or ranged, mage, ranged if dark green, even on cave 8."},
+        {"t": 1297, "kind": "tip", "text": "Because the Doom of Mokhaiotl's attack order is fixed, Gnomonkey says you can build muscle memory for cave 8."},
+        {"t": 1327, "kind": "tip", "text": "Gnomonkey says you should never stand next to the Doom of Mokhaiotl except during the shield phase, because it melees very hard (like the Leviathan) and the shield phase is the only time it does not melee."},
+        {"t": 1480, "kind": "tip", "text": "Gnomonkey notes the Doom of Mokhaiotl will often throw one last small red projectile at the end of the three-attack sequence."}
+      ]
+    },
+    {
+      "name": "Doom of Mokhaiotl: grubs",
+      "kind": "mechanic",
+      "claims": [
+        {"t": 533, "kind": "stat", "text": "Doom of Mokhaiotl's grubs move to the centre of the boss and, on arrival, heal it for around 10 health and damage you for 1 to 15; Gnomonkey says this punishment is very minor and never changes in later caves."},
+        {"t": 533, "kind": "method", "text": "Doom of Mokhaiotl grubs die in one hit to any demonbane weapon they are not praying against; they have two health and non-demonbane weapons do one damage, so you want demonbane to tag them quickly because there are many grubs later."},
+        {"t": 565, "kind": "stat", "text": "When a Doom of Mokhaiotl grub dies it does a 3x3 AoE of about 15 damage; in melee range you have one tick after killing it to step out of the way."},
+        {"t": 591, "kind": "tip", "text": "Killing a grub next to or under the Doom of Mokhaiotl makes its explosion damage the boss (about 8 damage in his example) and not you; the grubs always go to a corner, so stand near that corner."},
+        {"t": 591, "kind": "stat", "text": "Attacking Doom of Mokhaiotl grubs is zero tick: you can attack them while on cooldown from attacking the boss without losing any ticks."},
+        {"t": 622, "kind": "stat", "text": "Spells (manually cast or staff-cast demonbane) against Doom of Mokhaiotl grubs are not zero tick: you must be off cooldown for them to land, which Gnomonkey says feels like a bug that may be changed."},
+        {"t": 1511, "kind": "tip", "text": "Gnomonkey says to ignore a Doom of Mokhaiotl grub if reaching it forces you into venom or a melee hit, since it only heals the boss about 10 and hurts you very little."},
+        {"t": 1834, "kind": "tip", "text": "Gnomonkey says not to greed grubs at the Doom of Mokhaiotl: they only deal around 3 to 4 damage, and he kept dying from going out of his way to tag them."},
+        {"t": 1067, "kind": "stat", "text": "On Doom of Mokhaiotl cave 8, grubs spawn in triples; Gnomonkey prefers to simply get rid of them quickly since too much else is happening to take advantage of the bonus damage."},
+        {"t": 1745, "kind": "tip", "text": "Gnomonkey notes that in the Doom of Mokhaiotl car phase a grub on the field usually despawns before it reaches the car, so you usually do not have to tag grubs during the car phase."}
+      ]
+    },
+    {
+      "name": "Doom of Mokhaiotl: shield phase",
+      "kind": "mechanic",
+      "claims": [
+        {"t": 653, "kind": "method", "text": "In the Doom of Mokhaiotl's first shield attack the boss puts its shield together and does a ranged/mage prayer attack; you just melee it (for example with an Ember light), which immediately breaks the shield; if you do not, it hits for 60 to 99 damage."},
+        {"t": 680, "kind": "method", "text": "From cave 3 the Doom of Mokhaiotl shield is blue and can only be damaged with demonbane, not touching the boss's normal health; a yellow bar charges up to a 60-99 damage attack (99 later), and each demonbane tag stuns the boss and resets that charge."},
+        {"t": 713, "kind": "method", "text": "To break the Doom of Mokhaiotl shield fastest, tag the constantly spawning grubs next to the boss: each does 100 shield damage guaranteed, versus 10 normally; do shots in between, and the boss does not melee during this phase, so you can stand within melee range."},
+        {"t": 680, "kind": "opinion", "text": "Gnomonkey says the Doom of Mokhaiotl shield phase gives Muzzah-style vibes (cracking through a shield), which is why it was described as a mix of Leviathan and that style of fight."},
+        {"t": 772, "kind": "method", "text": "From cave 4 the Doom of Mokhaiotl shield-phase grubs are coloured and pray two prayers; you must tag each with the style matching its colour with no exception, e.g. red grubs require melee."},
+        {"t": 772, "kind": "tip", "text": "In the Doom of Mokhaiotl cave 4 shield phase, the red melee grubs are the hardest because the boss also spits acid that venoms you (like the monkey room), and mage grubs require you to be off cooldown."},
+        {"t": 1902, "kind": "tip", "text": "Gnomonkey says to brew up during the Doom of Mokhaiotl shield phases (equally easy on caves 5 and 8), because the boss is not doing much and your damage matters less, making it a great time to heal."}
+      ]
+    },
+    {
+      "name": "Doom of Mokhaiotl: car attack",
+      "kind": "mechanic",
+      "claims": [
+        {"t": 801, "kind": "method", "text": "From cave 5 the Doom of Mokhaiotl turns into a car after the shield breaks: it places an eyeball icon on the ground and drives toward it to run you over, doing this two times before returning to the normal fight."},
+        {"t": 827, "kind": "opinion", "text": "Gnomonkey says the Doom of Mokhaiotl car attack may be the best attack in the whole game."},
+        {"t": 1005, "kind": "method", "text": "On Doom of Mokhaiotl cave 6 the car does two orbs at you (two prayers) on each dash and then a slam, so you must get behind rocks for cover."},
+        {"t": 1005, "kind": "tip", "text": "The Doom of Mokhaiotl car's AoE destroys nearby rocks, so you must be deliberate about where you drive it to avoid running out of cover; if there are none left you just take the 40 damage slam."},
+        {"t": 1039, "kind": "stat", "text": "The Doom of Mokhaiotl slam visually appears to reach only part of the room, but Gnomonkey says that is a bug and the slam hits the whole room, so running far away does not work."},
+        {"t": 1597, "kind": "tip", "text": "Gnomonkey says the first Doom of Mokhaiotl car phase is always safe and only does two dashes, so you can safely get into range at that point."},
+        {"t": 1716, "kind": "tip", "text": "Gnomonkey tries to open with a Zaryte crossbow spec as soon as the Doom of Mokhaiotl shield disappears and it turns into a car, which can kill the boss before any stalagmites appear."}
+      ]
+    },
+    {
+      "name": "Doom of Mokhaiotl: slam and stalagmite orb",
+      "kind": "mechanic",
+      "claims": [
+        {"t": 858, "kind": "stat", "text": "If you are too slow in a Doom of Mokhaiotl cave it spawns grubs, shoots a boulder and then slams the ground repeatedly for 40 damage per slam; the number of slams rises each cave (one in cave 1 as Gnomonkey recalls, five on cave 8)."},
+        {"t": 885, "kind": "method", "text": "To survive the Doom of Mokhaiotl slams you attack stalagmites (zero tick): shooting the first sets the target and shooting the second spawns an orb that travels from the second to the first in a straight line, protecting you from the slams; it despawns instantly when the slams end."},
+        {"t": 916, "kind": "tip", "text": "Gnomonkey recommends shooting the first stalagmite as far away as possible so the orb travels a long, straight line, because it uses NPC pathing, which moves opposite to what you would expect, and is hard to follow."},
+        {"t": 944, "kind": "tip", "text": "For timing the Doom of Mokhaiotl orb, tag the first stalagmite whenever; when the boss shoots its boulder, get one more shot off and then tag the second, and the orb starts immediately before the slams."},
+        {"t": 1067, "kind": "stat", "text": "The Doom of Mokhaiotl orb does not protect you from venom splats, so you must avoid them separately."},
+        {"t": 1538, "kind": "tip", "text": "Gnomonkey says it is safe to ignore the orb and just kill the Doom of Mokhaiotl when the stalagmites appear and it is at about 80 health or lower, but at 100 or more health do the orb protection as you likely cannot beat the slams."},
+        {"t": 1993, "kind": "opinion", "text": "Gnomonkey says the Doom of Mokhaiotl orb slam attack is effectively a DPS check: the goal is to kill the boss before it happens, and he had not yet survived it on cave 8 at the time of the video."}
+      ]
+    },
+    {
+      "name": "Doom of Mokhaiotl: cave 8 prayer flick",
+      "kind": "mechanic",
+      "claims": [
+        {"t": 1097, "kind": "method", "text": "On Doom of Mokhaiotl cave 8 the boss throws two boulders and then does six attacks in a row, starting with mage if blue (mage, ranged, mage, mage, ranged, mage) or the opposite if dark green (range, mage, range, range, mage, range); you must dodge two sets of rubble and pray each correctly."},
+        {"t": 1125, "kind": "stat", "text": "The six-attack sequence on Doom of Mokhaiotl cave 8 can hit for over 60 each if you miss prayers, and you must also land an Ember light tag during it or take a 99 damage hit."},
+        {"t": 1152, "kind": "stat", "text": "On Doom of Mokhaiotl cave 8 the boulder disables your prayers twice rather than once, so you must re-enable them a second time to pray the six attacks."},
+        {"t": 1181, "kind": "opinion", "text": "Gnomonkey compares the Doom of Mokhaiotl cave 8 sequence to a double Manticore and calls it an extremely high APM part of the fight; the main thing is to pray correctly, since taking rubble will not kill you but taking multiple attacks in a row will."},
+        {"t": 1685, "kind": "opinion", "text": "Gnomonkey says Doom of Mokhaiotl cave 6 and cave 8 are where the difficulty ramps up massively, with cave 8 insanely brutal, while caves up to 4 are doable for most of the player base."},
+        {"t": 1773, "kind": "tip", "text": "On Doom of Mokhaiotl cave 7, Gnomonkey notes the mage/ranged/mage attacks come out very fast, leaving no time to think and requiring quick prayer clicks."}
+      ]
+    },
+    {
+      "name": "Doom of Mokhaiotl: walkthrough of caves 1-8",
+      "kind": "activity",
+      "claims": [
+        {"t": 1213, "kind": "method", "text": "Gnomonkey always opens each Doom of Mokhaiotl cave with a Zaryte crossbow spec, since the boss is at just over 500 health and it deals its full damage, then keeps shooting with the Twisted bow and tags with demonbane."},
+        {"t": 1269, "kind": "tip", "text": "Gnomonkey says you can Death Charge off the Doom of Mokhaiotl's corpse in each cave in addition to the grubs."},
+        {"t": 1568, "kind": "tip", "text": "Gnomonkey notes that the Doom of Mokhaiotl's defence resets between phases, so a Ralos drain only helps the phase you are on and is not crazy good."},
+        {"t": 1568, "kind": "method", "text": "After a shield phase where you gain double Death Charge from grubs, Gnomonkey opens with a Zaryte crossbow spec as the Doom of Mokhaiotl turns into a car, which can do about 90 damage if used optimally."},
+        {"t": 1654, "kind": "tip", "text": "If the Doom of Mokhaiotl is not killed after the orb phase you must do another shield phase, which costs about a minute; later phases have many grubs and go faster."},
+        {"t": 1933, "kind": "tip", "text": "On cave 8 Gnomonkey pushes the Doom of Mokhaiotl to a corner so rocks are next to the boss, giving cover from the slam; he warns that tanking five slams in the orb while the six-attack prayer sequence comes is extremely hard."},
+        {"t": 2022, "kind": "tip", "text": "Gnomonkey says Doom of Mokhaiotl caves 6 and 8 ramp up difficulty massively; to make money without clearing them, go through about caves 4, 5 or even 6 a few times because early caves still give good loot."}
+      ]
+    },
+    {
+      "name": "Gnomonkey",
+      "kind": "person",
+      "claims": [
+        {"t": 0, "kind": "record", "text": "Gnomonkey says he is the world's first cave 8 completionist of the Doom of Mokhaiotl."},
+        {"t": 298, "kind": "trivia", "text": "The prerecorded Doom of Mokhaiotl footage in Gnomonkey's guide is from a run where he made it to cave 10."}
+      ]
+    }
+  ]
+}

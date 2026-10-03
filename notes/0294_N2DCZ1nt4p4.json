@@ -1,0 +1,575 @@
+{
+ "id": "N2DCZ1nt4p4",
+ "title": "300 - 400 - 500 Solo ToA Guide (OSRS)",
+ "date": "2026-04-01",
+ "type": "guide",
+ "summary": "A solo Tombs of Amascut guide at raid level 300 using mid-level gear (Eye of Ayak, Bow of Faerdhinen, Void Waker or Burning claws) with harder invocations such as Upset Stomach, Boulderdash and Insanity thrown in to push toward 400-500. It walks through gear, supplies, room order and every room (Path of Apmeken, Ba-Ba, Kephri, Zebak, Akkha, Wardens) with tips and tricks.",
+ "outline": [
+  {
+   "t": 0,
+   "text": "Gear and setup preparation"
+  },
+  {
+   "t": 264,
+   "text": "Room order and invocations used"
+  },
+  {
+   "t": 350,
+   "text": "Path of Apmeken monkey room"
+  },
+  {
+   "t": 702,
+   "text": "Ba-Ba boss encounter"
+  },
+  {
+   "t": 1040,
+   "text": "Kephri boss encounter"
+  },
+  {
+   "t": 1466,
+   "text": "Supplies and path selection (take Power)"
+  },
+  {
+   "t": 1511,
+   "text": "Zebak puzzle room"
+  },
+  {
+   "t": 1640,
+   "text": "Zebak boss encounter"
+  },
+  {
+   "t": 2136,
+   "text": "Akkha boss encounter and Butterfly method"
+  },
+  {
+   "t": 2771,
+   "text": "Wardens final encounter, phases 1-3"
+  },
+  {
+   "t": 3490,
+   "text": "Wardens phase 4, Last Row, loot and closing thoughts on pushing raid level"
+  }
+ ],
+ "topics": [
+  {
+   "name": "Tombs of Amascut",
+   "kind": "raid",
+   "claims": [
+    {
+     "t": 0,
+     "kind": "tip",
+     "text": "This is a solo Tombs of Amascut guide at raid level 300 with advanced solves and mid-level gear, intended as groundwork to push the raid level toward 350, 400, 450 and even 500."
+    },
+    {
+     "t": 150,
+     "kind": "requirement",
+     "text": "Gnomonkey recommends having stats above 85 before going into solo Tombs of Amascut, higher being better, and recommends AFKing skills if you do not have 99s yet."
+    },
+    {
+     "t": 264,
+     "kind": "method",
+     "text": "The room order used is Ba-Ba, Kephri, Zebak, Akkha, Wardens; the last two are more flexible depending on room levels, because melee gets boosted less by salt later in the raid, so melee bosses are done first for speed."
+    },
+    {
+     "t": 295,
+     "kind": "tip",
+     "text": "Starting with Zebak is done only at very high raid levels (around 600) alongside the Pathmaster invocation to avoid a level 4 Zebak, but it is much slower otherwise, so Gnomonkey does not recommend it."
+    },
+    {
+     "t": 305,
+     "kind": "tip",
+     "text": "The invocations shown (Upset Stomach, Overlords, Aerial Assault, Boulderdash) are harder than recommended for a basic 300 and are used to show how to push the raid level up; Gnomonkey points to his Tombs of Amascut Master Guide for invocation breakpoints."
+    },
+    {
+     "t": 1466,
+     "kind": "tip",
+     "text": "At the path-selection screen after Kephri Gnomonkey always picks Power over Chaos, which gives two salts so you no longer worry about salt, and calls Chaos a big noob trap that makes the raid harder later."
+    },
+    {
+     "t": 2761,
+     "kind": "tip",
+     "text": "At the final supply screen before the Wardens, Gnomonkey says always pick Power Life, which gives enough salt and adrenaline and effectively unlimited supplies for the end, and not Chaos."
+    },
+    {
+     "t": 3736,
+     "kind": "tip",
+     "text": "Gnomonkey says this setup works all the way up to raid level 500, though it is tougher without a Tumeken's shadow and Osmumten's fang; 450s can be run comfortably without being that good."
+    },
+    {
+     "t": 3769,
+     "kind": "tip",
+     "text": "Gnomonkey says a Yellow Keris is needed only for higher raid levels (toward the Dehydration invocation) and in this raid would be a waste of spec energy; 300s are possible without one but 500s are not."
+    }
+   ]
+  },
+  {
+   "name": "Gear and supplies for solo Tombs of Amascut",
+   "kind": "item",
+   "claims": [
+    {
+     "t": 26,
+     "kind": "method",
+     "text": "Gnomonkey's setup uses a Toxic blowpipe for utility, swarms and the monkey room, a Bow of Faerdhinen as the main ranged weapon for Zebak and the Wardens, and the Eye of Ayak as the main magic weapon."
+    },
+    {
+     "t": 26,
+     "kind": "opinion",
+     "text": "Gnomonkey says the Eye of Ayak is close to the Tumeken's shadow but not quite as good in Tombs of Amascut because the Shadow's bonus is multiplied by four, yet it is a little better than the Bow of Faerdhinen on Akkha and the Wardens."
+    },
+    {
+     "t": 53,
+     "kind": "method",
+     "text": "He wears Virtus armor (Blue Moon armor is also good) and brings five Restore potions (one a Sanfew serum), three Brews, a Divine super combat, Burning claws as the special weapon, and a Dragon dagger needed to spec out the core."
+    },
+    {
+     "t": 53,
+     "kind": "opinion",
+     "text": "Gnomonkey says Burning claws give better DPS than the Voidwaker up to about raid level 375, while the Voidwaker is better at higher levels and can hit the core; at lower raid levels stick with Burning claws."
+    },
+    {
+     "t": 84,
+     "kind": "method",
+     "text": "He brings Aether runes to use Thralls and Death Charge, and says Thralls speed up a Tombs of Amascut run by one to two minutes because everything is tanky; double Death Charge from Yama is very good to have."
+    },
+    {
+     "t": 100,
+     "kind": "method",
+     "text": "Bandos godsword is used on Ba-Ba, Kephri and Zebak; a Bone dagger is slightly worse because it cannot be re-specced but, as an opening spec, it is guaranteed to hit and still drains levels."
+    },
+    {
+     "t": 148,
+     "kind": "opinion",
+     "text": "Gnomonkey says a Surge potion adds only a little DPS with weak spec weapons like Burning claws or Voidwaker and no Zaryte crossbow, so it is optional."
+    },
+    {
+     "t": 181,
+     "kind": "tip",
+     "text": "Gnomonkey brings Ava's assembler to save darts and because it gives the Bow of Faerdhinen a max hit, and says to check that Virtus mask actually gives a max hit in your setup, otherwise don't bring it."
+    },
+    {
+     "t": 209,
+     "kind": "opinion",
+     "text": "Gnomonkey says Oathplate is an option that is not too expensive, has the same strength as the shown armor, slightly worse defense that mostly does not matter, lands the Bandos godsword more often, and lets you spam Burning claws more accurately at the Wardens."
+    },
+    {
+     "t": 237,
+     "kind": "tip",
+     "text": "Pre-potting stamina, Divine super combat, Divine ranging (or regular ranging) and a prayer regeneration potion is good, because the monkey room uses a lot of prayer."
+    },
+    {
+     "t": 239,
+     "kind": "tip",
+     "text": "Extended anti-venom lasts long enough to carry from Ba-Ba into Kephri, so you can skip the Sanfew serum if you use it."
+    }
+   ]
+  },
+  {
+   "name": "Path of Apmeken",
+   "kind": "mechanic",
+   "claims": [
+    {
+     "t": 350,
+     "kind": "opinion",
+     "text": "Gnomonkey says the Path of Apmeken monkey room is the hardest room of the raid because it drains the most supplies and is easy to mess up."
+    },
+    {
+     "t": 357,
+     "kind": "method",
+     "text": "Enter the monkey room wearing Ava's assembler and melee gear to be extra tanky; skulls appear over pillars or vents at times and you must grab a hammer and potions from the crates and solve the puzzle within about 10 seconds or take a lot of damage."
+    },
+    {
+     "t": 391,
+     "kind": "stat",
+     "text": "Main monkeys come in three types: red melee, green ranged and blue mage; each is one-shot with the style it is weak to, and higher-level versions have 30 health instead of 25."
+    },
+    {
+     "t": 418,
+     "kind": "method",
+     "text": "A one-way blowpipe one-shots small mage monkeys while Rigour lets it one-shot big mages; small melee monkeys die to a basic Eye cast, big ones need a three-way, and the Osmumten's fang one-shots ranged monkeys without prayer."
+    },
+    {
+     "t": 452,
+     "kind": "tip",
+     "text": "A Voidwaker, with a four-tick instead of five-tick attack, also one-shots everything and is better in the monkey room."
+    },
+    {
+     "t": 465,
+     "kind": "stat",
+     "text": "Volatile baboons walk toward you and explode for 50 damage if you are next to them, but moving one tile away avoids the hit, and the blast also kills nearby monkeys."
+    },
+    {
+     "t": 479,
+     "kind": "method",
+     "text": "Cursed baboons leave a venom trail and have about 20 health; any ranged hit one-shots them, and pre-potting anti-venom before this room means you do not need to bring it in."
+    },
+    {
+     "t": 509,
+     "kind": "method",
+     "text": "Baboon shamans are the highest priority each wave; they have more health so need two basic blowpipe shots (or one Bow of Faerdhinen in a big crystal switch) and summon small thrall monkeys that run up and punch."
+    },
+    {
+     "t": 528,
+     "kind": "tip",
+     "text": "The thrall monkeys drain prayer points even if you pray against them, which Gnomonkey says can waste about two extra doses every wave if ten hit you at once."
+    },
+    {
+     "t": 537,
+     "kind": "tip",
+     "text": "Gnomonkey recommends the Tombs of Amascut RuneLite plugin's Path of Apmeken wave helper to see what will spawn, so you can swap your protection prayer to match the most attackers, and its radius markers around monkeys and volatile baboons."
+    },
+    {
+     "t": 598,
+     "kind": "tip",
+     "text": "In his demonstration Gnomonkey dropped three potions on one tile, equipped Eye of Ayak first, and the last wave with many shamans and volatile baboons took two minutes, roughly one prayer dose and about 20 health."
+    }
+   ]
+  },
+  {
+   "name": "Ba-Ba",
+   "kind": "boss",
+   "claims": [
+    {
+     "t": 702,
+     "kind": "event",
+     "text": "As of this video Ba-Ba no longer hits through prayer, so praying melee means you take no damage from her."
+    },
+    {
+     "t": 727,
+     "kind": "stat",
+     "text": "Ba-Ba drops one rock on your head and two elsewhere for about 50 damage each; a big thrown rock also does heavy damage but is avoided by standing next to one of the rocks or a sarcophagus, though a sarcophagus hit twice opens and releases balls of death."
+    },
+    {
+     "t": 755,
+     "kind": "method",
+     "text": "Ba-Ba spawns small monkeys that shoot you inaccurately; they ignore your attack delay so you can attack them instantly (even with consecutive Osmumten's fang attacks), making them good for gaining double Death Charge spec."
+    },
+    {
+     "t": 789,
+     "kind": "method",
+     "text": "Every 33 percent of her health Ba-Ba slams the back of the room, killing you instantly if you stand in front of the pit; Gnomonkey marks tiles showing safe areas and uses a Monster HP Percentage plugin to see her health."
+    },
+    {
+     "t": 820,
+     "kind": "method",
+     "text": "During the boulder phase one of five boulders is cracked and must be one-shot with the Bow of Faerdhinen; wait until the next boulder touches your character on a marked tile row, then run up and hit Ba-Ba with the fang."
+    },
+    {
+     "t": 879,
+     "kind": "method",
+     "text": "On entering, drop Bandos godsword specs until you reach the 20 damage cap, then use Burning claws on stab for the rest of the fight (the bosses have around 500 slash defense, so keep claws on stab); Voidwaker is also good after the BGS."
+    },
+    {
+     "t": 915,
+     "kind": "tip",
+     "text": "When Ba-Ba puts a marker under your character for shadow step, run across her to the other side; a common mistake is running under her and clicking melee, which drags you out and into the boulder."
+    },
+    {
+     "t": 1031,
+     "kind": "stat",
+     "text": "Gnomonkey used no brews and one dose of restore at Ba-Ba while flicking Piety a little; without flicking expect two or three doses, and always pick up your supplies afterward."
+    }
+   ]
+  },
+  {
+   "name": "Kephri",
+   "kind": "boss",
+   "claims": [
+    {
+     "t": 1040,
+     "kind": "stat",
+     "text": "Kephri shoots bombs that do mage damage, around 70 in the centre with Aerial Assault, and every few attacks flies around you, then knocks you into a wall and creates a dung line that blocks movement."
+    },
+    {
+     "t": 1064,
+     "kind": "method",
+     "text": "Use the dung line by standing on two specific tiles when it happens to cage the melee scarabs; dark eggs spawn agile scarabs that hit with ranged damage, so you mostly camp protect from range."
+    },
+    {
+     "t": 1098,
+     "kind": "method",
+     "text": "After Kephri hits zero, with Overlords she summons two then three scarabs: a ranged scarab, a melee scarab and in phase two an arcane scarab that charges a ring and then fires a massive mage hit unless you attack it enough times to make it move."
+    },
+    {
+     "t": 1157,
+     "kind": "tip",
+     "text": "Always focus the arcane scarab first, then the spitting scarab, then the melee scarab, which heals Kephri constantly even if trapped; all scarabs have low defense and can be hit with almost anything."
+    },
+    {
+     "t": 1188,
+     "kind": "method",
+     "text": "Swarms spawn and run into Kephri clockwise to heal her; shoot them with the blowpipe to heal her less (about 100 each), remembering her body is five tiles long and the blowpipe range is five, and the Tombs plugin can number the swarms."
+    },
+    {
+     "t": 1215,
+     "kind": "method",
+     "text": "Open with Bandos godsword at Kephri, the one room where a Bone dagger is better, and dump specs until 20 damage, which lasts until the end of the fight; otherwise use Burning claws on stab."
+    },
+    {
+     "t": 1276,
+     "kind": "tip",
+     "text": "Stand two tiles away when Kephri does the swarm special so it forms a clean line; in phase two do not tag swarms because it is risky, kill the arcane scarab as fast as possible instead."
+    },
+    {
+     "t": 1380,
+     "kind": "tip",
+     "text": "Double Death Charge is very good at Kephri because you can charge off swarms and Overlords constantly."
+    },
+    {
+     "t": 1427,
+     "kind": "tip",
+     "text": "If Kephri does swarms around you and then phases, you cannot move and can get trapped by dung, so do not put yourself in a position where that can trap you."
+    },
+    {
+     "t": 1398,
+     "kind": "tip",
+     "text": "Eggs always take full damage from melee weapons, so tagging one can give Death Charge, and Keris can heal off the eggs and swarms at higher raid levels."
+    }
+   ]
+  },
+  {
+   "name": "Zebak",
+   "kind": "boss",
+   "claims": [
+    {
+     "t": 1511,
+     "kind": "method",
+     "text": "In the Zebak puzzle room, run past the spikes to grab a jug of water from the waterfall and bring it back to the tree; you need two full jugs and if hit on the way back you lose half the water."
+    },
+    {
+     "t": 1583,
+     "kind": "tip",
+     "text": "The spikes cannot hit you if you are already moving, so get a running start and never stand still before running through them; poison must still be avoided manually."
+    },
+    {
+     "t": 1617,
+     "kind": "tip",
+     "text": "In the puzzle room, lizards bite hard if the tree is unwatered, but if you water the tree quickly they give 25 health of leeway and can mostly be ignored."
+    },
+    {
+     "t": 1640,
+     "kind": "method",
+     "text": "Zebak's default attack is a rock (ranged) or jug (mage) shot as a red energy ball; having the right protection prayer up when it touches you avoids the damage completely."
+    },
+    {
+     "t": 1672,
+     "kind": "method",
+     "text": "With some invocations Zebak shows a blood barrage animation: he either blood barrages you (damaging you and healing him; prayer mage blocks it) or summons three blood spawns that move toward you and die on touching you."
+    },
+    {
+     "t": 1704,
+     "kind": "tip",
+     "text": "Standing on marked red tiles at the left of the arena keeps you safe from acid and means blood spawns that spawn on the opposite side die on reaching you without hitting."
+    },
+    {
+     "t": 1737,
+     "kind": "method",
+     "text": "Zebak alternates between two special attacks at roughly every 15 to 18 percent of damage: acid with stone barricades you hide behind from his repeated roars, and a wave attack with a small gap that you stand in to avoid knockback."
+    },
+    {
+     "t": 1761,
+     "kind": "tip",
+     "text": "To clear acid from the barricades you push or pull water jugs with right-click, including diagonally; the first barricade solve is always in the left start area and the second set is always in the middle of the room."
+    },
+    {
+     "t": 1779,
+     "kind": "opinion",
+     "text": "Gnomonkey says Upset Stomach makes the water area much smaller (3x3 instead of 5x5) and many players struggle with it."
+    },
+    {
+     "t": 1880,
+     "kind": "tip",
+     "text": "To skip a wave, wait for it to touch your character, step back a tile in its direction and run through it, which gives a running start; shift-right-click adds a tile indicator on a wave."
+    },
+    {
+     "t": 1913,
+     "kind": "method",
+     "text": "Below roughly a quarter health Zebak enrages and attacks very quickly; at level 0 to 1 you cannot flick mage prayer for his blood animation attack, but at level 2 or 3 you can flick to mage right before it lands."
+    },
+    {
+     "t": 1976,
+     "kind": "tip",
+     "text": "Zebak can bite your head off if you stand right in front of him, so as soon as you swing run backwards out of the way."
+    },
+    {
+     "t": 1976,
+     "kind": "method",
+     "text": "Before Zebak, hit your salt, which Gnomonkey calls broken, and open with Bandos godsword until 20 damage; Death Charge does not matter in this room."
+    }
+   ]
+  },
+  {
+   "name": "Akkha",
+   "kind": "boss",
+   "claims": [
+    {
+     "t": 2136,
+     "kind": "opinion",
+     "text": "Gnomonkey considers Akkha the hardest room of the raid besides the last boss and the most tile-heavy room; use the Tile Packs plugin for tiles, and enter and run in immediately to set up Butterfly more easily."
+    },
+    {
+     "t": 2181,
+     "kind": "method",
+     "text": "Akkha swaps between melee, ranged and mage; all his attacks hit through prayer, melee hardest, and his head's protection prayer always matches the style he is using, so you cannot hit him with that style."
+    },
+    {
+     "t": 2237,
+     "kind": "method",
+     "text": "At each 20 percent of damage shadows spawn in four quadrants with hourglass timers; you must kill one before the timer fills or take a wave of damage, the death (skull) and burn quadrants hurt most, lightning turns prayer off, and white slows your attack by a tick."
+    },
+    {
+     "t": 2266,
+     "kind": "method",
+     "text": "Butterfly makes you dodge out of Akkha's radius after every attack so he never gets a melee attack off; with Stay Vigilant on he stays in melee forever if he never attacks, saving supplies and making the room easier."
+    },
+    {
+     "t": 2293,
+     "kind": "tip",
+     "text": "Gnomonkey notes the Eye of Ayak spec works on Akkha because it never drains back, and his mage defense of only 10 makes little difference; if tanking, use Burning claws on Akkha and the shadows."
+    },
+    {
+     "t": 2355,
+     "kind": "method",
+     "text": "Akkha's special attack that turns you black drops orbs behind you as you run and hits as hard as the death wave if you stop; his Simon Says lights 4 tiles at level 0 to 1, 5 at level 2 to 3, and 6 at level 4 or higher."
+    },
+    {
+     "t": 2412,
+     "kind": "tip",
+     "text": "When Akkha stops in place for a special, stand on the start tile and set up Butterfly again; at the end of the fight he heals and teleports to a corner after three successful melee hits."
+    },
+    {
+     "t": 2471,
+     "kind": "stat",
+     "text": "The flooding attack at the end of the Akkha fight hits roughly 25, which praying mage reduces slightly in a 300 raid but not at higher raid levels; Burning claws on the third hit is a good spec."
+    },
+    {
+     "t": 2562,
+     "kind": "tip",
+     "text": "With Butterfly the Eye of Ayak is three-tick and the four-tick tiles also work for three-tick; shift-click walk under is important for avoiding shadows, and salt gives unlimited run energy so stamina is not needed."
+    },
+    {
+     "t": 2625,
+     "kind": "stat",
+     "text": "Akkha's orbs hit 25 each when not praying mage, so stay above about 50 health or brew; Gnomonkey says to prefer the Osmumten's fang spec with a Voidwaker since Voidwaker is mage damage and does not work here."
+    }
+   ]
+  },
+  {
+   "name": "Wardens",
+   "kind": "boss",
+   "claims": [
+    {
+     "t": 2840,
+     "kind": "method",
+     "text": "In phase one the obelisk shoots skulls at statues that charge and drop UFOs; you must tank three skulls on the left side, because the number tanked decides which boss you fight next phase and tanking zero defaults to the one you do not want."
+    },
+    {
+     "t": 2915,
+     "kind": "stat",
+     "text": "The two orb special in solo hits for roughly 60s at raid level 300 and 75 at 375, which is the cap; keep health over 75 when they come out."
+    },
+    {
+     "t": 2936,
+     "kind": "method",
+     "text": "Open phase one with a Bandos godsword spec, sip a Drain potion (which halves spec energy, carrying into phase two), do one Burning claw spec with claws on slash, then shoot with the Bow of Faerdhinen, which Gnomonkey says is slightly better than the Eye of Ayak here."
+    },
+    {
+     "t": 2936,
+     "kind": "tip",
+     "text": "Set shift-click resupply on your bag before this room, with one of each supply out, so you can refill potions while under attack."
+    },
+    {
+     "t": 3062,
+     "kind": "method",
+     "text": "In phase two swap to mage with Thrall and mage prayer; use a quick switch to the Dragon dagger (DDS), which hits very hard on the core and uses little spec, for up to five specs (ten attacks below 60 percent), ending with a Bandos godsword."
+    },
+    {
+     "t": 3181,
+     "kind": "tip",
+     "text": "Gnomonkey recommends purposefully not killing the core on the second down because that phase keeps giving points until the third down and is very good for points."
+    },
+    {
+     "t": 3121,
+     "kind": "tip",
+     "text": "Phase two specials are solved by marked tiles: converging waves, skulls (stand next to the gaps in the lightning) and windmill (run back and forth over the green and red tiles); all melee hits max on the core."
+    },
+    {
+     "t": 3277,
+     "kind": "method",
+     "text": "Phase three is shown with the Insanity invocation (three-tick attack speed, matching the Eye of Ayak); keep attacking until you miss so your gauntlets proc the special attack, draining his mage defense through phase four."
+    },
+    {
+     "t": 3309,
+     "kind": "method",
+     "text": "To do a skull skip, kill three skulls, then run from the red tile toward the middle when they explode; killing all but one is non-lethal (about 70 damage), and hitting all skulls damages the boss 5 percent of health, giving the best points of the raid."
+    },
+    {
+     "t": 3401,
+     "kind": "tip",
+     "text": "After a skull skip with Insanity go to the back of the room so you have time to react instead of counting attack sides."
+    },
+    {
+     "t": 3484,
+     "kind": "tip",
+     "text": "Before phase four, fully heal and restore prayer; the Eye of Ayak at three ticks fits the six-tick lightning cycle, so you can dodge lightning without losing ticks, and dodge boulders, the biggest hitters, rather than tank them."
+    },
+    {
+     "t": 3550,
+     "kind": "method",
+     "text": "For the Last Row method, pick one of the first set of shadows and click it as it strikes so you can dodge indefinitely; the boss usually dies before you reach Last Row but it helps if your damage is bad."
+    },
+    {
+     "t": 3642,
+     "kind": "trivia",
+     "text": "Gnomonkey's demonstration raid finished with a 1 hour 16 clear on the timer despite talking, and the loot was an unlucky coconut milk with no purple."
+    },
+    {
+     "t": 3642,
+     "kind": "tip",
+     "text": "The Eye of Ayak works on the last phase because its spec never drains back and no boss in the game regains mage defense, so defense resets are ignored."
+    }
+   ]
+  },
+  {
+   "name": "Tombs of Amascut invocations",
+   "kind": "mechanic",
+   "claims": [
+    {
+     "t": 305,
+     "kind": "tip",
+     "text": "Gnomonkey uses Upset Stomach, Overlords, Aerial Assault and Boulderdash as examples of harder invocations that are easy to learn and let you push the raid level up beyond a standard 300."
+    },
+    {
+     "t": 820,
+     "kind": "tip",
+     "text": "With Boulderdash on, boulders at Ba-Ba move faster, but waiting for the boulder to touch you before running still makes the run every time."
+    },
+    {
+     "t": 1040,
+     "kind": "tip",
+     "text": "Overlords at Kephri summons extra scarabs after she hits zero, which is more awkward but not a super bad invocation, and Aerial Assault makes Kephri's bombs hit around 70."
+    },
+    {
+     "t": 3277,
+     "kind": "method",
+     "text": "Insanity makes bosses attack on a three-tick cycle, which an Eye of Ayak matches exactly, so you move every three ticks in a set pattern at the Wardens."
+    }
+   ]
+  },
+  {
+   "name": "Gnomonkey",
+   "kind": "person",
+   "claims": [
+    {
+     "t": 0,
+     "kind": "trivia",
+     "text": "Gnomonkey's description says the video answers common questions asked across all 300 guides and links his Invo Guide, 3t Butterfly Guide, 4t Butterfly Guide and an easier Ironman 300 Guide."
+    },
+    {
+     "t": 3769,
+     "kind": "trivia",
+     "text": "Gnomonkey ends the guide wishing viewers luck on getting a Shadow."
+    }
+   ]
+  }
+ ]
+}

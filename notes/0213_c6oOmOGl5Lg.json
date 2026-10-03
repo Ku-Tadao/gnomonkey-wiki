@@ -1,0 +1,233 @@
+{
+  "id": "c6oOmOGl5Lg",
+  "title": "GOLDEN GNOME vs SOL HEREDIT (OSRS)",
+  "date": "2025-03-21",
+  "type": "challenge",
+  "summary": "Gnomonkey does a Fortis Colosseum run on his Hardcore Ironman account, painted gold as the Golden Gnome, with the new Twisted bow and a golden quiver. He talks through modifier choices and pillar positioning, reaches Sol Heredit for the first time and clears it, finishing at rank 19 for glory on the hardcore high scores.",
+  "outline": [
+    {
+      "t": 0,
+      "text": "Early Colosseum waves in golden gnome paint, with donations and early modifier choices"
+    },
+    {
+      "t": 266,
+      "text": "Modifier selection: Myopia, Relentless and Blasphemy"
+    },
+    {
+      "t": 320,
+      "text": "Middle waves and strategy, including wave six and wave eight danger"
+    },
+    {
+      "t": 619,
+      "text": "Ranger kills and healing with blood spells"
+    },
+    {
+      "t": 743,
+      "text": "Intense combat on wave eight, the hardest wave"
+    },
+    {
+      "t": 972,
+      "text": "Strategic kills and deciding to kill the ranger instead of rotating"
+    },
+    {
+      "t": 1136,
+      "text": "Preparing for Sol: Myopia line of sight and manticore handling"
+    },
+    {
+      "t": 1258,
+      "text": "Waves ten and eleven, the last before Sol"
+    },
+    {
+      "t": 1494,
+      "text": "Golden gnome photos and the pillar explanation"
+    },
+    {
+      "t": 1583,
+      "text": "Sol Heredit fight"
+    },
+    {
+      "t": 1765,
+      "text": "Post-boss analysis"
+    },
+    {
+      "t": 1869,
+      "text": "Loot and completion"
+    },
+    {
+      "t": 1969,
+      "text": "High score check and glory rankings"
+    },
+    {
+      "t": 2046,
+      "text": "Stream wrap up and taking the quiver to Ava"
+    }
+  ],
+  "topics": [
+    {
+      "name": "Fortis Colosseum",
+      "kind": "activity",
+      "claims": [
+        {
+          "t": 0,
+          "kind": "event",
+          "text": "Gnomonkey does a Colosseum run on his Hardcore Ironman with the golden gnome paint and the new Twisted bow, saying nothing looks better with the new Twisted bow than a shiny golden quiver."
+        },
+        {
+          "t": 59,
+          "kind": "tip",
+          "text": "Asked whether it is better to one-tick or camp prayers, Gnomonkey says it is generally better to one tick and then camp a protection prayer and lazy flick offensives, though he is not sure the two are close."
+        },
+        {
+          "t": 572,
+          "kind": "opinion",
+          "text": "Gnomonkey says wave eight is the hardest wave and 'very dangerous', with a lot of damage coming and difficult stacks, and wave 11 is a very dangerous wave and the last one before Sol."
+        },
+        {
+          "t": 1258,
+          "kind": "event",
+          "text": "Gnomonkey reaches wave eleven and Sol Heredit for the first time on the HCIM, remarking it was his first time to eleven."
+        },
+        {
+          "t": 2076,
+          "kind": "record",
+          "text": "Gnomonkey finishes the Colosseum on the HCIM with 38k glory, placing him at rank 19 for glory on the hardcore high scores, which he calls pretty good for a first clear."
+        },
+        {
+          "t": 2105,
+          "kind": "stat",
+          "text": "Gnomonkey checks the Soul (Sol) high scores and says only nine people are ranked there, and that Lake holds rank one for Colosseum glory, having cleared it by about 5,000 more than second place."
+        },
+        {
+          "t": 2199,
+          "kind": "record",
+          "text": "After the clear Gnomonkey says his HCIM now has Masori, a quiver, a Twisted bow and a Fury."
+        },
+        {
+          "t": 1138,
+          "kind": "tip",
+          "text": "Gnomonkey points out manticores do not always keep the same attack style, and says to set up Myopia line of sight by hand so you can hit them while they are within the marked squares."
+        }
+      ]
+    },
+    {
+      "name": "Colosseum modifiers",
+      "kind": "mechanic",
+      "claims": [
+        {
+          "t": 86,
+          "kind": "method",
+          "text": "Gnomonkey locks in the Doom modifier early in his run."
+        },
+        {
+          "t": 178,
+          "kind": "tip",
+          "text": "Gnomonkey says that if you can lock Myopia, you are set for the line-of-sight setup, and Relentless is also good, taking Blasphemy as a fallback."
+        },
+        {
+          "t": 1026,
+          "kind": "method",
+          "text": "Gnomonkey says the modifiers on offer at wave 9 are the perfect set for him with everything he wants, and uses blood blitz for healing when he lacks the heart."
+        },
+        {
+          "t": 1169,
+          "kind": "tip",
+          "text": "With Myopia he sets up line of sight manually, hitting enemies within the black squares from a set tile, and drags enemies one tile back when needed."
+        },
+        {
+          "t": 750,
+          "kind": "method",
+          "text": "Gnomonkey picks Relentless levels as the run goes on, taking Relentless two on wave 8 and Relentless three before Sol."
+        }
+      ]
+    },
+    {
+      "name": "Colosseum pillar positioning",
+      "kind": "mechanic",
+      "claims": [
+        {
+          "t": 1653,
+          "kind": "tip",
+          "text": "Gnomonkey says the pillar he uses in the Colosseum gives better stacks and lets you rotate both ways around it, so every stack is guaranteed solvable."
+        },
+        {
+          "t": 1686,
+          "kind": "tip",
+          "text": "He says that at this pillar you control the wave instead of it controlling what you do, because pillar stacks can be solved in either direction, whereas the North pillar only allows one direction."
+        },
+        {
+          "t": 1686,
+          "kind": "tip",
+          "text": "Mage block only works consistently on this side, with the Minotaur and Shaman, but works only about 50% of the time on the North pillar."
+        },
+        {
+          "t": 1717,
+          "kind": "trivia",
+          "text": "Gnomonkey says mage block does not work every time on the North pillar because enemies spawn further out from the door than at the other pillar."
+        },
+        {
+          "t": 1749,
+          "kind": "event",
+          "text": "Gnomonkey says he has multiple teaching streams covering this pillar."
+        }
+      ]
+    },
+    {
+      "name": "Sol Heredit",
+      "kind": "boss",
+      "claims": [
+        {
+          "t": 1749,
+          "kind": "event",
+          "text": "Gnomonkey takes Relentless three before the Sol fight, notes a quiver is the reward there, and brews up and overheals before sending it."
+        },
+        {
+          "t": 2047,
+          "kind": "event",
+          "text": "Gnomonkey clears Sol Heredit on the HCIM for his first clear and receives the quiver."
+        }
+      ]
+    },
+    {
+      "name": "Golden Gnome",
+      "kind": "challenge",
+      "claims": [
+        {
+          "t": 0,
+          "kind": "event",
+          "text": "The video description thanks viewers for the Golden Gnome votes and says the HCIM quiver is completed as promised as the fully painted Golden Gnome, with glitter everywhere."
+        },
+        {
+          "t": 1529,
+          "kind": "event",
+          "text": "Gnomonkey shows the banger photos of the golden body paint during the run, saying the pictures turned out better than he imagined."
+        },
+        {
+          "t": 2133,
+          "kind": "event",
+          "text": "After the clear he takes the quiver to Ava and notes it needs to be used on Ava herself rather than the accumulator."
+        }
+      ]
+    },
+    {
+      "name": "Hardcore Ironman",
+      "kind": "account",
+      "claims": [
+        {
+          "t": 412,
+          "kind": "opinion",
+          "text": "Gnomonkey says the Colosseum is very dangerous for a regular hardcore account."
+        },
+        {
+          "t": 0,
+          "kind": "event",
+          "text": "The run is on Gnomonkey's HCIM account, which now has the Twisted bow and the golden quiver."
+        },
+        {
+          "t": 2076,
+          "kind": "record",
+          "text": "The HCIM reaches rank 19 for Colosseum glory on the hardcore high scores."
+        }
+      ]
+    }
+  ]
+}

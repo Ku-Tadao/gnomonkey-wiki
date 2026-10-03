@@ -1,0 +1,95 @@
+{
+  "id": "Jktw_nf9kKs",
+  "title": "CASTLE WARS  - The New Bot Farm (OSRS)",
+  "date": "2025-04-03",
+  "type": "news-opinion",
+  "summary": "Gnomonkey argues that the Castle Wars update's new supply crates, which give about 60k gp of loot each and have zero requirements, will become a bot farm and a fresh-ironman gold meta, like Soul Wars and Last Man Standing. He says the poll slipped through at 88% because few people paid attention, and calls on Jagex to remove the crates and avoid putting gp incentives on every minigame.",
+  "outline": [
+    {"t": 0, "text": "The Castle Wars update: more tickets and new supply crates"},
+    {"t": 62, "text": "Zero requirements: usable straight off Tutorial Island"},
+    {"t": 105, "text": "Botting in Soul Wars and the Lil' Creator pet"},
+    {"t": 185, "text": "Soul Wars rewards and ironman 500 total level meta"},
+    {"t": 265, "text": "Loot tables and blood rune supply"},
+    {"t": 328, "text": "Castle Wars game length and comparison to Soul Wars"},
+    {"t": 385, "text": "Last Man Standing botting and minigame integrity"},
+    {"t": 528, "text": "Calculating the crate rewards from four tickets"},
+    {"t": 612, "text": "The poll that passed at 88%"},
+    {"t": 687, "text": "Call for Jagex to remove the crates and rethink gp incentives"}
+  ],
+  "topics": [
+    {
+      "name": "Castle Wars",
+      "kind": "activity",
+      "claims": [
+        {"t": 0, "kind": "event", "text": "The latest Castle Wars update improved the minigame, increased the number of tickets awarded, and added buyable Castle Wars supply crates."},
+        {"t": 0, "kind": "stat", "text": "You get one Castle Wars supply crate per ticket, with two tickets for a loss and four for a win, an average of about three crates per game."},
+        {"t": 21, "kind": "stat", "text": "Each Castle Wars supply crate contains about 60k gp of loot, including blighted supplies, blood, death, nature and soul runes, rune javelins, rune arrows and coins."},
+        {"t": 62, "kind": "requirement", "text": "Castle Wars has no requirements at all: no combat level, total level or quest points, and you can use the minigame teleport directly off Tutorial Island."},
+        {"t": 62, "kind": "stat", "text": "Gnomonkey says a game of Castle Wars gives a minimum of about 120k and a maximum of about 240k in loot."},
+        {"t": 328, "kind": "stat", "text": "A Castle Wars game lasts 20 minutes with a 5-minute waiting period, so you get 2 to 4 crates every 25 minutes, and Gnomonkey says there is no way to end a game early."},
+        {"t": 328, "kind": "opinion", "text": "Gnomonkey considers Castle Wars crate loot possibly better than Soul Wars loot because it is concentrated into valuable runes and alchables, but says you get less overall than from Soul Wars due to game length."},
+        {"t": 528, "kind": "stat", "text": "Gnomonkey says buying five crates from four tickets gave almost 600 nature runes, 130 soul runes, 83 blood runes, hundreds of rune arrows and javelins, and blighted supplies, which he estimates at about 100k in rune arrows, 24k in soul runes and 24k in javelins and 150k gold plus natures."},
+        {"t": 568, "kind": "tip", "text": "Gnomonkey notes you can bring splashing gear and an air staff into Castle Wars and splash on people to gain Magic XP."},
+        {"t": 596, "kind": "opinion", "text": "Gnomonkey says a new account could go straight from Tutorial Island to Castle Wars for gp, buy runes with it and start splashing immediately, and he calls it bonkers that Jagex did not foresee this."},
+        {"t": 62, "kind": "opinion", "text": "Gnomonkey says the crates give a fresh ironman a huge early boost but he thinks the main issue is bots, not ironmen."}
+      ]
+    },
+    {
+      "name": "Opinion: Minigame rewards and bots",
+      "kind": "opinion",
+      "claims": [
+        {"t": 119, "kind": "stat", "text": "Jagex stated that there have been 1.2 million Lil' Creator pets, which are the most obtained pet, from Soul Wars, which Gnomonkey says shows massive bot armies there."},
+        {"t": 151, "kind": "opinion", "text": "Gnomonkey says Soul Wars is apparently the most botted activity in the game and that Soul Wars worlds routinely hold 50 to 100 bots, likely owned by the same bot runner, though Jagex banned a good chunk."},
+        {"t": 185, "kind": "stat", "text": "Gnomonkey says Soul Wars Spoils of war give about 76k gp per crate for 30 zeal; you get about 20 zeal per game and games take about three minutes, so a bot gets roughly a crate every five minutes."},
+        {"t": 265, "kind": "stat", "text": "Gnomonkey cites a comment from someone who ran bots saying a full Soul Wars lobby of bots made 18 million every 10 minutes, or about 108 million an hour."},
+        {"t": 270, "kind": "opinion", "text": "Gnomonkey says Soul Wars bots probably explain why blood runes have fallen so much in price."},
+        {"t": 385, "kind": "opinion", "text": "Gnomonkey says Last Man Standing is also riddled with bots despite a 750 total level requirement, including Terminator bots that switch prayers perfectly and bots that simply run up and die."},
+        {"t": 385, "kind": "trivia", "text": "Gnomonkey says ironmen go to Last Man Standing for rewards including a rune pouch and rune arrows to sell for gp."},
+        {"t": 415, "kind": "opinion", "text": "Gnomonkey predicts that in about two weeks, after hyped players stop AFKing for loot, hundreds of bots will descend on Castle Wars."},
+        {"t": 415, "kind": "opinion", "text": "Gnomonkey says Jagex keeps making minigames profitable to raise engagement, but instead nobody plays them and people abuse them for rewards (under 50 people really enjoy Soul Wars, he guesses)."},
+        {"t": 506, "kind": "opinion", "text": "Gnomonkey says adding gp rewards to minigames does not make them better and hampers them, and that Last Man Standing would still have players but fewer bots without a gp incentive."},
+        {"t": 764, "kind": "opinion", "text": "Gnomonkey says minigames do not need gp incentives shoved on them, and if a minigame's fun does not merit people playing it, that is okay."},
+        {"t": 804, "kind": "opinion", "text": "Gnomonkey says adding a level requirement would not solve the issue, since Last Man Standing at 750 total level still has plenty of bots."}
+      ]
+    },
+    {
+      "name": "Soul Wars",
+      "kind": "activity",
+      "claims": [
+        {"t": 185, "kind": "requirement", "text": "Soul Wars requires 500 total level, which Gnomonkey says is why fresh ironmen go there at 500 total level for early gp."},
+        {"t": 212, "kind": "stat", "text": "Soul Wars reward crates contain a wide variety of loot such as raw fish, runes, bolts, arrows, coal, mithril, rubies, diamonds, soul runes, rune armour and rune ore, plus rare dragon gear and coins."},
+        {"t": 241, "kind": "opinion", "text": "Gnomonkey says Soul Wars is very good money for an ironman and the useful runes, gems and ores help early on, even besides raw gp."}
+      ]
+    },
+    {
+      "name": "Poll: Castle Wars reward crates",
+      "kind": "opinion",
+      "claims": [
+        {"t": 617, "kind": "event", "text": "The poll 'Should we add reward crates to Castle Wars as described in the blog?' (separate from Castle Wars tickets, offering runes, ammunition and blighted supplies) passed with 88%, not even close."},
+        {"t": 650, "kind": "stat", "text": "Gnomonkey says the Castle Wars reward crate poll received only about 60,000 votes, not a huge number."},
+        {"t": 623, "kind": "opinion", "text": "Gnomonkey says he did not vote on the poll because he did not care about Castle Wars, and urges players to check every poll for something that might be bad."},
+        {"t": 767, "kind": "opinion", "text": "Gnomonkey says players failed by not looking at the poll for more than 10 seconds, takes the blame himself, and says it is now up to Jagex to fix it."},
+        {"t": 677, "kind": "opinion", "text": "Gnomonkey says the ironman meta has completely changed and bots will lower the value of runes, coins and blighted supplies dropped by the crates; he notes blighted supplies getting cheaper is good for the Wilderness."},
+        {"t": 677, "kind": "tip", "text": "Gnomonkey recommends Jagex just remove the Castle Wars crates, keep the other Castle Wars improvements, and also remove rune arrows from Last Man Standing's rewards and reduce the loot at Soul Wars."},
+        {"t": 705, "kind": "opinion", "text": "Gnomonkey says Jagex had clear data that Soul Wars was being gamed by bots and leeches, so it is crazy to him that the crates made it in."}
+      ]
+    },
+    {
+      "name": "Last Man Standing",
+      "kind": "activity",
+      "claims": [
+        {"t": 385, "kind": "requirement", "text": "Last Man Standing has a 750 total level requirement, and Gnomonkey believes also a quest point requirement."},
+        {"t": 385, "kind": "opinion", "text": "Gnomonkey says Last Man Standing has a decently sized legitimate community but real players have to trudge through bots to enjoy it."}
+      ]
+    },
+    {
+      "name": "Ironman Mode",
+      "kind": "mechanic",
+      "claims": [
+        {"t": 94, "kind": "tip", "text": "Gnomonkey says ironmen can sell Castle Wars rune arrows and javelins to shops for alchemy value, making the crates a very good early gp source."},
+        {"t": 185, "kind": "tip", "text": "Gnomonkey says the typical fresh ironman play is to go to Soul Wars at 500 total level for runes, arrows and armour to sell for gold."},
+        {"t": 62, "kind": "opinion", "text": "Gnomonkey says a new ironman would get a minimum of 120k gp of loot per Castle Wars game with no AFK requirements and it is now the place to be for new ironmen."}
+      ]
+    }
+  ]
+}

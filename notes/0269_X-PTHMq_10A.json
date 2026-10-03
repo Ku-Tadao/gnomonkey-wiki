@@ -1,0 +1,396 @@
+{
+  "id": "X-PTHMq_10A",
+  "title": "DUO TOA INSANITY with @SardacoTV (OSRS)",
+  "date": "2025-10-04",
+  "type": "series-episode",
+  "summary": "Gnomonkey teaches the streamer Sardaco a duo Tombs of Amascut raid at raid level 300 with the Insanity invocation on, giving live advice on gear, invocations, supplies and each room. It is part of an ongoing effort to teach World of Warcraft players moving to OSRS to do PvM, and ends with advice that a Warped sceptre for thralls is the biggest upgrade for Sardaco's account.",
+  "outline": [
+    {
+      "t": 0,
+      "text": "Setup and raid prep: gear check, thralls, bone dagger and invocation choices"
+    },
+    {
+      "t": 170,
+      "text": "Explaining Insanity and the chosen invocations for the 300 raid"
+    },
+    {
+      "t": 633,
+      "text": "Ba-Ba room (monkey room): supply drain tips and green vial tech"
+    },
+    {
+      "t": 961,
+      "text": "Kephri boss fight and supply check"
+    },
+    {
+      "t": 1212,
+      "text": "Zebak boss fight and tile-marker tips"
+    },
+    {
+      "t": 1541,
+      "text": "Pickaxe puzzle trick and Akkha boss fight"
+    },
+    {
+      "t": 1938,
+      "text": "Liquid adrenaline, Path of Apmeken and the Wardens approach"
+    },
+    {
+      "t": 2154,
+      "text": "Wardens fight: core phase, godsword last-hit tip, prayer switches"
+    },
+    {
+      "t": 2638,
+      "text": "Loot and review: supplies, insanity learning curve, thralls explained"
+    },
+    {
+      "t": 2968,
+      "text": "Warped sceptre advice and how to get one"
+    },
+    {
+      "t": 3138,
+      "text": "Why duo is best for Tombs of Amascut, purple chance, and wrap-up"
+    }
+  ],
+  "topics": [
+    {
+      "name": "Tombs of Amascut",
+      "kind": "raid",
+      "claims": [
+        {
+          "t": 0,
+          "kind": "event",
+          "text": "In this video Gnomonkey teaches Sardaco a duo Tombs of Amascut at raid level 300 with Insanity on, after first suggesting starting with a 150 raid and slowly explaining before sending a 300."
+        },
+        {
+          "t": 0,
+          "kind": "tip",
+          "text": "Gnomonkey advises Sardaco, who has no amulet of glory yet, to stick with the strength amulet because strength is the most important stat; Glory gives accuracy for ranged at some point, but Dragonbone (as transcribed) gives plus ten to everything and 12 prayer, and two strength is really bad versus ten strength."
+        },
+        {
+          "t": 61,
+          "kind": "tip",
+          "text": "Gnomonkey says the biggest upgrade for Sardaco's account is a Warped sceptre because his gear is weak and thralls provide flat DPS that matters more the worse your gear is."
+        },
+        {
+          "t": 89,
+          "kind": "tip",
+          "text": "Gnomonkey says to camp a Fire cape rather than switch to the Assembler for Sardaco, because the Fire cape is much more important even though the Assembler gives a max hit; a Blue moon top would be good to camp if you snag it, otherwise a Fighter torso with a switch is good."
+        },
+        {
+          "t": 122,
+          "kind": "method",
+          "text": "Gnomonkey tells Sardaco to bank his range potion, bring one extra food, and carry a bone dagger; only one player needs to bring the bone dagger because only one works, so Gnomonkey brings it."
+        },
+        {
+          "t": 213,
+          "kind": "tip",
+          "text": "Gnomonkey says some Tombs of Amascut invocations are essentially free, such as Mind the Gap and Boulder Dash, while the Warden invocations make you take a little more damage so keep them off until later; he tries not to run acceleration or engine haste in a 300 except Acceleration only for the Wardens."
+        },
+        {
+          "t": 340,
+          "kind": "tip",
+          "text": "Gnomonkey says to bring Mystic top because of Ba-Ba's phase 2 when meleeing Ba-Ba, and that a Blue moon top could be camped instead."
+        },
+        {
+          "t": 395,
+          "kind": "tip",
+          "text": "Gnomonkey recommends the Akkha invocation that speeds up the memory game to one tick between steps, saying it is really good because it makes runs faster and gives raid level, and calls it very free."
+        },
+        {
+          "t": 544,
+          "kind": "tip",
+          "text": "Gnomonkey says divine potions are great in Tombs of Amascut: divine strength never decays for five minutes so you keep the boost, and if you brew your stats down and repot with a normal potion the boost timer keeps running in the background; players who think divines are bad because they hurt you ignore how high they keep your damage."
+        },
+        {
+          "t": 1241,
+          "kind": "tip",
+          "text": "Gnomonkey tells Sardaco to dump spare super strength potions to make inventory space for raid supplies."
+        },
+        {
+          "t": 1748,
+          "kind": "tip",
+          "text": "Gnomonkey says salts give unlimited run energy, so you never need a stamina potion in the raid."
+        },
+        {
+          "t": 1938,
+          "kind": "tip",
+          "text": "Gnomonkey says to hold liquid adrenaline until you are about to switch to a Dragon dagger and spam specs, noting it lasts two and a half minutes."
+        },
+        {
+          "t": 2638,
+          "kind": "tip",
+          "text": "Gnomonkey advises withdrawing all supplies into your bag ahead of time (around 20% supplies left) using right-click withdraw-all or shift-click, so you have supplies in the bag during the Wardens fight."
+        },
+        {
+          "t": 3138,
+          "kind": "tip",
+          "text": "Sardaco notes that on soft core, dying in a Tombs of Amascut raid loses your salt, so a partner is big; Gnomonkey agrees duo is amazing for Tombs of Amascut, suggests trio or bigger for most other raids and calls trio Chambers of Xeric chill."
+        },
+        {
+          "t": 3138,
+          "kind": "stat",
+          "text": "Gnomonkey estimates the chance of a purple in a 300 raid at about 1 in 21 (he says 'one in twenty-ish') and says the Osmumten's fang and Lightbearer are the most common drops."
+        },
+        {
+          "t": 3228,
+          "kind": "stat",
+          "text": "Gnomonkey says that dying on the Wardens is the worst death in Tombs of Amascut because the Wardens are the majority of the raid's points, with the pair settling on about 20% of points lost (Gnomonkey first said about a third)."
+        },
+        {
+          "t": 1541,
+          "kind": "tip",
+          "text": "In the pickaxe puzzle room, Gnomonkey says the laser turns green for one tick, and clicking on the green gives a bonus hit and more damage, which let Sardaco one-down the puzzle and earn a combat task."
+        }
+      ]
+    },
+    {
+      "name": "Insanity",
+      "kind": "mechanic",
+      "claims": [
+        {
+          "t": 182,
+          "kind": "opinion",
+          "text": "Gnomonkey says Insanity is very safe in a duo because the skulls are very slow."
+        },
+        {
+          "t": 247,
+          "kind": "method",
+          "text": "Gnomonkey explains that Insanity makes the Wardens' attacks very fast (a three-tick slam) and makes him pick up where he left off after the skulls instead of always starting the same side, so after skulls you run to the back of the room and react to where the tiles are thrown."
+        },
+        {
+          "t": 280,
+          "kind": "tip",
+          "text": "Gnomonkey says skull skipping is great for points but only works solo, because in teams it is too slow to be worth it."
+        },
+        {
+          "t": 2638,
+          "kind": "opinion",
+          "text": "Gnomonkey says you get through the raid and to the Wardens' last attempts much faster with Insanity, a big difference, and that going back to a 200 without Insanity feels like training with weights on."
+        },
+        {
+          "t": 2817,
+          "kind": "opinion",
+          "text": "Gnomonkey says Insanity is harder than people made it seem and has a learning curve, and from a new player's perspective might be the hardest invocation, but once you do it a few times it clicks."
+        },
+        {
+          "t": 2845,
+          "kind": "opinion",
+          "text": "Gnomonkey says Dehydration is maybe the worst invocation people run: players bring no brews or supplies, just around 12 prayer pots and no food, and live off the yellow Keres special for healing."
+        },
+        {
+          "t": 2907,
+          "kind": "tip",
+          "text": "Gnomonkey says you cannot really practice Insanity because you have to reach the Wardens first and if you die you get no practice; ambrosia saves you when you fall off pace, and as you get used to it you stop taking tile damage and have ambrosia left for the last row."
+        },
+        {
+          "t": 2940,
+          "kind": "tip",
+          "text": "Gnomonkey suggests learning by doing 150 raids with Insanity on, or running a 90 with only the Warden invocations to fly through the raid, then practising the Wardens."
+        }
+      ]
+    },
+    {
+      "name": "Thrall",
+      "kind": "mechanic",
+      "claims": [
+        {
+          "t": 154,
+          "kind": "stat",
+          "text": "Gnomonkey says thralls are always 0.6 DPS and give roughly a 15% DPS increase for Sardaco's gear, and the lower your gear is, the bigger a chunk of your DPS they are."
+        },
+        {
+          "t": 2787,
+          "kind": "stat",
+          "text": "Gnomonkey says thralls added about 2k extra damage in the raid because everything in Tombs of Amascut is very tanky; with 4 DPS from a player, 0.6 of that DPS is the thrall, which is bigger than a weapon upgrade."
+        },
+        {
+          "t": 3049,
+          "kind": "stat",
+          "text": "Gnomonkey says thralls never miss: they roll zero to three damage every hit, ignore defence and just punch through."
+        },
+        {
+          "t": 575,
+          "kind": "trivia",
+          "text": "Gnomonkey notes the little blue guys (thrall monkeys in Ba-Ba's room) also drink your prayer."
+        }
+      ]
+    },
+    {
+      "name": "Warped sceptre",
+      "kind": "item",
+      "claims": [
+        {
+          "t": 2968,
+          "kind": "tip",
+          "text": "Gnomonkey says the Warped sceptre is the biggest upgrade for Sardaco's account because it lets you summon thralls; it comes from Warped terrorbirds and he thinks it is about a 1 in 400 drop, which is not that rare."
+        },
+        {
+          "t": 2994,
+          "kind": "tip",
+          "text": "Gnomonkey says the Warped sceptre does not require a spellbook, you do not cast spells with it, so you can use any spellbook and still use thralls, unlike Twinflame staff which requires the standard spellbook."
+        },
+        {
+          "t": 3022,
+          "kind": "stat",
+          "text": "Gnomonkey says salts boost the Warped sceptre but the Twinflame staff does not get boosted by salts."
+        },
+        {
+          "t": 3075,
+          "kind": "tip",
+          "text": "Gnomonkey says you can get a Slayer task for Warped terrorbirds by unlocking it with points, but he would just grind them directly; he calls it a boring grind that is not as bad as getting a Dragon warhammer, and once you have it you are done."
+        }
+      ]
+    },
+    {
+      "name": "Ba-Ba",
+      "kind": "boss",
+      "claims": [
+        {
+          "t": 697,
+          "kind": "stat",
+          "text": "Gnomonkey says the monkey room in Ba-Ba's section is the biggest supply drain of the whole raid, more than any boss, and lists a few little ways to bring the drain down."
+        },
+        {
+          "t": 697,
+          "kind": "method",
+          "text": "Gnomonkey recommends targeting the main monkey to reduce supply drain in the monkey room."
+        },
+        {
+          "t": 731,
+          "kind": "method",
+          "text": "Gnomonkey's use tech: change the shift-click on the green vial from destroy or drop to 'use', so you can shift-click it on a teammate and instantly cure them instead of pouring."
+        },
+        {
+          "t": 911,
+          "kind": "tip",
+          "text": "Gnomonkey says Ba-Ba has a lot of drain too, and that the other rooms are much easier."
+        },
+        {
+          "t": 633,
+          "kind": "tip",
+          "text": "Gnomonkey says a three-tuna tech was used in the opening room to save food rather than lobsters."
+        }
+      ]
+    },
+    {
+      "name": "Kephri",
+      "kind": "boss",
+      "claims": [
+        {
+          "t": 975,
+          "kind": "tip",
+          "text": "Gnomonkey says Kephri is a pretty easy room if you do not take any bombs, and that you may get through it without eating food."
+        },
+        {
+          "t": 1097,
+          "kind": "tip",
+          "text": "Gnomonkey says the best weapon against Kephri's scarabs is always the Keris because they have such low defence, though other weapons work if they are out of range."
+        }
+      ]
+    },
+    {
+      "name": "Zebak",
+      "kind": "boss",
+      "claims": [
+        {
+          "t": 1271,
+          "kind": "tip",
+          "text": "Gnomonkey says you do not have to look at the spikes in Zebak's room as long as you run from the correct tile and move ahead of time; the only thing that can hit you is the gas."
+        },
+        {
+          "t": 1271,
+          "kind": "method",
+          "text": "Gnomonkey shared his Zebak tile markers by DM: copy them to the clipboard, right-click the world map and choose import, and as long as your character's shoot tile touches the marked tile you can run through without looking at the spikes."
+        },
+        {
+          "t": 1331,
+          "kind": "tip",
+          "text": "Gnomonkey says in Zebak's puzzles the first puzzle is always on him, and the waves puzzle is always left first and then right, with slightly smaller gaps at a higher raid level."
+        },
+        {
+          "t": 1422,
+          "kind": "stat",
+          "text": "Gnomonkey says a bone dagger hit of 20 is the max defence drain, and he hit over 20 every time in this raid."
+        }
+      ]
+    },
+    {
+      "name": "Akkha",
+      "kind": "boss",
+      "claims": [
+        {
+          "t": 1664,
+          "kind": "tip",
+          "text": "Gnomonkey says Akkha is a very low-supply room: if you do not take a melee hit, it is a zero-damage room because unless you mess up a mechanic like the memory he never changes style, and you never have to pray."
+        },
+        {
+          "t": 1241,
+          "kind": "tip",
+          "text": "Gnomonkey chose to do Zebak first this time so that Akkha would still be a level one Akkha, with four memory steps instead of five."
+        }
+      ]
+    },
+    {
+      "name": "The Wardens",
+      "kind": "boss",
+      "claims": [
+        {
+          "t": 1999,
+          "kind": "tip",
+          "text": "Gnomonkey says you can dodge the Wardens' UFOs completely if you stay against the left wall, where they do not reach, so after tanking the skulls you can go there and never have to dodge UFOs."
+        },
+        {
+          "t": 2182,
+          "kind": "tip",
+          "text": "Gnomonkey says the last hit on the Wardens' core should be a slow, heavy weapon such as a godsword once you have one, to get bonus damage."
+        },
+        {
+          "t": 2723,
+          "kind": "tip",
+          "text": "Gnomonkey says getting to phase 4 of the Wardens without dying is very good, and that Insanity makes normal Warden fights feel very slow afterwards."
+        },
+        {
+          "t": 3228,
+          "kind": "stat",
+          "text": "Gnomonkey says the Wardens fight is long, with three bosses, and is the majority of the raid's points."
+        }
+      ]
+    },
+    {
+      "name": "Sardaco",
+      "kind": "person",
+      "claims": [
+        {
+          "t": 0,
+          "kind": "event",
+          "text": "Gnomonkey describes teaching the streamer Sardaco a duo Tombs of Amascut 300 with Insanity on as live teaching, noting it is different from making a guide and harder to explain with active chat."
+        },
+        {
+          "t": 3138,
+          "kind": "trivia",
+          "text": "Sardaco was levelling his Attack to 82 before using a Fang and was at 81 at the end of the session."
+        },
+        {
+          "t": 2787,
+          "kind": "stat",
+          "text": "Gnomonkey says he did about 2k more damage than Sardaco in this raid, and that this is not all skill because he was using thralls, which are worth about 2k damage on their own."
+        }
+      ]
+    },
+    {
+      "name": "Gnomonkey",
+      "kind": "person",
+      "claims": [
+        {
+          "t": 3109,
+          "kind": "event",
+          "text": "Sardaco says the World of Warcraft players who came to OSRS are raiding together, doing a lot of raids with each other, going in blind and trying to clear and then get individually better."
+        },
+        {
+          "t": 0,
+          "kind": "event",
+          "text": "According to the video description, Gnomonkey plans to keep doing these teaching lessons and soon Theatre of Blood with the boys, and the World of Warcraft players are doing 150 Tombs of Amascut runs together."
+        }
+      ]
+    }
+  ]
+}

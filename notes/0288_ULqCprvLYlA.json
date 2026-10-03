@@ -1,0 +1,74 @@
+{
+  "id": "ULqCprvLYlA",
+  "title": "WORLD'S 2ND HARDMODE COW BOSS (OSRS)",
+  "date": "2026-02-25",
+  "type": "showcase",
+  "summary": "Short clip of Gnomonkey's world's second kill of the new hardmode cow boss. The transcript is mostly reaction, and the description explains he came close several times before the clear and had fun with the boss.",
+  "outline": [
+    {
+      "t": 0,
+      "text": "Initial boss encounter and discovering the boss area has invisible walls"
+    },
+    {
+      "t": 91,
+      "text": "Intense combat phase around the boss's health thresholds"
+    },
+    {
+      "t": 147,
+      "text": "Final kill and victory"
+    },
+    {
+      "t": 184,
+      "text": "Looting the slippers and outro"
+    }
+  ],
+  "topics": [
+    {
+      "name": "Demonic Brutus",
+      "kind": "boss",
+      "claims": [
+        {
+          "t": 0,
+          "kind": "trivia",
+          "text": "In the hardmode cow boss fight there are invisible walls blocking you in, so you cannot run away."
+        },
+        {
+          "t": 55,
+          "kind": "trivia",
+          "text": "Gnomonkey notes the boss gave him an extra attack at one point that threw him off, and that he was not yet below 35 percent health at one stage."
+        },
+        {
+          "t": 0,
+          "kind": "opinion",
+          "text": "Per the video description, Gnomonkey says Mod Arcane compared the hardmode cow boss to Awakened Leviathan in difficulty and called it both the 'hardest' and the easiest boss Jagex has put into the game."
+        },
+        {
+          "t": 0,
+          "kind": "opinion",
+          "text": "Gnomonkey says the cow boss was very fun and that he is excited to do a 1 HP Dharok kill and other challenges, and is glad there is no real GP gatekeeping, just a silly potato."
+        },
+        {
+          "t": 164,
+          "kind": "event",
+          "text": "The kill ends abruptly when the boss dies and Gnomonkey is surprised he won, saying he thought there would be more; the reward is bull slippers."
+        }
+      ]
+    },
+    {
+      "name": "Gnomonkey",
+      "kind": "person",
+      "claims": [
+        {
+          "t": 0,
+          "kind": "record",
+          "text": "Gnomonkey achieved the world's second completion of the hardmode cow boss on 2026-02-25, after coming close a few times and being unable to clutch it out."
+        },
+        {
+          "t": 0,
+          "kind": "event",
+          "text": "Gnomonkey playtested the cow boss before release, but because he did not get far enough, Jagex mods gave everyone who playtested the clear to go for the kill on release."
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,462 @@
+{
+  "id": "LxYODChv40A",
+  "title": "500 TOA Shadow Rebuild Guide (OSRS)",
+  "date": "2024-07-01",
+  "type": "guide",
+  "summary": "A teaching stream for completing a 500-invocation Tombs of Amascut with a Tumeken's shadow but no Twisted bow, using a cheap melee setup with a one-way Bow of Faerdhinen only for the Wardens' phase 2. Gnomonkey says the setup is for ironmen or players who were spooned a shadow, not something he recommends rebuilding around, and walks through every room.",
+  "outline": [
+    {
+      "t": 0,
+      "text": "Introduction and the cursed setup"
+    },
+    {
+      "t": 10,
+      "text": "Setup explanation"
+    },
+    {
+      "t": 54,
+      "text": "Strategy overview"
+    },
+    {
+      "t": 160,
+      "text": "Gear switches"
+    },
+    {
+      "t": 222,
+      "text": "Invocation settings"
+    },
+    {
+      "t": 288,
+      "text": "Ba-Ba mechanics"
+    },
+    {
+      "t": 430,
+      "text": "Kephri strategy"
+    },
+    {
+      "t": 485,
+      "text": "Akkha encounter"
+    },
+    {
+      "t": 682,
+      "text": "Akkha butterfly method"
+    },
+    {
+      "t": 846,
+      "text": "Akkha final phase"
+    },
+    {
+      "t": 907,
+      "text": "Zebak strategies"
+    },
+    {
+      "t": 1141,
+      "text": "Wardens phase 1"
+    },
+    {
+      "t": 1338,
+      "text": "Wardens phase 3"
+    },
+    {
+      "t": 1506,
+      "text": "Wardens final row"
+    },
+    {
+      "t": 1607,
+      "text": "Conclusion and setup variations"
+    }
+  ],
+  "topics": [
+    {
+      "name": "Tombs of Amascut",
+      "kind": "raid",
+      "claims": [
+        {
+          "t": 0,
+          "kind": "method",
+          "text": "Gnomonkey's shadow setup for a 500-invocation Tombs of Amascut melees Ba-Ba and Kephri, uses Tumeken's shadow on Zebak, Akkha and the Wardens, and brings a Bow of Faerdhinen one-way for the Wardens' phase 2 only."
+        },
+        {
+          "t": 0,
+          "kind": "stat",
+          "text": "Gnomonkey's setup has no meaningful supply limit: he brought 13 Sanfew serums, and finished the demonstration raid having used three of them with ten left over."
+        },
+        {
+          "t": 462,
+          "kind": "opinion",
+          "text": "Gnomonkey says Nex gives better money than Tombs of Amascut and a faster return on investment, because the only good Tombs of Amascut drop is the Tumeken's shadow, so without one you will not get gear upgrades."
+        },
+        {
+          "t": 540,
+          "kind": "opinion",
+          "text": "Gnomonkey says a level 4 Zebak (a one in six chance) is bad luck: his attacks are very fast, he has unavoidable chip damage from blood barrages in the last phase, and Zebak's ghost hits faster at the Wardens' phase 3. He says it is not a reset situation."
+        },
+        {
+          "t": 600,
+          "kind": "tip",
+          "text": "If Zebak is level 4, Gnomonkey says you can choose to do Akkha first so you can make Akkha easier."
+        },
+        {
+          "t": 2203,
+          "kind": "tip",
+          "text": "Gnomonkey says the Tombs of Amascut setup still requires practice with Red X, butterfly and the other mechanics, but needs no flicking and is brain-off once you know them."
+        }
+      ]
+    },
+    {
+      "name": "Tombs of Amascut gear setup",
+      "kind": "mechanic",
+      "claims": [
+        {
+          "t": 0,
+          "kind": "opinion",
+          "text": "Gnomonkey calculated that with a Shadow but no Twisted bow, a Bow of Faerdhinen plus top, bottom, gloves and Blood fury is much better on the Wardens' phase 2 than a Mixed hide plus blowpipe setup."
+        },
+        {
+          "t": 31,
+          "kind": "stat",
+          "text": "Gnomonkey says the Mixed hide and blowpipe setup is about 30% worse on the Wardens' phase 2 than the Bow of Faerdhinen setup, but is close enough to still succeed with."
+        },
+        {
+          "t": 54,
+          "kind": "method",
+          "text": "The setup melees, crystal armour as the melee set, with a one-way Bow of Faerdhinen: you shadow Zebak and Akkha, melee Ba-Ba and Kephri, shadow everything on the Wardens, and range only phase 2."
+        },
+        {
+          "t": 90,
+          "kind": "tip",
+          "text": "A Voidwaker would be massive in this setup and is a great weapon for Core, saving a lot of time; without it, Gnomonkey says to use a dragon dagger special (DDS) on the Core, which guarantees three down."
+        },
+        {
+          "t": 148,
+          "kind": "tip",
+          "text": "Gnomonkey says the Bandos godsword is only used on Ba-Ba and could be dropped; the Bandos godsword does not work well on Kephri but can still land, with about 30% accuracy."
+        },
+        {
+          "t": 180,
+          "kind": "opinion",
+          "text": "Gnomonkey says the Torva helm, switches, Ferocious gloves, Zaryte vambraces, Assembler, Crystal helm and Anguish are all max hits, but he thinks even a two-way with vambraces and Pharaoh's gloves is better than other range switches, and he camps eternal boots."
+        },
+        {
+          "t": 2312,
+          "kind": "tip",
+          "text": "Gnomonkey says if you have a Voidwaker you should bring it, and Chinchompas are also nice for catching Kephri's swarms and clearing the monkey room faster, though two fewer Sanfew serums means eleven."
+        },
+        {
+          "t": 2323,
+          "kind": "stat",
+          "text": "Gnomonkey says he brings four Sanfew serums for a money run, three if feeling spicy, and thinks ten is enough here."
+        },
+        {
+          "t": 2563,
+          "kind": "stat",
+          "text": "Gnomonkey says the whole Shadow setup costs about two billion flat, mostly the Shadow, plus an Avernic defender."
+        },
+        {
+          "t": 2563,
+          "kind": "tip",
+          "text": "If you have no Bow of Faerdhinen and use a Mixed hide plus blowpipe instead, you must pot a regular ranging potion to kill the Ba-Ba boulders, which barely gets the needed max hit with Rigor, and you may need to put the pipe on accurate."
+        },
+        {
+          "t": 2120,
+          "kind": "opinion",
+          "text": "Gnomonkey says Virtus is really bad for the shadow: replacing Ancestral loses five max hits, and the shadow multiplies max hits tremendously, so you always need the full Ancestral set with it."
+        }
+      ]
+    },
+    {
+      "name": "Invocations (Tombs of Amascut)",
+      "kind": "mechanic",
+      "claims": [
+        {
+          "t": 222,
+          "kind": "tip",
+          "text": "Gnomonkey's 500 invocations are Pathfinder, Walk the Path, Hardcore, No Help Needed, 'Deadly Pears on a Diet' (as transcribed), Dehydration, No Overlay Draining and No Overlords."
+        },
+        {
+          "t": 222,
+          "kind": "tip",
+          "text": "Gnomonkey had Keep Back on in this run; he says with the shadow it does not really matter, and you could turn Keep Back off and turn Overlords on if you are scared of Keep Back."
+        }
+      ]
+    },
+    {
+      "name": "Tumeken's shadow",
+      "kind": "item",
+      "claims": [
+        {
+          "t": 2120,
+          "kind": "stat",
+          "text": "Gnomonkey says the Tumeken's shadow multiplies max hits tremendously, so you need all the magic damage bonus you can get."
+        },
+        {
+          "t": 2120,
+          "kind": "stat",
+          "text": "Gnomonkey states that without Ancestral, using Virtus loses five max hits across the roughly 80% of the raid spent mageing; swapping in only Ancestral pieces gets back two max hits for one."
+        },
+        {
+          "t": 2200,
+          "kind": "opinion",
+          "text": "Gnomonkey says the Tumeken's shadow is disgusting for Wardens phase 1 and that it is a huge boost on the final row."
+        },
+        {
+          "t": 20,
+          "kind": "opinion",
+          "text": "In the video description Gnomonkey says he does not recommend using the Tumeken's shadow without Ancestral, and that a Twisted bow is still best-in-slot at Zebak, with the shadow only beating it at Zebak if you have salts and max magic."
+        },
+        {
+          "t": 462,
+          "kind": "opinion",
+          "text": "Gnomonkey says he would never recommend a Shadow rebuild: a Twisted bow rebuild is better than a Shadow rebuild, and the setup is aimed at people who were spooned a shadow, which he says is common on ironman accounts."
+        },
+        {
+          "t": 502,
+          "kind": "tip",
+          "text": "Gnomonkey says the shadow travels very slowly, so you need to click early when casting at the jug."
+        }
+      ]
+    },
+    {
+      "name": "Baba",
+      "kind": "boss",
+      "claims": [
+        {
+          "t": 288,
+          "kind": "method",
+          "text": "To get into Red X on Ba-Ba, hit her once, step one tile to the side, then go three under and three back, then two under and two back."
+        },
+        {
+          "t": 338,
+          "kind": "method",
+          "text": "Gnomonkey's easy way into Red X: drop a Sanfew serum, equip a four tick weapon (his best here is the Keris), poke Ba-Ba, swap to the Osmumten's fang, and as soon as you swing go two under two back; it also gives a bit extra damage."
+        },
+        {
+          "t": 382,
+          "kind": "tip",
+          "text": "Gnomonkey says dragging Ba-Ba back from the wall gives you more space and a better position to dodge the boulder, though it does not affect timing."
+        },
+        {
+          "t": 392,
+          "kind": "tip",
+          "text": "Gnomonkey says with a Voidwaker you would use the Bandos godsword until Ba-Ba is down to 20 damage and then spam the Voidwaker."
+        },
+        {
+          "t": 297,
+          "kind": "tip",
+          "text": "With a Bow of Faerdhinen the monkey room boulders cause no issue; with a blowpipe you need to drink a regular ranging potion to kill the boulders."
+        }
+      ]
+    },
+    {
+      "name": "Kephri",
+      "kind": "boss",
+      "claims": [
+        {
+          "t": 455,
+          "kind": "tip",
+          "text": "Gnomonkey says you can poke an egg for death charge in the Kephri room, which is very worth it and gives free health with the Keris."
+        },
+        {
+          "t": 502,
+          "kind": "tip",
+          "text": "Wait out the dung to trap the beetle, and do not send too early because you sometimes need to wait for hits."
+        },
+        {
+          "t": 502,
+          "kind": "tip",
+          "text": "Crystal armour has quite good ranged defence, so Gnomonkey says you can turn off ranged prayer in the Kephri room."
+        },
+        {
+          "t": 529,
+          "kind": "tip",
+          "text": "Gnomonkey says to deal with the arcane scarab as fast as possible: every three hits it jumps, and hitting it for over 40 makes it jump instantly; you can shadow it as you run up."
+        },
+        {
+          "t": 150,
+          "kind": "tip",
+          "text": "Gnomonkey says the Bandos godsword does not work well on Kephri but still lands around 30% of the time."
+        }
+      ]
+    },
+    {
+      "name": "Akkha",
+      "kind": "boss",
+      "claims": [
+        {
+          "t": 686,
+          "kind": "method",
+          "text": "To set up Akkha's butterfly, wait for his true tile to be one tile away and then click to the next tile."
+        },
+        {
+          "t": 711,
+          "kind": "opinion",
+          "text": "Gnomonkey says butterfly's big benefit is that Akkha has a chance to change styles when he melees you, so avoiding melee greatly reduces that chance, and the shadow is by far your best DPS style."
+        },
+        {
+          "t": 767,
+          "kind": "tip",
+          "text": "Gnomonkey says to move two tiles per action between casts, standing on the icon, running rather than walking, using his magic tiles to transition horizontally or diagonally without losing a tick."
+        },
+        {
+          "t": 773,
+          "kind": "tip",
+          "text": "Gnomonkey says no tick loss means you are very unlikely to fail Akkha's DPS check; he shares his radius markers with the !akkacolor command in chat."
+        },
+        {
+          "t": 773,
+          "kind": "tip",
+          "text": "Gnomonkey says you do not need to flick Augury on Akkha and can just camp it, since it is a max hit."
+        },
+        {
+          "t": 848,
+          "kind": "stat",
+          "text": "Each time Akkha does a special attack there is a chance he swaps to ranged."
+        },
+        {
+          "t": 848,
+          "kind": "tip",
+          "text": "If Keep Back is on, Akkha melees as soon as he starts his animation, so be careful; Gnomonkey recommends keeping a Keris up if you are new to the final phase."
+        },
+        {
+          "t": 692,
+          "kind": "tip",
+          "text": "Gnomonkey recommends salting in the room before Akkha and entering instantly so he cannot stand in a bad quadrant."
+        }
+      ]
+    },
+    {
+      "name": "Zebak",
+      "kind": "boss",
+      "claims": [
+        {
+          "t": 908,
+          "kind": "tip",
+          "text": "Gnomonkey says to shadow Zebak and not to spec, since specing does nothing for magic: the Bandos godsword lowers defence level, but magic rolls against magic level, which it does not lower."
+        },
+        {
+          "t": 938,
+          "kind": "stat",
+          "text": "Zebak's blood barrages spawn blood clouds every three barrages, but they can randomly spawn at the beginning, between one and three barrages in."
+        },
+        {
+          "t": 959,
+          "kind": "tip",
+          "text": "At level 4 Zebak Gnomonkey says you should take no damage until his rage at the end if you catch all barrages, and the jug solve is: the first solve is top left with a jug, and the second time jugs appear you stand in the middle of the arena."
+        },
+        {
+          "t": 1020,
+          "kind": "tip",
+          "text": "Gnomonkey marks red tiles that are safe spots from blood spawns and acid; bloods never reach you there, and standing there you can avoid doing wave skips, which he says needlessly endanger the run."
+        },
+        {
+          "t": 1050,
+          "kind": "tip",
+          "text": "Gnomonkey marks a green lane as max range for the waves: attacking from outside it pulls you into the wave, which can kill you."
+        },
+        {
+          "t": 1050,
+          "kind": "stat",
+          "text": "Level 4 Zebak's max hit chip damage is 15, and at level 5 it is 16 with Blood Rage, so you should never go below 16 health without healing."
+        }
+      ]
+    },
+    {
+      "name": "Wardens",
+      "kind": "boss",
+      "claims": [
+        {
+          "t": 1152,
+          "kind": "method",
+          "text": "On the Wardens' phase 1 with a shadow, turn Rapid Heal on at the start, tank down to 75 health, then turn it off so you sit at one health, and Keris to heal when you can; Gnomonkey says standing in one spot is safe from UFOs and that it is very rare to get a second orb with the shadow."
+        },
+        {
+          "t": 1212,
+          "kind": "tip",
+          "text": "Gnomonkey says to drink an Adrenaline potion (Dren) before using the Keris."
+        },
+        {
+          "t": 1206,
+          "kind": "tip",
+          "text": "For phase 2 you get six hits total on the core; Gnomonkey says he watches the Warden's health, and if it is below 80% but not below 60% he knows he will get 8 hits rather than 10."
+        },
+        {
+          "t": 1259,
+          "kind": "tip",
+          "text": "Gnomonkey says to death charge off the core each time, and that the Bow of Faerdhinen is only used as a main weapon for this single phase, so even one-way is fine."
+        },
+        {
+          "t": 1395,
+          "kind": "stat",
+          "text": "Skulls are every 20% of the Wardens' health, so you start the first set at 80%."
+        },
+        {
+          "t": 1437,
+          "kind": "tip",
+          "text": "If you are under 100 health you can Keris the skulls to overheal; do not Keris if you are over 100 health because it wastes prayer points."
+        },
+        {
+          "t": 1491,
+          "kind": "tip",
+          "text": "Do not BGS the Wardens when mageing, since it does nothing and wastes time."
+        },
+        {
+          "t": 1491,
+          "kind": "tip",
+          "text": "On the Wardens' last row, stand as far away as possible after the last down, since you then get one extra cast before he enters rage."
+        },
+        {
+          "t": 1553,
+          "kind": "method",
+          "text": "On the final row lightning appears in three sets of shadows and strikes in the same order; step on the first shadow as the lightning hits it to get a brief safe spot, and repeat while keeping prayer high."
+        },
+        {
+          "t": 1689,
+          "kind": "tip",
+          "text": "With a Voidwaker, Gnomonkey recommends sending it on phase 3, and on phase 4 draining it to about 25% special and then using a Keris, because it should regen to about 45 by the time you need to Keris."
+        },
+        {
+          "t": 1625,
+          "kind": "record",
+          "text": "Gnomonkey finished the demonstration raid in under 40 minutes with 3 of 13 Sanfew serums used."
+        },
+        {
+          "t": 1207,
+          "kind": "tip",
+          "text": "Gnomonkey optionally scans in melee range in phase 1 and clicks melee prayer right after taking damage, which reduces damage because the Warden maxes four with melee attacks; he says you do not have to do this."
+        }
+      ]
+    },
+    {
+      "name": "Sanfew serum",
+      "kind": "item",
+      "claims": [
+        {
+          "t": 1668,
+          "kind": "stat",
+          "text": "Gnomonkey says ten leftover Sanfew serums is 40 minutes of prayer, so you effectively have unlimited prayer and could full camp prayer without flicking."
+        },
+        {
+          "t": 150,
+          "kind": "tip",
+          "text": "Gnomonkey says you can get almost unlimited restore these days for a 500 raid, and in the video description says 13-14 Sanfew serums is overboard and most people should not need that many."
+        }
+      ]
+    },
+    {
+      "name": "Gnomonkey",
+      "kind": "person",
+      "claims": [
+        {
+          "t": 20,
+          "kind": "event",
+          "text": "Gnomonkey says he made this video because people asked what to run between his two hybrid guides if they had a shadow but not a Twisted bow, and that he posted the invocations this time after forgetting them in the last video."
+        },
+        {
+          "t": 20,
+          "kind": "event",
+          "text": "In the video description Gnomonkey announces new merchandise and says he will keep adding new designs."
+        }
+      ]
+    }
+  ]
+}

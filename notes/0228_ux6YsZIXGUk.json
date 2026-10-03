@@ -1,0 +1,60 @@
+{
+  "id": "ux6YsZIXGUk",
+  "title": "Budget SOLO Yama Guide Day 1 (OSRS)",
+  "date": "2025-05-14",
+  "type": "guide",
+  "summary": "A day-one budget solo Yama walkthrough using Blue Moon, Purging staff, a minor melee switch with Burning claws, and mid-level gear costing roughly 200 million. Gnomonkey shows the fairy ring and agility routes, glyph blocking of specials, orbs, the Judge phase and the hard last phase, finishing with a successful kill and advice that better mage gear helps a lot.",
+  "outline": [
+    {"t": 0, "text": "Intro and budget gear: Blue Moon, Purging staff, Burning claws"},
+    {"t": 28, "text": "Food, Sand fuse, Forgotten brew and spells"},
+    {"t": 94, "text": "Fairy Ring DJR and agility shortcuts at 83 and 73 agility"},
+    {"t": 125, "text": "Starting the fight and smuggling in an extra food piece"},
+    {"t": 154, "text": "Glyph blocking of special attacks"},
+    {"t": 242, "text": "Orbs and the Purging staff"},
+    {"t": 303, "text": "Judge fight and style swaps"},
+    {"t": 350, "text": "Specials, meteors and waves"},
+    {"t": 458, "text": "Phase three: the hardest part and mistakes to avoid"},
+    {"t": 677, "text": "Successful kill and budget breakdown"}
+  ],
+  "topics": [
+    {
+      "name": "Yama: budget setup",
+      "kind": "mechanic",
+      "claims": [
+        {"t": 0, "kind": "method", "text": "For budget solo Yama, Gnomonkey brings Blue Moon armour, which has a strength bonus and is best if owned (another armour, transcribed as 'Aaron's', works fine), plus okay mage gear and the Purging staff, which he says is fairly close to Shadow for casting at the boss."},
+        {"t": 28, "kind": "method", "text": "Gnomonkey uses a minor melee switch with Burning claws and Light bearer to get more Burning claw specs off."},
+        {"t": 28, "kind": "method", "text": "Gnomonkey brings lots of food, using Anglerfish and Moonlight antelope; the antelope heals slightly more but slowly over time, and he calls this the highest-healing food available."},
+        {"t": 28, "kind": "method", "text": "Sand fuse cures the poison in the fight, though Restores and Antidote could also be used."},
+        {"t": 61, "kind": "method", "text": "Gnomonkey uses Forgotten brew over the Imbued heart because the heart only boosts accuracy, not max hit of demon bane, but Forgotten brew drains melee, which is not ideal."},
+        {"t": 61, "kind": "method", "text": "Gnomonkey brings runes for Death Charge, Thralls and Mark of Darkness; Mark of Darkness is the important one because it lets the player deal damage, while the others reduce damage and add DPS, and Death Charge works on almost everything in the fight."},
+        {"t": 617, "kind": "tip", "text": "Forgetting Mark of Darkness drops DPS by roughly 50 percent, which Gnomonkey says was a huge mistake in his kill."},
+        {"t": 677, "kind": "stat", "text": "Gnomonkey estimates the budget gear setup costs roughly 200 million GP, two synapses and mid-level gear."},
+        {"t": 677, "kind": "tip", "text": "Gnomonkey says better mage accuracy from Virtus or Ancestral gear makes a huge difference to budget Yama kills."},
+        {"t": 222, "kind": "stat", "text": "Gnomonkey's previous budget kill took about eight and a half minutes, showing accuracy matters a lot in the budget setup."}
+      ]
+    },
+    {
+      "name": "Yama",
+      "kind": "boss",
+      "claims": [
+        {"t": 94, "kind": "requirement", "text": "To reach Yama, use Fairy Ring DJR; at 83 agility the chain goes straight down into the Chasm of Fire, while 73 agility can use a slower route jumping a cliff and going down a cage."},
+        {"t": 125, "kind": "method", "text": "Start the Yama fight with right-click Challenge; Gnomonkey drops a piece of food first to smuggle an extra item because he carries two one-handed weapons, potions up, casts one spell and then claws."},
+        {"t": 154, "kind": "method", "text": "The orange attack is a magic special and the shadow attack is a ranged special, so the player flicks ranged and mage prayers and moves around the room stepping on the glyph matching the colour of each special to block it."},
+        {"t": 185, "kind": "stat", "text": "Yama's special normally hits around 80, but is blocked for 0 when the player steps on the matching glyph."},
+        {"t": 273, "kind": "tip", "text": "The glyph pattern can trip players up because two of the same glyph can occur in a row."},
+        {"t": 242, "kind": "method", "text": "Orbs heal Yama if not killed in time and damage the player dramatically; the Purging staff with this gear two-shots them, and finishing them with a spec refunds the spec cost and makes the player attack slightly faster."},
+        {"t": 242, "kind": "tip", "text": "Gnomonkey says to pray melee when speccing Yama."},
+        {"t": 303, "kind": "method", "text": "At 66% Yama phases and the player fights the Judge by jumping across obstacles and swapping combat styles every hit; waiting under the Judge makes his skull attack hit himself for damage, like a Araxxor step-under."},
+        {"t": 366, "kind": "method", "text": "In the later phases the player must stay within three tiles of the glyph when Yama turns off run and drops a meteor, which can one-shot the player if not blocked."},
+        {"t": 398, "kind": "method", "text": "Waves in the fight hit for about 20 and drop the player's prayer, making it easy to be comboed."},
+        {"t": 427, "kind": "tip", "text": "Gnomonkey warns not to greed when orbs are up in the Yama fight; he says he once was effectively one-shot after trying to push past them."},
+        {"t": 458, "kind": "opinion", "text": "Gnomonkey says phase three, the last phase, is the absolute hardest part of Yama by a good margin."},
+        {"t": 489, "kind": "method", "text": "In the last phase every attack alternates between styles, like the end of Whisperer, and Yama does not attack when he does meteors, which are dodged by moving in an hourglass pattern."},
+        {"t": 522, "kind": "method", "text": "In the last phase, jellyfish orbs spawn at half health and must be taken out, along with waves, and Yama hands the player every attack at once, which makes it easy to be comboed."},
+        {"t": 649, "kind": "tip", "text": "Gnomonkey says specing the Burning claws in the last phase summons jellyfish, so it may not be worth it."},
+        {"t": 677, "kind": "opinion", "text": "Gnomonkey considers budget solo Yama definitely doable but tough, because a player can get comboed out fairly easily."},
+        {"t": 677, "kind": "record", "text": "Gnomonkey achieved a successful solo Yama kill in the video using the budget setup."}
+      ]
+    }
+  ]
+}

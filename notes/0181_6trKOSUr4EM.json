@@ -1,0 +1,604 @@
+{
+  "id": "6trKOSUr4EM",
+  "title": "INFERNO IS FREE NOW! Bofa Guide (OSRS)",
+  "date": "2024-10-03",
+  "type": "guide",
+  "summary": "An Inferno teaching stream with the Bow of Faerdhinen showing how the new prayer regeneration potion (from the Varlamore Part 2 herb minigame) frees inventory space and makes the Inferno far easier. Gnomonkey explains gear, wave-by-wave priorities, one-tick alternating, phantom barrage, corner traps, triple Jads and the TzKal-Zuk fight, completing the Inferno with only five prayer restoring potions.",
+  "outline": [
+    {
+      "t": 0,
+      "text": "Prayer regeneration potion explained and why it matters in the Inferno"
+    },
+    {
+      "t": 91,
+      "text": "Gear choices: staff, Virtus, boots, ring, shield"
+    },
+    {
+      "t": 209,
+      "text": "Stats that matter: mage accuracy myth, range defence, Lightbearer ring"
+    },
+    {
+      "t": 353,
+      "text": "Inferno entry, starting tile, bats and nibblers"
+    },
+    {
+      "t": 498,
+      "text": "Blobs and one-tick alternating"
+    },
+    {
+      "t": 655,
+      "text": "Phantom barrage"
+    },
+    {
+      "t": 784,
+      "text": "Melees: safe spots and corner traps"
+    },
+    {
+      "t": 1098,
+      "text": "Rangers, mages and respawning mages"
+    },
+    {
+      "t": 1872,
+      "text": "Late waves 50 to 62: off-ticking, pillar stacks, hard waves"
+    },
+    {
+      "t": 2438,
+      "text": "Preparing for Zuk and triple Jads strategy"
+    },
+    {
+      "t": 2624,
+      "text": "TzKal-Zuk fight with the Bofa"
+    }
+  ],
+  "topics": [
+    {
+      "name": "Inferno",
+      "kind": "activity",
+      "claims": [
+        {
+          "t": 0,
+          "kind": "opinion",
+          "text": "Gnomonkey says in the video description that the new prayer regeneration potion is single-handedly the biggest update for ease of Inferno completion, because it opens up three inventory slots of restores for other useful items such as mage bottoms, Bastion potions and brews."
+        },
+        {
+          "t": 0,
+          "kind": "record",
+          "text": "Gnomonkey completed the Inferno in this teaching stream using only five prayer restoring potions (two prayer regeneration, three restores) while still taking mage bottoms and additional Bastion potions, without hard flicking."
+        },
+        {
+          "t": 0,
+          "kind": "opinion",
+          "text": "Gnomonkey says the Bofa is plenty fine for first capes, and that gear will not save you from bad skills and poor planning."
+        },
+        {
+          "t": 178,
+          "kind": "tip",
+          "text": "Gnomonkey recommends doing the Inferno before the Colosseum, because the Inferno is not easier content but a death does not cost 500k like the Colosseum."
+        },
+        {
+          "t": 353,
+          "kind": "method",
+          "text": "When you spawn in the Inferno, drop your pots; the first rule of thumb is to cast straight at the middle of the nibblers."
+        },
+        {
+          "t": 414,
+          "kind": "method",
+          "text": "Gnomonkey starts every Inferno wave on one particular tile because it provides the least line of sight from monsters to you at the start of the wave, and casts at nibblers from there."
+        },
+        {
+          "t": 471,
+          "kind": "tip",
+          "text": "In the early Inferno waves Gnomonkey says to take nibblers off the pillars as fast as possible, because each of the three pillars has 255 health and the more damage a pillar takes early the harder it is to defend later."
+        },
+        {
+          "t": 471,
+          "kind": "tip",
+          "text": "Gnomonkey says to start the Inferno on Augury, because it gives a max hit increase and defence."
+        },
+        {
+          "t": 1661,
+          "kind": "tip",
+          "text": "Gnomonkey says not to chase nibblers late in the Inferno (in the forties), saying the time for chasing is done."
+        },
+        {
+          "t": 1778,
+          "kind": "opinion",
+          "text": "Gnomonkey says if you do the right things every wave the Inferno waves are really easy, and the skill of the Inferno is planning; it is all things you have seen over and over in bigger packages."
+        },
+        {
+          "t": 59,
+          "kind": "opinion",
+          "text": "Gnomonkey says the new prayer regeneration potion makes the Falador shield (Fally shield) basically irrelevant in the Inferno, though he had not used the potion yet when he said this."
+        },
+        {
+          "t": 1396,
+          "kind": "tip",
+          "text": "Gnomonkey says he ran the Inferno all day when going for his own cape, slept, woke up and got it the next day, and advises not to limit your attempts per day but to avoid burning out."
+        },
+        {
+          "t": 2078,
+          "kind": "tip",
+          "text": "Gnomonkey calls wave 56 a scary wave that kills a lot of people and arguably the second hardest wave in the Inferno; earlier he calls a wave in the 40s the third hardest."
+        },
+        {
+          "t": 2318,
+          "kind": "tip",
+          "text": "Gnomonkey says that if you hit the logout button mid-wave in the Inferno it pauses at the end of the wave so you have time to prepare before Zuk."
+        },
+        {
+          "t": 2418,
+          "kind": "tip",
+          "text": "Gnomonkey says wave 64 is not free but fairly easy, wave 65 is completely free (just get the mage by itself while wearing crystal) and wave 66 is double mage."
+        },
+        {
+          "t": 1933,
+          "kind": "tip",
+          "text": "Gnomonkey says chasing all nibblers from wave 50 plus is a good rule of thumb."
+        },
+        {
+          "t": 2294,
+          "kind": "opinion",
+          "text": "Gnomonkey says wave 62 is arguably the hardest wave in the Inferno."
+        }
+      ]
+    },
+    {
+      "name": "Prayer regeneration potion",
+      "kind": "item",
+      "claims": [
+        {
+          "t": 0,
+          "kind": "stat",
+          "text": "The prayer regeneration potion, obtained from The Hueycoatl and the herb minigame added with Varlamore Part 2, gives one prayer point every 12 ticks over eight minutes."
+        },
+        {
+          "t": 33,
+          "kind": "stat",
+          "text": "Gnomonkey says the prayer regeneration potion is a weak Prayer enhance, since a Chambers of Xeric Prayer enhance is six ticks per point, so it is two times worse but lasts a long time, restoring 66 prayer points per dose."
+        },
+        {
+          "t": 33,
+          "kind": "stat",
+          "text": "Gnomonkey calculates a four-dose prayer regeneration potion is worth 264 prayer points versus at best 128 for a restore, so it is two restores in one inventory slot."
+        },
+        {
+          "t": 59,
+          "kind": "opinion",
+          "text": "Gnomonkey says the prayer regeneration potion is best used at places with very long combat relying on prayer, mainly the Inferno and also Colosseum, calling it an extremely expensive potion to make Inferno easier."
+        },
+        {
+          "t": 353,
+          "kind": "stat",
+          "text": "Each prayer regeneration potion lasts 32 minutes, so two of them make a 64-minute cape, and the pre-pot is 70 minutes."
+        },
+        {
+          "t": 353,
+          "kind": "tip",
+          "text": "Gnomonkey says for a first Inferno cape you probably want to bring three prayer regeneration potions, for six total restores in three slots."
+        },
+        {
+          "t": 2201,
+          "kind": "stat",
+          "text": "Gnomonkey used two prayer regeneration potions and two doses of restore through wave 59 and says that was enough; by wave 62 he had used three doses of restore and two of the new potion."
+        }
+      ]
+    },
+    {
+      "name": "Inferno gear",
+      "kind": "item",
+      "claims": [
+        {
+          "t": 91,
+          "kind": "opinion",
+          "text": "Since autocast delay was removed, Gnomonkey says Staff of the Dead is less attractive for the Inferno and Blood scepter is a pretty good choice, while a Nightmare staff or Kodai wand is better because they can autocast ancients and give 15% damage."
+        },
+        {
+          "t": 91,
+          "kind": "stat",
+          "text": "Gnomonkey says upgrading to a 15% damage staff gives three max hits for the Inferno, and that Virtus is best for casting ancients and better than Ancestral; downgrading to Arens loses two max hits."
+        },
+        {
+          "t": 148,
+          "kind": "opinion",
+          "text": "Gnomonkey runs blessed dragonhide boots, easy to get with a nice prayer bonus, but says Echo boots are the best in slot boots now, with minus two ranged accuracy, and Pegasian boots are better too."
+        },
+        {
+          "t": 178,
+          "kind": "tip",
+          "text": "Gnomonkey added mage legs to his usual mage top for a two max hit total, giving a higher chance of one-shotting nibblers, and added a Divine bastion potion."
+        },
+        {
+          "t": 272,
+          "kind": "opinion",
+          "text": "Gnomonkey recommends the Crystal shield over the Elidinis' ward in the Inferno for its extra range defence (80), since the ward's one max hit does not matter compared to range defence."
+        },
+        {
+          "t": 298,
+          "kind": "opinion",
+          "text": "Gnomonkey recommends the Lightbearer ring in the Inferno because it allows a more frequent blowpipe special attack, which kills melees; he says it is the melee kill ring, not for healing."
+        },
+        {
+          "t": 322,
+          "kind": "opinion",
+          "text": "Gnomonkey says Suffering is used for prayer bonus and defence but he does not think it is worth it, and Ring of the Gods is not bad, a restore on your finger, but not needed now with the new potion."
+        },
+        {
+          "t": 1816,
+          "kind": "tip",
+          "text": "Gnomonkey says the melee killer ring (Lightbearer) sells for about one million at the Tombs of Amascut, and that people undervalue it."
+        }
+      ]
+    },
+    {
+      "name": "Opinion: Mage accuracy in the Inferno",
+      "kind": "opinion",
+      "claims": [
+        {
+          "t": 209,
+          "kind": "opinion",
+          "text": "Gnomonkey says you do not need mage accuracy in the Inferno, even though people think you do."
+        },
+        {
+          "t": 209,
+          "kind": "stat",
+          "text": "Gnomonkey shows with a DPS calculator that his ice barrage has a 97.23% chance to land a cast on a nibbler because nibblers have 15 magic and negative 20 magic defence."
+        },
+        {
+          "t": 241,
+          "kind": "opinion",
+          "text": "Gnomonkey says wearing a Justiciar chestplate with negative 40 magic bonus only loses 2% accuracy, and that failing to kill a nibbler is because you did not roll a 10, so max hits matter, not accuracy."
+        },
+        {
+          "t": 241,
+          "kind": "tip",
+          "text": "Gnomonkey says in the Inferno you care about ranged attack bonus and, most importantly, range defence, since after wave 32 you camp mage prayer and tank range hits."
+        }
+      ]
+    },
+    {
+      "name": "Jal-Ak",
+      "kind": "mechanic",
+      "claims": [
+        {
+          "t": 502,
+          "kind": "method",
+          "text": "Blobs read your prayer every three ticks and three ticks later use the opposite attack of what they read, giving a weird prayer cycle."
+        },
+        {
+          "t": 521,
+          "kind": "method",
+          "text": "One-tick alternating means swapping your prayers every game tick, which avoids 100% of a blob's damage no matter how far away the blob is."
+        },
+        {
+          "t": 560,
+          "kind": "tip",
+          "text": "Gnomonkey says two-tick alternating can be bad against blobs because it is 50-50 that you are on a bad tick and take damage, and he does not recommend it for learners or first capes."
+        },
+        {
+          "t": 594,
+          "kind": "tip",
+          "text": "Gnomonkey says you know you are on the right two-tick cycle when the attack starts on the second tick of the prayer."
+        },
+        {
+          "t": 1213,
+          "kind": "method",
+          "text": "To one-tick alternate when a blob and another attacker both threaten you, click the other attacker (for example a ranger), watch its animation and start alternating when the animation starts."
+        },
+        {
+          "t": 2024,
+          "kind": "method",
+          "text": "While you one-tick alternate a blob stops existing, and a respawned blob has an eight-tick respawn that aligns with its attack cycle."
+        },
+        {
+          "t": 1596,
+          "kind": "tip",
+          "text": "Gnomonkey says blobs are the mob people struggle with the most because of the prayer cycle, and suggests messing with the first blobs of your first Inferno to get a feel for it."
+        }
+      ]
+    },
+    {
+      "name": "Phantom barrage",
+      "kind": "mechanic",
+      "claims": [
+        {
+          "t": 655,
+          "kind": "method",
+          "text": "Phantom barrage: cast a spell at a far-away target, then manually cast the next spell so it casts at the corpse as it dies, giving full health healing."
+        },
+        {
+          "t": 655,
+          "kind": "tip",
+          "text": "Gnomonkey says blobs split into three bloblets so you can phantom barrage three corpses at once for a ton of health, making it your primary healing source in the Inferno."
+        },
+        {
+          "t": 655,
+          "kind": "tip",
+          "text": "For a phantom barrage you need to be over eight tiles away and the blob must come in close enough to the pillar for the phantom to work."
+        },
+        {
+          "t": 689,
+          "kind": "tip",
+          "text": "Gnomonkey says you can phantom nibblers to guarantee you can still cast at the pile, and can also phantom off pets."
+        },
+        {
+          "t": 720,
+          "kind": "tip",
+          "text": "Gnomonkey names two phantom spots in the Inferno and says the phantom lets you extend far to get nibblers, tank damage and return behind the pillar to heal back."
+        },
+        {
+          "t": 736,
+          "kind": "tip",
+          "text": "Gnomonkey uses the Tizar HP tracker plugin for the health on the pillars and enemies and for tile markers."
+        }
+      ]
+    },
+    {
+      "name": "Jal-ImKot",
+      "kind": "other",
+      "claims": [
+        {
+          "t": 756,
+          "kind": "method",
+          "text": "The Inferno melee monster digs to your location roughly every 50 game ticks if it cannot attack you, which stops safe spotting from working."
+        },
+        {
+          "t": 784,
+          "kind": "opinion",
+          "text": "Gnomonkey says Inferno melees kill players more than anything because players panic when the melee digs to them."
+        },
+        {
+          "t": 833,
+          "kind": "method",
+          "text": "Gnomonkey explains safe spotting a melee: the southwest tile of a monster is its brain tile and the only tile it considers when pathing to you, so tiles on the other side of a pillar are safe even a few tiles out."
+        },
+        {
+          "t": 899,
+          "kind": "method",
+          "text": "A corner trap works because monsters never path north before going east; east and west are prioritised before north and south, so a monster that cannot go east or west towards you shuts down."
+        },
+        {
+          "t": 928,
+          "kind": "tip",
+          "text": "Gnomonkey says corner traps work on melees and also on ranged targets, blobs, mages and rangers, which cannot hit you while trapped; you can corner trap on both sides of the pillar."
+        },
+        {
+          "t": 1098,
+          "kind": "tip",
+          "text": "Gnomonkey says tanking a melee resets its 50 tick dig timer, and a splash on it delays its attack two ticks."
+        },
+        {
+          "t": 1743,
+          "kind": "tip",
+          "text": "Gnomonkey says melees have a long cooldown after they dig."
+        },
+        {
+          "t": 2115,
+          "kind": "stat",
+          "text": "Gnomonkey says tanking a melee with a blob on you has never hit lower than 46 in his experience and the melee is about 30% accurate."
+        },
+        {
+          "t": 1218,
+          "kind": "tip",
+          "text": "Gnomonkey says you can just kill melees with the melee killer ring and blowpipe specs, as melees have pretty low health."
+        }
+      ]
+    },
+    {
+      "name": "Jal-Xil",
+      "kind": "other",
+      "claims": [
+        {
+          "t": 1098,
+          "kind": "stat",
+          "text": "Inferno rangers are described as incredibly basic and punch for very little; their melee punch max is 19, one higher than a bloblet, and they are incredibly inaccurate."
+        },
+        {
+          "t": 1129,
+          "kind": "tip",
+          "text": "Gnomonkey says to lazy flick any attacker you pray against as the attack animation starts: prayer goes up the tick the animation starts, then back down."
+        },
+        {
+          "t": 1365,
+          "kind": "tip",
+          "text": "Gnomonkey says rangers heal you like medkits when you cast at them, and with 108 health from the Blood scepter you can just go get the nibblers."
+        }
+      ]
+    },
+    {
+      "name": "Jal-Zek",
+      "kind": "other",
+      "claims": [
+        {
+          "t": 1422,
+          "kind": "method",
+          "text": "Inferno mages attack at the same speed as rangers and are flicked the same way; their special mechanic is that they can respawn dead monsters from their pool a single time, with respawn target at half health."
+        },
+        {
+          "t": 1459,
+          "kind": "tip",
+          "text": "Gnomonkey says to try to kill mages before other things since they can respawn things, and respawning blobs is bad because the bloblets are still full health."
+        },
+        {
+          "t": 1531,
+          "kind": "tip",
+          "text": "Gnomonkey says you should not kill a blob before the mage, and the only things to kill before a mage are bats and sometimes melees."
+        },
+        {
+          "t": 1612,
+          "kind": "tip",
+          "text": "Gnomonkey says to stand on a tile that lets you corner trap the melee when it digs while you attack the mage."
+        },
+        {
+          "t": 1423,
+          "kind": "stat",
+          "text": "Gnomonkey says Inferno mages can hit up to seventy, and not to take the hit."
+        },
+        {
+          "t": 1922,
+          "kind": "tip",
+          "text": "Gnomonkey says to never kill a ranger before a mage, except in rare waves where doing so is fine."
+        }
+      ]
+    },
+    {
+      "name": "Jal-MejRah",
+      "kind": "other",
+      "claims": [
+        {
+          "t": 414,
+          "kind": "method",
+          "text": "Inferno bats have a very short ranged attack and drain your run energy when they hit you, and drain your stats on a hit; Gnomonkey says to kill them and not let them stay on you."
+        },
+        {
+          "t": 414,
+          "kind": "tip",
+          "text": "Gnomonkey says Blowpipe range reaches a bat from a tile where the bat cannot reach you."
+        },
+        {
+          "t": 1098,
+          "kind": "tip",
+          "text": "Gnomonkey says a bat cannot punch you; it only has ranged attacks."
+        }
+      ]
+    },
+    {
+      "name": "One-tick alternating",
+      "kind": "mechanic",
+      "claims": [
+        {
+          "t": 531,
+          "kind": "tip",
+          "text": "Gnomonkey says one-tick alternating prayers is a key skill to learn because it solves many waves and is how you flick a blob into any other mob besides a melee."
+        },
+        {
+          "t": 1913,
+          "kind": "tip",
+          "text": "To keep your alternating cycle, Gnomonkey says to look at the two prayer lights; as soon as the light turns off on the other prayer, click the next one."
+        },
+        {
+          "t": 1913,
+          "kind": "tip",
+          "text": "Gnomonkey says you can alternate against a ranger or mage in the Inferno and that you will also do this a lot in the Colosseum."
+        },
+        {
+          "t": 2040,
+          "kind": "tip",
+          "text": "Gnomonkey says to start one-tick alternating on the first tick of the animation of the attacker that is hitting you."
+        }
+      ]
+    },
+    {
+      "name": "Triple Jad",
+      "kind": "mechanic",
+      "claims": [
+        {
+          "t": 2438,
+          "kind": "opinion",
+          "text": "Gnomonkey says triple Jads is incredibly easy and one of the easiest parts of the Inferno, much easier than the waves before it."
+        },
+        {
+          "t": 2438,
+          "kind": "stat",
+          "text": "In triple Jads you have 1.8 seconds per prayer, which Gnomonkey says is the exact same as regular Jad, only faster: do one action per prayer catch and one tag per prayer on healers."
+        },
+        {
+          "t": 2531,
+          "kind": "tip",
+          "text": "Gnomonkey says to stand on a tile where healers cannot reach melee range of Jad, because then they will not heal him and you do not need to tag them, and the tile also corner traps a Jad so you take no damage."
+        },
+        {
+          "t": 2476,
+          "kind": "tip",
+          "text": "Gnomonkey says the pillar that goes down at the end of a wave halves your health if you are standing next to it."
+        },
+        {
+          "t": 2233,
+          "kind": "tip",
+          "text": "Gnomonkey says he wants to save two Divine bastion doses before triple Jads: one for triples and one for Zuk."
+        }
+      ]
+    },
+    {
+      "name": "TzKal-Zuk",
+      "kind": "boss",
+      "claims": [
+        {
+          "t": 2644,
+          "kind": "tip",
+          "text": "Gnomonkey says the Bofa is four-tick and harder to use at Zuk than a Twisted bow because it shoots faster and lets you move fewer tiles per shot without losing ticks."
+        },
+        {
+          "t": 2676,
+          "kind": "opinion",
+          "text": "Gnomonkey says people bring the Bofa to Zuk and set it to accurate, making it a five-tick weapon, which he argues is too safe; he says not to do that because Zuk is a DPS check and, if you do not do DPS, more monsters spawn, hit your shield and kill you."
+        },
+        {
+          "t": 2676,
+          "kind": "opinion",
+          "text": "Gnomonkey says the point of the Inferno waves is to plan and have supplies for Zuk, where you shoot him full of arrows and camp prayers."
+        },
+        {
+          "t": 2765,
+          "kind": "method",
+          "text": "Gnomonkey says to put on armour and Rigor before the Zuk cutscene, right click Zuk, click attack when the cutscene shifts, and follow the shield, moving up every time you can after a shot."
+        },
+        {
+          "t": 2765,
+          "kind": "tip",
+          "text": "Gnomonkey says to click Zuk to drag further because you can attack and move at the same time while dragging to an NPC, so you do not lose ticks and lose damage."
+        },
+        {
+          "t": 2856,
+          "kind": "method",
+          "text": "Gnomonkey says to shoot Zuk until he is at 600 health, then kill the mage, and that Zuk's animation start means move up to the next safe spot."
+        },
+        {
+          "t": 2912,
+          "kind": "stat",
+          "text": "Gnomonkey says you can keep shooting Zuk from a safe spot but not below 480 health, because that is when another set spawns."
+        },
+        {
+          "t": 3035,
+          "kind": "method",
+          "text": "Gnomonkey says to get Zuk to 240 health in the right location and send healers from the right spot, otherwise Zuk heals to 800 health and you get another set."
+        },
+        {
+          "t": 3127,
+          "kind": "tip",
+          "text": "Gnomonkey says after healers spawn you have to stay with the shield because the safe spots stop working, and Bofa users who do not lose ticks will not see a second set."
+        },
+        {
+          "t": 3197,
+          "kind": "tip",
+          "text": "Gnomonkey jokes at the end that Bofa users should put it on accurate for the invisible plus one range and make it five tick, having argued earlier that losing ticks costs damage."
+        },
+        {
+          "t": 2644,
+          "kind": "opinion",
+          "text": "Gnomonkey says a Zuk pep talk is needed more with the Bofa than a Tbow because it is four tick."
+        }
+      ]
+    },
+    {
+      "name": "Bow of Faerdhinen",
+      "kind": "item",
+      "claims": [
+        {
+          "t": 949,
+          "kind": "opinion",
+          "text": "Gnomonkey says the Bofa is a bit better DPS than the blowpipe on Inferno melees."
+        },
+        {
+          "t": 1578,
+          "kind": "opinion",
+          "text": "Gnomonkey says the Bofa's DPS is very close to the Twisted bow in the Inferno."
+        },
+        {
+          "t": 2644,
+          "kind": "tip",
+          "text": "Gnomonkey says the Bofa is four-tick, which makes it harder to move with at Zuk than a Twisted bow, and that most people stick it on accurate to make it five tick."
+        }
+      ]
+    }
+  ]
+}

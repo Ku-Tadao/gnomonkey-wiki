@@ -1,0 +1,359 @@
+{
+  "id": "6twm5s6DZHg",
+  "title": "EASY T1 Corrupted Gauntlet Guide (OSRS)",
+  "date": "2024-11-02",
+  "type": "guide",
+  "summary": "A beginner guide to the Corrupted Gauntlet using tier one armour, two tier three weapons and a full inventory of fish, with three example kills. Gnomonkey explains the prep shopping list, Corrupted Hunllef's counters and tornadoes, his tornado eat-spam tip, the GP per hour maths and why he rejects tier two armour for learning.",
+  "outline": [
+    {
+      "t": 0,
+      "text": "Intro: Corrupted Gauntlet has no gear requirement and is good early money"
+    },
+    {
+      "t": 72,
+      "text": "Equipment and what you need to kill Hunllef"
+    },
+    {
+      "t": 172,
+      "text": "Armour tiers and weapon upgrades"
+    },
+    {
+      "t": 248,
+      "text": "Battle plan: the prep grocery list"
+    },
+    {
+      "t": 312,
+      "text": "Preparation: weapon frame, staff and vials first"
+    },
+    {
+      "t": 396,
+      "text": "Tier three weapons and demi bosses"
+    },
+    {
+      "t": 476,
+      "text": "Making armour and a lucky prep"
+    },
+    {
+      "t": 652,
+      "text": "How Corrupted Hunllef works"
+    },
+    {
+      "t": 732,
+      "text": "Tornadoes and the eat-spam tip"
+    },
+    {
+      "t": 973,
+      "text": "Recap: why tier one armour"
+    },
+    {
+      "t": 1104,
+      "text": "Second and third runs"
+    },
+    {
+      "t": 1785,
+      "text": "GP per hour and improving your speed"
+    }
+  ],
+  "topics": [
+    {
+      "name": "Corrupted Gauntlet",
+      "kind": "activity",
+      "claims": [
+        {
+          "t": 0,
+          "kind": "opinion",
+          "text": "Gnomonkey says the Corrupted Gauntlet is very good money for early game with no gear requirement, only stats."
+        },
+        {
+          "t": 29,
+          "kind": "requirement",
+          "text": "The Corrupted Gauntlet is unlocked by completing the Song of the Elves quest, and needs decent stats and the three prayers unlocked."
+        },
+        {
+          "t": 56,
+          "kind": "method",
+          "text": "In the Corrupted Gauntlet you have seven and a half minutes, the maximum, to gather the items required to enter and kill the boss Corrupted Hunllef in the middle of the dungeon."
+        },
+        {
+          "t": 86,
+          "kind": "method",
+          "text": "The Gauntlet start room has an axe, pickaxe, harpoon, pestle and mortar and a teleport crystal back to the centre room; duplicates of tools can be taken from the centre room, and there is a grill, a water pump for filling vials and the singing bowl where everything is crafted."
+        },
+        {
+          "t": 0,
+          "kind": "opinion",
+          "text": "In the description Gnomonkey says the Corrupted Gauntlet is one of the most recommended early-game money makers and the best place to start to get better at raids and prayers, with no gear requirement and no death cost."
+        },
+        {
+          "t": 0,
+          "kind": "stat",
+          "text": "Per the description, the Corrupted Gauntlet is 4 to 8 million GP an hour depending on skill, and someone (Hedron) got 5 enhanced crystal weapon seeds in 250 KC."
+        },
+        {
+          "t": 1822,
+          "kind": "stat",
+          "text": "Gnomonkey calculates an average Corrupted Gauntlet kill at about 315k, with the enhanced crystal weapon seed a 1 in 400 drop worth about 170 mil, and at eight-minute kills (7.5 KC per hour at about 900k each) that is almost 7 million GP an hour."
+        },
+        {
+          "t": 1850,
+          "kind": "opinion",
+          "text": "Gnomonkey says eight-minute Corrupted Gauntlet kills are feasible for the average player with some skill, close to seven mil an hour with no GP input, no supply cost and no gear, which is why he tells people to come, and he recommends it as the second thing after herb runs."
+        },
+        {
+          "t": 1936,
+          "kind": "stat",
+          "text": "Gnomonkey says 12-minute Corrupted Gauntlet kills would be about 5 KC an hour, around four and a half mil an hour, a lot lower than six and a half."
+        },
+        {
+          "t": 1881,
+          "kind": "stat",
+          "text": "Gnomonkey got two crystal armour seeds in this video, which he says are worth ten mil each, so he made twenty mil from the video's runs."
+        },
+        {
+          "t": 1909,
+          "kind": "stat",
+          "text": "Gnomonkey says the enhanced crystal weapon seed price goes up and down and sometimes the hourly rate is closer to four to five mil an hour."
+        },
+        {
+          "t": 1909,
+          "kind": "tip",
+          "text": "Gnomonkey says to get faster Corrupted Gauntlet KC, improve your prep, learn to do actions while attacking things, know what items to get and in what order, and do the boss better so you need less prep."
+        },
+        {
+          "t": 2030,
+          "kind": "tip",
+          "text": "Gnomonkey says combo eat food is worse than regular fish and that you should never make it except for hardcore ironmen."
+        },
+        {
+          "t": 1073,
+          "kind": "opinion",
+          "text": "Gnomonkey says he did the Corrupted Gauntlet as the second PvM he ever did after Vorkath, and he never once used tier two armour."
+        }
+      ]
+    },
+    {
+      "name": "Corrupted Gauntlet preparation",
+      "kind": "mechanic",
+      "claims": [
+        {
+          "t": 150,
+          "kind": "requirement",
+          "text": "To fight Corrupted Hunllef you need two potions (two vials filled with water, 20 shards ground down, and two herbs), a set of tier one armour, two tier three weapons and a full inventory of fish."
+        },
+        {
+          "t": 240,
+          "kind": "stat",
+          "text": "Gnomonkey's total prep list of two tier three weapons, a full inventory of fish, two potions and full tier one armour requires 320 shards, or 340 shards if you do not get the staff upgrade and have to make the other two weapons."
+        },
+        {
+          "t": 182,
+          "kind": "stat",
+          "text": "A full set of tier one armour lowers Corrupted Hunllef's max hit to 13, and only a full set counts; a partial set leaves his max hit unchanged."
+        },
+        {
+          "t": 212,
+          "kind": "requirement",
+          "text": "You need two tier three weapons because Hunllef's protection prayer switches to the style of the weapon you are using after six hits, like demonics."
+        },
+        {
+          "t": 271,
+          "kind": "method",
+          "text": "To make a weapon you need a certain amount of shards and a weapon frame, which only monsters drop; in a room with three monsters at least one is guaranteed to drop a frame."
+        },
+        {
+          "t": 354,
+          "kind": "method",
+          "text": "Gnomonkey's step one of prep: as soon as you have a weapon frame make a tier one staff (20 shards) and two vials (10 shards each), 40 shards total, because early staff tiers are better than other weapons."
+        },
+        {
+          "t": 386,
+          "kind": "tip",
+          "text": "With a total of about 120 shards (as he first says) before you return with a weapon frame, you can make the staff tier two."
+        },
+        {
+          "t": 396,
+          "kind": "method",
+          "text": "Tier three weapons need a special material dropped by a demi boss, and demi bosses only spawn in the three edge rooms outside; you need to find two, kill them, and come back to make the tier three weapons."
+        },
+        {
+          "t": 478,
+          "kind": "stat",
+          "text": "A set of tier one armour needs three of each resource (wool, ore and bark), as each armour piece takes one of each."
+        },
+        {
+          "t": 523,
+          "kind": "tip",
+          "text": "Gnomonkey leaves some fishing spots near the spawn, drops fish in the starting room and comes back later to grab them."
+        },
+        {
+          "t": 543,
+          "kind": "tip",
+          "text": "You can fill vials from the fishing pots, which is usually faster, and Gnomonkey advises not to open the side rooms from the edge, as it can hit you like 50."
+        },
+        {
+          "t": 448,
+          "kind": "tip",
+          "text": "Gnomonkey says you can carry in an Avenge and potentially prayer regeneration potions to the lobby, though the potion is probably not worth using."
+        },
+        {
+          "t": 1215,
+          "kind": "tip",
+          "text": "Gnomonkey says you can harvest nodes and attack things at the same time to save time, and to make a teleport crystal at the bowl before a second trip."
+        },
+        {
+          "t": 633,
+          "kind": "stat",
+          "text": "Gnomonkey's first example prep for tier one armour and a full inventory of fish left him with three minutes remaining of the seven and a half."
+        },
+        {
+          "t": 1262,
+          "kind": "stat",
+          "text": "Gnomonkey's second example prep took about five minutes even without finding demi bosses quickly."
+        }
+      ]
+    },
+    {
+      "name": "Corrupted Hunllef",
+      "kind": "boss",
+      "claims": [
+        {
+          "t": 56,
+          "kind": "stat",
+          "text": "Gnomonkey says Corrupted Hunllef has a thousand HP."
+        },
+        {
+          "t": 152,
+          "kind": "tip",
+          "text": "Gnomonkey says Corrupted Hunllef will obliterate you without armour, and that killing him without armour is a combat achievement."
+        },
+        {
+          "t": 683,
+          "kind": "method",
+          "text": "Corrupted Hunllef starts with a ranged attack and switches attack style every four attacks (with ranged first then mage); at the same time every six attacks you do changes his prayer to the style of the weapon you used, so you use the style he is not praying against."
+        },
+        {
+          "t": 718,
+          "kind": "method",
+          "text": "Hunllef does an animation where he jumps up and stomps down, which means he is changing attack styles."
+        },
+        {
+          "t": 718,
+          "kind": "method",
+          "text": "Hunllef spawns tornadoes that follow you and hurt you every tick you stand on them: two at the start, then three, then four as his health gets lower."
+        },
+        {
+          "t": 746,
+          "kind": "method",
+          "text": "Hunllef lights up a chunk of tiles pale red that turns yellow, and standing on yellow tiles hurts you."
+        },
+        {
+          "t": 770,
+          "kind": "method",
+          "text": "When Hunllef mages you there is a chance of a pink attack that turns your protection prayer off, so you must turn it back on; if you stand under him he stomps you for around 800 damage but you can tick eat it."
+        },
+        {
+          "t": 777,
+          "kind": "tip",
+          "text": "Gnomonkey says to drag Hunllef away from the edge because the yellow tiles near the edge give you little room to work with."
+        },
+        {
+          "t": 808,
+          "kind": "tip",
+          "text": "Gnomonkey's rule of thumb for learning: only eat food when tornadoes are active, because your APM is highest then and you cannot attack anyway, so you spam eat without losing game ticks."
+        },
+        {
+          "t": 1370,
+          "kind": "tip",
+          "text": "Gnomonkey says keeping your health low during the fight lets you spam food when the tornadoes come out, and that high health makes it easy to lose ticks; the biggest thing people mess up is running around instead of damaging the boss."
+        },
+        {
+          "t": 952,
+          "kind": "tip",
+          "text": "Gnomonkey says you can run over yellow tiles and over tornadoes if you time it right."
+        },
+        {
+          "t": 1646,
+          "kind": "tip",
+          "text": "Gnomonkey says to swap weapons while you eat fish, and to look for Hunllef's animation to swap prayer."
+        },
+        {
+          "t": 1969,
+          "kind": "tip",
+          "text": "Gnomonkey says you can tick eat Hunllef's hits by eating as the attack comes out from far away, since the hit can only hit your remaining health, and you can also redempt off hits since his max hit is 13."
+        },
+        {
+          "t": 1613,
+          "kind": "tip",
+          "text": "Gnomonkey says that if you play perfectly around eight fish is all you ever need, including redempting off hits and tick eating attacks."
+        },
+        {
+          "t": 952,
+          "kind": "record",
+          "text": "Gnomonkey's first Corrupted Gauntlet kill in the video had a Hunllef kill time of about 3:30, which he calls roughly average, and a later kill took about three minutes."
+        },
+        {
+          "t": 1707,
+          "kind": "tip",
+          "text": "Gnomonkey says as you improve you should bring less food each time and track how many fish you end kills with, rather than a full inventory every time."
+        }
+      ]
+    },
+    {
+      "name": "Opinion: Tier two armour in Corrupted Gauntlet",
+      "kind": "opinion",
+      "claims": [
+        {
+          "t": 980,
+          "kind": "opinion",
+          "text": "Gnomonkey says tier two armour makes Hunllef and the tornadoes max lower, but it takes seven of each resource instead of three and more shards, so the prep takes a lot longer."
+        },
+        {
+          "t": 1011,
+          "kind": "opinion",
+          "text": "Gnomonkey says learning prep with tier two armour teaches you a worse prep method that is hard to ditch later, and a full inventory of fish with tier one armour is plenty."
+        },
+        {
+          "t": 1050,
+          "kind": "opinion",
+          "text": "Gnomonkey likens tier two armour to a crutch, like bringing Justiciar to the Inferno, and says it slows your KC by about two minutes every time and is hard to get rid of."
+        },
+        {
+          "t": 1050,
+          "kind": "opinion",
+          "text": "Gnomonkey says if you die with a full inventory of fish and tier one armour you would probably have died with tier two armour too, and that you will die many times when learning and that is okay."
+        },
+        {
+          "t": 1765,
+          "kind": "opinion",
+          "text": "Gnomonkey says a full inventory of fish already gives plenty of room for error, so there is no need to stack tier two armour on top."
+        },
+        {
+          "t": 0,
+          "kind": "opinion",
+          "text": "In the description Gnomonkey says he does not recommend learning tier two to three prep unless you are a hardcore ironman, and that tier one is not as hard as people make it out to be."
+        }
+      ]
+    },
+    {
+      "name": "Corrupted Gauntlet weapons",
+      "kind": "item",
+      "claims": [
+        {
+          "t": 1242,
+          "kind": "opinion",
+          "text": "Gnomonkey says the crystal halberd is the highest max-hit weapon and does the most DPS of any of the tier three weapons by a little bit, but is harder to use because it has a one-time range outside and you cannot spam it while running."
+        },
+        {
+          "t": 1245,
+          "kind": "opinion",
+          "text": "Gnomonkey says all three tier three weapons (staff, bow, halberd) are almost equal damage and the halberd requires more skill."
+        },
+        {
+          "t": 1550,
+          "kind": "tip",
+          "text": "Gnomonkey says ironmen should try to get Rigor and Augury before the Corrupted Gauntlet because they are locked behind the Chambers of Xeric, and that Piety with the halberd is great, and that you do not need a Bow of Faerdhinen that early."
+        }
+      ]
+    }
+  ]
+}

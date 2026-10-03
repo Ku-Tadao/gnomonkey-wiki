@@ -1,0 +1,658 @@
+{
+ "id": "h6LxupiygPA",
+ "title": "IRONMAN Inferno Teaching Stream (OSRS)",
+ "date": "2024-01-17",
+ "type": "guide",
+ "summary": "A live Inferno teaching stream with an ironman-friendly budget setup built around a Staff of the dead. Gnomonkey plays through the waves explaining corner trapping, safe spots, one-tick alternating against blobs, phantom barrages for healing, pillar stack solves and the fights against Jad, triple Jad and Zuk, stressing that the Zuk fight is a DPS race.",
+ "outline": [
+  {
+   "t": 0,
+   "text": "Gear setup and introduction (Staff of the dead, manual casting, Lightbearer)"
+  },
+  {
+   "t": 113,
+   "text": "Corner trapping and safe spots"
+  },
+  {
+   "t": 223,
+   "text": "Handling blobs and healing off them (one-tick alternating, phantom barrage)"
+  },
+  {
+   "t": 536,
+   "text": "Melee management and digging"
+  },
+  {
+   "t": 885,
+   "text": "Ranger positioning and flicking"
+  },
+  {
+   "t": 1034,
+   "text": "Pillar stack solving and wave priorities"
+  },
+  {
+   "t": 1515,
+   "text": "First mage and leech mechanics (mages respawning mobs)"
+  },
+  {
+   "t": 1857,
+   "text": "Sustaining health and prayer"
+  },
+  {
+   "t": 2151,
+   "text": "Managing tough wave spawns"
+  },
+  {
+   "t": 2333,
+   "text": "Late wave strategies and pillars (waves 56 to 65)"
+  },
+  {
+   "t": 2776,
+   "text": "Dealing with worst-case spawns, running through a mage"
+  },
+  {
+   "t": 3051,
+   "text": "Final waves, splash off-tick and boss preparation"
+  },
+  {
+   "t": 3318,
+   "text": "Jad and healer lure"
+  },
+  {
+   "t": 3365,
+   "text": "Triple Jad"
+  },
+  {
+   "t": 3528,
+   "text": "Zuk fight: DPS race, healer tag timing and learner-run commentary"
+  }
+ ],
+ "topics": [
+  {
+   "name": "Inferno",
+   "kind": "activity",
+   "claims": [
+    {
+     "t": 0,
+     "kind": "method",
+     "text": "Gnomonkey runs a budget Inferno teaching stream with an ironman-friendly setup: a Staff of the dead, devout boots or Pegasian boots, full crystal, Anguish, Bow of Faerdhinen and Lightbearer."
+    },
+    {
+     "t": 112,
+     "kind": "tip",
+     "text": "In the Inferno, every single wave Gnomonkey starts on one specific tile because it blocks the most spawns."
+    },
+    {
+     "t": 444,
+     "kind": "tip",
+     "text": "Early on in an Inferno run, Gnomonkey recommends getting a little greedy and going for the nibblers whenever possible, because the early waves are easy to deal with."
+    },
+    {
+     "t": 1090,
+     "kind": "tip",
+     "text": "Gnomonkey says to start every Inferno wave at 99 health; if you start a wave below 99 health the reason is bad planning, not misplay."
+    },
+    {
+     "t": 973,
+     "kind": "tip",
+     "text": "In the Inferno, a nibbler on the north pillar is bad and killing it is a much higher priority than nibblers on the west or south pillars; the healthier the north pillar is kept the better, since it means fewer nibs to kill on a bad wave later."
+    },
+    {
+     "t": 2367,
+     "kind": "stat",
+     "text": "Gnomonkey says the Inferno pillars start at 255 health, and that the north pillar needs to last through wave 65, where a double phantom is worth roughly 80 health."
+    },
+    {
+     "t": 2095,
+     "kind": "tip",
+     "text": "Gnomonkey says he has heard Addy recommend losing the south pillar by wave 50 as a speedrun strategy, because having nibblers go up there wastes time."
+    },
+    {
+     "t": 2066,
+     "kind": "tip",
+     "text": "From wave 50 onward Gnomonkey starts every wave with Augury prayer on, because a ranger can read you on any given wave and they hit hard."
+    },
+    {
+     "t": 1938,
+     "kind": "tip",
+     "text": "Gnomonkey calls wave 48 the very first hard wave of the Inferno and so uses brew to be at 99 health before starting it."
+    },
+    {
+     "t": 3319,
+     "kind": "tip",
+     "text": "Gnomonkey suggests logging out before single Jad, triple Jad and Zuk; once you click the logout button it pauses the wave after you kill it, and you only have to click it once."
+    },
+    {
+     "t": 3019,
+     "kind": "opinion",
+     "text": "Gnomonkey says an off-task spawn on wave 45 made one worst-case spawn he calls up there with the worst waves you can get, noting wave 64 is completely free in comparison and that no first-cape player would survive that spawn."
+    },
+    {
+     "t": 3081,
+     "kind": "opinion",
+     "text": "Gnomonkey recommends the We Do Raids Inferno guide, which he says has gifs of every single pillar solve."
+    },
+    {
+     "t": 0,
+     "kind": "tip",
+     "text": "The description advises players to bring plenty of runes and potions and not to worry about using everything, since you spent them intending to use them; Gnomonkey also used dragon darts while 'noodling' on the healers and says to use the best supplies you can."
+    }
+   ]
+  },
+  {
+   "name": "Inferno gear setup",
+   "kind": "item",
+   "claims": [
+    {
+     "t": 0,
+     "kind": "stat",
+     "text": "Gnomonkey says the Staff of the dead gives a 15% damage bonus, the same as the Nightmare staff or the Kodai wand, with no difference between these weapons; its one downside is that it cannot auto-cast."
+    },
+    {
+     "t": 1177,
+     "kind": "opinion",
+     "text": "Gnomonkey says any magic weapon with the 15% damage bonus is S tier and the best option by far; the Staff of the dead is S minus because it has no auto-cast, which he says you don't really need."
+    },
+    {
+     "t": 1211,
+     "kind": "stat",
+     "text": "Gnomonkey says nibblers have 15 magic and negative 20 magic defence, so splash is not a concern, but accuracy is roughly 96% regardless; what matters is damage bonus and the chance to one-shot them."
+    },
+    {
+     "t": 1177,
+     "kind": "opinion",
+     "text": "Gnomonkey says the Master wand has no bonus damage and is a really terrible option, adding that he does not know why everyone always brings it."
+    },
+    {
+     "t": 0,
+     "kind": "tip",
+     "text": "The description says if you cannot get a 15% magic weapon, the next best option is any of the ancient sceptres, though it is far worse."
+    },
+    {
+     "t": 0,
+     "kind": "opinion",
+     "text": "Gnomonkey says Virtus is best in slot for the Inferno and to use it if you have it, with Zaryte vambraces being better than the typical gloves if owned."
+    },
+    {
+     "t": 57,
+     "kind": "opinion",
+     "text": "Gnomonkey prefers Lightbearer for the Inferno because it gives extra Toxic blowpipe specs, and with an Eldritch nightmare staff it gives more prayer than a Ring of the gods; without the Eldritch staff he says it is about equal to the Ring of the gods."
+    },
+    {
+     "t": 84,
+     "kind": "trivia",
+     "text": "Gnomonkey says he used the Ring of the gods for his first cape only because Lightbearer did not exist at that time."
+    },
+    {
+     "t": 84,
+     "kind": "opinion",
+     "text": "Gnomonkey says the extra blowpipe spec damage from Lightbearer is also good on Zuk, and that he thinks it beats anything else, even the Venator ring; he adds that Lightbearer is overrated everywhere in the game except the Inferno."
+    },
+    {
+     "t": 0,
+     "kind": "tip",
+     "text": "The description says Devout boots, Pegasian boots and snakeskin boots all work; Lightbearer, Ring of the gods and Suffering are all fairly similar, with Lightbearer typically best and cheapest; Ahrim's works fine and Virtus or Ancestral pieces are upgrades."
+    },
+    {
+     "t": 1753,
+     "kind": "opinion",
+     "text": "Gnomonkey says Eldritch nightmare staff is triply better than the Kodai wand."
+    }
+   ]
+  },
+  {
+   "name": "Manual casting",
+   "kind": "mechanic",
+   "claims": [
+    {
+     "t": 26,
+     "kind": "tip",
+     "text": "Gnomonkey says you should be manually casting at all times in the Inferno, because with auto-cast you lose a tick every single time, which is a bad habit."
+    },
+    {
+     "t": 26,
+     "kind": "tip",
+     "text": "Gnomonkey notes that if you are drained below 94 magic for Ice Barrage and then attack something, you drop your auto-cast and run towards the target, which can be bad; manual casting prevents that."
+    }
+   ]
+  },
+  {
+   "name": "Corner trapping",
+   "kind": "mechanic",
+   "claims": [
+    {
+     "t": 112,
+     "kind": "method",
+     "text": "Gnomonkey explains that a monster's southwest tile is its 'brain' (this can be shown with NPC indicators): whenever the southwest tile can see you but the rest of the monster is stuck, it is safe-spotted."
+    },
+    {
+     "t": 144,
+     "kind": "method",
+     "text": "A corner trap in the Inferno is when a monster is right up on the corner of a safe spot and has to move east or west towards you before it can move north or south; if it is trying to go east into a pillar it is stuck."
+    },
+    {
+     "t": 170,
+     "kind": "tip",
+     "text": "Bats have a short range, so you can safe spot them from one tile behind the pillar."
+    },
+    {
+     "t": 623,
+     "kind": "tip",
+     "text": "Against a melee, the lines on the sides of the pillar work as corner trap tiles, three tiles on each side, and you can attack the melee freely from them."
+    },
+    {
+     "t": 796,
+     "kind": "tip",
+     "text": "Gnomonkey says the motion of casting at nibblers from one tile then moving to a certain tile corner traps any mob in a certain position, and is almost always the correct plan; any time he sees something there, he clicks to that tile without thinking."
+    }
+   ]
+  },
+  {
+   "name": "Jal-Ak",
+   "kind": "other",
+   "claims": [
+    {
+     "t": 235,
+     "kind": "opinion",
+     "text": "Gnomonkey calls Jal-Ak (blobs) the bane of every first-cape player's existence, the hardest thing you will deal with, though easy once you are good at the Inferno."
+    },
+    {
+     "t": 235,
+     "kind": "method",
+     "text": "Blobs read your active prayer and then use the opposite style against you, so you need to get them to read you on one prayer and then swap to the other."
+    },
+    {
+     "t": 264,
+     "kind": "stat",
+     "text": "Blobs have a six tick attack speed: every three ticks they read you and the next three ticks they attack."
+    },
+    {
+     "t": 293,
+     "kind": "method",
+     "text": "One-tick alternating prayers against a blob (alternating every tick after it reads you) means it never hits you; it can hit you once when you set it up, a 50-50 if unlucky, and after that it is 100% consistent."
+    },
+    {
+     "t": 324,
+     "kind": "tip",
+     "text": "One-tick alternating against blobs works from anywhere in the entire arena, not just behind a pillar."
+    },
+    {
+     "t": 324,
+     "kind": "stat",
+     "text": "Gnomonkey says each blob is worth about 40 HP, so you can get a ton of health back off them."
+    },
+    {
+     "t": 357,
+     "kind": "method",
+     "text": "When a blob is killed it releases bloblets; Gnomonkey says to pray mage against bloblets if nothing else is in play, because those hit you the hardest."
+    },
+    {
+     "t": 1031,
+     "kind": "tip",
+     "text": "Gnomonkey says to almost always leave the blob for last, because it gives so much health and you never know if you'll mess up a flick and take a 40."
+    },
+    {
+     "t": 3081,
+     "kind": "opinion",
+     "text": "Gnomonkey says he does not like killing blobs first and rarely does so, calling one spawn where both blobs are beside the mage a very rare solve."
+    }
+   ]
+  },
+  {
+   "name": "Phantom barrage",
+   "kind": "mechanic",
+   "claims": [
+    {
+     "t": 357,
+     "kind": "method",
+     "text": "A phantom barrage is when you manually cast at a monster eight tiles or further away and cast at its corpse, which gives you the health it would have hit."
+    },
+    {
+     "t": 385,
+     "kind": "tip",
+     "text": "Gnomonkey also uses phantom barrage on nibblers to confirm he has killed them all, and notes it works on blobs, nibblers and rangers."
+    },
+    {
+     "t": 413,
+     "kind": "tip",
+     "text": "If a blob is in a position where you cannot normally phantom it, you can stand at a position and wait a tick so the mage blocks two monsters, letting you run out and phantom off it; he says he almost never sees first-cape players do this."
+    },
+    {
+     "t": 796,
+     "kind": "tip",
+     "text": "Gnomonkey says nibblers have the least magic defence of any mob, so phantoming far-away nibblers can give a lot of health too."
+    },
+    {
+     "t": 2573,
+     "kind": "tip",
+     "text": "Gnomonkey notes rangers have a pretty low magic level, so you can use them to get health back, and that barrage accuracy is checked for each monster, with chinchompas being unique in that it is rolled off the target."
+    }
+   ]
+  },
+  {
+   "name": "Jal-ImKot",
+   "kind": "other",
+   "claims": [
+    {
+     "t": 529,
+     "kind": "opinion",
+     "text": "Gnomonkey calls Jal-ImKot (melee monsters) probably the second bane of the first cape, saying blob in combination with melee kills people the most."
+    },
+    {
+     "t": 529,
+     "kind": "method",
+     "text": "Melee monsters dig to you after 50 game ticks, and after digging they take eight ticks to start attacking you, so make sure your prayer is up."
+    },
+    {
+     "t": 558,
+     "kind": "method",
+     "text": "If a melee monster hits you, tanking it resets its dig timer, so as long as it keeps hitting you it will not dig."
+    },
+    {
+     "t": 623,
+     "kind": "tip",
+     "text": "Gnomonkey recommends using blowpipe specs on melee monsters in a bad spot, since blowpipe specs not only give health back but are more accurate."
+    },
+    {
+     "t": 889,
+     "kind": "tip",
+     "text": "Gnomonkey says not to freeze melee monsters, because they have a fairly high magic level and so a high chance to splash; it is almost always better to spam blowpipe specs and kill them."
+    },
+    {
+     "t": 1451,
+     "kind": "tip",
+     "text": "Gnomonkey does not like healing off melee monsters because the chance of splashing on them is really high."
+    },
+    {
+     "t": 830,
+     "kind": "tip",
+     "text": "Gnomonkey warns that something being dead does not mean it cannot get an extra attack off, so don't assume you are safe just because they are disappearing."
+    }
+   ]
+  },
+  {
+   "name": "Jal-Xil",
+   "kind": "other",
+   "claims": [
+    {
+     "t": 889,
+     "kind": "tip",
+     "text": "To flick a Jal-Xil (ranger), flick your ranged prayer on as soon as it does its animation and comes to a full standing position; Gnomonkey calls knowing the exact tick it is calculated essential for pillar stacks later."
+    },
+    {
+     "t": 889,
+     "kind": "opinion",
+     "text": "Gnomonkey says the Toxic blowpipe is better than a magic weapon against rangers since they have less defence than the melee monsters."
+    },
+    {
+     "t": 1269,
+     "kind": "stat",
+     "text": "Gnomonkey says in the Inferno melee monsters max 19 when a ranger punches you, so being forced to be close to a ranger is not a big deal."
+    },
+    {
+     "t": 1360,
+     "kind": "opinion",
+     "text": "Gnomonkey calls two-tick flicking really good for speedruns and mobility but a lot harder than it looks to pull off, and says first-cape players should not bother."
+    }
+   ]
+  },
+  {
+   "name": "Jal-Zek",
+   "kind": "other",
+   "claims": [
+    {
+     "t": 1508,
+     "kind": "stat",
+     "text": "In the Inferno a mage's max hit is 70, compared to 46 for a ranger and 49 for a melee, and the mage's hit is roughly two times more accurate than the ranger's hit, so it is more dangerous."
+    },
+    {
+     "t": 1561,
+     "kind": "tip",
+     "text": "Gnomonkey says to almost always kill the mage first because when a mage respawns a mob it goes right behind the mage, which creates a pillar stack for yourself if it is a blob or ranger."
+    },
+    {
+     "t": 1595,
+     "kind": "method",
+     "text": "A mage takes eight ticks to respawn something, perfectly lining up with its four tick cycle, and respawning does not change its cycle."
+    },
+    {
+     "t": 1873,
+     "kind": "tip",
+     "text": "Gnomonkey prefers killing a melee over a blob while the mage is still up, because it respawning a melee is less annoying than it respawning a blob; a mage can only respawn one enemy a single time."
+    },
+    {
+     "t": 1595,
+     "kind": "tip",
+     "text": "Gnomonkey says that if you appear to be splashing on nibblers you are probably not splashing, you just roll a zero after passing accuracy, and it is rare to splash on a nibbler."
+    },
+    {
+     "t": 3295,
+     "kind": "tip",
+     "text": "With two mages that can respawn each other, Gnomonkey says to get both low and finish them together, and not to stand next to the pillar when killing the last mage as it hurts the player for half their current HP when the pillar collapses."
+    }
+   ]
+  },
+  {
+   "name": "Jal-MejRah",
+   "kind": "other",
+   "claims": [
+    {
+     "t": 652,
+     "kind": "method",
+     "text": "Bats can drain your run energy and drain your stats when they hit you, which can be a problem if it drains your magic level."
+    },
+    {
+     "t": 1561,
+     "kind": "tip",
+     "text": "Gnomonkey says to always kill a bat that is on you since they hit really hard, drain your stats and run energy, and he has seen people die to a couple of bats on them."
+    },
+    {
+     "t": 2546,
+     "kind": "method",
+     "text": "Bats can heal off you and boost their stats when they hit you, so there are times a shot that would kill them lets them heal and survive."
+    }
+   ]
+  },
+  {
+   "name": "Jal-Nib",
+   "kind": "other",
+   "claims": [
+    {
+     "t": 170,
+     "kind": "tip",
+     "text": "Typically nibblers get one cast and then you solve the wave, going back to the nibblers once it is solved."
+    },
+    {
+     "t": 2133,
+     "kind": "tip",
+     "text": "Gnomonkey says you can also blood barrage nibblers to heal if you start a wave with lower health."
+    },
+    {
+     "t": 1090,
+     "kind": "tip",
+     "text": "Gnomonkey says nibblers can be hit from a certain safe spot, and that magic is ideal because it is more likely to kill them, though Bow of Faerdhinen also works."
+    }
+   ]
+  },
+  {
+   "name": "Pillar stacks (Inferno)",
+   "kind": "mechanic",
+   "claims": [
+    {
+     "t": 1118,
+     "kind": "method",
+     "text": "To solve a pillar stack, watch for the ranger to start its animation, pray ranged, then alternate prayers; this is why knowing the ranger's exact timing and how to lazy flick it matters."
+    },
+    {
+     "t": 2129,
+     "kind": "method",
+     "text": "On a pillar stack on the southwest side, the thing in the back hits first: you move two tiles out so the ranger reads you then the mage; pray ranged, step out, pray mage, click the mage, and alternate off the range animation."
+    },
+    {
+     "t": 2282,
+     "kind": "stat",
+     "text": "Gnomonkey notes that when two monsters are both on a four-tick cycle one tick apart you can alternate, and it just works as math; with two ticks apart you must two-tick instead."
+    },
+    {
+     "t": 2253,
+     "kind": "tip",
+     "text": "Gnomonkey says one-tick flicking does not always work with two different mobs, though it always works with a blob."
+    },
+    {
+     "t": 2901,
+     "kind": "tip",
+     "text": "In a bad spawn Gnomonkey says you can run through a mage, and that you are almost always fine, since the alternative can be taking a lot of damage from everything; he calls this crazy tech no one ever does."
+    },
+    {
+     "t": 3081,
+     "kind": "method",
+     "text": "On one bad ranger-blob-melee spawn Gnomonkey says to corner trap the mage, rotate the pillar to a certain side, kill the melee as fast as possible while flicking, then pray ranged and alternate with the ranger, which pulls the melee out of the equation."
+    },
+    {
+     "t": 1360,
+     "kind": "tip",
+     "text": "On first cape, Gnomonkey says to camp ranged prayer until you kill the bat and then start shooting something, looking for the ranger animation to start alternating."
+    }
+   ]
+  },
+  {
+   "name": "Splashing off-tick",
+   "kind": "mechanic",
+   "claims": [
+    {
+     "t": 3165,
+     "kind": "method",
+     "text": "When you splash on a monster, it delays that monster's next attack by two ticks, so you can splash off-tick to fix a bad cycle."
+    },
+    {
+     "t": 3229,
+     "kind": "stat",
+     "text": "Gnomonkey says the game treats a splash like a melee attack that makes the target flinch, and a flinch adds half of the monster's attack cooldown to its delay; for a four-tick monster that is two ticks."
+    },
+    {
+     "t": 3229,
+     "kind": "tip",
+     "text": "Gnomonkey says this does not work if a mage has respawned something in the wave, and that first-cape players never do it; a pre-ranged then mage prayer is the alternative."
+    }
+   ]
+  },
+  {
+   "name": "Inferno supplies and prayer",
+   "kind": "mechanic",
+   "claims": [
+    {
+     "t": 2488,
+     "kind": "tip",
+     "text": "Gnomonkey says two prayer restores on Zuk is infinite prayer, so you can camp Rigour and a protection prayer the entire time, and you don't need that much for Zuk even if you flick a little."
+    },
+    {
+     "t": 3473,
+     "kind": "tip",
+     "text": "Gnomonkey says that once he has unlimited prayer for Zuk the amount of prayer he uses is irrelevant to him, other than clicking restore."
+    },
+    {
+     "t": 3534,
+     "kind": "tip",
+     "text": "Gnomonkey thinks it is worth bringing a divine ranging potion for Zuk to keep your ranged level at max the entire time, since Zuk drains about four levels."
+    }
+   ]
+  },
+  {
+   "name": "JalTok-Jad",
+   "kind": "boss",
+   "claims": [
+    {
+     "t": 3295,
+     "kind": "method",
+     "text": "For the Inferno Jad, Gnomonkey says to stand on a certain tile where, once Jad sends healers, you can step in to block them almost always, and that he thinks first-cape players should do this too."
+    },
+    {
+     "t": 3323,
+     "kind": "method",
+     "text": "To lure Jad's healers when they spawn badly, pray melee and run back and forth catching its prayer, wait for the next attack and run through; keep praying melee because the healers can kill a player who stops."
+    },
+    {
+     "t": 3410,
+     "kind": "tip",
+     "text": "If the healers are not in melee range they do not heal Jad, so Gnomonkey can stand where they cannot reach him."
+    },
+    {
+     "t": 3504,
+     "kind": "trivia",
+     "text": "Gnomonkey says Jad is the highest defence monster in the entire game as far as he knows."
+    },
+    {
+     "t": 3319,
+     "kind": "tip",
+     "text": "Gnomonkey says to full brew, restore and re-divine after killing Jad, because now is the best time to heal before the healers."
+    }
+   ]
+  },
+  {
+   "name": "Triple Jad",
+   "kind": "boss",
+   "claims": [
+    {
+     "t": 3351,
+     "kind": "method",
+     "text": "Gnomonkey stands at a specific triple Jad pillar tile and has already potted divine; he says you can overbrew to 115 if it is your first time at triples, since he believes they max 113 and so can't kill you."
+    },
+    {
+     "t": 3378,
+     "kind": "tip",
+     "text": "Gnomonkey says if you miss a prayer swap on a Jad hit you can tick-eat (a brew) to survive, and that triples are actually much easier than waves 62 or 63."
+    },
+    {
+     "t": 3473,
+     "kind": "tip",
+     "text": "Gnomonkey prefers standing on the side of Jad that makes the healer tag a lot easier, and that it is ideal because more often than not it gives the highest chance of the healers being blocked."
+    }
+   ]
+  },
+  {
+   "name": "TzKal-Zuk",
+   "kind": "boss",
+   "claims": [
+    {
+     "t": 3534,
+     "kind": "opinion",
+     "text": "Gnomonkey says the Zuk fight is a DPS race: shoot the boss at every possible opportunity, don't lose ticks, and do not play safe behind the shield."
+    },
+    {
+     "t": 3534,
+     "kind": "tip",
+     "text": "Gnomonkey says you can turn on Rigour early and right-click Zuk when the camera transitions to attack, to get one extra hit."
+    },
+    {
+     "t": 3568,
+     "kind": "tip",
+     "text": "He suggests shuffling your inventory beforehand because all you use is the blowpipe and Bow of Faerdhinen for the whole fight, and notes Zuk has lower defence and magic level than Jad."
+    },
+    {
+     "t": 3633,
+     "kind": "stat",
+     "text": "Gnomonkey says you shoot Zuk down to 600 health, because that is when the set timer pauses, and the timer stays paused while Zuk is between 600 and 480 health, which is the only part of the fight where time doesn't matter."
+    },
+    {
+     "t": 3783,
+     "kind": "method",
+     "text": "Gnomonkey says the healer send is the one time to wait for the right moment: do not shoot right before tagging, because if you shoot, Zuk will have 800 health, but waiting before tagging the healers left Zuk on 400 health."
+    },
+    {
+     "t": 3931,
+     "kind": "stat",
+     "text": "Gnomonkey says Zuk hits you for more than your max health, and says a learner would brew and still be dead."
+    },
+    {
+     "t": 3991,
+     "kind": "opinion",
+     "text": "Gnomonkey says getting extra sets is not a good time, and that if you just click the boss the set mobs stop spawning; so at Zuk you click the boss and kill it."
+    },
+    {
+     "t": 3961,
+     "kind": "opinion",
+     "text": "Gnomonkey says he disagrees with telling learners to play for a good time instead of a completion."
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,451 @@
+{
+ "id": "E51JMiU2gsk",
+ "title": "I Completed Colosseum WITHOUT Pillars (OSRS)",
+ "date": "2025-12-12",
+ "type": "challenge",
+ "summary": "Gnomonkey completes a Pillarless Colosseum run, where the player must stay within the Sol Heredit fight bounds and never use the arena's pillars or run past visual guard barriers. He explains the tile markers, off-ticking approach, ideal invocations and wave-by-wave strategy, and ranks it as one of the hardest challenges he has done.",
+ "outline": [
+  {
+   "t": 0,
+   "text": "What a Pillarless Colosseum run is and its rules"
+  },
+  {
+   "t": 59,
+   "text": "Explaining the two-tile and three-tile markers and the start tile"
+  },
+  {
+   "t": 151,
+   "text": "Drag tiles and the two ways to off-tick: stepping under or dragging"
+  },
+  {
+   "t": 179,
+   "text": "Ice Barrage setup, gear and reinforcement timing"
+  },
+  {
+   "t": 302,
+   "text": "Ideal and bad invocations for the run"
+  },
+  {
+   "t": 424,
+   "text": "Healing methods and waves 6 and 7"
+  },
+  {
+   "t": 603,
+   "text": "Hardest waves overview and the Minotaur healing problem"
+  },
+  {
+   "t": 749,
+   "text": "Wave 8 and why mage manticores make runs harder"
+  },
+  {
+   "t": 898,
+   "text": "Wave 9 and using all available tools"
+  },
+  {
+   "t": 961,
+   "text": "Wave 10 depends on the manticore type"
+  },
+  {
+   "t": 1236,
+   "text": "Wave 11, the scariest wave"
+  },
+  {
+   "t": 1387,
+   "text": "Difficulty ranking versus other challenges"
+  },
+  {
+   "t": 1448,
+   "text": "Sol Heredit final fight and completion"
+  },
+  {
+   "t": 1628,
+   "text": "Reflection on luck and upcoming streams"
+  }
+ ],
+ "topics": [
+  {
+   "name": "Pillarless Colosseum",
+   "kind": "challenge",
+   "claims": [
+    {
+     "t": 0,
+     "kind": "method",
+     "text": "Pillarless Colosseum is run using a Creator Kit entry made by Gnomonkey's friend Sax that places the guards from the Sol Heredit fight around the arena as visual barriers; the player can run past them in game but they mark where you must not go."
+    },
+    {
+     "t": 29,
+     "kind": "requirement",
+     "text": "To qualify, a Pillarless Colosseum run must stay within the bounds of where you would fight Sol Heredit at the end; running past the guards or accidentally using a pillar invalidates the run."
+    },
+    {
+     "t": 29,
+     "kind": "tip",
+     "text": "Gnomonkey says many runs fail by accidentally running past the guards or accidentally safe spotting on a pillar, and that if he ran past he planned to ring set."
+    },
+    {
+     "t": 59,
+     "kind": "opinion",
+     "text": "Gnomonkey thinks Jagex could easily add the pillarless barricades to the game as an optional toggle challenge, for example via the NPC at the front."
+    },
+    {
+     "t": 1387,
+     "kind": "opinion",
+     "text": "Gnomonkey says Pillarless Colosseum is magnitudes harder than a Pillarless Inferno and one of the hardest challenges in the game, though not as hard as solo Hard Mode Tombs of Amascut."
+    },
+    {
+     "t": 927,
+     "kind": "opinion",
+     "text": "Gnomonkey says Pillarless Colosseum has a lot of RNG in the spawns, whereas a Pillarless Inferno is nearly the same every run."
+    },
+    {
+     "t": 1415,
+     "kind": "tip",
+     "text": "Failing to off-tick something outside the arena ends the run, since you can no longer drag an NPC once it is stuck out of reach and cannot kill it."
+    },
+    {
+     "t": 1448,
+     "kind": "stat",
+     "text": "Gnomonkey says the Pillarless Colosseum run took hours and hours of attempts, and he did it off stream because he got frustrated resetting repeatedly and finds challenges easier without chat."
+    },
+    {
+     "t": 1628,
+     "kind": "opinion",
+     "text": "Gnomonkey considers his successful run one of the luckiest of his hours of attempts, with perfect invocation RNG, mostly ranged manticores and fairly doable waves."
+    },
+    {
+     "t": 1655,
+     "kind": "event",
+     "text": "Gnomonkey completed the Pillarless Colosseum run, done for Subtember according to the description."
+    },
+    {
+     "t": 815,
+     "kind": "opinion",
+     "text": "Gnomonkey says the best part of the run is flicking many NPCs at once while taking no damage, and the worst part is the invocations, which make him not want to do it again."
+    }
+   ]
+  },
+  {
+   "name": "Off-ticking",
+   "kind": "mechanic",
+   "claims": [
+    {
+     "t": 59,
+     "kind": "method",
+     "text": "In Pillarless Colosseum the two-tile marker is where you stand so that, when reinforcements spawn with a default ranged manticore, the melee NPC (Minotaur or Jaguar) walks up and off-ticks perfectly with the manticore's melee orb."
+    },
+    {
+     "t": 92,
+     "kind": "method",
+     "text": "The three-tile marker is used when you need to step under a manticore to off-tick it, giving an extra tick while the reinforcement walks up so the melee orb lines up again."
+    },
+    {
+     "t": 125,
+     "kind": "tip",
+     "text": "The start tile is the best possible because it pushes a bunch of nearby spawns away."
+    },
+    {
+     "t": 151,
+     "kind": "method",
+     "text": "The grey-looking lines on the side of the arena are drag tiles for far spawns such as javelins and manticores; running to the right of the line with proper timing drags the NPC to off-tick it."
+    },
+    {
+     "t": 179,
+     "kind": "method",
+     "text": "There are two ways to off-tick in the run: stepping under mages, or dragging NPCs when you cannot step under them such as a distant javelin."
+    },
+    {
+     "t": 869,
+     "kind": "tip",
+     "text": "The two and three markers are lines rather than single tiles, so you can stand anywhere on the line to off-tick, and you can move if a javelin toss lands on your tile."
+    },
+    {
+     "t": 843,
+     "kind": "tip",
+     "text": "Besides off-ticking and flicking prayers, the player must move occasionally to dodge javelin spear tosses, which makes the run more awkward."
+    },
+    {
+     "t": 542,
+     "kind": "tip",
+     "text": "Walking an NPC does not stop it attacking, so you can walk a serpent shaman back in range without ruining your off-tick."
+    },
+    {
+     "t": 245,
+     "kind": "method",
+     "text": "Gnomonkey defaulted to off-ticking a spawn with a ranged manticore, and if the mage spawn turns out to be a different type you must manually off-tick it and then kill it."
+    }
+   ]
+  },
+  {
+   "name": "Reinforcements",
+   "kind": "mechanic",
+   "claims": [
+    {
+     "t": 245,
+     "kind": "opinion",
+     "text": "Gnomonkey says preparing for reinforcements is the hardest part of Pillarless Colosseum because getting on the correct tick is awkward and you must be setting up for them the whole time."
+    },
+    {
+     "t": 271,
+     "kind": "stat",
+     "text": "Reinforcements pop in at the 40 second mark every time."
+    },
+    {
+     "t": 271,
+     "kind": "method",
+     "text": "Gnomonkey describes an example where from the two-tile the shaman lines up, he off-ticks a manticore one extra tick because it is a mage spawn, then steps back to three so the javelin also lines up on the melee orb."
+    },
+    {
+     "t": 1262,
+     "kind": "tip",
+     "text": "At the start of wave 11 Gnomonkey tanks two hits to learn which way the manticore will be off-ticking, then drags the shockwave on its attack cooldown to off-tick it."
+    }
+   ]
+  },
+  {
+   "name": "Colosseum invocations",
+   "kind": "mechanic",
+   "claims": [
+    {
+     "t": 302,
+     "kind": "opinion",
+     "text": "Gnomonkey says Solar Flare is especially good in Pillarless Colosseum because you are not on the pillars, so it does nothing except against Sol Heredit."
+    },
+    {
+     "t": 302,
+     "kind": "opinion",
+     "text": "Gnomonkey says Myopia is fine in Pillarless Colosseum because shadow spells can reach everything even outside the arena boundary."
+    },
+    {
+     "t": 333,
+     "kind": "opinion",
+     "text": "Gnomonkey says the really bad invocations for this run are Relentless and Frailty, with Frailty more runnable than Relentless because the player tanks so much."
+    },
+    {
+     "t": 333,
+     "kind": "tip",
+     "text": "Gnomonkey looked for Solar Flare 3 and Myopia 3, the good invocations from a normal run."
+    },
+    {
+     "t": 365,
+     "kind": "opinion",
+     "text": "Gnomonkey says Doom 1 is okay but Doom 2 is a little scary when setting things up."
+    },
+    {
+     "t": 398,
+     "kind": "opinion",
+     "text": "Gnomonkey says Red Flag is normally the end of the world but is only a bit worse here because with no pillars to hide behind the Minotaur walking through everything is mostly fine."
+    },
+    {
+     "t": 452,
+     "kind": "tip",
+     "text": "Gnomonkey avoids Manti Mayhem and Relentless and took Blasphemy in this run."
+    },
+    {
+     "t": 1058,
+     "kind": "opinion",
+     "text": "Gnomonkey notes Red Flag is scary on wave 10 because it stops him hiding the Minotaur behind another NPC, forcing him to off-tick it."
+    }
+   ]
+  },
+  {
+   "name": "Minotaur",
+   "kind": "mechanic",
+   "claims": [
+    {
+     "t": 664,
+     "kind": "opinion",
+     "text": "Gnomonkey calls the Minotaur a big problem for the Pillarless Colosseum run."
+    },
+    {
+     "t": 693,
+     "kind": "stat",
+     "text": "If the Minotaur heals, it goes on a 10-tick delay from the instant it heals, like an 8-tick mage respawn delay in the Inferno, making it incredibly hard to off-tick."
+    },
+    {
+     "t": 693,
+     "kind": "tip",
+     "text": "Whenever a Minotaur is present, Gnomonkey kills a low HP target and then stops hitting things so the Minotaur does not heal."
+    },
+    {
+     "t": 927,
+     "kind": "tip",
+     "text": "On wave 9 Gnomonkey swaps to mage and puts the Minotaur behind the javelin so he does not have to deal with it, using all the tools in his tool belt."
+    },
+    {
+     "t": 1118,
+     "kind": "tip",
+     "text": "Wave 10 is the first wave with a Minotaur plus a serpent shaman, so both must be off-ticked while making sure the Minotaur does not heal."
+    }
+   ]
+  },
+  {
+   "name": "Colosseum waves",
+   "kind": "mechanic",
+   "claims": [
+    {
+     "t": 603,
+     "kind": "opinion",
+     "text": "Gnomonkey says wave 6 is one of the toughest waves and wave 8 and wave 11 are by far the two hardest in Pillarless Colosseum."
+    },
+    {
+     "t": 603,
+     "kind": "stat",
+     "text": "Wave 8 has a shockwave, a javelin and two manticores hitting you off spawn, so it is very scary."
+    },
+    {
+     "t": 635,
+     "kind": "opinion",
+     "text": "Gnomonkey says runs with all mage manticores are much harder, and wave 6 and later waves are easier when the manticore is ranged."
+    },
+    {
+     "t": 781,
+     "kind": "tip",
+     "text": "On wave 8, if the manticore were mage Gnomonkey would have had to step under the manticore and also off-tick the mage, off-ticking two NPCs instead of one."
+    },
+    {
+     "t": 898,
+     "kind": "opinion",
+     "text": "Gnomonkey says wave 9 is probably one of the easiest waves, ideally with a mage manticore."
+    },
+    {
+     "t": 961,
+     "kind": "opinion",
+     "text": "Gnomonkey says wave 10 is either one of the easiest or scariest late waves depending on whether the manticore is ranged or mage."
+    },
+    {
+     "t": 961,
+     "kind": "stat",
+     "text": "On wave 10 a ranged manticore means no off-ticks at all, while a mage manticore means off-ticking two javelins."
+    },
+    {
+     "t": 1090,
+     "kind": "event",
+     "text": "Gnomonkey says he has died on many wave 10s that started with a mage manticore."
+    },
+    {
+     "t": 1236,
+     "kind": "opinion",
+     "text": "Gnomonkey argues wave 11 is the scariest wave, with many ways to approach it and many ways for it to go wrong."
+    },
+    {
+     "t": 1295,
+     "kind": "tip",
+     "text": "On wave 11 Gnomonkey went to the bottom corner of the arena so the shockwave went around the manticore instead of getting stuck behind it, which he says could have killed him."
+    },
+    {
+     "t": 1295,
+     "kind": "event",
+     "text": "On wave 11 Gnomonkey flicked two manticores, a javelin, a shockwave and a serpent shaman all at the same time."
+    }
+   ]
+  },
+  {
+   "name": "Run setup",
+   "kind": "other",
+   "claims": [
+    {
+     "t": 212,
+     "kind": "method",
+     "text": "Gnomonkey uses Ice Barrage as the main mage switch because enough magic bonus guarantees landing a freeze on all the war band, giving him time to think and deal with spawns."
+    },
+    {
+     "t": 212,
+     "kind": "method",
+     "text": "Gnomonkey brought an Ellie (Elidinis' Ward or similar) to tank at the start and a Venator bow to pick off the Frem mage after freezing."
+    },
+    {
+     "t": 179,
+     "kind": "tip",
+     "text": "Anything outside the arena cannot be dragged into melee range so it must be dealt with using mage."
+    },
+    {
+     "t": 424,
+     "kind": "method",
+     "text": "Gnomonkey heals mainly with Blood Fury or Blood Barrage, and also brings a Saradomin godsword spec to restore health."
+    },
+    {
+     "t": 424,
+     "kind": "opinion",
+     "text": "Gnomonkey says supplies are not the issue in the run; the issue is not getting stacked out by 50 hits at a time."
+    },
+    {
+     "t": 508,
+     "kind": "tip",
+     "text": "Missing a flick is extremely dangerous because the player is in robes much of the time with basically no ranged defence; a Jaguar hit can one-shot, and a double javelin hit can do roughly 90 damage."
+    },
+    {
+     "t": 898,
+     "kind": "tip",
+     "text": "Gnomonkey tries to get 99 health every wave because a lot of hits are taken off spawn."
+    },
+    {
+     "t": 1024,
+     "kind": "tip",
+     "text": "Gnomonkey notes brews will not save you if you are tanking hits of about 50 every tick."
+    },
+    {
+     "t": 1151,
+     "kind": "tip",
+     "text": "Gnomonkey deals first with things he cannot heal off, mageing NPCs outside the arena and then killing the ones he can drag in, similar to Inferno."
+    },
+    {
+     "t": 1203,
+     "kind": "tip",
+     "text": "Gnomonkey likes picking javelins off early because their javelin toss is annoying, and it is nice to stand still and just flick prayers."
+    },
+    {
+     "t": 1177,
+     "kind": "tip",
+     "text": "Starting a wave without full health is very bad, and Gnomonkey avoids brewing because supplies are limited, saving super combats more than brews."
+    }
+   ]
+  },
+  {
+   "name": "Sol Heredit",
+   "kind": "boss",
+   "claims": [
+    {
+     "t": 1448,
+     "kind": "opinion",
+     "text": "Gnomonkey considers the final fight in a pillarless run a standard, typical Sol Heredit fight that should be nearly free, but he was extremely nervous because the run took hours to complete."
+    },
+    {
+     "t": 1448,
+     "kind": "stat",
+     "text": "Gnomonkey had six brews left for the Sol Heredit fight."
+    },
+    {
+     "t": 1475,
+     "kind": "tip",
+     "text": "Gnomonkey tries to put the puddles in good locations during the Sol Heredit fight."
+    },
+    {
+     "t": 1628,
+     "kind": "tip",
+     "text": "A plugin shows a volatility icon on Sol Heredit."
+    }
+   ]
+  },
+  {
+   "name": "Gnomonkey",
+   "kind": "person",
+   "claims": [
+    {
+     "t": 0,
+     "kind": "trivia",
+     "text": "Gnomonkey credits his friend Sax (Saxerpillar) for showing him Pillarless Colosseum, labbing everything out, and making the creator kit for the arena visuals."
+    },
+    {
+     "t": 1387,
+     "kind": "opinion",
+     "text": "Gnomonkey says the hardest challenge he has done is still solo Hard Mode Tombs of Amascut."
+    },
+    {
+     "t": 1628,
+     "kind": "event",
+     "text": "Gnomonkey plans to attempt a boss challenge another creator did a while back and to run a Christmas event on stream where gifting five subscription packs puts an ornament on a tree."
+    }
+   ]
+  }
+ ]
+}

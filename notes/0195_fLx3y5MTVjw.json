@@ -1,0 +1,87 @@
+{
+ "id": "fLx3y5MTVjw",
+ "title": "MASSIVE UPDATE - Run Energy and Megascales (OSRS)",
+ "date": "2025-01-08",
+ "type": "news-opinion",
+ "summary": "Gnomonkey reacts to the January 2025 update that brought the run energy changes into the full game, nerfed mega-scale boosting at the Chambers of Xeric, and removed the Dharok max-hit bug. He tests Chambers without stamina potions, questions whether Chambers drop rates are too rare compared with Tombs of Amascut, and previews the Royal Titans update.",
+ "outline": [
+  {"t": 0, "text": "Run energy update overview"},
+  {"t": 63, "text": "How the new drain and regen work compared with the beta"},
+  {"t": 129, "text": "Testing Chambers of Xeric without stamina potions"},
+  {"t": 249, "text": "Stamina potions in Theatre of Blood, Inferno, Blast Furnace and questing"},
+  {"t": 367, "text": "Chambers of Xeric mega-scale nerf"},
+  {"t": 433, "text": "Are Chambers drop rates too rare compared to Tombs of Amascut?"},
+  {"t": 612, "text": "Boosting Discord bans and the state of mega scaling"},
+  {"t": 702, "text": "Dharok the Wretched bug fix"},
+  {"t": 800, "text": "Tombs of Amascut water jug fix"},
+  {"t": 836, "text": "Upcoming Royal Titans update"}
+ ],
+ "topics": [
+  {
+   "name": "Run energy",
+   "kind": "mechanic",
+   "claims": [
+    {"t": 0, "kind": "event", "text": "The January 2025 update added the run energy changes from the beta to the full game, improving energy regeneration at lower Agility levels while leaving it unchanged at level 99, and making energy drain more slowly in all scenarios at every weight and Agility level."},
+    {"t": 63, "kind": "stat", "text": "Under the new run energy system, run energy drain is now based on Agility level as well as the regen rate, whereas previously only regen depended on Agility, so Agility levels matter much more."},
+    {"t": 63, "kind": "opinion", "text": "Gnomonkey says the released version is slightly weaker at 99 Agility than the last run energy beta, in which no stamina potions were needed in any PvM, and considers the released balance fairer because stamina now needs only an occasional dose in rare cases."},
+    {"t": 97, "kind": "stat", "text": "Gnomonkey says run energy drains very slowly at low or negative weight, such as when wearing Graceful, so skilling or other activities at zero weight use basically no energy."},
+    {"t": 129, "kind": "tip", "text": "Gnomonkey says that in the run energy beta he completed an entire Hallowed Sepulchre run from floor one to five without touching an obelisk and still had energy left, and he assumes it is the same on release without having tested it."},
+    {"t": 129, "kind": "record", "text": "Gnomonkey tested two Chambers of Xeric runs in max gear (one with Scythe, one 4:1) at the weight cap and found it is still possible to finish a raid without stamina potions: on the Scythe run he would have been just about at zero energy at Olm's head phase, and on the 4:1 run he finished with about 15 run energy left."},
+    {"t": 189, "kind": "tip", "text": "Gnomonkey notes that Torva and Masori are heavy so you are at the weight cap (64) in a raid regardless, that he was 99 Agility, and that lighter setups like Bandos and a Bow of Faerdhinen weigh around 50."},
+    {"t": 249, "kind": "tip", "text": "Gnomonkey expects that in Chambers of Xeric at less than 99 Agility or without perfect play you will still use maybe one or two stamina doses at worst, mostly for Olm, but will get through all basic rooms including Vespula without one."},
+    {"t": 249, "kind": "opinion", "text": "Gnomonkey says stamina potions are effectively gone from Theatre of Blood, such as at the Nylocas and Verzik pot chairs, with stamina only worth buying to store in the bank, and that you will probably not need stamina in PvM at all anymore."},
+    {"t": 278, "kind": "tip", "text": "Gnomonkey says he has not tested the Inferno but expects a regular Inferno needs no stamina for Zuk and a speed run might need one stamina instead of the usual two, while Blast Furnace will still use stamina since you carry heavy ores, but less than before."},
+    {"t": 332, "kind": "stat", "text": "Right after the update, Gnomonkey got through the entire Monkey Madness tunnels from 100 energy to zero and made it to Zooknock at 60 Agility on his backup hardcore, which he calls night and day for questing."},
+    {"t": 0, "kind": "opinion", "text": "Gnomonkey considers the run energy update a massive quality-of-life buff to PvM, skilling and questing that he had waited months for, and says it improves ironmen a lot."}
+   ]
+  },
+  {
+   "name": "Chambers of Xeric",
+   "kind": "raid",
+   "claims": [
+    {"t": 372, "kind": "event", "text": "The January 2025 update changed Chambers of Xeric so players who leave a raid in progress are still eligible to roll unique items but the reward is discarded instead, so leaving no longer transfers loot chances to the remaining participants, ending mega-scale boosting."},
+    {"t": 402, "kind": "opinion", "text": "Gnomonkey considers the Chambers of Xeric mega-scale nerf one that needed to happen and says he had no plans to mega scale on his hardcore because it felt gross."},
+    {"t": 433, "kind": "opinion", "text": "Gnomonkey argues people mega scaled Chambers because its purples are very rare and it is much slower to complete than the other two raids, especially Tombs of Amascut."},
+    {"t": 433, "kind": "opinion", "text": "Gnomonkey says he has always said Tombs of Amascut drops are too common and need a nerf, but this update made him reconsider and he now thinks Chambers should be brought more in line, since Tombs gives purples at rates like one in nine and about one in four in his solo 500 raids."},
+    {"t": 489, "kind": "opinion", "text": "Gnomonkey says going dry on a Twisted bow is the scariest dry streak in the game since it is essential and can't be skipped, and that dry streaks of five to seven times the rate make people quit."},
+    {"t": 530, "kind": "record", "text": "Gnomonkey says he has hundreds of regular Chambers and about 600 Challenge Mode raids, around 1300 raids in total on his main, with about three mega rares and no Twisted bow."},
+    {"t": 580, "kind": "opinion", "text": "Gnomonkey suggests Jagex could move some Chambers of Xeric drops to new slayer monsters or bosses, as it did previously with Dragon harpoon and Dragon throwing knives, since Chambers has always had a bloated drop table with so many purples."},
+    {"t": 702, "kind": "opinion", "text": "Gnomonkey says the mega-scale nerf is fair, since you can still Bandos godsword down mystics and chin stacked shamans, but you can no longer do everything on a different account and hand it off, and he expects mega scaling to still be the best way to get purples with some gear."}
+   ]
+  },
+  {
+   "name": "Boosting",
+   "kind": "other",
+   "claims": [
+    {"t": 612, "kind": "event", "text": "Gnomonkey says Jagex recently took out over 50 boosting Discords including major ones such as Tri-Smoke, and thinks the approach to stopping boosting has become more aggressive lately, in line with the Chambers mega-scale nerf."},
+    {"t": 643, "kind": "opinion", "text": "Gnomonkey says the nerf mainly killed the early boost method in which low-combat ironmen used a Sanguinesti staff as soon as they hit the Magic level, and that mega scaling is not completely dead."}
+   ]
+  },
+  {
+   "name": "Dharok the Wretched",
+   "kind": "boss",
+   "claims": [
+    {"t": 702, "kind": "event", "text": "The January 2025 update's bug fixes said Dharok the Wretched no longer deals his max hit on every successful attack after his health has been reduced, a confirmed bug that Gnomonkey says has been in the game since release."},
+    {"t": 728, "kind": "trivia", "text": "Gnomonkey says footage from the first year of the game on YouTube shows someone with no protection prayers being hit by Dharok for max five times in a row, showing the bug existed for years."},
+    {"t": 728, "kind": "opinion", "text": "Gnomonkey jokes he took the loss on Dharok to protect hardcore ironmen, and says a player in his Discord may have tested and confirmed the bug after he discussed it."}
+   ]
+  },
+  {
+   "name": "Tombs of Amascut",
+   "kind": "raid",
+   "claims": [
+    {"t": 800, "kind": "event", "text": "The January 2025 update fixed the water jugs in Tombs of Amascut so they can be hit with magic, which Gnomonkey notes as one of the roughly fifty Tombs of Amascut flaws being fixed."}
+   ]
+  },
+  {
+   "name": "Update: Royal Titans",
+   "kind": "update",
+   "claims": [
+    {"t": 836, "kind": "event", "text": "As of January 2025 the next slated update was the Royal Titans, whose drops Gnomonkey expects to be very good for ironmen and mid-game accounts."},
+    {"t": 836, "kind": "stat", "text": "The Royal Titans update includes a six-tick staff that Gnomonkey describes as a slightly worse Harmonised-staff-style weapon for elementally weak targets, strong against Zulrah-type, dragon and Barrows monsters."},
+    {"t": 850, "kind": "stat", "text": "The Royal Titans update also included upgrades to Eagle Eye and Mystic Might that give extra damage and accuracy."},
+    {"t": 850, "kind": "opinion", "text": "Gnomonkey says the Royal Titans update will be pretty big, especially for mid-game accounts and ironmen, and that he will be going for the staff."}
+   ]
+  }
+ ]
+}

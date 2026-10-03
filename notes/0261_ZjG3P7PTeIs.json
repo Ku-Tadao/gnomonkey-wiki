@@ -1,0 +1,742 @@
+{
+  "id": "ZjG3P7PTeIs",
+  "title": "How to Make Combat Achievements in OSRS Better",
+  "date": "2025-09-11",
+  "type": "news-opinion",
+  "summary": "A long opinion video, made after the Doom of Mokhaiotl combat achievements were released to a mixed reception, in which Gnomonkey argues that Combat Achievements should be fun, engaging and skill-based rather than grindy, RNG-based or 'pat on the back' tasks. He walks through examples of bad and good CAs, says Jagex must pick which type of player the system is for, proposes cutting hundreds of CAs and adding instanced arena challenges, and suggests moving gameplay-affecting CA rewards elsewhere and replacing them with cosmetics and bossing rewards.",
+  "outline": [
+    {
+      "t": 0,
+      "text": "Intro: Doom of Mokhaiotl CAs, mixed reception, why he is not talking about difficulty"
+    },
+    {
+      "t": 87,
+      "text": "CAs are not only designed for Grandmasters; completion percentages"
+    },
+    {
+      "t": 226,
+      "text": "What makes a bad CA, and a list of bad examples"
+    },
+    {
+      "t": 627,
+      "text": "Good CAs: Woox walk, Garador, Royal Titans, Tormented Demons, speedruns, restriction CAs"
+    },
+    {
+      "t": 1233,
+      "text": "Two types of CA players and Jagex needing to pick a side"
+    },
+    {
+      "t": 1429,
+      "text": "The formulaic CA release pattern and Delve 16 as a model CA"
+    },
+    {
+      "t": 1706,
+      "text": "Removing participation-award, KC and grind CAs; cutting down 625 CAs"
+    },
+    {
+      "t": 2090,
+      "text": "Proposed CA ideas such as max-uptime Bloat"
+    },
+    {
+      "t": 2190,
+      "text": "Arena challenges: instanced practice challenges that create CAs"
+    },
+    {
+      "t": 2478,
+      "text": "Reward rework: moving gameplay rewards to quests, diaries, Slayer"
+    },
+    {
+      "t": 2712,
+      "text": "The lucky penny rant"
+    },
+    {
+      "t": 2896,
+      "text": "Thrall duration and unlimited Inferno tasks rewards"
+    },
+    {
+      "t": 3019,
+      "text": "A better reward system: cosmetics, kits, animations, teleports by tier"
+    },
+    {
+      "t": 3382,
+      "text": "Wrap up: a spring-cleaning style CA clean-up and QoL updates"
+    }
+  ],
+  "topics": [
+    {
+      "name": "Combat Achievements",
+      "kind": "mechanic",
+      "claims": [
+        {
+          "t": 56,
+          "kind": "stat",
+          "text": "In the Jagex panel on Combat Achievements shown in the video, 0.13% of the player base had completed Grandmaster, 0.59% had completed Master and 2.01% had completed Elite."
+        },
+        {
+          "t": 87,
+          "kind": "opinion",
+          "text": "Gnomonkey argues that Jagex is not designing CAs only for Grandmasters: everyone gets some CAs, so everyone interacts with the system, and he does not think the expectation is for every player to complete everything."
+        },
+        {
+          "t": 117,
+          "kind": "opinion",
+          "text": "Gnomonkey says Jagex responded defensively by defending the difficulty of CAs, but he thinks the real issue is the quality, how interesting and engaging CAs are and whether you have to learn the boss well to complete them."
+        },
+        {
+          "t": 146,
+          "kind": "opinion",
+          "text": "Gnomonkey says that every time CAs release, players expect a bingo of cookie-cutter CAs, such as another Salamander CA and an annoying RNG-heavy Grandmaster time."
+        },
+        {
+          "t": 1429,
+          "kind": "opinion",
+          "text": "Gnomonkey says nearly every content release follows a formula: every boss gets a Grandmaster time or speedrun, a perfection CA and a kill-count CA (the Doom of Mokhaiotl being the exception on kill count)."
+        },
+        {
+          "t": 1949,
+          "kind": "stat",
+          "text": "Gnomonkey says there are 625 Combat Achievements in the game, and that there were about 375 at release."
+        },
+        {
+          "t": 2007,
+          "kind": "opinion",
+          "text": "Gnomonkey notes that because CAs give points towards reward tiers, with harder CAs worth more points, Jagex could cut a lot of CAs without much trouble, though some players' point distributions would be skewed."
+        },
+        {
+          "t": 1734,
+          "kind": "opinion",
+          "text": "Gnomonkey says that as a Grandmaster he finds about 95% of CAs a slog that does not engage him, and that most Grandmasters he has talked to say it was a grind rather than difficult."
+        }
+      ]
+    },
+    {
+      "name": "Opinion: Combat Achievements should be fun",
+      "kind": "opinion",
+      "claims": [
+        {
+          "t": 174,
+          "kind": "opinion",
+          "text": "Gnomonkey says he does not care whether Combat Achievements are hard or easy; what he cares about is whether they are fun, engaging and interesting, and he says there are easy CAs that are good and hard CAs that are good."
+        },
+        {
+          "t": 230,
+          "kind": "opinion",
+          "text": "Gnomonkey says a bad CA is one that is meaningless (could fit as a regular achievement diary task), depends heavily on RNG, or depends on other players' skill rather than your own."
+        },
+        {
+          "t": 1223,
+          "kind": "opinion",
+          "text": "Gnomonkey says there are two types of Combat Achievement players: the hyper-elite sweaty player (the 0.13% Grandmasters) and the casual player who picks up CAs as they go for points and rewards, and Jagex cannot decide which it prefers."
+        },
+        {
+          "t": 1285,
+          "kind": "opinion",
+          "text": "Gnomonkey says if Jagex designs CAs for the hyper-elite, players who cannot get them should accept the tasks are not made for them, but that Jagex cannot include tasks where doing it right fails instantly."
+        },
+        {
+          "t": 1346,
+          "kind": "opinion",
+          "text": "Gnomonkey says if CAs are meant to be a pat on the back for little dev time, they should not include hyper-challenging tasks; if they are meant to be skill-based, Jagex should put in the time to make them engaging."
+        },
+        {
+          "t": 1374,
+          "kind": "opinion",
+          "text": "Gnomonkey considers himself the skill-based, 'sweaty' type of player and says he would like Jagex to take a stance that CAs are skill-based, fair, fun and engaging."
+        },
+        {
+          "t": 1493,
+          "kind": "opinion",
+          "text": "Gnomonkey says he guesses Jagex has very limited development time for CAs, so instead of adding about fifteen CAs per release including many pat-on-the-back tasks, he would like fewer CAs with more time devoted to each."
+        },
+        {
+          "t": 1614,
+          "kind": "opinion",
+          "text": "Gnomonkey says he likes it when skill lets you get around a gear requirement, and calls a CA that gets you to 'take the training wheels off' the peak of what Combat Achievements can be."
+        },
+        {
+          "t": 1793,
+          "kind": "opinion",
+          "text": "Gnomonkey says tasks like entering Bloat from the wrong side, killing a fire giant or killing a Slayer monster are participation awards that belong in regular achievement diaries, and says they should be removed from Combat Achievements."
+        },
+        {
+          "t": 1885,
+          "kind": "opinion",
+          "text": "Gnomonkey says CAs should not add to the grind of getting drops, whether through RNG, kill counts or very long tasks; he says PvM itself does not feel like a grind and CAs are not collection logs or achievement diaries."
+        },
+        {
+          "t": 1915,
+          "kind": "opinion",
+          "text": "Gnomonkey says Combat Achievements should reward stepping outside your comfort zone and approaching a boss in a completely different, open-ended way that leaves you a better player."
+        },
+        {
+          "t": 1949,
+          "kind": "opinion",
+          "text": "Gnomonkey says no one can make 625 CAs interesting and engaging, so the bad ones have to be cut down, which he compares to the Slayer and summer sweep-up style QoL clean-up."
+        },
+        {
+          "t": 2036,
+          "kind": "opinion",
+          "text": "Gnomonkey says all kill-count CAs should have gone when Jagex reduced their requirements; he is fine with a single kill count at a boss, such as a first raid completion, but not with tasks like 50 or 150 raid completions, such as the one in Tombs of Amascut."
+        },
+        {
+          "t": 2090,
+          "kind": "opinion",
+          "text": "Gnomonkey says he wants Jagex to pick a lane, whether CAs are a bonus for doing bosses (clogger style) or a push for skill, and says he would be a little sad if they went the clogger route but they would at least be consistent."
+        },
+        {
+          "t": 1853,
+          "kind": "opinion",
+          "text": "Gnomonkey says restriction CAs should not be so restrictive that they become unfun; he says a melee-only CA for Doom of Mokhaiotl sounds fun but a one-handed melee-only requirement is too claustrophobic."
+        },
+        {
+          "t": 2117,
+          "kind": "tip",
+          "text": "Gnomonkey suggests a CA for getting the maximum number of hits on Bloat in Theatre of Blood (he thinks six with a scythe), reaching him on the first possible tick and then getting out of the way to tank the stomp."
+        },
+        {
+          "t": 2143,
+          "kind": "opinion",
+          "text": "Gnomonkey says perfection CAs do not work well because what Jagex considers perfect differs from what players do, as players sometimes tank mechanics for vengeance or extra damage; he prefers single achievements for doing something very well."
+        },
+        {
+          "t": 3382,
+          "kind": "opinion",
+          "text": "Gnomonkey says he wants Jagex to clean up Combat Achievements like a summer sweep-up (adding some meat to the CAs, removing bad ones) and wants the discussion to move on from difficulty to how to make CAs more fun."
+        },
+        {
+          "t": 3446,
+          "kind": "opinion",
+          "text": "Gnomonkey says he does not think his opinion is the be-all and end-all and that being a Grandmaster does not mean he gets to decide how all achievements should be made."
+        }
+      ]
+    },
+    {
+      "name": "Opinion: Bad Combat Achievements",
+      "kind": "opinion",
+      "claims": [
+        {
+          "t": 261,
+          "kind": "opinion",
+          "text": "Gnomonkey calls the Theatre of Blood 'They won't expect this' CA, which is entering the Pestilent Bloat room from the opposite side (an elite CA worth four points), meaningless because it only requires walking around the arena and entering from a different door."
+        },
+        {
+          "t": 291,
+          "kind": "opinion",
+          "text": "Gnomonkey says he hates the Theatre of Blood Perfect Theatre CA, which many consider the hardest CA, since one team member's mistake fails the whole raid and the CA encourages poor gameplay such as not tanking Bloat stomps or flies and killing Nylocas slowly without Chinning or Barraging."
+        },
+        {
+          "t": 385,
+          "kind": "opinion",
+          "text": "Gnomonkey calls the Doom of Mokhaiotl 'always wearing a shield' CA effectively a no-two-handed-weapon CA that costs only about 5% DPS in melee, with no depth."
+        },
+        {
+          "t": 419,
+          "kind": "opinion",
+          "text": "Gnomonkey considers the Tempoross CA that requires subduing Tempoross while wearing any variation of the Angler outfit the worst CA in the game, because it only tests whether you got the outfit from Fishing Trawler, and says it would fit better as a Desert diary task."
+        },
+        {
+          "t": 450,
+          "kind": "opinion",
+          "text": "Gnomonkey says the Commander Zilyana 'Peach Conjurer' CA, which is killing Zilyana 50 times without leaving, takes two to three hours and is unfun purely because of its length."
+        },
+        {
+          "t": 476,
+          "kind": "opinion",
+          "text": "Gnomonkey says the Colosseum 'Reinforcements' CA (defeating Sol Heredit with the Bees II, Quartet and Solar Flare II modifiers active) is badly designed because RNG decides whether those modifiers are ever offered, so a run may be uncompletable and you may need to reset repeatedly, though he likes the challenge itself."
+        },
+        {
+          "t": 509,
+          "kind": "opinion",
+          "text": "Gnomonkey says the Leviathan speed CA is just hoping to hit enough rubies with a crossbow to get the time, and that Redditors who call CAs ruby reset simulators are only right about this one."
+        },
+        {
+          "t": 537,
+          "kind": "opinion",
+          "text": "Gnomonkey says the Phantom Muspah Salamander-only CA is extremely restrictive and just means a very long kill, and that Salamander CAs are what everybody brings up when talking about bad CAs."
+        },
+        {
+          "t": 569,
+          "kind": "opinion",
+          "text": "Gnomonkey says the Nex CA 'should see a doctor' (kill Nex while a player is coughing) means going into a mass and deliberately making everyone cough, which he calls horribly designed."
+        },
+        {
+          "t": 596,
+          "kind": "opinion",
+          "text": "Gnomonkey says the fire giant CA has no Slayer requirement or special mechanics, and is something you would have done in free-to-play in 2007."
+        },
+        {
+          "t": 1136,
+          "kind": "opinion",
+          "text": "Gnomonkey says the Doom of Mokhaiotl 'one-handed melee only' restriction CA is too restrictive to be interesting: melee specs like claws fail it, Voidwaker fails because it is a mage-based spec, scythe is out because it is two-handed, and the Dragon warhammer is not good on the boss."
+        }
+      ]
+    },
+    {
+      "name": "Opinion: Good Combat Achievements",
+      "kind": "opinion",
+      "claims": [
+        {
+          "t": 708,
+          "kind": "opinion",
+          "text": "Gnomonkey considers the Garador's defense-matters style CA good: killing Garador two times consecutively in a private instance without taking damage from his bodyguards requires very quick prayer flicks and a unique walk cycle, pushes you out of your comfort zone and makes you a better player."
+        },
+        {
+          "t": 1103,
+          "kind": "opinion",
+          "text": "Gnomonkey considers the Theatre of Blood Mori only CA (no team member equipping a non-Barrows weapon) good because it is open-ended, letting players choose between Barrows sets such as Dharok's for DPS or Guthan's for healing and Ahrim's for mage."
+        },
+        {
+          "t": 1670,
+          "kind": "opinion",
+          "text": "Gnomonkey says the Doom of Mokhaiotl CA to complete Delve 16 is the best CA that Mocha has, because getting that deep requires a different approach than normal kills, whether it is delve 12 or 20, and can be done with cheap gear like a Scorching bow and void with enough skill."
+        },
+        {
+          "t": 1520,
+          "kind": "tip",
+          "text": "Gnomonkey notes that reaching delve 16 can use many different strategies, such as bringing the Eldritch nightmare staff, an Ancient godsword, or a pipe spec that works on earthen nodes, and adding extra spec on shield phases."
+        }
+      ]
+    },
+    {
+      "name": "Vorkath",
+      "kind": "boss",
+      "claims": [
+        {
+          "t": 626,
+          "kind": "opinion",
+          "text": "Gnomonkey considers the Vorkath CA of hitting Vorkath 12 times during the acid special without being hit by rapid fire or the acid pools a good CA because it teaches Woox walking, a more advanced tactic that gives faster kills."
+        },
+        {
+          "t": 655,
+          "kind": "opinion",
+          "text": "Gnomonkey says the Vorkath Woox walk CA is the kind he wishes there were more of, one that teaches an emergent piece of gameplay and rewards you for learning it."
+        }
+      ]
+    },
+    {
+      "name": "Royal Titans",
+      "kind": "boss",
+      "claims": [
+        {
+          "t": 708,
+          "kind": "opinion",
+          "text": "Gnomonkey says the Royal Titans 'Elemental Company'-style CA (kill the Royal Titans without attacking any elementals) is the only CA he found across the easy, medium and hard tiers that he considers good."
+        },
+        {
+          "t": 737,
+          "kind": "opinion",
+          "text": "Gnomonkey says the Royal Titans no-elementals CA encourages lower-level players to leave their comfort zone and find creative ways to deal with the elementals, such as dropping walls on them, since it can be a faster way to kill the boss but more dangerous."
+        },
+        {
+          "t": 771,
+          "kind": "tip",
+          "text": "Gnomonkey notes that the Royal Titans' wave attacks, where they slam their spears repeatedly, kill the elementals of the opposite colour."
+        }
+      ]
+    },
+    {
+      "name": "Tormented Demon",
+      "kind": "boss",
+      "claims": [
+        {
+          "t": 771,
+          "kind": "opinion",
+          "text": "Gnomonkey says the Tormented Demon CAs are quite good, including the 'Three times the thrashing' CA of killing three Tormented Demons within three seconds."
+        },
+        {
+          "t": 771,
+          "kind": "tip",
+          "text": "When three Tormented Demons are tagged together, one fires skulls while the other two off-tick with alternating attacks and still do their triple punish attack, which Gnomonkey says makes it its own mini boss fight."
+        },
+        {
+          "t": 802,
+          "kind": "opinion",
+          "text": "Gnomonkey says the three-Tormented-Demons CA is difficult with a lot of APM, but encourages swapping prayers and movement and makes you a better player."
+        }
+      ]
+    },
+    {
+      "name": "Corrupted Gauntlet",
+      "kind": "activity",
+      "claims": [
+        {
+          "t": 802,
+          "kind": "record",
+          "text": "The Corrupted Gauntlet speedrunner CA requires completing a Corrupted Gauntlet in less than 6 minutes 30 seconds."
+        },
+        {
+          "t": 831,
+          "kind": "opinion",
+          "text": "Gnomonkey says many people think the Corrupted Gauntlet speedrun CA is very RNG-dependent, but he says the skill ceiling is high enough that the sub-6:30 time is nearly consistent for top speedrunners."
+        },
+        {
+          "t": 865,
+          "kind": "tip",
+          "text": "Gnomonkey says the Corrupted Gauntlet speedrun rewards tech such as fishing while hitting things during prep, a proper route to the boss, and using redemption with prayer potions to need less prep at the boss."
+        }
+      ]
+    },
+    {
+      "name": "TzHaar Fight Cave",
+      "kind": "activity",
+      "claims": [
+        {
+          "t": 865,
+          "kind": "opinion",
+          "text": "Gnomonkey likes the 'Jad, no time for a drink' CA, which requires completing the Fight Caves without losing any prayer points, because planning for the next wave and avoiding bats forces you to think about spawns while one-tick or lazy flicking."
+        },
+        {
+          "t": 926,
+          "kind": "opinion",
+          "text": "Gnomonkey calls the Fight Caves no-prayer-loss CA the hardest prayer task in the game and says it makes you very good at prayer flicking and handling spawns, as in the Inferno."
+        },
+        {
+          "t": 898,
+          "kind": "tip",
+          "text": "In the Fight Caves no-prayer-point-loss CA, if a bat ever touches you, you lose the CA."
+        }
+      ]
+    },
+    {
+      "name": "TzHaar-Ket-Rak's Challenges",
+      "kind": "activity",
+      "claims": [
+        {
+          "t": 926,
+          "kind": "opinion",
+          "text": "Gnomonkey says the Six Jad CA of completing the fifth and sixth challenge back to back without failing is a good perfection challenge because it is short and fair, and is in most people's top five or ten hardest CAs."
+        },
+        {
+          "t": 2987,
+          "kind": "opinion",
+          "text": "Gnomonkey would move the unlimited Inferno tasks reward from Combat Achievements to completing Six Jad, because Six Jad already requires an Inferno cape and suits Inferno speedrunning."
+        },
+        {
+          "t": 2176,
+          "kind": "opinion",
+          "text": "Gnomonkey says Six Jad is the only instanced arena-style challenge CA of its kind and wants more things like it, noting it was a community fun event before Jagex put it in the game as a CA."
+        }
+      ]
+    },
+    {
+      "name": "Yama",
+      "kind": "boss",
+      "claims": [
+        {
+          "t": 952,
+          "kind": "record",
+          "text": "The Yama speedrunner CA requires an average time under 234 over your last four kills; Gnomonkey says it is good because there is so much tech to make the fight faster, such as vengeing everything and healing with butterflies in duo."
+        },
+        {
+          "t": 982,
+          "kind": "opinion",
+          "text": "Gnomonkey says Yama's fight lets you venge nearly everything, including the planet attack, which he contrasts with the Doom of Mokhaiotl where you cannot venge anything, such as its lasers."
+        },
+        {
+          "t": 1015,
+          "kind": "tip",
+          "text": "In the Yama speedrun CA you play in a duo, and Gnomonkey says butterflies heal both players when next to each other, allowing rapid mutual healing."
+        }
+      ]
+    },
+    {
+      "name": "Chambers of Xeric",
+      "kind": "raid",
+      "claims": [
+        {
+          "t": 1015,
+          "kind": "record",
+          "text": "The Chambers of Xeric Challenge Mode solo time CA requires a time of 38:30 (transcribed as 3830) and gets flak for being too easy."
+        },
+        {
+          "t": 1042,
+          "kind": "opinion",
+          "text": "Gnomonkey says the Chambers of Xeric Challenge Mode solo time CA was very tough when it was made, is now very realistic, and is still fun because you cannot get it by default without knowing the rooms."
+        },
+        {
+          "t": 1074,
+          "kind": "opinion",
+          "text": "Gnomonkey says he does not think Jagex should go back and change the Challenge Mode solo time CA, because it is lenient and lets you pick which parts to learn."
+        }
+      ]
+    },
+    {
+      "name": "Theatre of Blood",
+      "kind": "raid",
+      "claims": [
+        {
+          "t": 320,
+          "kind": "tip",
+          "text": "Gnomonkey notes the Perfect Theatre CA requires the whole team to complete Perfect Maiden, Bloat, Nylocas, Sotetseg, Xarpus and Verzik, and that the meta for it is doing it in a trio because of Xarpus."
+        },
+        {
+          "t": 320,
+          "kind": "opinion",
+          "text": "Gnomonkey says CAs should be based on your own performance, not teammates', and that Perfect Theatre encourages 'servicing' and making things arbitrarily harder."
+        },
+        {
+          "t": 2207,
+          "kind": "tip",
+          "text": "Gnomonkey suggests an arena challenge CA for Theatre of Blood such as doing Verzik phase 3 solo without tanking a melee hit, spawning you directly into the fight at 100% health."
+        }
+      ]
+    },
+    {
+      "name": "Doom of Mokhaiotl",
+      "kind": "boss",
+      "claims": [
+        {
+          "t": 0,
+          "kind": "event",
+          "text": "The Doom of Mokhaiotl (Delve) CAs were released in September 2025 and received a mixed reaction; the Reddit thread on the achievements was heavily downvoted."
+        },
+        {
+          "t": 29,
+          "kind": "event",
+          "text": "Jagex responded to the feedback on the Doom of Mokhaiotl CAs by saying they would look into it."
+        },
+        {
+          "t": 1493,
+          "kind": "stat",
+          "text": "The Doom of Mokhaiotl has a CA for completing Delve 16 and, according to Gnomonkey, no kill-count CA."
+        },
+        {
+          "t": 1853,
+          "kind": "opinion",
+          "text": "Gnomonkey says the Doom of Mokhaiotl Grub Patrol and perfection CAs are okay, but that a one-handed melee only CA is too restrictive."
+        },
+        {
+          "t": 1584,
+          "kind": "tip",
+          "text": "Gnomonkey says you can get deep delves with a Scorching bow and void, which is a cheap setup without a Twisted bow, though harder."
+        },
+        {
+          "t": 1640,
+          "kind": "opinion",
+          "text": "Gnomonkey says the Doom of Mokhaiotl's delve 16 CA does not require a mega-rare like a Twisted bow, though whether it should is a debate."
+        }
+      ]
+    },
+    {
+      "name": "Opinion: Arena challenges for Combat Achievements",
+      "kind": "opinion",
+      "claims": [
+        {
+          "t": 2176,
+          "kind": "opinion",
+          "text": "Gnomonkey proposes instanced arena challenges, like Six Jad, that put you straight into a hard fight (for example a Tombs of Amascut warden at full 1500 health) so you can practise without losing 40 minutes to get back to it, and that give CAs for clearing them."
+        },
+        {
+          "t": 2237,
+          "kind": "opinion",
+          "text": "Gnomonkey says arena challenges would let Jagex remove RNG-heavy CAs, for example the Colosseum Reinforcements CA could spawn you in with the modifiers already active and an option to start with extra invocations."
+        },
+        {
+          "t": 2297,
+          "kind": "opinion",
+          "text": "Gnomonkey says arena challenges would be a better way to practise than simulators, which he hates, and could require a kill count at the boss, an Inferno cape like Six Jad, or a small GP payment to enter."
+        },
+        {
+          "t": 2325,
+          "kind": "opinion",
+          "text": "Gnomonkey suggests reusing Leagues echo bosses as arena-challenge CAs, such as fighting an echo boss in the normal game with normal gear, which he thinks players would love to speedrun."
+        },
+        {
+          "t": 2386,
+          "kind": "opinion",
+          "text": "Gnomonkey suggests a boss-rush arena challenge such as all four Desert Treasure 2 bosses in a row with one inventory and no banking, inspired by Hollow Knight pantheons, which would also create a speedrun category."
+        },
+        {
+          "t": 2446,
+          "kind": "opinion",
+          "text": "Gnomonkey says arena challenges take more dev time but would be engaged with by far more people than just sweats, including players practising, similar to how Theatre of Blood entry mode lets people practise tech."
+        }
+      ]
+    },
+    {
+      "name": "Opinion: Combat Achievement rewards rework",
+      "kind": "opinion",
+      "claims": [
+        {
+          "t": 2476,
+          "kind": "opinion",
+          "text": "Gnomonkey says many CA rewards do not fit bossing, such as pest control points, superior slayer monster chance, bracelet of slaughter recharge chance and clue scroll chance, and that he wants them moved rather than removed."
+        },
+        {
+          "t": 2535,
+          "kind": "opinion",
+          "text": "Gnomonkey argues that rewards like increased clue scroll chance should not come from CAs because people who like clues but not bossing would feel forced to do CAs, and he would tie the clue chance to the newly added scroll box progression reward."
+        },
+        {
+          "t": 2597,
+          "kind": "opinion",
+          "text": "Gnomonkey suggests moving the extra pest control points CA reward to the Falador or Western diary, noting the Western diary gives Elite void and its easy reward is a small chance of two choppies."
+        },
+        {
+          "t": 2625,
+          "kind": "opinion",
+          "text": "Gnomonkey suggests the cannonball capacity reward could come from Giants' Foundry, since that is where the cannonball mould comes from."
+        },
+        {
+          "t": 2625,
+          "kind": "opinion",
+          "text": "Gnomonkey says the Combat Achievement reward he calls warrior skill tokens (as transcribed) is something about 99% of players get no use from by the time they unlock it, and suggests removing it or adding it to the Falador diary."
+        },
+        {
+          "t": 2654,
+          "kind": "opinion",
+          "text": "Gnomonkey would move the cheaper imbues CA reward to a Kandarin diary, saying players will usually have all imbues by the time they unlock it and that nobody gets imbues through Soul Wars."
+        },
+        {
+          "t": 2654,
+          "kind": "opinion",
+          "text": "Gnomonkey would turn the bracelet of slaughter renewal chance into a Slayer unlock or a passive scaling with Slayer level, such as improving at 75 Slayer."
+        },
+        {
+          "t": 2686,
+          "kind": "opinion",
+          "text": "Gnomonkey would make the increased superior spawn chance a Slayer unlock tied to superior kill thresholds, such as a message at 50 kills that the chance has gone up by 5%."
+        },
+        {
+          "t": 2896,
+          "kind": "opinion",
+          "text": "Gnomonkey says thrall duration should not be a Combat Achievement reward because it gives a gameplay benefit needed for meta-level speedruns, as thralls cost prayer points, which adds up in places like the Inferno."
+        },
+        {
+          "t": 2925,
+          "kind": "opinion",
+          "text": "Gnomonkey says he would make the longer thrall duration come from the same quest that removes the need for a Book of the Dead, so everyone gets it after a quest."
+        },
+        {
+          "t": 2957,
+          "kind": "opinion",
+          "text": "Gnomonkey says unlimited Inferno tasks should not need Grandmaster-level CAs because many Inferno speedrunners do not want to do all 625 achievements."
+        },
+        {
+          "t": 3019,
+          "kind": "opinion",
+          "text": "Gnomonkey says CA rewards should only involve bosses or be things that do not affect gameplay, such as cosmetics, animation or spell transmogs, kits on items and non-impactful teleports."
+        },
+        {
+          "t": 3046,
+          "kind": "opinion",
+          "text": "Gnomonkey suggests an easy-tier CA reward of a changed teleport animation or a teleport to the Deranged Archaeologist, which would help early players get the steel ring for Moons."
+        },
+        {
+          "t": 3075,
+          "kind": "opinion",
+          "text": "Gnomonkey says the Barrows prayer drain reward, currently a medium-tier CA reward, should move down to easy because most players will not get it in time for the Barrows grind."
+        },
+        {
+          "t": 3109,
+          "kind": "opinion",
+          "text": "Gnomonkey proposes kit rewards by tier: medium tier kits for the Saradomin cudgel, Dharok's zombie axe and Twinflame staff, and Regular anti-dragon shield, the latter two because dragon tasks and elemental weaknesses are used together."
+        },
+        {
+          "t": 3170,
+          "kind": "opinion",
+          "text": "Gnomonkey proposes hard-tier kits for the Trident of the swamp, Venator bow and Guardian boots, and elite-tier rewards such as a twisted Kodai wand kit and a trimmed Corrupted Gauntlet cape."
+        },
+        {
+          "t": 3256,
+          "kind": "opinion",
+          "text": "Gnomonkey proposes master-tier rewards such as a Nally-like kit that looks like the Sunlight spear, a different thrall animation and a different spell animation."
+        },
+        {
+          "t": 3290,
+          "kind": "opinion",
+          "text": "Gnomonkey proposes a Dinh's bulwark kit where the shield is split into two halves held on the forearms that clink together when blocking, and a Zaryte crossbow kit (which he says is used constantly), as Grandmaster-tier rewards; he says he does not care where the Dinh's kit comes from."
+        },
+        {
+          "t": 3349,
+          "kind": "opinion",
+          "text": "Gnomonkey says the only gameplay changes in his reward list were moving the Barrows prayer drain and adding a teleport to the Archaeologist, and that rewards affecting people outside combat make them feel they are missing out."
+        }
+      ]
+    },
+    {
+      "name": "Lucky penny",
+      "kind": "item",
+      "claims": [
+        {
+          "t": 2712,
+          "kind": "opinion",
+          "text": "Gnomonkey says the Lucky penny, the Master-tier Combat Achievement reward, is one of the five dumbest items Jagex has added, because it must be worn in the ammo slot, which conflicts with using ammo at bosses."
+        },
+        {
+          "t": 2740,
+          "kind": "stat",
+          "text": "Gnomonkey says the Lucky penny has only a 5% chance of saving charges, and works on items such as the Ash sanctifier, Bone crusher, Celestial ring, crystal tools and the Games necklace, but not on the Blood fury."
+        },
+        {
+          "t": 2831,
+          "kind": "opinion",
+          "text": "Gnomonkey says the Lucky penny should only apply to bossing items such as the Scythe of Vitur, Crystal armour, Toxic blowpipe and Blood fury, and its chance should be raised to 10%."
+        },
+        {
+          "t": 2863,
+          "kind": "opinion",
+          "text": "Gnomonkey says the Lucky penny should instead be a Master-tier reward given by an NPC that grants a 10% charge-saving chance rather than needing the ammo slot."
+        }
+      ]
+    },
+    {
+      "name": "Inferno",
+      "kind": "activity",
+      "claims": [
+        {
+          "t": 2896,
+          "kind": "opinion",
+          "text": "Gnomonkey says thrall duration matters in the Inferno because thralls require prayer points, and one extra restore potion there is a big deal."
+        },
+        {
+          "t": 2957,
+          "kind": "opinion",
+          "text": "Gnomonkey says unlimited Inferno tasks currently needing Combat Achievement progress forces Inferno speedrunners who do not want Grandmaster to do all the CAs."
+        }
+      ]
+    },
+    {
+      "name": "Opinion: Quality-of-life updates",
+      "kind": "opinion",
+      "claims": [
+        {
+          "t": 3446,
+          "kind": "opinion",
+          "text": "Gnomonkey says the best content Jagex releases are QoL updates, and that the Chambers of Xeric QoL update is probably his favourite update of all time because it cleaned up the raid and made it more fun."
+        },
+        {
+          "t": 3446,
+          "kind": "opinion",
+          "text": "Gnomonkey says the summer sweep-up and all the Slayer changes were so good, and that Jagex should do the same for Combat Achievements."
+        },
+        {
+          "t": 3478,
+          "kind": "opinion",
+          "text": "Gnomonkey says a CA clean-up would give players like him more to do and push lower-tier PvMers to try new content, and that he mostly wants to see more people doing PvM."
+        }
+      ]
+    },
+    {
+      "name": "Gnomonkey",
+      "kind": "person",
+      "claims": [
+        {
+          "t": 56,
+          "kind": "event",
+          "text": "As of September 2025, Gnomonkey says he is very close to 100,000 YouTube subscribers and that his wife is working on a secret surprise for when he hits that."
+        },
+        {
+          "t": 1374,
+          "kind": "record",
+          "text": "Gnomonkey says he is a Combat Achievements Grandmaster and in the top 1% of the player base."
+        },
+        {
+          "t": 0,
+          "kind": "trivia",
+          "text": "Gnomonkey says he has ranted about Combat Achievements on his streams about eighty different times before making this video."
+        }
+      ]
+    }
+  ]
+}

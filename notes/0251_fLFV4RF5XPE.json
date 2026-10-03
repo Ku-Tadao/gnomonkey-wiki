@@ -1,0 +1,411 @@
+{
+ "id": "fLFV4RF5XPE",
+ "title": "DELVE NEW TECH GUIDE (OSRS) (OUTDATED)",
+ "date": "2025-07-25",
+ "type": "guide",
+ "summary": "A follow-up to the Doom of Mokhaiotl guide covering newly found tech: the car phase being 100% accurate, the melee punish bonus damage, acid generation tied to hit splats, holy water, and the rock block method for avoiding car-phase shockwaves entirely. Gnomonkey also compares Masori and Void, explains why Scythe and Dragon knives are good, and ends with an FAQ on budget and alternative gear. The title marks it as outdated.",
+ "outline": [
+  {
+   "t": 0,
+   "text": "Introduction: new mechanics found since the first Doom of Mokhaiotl guide"
+  },
+  {
+   "t": 33,
+   "text": "Car mode is 100% accurate"
+  },
+  {
+   "t": 64,
+   "text": "Melee punish phase and its bonus damage formula"
+  },
+  {
+   "t": 96,
+   "text": "Acid generation and thrall timing"
+  },
+  {
+   "t": 126,
+   "text": "Orb phase patch"
+  },
+  {
+   "t": 156,
+   "text": "Holy water mechanic"
+  },
+  {
+   "t": 213,
+   "text": "Masori versus Void comparison"
+  },
+  {
+   "t": 343,
+   "text": "Melee punish gear: strength bonus only, Scythe versus Chally, claws"
+  },
+  {
+   "t": 517,
+   "text": "Optimising the punish switch: ferocious gloves or Blood fury"
+  },
+  {
+   "t": 575,
+   "text": "Rock block method: placing rocks and baiting the car"
+  },
+  {
+   "t": 955,
+   "text": "Rock block on cave 8 with two boulders"
+  },
+  {
+   "t": 1105,
+   "text": "Using Dragon knife specs on the car phase and full kill breakdown"
+  },
+  {
+   "t": 1257,
+   "text": "Overkill caveat that destroys the rock"
+  },
+  {
+   "t": 1350,
+   "text": "FAQ: no Twisted bow, demonbane, specs, Iron Man, Serp helm, Bofa"
+  }
+ ],
+ "topics": [
+  {
+   "name": "Doom of Mokhaiotl",
+   "kind": "boss",
+   "claims": [
+    {
+     "t": 0,
+     "kind": "event",
+     "text": "Gnomonkey made this video because a lot of new tech and hidden mechanics had been found for the Doom of Mokhaiotl since his first guide, and says it is not a full breakdown of the fight."
+    },
+    {
+     "t": 1290,
+     "kind": "opinion",
+     "text": "Gnomonkey says he delayed a budget guide for the Doom of Mokhaiotl because the tech was developing so quickly and he wanted the budget guide to hold up long term; he planned to wait a couple of days."
+    },
+    {
+     "t": 1575,
+     "kind": "tip",
+     "text": "Gnomonkey says Gearscape has basically everything for the Doom of Mokhaiotl, including the new gear, boss stats, 100% accuracy and melee punish calculations, so you can check any setup there."
+    },
+    {
+     "t": 750,
+     "kind": "trivia",
+     "text": "The video description says the rock block method was done successfully over 20 times by Gnomonkey, with some failures, and that he was still labbing it out."
+    }
+   ]
+  },
+  {
+   "name": "Doom of Mokhaiotl: car attack",
+   "kind": "mechanic",
+   "claims": [
+    {
+     "t": 0,
+     "kind": "stat",
+     "text": "Gnomonkey says that when the Doom of Mokhaiotl is in car mode you are 100% accurate and cannot miss, similar to a phase of Tormented Demons, and this can be exploited with many weapons."
+    },
+    {
+     "t": 247,
+     "kind": "stat",
+     "text": "Gnomonkey says the shield phase is also 100% accurate, like the car phase."
+    },
+    {
+     "t": 458,
+     "kind": "tip",
+     "text": "Gnomonkey says your damage output immediately after the car spawns decides whether you get past the orb phase, because if you do not do enough damage the boss leaves car phase, starts spawning earthen nodes and you have to deal with the orb."
+    },
+    {
+     "t": 1105,
+     "kind": "tip",
+     "text": "Gnomonkey notes that you could take around 80 damage per Doom of Mokhaiotl car phase if you mess up the shockwave or get hit by the car."
+    }
+   ]
+  },
+  {
+   "name": "Doom of Mokhaiotl: melee punish",
+   "kind": "mechanic",
+   "claims": [
+    {
+     "t": 33,
+     "kind": "method",
+     "text": "Melee punish is when the Doom of Mokhaiotl throws up its ranged/mage prayer shield with the charge meter and you hit it with a weapon to block the attack: you then deal bonus damage in an additional hit splat."
+    },
+    {
+     "t": 64,
+     "kind": "stat",
+     "text": "The Doom of Mokhaiotl melee punish deals bonus damage per hit splat equal to your total strength bonus divided by five, and Gnomonkey says you can hit well over 100 during this phase."
+    },
+    {
+     "t": 343,
+     "kind": "tip",
+     "text": "Piety, combat potions or a Void melee helm do not affect strength bonus, which is the only thing that affects the melee punish bonus damage, so switching to boost the normal swing is not worth it; the goal is always to maximise strength bonus."
+    },
+    {
+     "t": 372,
+     "kind": "stat",
+     "text": "In Gnomonkey's calcs the Scythe of Vitur does about 28 DPS in the melee punish against about 26 for a Chally; the Chally max is 156 and the Scythe max is 115, but the Chally is seven tick, the Scythe is five tick and has three hit splats."
+    },
+    {
+     "t": 401,
+     "kind": "opinion",
+     "text": "Gnomonkey says the Chally spec is not worth using on the melee punish because it spends 30% spec energy on a slow double hit splat, when swinging a Scythe uses no spec energy and the energy is better used on Dragon knives during the car phase."
+    },
+    {
+     "t": 429,
+     "kind": "stat",
+     "text": "Gnomonkey says Gearscape does not show the correct damage for claws at the time, though claws are better than a Scythe; he still prefers spending spec on the car phase rather than the melee punish."
+    },
+    {
+     "t": 458,
+     "kind": "tip",
+     "text": "Gnomonkey advises not wasting spec energy on the Doom of Mokhaiotl melee punish and instead using it on the car phase, unless you are opening with a Zaryte crossbow to leave the initial phase quickly."
+    },
+    {
+     "t": 487,
+     "kind": "opinion",
+     "text": "Gnomonkey considers a large multi-switch (up to six-way) melee punish setup not worth the brew slots, even though it could hit around 180, because the damage only pushes you into the shield phase and does not make the car phase safer; he uses a two-way switch."
+    },
+    {
+     "t": 517,
+     "kind": "method",
+     "text": "For his Doom of Mokhaiotl punish switch Gnomonkey brings either ferocious gloves (14 strength) or a Blood fury; he aims for a total strength bonus ending on a multiple of five (such as 110, 115, 120), and if the gloves leave him short of a threshold (e.g. 114) he brings the Blood fury for the healing."
+    },
+    {
+     "t": 546,
+     "kind": "stat",
+     "text": "The melee punish bonus hit splats do not trigger Blood fury or special effects such as Saradomin godsword or Bandos godsword drains; the bonus damage is only damage to the boss."
+    },
+    {
+     "t": 1409,
+     "kind": "tip",
+     "text": "If you do not have a Scythe, Gnomonkey recommends Scythe-style 'boppers' as vastly better than anything else, with burning claws probably second best for the melee punish."
+    }
+   ]
+  },
+  {
+   "name": "Doom of Mokhaiotl: acid",
+   "kind": "mechanic",
+   "claims": [
+    {
+     "t": 96,
+     "kind": "stat",
+     "text": "The acid the Doom of Mokhaiotl generates is based on the instances of damage you deal, including from thralls; each shot that lands on the boss produces a little spurt of acid."
+    },
+    {
+     "t": 96,
+     "kind": "method",
+     "text": "To reduce acid on the screen Gnomonkey does not summon a thrall for the first 25% of the Doom of Mokhaiotl's health and summons it when the boss throws up its shield, since a thrall roughly doubles the acid generated."
+    },
+    {
+     "t": 183,
+     "kind": "opinion",
+     "text": "Gnomonkey says that late in the Doom of Mokhaiotl fight acid stacks near the boss, you can no longer melee, and there is no way to clear it, which also makes the melee grubs less fair; he has talked to J Mods about it and would like a way to clear acid late."
+    },
+    {
+     "t": 1197,
+     "kind": "tip",
+     "text": "Gnomonkey says that opening with a Zaryte crossbow spec means fewer hit splats and so less acid, and also gets you through the harsh opening bursts of prayer attacks quickly."
+    }
+   ]
+  },
+  {
+   "name": "Doom of Mokhaiotl: holy water",
+   "kind": "mechanic",
+   "claims": [
+    {
+     "t": 156,
+     "kind": "method",
+     "text": "If you kill the Doom of Mokhaiotl while doing the melee punish, it shoots holy water onto random tiles in all directions: holy water that lands in acid clears a 3x3 area and holy water that lands on you heals you."
+    },
+    {
+     "t": 156,
+     "kind": "stat",
+     "text": "Gnomonkey says the holy water mechanic cannot be used after about cave 5 because the Doom of Mokhaiotl never does the melee punish (smite) phase later, so you never finish the boss during it."
+    }
+   ]
+  },
+  {
+   "name": "Doom of Mokhaiotl: slam and stalagmite orb",
+   "kind": "mechanic",
+   "claims": [
+    {
+     "t": 126,
+     "kind": "event",
+     "text": "A minor patch changed the Doom of Mokhaiotl orb phase by giving it an extra tick of protection at the end, so it drops you out of the orb less quickly; Gnomonkey says this makes a big difference and the attack more manageable, though he still finds it brutal."
+    },
+    {
+     "t": 1229,
+     "kind": "opinion",
+     "text": "Gnomonkey says orb phases at the Doom of Mokhaiotl are horrible and murder you, so you want enough DPS in the car phase to avoid them."
+    }
+   ]
+  },
+  {
+   "name": "Doom of Mokhaiotl: rock block method",
+   "kind": "mechanic",
+   "claims": [
+    {
+     "t": 575,
+     "kind": "event",
+     "text": "Gnomonkey and Hedron developed the rock block method, which uses preplaced rocks to block the car-phase shockwaves; the rock tile markers were shared on pastebin."
+    },
+    {
+     "t": 603,
+     "kind": "method",
+     "text": "In the rock block method you deliberately drop rocks at the start of the fight, since the boulders the boss throws land where you stand; after the shield phase, as soon as the car phase starts, you stand on a specific tile to bait the boss behind you."
+    },
+    {
+     "t": 603,
+     "kind": "stat",
+     "text": "In the car phase the Doom of Mokhaiotl's eyeball spawns exactly four tiles behind your character, and the car comes from the boss's dead centre tile, so you can control where the boss goes as well as where the rocks land."
+    },
+    {
+     "t": 636,
+     "kind": "method",
+     "text": "The first placed rock blocks the first shockwave and protects the second placed rock; you stand in line with the first rock until the next eyeball spawns directly on the second rock, then sidestep so the boss ends on top of the rock."
+    },
+    {
+     "t": 664,
+     "kind": "stat",
+     "text": "The Doom of Mokhaiotl's shockwave radiates from its dead centre tile, so if the boss ends dead centre on a rock the rock absorbs the whole shockwave: you take no damage and no other rocks in the arena are destroyed."
+    },
+    {
+     "t": 690,
+     "kind": "opinion",
+     "text": "Gnomonkey says that done properly the rock block method means you will never be hit by a shockwave again and that it is guaranteed safe; he says shockwaves with no rocks left had been taking a lot of his health."
+    },
+    {
+     "t": 718,
+     "kind": "method",
+     "text": "The rock block method uses only four tiles, colour-coded and rotated to each side of the arena; pick the side with the least acid at the start of the cave and use that side's tiles."
+    },
+    {
+     "t": 779,
+     "kind": "tip",
+     "text": "On early caves where the Doom of Mokhaiotl throws only one rock, you may have to wait at about 75% health for a second rock before doing the melee punish; this is the downside on early caves."
+    },
+    {
+     "t": 836,
+     "kind": "method",
+     "text": "After the shield phase, go to the colour-coded bait tile and stand there until the eyeball appears behind you, then click out of the way; stand behind the rock that blocks the second rock from being destroyed."
+    },
+    {
+     "t": 862,
+     "kind": "tip",
+     "text": "You do not need to stand exactly on the dodge tile for the rock block method: you only need to be in line with rock one on the axis, so the eyeball is put four tiles behind you onto rock two."
+    },
+    {
+     "t": 925,
+     "kind": "method",
+     "text": "After the second rock is hit, the Doom of Mokhaiotl does one more dash; place yourself so it does not destroy any rock, go behind any other rock in the arena and block that last shockwave."
+    },
+    {
+     "t": 955,
+     "kind": "tip",
+     "text": "On cave 8 the rock block method is better because the Doom of Mokhaiotl shoots two rocks, so you never need to wait for a second rock."
+    },
+    {
+     "t": 982,
+     "kind": "method",
+     "text": "On cave 8, time the rock placement to your prayer shutting off: click from rock two to just past rock one as soon as prayer turns off so you path past it in one motion while the second boulder shatters over rock one, then pray against the next attack."
+    },
+    {
+     "t": 1075,
+     "kind": "tip",
+     "text": "The grubs must not be alive while doing rock block; the video description notes that if they die when the boss dashes it will destroy the rock."
+    },
+    {
+     "t": 1257,
+     "kind": "tip",
+     "text": "If you get overkill on the Doom of Mokhaiotl as it dashes toward a rock, for example by attacking right after sidestepping, it destroys the rock; avoid it by not summoning a thrall (a one-in-four chance of the problem), summoning it only near the very end, and delaying your attack."
+    }
+   ]
+  },
+  {
+   "name": "Dragon knife",
+   "kind": "item",
+   "claims": [
+    {
+     "t": 1075,
+     "kind": "method",
+     "text": "With the rock block method, Gnomonkey dumps every Dragon knife spec right after dodging the first dash because the boss is four tiles away, and he says a spam of knives once did over 100 damage."
+    },
+    {
+     "t": 1105,
+     "kind": "opinion",
+     "text": "Gnomonkey says rock block lets you get all four Dragon knife specs off at the start of the Doom of Mokhaiotl car phase without losing ticks to running out of range, and so greatly simplifies the phase and reduces chip damage."
+    },
+    {
+     "t": 1229,
+     "kind": "method",
+     "text": "Gnomonkey aims to get about 50% spec energy back from the shield phase with double Death Charge and a Lightbearer, which gives about 75% at the start of the car phase; he finds three Dragon knife specs on the car phase consistent for killing the boss before the orb phase."
+    },
+    {
+     "t": 1229,
+     "kind": "tip",
+     "text": "If you lack spec energy for a Zaryte crossbow at the start of a Doom of Mokhaiotl cave, Gnomonkey says to do no specs and hold the energy for the car phase, because the car phase DPS is so important."
+    },
+    {
+     "t": 1438,
+     "kind": "tip",
+     "text": "If you have no Zaryte crossbow or Ralos, Gnomonkey recommends spamming Dragon knives as your only spec; he notes they had risen above 10k each after he showed them on stream, but each spec uses only one-fifth of a knife and there is no upfront cost like 500 million for a Zaryte crossbow."
+    }
+   ]
+  },
+  {
+   "name": "Doom of Mokhaiotl: gear and inventory",
+   "kind": "other",
+   "claims": [
+    {
+     "t": 213,
+     "kind": "stat",
+     "text": "With max ranged you max 81 with Masori and 86 with Void (five extra max hits) at the Doom of Mokhaiotl, but Void drops about 9% accuracy; Void is better in 100% accurate phases like the car and shield phases."
+    },
+    {
+     "t": 247,
+     "kind": "opinion",
+     "text": "Gnomonkey ends up favouring Masori over Void for the Doom of Mokhaiotl because the boss's protection prayers can be partly blocked by armour like at the Leviathan, so off-prayer hits can be reduced; he says Masori is roughly 12% better overall."
+    },
+    {
+     "t": 281,
+     "kind": "stat",
+     "text": "Gnomonkey says Masori blocks about 10% more mage damage and 17% more ranged damage than Void at the Doom of Mokhaiotl, with little difference for melee, and an off-prayer hit can be up to about 60 damage."
+    },
+    {
+     "t": 311,
+     "kind": "opinion",
+     "text": "Gnomonkey notes Void gives more burst damage in the car phase and is why many players bring it, but it can low-roll and its low accuracy can leave you missing and facing the orb phase; Masori's accuracy is better for Zaryte crossbow and Dragon knife specs outside 100% accurate phases."
+    },
+    {
+     "t": 1350,
+     "kind": "tip",
+     "text": "Gnomonkey says that without a Twisted bow you should use a Scorching bow, which is about 14% worse than the Twisted bow but usable for kills."
+    },
+    {
+     "t": 1383,
+     "kind": "requirement",
+     "text": "A Scorching bow is the only truly required item at the Doom of Mokhaiotl according to Gnomonkey, because you need a ranged demonbane weapon; mage demonbane is covered by Dark demonbane cast from any staff (a Skull sceptre or Purging staff works equally) and any melee demonbane weapon such as Arclight, Darklight or even Silverlight can one-shot the grubs."
+    },
+    {
+     "t": 1409,
+     "kind": "tip",
+     "text": "Gnomonkey says burning claws are slightly demonbane and also one-shot the grubs."
+    },
+    {
+     "t": 1465,
+     "kind": "tip",
+     "text": "For Iron Men without spec weapons, Gnomonkey says you can bring Desert Treasure 2 rings, but pushing past about cave 4 is much harder without a Zaryte crossbow or Dragon knives; at the least bring a Warhammer or Elder maul, which still drain defence with about 80% accuracy in full ranged gear."
+    },
+    {
+     "t": 1493,
+     "kind": "opinion",
+     "text": "Gnomonkey advises against a Serpentine helm at the Doom of Mokhaiotl: it provides poison and venom immunity but has a lot of negative ranged accuracy, so he suggests Sanfew serum or one anti-venom potion instead."
+    },
+    {
+     "t": 1520,
+     "kind": "opinion",
+     "text": "Gnomonkey says not to use a Bow of Faerdhinen at the Doom of Mokhaiotl and to get a Scorching bow instead; a Bofa is about 15% worse than the Scorching bow, which is about 15% worse than the Twisted bow, so the penalties compound."
+    },
+    {
+     "t": 1547,
+     "kind": "tip",
+     "text": "Gnomonkey says Void is extremely good with a Scorching bow at the Doom of Mokhaiotl, giving four extra max hits with no Masori versus Void question since the Scorching bow is fairly accurate."
+    }
+   ]
+  }
+ ]
+}

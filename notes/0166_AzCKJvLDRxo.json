@@ -1,0 +1,329 @@
+{
+ "id": "AzCKJvLDRxo",
+ "title": "Max Budget Nex Guide (OSRS)",
+ "date": "2024-06-23",
+ "type": "guide",
+ "summary": "A short guide with example duo Nex kills (one slow, one typical) on a max-budget setup with Hedron. After Nex's defence change, Gnomonkey says the Zaryte crossbow is about 9% better than the Twisted bow on the boss and the Voidwaker is no longer needed; the Twisted bow is kept for the minions. He explains Torva for P2 melee, supplies, flinching, and what an average kill time looks like.",
+ "outline": [
+  {
+   "t": 0,
+   "text": "Introduction and the duo max setup, pegs and quiver"
+  },
+  {
+   "t": 26,
+   "text": "Why full Torva: P2 melee and crush defence"
+  },
+  {
+   "t": 116,
+   "text": "Switches: nine-way ranged versus eight-way Twisted bow for minions"
+  },
+  {
+   "t": 146,
+   "text": "Zaryte crossbow versus Twisted bow and the Voidwaker after the defence change"
+  },
+  {
+   "t": 209,
+   "text": "Inventory and supplies: Buckler, range potions, resources, brews"
+  },
+  {
+   "t": 268,
+   "text": "Phase 1 tactics and Fumus with the Twisted bow"
+  },
+  {
+   "t": 355,
+   "text": "Phase 2 melee and Embrace Darkness, flicking prayers, resets"
+  },
+  {
+   "t": 435,
+   "text": "Phase 3, step unders and handling minions"
+  },
+  {
+   "t": 508,
+   "text": "Damage mitigation in a bad kill"
+  },
+  {
+   "t": 591,
+   "text": "Flinching technique"
+  },
+  {
+   "t": 673,
+   "text": "Second full kill: blood phase and P2 melee prayer flicks"
+  },
+  {
+   "t": 760,
+   "text": "Advanced P2 and ranged attack notes"
+  },
+  {
+   "t": 857,
+   "text": "Typical kill breakdown and times"
+  },
+  {
+   "t": 890,
+   "text": "Combat achievements and kill count"
+  }
+ ],
+ "topics": [
+  {
+   "name": "Nex",
+   "kind": "boss",
+   "claims": [
+    {
+     "t": 146,
+     "kind": "event",
+     "text": "Nex was relatively recently changed so that she is weaker to crossbows than other weapons, which changed the best setup for the fight."
+    },
+    {
+     "t": 146,
+     "kind": "opinion",
+     "text": "Gnomonkey says range accuracy is extremely good for Nex, so a ranged weapon with accuracy is a big DPS increase when ranging the boss."
+    },
+    {
+     "t": 268,
+     "kind": "method",
+     "text": "At the start of the kill Gnomonkey melees, then runs up and kills Fumus with the Twisted bow; if you need to brew, ZCB-ing Fumus while brewing is a solid option."
+    },
+    {
+     "t": 294,
+     "kind": "method",
+     "text": "Gnomonkey tries to have his health as full as possible before killing Fumus because he runs into melee P2 immediately afterwards."
+    },
+    {
+     "t": 355,
+     "kind": "method",
+     "text": "Before starting melee P2 you want Nex to have just used Escape as her last attack, because otherwise she will do Embrace Darkness on P2 and you will die."
+    },
+    {
+     "t": 383,
+     "kind": "tip",
+     "text": "On Nex P2 you can flick melee prayer then ranged prayer because of how damage is calculated, which catches all melee and ranged attacks; once she does Embrace Darkness, get out of range."
+    },
+    {
+     "t": 383,
+     "kind": "tip",
+     "text": "When Nex follows you in P2, turn the corner by running to a spot and then back in; this breaks her out of the damage on you and lets you reset her."
+    },
+    {
+     "t": 436,
+     "kind": "tip",
+     "text": "In duo Nex, every time you reach P3 you will usually have the altar available, unless the kills are very fast; you want to get through P3 as fast as possible because it takes a long time, so get your spec up and kill the boss."
+    },
+    {
+     "t": 436,
+     "kind": "tip",
+     "text": "Gnomonkey says you can typically skip Reaver (Reaver kill) and that with the Twisted bow he and Hedron can do step unders, stepping under her while shooting Kruar to keep her stalled and not attacking people."
+    },
+    {
+     "t": 488,
+     "kind": "tip",
+     "text": "When Nex uses Contain, both players want to get out of range so she pulls back up, and then you can reset her afterwards; Gnomonkey says it is not good to reset her if you are close to killing Glacies because you want her next to you to avoid some damage."
+    },
+    {
+     "t": 591,
+     "kind": "method",
+     "text": "To flinch Nex, step out of range and swap to the Twisted bow for its longer range, stay only one tile in, and click her each time Nex does an attack; if your partner misses by five ticks you must reset your cycle, and if Nex gets on you while flinching the kill is over."
+    },
+    {
+     "t": 641,
+     "kind": "trivia",
+     "text": "Gnomonkey says getting hit as hard as in his bad example kill is roughly a one in 30 kill, and that you play for the average, not for rare bad kills."
+    },
+    {
+     "t": 673,
+     "kind": "method",
+     "text": "In the second kill, when Nex has not used Escape he runs in and starts meleeing, praying melee then ranged each time she attacks."
+    },
+    {
+     "t": 701,
+     "kind": "method",
+     "text": "Gnomonkey believes Nex's ranged attack has a base max hit of 60 that scales down to 50 when you are close; hits can reach a full 25 but can also be blocked fully like a normal attack, which is why Torva matters."
+    },
+    {
+     "t": 857,
+     "kind": "stat",
+     "text": "Gnomonkey says a typical max-gear duo kill is about 7:30 (730 on the timer), the fastest he gets is around 6:30, and slow kills are around nine minutes."
+    },
+    {
+     "t": 857,
+     "kind": "tip",
+     "text": "Gnomonkey says combat achievements make Nex more efficient: you can AFK kill count before a Nex trip but lose it if you die, while having the Grandmaster combat achievements means you only need to walk in the room with fake 15 ancient kill count, and in duo you always get 15, so you need no kill count."
+    }
+   ]
+  },
+  {
+   "name": "Zaryte crossbow",
+   "kind": "item",
+   "claims": [
+    {
+     "t": 0,
+     "kind": "stat",
+     "text": "After Nex's defence change, Gnomonkey says the Zaryte crossbow is about 9% better than the Twisted bow when ranging the boss in this setup."
+    },
+    {
+     "t": 146,
+     "kind": "opinion",
+     "text": "Gnomonkey says that whenever you range Nex you should use the Zaryte crossbow, that you need it 100%, and that the Twisted bow is for the minions; before the update the Twisted bow was slightly better in max gear."
+    },
+    {
+     "t": 146,
+     "kind": "stat",
+     "text": "The Zaryte crossbow's special attack is now better than the Voidwaker's against Nex since her defence was changed, so Gnomonkey says the Voidwaker is more of a budget option and not mandatory."
+    },
+    {
+     "t": 241,
+     "kind": "tip",
+     "text": "Gnomonkey calculates the crossbow spec by multiplying its 110 max by its accuracy (about 0.7 before the defence change) to get average damage; now the average is high enough to beat the Voidwaker, though he thinks they are very close and the Voidwaker is just barely worse."
+    },
+    {
+     "t": 241,
+     "kind": "tip",
+     "text": "Gnomonkey says the Zaryte crossbow is worth using at all team scales, including trios."
+    },
+    {
+     "t": 327,
+     "kind": "tip",
+     "text": "Gnomonkey swaps in the Zaryte crossbow for one shot on Fumus, since there is a chance of a bolt proc and it is very close to a Twisted bow shot on the first hit."
+    }
+   ]
+  },
+  {
+   "name": "Torva armour",
+   "kind": "item",
+   "claims": [
+    {
+     "t": 26,
+     "kind": "opinion",
+     "text": "Gnomonkey says full Torva enables P2 melee at Nex, which is amazing for damage: fanging during that phase is much better than using the Zaryte crossbow, and you can only do it with Torva because its defence is double that of the alternatives."
+    },
+    {
+     "t": 54,
+     "kind": "tip",
+     "text": "Gnomonkey says do not do P2 melee without Torva, and do not do it in Bandos because it is not worth it."
+    },
+    {
+     "t": 54,
+     "kind": "opinion",
+     "text": "Gnomonkey says Torva is worth the two switch slots even though the DPS increase is small, because the majority of Nex's attacks on you are crush and the crush defence is really important, more so than mage defence since most of her attacks are melee and her mage attacks in Blood phase always hit."
+    },
+    {
+     "t": 87,
+     "kind": "stat",
+     "text": "Gnomonkey says Nex rolls her punch against 335 crush defence in Torva, so there is a good chance you take a zero, and every zero taken saves brew and brewing time."
+    },
+    {
+     "t": 114,
+     "kind": "opinion",
+     "text": "Gnomonkey says two brews are saved just by wearing Torva, because you take less damage and kill the boss faster, so you use the same supplies overall."
+    },
+    {
+     "t": 209,
+     "kind": "trivia",
+     "text": "Gnomonkey notes Torva pieces, Zaryte vambraces and the Zaryte crossbow all count as Zaros items, so praying at the altar in whatever you are wearing gives full stats."
+    }
+   ]
+  },
+  {
+   "name": "Nex gear and supplies (max)",
+   "kind": "mechanic",
+   "claims": [
+    {
+     "t": 0,
+     "kind": "tip",
+     "text": "If you do not have a Quiver (no ammo slot in this setup), Gnomonkey says to ditch the pegs, noting pegs are about 1% better than not having them, a fairly big DPS increase."
+    },
+    {
+     "t": 26,
+     "kind": "opinion",
+     "text": "Gnomonkey says bringing extra potions is totally fine for learning, even with infinite money, rather than not bringing the full Torva setup."
+    },
+    {
+     "t": 114,
+     "kind": "method",
+     "text": "In this setup Gnomonkey uses nine-way ranged gear for the Zaryte crossbow (switching quickly isn't needed except maybe for Blood Sacrifice) and an eight-way setup for the Twisted bow when switching quickly to a minion."
+    },
+    {
+     "t": 114,
+     "kind": "tip",
+     "text": "Without a Quiver, you swap out the boots; Gnomonkey says a boot switch is not necessary but very nice."
+    },
+    {
+     "t": 209,
+     "kind": "opinion",
+     "text": "Gnomonkey says the Buckler is extremely good, giving about 5% DPS when ranging, so it is very good to have."
+    },
+    {
+     "t": 209,
+     "kind": "tip",
+     "text": "The second range potion is optional; one is fine, and if you are struggling with kills you can ditch a range potion for an extra brew or for a resource (restore) potion if you run out of prayer."
+    },
+    {
+     "t": 209,
+     "kind": "tip",
+     "text": "Gnomonkey says four resource potions should be plenty for a normal kill, and as a baseline he brings five resource and eight brew."
+    },
+    {
+     "t": 209,
+     "kind": "tip",
+     "text": "Gnomonkey brings fire runes in his pouch for thrall and death charge; death charge is nice because it works on the minions and the Reavers, and the charge carries into the next kill when you kill her."
+    },
+    {
+     "t": 268,
+     "kind": "tip",
+     "text": "Gnomonkey says a Super Combat... minify potion... (transcribed as Minify pot) is nice as a pre-pot because brewing lets you get stats back, and it restores stats when you get virus."
+    }
+   ]
+  },
+  {
+   "name": "Twisted bow",
+   "kind": "item",
+   "claims": [
+    {
+     "t": 209,
+     "kind": "opinion",
+     "text": "Gnomonkey says the Twisted bow is way, way better than the Toxic blowpipe against Nex's minions because they have a lot of defence."
+    },
+    {
+     "t": 436,
+     "kind": "tip",
+     "text": "Gnomonkey says the Twisted bow's long range lets him and Hedron do step unders at Kruar and keep Nex stalled."
+    }
+   ]
+  },
+  {
+   "name": "Voidwaker",
+   "kind": "item",
+   "claims": [
+    {
+     "t": 146,
+     "kind": "opinion",
+     "text": "Gnomonkey says that since Nex's defence change the Voidwaker is no longer worth bringing as the old standard setup; the Zaryte crossbow is a better spec for damage."
+    },
+    {
+     "t": 0,
+     "kind": "opinion",
+     "text": "Gnomonkey's description says the Voidwaker is in the bin for Nex after the defence changes."
+    }
+   ]
+  },
+  {
+   "name": "Gnomonkey",
+   "kind": "person",
+   "claims": [
+    {
+     "t": 0,
+     "kind": "event",
+     "text": "Gnomonkey has started a NexFinder channel in his Discord, with complete low, mid and max budget setups and FAQs, because many people asked where to find teams."
+    },
+    {
+     "t": 0,
+     "kind": "event",
+     "text": "Gnomonkey launched merch, with Hedron making custom designs and a website; Gnomonkey says he personally got the mousepad and a Raaty Zuk helm shirt."
+    },
+    {
+     "t": 0,
+     "kind": "trivia",
+     "text": "Gnomonkey's earlier video (new meta Nex Budget) is a full run-down of how Nex works for players who need more in-depth explanations."
+    }
+   ]
+  }
+ ]
+}

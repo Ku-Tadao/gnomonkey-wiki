@@ -1,0 +1,462 @@
+{
+  "id": "6BvUKVInPTs",
+  "title": "Sailing in Shambles (OSRS)",
+  "date": "2025-12-03",
+  "type": "news-opinion",
+  "summary": "Gnomonkey goes through the Sailing week 2 update (3 December 2025), which nerfed the Crystal extractor and, through it, nearly every Sailing training method, with the heaviest hit on AFK Salvaging. He criticises the stealth NPC pathing change and Jagex's response, and argues the extractor should have been balanced differently from the start.",
+  "outline": [
+    {
+      "t": 0,
+      "text": "Intro: Sailing XP nerfs and the community reaction"
+    },
+    {
+      "t": 68,
+      "text": "Crystal extractor nerfed from 600 to 250 XP per harvest"
+    },
+    {
+      "t": 126,
+      "text": "Port task changes (courier XP buff for level 40+)"
+    },
+    {
+      "t": 185,
+      "text": "Deep sea trawling left unchanged"
+    },
+    {
+      "t": 246,
+      "text": "Shipwreck Salvaging changes: 5-tick cycle, crewmate nerfs, XP changes"
+    },
+    {
+      "t": 511,
+      "text": "Drop rates published and bug fixes"
+    },
+    {
+      "t": 632,
+      "text": "Stealth smart pathing: no more safe spots for sailing NPCs"
+    },
+    {
+      "t": 822,
+      "text": "Jagex's developer response and planned follow-up"
+    },
+    {
+      "t": 903,
+      "text": "Gnomonkey's final thoughts: how he would have balanced the extractor and why AFK Salvaging should stay"
+    },
+    {
+      "t": 1140,
+      "text": "Server stability complaints, Jagex communication, closing"
+    }
+  ],
+  "topics": [
+    {
+      "name": "Update: Sailing week 2",
+      "kind": "update",
+      "claims": [
+        {
+          "t": 0,
+          "kind": "event",
+          "text": "The Sailing week 2 update (around 3 December 2025) nerfed essentially every Sailing training method, which Gnomonkey summarises as 'the answer is everything'."
+        },
+        {
+          "t": 29,
+          "kind": "opinion",
+          "text": "Gnomonkey opens the video sarcastically repeating complaints that people who whined about Sailing XP rates ruined the skill, noting the real public opinion is the opposite: players felt Sailing was being nerfed."
+        },
+        {
+          "t": 59,
+          "kind": "event",
+          "text": "Jagex posted a follow-up update the same day in response to negative feedback, saying they planned further tweaks and would publish a more detailed post the next day on where rates are expected to sit."
+        },
+        {
+          "t": 823,
+          "kind": "opinion",
+          "text": "Gnomonkey says the update as a whole is 'a big stinker' and that Sailing is worse this week than it was the week before, with players calling for a revert."
+        },
+        {
+          "t": 734,
+          "kind": "event",
+          "text": "Jagex's response did not revert the changes; they said they would look at improving self-sort XP and give the Gwenith Glide trials some extra XP back, with no specific plans for port task weeks."
+        },
+        {
+          "t": 1083,
+          "kind": "opinion",
+          "text": "Gnomonkey thinks Jagex rushed Sailing out for November right before the holiday break so Jagex staff cannot make further changes until around January, and suspects greed."
+        },
+        {
+          "t": 1148,
+          "kind": "opinion",
+          "text": "Gnomonkey says Jagex should explain their thinking before updates land so the community can give feedback in advance, rather than nerfs arriving 'like a left hook out of a dark alleyway'."
+        },
+        {
+          "t": 1179,
+          "kind": "opinion",
+          "text": "Gnomonkey says Jagex tends to nerf strong methods instantly while leaving weak or over-nerfed ones unchanged for weeks, which makes players feel they should abuse things early before they get nerfed."
+        }
+      ]
+    },
+    {
+      "name": "Sailing",
+      "kind": "skill",
+      "claims": [
+        {
+          "t": 823,
+          "kind": "opinion",
+          "text": "Gnomonkey says Sailing is worse after the week 2 update than it was in week 1."
+        },
+        {
+          "t": 850,
+          "kind": "opinion",
+          "text": "Gnomonkey says many long-requested Sailing QOL fixes were not addressed: moving objects on your ship, a bank in the boat building area, a UI button for the Crystal extractor, and better clickboxes for sails and other ship parts."
+        },
+        {
+          "t": 878,
+          "kind": "opinion",
+          "text": "Gnomonkey says very rare Sailing creature drops (such as the dragon cannon barrel) were not made more attainable, and the Salvage nerf made going for them feel even worse."
+        },
+        {
+          "t": 1115,
+          "kind": "opinion",
+          "text": "Gnomonkey says the Sailing nerfs are very frustrating because the Sailing rework changes keep making things worse rather than improving them."
+        },
+        {
+          "t": 1234,
+          "kind": "event",
+          "text": "Gnomonkey says the game servers had been very unstable since the Grid Master release, with whole worlds dropping and lag of up to 10 ticks lasting hours at a time, and Jagex had made no statement about it."
+        },
+        {
+          "t": 1322,
+          "kind": "opinion",
+          "text": "Gnomonkey says he is not too upset about the nerfs because he can now start 'lamping' Sailing, making it his new skill he never has to touch again."
+        },
+        {
+          "t": 1262,
+          "kind": "opinion",
+          "text": "Gnomonkey asks whether players trend toward AFK methods because Salvage XP is too high or because courier missions, bounty tasks, deep sea fishing and Barracuda Trials are not engaging enough, and suggests Jagex should fix that rather than nerf Salvage."
+        }
+      ]
+    },
+    {
+      "name": "Crystal extractor",
+      "kind": "item",
+      "claims": [
+        {
+          "t": 59,
+          "kind": "event",
+          "text": "The Crystal extractor's XP per harvest was cut from 600 XP to 250 XP in the Sailing week 2 update."
+        },
+        {
+          "t": 87,
+          "kind": "stat",
+          "text": "The Crystal extractor nerf took its XP rate from about 34,000 XP per hour down to about 14,000 XP per hour."
+        },
+        {
+          "t": 87,
+          "kind": "event",
+          "text": "Jagex said they were not planning any XP changes to Barracuda Trials to offset the extractor nerf, saying trials were already taking a hit from the extractor changes."
+        },
+        {
+          "t": 59,
+          "kind": "event",
+          "text": "Jagex had said in the previous week's news post that they would probably nerf the Crystal extractor and spread the XP around."
+        },
+        {
+          "t": 850,
+          "kind": "tip",
+          "text": "Gnomonkey notes players were forced to remove the Crystal extractor and rebuild it in the correct spot, wasting 2 million gp, because it must be interacted with based on its location and cannot be moved."
+        },
+        {
+          "t": 909,
+          "kind": "opinion",
+          "text": "Gnomonkey considers the Crystal extractor a core balance problem: an option giving 34k XP per hour for one click per minute that works at every Sailing location sets a minimum XP for everything, so slower methods get buffed a lot and faster methods much less."
+        },
+        {
+          "t": 934,
+          "kind": "opinion",
+          "text": "Gnomonkey says he would have made the Crystal extractor give a boost only at Gwenith Glide, possibly zero XP elsewhere but passive crystal shards, and made other methods faster by default instead of propping everything up with the extractor."
+        },
+        {
+          "t": 965,
+          "kind": "opinion",
+          "text": "Gnomonkey says Jagex could easily calculate the extractor's output (600 XP 60 times per hour) before release, yet put it in, nerfed it and did not spread the XP anywhere else."
+        }
+      ]
+    },
+    {
+      "name": "Port tasks",
+      "kind": "activity",
+      "claims": [
+        {
+          "t": 126,
+          "kind": "event",
+          "text": "The Sailing week 2 update increased completion XP of all courier port tasks from level 40 and above by about 15%, aimed at levels 40-55 and 60-70 and at players in the 90s and beyond 99 working on Rosewood boat upgrades."
+        },
+        {
+          "t": 149,
+          "kind": "stat",
+          "text": "Gnomonkey recalls port tasks giving around 130k XP per hour."
+        },
+        {
+          "t": 149,
+          "kind": "opinion",
+          "text": "Gnomonkey says that because the extractor nerf cut around 20k XP per hour from all Sailing methods, the port task buff is a slight net nerf for players who already had the extractor built, though levels 40 up to the extractor level were buffed."
+        },
+        {
+          "t": 126,
+          "kind": "opinion",
+          "text": "Gnomonkey says he dislikes port tasks as a training method."
+        },
+        {
+          "t": 995,
+          "kind": "opinion",
+          "text": "Gnomonkey thinks Jagex could have buffed port tasks and fleshed them out to be more interesting."
+        }
+      ]
+    },
+    {
+      "name": "Deep sea trawling",
+      "kind": "activity",
+      "claims": [
+        {
+          "t": 185,
+          "kind": "event",
+          "text": "Jagex made no changes to deep sea trawling in the Sailing week 2 update, stating it was always intended as a lower XP per hour activity with solid resource output, a skilling moneymaker, and that they would discuss XP, output and whether it is more a Sailing or Fishing activity."
+        },
+        {
+          "t": 214,
+          "kind": "stat",
+          "text": "Gnomonkey says deep sea trawling gave at most around 40k Sailing XP per hour with the Crystal extractor, and with the extractor nerf it now gives almost no Sailing XP."
+        },
+        {
+          "t": 214,
+          "kind": "opinion",
+          "text": "Gnomonkey says deep sea trawling needed a buff more than anything and instead got effectively nerfed by the extractor change, so it is now only done for the fish."
+        },
+        {
+          "t": 1207,
+          "kind": "opinion",
+          "text": "Gnomonkey wonders whether deep sea fishing will ever be fixed into a decent option."
+        }
+      ]
+    },
+    {
+      "name": "Salvaging",
+      "kind": "activity",
+      "claims": [
+        {
+          "t": 246,
+          "kind": "event",
+          "text": "Jagex's stated goals for Salvaging were to nerf AFK salvaging so its top end is slightly above AFK methods like redwood woodcutting (roughly 80k-90k XP per hour), keep moderately AFK crewmate-plus-sorting methods better than dropping salvage, and boost high-intensity salvaging to compete with Barracuda Trials."
+        },
+        {
+          "t": 279,
+          "kind": "event",
+          "text": "Player salvaging now runs on a 5-tick cycle instead of 4-tick, with increased success rates across all shipwreck tiers to keep XP roughly the same while increasing AFK time, and crewmates also harvest a tick slower."
+        },
+        {
+          "t": 279,
+          "kind": "event",
+          "text": "Crewmates now remember their assigned salvage task over logout, which Gnomonkey calls a much-needed change."
+        },
+        {
+          "t": 308,
+          "kind": "event",
+          "text": "Crewmates' salvage range is now calculated from the hook's position rather than the boat's position, reducing cases where crewmates could salvage wrecks the player could not or vice versa."
+        },
+        {
+          "t": 308,
+          "kind": "event",
+          "text": "Crewmates now salvage at the same rate as players instead of outperforming their captain."
+        },
+        {
+          "t": 308,
+          "kind": "event",
+          "text": "More double salvage spots were added to every shipwreck hotspot, and several locations went from three spots to four, with one boat spawn active at a time and resurfacing after roughly two and a half minutes."
+        },
+        {
+          "t": 342,
+          "kind": "opinion",
+          "text": "Gnomonkey says the extra spots made several locations less AFK, so they are worse, while others like Fremennik were unchanged."
+        },
+        {
+          "t": 342,
+          "kind": "event",
+          "text": "A deck handiness value (transcribed as 'Dolly Jim's') was increased to four, meaning two crewmates can use dragon salvaging hooks for the cook, which Gnomonkey calls a good change."
+        },
+        {
+          "t": 374,
+          "kind": "stat",
+          "text": "Crewmate success chances increased by about 11%, 14% and 15% per rank tier but crewmates harvest about 20% slower, with chance scaling with level (about 16% to 22%)."
+        },
+        {
+          "t": 401,
+          "kind": "stat",
+          "text": "Shipwreck XP changes: pirate shipwrecks 76 XP (from 63), mercenary 138 (from 127), Fremennik 162 (from 150), merchant 200 (from 190)."
+        },
+        {
+          "t": 430,
+          "kind": "stat",
+          "text": "Sorting salvage XP was reduced: Barracuda salvage gives 13 XP (from 15.5) and merchant salvage gives 34 XP (from 95)."
+        },
+        {
+          "t": 462,
+          "kind": "stat",
+          "text": "Jagex estimated the Salvage changes as a 20-30% nerf for AFK Salvaging from level 35 shipwrecks onward and around a 20% buff for high-intensity salvaging approaches."
+        },
+        {
+          "t": 462,
+          "kind": "opinion",
+          "text": "Gnomonkey says he disliked a roughly one-third nerf on sorting XP in exchange for a roughly 5% shipwreck XP buff."
+        },
+        {
+          "t": 245,
+          "kind": "opinion",
+          "text": "Gnomonkey says Salvaging was his favourite part of Sailing because it was very AFK."
+        },
+        {
+          "t": 702,
+          "kind": "tip",
+          "text": "As of the week 2 update, Gnomonkey says it is better to drop all salvage and 1.5-tick the two hooks than to sort salvage, because sorting XP no longer makes sorting worth it."
+        },
+        {
+          "t": 670,
+          "kind": "event",
+          "text": "Jagex said they love AFK gameplay but never intended 20-30 minute AFK patterns in Salvaging, and are not looking to significantly increase the two-crewmates-plus-player-sorting method."
+        },
+        {
+          "t": 734,
+          "kind": "event",
+          "text": "Jagex said they would look at improving XP for the more active self-salvage and self-sort approach so players do not feel they must drop salvage and miss resources."
+        },
+        {
+          "t": 995,
+          "kind": "opinion",
+          "text": "Gnomonkey considers it fine for a skill to have a solid AFK method for once, noting redwoods are the closest comparison and most skills have no AFK method above 20k XP per hour, and argues players enjoyed AFK Salvaging so Jagex should not have nerfed it."
+        },
+        {
+          "t": 1025,
+          "kind": "opinion",
+          "text": "Gnomonkey says AFK Salvaging did not need a nerf because Barracuda Trials and Gwenith Glide gave over double the XP per hour of Salvaging."
+        },
+        {
+          "t": 1180,
+          "kind": "event",
+          "text": "A bug briefly made bronze salvaging hooks about 50% better than rune salvaging hooks, letting players get decent XP rates, and it was fixed within a few hours."
+        }
+      ]
+    },
+    {
+      "name": "Barracuda Trials",
+      "kind": "activity",
+      "claims": [
+        {
+          "t": 87,
+          "kind": "event",
+          "text": "Jagex said they were not planning XP changes to Barracuda Trials in the week 2 update, citing the hit from the extractor changes and that players keep finding better routes and options like natural trimming."
+        },
+        {
+          "t": 763,
+          "kind": "event",
+          "text": "Jagex said they plan to give Gwenith Glide some extra XP to compensate for the extractor nerf, the only place the extractor XP nerf was partly offset."
+        },
+        {
+          "t": 1025,
+          "kind": "opinion",
+          "text": "Gnomonkey says Gwenith Glide has always been the best-XP method, giving over double what Salvaging gives regardless of method."
+        },
+        {
+          "t": 1025,
+          "kind": "opinion",
+          "text": "Gnomonkey says Barracuda Trials were already in a good place, giving more than double the XP per hour of Salvaging."
+        }
+      ]
+    },
+    {
+      "name": "Sailing drop rates",
+      "kind": "mechanic",
+      "claims": [
+        {
+          "t": 493,
+          "kind": "stat",
+          "text": "Bell's Folly is a 1/400 drop from a boss that is task-only, requires 80 points to unlock the Griffin boss, and requires a Sailing level and several quests."
+        },
+        {
+          "t": 524,
+          "kind": "stat",
+          "text": "Great Watch Sharks have a 1/1,023 chance to roll their dragon table, and Armoured Krakens a 1/256 chance."
+        },
+        {
+          "t": 550,
+          "kind": "stat",
+          "text": "Bottled Storm is 1/1,024 and the Vampire Kraken is 1/512 for rolling their dragon table."
+        },
+        {
+          "t": 551,
+          "kind": "stat",
+          "text": "The dragon cannon barrel is a 1 in 20,000 drop from opulent salvage."
+        },
+        {
+          "t": 583,
+          "kind": "event",
+          "text": "Jagex fixed a bug in which Sailing creatures were not rolling their dragon tables as intended, effectively a buff to those drop rates."
+        },
+        {
+          "t": 583,
+          "kind": "opinion",
+          "text": "Gnomonkey complains Jagex published the drop rates without any balancing, even though players had been asking for the very rare rates to be improved."
+        }
+      ]
+    },
+    {
+      "name": "Sailing creatures",
+      "kind": "mechanic",
+      "claims": [
+        {
+          "t": 614,
+          "kind": "event",
+          "text": "Without mentioning it in the news post, Jagex gave all Sailing creatures smart pathing in the week 2 update, so they go around obstacles."
+        },
+        {
+          "t": 643,
+          "kind": "tip",
+          "text": "As of the week 2 update, you can no longer safe spot any Sailing NPC: they path around everything, cannot be attacked while under your boat, and all Sailing creatures hit you at all times."
+        },
+        {
+          "t": 614,
+          "kind": "opinion",
+          "text": "Gnomonkey describes the stealth smart pathing change as a further nerf to Sailing."
+        }
+      ]
+    },
+    {
+      "name": "Gwenith Glide",
+      "kind": "activity",
+      "claims": [
+        {
+          "t": 614,
+          "kind": "event",
+          "text": "Jagex said they fixed crate hitboxes at Gwenith Glide, but Gnomonkey says some quick flicks that previously grabbed crates no longer work and the hitbox is smaller in places."
+        },
+        {
+          "t": 614,
+          "kind": "opinion",
+          "text": "Gnomonkey says players have had to relearn the Gwenith Glide crate hitboxes for the fourth update in a row."
+        }
+      ]
+    },
+    {
+      "name": "Gnomonkey",
+      "kind": "person",
+      "claims": [
+        {
+          "t": 1294,
+          "kind": "event",
+          "text": "Gnomonkey says he will be streaming throughout the holidays."
+        },
+        {
+          "t": 1294,
+          "kind": "event",
+          "text": "Gnomonkey says a new Inferno teaching stream was going up very soon."
+        }
+      ]
+    }
+  ]
+}

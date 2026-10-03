@@ -1,0 +1,74 @@
+{
+ "id": "iYGGzzPschI",
+ "title": "Shard Contracts: NEW BEST GP/HR! (OSRS)",
+ "date": "2025-05-30",
+ "type": "guide",
+ "summary": "Gnomonkey explains how to do the Contract of Shard Acquisition (Radiant Oathplate shards) at Yama as a duo after the May 2025 update removed its ragging meteors. He covers the gear, supplies, the 50% prayer and healing penalty, the phase thresholds, and a tile-based run pattern for phase three, and says it is the best gp/hr at the time, around 6-10 mil per kill.",
+ "outline": [
+  {"t": 0, "text": "Intro: why shard contracts are profitable and duo-only"},
+  {"t": 90, "text": "Gear: mage camp, scepter, SGS, anglerfish and moonlight antelope"},
+  {"t": 121, "text": "Profit calculation per kill and per hour"},
+  {"t": 316, "text": "Boss fight explanation: phases and what makes phase three hard"},
+  {"t": 450, "text": "Gameplay: phase one and two"},
+  {"t": 497, "text": "Phase three: host tile positioning and wave dodging"},
+  {"t": 580, "text": "Purging staff spec and eating trick"},
+  {"t": 755, "text": "Credits to Kirby for the run pattern and conclusion"},
+  {"t": 818, "text": "Outro: feasible for irons with pizza practice"}
+ ],
+ "topics": [
+  {
+   "name": "Yama contracts",
+   "kind": "mechanic",
+   "claims": [
+    {"t": 0, "kind": "event", "text": "After the late-May 2025 update, the Contract of Shard Acquisition no longer rags the player with meteors, which Gnomonkey says makes it much easier and incredibly profitable."},
+    {"t": 0, "kind": "stat", "text": "At the time of the video, the Shard Acquisition contracts cost about 8 to 10 mil and give 45 Oathplate shards worth about 16 mil, which Gnomonkey calls six to eight mil profit per kill."},
+    {"t": 0, "kind": "method", "text": "The Shard Acquisition contract is effectively duo-only: it is technically possible to solo but almost impossible. Only one of the two players uses the contract and receives 45 shards and rare drops only (e.g. dossiers), while the partner gets normal loot such as worms and rares."},
+    {"t": 62, "kind": "tip", "text": "Gnomonkey says duo partners must decide ahead of time who uses contracts and who takes normal loot; the contract user's partner gets the loot of a normal Yama kill."},
+    {"t": 62, "kind": "tip", "text": "Gnomonkey says irons can practice the Shard contract by bringing Yama 100 pineapple pizzas, which he calls annoying; the pineapple pizza fight is the exact same and can be done as a duo."},
+    {"t": 121, "kind": "stat", "text": "Gnomonkey reads a calculation by Hedron: with shards at 350k each and 45 per kill, loot is 15.75 mil, so profit is 5.75 to 9.75 mil per kill, or roughly 86.25 to 146.25 mil per hour at 15 kills an hour."},
+    {"t": 121, "kind": "opinion", "text": "Gnomonkey says this will not last, and recommends really good players to jump in now, while it is also helpful for irons who receive these contracts and want to do them eventually."},
+    {"t": 818, "kind": "opinion", "text": "Gnomonkey says Shard contracts were almost impossible before the patch but are much more doable now, and that irons could learn them with enough pineapple pizza practice."},
+    {"t": 3, "kind": "event", "text": "The video description states Gnomonkey made about 300m from shard contracts, his duo partner Sax made similar, and that the method easily makes 50m/hr or more depending on drops."}
+   ]
+  },
+  {
+   "name": "Yama",
+   "kind": "boss",
+   "claims": [
+    {"t": 62, "kind": "requirement", "text": "For Shard contracts Gnomonkey brings a mage camp setup at giga max mage level, a scepter, and an SGS for restoration, because the fight's end is difficult and needs DPS."},
+    {"t": 92, "kind": "tip", "text": "Gnomonkey says there are no really good specs for this with mage, so one person lands a single scepter spec, with both bringing one in case of misses; he says it is about 90% accuracy."},
+    {"t": 121, "kind": "stat", "text": "On the Shard Acquisition contract you get 50% less prayer restoration and healing, so all food, prayer and the SGS spec are half as effective."},
+    {"t": 154, "kind": "method", "text": "Gnomonkey brings a bunch of combo-eat anglerfish, noting the maximum overheal is 109 and you want to be at 109 for phase three, plus a few Moonlight antelope for big chunk healing since they heal slowly."},
+    {"t": 154, "kind": "stat", "text": "In the last phase of the Shard contract, Gnomonkey says Yama's off-prayer attack can hit up to 70 and the waves can hit 50, making it extremely difficult to heal back up with half healing."},
+    {"t": 179, "kind": "stat", "text": "On Shard contracts Yama's phases transition at 75% to phase two and 50% to phase three; phase three is the last half of Yama's health, and Yama has lower HP so phase three is the same length while phases one and two are faster."},
+    {"t": 212, "kind": "stat", "text": "Gnomonkey says a good Shard contract kill is quick, his best being sub-3 minutes."},
+    {"t": 212, "kind": "method", "text": "On the Shard contract Yama drops meteors at all times but, unlike the solo contracts, it does not rag tiles; phases one and two are very easy, with both players hopping on a glyph to block things as in the normal fight."},
+    {"t": 245, "kind": "method", "text": "Phase three has five sets of meteors in a full clockwise or counterclockwise rotation (randomly flipping), huge wave patterns harder than any other contract's, Yama's off-prayer hits up to 70, and four sets of orbs that two players must split two each."},
+    {"t": 304, "kind": "tip", "text": "In the chugging barrel Gnomonkey pre-pots super combat, prayer regen, stamina and antidote, noting that prayer regen is especially important because it is not capped and gives the normal prayer."},
+    {"t": 367, "kind": "tip", "text": "Gnomonkey says you can block orbs by touching the glyphs just as in the other contracts, and flares only need one hit then one cast after that."},
+    {"t": 431, "kind": "tip", "text": "Gnomonkey aims to enter the last phase with 109 overheal, eating an anglerfish and checking that Mark of Darkness is active, and says never to sit below 99 HP."}
+   ]
+  },
+  {
+   "name": "Yama phase three waves",
+   "kind": "mechanic",
+   "claims": [
+    {"t": 458, "kind": "method", "text": "For Shard contracts phase three, the host waits until the waves are in the middle of two green tiles, then clicks a specific green tile; the non-host clicks to the other green tile and runs left. You step one tile after the second meteor drops, auto-dodging it."},
+    {"t": 497, "kind": "tip", "text": "From the area in front of Yama (near the glyphs) you can hit every orb and flare, even the ones at the back; Gnomonkey says to hit the back orb first, step to the side and hit the second, then dodge."},
+    {"t": 553, "kind": "method", "text": "Gnomonkey dodges through the giga waves with an awkward L-shaped run, though going straight through is easier; each wave gives a big gap of time to deal with another set of orbs."},
+    {"t": 607, "kind": "tip", "text": "In phase three you should stand at the tile one in front of the throne, wait for the waves to line up between two green tiles, then run through, otherwise you get hit as you run through the wave."},
+    {"t": 723, "kind": "tip", "text": "The tick you start running through the waves is also the tick you need to pray, so it gives you time to catch your prayer."},
+    {"t": 755, "kind": "trivia", "text": "Gnomonkey credits Kirby for finding the base run pattern and tiles, saying it is much cleaner than running around like a chicken with its head cut off; Gnomonkey did not use all of Kirby's tiles but his L movements worked."},
+    {"t": 755, "kind": "trivia", "text": "In a duo you only deal with about four sets of void flares, which Gnomonkey says is roughly two and a half times shorter than his solo footage."}
+   ]
+  },
+  {
+   "name": "Pernix staff",
+   "kind": "item",
+   "claims": [
+    {"t": 580, "kind": "tip", "text": "Gnomonkey says purging staff specs are supposed to remove three ticks off your cooldown but do not work properly; the spec makes your attack three tick, but if you eat right after using a purging spec the cooldown becomes one tick less."},
+    {"t": 580, "kind": "tip", "text": "Eating an anglerfish right after a purging staff spec effectively acts like eating a karambwan, letting you keep better attack uptime."}
+   ]
+  }
+ ]
+}

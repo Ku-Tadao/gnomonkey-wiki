@@ -1,0 +1,260 @@
+{
+  "id": "-h7yElF9Z0c",
+  "title": "HOW TO TRAIN YOUR MELEES FAST! (OSRS)",
+  "date": "2024-09-28",
+  "type": "guide",
+  "summary": "A guide to training melee on sulphur nagas in the Moons of Peril area, which Gnomonkey calls better than Nightmare Zone Dharok and crabs. Their flat armour of minus four boosts every hit, so multi-hit weapons like the Dual macuahuitl give 120k to 175k XP per hour with free supplies and passive Prayer and Runecraft XP.",
+  "outline": [
+    {
+      "t": 0,
+      "text": "XP rates and gear setup"
+    },
+    {
+      "t": 92,
+      "text": "Free supplies and Sulphurous essence Runecrafting XP"
+    },
+    {
+      "t": 127,
+      "text": "Requirements: 55 Herblore, Moons of Peril, about 48 Slayer"
+    },
+    {
+      "t": 188,
+      "text": "Weapon options and Blood moon set effect"
+    },
+    {
+      "t": 332,
+      "text": "Loot and drops"
+    },
+    {
+      "t": 404,
+      "text": "Prayer training with the ectoplasmator"
+    },
+    {
+      "t": 437,
+      "text": "Benefits summary versus Nightmare Zone"
+    },
+    {
+      "t": 516,
+      "text": "Monster mechanics and positioning"
+    },
+    {
+      "t": 605,
+      "text": "Q and A and conclusion"
+    }
+  ],
+  "topics": [
+    {
+      "name": "Sulphur naga",
+      "kind": "other",
+      "claims": [
+        {
+          "t": 0,
+          "kind": "stat",
+          "text": "Gnomonkey was getting about 120k Strength XP per hour training on sulphur nagas in the Moons of Peril area with fairly easy-to-get gear."
+        },
+        {
+          "t": 27,
+          "kind": "method",
+          "text": "Sulphur nagas have negative four flat armour, so each hit splat dealt to them takes an extra four damage; with a two-hit weapon like the Dual macuahuitl the minimum hit is five and every hit is boosted by four."
+        },
+        {
+          "t": 56,
+          "kind": "stat",
+          "text": "Gnomonkey says players in max gear with the Boppers and full Blood moon have reported around 175k XP per hour on sulphur nagas."
+        },
+        {
+          "t": 105,
+          "kind": "tip",
+          "text": "Gnomonkey says sulphur nagas are aggressive, and the more AFK spot is the centre of the room, which has a more condensed spawn point."
+        },
+        {
+          "t": 540,
+          "kind": "tip",
+          "text": "Gnomonkey says the Dragon dagger (DDS) special attack goes very hard on sulphur nagas and that Burning claws might be slightly better, though he has not tested whether the flat armour boost applies to all three hit splats."
+        },
+        {
+          "t": 528,
+          "kind": "method",
+          "text": "Sulphur nagas have a prayer-draining special attack after a certain number of attacks, which Gnomonkey says you rarely see if you kill them fast, probably about once every ten kills at lower levels, and which drains about five prayer."
+        },
+        {
+          "t": 678,
+          "kind": "tip",
+          "text": "Gnomonkey says sulphur nagas lose aggro and you have to reset them like crabs, roughly every ten minutes."
+        },
+        {
+          "t": 689,
+          "kind": "tip",
+          "text": "On a hardcore ironman, sulphur nagas hit in two splats (a max of five and then six) and a Ring of life procs on the first splat, so Gnomonkey says you cannot die there."
+        },
+        {
+          "t": 678,
+          "kind": "tip",
+          "text": "Gnomonkey says you can train ranged on sulphur nagas with a blowpipe or an MSB for up to about 200k XP per hour but he thinks Chinchompas would be probably better."
+        },
+        {
+          "t": 332,
+          "kind": "stat",
+          "text": "Gnomonkey says sulphur nagas drop a huge amount of chaos runes, a useful amount of nature runes and a good amount of death runes."
+        },
+        {
+          "t": 359,
+          "kind": "stat",
+          "text": "Sulphur nagas also drop ores such as bulk silver, bulk iron and occasionally mithril, and rare hard clue scrolls."
+        }
+      ]
+    },
+    {
+      "name": "Moons of Peril",
+      "kind": "quest",
+      "claims": [
+        {
+          "t": 150,
+          "kind": "requirement",
+          "text": "To train on sulphur nagas you need to have completed the Moons of Peril quest, killing all the moons."
+        },
+        {
+          "t": 150,
+          "kind": "requirement",
+          "text": "Gnomonkey says the hard requirements are the Moons of Peril quest and about 48 Slayer, and a soft requirement of 55 Herblore."
+        },
+        {
+          "t": 92,
+          "kind": "tip",
+          "text": "Because the sulphur nagas are in the Moons area you have unlimited supplies, since you make your own potions there."
+        }
+      ]
+    },
+    {
+      "name": "Herblore",
+      "kind": "skill",
+      "claims": [
+        {
+          "t": 146,
+          "kind": "requirement",
+          "text": "The stats of the potions you make in the Moons area depend on your Herblore level, and you need 55 Herblore for the full super strength effect."
+        },
+        {
+          "t": 146,
+          "kind": "method",
+          "text": "Gnomonkey's potion routine for sulphur naga training is to grab a full inventory of grubs, grind them up, drop four or six on the ground, and make sets of potions."
+        },
+        {
+          "t": 92,
+          "kind": "tip",
+          "text": "Gnomonkey says making potions in the Moons area gives effectively unlimited super combat and Prayer potions at minor input."
+        }
+      ]
+    },
+    {
+      "name": "Dual macuahuitl",
+      "kind": "item",
+      "claims": [
+        {
+          "t": 154,
+          "kind": "opinion",
+          "text": "Gnomonkey says you want a double-hit weapon on sulphur nagas, to get the extra eight from flat armour instead of the extra four."
+        },
+        {
+          "t": 270,
+          "kind": "opinion",
+          "text": "Gnomonkey says the Bopper maces (Dual macuahuitl) are the best weapon for sulphur nagas because they are crush, have a higher crush bonus and strength, and are not that rare from the boss, about one in a hundred as he says."
+        },
+        {
+          "t": 270,
+          "kind": "stat",
+          "text": "The full Blood moon set gives a 33% chance to attack one tick earlier on a successful hit, allowing another attack after three ticks instead of four; both hits count independently, giving a five in nine chance, for roughly a 3.5 tick attack speed."
+        },
+        {
+          "t": 619,
+          "kind": "tip",
+          "text": "Gnomonkey says Blood moon with the Bopper maces is best in slot for sulphur nagas even in max gear."
+        },
+        {
+          "t": 306,
+          "kind": "tip",
+          "text": "Gnomonkey says on an ironman he would first kill sulphur nagas without a double-hit weapon until getting Sulphur blades, possibly take them to the frost nagas, then use glacial hammers, and eventually go to the Boppers by doing Moons."
+        }
+      ]
+    },
+    {
+      "name": "Sulphur blade",
+      "kind": "item",
+      "claims": [
+        {
+          "t": 188,
+          "kind": "stat",
+          "text": "Sulphur nagas drop the Sulphur blade at a rate Gnomonkey gives as one in 450; it is a slash weapon, while sulphur nagas are weak to crush, but they have little defence so it is still a solid option."
+        },
+        {
+          "t": 208,
+          "kind": "tip",
+          "text": "Gnomonkey says the new Glacial hammers (from the frost nagas or the newly released boss) are crush versions of the Sulphur blades and are quite good."
+        },
+        {
+          "t": 619,
+          "kind": "tip",
+          "text": "Gnomonkey's order of best hits against sulphur nagas is Boppers, then Glacial hammers, then Sulphur blades, then Torags; Torag's hammers are five ticks and pretty bad but the next best option, and may be used from a Barrows grind until Sulphur blades."
+        }
+      ]
+    },
+    {
+      "name": "Sulphurous essence",
+      "kind": "item",
+      "claims": [
+        {
+          "t": 92,
+          "kind": "tip",
+          "text": "Sulphur nagas drop Sulphurous essence, which you bring to an NPC in the Moons area to receive Runecrafting XP, about 3 to 4k Runecrafting XP an hour."
+        },
+        {
+          "t": 359,
+          "kind": "stat",
+          "text": "Gnomonkey says each Sulphurous essence is worth 20 Runecrafting XP, so ten would be 200 XP; the drops are noted and stack."
+        },
+        {
+          "t": 446,
+          "kind": "stat",
+          "text": "Gnomonkey's summary of benefits is about 5k Runecrafting XP an hour passively, alongside about 170k XP an hour in one combat style."
+        }
+      ]
+    },
+    {
+      "name": "Nightmare Zone",
+      "kind": "activity",
+      "claims": [
+        {
+          "t": 454,
+          "kind": "opinion",
+          "text": "Gnomonkey says training on sulphur nagas is better than anything in Nightmare Zone, including Dharok, for XP, and also provides passive Prayer and Runecrafting XP, drops and hard clues."
+        },
+        {
+          "t": 575,
+          "kind": "opinion",
+          "text": "Gnomonkey says Nightmare Zone's only advantage is the herb box rewards, which an ironman cannot get, so there is very little reason to do Nightmare Zone any more."
+        },
+        {
+          "t": 465,
+          "kind": "opinion",
+          "text": "Gnomonkey says he hopes sulphur nagas are not nerfed and that everybody should train there; the only requirements are about 50 Slayer and 55 Herblore."
+        }
+      ]
+    },
+    {
+      "name": "Ectoplasmator",
+      "kind": "item",
+      "claims": [
+        {
+          "t": 418,
+          "kind": "stat",
+          "text": "The Ectoplasmator is bought from Soul Wars for 250 Zeal, or just under 300 if you do the solo method, and takes about an hour to grind, per Gnomonkey."
+        },
+        {
+          "t": 418,
+          "kind": "stat",
+          "text": "With an Ectoplasmator each sulphur naga kill gives 20 Prayer XP, per Gnomonkey, for about 5k Prayer XP an hour."
+        }
+      ]
+    }
+  ]
+}

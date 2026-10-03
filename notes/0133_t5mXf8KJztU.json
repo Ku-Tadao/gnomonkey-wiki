@@ -3,137 +3,353 @@
   "title": "Death to Voidwaker and Fang - Weapon Rebalance (OSRS)",
   "date": "2023-12-22",
   "type": "news-opinion",
-  "summary": "Gnomonkey goes through Jagex's weapon rebalance blog post, welcoming the Fang, Scythe and minimum hit splat changes while criticising the Voidwaker nerf, the planned Elder maul buff, the Soul Reaper axe and the Arcane-cult-style magic nerf approach. He also adds his own complaint about the Glaive of Ralos defence drain cap.",
+  "summary": "Gnomonkey goes through Jagex's weapon rebalance blog post, welcoming the Fang, Scythe and minimum hit splat changes while criticising the Voidwaker nerf, the planned Elder maul buff, the Soul Reaper axe and the Occult necklace nerf. He also adds his own complaint about the Glaive of Ralos defence drain cap.",
   "outline": [
-    {"t": 0, "text": "Overview: Jagex is rebalancing weapons; Fang accuracy change"},
-    {"t": 61, "text": "Scythe buffs: charges, triple zero, +15 slash accuracy"},
-    {"t": 121, "text": "Minimum hit splat becomes one on a successful accuracy roll"},
-    {"t": 140, "text": "Elder maul buff is questionable; rare items shouldn't be buffed just for rarity"},
-    {"t": 200, "text": "Voidwaker nerf and why it fits the PvM spec weapon landscape"},
-    {"t": 270, "text": "Inquisitor's armour buff"},
-    {"t": 302, "text": "Soul Reaper axe"},
-    {"t": 333, "text": "Occult necklace nerf"},
-    {"t": 398, "text": "Ancient godsword, tomes, elemental weaknesses"},
-    {"t": 427, "text": "Low-level prayer drain rates (Burst of Strength)"},
-    {"t": 454, "text": "Glaive of Ralos cap complaint"},
-    {"t": 485, "text": "Conclusion: most changes are good"}
+    {
+      "t": 0,
+      "text": "Overview: Jagex is rebalancing weapons; Fang accuracy change"
+    },
+    {
+      "t": 61,
+      "text": "Scythe buffs: charges, triple zero, +15 slash accuracy"
+    },
+    {
+      "t": 121,
+      "text": "Minimum hit splat becomes one on a successful accuracy roll"
+    },
+    {
+      "t": 140,
+      "text": "Elder maul buff is questionable; rare items shouldn't be buffed just for rarity"
+    },
+    {
+      "t": 200,
+      "text": "Voidwaker nerf and why it fits the PvM spec weapon landscape"
+    },
+    {
+      "t": 270,
+      "text": "Inquisitor's armour buff"
+    },
+    {
+      "t": 302,
+      "text": "Soul Reaper axe"
+    },
+    {
+      "t": 333,
+      "text": "Occult necklace nerf"
+    },
+    {
+      "t": 398,
+      "text": "Ancient godsword, tomes, elemental weaknesses"
+    },
+    {
+      "t": 427,
+      "text": "Low-level prayer drain rates (Burst of Strength)"
+    },
+    {
+      "t": 454,
+      "text": "Glaive of Ralos cap complaint"
+    },
+    {
+      "t": 485,
+      "text": "Conclusion: most changes are good"
+    }
   ],
   "topics": [
     {
       "name": "Update: Weapon rebalance",
       "kind": "update",
       "claims": [
-        {"t": 0, "kind": "event", "text": "Jagex announced it is rebalancing a bunch of weapons, buffing some terrible weapons and nerfing some that are too powerful; the blog did not mention what they plan for every weapon but gave some exact stat changes."},
-        {"t": 485, "kind": "opinion", "text": "Gnomonkey considers most of the weapon rebalance changes good and absolutely loves the minimum damage change to one."},
-        {"t": 485, "kind": "opinion", "text": "Gnomonkey hopes Jagex does not ruin any existing items with these changes and keeps the big picture in mind."},
-        {"t": 0, "kind": "opinion", "text": "In the description, Gnomonkey says he looks forward to the Scythe, minimum hit splat and Fang changes, but not so much the Elder maul and Voidwaker changes."}
+        {
+          "t": 0,
+          "kind": "event",
+          "text": "Jagex announced it is rebalancing a bunch of weapons, buffing some terrible weapons and nerfing some that are too powerful; the blog did not mention what they plan for every weapon but gave some exact stat changes."
+        },
+        {
+          "t": 485,
+          "kind": "opinion",
+          "text": "Gnomonkey considers most of the weapon rebalance changes good and absolutely loves the minimum damage change to one."
+        },
+        {
+          "t": 485,
+          "kind": "opinion",
+          "text": "Gnomonkey hopes Jagex does not ruin any existing items with these changes and keeps the big picture in mind."
+        },
+        {
+          "t": 0,
+          "kind": "opinion",
+          "text": "In the description, Gnomonkey says he looks forward to the Scythe, minimum hit splat and Fang changes, but not so much the Elder maul and Voidwaker changes."
+        }
       ]
     },
     {
       "name": "Osmumten's fang",
       "kind": "item",
       "claims": [
-        {"t": 0, "kind": "opinion", "text": "Gnomonkey says the Fang has been extremely competitive as a slash weapon against other slash weapons such as Arclight and Saradomin sword, in some cases beating even the Scythe, blurring the line between best stab weapon and best melee weapon."},
-        {"t": 30, "kind": "event", "text": "Jagex is removing the doubled accuracy roll from the Fang when it is on slash, which Gnomonkey says is exactly what he suggested."},
-        {"t": 30, "kind": "opinion", "text": "Gnomonkey says the Fang change means Saradomin sword will now be second best in slot on Vardorvis and Arclight on the Duke."},
-        {"t": 30, "kind": "opinion", "text": "Gnomonkey still thinks the Fang's drop rates at Tombs of Amascut need to be addressed so the all-encompassing super sword is not worth 25 mil, but calls the change a good step."},
-        {"t": 0, "kind": "opinion", "text": "Gnomonkey says in the description that the Fang has reigned too long as the best in slot weapon for almost every situation and style."}
+        {
+          "t": 0,
+          "kind": "opinion",
+          "text": "Gnomonkey says the Fang has been extremely competitive as a slash weapon against other slash weapons such as Arclight and Saradomin sword, in some cases beating even the Scythe, blurring the line between best stab weapon and best melee weapon."
+        },
+        {
+          "t": 30,
+          "kind": "event",
+          "text": "Jagex is removing the doubled accuracy roll from the Fang when it is on slash, which Gnomonkey says is exactly what he suggested."
+        },
+        {
+          "t": 30,
+          "kind": "opinion",
+          "text": "Gnomonkey says the Fang change means Saradomin sword will now be second best in slot on Vardorvis and Arclight on the Duke."
+        },
+        {
+          "t": 30,
+          "kind": "opinion",
+          "text": "Gnomonkey still thinks the Fang's drop rates at Tombs of Amascut need to be addressed so the all-encompassing super sword is not worth 25 mil, but calls the change a good step."
+        },
+        {
+          "t": 0,
+          "kind": "opinion",
+          "text": "Gnomonkey says in the description that the Fang has reigned too long as the best in slot weapon for almost every situation and style."
+        }
       ]
     },
     {
       "name": "Scythe of Vitur",
       "kind": "item",
       "claims": [
-        {"t": 61, "kind": "event", "text": "Jagex is buffing the Scythe by increasing the charges per Blood rune, removing charge use when it hits a triple zero, and adding 15 slash accuracy."},
-        {"t": 61, "kind": "opinion", "text": "Gnomonkey says the Scythe has been stomped by other super weapons, the Twisted bow and mainly Tumeken's shadow, for quite a while, and he calced loads of bosses without finding one where the 15 accuracy was the difference maker."},
-        {"t": 90, "kind": "stat", "text": "Gnomonkey says against tanky bosses the Scythe accuracy buff can be as much as a 6% DPS increase, which matters at Challenge Mode Chambers where almost everything has high defence, such as Tekton, Vanguards and Olm."},
-        {"t": 90, "kind": "opinion", "text": "Gnomonkey says the Scythe's Blood rune cost has not stopped anyone from using it, even ironmen, given how cheap Blood runes are, but the charge cost reduction is welcome."},
-        {"t": 121, "kind": "stat", "text": "Gnomonkey says that, because the Scythe has three hit splats, the minimum hit change gives it roughly 4% increased DPS against 0 defence targets."}
+        {
+          "t": 61,
+          "kind": "event",
+          "text": "Jagex is buffing the Scythe by increasing the charges per Blood rune, removing charge use when it hits a triple zero, and adding 15 slash accuracy."
+        },
+        {
+          "t": 61,
+          "kind": "opinion",
+          "text": "Gnomonkey says the Scythe has been stomped by other super weapons, the Twisted bow and mainly Tumeken's shadow, for quite a while, and he calced loads of bosses without finding one where the 15 accuracy was the difference maker."
+        },
+        {
+          "t": 90,
+          "kind": "stat",
+          "text": "Gnomonkey says against tanky bosses the Scythe accuracy buff can be as much as a 6% DPS increase, which matters at Challenge Mode Chambers where almost everything has high defence, such as Tekton, Vanguards and Olm."
+        },
+        {
+          "t": 90,
+          "kind": "opinion",
+          "text": "Gnomonkey says the Scythe's Blood rune cost has not stopped anyone from using it, even ironmen, given how cheap Blood runes are, but the charge cost reduction is welcome."
+        },
+        {
+          "t": 121,
+          "kind": "stat",
+          "text": "Gnomonkey says that, because the Scythe has three hit splats, the minimum hit change gives it roughly 4% increased DPS against 0 defence targets."
+        }
       ]
     },
     {
       "name": "Minimum hit splat",
       "kind": "mechanic",
       "claims": [
-        {"t": 121, "kind": "event", "text": "Jagex announced that the minimum hit splat will no longer be a zero but a one on a successful accuracy roll."},
-        {"t": 485, "kind": "opinion", "text": "Gnomonkey notes that after the change the Dragon warhammer will never hit a zero after succeeding on accuracy, and that weapons with fast attack speeds or multiple hit splats benefit a lot."}
+        {
+          "t": 121,
+          "kind": "event",
+          "text": "Jagex announced that the minimum hit splat will no longer be a zero but a one on a successful accuracy roll."
+        },
+        {
+          "t": 485,
+          "kind": "opinion",
+          "text": "Gnomonkey notes that after the change the Dragon warhammer will never hit a zero after succeeding on accuracy, and that weapons with fast attack speeds or multiple hit splats benefit a lot."
+        }
       ]
     },
     {
       "name": "Elder maul",
       "kind": "item",
       "claims": [
-        {"t": 140, "kind": "event", "text": "The Elder maul is planned to be buffed, though the blog did not say exactly how."},
-        {"t": 140, "kind": "opinion", "text": "Gnomonkey finds the Elder maul buff very questionable, as there are already tons of crush weapons and he does not see it fitting the game if it is just a good crush weapon."},
-        {"t": 154, "kind": "opinion", "text": "Gnomonkey says the Scythe and the Inquisitor's mace need love, noting the mace's only use, at Tekton, has fallen to the wayside with the Chambers QoL; devaluing them further seems like a bad idea, and the Elder maul would likely only make other items useless unless it does something unique like the Soul Reaper axe."},
-        {"t": 154, "kind": "opinion", "text": "Gnomonkey says buffing things simply because they are rare is typically not a good idea; he points to how rare corpse shields are, saying that if they blocked so much damage they were useful they would trivialise content, especially the Inferno, and the Elder maul might be the same."}
+        {
+          "t": 140,
+          "kind": "event",
+          "text": "The Elder maul is planned to be buffed, though the blog did not say exactly how."
+        },
+        {
+          "t": 140,
+          "kind": "opinion",
+          "text": "Gnomonkey finds the Elder maul buff very questionable, as there are already tons of crush weapons and he does not see it fitting the game if it is just a good crush weapon."
+        },
+        {
+          "t": 154,
+          "kind": "opinion",
+          "text": "Gnomonkey says the Scythe and the Inquisitor's mace need love, noting the mace's only use, at Tekton, has fallen to the wayside with the Chambers QoL; devaluing them further seems like a bad idea, and the Elder maul would likely only make other items useless unless it does something unique like the Soul Reaper axe."
+        },
+        {
+          "t": 154,
+          "kind": "opinion",
+          "text": "Gnomonkey says buffing things simply because they are rare is typically not a good idea; he points to how rare corpse shields are, saying that if they blocked so much damage they were useful they would trivialise content, especially the Inferno, and the Elder maul might be the same."
+        }
       ]
     },
     {
       "name": "Voidwaker",
       "kind": "item",
       "claims": [
-        {"t": 186, "kind": "opinion", "text": "Gnomonkey calls the Voidwaker nerf the most questionable decision in the blog; he assumed it was a PvP nerf, but the blog did not mention PvP at all."},
-        {"t": 216, "kind": "event", "text": "According to the blog, the reason for the Voidwaker nerf is that guaranteed hits that ignore accuracy checks in PvM make it difficult to design worthwhile spec DPS weapons in future without creeping upwards significantly."},
-        {"t": 216, "kind": "opinion", "text": "Gnomonkey says the Voidwaker slots in beautifully in the current PvM meta: Crystal-bow-style chinchompa spec alternatives aside, he says the Dragon claws spec is best if the target has low defence or is weak to slash, the Dragon claws and the Voidwaker's competitor spec weapons max higher, and the Voidwaker is best if the target meets none of those conditions."},
-        {"t": 243, "kind": "opinion", "text": "Gnomonkey says various bosses have damage modifiers that prevent Voidwaker use, citing Akkha, Vasa Crystal and the Olm melee hand, and that the point of a DPS spec is to do a highly accurate and powerful hit, which is why the Voidwaker is useful."},
-        {"t": 270, "kind": "opinion", "text": "Gnomonkey worries the Voidwaker nerf means Jagex will focus on extremely tanky bosses that cannot be drained, similar to Tombs of Amascut."},
-        {"t": 0, "kind": "opinion", "text": "In the description, Gnomonkey says the Voidwaker fits in so well among the other spec weapons without stepping on their toes, and asks why it is being nerfed."}
+        {
+          "t": 186,
+          "kind": "opinion",
+          "text": "Gnomonkey calls the Voidwaker nerf the most questionable decision in the blog; he assumed it was a PvP nerf, but the blog did not mention PvP at all."
+        },
+        {
+          "t": 216,
+          "kind": "event",
+          "text": "According to the blog, the reason for the Voidwaker nerf is that guaranteed hits that ignore accuracy checks in PvM make it difficult to design worthwhile spec DPS weapons in future without creeping upwards significantly."
+        },
+        {
+          "t": 216,
+          "kind": "opinion",
+          "text": "Gnomonkey says the Voidwaker slots in beautifully in the current PvM meta: the Zaryte crossbow is the best DPS spec if you can land it and the target has 500+ HP, Dragon claws are best if the target has low defence or is weak to slash, and the Voidwaker is best if the target meets neither condition."
+        },
+        {
+          "t": 243,
+          "kind": "opinion",
+          "text": "Gnomonkey says various bosses have damage modifiers that prevent Voidwaker use, citing Akkha, Vasa and the Olm melee hand, and that the Zaryte crossbow sees far more use than the other spec options simply because it hits so ridiculously high; the point of a DPS spec is a highly accurate and powerful hit, which is why the Voidwaker is useful."
+        },
+        {
+          "t": 270,
+          "kind": "opinion",
+          "text": "Gnomonkey worries the Voidwaker nerf means Jagex will focus on extremely tanky bosses that cannot be drained, similar to Tombs of Amascut."
+        },
+        {
+          "t": 0,
+          "kind": "opinion",
+          "text": "In the description, Gnomonkey says the Voidwaker fits in so well among the other spec weapons without stepping on their toes, and asks why it is being nerfed."
+        }
       ]
     },
     {
       "name": "Inquisitor's armour",
       "kind": "item",
       "claims": [
-        {"t": 270, "kind": "opinion", "text": "Gnomonkey says Inquisitor's armour very rightly needs a buff, noting its only uses are Challenge Mode Chambers and Nightmare, and even at Chambers many runners are starting to use Torva because the gap is so small after the changes."},
-        {"t": 270, "kind": "stat", "text": "Gnomonkey says Inquisitor's armour typically gives a 6% increase to hammer accuracy, has the defensive stats of Adamant armour, and has negative accuracy bonuses outside of crush."},
-        {"t": 302, "kind": "opinion", "text": "Gnomonkey suggests removing the negative bonuses and slightly buffing accuracy and strength bonuses to put Inquisitor's armour in a much better spot."}
+        {
+          "t": 270,
+          "kind": "opinion",
+          "text": "Gnomonkey says Inquisitor's armour very rightly needs a buff, noting its only uses are Challenge Mode Chambers and Nightmare, and even at Chambers many runners are starting to use Torva because the gap is so small after the changes."
+        },
+        {
+          "t": 270,
+          "kind": "stat",
+          "text": "Gnomonkey says Inquisitor's armour typically gives a 6% increase to hammer accuracy, has the defensive stats of Adamant armour, and has negative accuracy bonuses outside of crush."
+        },
+        {
+          "t": 302,
+          "kind": "opinion",
+          "text": "Gnomonkey suggests removing the negative bonuses and slightly buffing accuracy and strength bonuses to put Inquisitor's armour in a much better spot."
+        }
       ]
     },
     {
       "name": "Soul Reaper axe",
       "kind": "item",
       "claims": [
-        {"t": 302, "kind": "opinion", "text": "Gnomonkey says the Soul Reaper axe takes roughly the same time to acquire as a Scythe and is useful at only a single location, Vardorvis, the boss that drops a piece of it."},
-        {"t": 302, "kind": "opinion", "text": "Gnomonkey personally thinks the Soul Reaper axe never should have been added, since there are already loads of slash weapons and it does not fit the game easily."},
-        {"t": 333, "kind": "opinion", "text": "Gnomonkey says the axe should not be buffed to stomp on Scythe's toes, yet arguably should be given how rare it is; at the least he wants stacks not lost when swapping weapons and the weapon not to hide current special attack energy."}
+        {
+          "t": 302,
+          "kind": "opinion",
+          "text": "Gnomonkey says the Soul Reaper axe takes roughly the same time to acquire as a Scythe and is useful at only a single location, Vardorvis, the boss that drops a piece of it."
+        },
+        {
+          "t": 302,
+          "kind": "opinion",
+          "text": "Gnomonkey personally thinks the Soul Reaper axe never should have been added, since there are already loads of slash weapons and it does not fit the game easily."
+        },
+        {
+          "t": 333,
+          "kind": "opinion",
+          "text": "Gnomonkey says the axe should not be buffed to stomp on Scythe's toes, yet arguably should be given how rare it is; at the least he wants stacks not lost when swapping weapons and the weapon not to hide current special attack energy."
+        }
       ]
     },
     {
       "name": "Occult necklace",
       "kind": "item",
       "claims": [
-        {"t": 333, "kind": "event", "text": "The Occult necklace is being nerfed: Jagex plans to bring its power down slightly and distribute its magic damage across other parts of magic progression."},
-        {"t": 333, "kind": "opinion", "text": "Gnomonkey says the Occult necklace providing 10% magic damage is absolutely absurd and always has been."},
-        {"t": 365, "kind": "opinion", "text": "Gnomonkey says the nerf will make mid-game magic quite a bit weaker, and spreading the damage through Ancestral robes, which currently cost 330 mil, would lose that damage unless you have absolute max gear."},
-        {"t": 365, "kind": "opinion", "text": "Gnomonkey would be okay with moving 5% of the necklace's damage to Augury, since Augury is often unused and much weaker than other best offensive prayers; the downside is that it would be a massive buff to Gauntlet."}
+        {
+          "t": 333,
+          "kind": "event",
+          "text": "The Occult necklace is being nerfed: Jagex plans to bring its power down slightly and distribute its magic damage across other parts of magic progression."
+        },
+        {
+          "t": 333,
+          "kind": "opinion",
+          "text": "Gnomonkey says the Occult necklace providing 10% magic damage is absolutely absurd and always has been."
+        },
+        {
+          "t": 365,
+          "kind": "opinion",
+          "text": "Gnomonkey says the nerf will make mid-game magic quite a bit weaker, and spreading the damage through Ancestral robes, which currently cost 330 mil, would lose that damage unless you have absolute max gear."
+        },
+        {
+          "t": 365,
+          "kind": "opinion",
+          "text": "Gnomonkey would be okay with moving 5% of the necklace's damage to Augury, since Augury is often unused and much weaker than other best offensive prayers; the downside is that it would be a massive buff to Gauntlet."
+        }
       ]
     },
     {
       "name": "Tome of Fire and Water and elemental weaknesses",
       "kind": "mechanic",
       "claims": [
-        {"t": 398, "kind": "event", "text": "The Ancient godsword is being nerfed because it is too powerful in PvP, and Gnomonkey says it is never used in PvM except in solo hard mode ToB, so it does not affect him."},
-        {"t": 398, "kind": "event", "text": "The Tomes of Fire and Water are being nerfed because elemental weaknesses are being added soon and the tomes might provide too much DPS."},
-        {"t": 398, "kind": "opinion", "text": "Gnomonkey says elemental weaknesses are strange as it is rare to cast a single-target elemental spell, since you lose Thrall DPS and have to deal with autocast delay and the Harmonised staff's lack of AoE."},
-        {"t": 427, "kind": "opinion", "text": "Gnomonkey says if elemental weaknesses are given to bosses it may be an indirect buff to the Harmonised nightmare staff."}
+        {
+          "t": 398,
+          "kind": "event",
+          "text": "The Ancient godsword is being nerfed because it is too powerful in PvP, and Gnomonkey says it is never used in PvM except in solo hard mode ToB, so it does not affect him."
+        },
+        {
+          "t": 398,
+          "kind": "event",
+          "text": "The Tomes of Fire and Water are being nerfed because elemental weaknesses are being added soon and the tomes might provide too much DPS."
+        },
+        {
+          "t": 398,
+          "kind": "opinion",
+          "text": "Gnomonkey says elemental weaknesses are strange as it is rare to cast a single-target elemental spell, since you lose Thrall DPS and have to deal with autocast delay and the Harmonised staff's lack of AoE."
+        },
+        {
+          "t": 427,
+          "kind": "opinion",
+          "text": "Gnomonkey says if elemental weaknesses are given to bosses it may be an indirect buff to the Harmonised nightmare staff."
+        }
       ]
     },
     {
       "name": "Prayer drain rates",
       "kind": "mechanic",
       "claims": [
-        {"t": 427, "kind": "event", "text": "The blog also mentioned the drain rate of extremely low-tier prayers, citing Burst of Strength."},
-        {"t": 427, "kind": "stat", "text": "Burst of Strength is unlocked at level 4 and drains five points per minute, so it alone drains the whole prayer meter in 48 seconds."},
-        {"t": 454, "kind": "opinion", "text": "Gnomonkey says the drain change does not affect most players but makes sense for new players to learn how prayers work."}
+        {
+          "t": 427,
+          "kind": "event",
+          "text": "The blog also mentioned the drain rate of extremely low-tier prayers, citing Burst of Strength."
+        },
+        {
+          "t": 427,
+          "kind": "stat",
+          "text": "Burst of Strength is unlocked at level 4 and drains five points per minute, so it alone drains the whole prayer meter in 48 seconds."
+        },
+        {
+          "t": 454,
+          "kind": "opinion",
+          "text": "Gnomonkey says the drain change does not affect most players but makes sense for new players to learn how prayers work."
+        }
       ]
     },
     {
       "name": "Glaive of Ralos",
       "kind": "item",
       "claims": [
-        {"t": 454, "kind": "opinion", "text": "Gnomonkey says the Glaive of Ralos, the ranged Dragon warhammer coming with Colosseum, will not have any use anywhere because it is capped at draining up to 50% of a target's defence and Olm and Zuk are immune to its effects."},
-        {"t": 454, "kind": "opinion", "text": "Gnomonkey says the cap should be removed so the Glaive can compete with the Bandos godsword in several locations, with Tombs of Amascut the big one."}
+        {
+          "t": 454,
+          "kind": "opinion",
+          "text": "Gnomonkey says the Glaive of Ralos, the ranged Dragon warhammer coming with Colosseum, will not have any use anywhere because it is capped at draining up to 50% of a target's defence and Olm and Zuk are immune to its effects."
+        },
+        {
+          "t": 454,
+          "kind": "opinion",
+          "text": "Gnomonkey says the cap should be removed so the Glaive can compete with the Bandos godsword in several locations, with Theatre of Blood the big one."
+        }
       ]
     }
   ]

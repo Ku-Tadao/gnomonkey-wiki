@@ -7,7 +7,7 @@
   "outline": [
     {"t": 0, "text": "What the Colosseum is: Blue Inferno recontextualised for Varlamore, waves and modifiers"},
     {"t": 31, "text": "Endless mode and the list of main rewards"},
-    {"t": 64, "text": "Glaive of Rallos stats and how it compares to Bandos godsword and Dragon warhammer"},
+    {"t": 64, "text": "Glaive of Ralos stats and how it compares to Bandos godsword and Dragon warhammer"},
     {"t": 147, "text": "Sunfire Fanatic armor and Sunfire runes"},
     {"t": 206, "text": "Dizana's Quiver and its effect on the ranged meta"},
     {"t": 294, "text": "Opinion: rewards seem lacking, caution on corrupted quiver"},
@@ -27,7 +27,7 @@
         {"t": 0, "kind": "stat", "text": "Blue Inferno was sold as a 12-wave encounter, with waves 9 through 12 aimed at players capable of obtaining an Infernal cape."},
         {"t": 0, "kind": "stat", "text": "Each Colosseum wave rolls a modifier that either buffs enemies, debuffs the player, or modifies the terrain, and enemies continue to stack through the entire encounter."},
         {"t": 31, "kind": "stat", "text": "An endless mode lets the player continue into a new run while keeping all the negative modifiers, with the reward being Glory."},
-        {"t": 31, "kind": "stat", "text": "The main announced Colosseum rewards are Dizana's Quiver, the Glaive of Rallos, Sunfire runes, Sunfire Fanatic armor and an Echo crystal that will be added to some pair of boots for recoil damage in a 3x3 area."},
+        {"t": 31, "kind": "stat", "text": "The main announced Colosseum rewards are Dizana's Quiver, the Glaive of Ralos, Sunfire runes, Sunfire Fanatic armor and an Echo crystal that will be added to some pair of boots for recoil damage in a 3x3 area."},
         {"t": 64, "kind": "stat", "text": "All the Colosseum reward items are created or charged with Sunfire dust."},
         {"t": 294, "kind": "opinion", "text": "Gnomonkey thinks the Colosseum rewards seem lacking: the quiver is insanely powerful, but everything else seems niche at best or useless at worst, and mid-tier prayer ranged armor feels out of place in content aimed at people who want a true challenge."},
         {"t": 325, "kind": "opinion", "text": "Gnomonkey thinks the Colosseum could become not worth grinding for GP within a few months, since the dust-charged ranged weapon seems to be the only high-demand drop."},
@@ -36,10 +36,10 @@
       ]
     },
     {
-      "name": "Glaive of Rallos",
+      "name": "Glaive of Ralos",
       "kind": "item",
       "claims": [
-        {"t": 64, "kind": "stat", "text": "The Glaive of Rallos is described as a 6-tick ranged weapon with 5 tile range that lands two hit splats when charged with Sunfire dust."},
+        {"t": 64, "kind": "stat", "text": "The Glaive of Ralos is described as a 6-tick ranged weapon with 5 tile range that lands two hit splats when charged with Sunfire dust."},
         {"t": 64, "kind": "stat", "text": "The Glaive's special attack costs 50% energy and reduces the target's defence by 10% of their total magic level for each splat that lands, up to 20%."},
         {"t": 90, "kind": "opinion", "text": "Gnomonkey says the Glaive is unique because Dragon warhammer gives a flat 30% defence reduction that gets worse with each use, whereas the Glaive rolls a static 20% of magic level every spec, so it competes with Bandos godsword more than with the hammer."},
         {"t": 90, "kind": "stat", "text": "Gnomonkey says Bandos godsword has an average hit of around 40, whereas the Glaive drains 70 defence levels with both hit splats on Maiden and 44 on Xarpus, so it seems directly better than Bandos godsword in ToB most of the time."},

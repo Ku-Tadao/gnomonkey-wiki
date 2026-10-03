@@ -1,0 +1,503 @@
+{
+ "id": "rUFbUjrcJZA",
+ "title": "NEW MAGE CAPE - Tradable vs Untradeable? (OSRS)",
+ "date": "2025-01-12",
+ "type": "news-opinion",
+ "summary": "Follow-up to Gnomonkey's first reaction to the Doom of Mokhaiotl blog (Varlamore: Final Dawn), going through community feedback on the proposed thrall upgrade, the new Mage cape, the Demon bane aegis and the Avernic Treads. He concludes that thralls need a base rework to make any upgrade interesting, and that the Mage cape should be buffed slightly but stay tradable.",
+ "outline": [
+  {
+   "t": 0,
+   "text": "Introduction: follow-up video on community ideas for the Mokhaiotl rewards"
+  },
+  {
+   "t": 23,
+   "text": "Thrall upgrade discussion: problems with the boomerang idea and a review of community suggestions"
+  },
+  {
+   "t": 774,
+   "text": "Mage cape controversy: weak stats, negative prayer bonus, Mage Arena 2 requirement"
+  },
+  {
+   "t": 1181,
+   "text": "Untradeable cape solutions: reviewing community ideas and why he prefers a tradable cape"
+  },
+  {
+   "t": 1479,
+   "text": "Final cape thoughts: bot capes, book of the dead slot, Blue Inferno comparison, drop locking by cave"
+  },
+  {
+   "t": 1731,
+   "text": "Aegis weapon analysis: compared with Emberlight and the value of damage reduction"
+  },
+  {
+   "t": 1830,
+   "text": "Avernic Treads analysis: strength of the boots and the upgrade tree complaints"
+  },
+  {
+   "t": 2013,
+   "text": "Conclusion: solid foundation, cape should be a bit stronger but stay tradable"
+  }
+ ],
+ "topics": [
+  {
+   "name": "Doom of Mokhaiotl",
+   "kind": "boss",
+   "claims": [
+    {
+     "t": 0,
+     "kind": "event",
+     "text": "The video follows up on Gnomonkey's earlier reaction to the new Inferno/Colosseum-level boss, the Doom of Mokhaiotl, coming with Varlamore: Final Dawn, after he asked viewers for ideas on its rewards."
+    },
+    {
+     "t": 294,
+     "kind": "method",
+     "text": "As Gnomonkey describes the Doom of Mokhaiotl, there are eight caves with a boss fight in each, moving deeper in; after the eighth cave the player can keep repeating, with the content getting harder, more mechanically interesting and giving more loot."
+    },
+    {
+     "t": 327,
+     "kind": "method",
+     "text": "In the Doom of Mokhaiotl you are not allowed to bank in between caves, and the further you get, the more rare loot you receive."
+    },
+    {
+     "t": 1039,
+     "kind": "opinion",
+     "text": "Gnomonkey notes the Doom of Mokhaiotl has no clear defined end: cave eight is the last unique cave, but the boss goes on endlessly and ends when you cannot take it any more, so there is no 'kill the boss and get a drop' moment."
+    },
+    {
+     "t": 1189,
+     "kind": "opinion",
+     "text": "Gnomonkey believes the Doom of Mokhaiotl is a departure from the norm in OSRS in general, and considers that a good chance to try out new things."
+    },
+    {
+     "t": 1218,
+     "kind": "opinion",
+     "text": "Gnomonkey expects the base difficulty of clearing cave eight to be fairly simple, around Cerberus difficulty, because he says the boss is built on ideas from the RuneScape 3 bosses Telos and Arch-Glacor; he expects the difficulty to come from pushing far beyond cave eight."
+    },
+    {
+     "t": 1279,
+     "kind": "opinion",
+     "text": "Gnomonkey compares a first cave eight clear to finishing your first 150 or 300 Tombs of Amascut raid: not equal in difficulty, but it sets you up to start engaging with the content, which is going endless."
+    },
+    {
+     "t": 1576,
+     "kind": "opinion",
+     "text": "Gnomonkey is okay with most Doom of Mokhaiotl drops being locked behind higher caves, so that players must be doing the content to get drops and get more rolls once delving endlessly."
+    },
+    {
+     "t": 1632,
+     "kind": "opinion",
+     "text": "Gnomonkey is okay with players dipping into the Doom of Mokhaiotl without touching endless and still getting very rare drops, comparing it to getting purples at 150 Tombs of Amascut, as long as the rate is not too high."
+    },
+    {
+     "t": 1659,
+     "kind": "opinion",
+     "text": "Gnomonkey thinks the only Doom of Mokhaiotl reward that could be somewhat lower in the drop table is the Demon bane aegis, though he calls even that pretty strong."
+    }
+   ]
+  },
+  {
+   "name": "Opinion: Doom of Mokhaiotl drops should be tradable",
+   "kind": "opinion",
+   "claims": [
+    {
+     "t": 1039,
+     "kind": "opinion",
+     "text": "Gnomonkey explains that the new Mage cape is tradable because the Doom of Mokhaiotl has no defined end, so there is no natural point at which a cape could be handed out."
+    },
+    {
+     "t": 1072,
+     "kind": "opinion",
+     "text": "Gnomonkey thinks the Doom of Mokhaiotl having purely tradable drops is perfect, because it pushes players to go as far as they possibly can."
+    },
+    {
+     "t": 1101,
+     "kind": "opinion",
+     "text": "Gnomonkey says tradable drops are not gatekeeping: a player who only reaches cave five still has a chance at loot, but being better is rewarded with more loot, not only faster kills or less supply use."
+    },
+    {
+     "t": 1101,
+     "kind": "opinion",
+     "text": "Gnomonkey calls the Doom of Mokhaiotl the only content in the entire game where being better yields more loot, so making everything tradable increases profit."
+    },
+    {
+     "t": 1131,
+     "kind": "opinion",
+     "text": "Gnomonkey would rather get a stack of tradable capes to sell than pile up untradeable capes he cannot use, and thinks the people who delve very deep should be the ones supplying the drops."
+    },
+    {
+     "t": 1521,
+     "kind": "opinion",
+     "text": "Gnomonkey says Jagex cannot track and bans buyers of capes any more (he claims they gave up years ago) and that he has seen many bot Inferno capes and quivers, so he doubts untradeable capes are really prestigious because 'you got it yourself'."
+    },
+    {
+     "t": 1521,
+     "kind": "opinion",
+     "text": "Gnomonkey says PKers who do no PvM are incentivised to get a cape that gives a lot of damage, so he thinks skipping the middleman with a tradable cape is nice."
+    },
+    {
+     "t": 1549,
+     "kind": "opinion",
+     "text": "Gnomonkey likes that a tradable cape lets legitimate players who are good at the content get paid and removes the need for a shady underground black market, calling it neat that this once you can just buy the cape."
+    },
+    {
+     "t": 1688,
+     "kind": "opinion",
+     "text": "Gnomonkey dismisses the argument that the cape must be untradeable 'because that is what Old School is', and wants players to look outside the box since this boss is about making money: the better you are, the more you make."
+    }
+   ]
+  },
+  {
+   "name": "Mage cape",
+   "kind": "item",
+   "claims": [
+    {
+     "t": 774,
+     "kind": "stat",
+     "text": "The new Mage cape, an upgrade of the Mage Arena 2 cape, has 1% extra magic damage, +5 magic accuracy, lower defence bonuses than the Mage Arena 2 cape (he cites about 15 magic defence) and a -2 prayer bonus."
+    },
+    {
+     "t": 774,
+     "kind": "opinion",
+     "text": "Gnomonkey says the new Mage cape feels lame and weak because only Tumeken's shadow benefits much from its 1% magic damage, and even there his calcs show at best about a 5% DPS increase."
+    },
+    {
+     "t": 808,
+     "kind": "opinion",
+     "text": "Gnomonkey compares the new Mage cape to the Venator ring: it rarely changes a max hit and mostly just sits in your inventory, especially if you do not own a Tumeken's shadow."
+    },
+    {
+     "t": 894,
+     "kind": "opinion",
+     "text": "Gnomonkey does not think the new Mage cape should require the Mage Arena 2 cape, comparing the quiver (obtainable without Desert Treasure 2 or Dragon Slayer 2) and the Infernal cape, which you simply receive as a full cape; he would be fine with a harder or more expensive alternative route and thinks it should just drop as a full cape."
+    },
+    {
+     "t": 950,
+     "kind": "opinion",
+     "text": "A Reddit post with about 2,000 upvotes criticised the new Mage cape's -2 prayer bonus and its tradability, noting the quiver and Infernal cape are two BIS capes from effortful content; Gnomonkey agrees the cape feels weak and like a slap in the face."
+    },
+    {
+     "t": 981,
+     "kind": "opinion",
+     "text": "Gnomonkey thinks the new Mage cape should have no prayer penalty (+0 prayer) since 1% magic damage and +5 accuracy are enough to go for the cape, and would argue the bonus should be higher, such as 2% or 3%."
+    },
+    {
+     "t": 1162,
+     "kind": "opinion",
+     "text": "Gnomonkey does not think there is prestige in the Mage Arena 2 cape, arguing it only requires killing three fairly basic Wilderness bosses once each, unlike the quiver or the Inferno cape."
+    },
+    {
+     "t": 1309,
+     "kind": "opinion",
+     "text": "Gnomonkey would be okay with having to clear cave eight of the Doom of Mokhaiotl once to equip the new Mage cape as a compromise, but thinks players should still be allowed to buy it and that it should be a rare drop worth grinding endless for."
+    },
+    {
+     "t": 1576,
+     "kind": "opinion",
+     "text": "Gnomonkey rejects the community request to give the new Mage cape a book of the dead slot, arguing that thralls are not tied to magic since you can use them with any combat style."
+    },
+    {
+     "t": 2041,
+     "kind": "opinion",
+     "text": "Gnomonkey's closing wish is that Jagex makes the new Mage cape a little stronger while keeping it tradable."
+    }
+   ]
+  },
+  {
+   "name": "Opinion: Mage cape should be untradeable",
+   "kind": "opinion",
+   "claims": [
+    {
+     "t": 950,
+     "kind": "opinion",
+     "text": "The biggest community complaint Gnomonkey cites is that the new Mage cape is tradable, which would make it the first buyable BIS cape after the untradeable melee and ranged BIS capes; a Reddit post argued the community likes BIS capes locked behind challenging content."
+    },
+    {
+     "t": 1189,
+     "kind": "opinion",
+     "text": "A well-thought-out community comment Gnomonkey reads notes that capes have been a visible depiction of an account's progression and every step has been untradeable, but accepts Jagex is trying to solve two problems: no guaranteed cape after layer eight, and wanting the cape to stay valuable long term."
+    },
+    {
+     "t": 1218,
+     "kind": "opinion",
+     "text": "One community idea was to guarantee the cape after a first layer eight clear or a number of clears; Gnomonkey thinks this has problems because it assumes layer eight is an impressive feat, which he does not expect."
+    },
+    {
+     "t": 1309,
+     "kind": "opinion",
+     "text": "Gnomonkey says that for an untradeable cape to stay profitable, one community idea is a pet gamble; he says pets do not provide value in the same way GP does and finds that argument weak."
+    },
+    {
+     "t": 1343,
+     "kind": "opinion",
+     "text": "A community idea was to give some consumable items a trading option, like Sunfire splinters and tackle boxes, so a duplicate cape could yield GP without being traded; Gnomonkey calls this overly complicated for little upside because it kills the appeal of a valuable cape you can sell."
+    },
+    {
+     "t": 1401,
+     "kind": "opinion",
+     "text": "Gnomonkey would be fine with Jagex adding a cosmetic kit to the cape for a very hard achievement, such as reaching delve 50, while keeping the cape itself tradable."
+    },
+    {
+     "t": 1429,
+     "kind": "opinion",
+     "text": "A community idea was to sacrifice the cape for a curse or kiss that lets you skip straight to layer two or three of the delve, missing early loot but reaching deeper layers faster; Gnomonkey likes the idea but not for a cape, suggesting a rare untradeable token for Colosseum that lets you start from about wave six."
+    }
+   ]
+  },
+  {
+   "name": "Thralls",
+   "kind": "mechanic",
+   "claims": [
+    {
+     "t": 29,
+     "kind": "event",
+     "text": "The Doom of Mokhaiotl blog proposed a consumable stored in the ammo slot that augments thralls with an additional effect: when thralls despawn they boomerang back to the player and deal damage if they hit the target."
+    },
+    {
+     "t": 29,
+     "kind": "opinion",
+     "text": "Gnomonkey objects to the thrall boomerang because many bosses are in walled areas (Ulm, Warden P3, Duke Sucellus) where a boomerang cannot pass, and bosses like Vasa Nistirio wander around."
+    },
+    {
+     "t": 60,
+     "kind": "opinion",
+     "text": "Gnomonkey says any thrall upgrade must always benefit thralls so there is a reason to use the currency; otherwise players keep spamming the consumable at bosses where the mechanic does not work and get no benefit."
+    },
+    {
+     "t": 86,
+     "kind": "opinion",
+     "text": "Gnomonkey says the simplest community suggestion, increasing thrall damage from 0-3 to 1-3 with no thrall book, would always buff thralls and work as a baseline, but he wants something better than baseline."
+    },
+    {
+     "t": 119,
+     "kind": "opinion",
+     "text": "Gnomonkey says the 'no thrall book' part of the damage-increase suggestion would be a huge buff."
+    },
+    {
+     "t": 149,
+     "kind": "opinion",
+     "text": "Gnomonkey dislikes the idea of an AoE around the thrall's location because players have no control over where a thrall spawns; for example a thrall summoned one tile off Kephri would miss, forcing constant re-summoning and more currency use."
+    },
+    {
+     "t": 206,
+     "kind": "opinion",
+     "text": "Gnomonkey says a buff for standing with your thrall (such as a minimum hit of four) would push players to use thralls at bosses like Vespula or Zuk where thralls cannot reach, which he does not want; the buff should apply where thralls are already used."
+    },
+    {
+     "t": 237,
+     "kind": "opinion",
+     "text": "Gnomonkey likes the idea of user-controlled thrall placement (click the thrall, get a targeting reticle, click the ground to place it), and says the boomerang idea would work much better if players could control where the thrall is summoned."
+    },
+    {
+     "t": 264,
+     "kind": "opinion",
+     "text": "Gnomonkey says thralls are currently set-it-and-forget-it, which makes them poor to build a play-around bonus on, and thinks they may need a rework."
+    },
+    {
+     "t": 415,
+     "kind": "opinion",
+     "text": "Gnomonkey thinks having a thrall upgrade charge the book of the dead is less clunky than carrying tokens in the ammo slot, which he finds really frustrating, and says it should charge something even if the book is later removed by a quest."
+    },
+    {
+     "t": 447,
+     "kind": "method",
+     "text": "Gnomonkey points out much content forces a specific thrall type: a mage thrall on Vasa Nistirio at Chambers of Xeric because the crystals are immune to ranged damage, a specific thrall type for each hand of Ulm and a ranged thrall for its head, and a melee thrall at Theatre of Blood P1 or damage is reduced."
+    },
+    {
+     "t": 478,
+     "kind": "opinion",
+     "text": "Gnomonkey finds the idea of typeless thralls with different effects appealing, saying it would turn the choice into decision-making rather than APM."
+    },
+    {
+     "t": 506,
+     "kind": "opinion",
+     "text": "Gnomonkey says making all thralls apply damage over time adds little because thralls already deal small damage over time, and notes burn is buggy and appears to count as ranged damage so it hits zeros on ranged-immune targets."
+    },
+    {
+     "t": 537,
+     "kind": "opinion",
+     "text": "Gnomonkey likes that there are three thrall types but dislikes that all thralls feel the same, and says a typeless omni-thrall concept would reduce complexity."
+    },
+    {
+     "t": 564,
+     "kind": "opinion",
+     "text": "Gnomonkey thinks a thrall debuff idea that builds a damage-over-time debuff on the target is too complicated, and says changes should be simple: a thrall is summoned and does damage; Avenge is cast and reflects damage."
+    },
+    {
+     "t": 594,
+     "kind": "opinion",
+     "text": "Gnomonkey is leaning toward three differentiated thrall types where the mage, ranged and melee thralls each do their own simple thing, so players decide which suits each situation."
+    },
+    {
+     "t": 627,
+     "kind": "opinion",
+     "text": "Gnomonkey considers the idea of the thrall exploding at the player's location, or a thrall bomb with huge AoE, too crazy an effect for something that should be simple and small."
+    },
+    {
+     "t": 685,
+     "kind": "opinion",
+     "text": "Gnomonkey says many people complain thralls are far less interesting than Vengeance, and he agrees: thralls are just summon, deal damage and lose a little prayer, whereas Vengeance involves deciding when to dump a lot of health on a target."
+    },
+    {
+     "t": 712,
+     "kind": "opinion",
+     "text": "Gnomonkey suggested on stream that doing something right with your thrall could grant a mini Vengeance or recoil proc, making the decision of when to spend a Vengeance more interesting, though it would require reworking thralls."
+    },
+    {
+     "t": 742,
+     "kind": "opinion",
+     "text": "Gnomonkey says players almost never take Vengeance anywhere unless spellbook swapping in Theatre of Blood, and mostly just camp thralls everywhere."
+    }
+   ]
+  },
+  {
+   "name": "Opinion: Thrall upgrade consumable",
+   "kind": "opinion",
+   "claims": [
+    {
+     "t": 294,
+     "kind": "opinion",
+     "text": "Gnomonkey says Ironmen disliked the thrall token idea because they hate gathering a consumable, but he thinks a consumable that is constantly sunk from the game is really important for profitability at the Doom of Mokhaiotl."
+    },
+    {
+     "t": 327,
+     "kind": "opinion",
+     "text": "Gnomonkey says the thrall consumable is unlike Sunfire splinters, which require wave one farming or Colosseum wave 12 to bless a quiver; with thrall tokens you do not bless anything or need 150,000 of them, just enough to use at bosses."
+    },
+    {
+     "t": 355,
+     "kind": "opinion",
+     "text": "Gnomonkey says getting bulk thrall tokens would not be bad because you are not limited by your skill: if you can do harder difficulty for more loot, tokens come faster."
+    },
+    {
+     "t": 385,
+     "kind": "opinion",
+     "text": "Gnomonkey believes people dislike money Colosseum runs because they are not fun, but thinks that is less of an issue if the Doom of Mokhaiotl content scales, and says players should wait and see since content like this has not existed before."
+    },
+    {
+     "t": 659,
+     "kind": "opinion",
+     "text": "Gnomonkey concludes from the community suggestions that thralls need a base rework or changes giving players some control to make any upgrade interesting."
+    }
+   ]
+  },
+  {
+   "name": "Tumeken's shadow",
+   "kind": "item",
+   "claims": [
+    {
+     "t": 808,
+     "kind": "opinion",
+     "text": "Gnomonkey argues the way Tumeken's shadow scales with magic damage bonus is too powerful, which is why tiny 1% magic damage buffs like the new Mage cape feel pitiful for anything but the shadow."
+    },
+    {
+     "t": 837,
+     "kind": "opinion",
+     "text": "Gnomonkey suggests knocking the shadow's multiplier in Tombs of Amascut down to about 2x or maybe 3x, one multiplier lower, and making its base damage solid, which would make players less reliant on magic gear."
+    },
+    {
+     "t": 837,
+     "kind": "stat",
+     "text": "Gnomonkey says that in Tombs of Amascut, dropping from Ancestral to Virtus armour while using Tumeken's shadow loses about five max hits of damage."
+    },
+    {
+     "t": 864,
+     "kind": "opinion",
+     "text": "Gnomonkey says the shadow was scaling too hard from the get-go, and that this is becoming obvious as tiny magic damage increases need trade-offs to balance; he says it should keep its power but use a different scaling system."
+    }
+   ]
+  },
+  {
+   "name": "Demon bane aegis",
+   "kind": "item",
+   "claims": [
+    {
+     "t": 1745,
+     "kind": "stat",
+     "text": "The Demon bane aegis, per Gearscape calcs Gnomonkey cites, is extremely similar to Emberlight in max gear."
+    },
+    {
+     "t": 1745,
+     "kind": "opinion",
+     "text": "Gnomonkey notes Emberlight scales heavily with strength bonus (roughly 13 strength bonus, with each strength bonus almost a max hit), whereas the aegis does not, so it matches Emberlight in max gear but is much better in gear like Bandos with a Faceguard."
+    },
+    {
+     "t": 1776,
+     "kind": "stat",
+     "text": "The aegis has a 25% damage reduction, which Gnomonkey says would be a huge buff against bosses like Abyssal Sire, Cerberus and Tormented Demons even at the same DPS as Emberlight."
+    },
+    {
+     "t": 1803,
+     "kind": "opinion",
+     "text": "Gnomonkey describes the aegis as a better, upgraded Emberlight, though Emberlight would remain used where targets are only weak to stab or slash since the aegis is crush only."
+    },
+    {
+     "t": 1803,
+     "kind": "opinion",
+     "text": "Gnomonkey thinks damage reduction is an interesting way to upgrade items, since everything added currently needs added DPS or accuracy, and he would like to see it on more unusual items."
+    },
+    {
+     "t": 1836,
+     "kind": "opinion",
+     "text": "Gnomonkey says the aegis is not exactly the type of item he would like dropped, but it fits the game and came out better than he expected."
+    }
+   ]
+  },
+  {
+   "name": "Avernic Treads",
+   "kind": "item",
+   "claims": [
+    {
+     "t": 1866,
+     "kind": "opinion",
+     "text": "Gnomonkey says claims that the new boots are too weak come from people who do not interact with stats or PvM much, since they combine all three boots in one with extra range strength and extra defence on top, and he thinks they are probably the best drop of the Doom of Mokhaiotl."
+    },
+    {
+     "t": 1893,
+     "kind": "opinion",
+     "text": "Gnomonkey says primordial boots are really strong because strength bonus is important, and he has never understood the discourse that they are weak."
+    },
+    {
+     "t": 1893,
+     "kind": "opinion",
+     "text": "Gnomonkey is thrilled that the new boots remove the need for nine-way boot switches, saying nine ways do not feel fluid and learning them is not enjoyable; he does not mind that the skill ceiling was lowered."
+    },
+    {
+     "t": 1923,
+     "kind": "event",
+     "text": "Jagex has said on platforms that these boots will be the base for any future boot upgrades, so any new mage boots would require them."
+    },
+    {
+     "t": 1956,
+     "kind": "opinion",
+     "text": "Gnomonkey acknowledges the upgrade tree is large (ranger boots plus a pegasian crystal, infinity boots plus an eternal crystal, dragon boots plus a primordial crystal, all combined), says it is not the end of the world, but getting pegasian boots is annoying."
+    },
+    {
+     "t": 1956,
+     "kind": "stat",
+     "text": "Gnomonkey says he checked and it takes roughly 400 medium clue scrolls on average to get ranger boots."
+    },
+    {
+     "t": 1987,
+     "kind": "opinion",
+     "text": "Gnomonkey would like an alternative way to get ranger-style boots, such as from a Slayer monster, and notes infinity boots also require grinding Mage Arena."
+    }
+   ]
+  },
+  {
+   "name": "Opinion: Jagex and community feedback",
+   "kind": "opinion",
+   "claims": [
+    {
+     "t": 2013,
+     "kind": "opinion",
+     "text": "Gnomonkey thinks Jagex has a really solid foundation for the Doom of Mokhaiotl rewards and only needs tweaks, and he hopes Jagex does not blindly listen to Reddit; he says they usually take overall feedback."
+    },
+    {
+     "t": 1606,
+     "kind": "opinion",
+     "text": "Gnomonkey says some people compared the Doom of Mokhaiotl to the Blue Inferno idea and were disappointed, but he says Blue Inferno at concept turned into the Colosseum, so the Doom of Mokhaiotl is a completely different, unrelated thing."
+    }
+   ]
+  }
+ ]
+}

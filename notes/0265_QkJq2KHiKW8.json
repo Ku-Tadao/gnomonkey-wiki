@@ -1,0 +1,334 @@
+{
+  "id": "QkJq2KHiKW8",
+  "title": "WOW VS OSRS HIGH RISK TOA (OSRS)",
+  "date": "2025-09-23",
+  "type": "challenge",
+  "summary": "Gnomonkey joins a group of World of Warcraft streamers and OSRS grandmaster-level players for a 150 invocation Tombs of Amascut run with no armour, bone weapons only and salmon as the only food. The raid takes about 70 minutes, with constant deaths, trolling and arguments over rules, and the group clears it; the winning OSRS player was promised 30 subs by the WoW streamers.",
+  "outline": [
+    {
+      "t": 0,
+      "text": "Planning the challenge and settling the rules (naked, bone weapons, salmon only)"
+    },
+    {
+      "t": 175,
+      "text": "Starting the raid; thrall and Book of the Dead rule debate"
+    },
+    {
+      "t": 605,
+      "text": "Kephri boss fight with bone weapons"
+    },
+    {
+      "t": 948,
+      "text": "Zebak boss fight"
+    },
+    {
+      "t": 1417,
+      "text": "Baba boss fight"
+    },
+    {
+      "t": 1650,
+      "text": "Akkha boss fight begins"
+    },
+    {
+      "t": 1941,
+      "text": "Resource management between phases"
+    },
+    {
+      "t": 2231,
+      "text": "Final Akkha phase and the blame game over deaths"
+    },
+    {
+      "t": 2661,
+      "text": "Preparing for the Wardens"
+    },
+    {
+      "t": 2997,
+      "text": "Wardens boss fight"
+    },
+    {
+      "t": 3567,
+      "text": "Final phase and victory"
+    },
+    {
+      "t": 4611,
+      "text": "Loot, scoreboard and recap"
+    }
+  ],
+  "topics": [
+    {
+      "name": "Challenge: WoW vs OSRS high risk Tombs of Amascut",
+      "kind": "challenge",
+      "claims": [
+        {
+          "t": 0,
+          "kind": "event",
+          "text": "The video is a collaboration where World of Warcraft streamers face OSRS grandmaster-level players in a 150 invocation Tombs of Amascut run, framed as a test of whether gear matters or technical skill makes the grandmasters far better than the WoW newcomers."
+        },
+        {
+          "t": 301,
+          "kind": "requirement",
+          "text": "The agreed rules were no armour, gloves, cloak, neck, offhand, ring or boots, bone weapons only, and salmon as the only food."
+        },
+        {
+          "t": 4,
+          "kind": "event",
+          "text": "The video description says the winning OSRS player got 30 subs from the WoW streamers and bragging rights."
+        },
+        {
+          "t": 241,
+          "kind": "event",
+          "text": "An alternative idea to cap the grandmasters at around 2 million GP of gear was floated but the group instead chose the naked bone-only rule."
+        },
+        {
+          "t": 4596,
+          "kind": "record",
+          "text": "The group cleared the 150 raid in about 70 minutes, which players called genuinely crazy given the restrictions."
+        },
+        {
+          "t": 4625,
+          "kind": "event",
+          "text": "At the end Gnomonkey's damage topped the scoreboard at about 50% of the raid's damage, which players called a fraud because his thralls did probably half of it; the 30-sub reward was discussed as going to him."
+        },
+        {
+          "t": 4721,
+          "kind": "event",
+          "text": "After the raid someone suggested running a 500 or 600 invocation raid with everything on, where it becomes about who is alive last."
+        }
+      ]
+    },
+    {
+      "name": "Bone weapons",
+      "kind": "item",
+      "claims": [
+        {
+          "t": 365,
+          "kind": "requirement",
+          "text": "The allowed weapons for the challenge were the bone dagger, bone crossbow and bone halberd, and the group later also used a bone spear."
+        },
+        {
+          "t": 479,
+          "kind": "tip",
+          "text": "Before the raid a player said any bone crossbow hitsplat over 23 would indicate cheating; a 23 was hit later in the Wardens fight."
+        },
+        {
+          "t": 1129,
+          "kind": "stat",
+          "text": "The bone crossbow's range was noted as six tiles, which players kept forgetting, and its range was described as bad."
+        },
+        {
+          "t": 1487,
+          "kind": "opinion",
+          "text": "Players judged the bone spear much slower than the bone dagger and worse for damage, with one calling it absolute trolling and recommending daggers instead."
+        },
+        {
+          "t": 2083,
+          "kind": "tip",
+          "text": "Gnomonkey and others noted during Akkha that the bone dagger spec seemed more accurate than the bone crossbow."
+        },
+        {
+          "t": 4022,
+          "kind": "opinion",
+          "text": "Players said the bone crossbow shredded the Wardens with range and joked it was broken and should be nerfed, calling it like a mega rare."
+        },
+        {
+          "t": 4080,
+          "kind": "event",
+          "text": "During the Wardens fight players discovered that iron bolts could be used with the bone crossbow."
+        }
+      ]
+    },
+    {
+      "name": "Tombs of Amascut",
+      "kind": "raid",
+      "claims": [
+        {
+          "t": 3419,
+          "kind": "stat",
+          "text": "The run was a 150 invocation Tombs of Amascut, and after clearing a boss a player said it was difficulty 150 but felt like 300 because of who they were playing with."
+        },
+        {
+          "t": 4141,
+          "kind": "opinion",
+          "text": "Gnomonkey and others say getting through the raid mostly requires knowing left from right and counting to three, joking that is all that is needed to be a grandmaster."
+        },
+        {
+          "t": 1129,
+          "kind": "tip",
+          "text": "Players discussed whether the group could pump the raid to a 300 invocation with their gear and concluded their DPS was just not there."
+        },
+        {
+          "t": 1426,
+          "kind": "stat",
+          "text": "Gnomonkey, an Ironman, notes that Ironman accounts cannot take supplies even from raid supply rewards, so he could not give restores to the WoW players."
+        },
+        {
+          "t": 2494,
+          "kind": "event",
+          "text": "In the later boss fights smelling salts were running out, with a player noting a level 600 Akkha has 1400 HP."
+        }
+      ]
+    },
+    {
+      "name": "Thralls",
+      "kind": "mechanic",
+      "claims": [
+        {
+          "t": 423,
+          "kind": "requirement",
+          "text": "The group debated whether thralls and the Book of the Dead were allowed; Showbeck objected, but the other players voted to allow thralls and the Book of the Dead."
+        },
+        {
+          "t": 780,
+          "kind": "event",
+          "text": "Players noted during Kephri that the only damage getting done by the group was through thralls, and the group repeatedly told everyone to re-thrall during the raid."
+        },
+        {
+          "t": 4875,
+          "kind": "event",
+          "text": "Gnomonkey said his thralls probably did about half of his damage in the raid, which affected how the top score was viewed."
+        }
+      ]
+    },
+    {
+      "name": "Kephri",
+      "kind": "boss",
+      "claims": [
+        {
+          "t": 622,
+          "kind": "event",
+          "text": "At Kephri the group had to deal with eggs, scarabs and beetles using only bone weapons, and players found the bone weapons too slow to deal with the room cleanly."
+        },
+        {
+          "t": 688,
+          "kind": "tip",
+          "text": "In the Kephri room the grandmasters were told to take flies while the WoW players took big beetles."
+        },
+        {
+          "t": 780,
+          "kind": "event",
+          "text": "At Kephri players dropped to very low HP, ran out of prayer and food, and had to eat salmon and ignore eggs to stay alive."
+        }
+      ]
+    },
+    {
+      "name": "Zebak",
+      "kind": "boss",
+      "claims": [
+        {
+          "t": 948,
+          "kind": "event",
+          "text": "The Zebak fight started with the group asking what the easiest next step to get potions would be, and players going to the Zebak room after Kephri."
+        },
+        {
+          "t": 976,
+          "kind": "tip",
+          "text": "At Zebak a teammate failed to wait a tick when using the water container, which the group joked about repeatedly."
+        },
+        {
+          "t": 1221,
+          "kind": "tip",
+          "text": "Players watched the waves and flicked range prayer at Zebak, with the group trying to two-tile the wall mechanic."
+        },
+        {
+          "t": 1369,
+          "kind": "opinion",
+          "text": "Gnomonkey and the group noted that at the lowest raid level Zebak's blood splats do not off-tick, which one player called terrible game design because it forces players to do it at higher levels where they are off-tick."
+        }
+      ]
+    },
+    {
+      "name": "Baba",
+      "kind": "boss",
+      "claims": [
+        {
+          "t": 1460,
+          "kind": "event",
+          "text": "At Baba the group dealt with walls and pillars, with players calling directions for the sequence and one joking that a call was just a random direction."
+        },
+        {
+          "t": 1573,
+          "kind": "event",
+          "text": "Before one fight the group agreed not to enter until a leader called it, then split four and four and swapped aggro; a player died in the middle of the room."
+        }
+      ]
+    },
+    {
+      "name": "Akkha",
+      "kind": "boss",
+      "claims": [
+        {
+          "t": 1903,
+          "kind": "stat",
+          "text": "The group reached Akkha at invocation level 3, and Gnomonkey said it was the most insane thing he had done, noting a previous high-risk ToA ended with 50 deaths (said at 32:09)."
+        },
+        {
+          "t": 2017,
+          "kind": "event",
+          "text": "During Akkha the group struggled with the colour orb mechanics and burning, calling colours like yellow, black, red and white while moving to avoid the attacks."
+        },
+        {
+          "t": 2319,
+          "kind": "event",
+          "text": "Players accused each other of killing teammates during Akkha by moving at the wrong time; a player later said Odablock killed him eight percent into Akkha, and others joked the group took less damage after Odablock died."
+        },
+        {
+          "t": 2437,
+          "kind": "tip",
+          "text": "The group used tears next to each other to restore prayer during Akkha, and a player cast blood barrage from the back to heal."
+        },
+        {
+          "t": 3031,
+          "kind": "event",
+          "text": "In a later boss phase players coordinated bone dagger specs for burst, with a player noting the boss had only 900 health and could regenerate in 10 ticks."
+        }
+      ]
+    },
+    {
+      "name": "Wardens",
+      "kind": "boss",
+      "claims": [
+        {
+          "t": 3507,
+          "kind": "event",
+          "text": "The group started the Wardens with a three-three split, with a salmon tile marked, and agreed to stack where needed."
+        },
+        {
+          "t": 3778,
+          "kind": "tip",
+          "text": "In the Wardens fight the group planned a final bone spear hit at specific hit counts on a phase, with Gnomonkey and others saying not to miss the bone spear, and they used adrenaline potions and DDS specs as well."
+        },
+        {
+          "t": 3812,
+          "kind": "opinion",
+          "text": "Players concluded range was much better than mage against the Wardens with bone weapons and that they should have spawned the other Warden."
+        },
+        {
+          "t": 4194,
+          "kind": "event",
+          "text": "Players were low on salmon during the Wardens and traded brews and smelling salts, with several players dying until the grandmasters were the last standing."
+        },
+        {
+          "t": 4596,
+          "kind": "event",
+          "text": "The Wardens were defeated at about 70 minutes into the raid, with a purple drop announced."
+        }
+      ]
+    },
+    {
+      "name": "Salmon",
+      "kind": "item",
+      "claims": [
+        {
+          "t": 301,
+          "kind": "requirement",
+          "text": "Salmon was the only food allowed for the challenge, and players repeatedly dropped salmon for each other to eat."
+        },
+        {
+          "t": 717,
+          "kind": "event",
+          "text": "Players repeatedly ran out of salmon and joked about stealing it; one WoW player said he was saving his salmon for the Wardens."
+        }
+      ]
+    }
+  ]
+}

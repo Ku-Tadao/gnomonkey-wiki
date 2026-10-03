@@ -1,0 +1,156 @@
+{
+  "id": "qiA-iaA19-M",
+  "title": "Sailing Resource Blog Update! (OSRS)",
+  "date": "2025-07-31",
+  "type": "news-opinion",
+  "summary": "Gnomonkey reacts to the Old School RuneScape Sailing resources and skilling activities blog, which he helped Jagex introduce. He goes through new woodcutting, mining, fishing, hunter, farming, fletching, herblore, smithing and thieving content that Sailing adds to existing skills, giving his opinions on each. He calls it the best Sailing blog yet and urges players, even Sailing haters, to give constructive feedback because Sailing is coming regardless.",
+  "outline": [
+    {"t": 0, "text": "Introduction: blog is about integrating existing skills into Sailing"},
+    {"t": 65, "text": "New woodcutting logs: Jatoba, camphor, ironwood, rosewood"},
+    {"t": 162, "text": "Mining: lead, rubium, nickel and thoughts on Infernal shale and Jim's wet rag"},
+    {"t": 254, "text": "Fishing: new harpoon squid spots"},
+    {"t": 319, "text": "Deep sea trawling and new fish: haddock, yellowfin, bluefin, marlin"},
+    {"t": 474, "text": "Crab hunting with a set trap timer"},
+    {"t": 533, "text": "Farming: new corals, hop seeds, and hardwood tree patches"},
+    {"t": 685, "text": "Crafting and fletching: lower-tier blowpipes"},
+    {"t": 804, "text": "Herblore: anti-odour salt, anti-bleed tonic, super potions, extended stamina, Armadyl brew"},
+    {"t": 1106, "text": "Smithing: furnace that doubles cannonball speed"},
+    {"t": 1138, "text": "Thieving: new chests, stalls and clue scroll sources"},
+    {"t": 1262, "text": "Conclusion: wants a combat Sailing blog next"},
+    {"t": 1348, "text": "Plea for constructive feedback on Sailing"}
+  ],
+  "topics": [
+    {
+      "name": "Update: Sailing resources and skilling activities blog",
+      "kind": "update",
+      "claims": [
+        {"t": 0, "kind": "event", "text": "Gnomonkey helped introduce the Sailing resources and skilling activities blog with Jagex, and the blog is about incorporating existing skills into Sailing through methods and resources that come from Sailing and are used in skills such as Fletching, Smithing, Mining and Thieving."},
+        {"t": 33, "kind": "opinion", "text": "Gnomonkey says much of the blog does not apply yet because Sailing does not exist (such as ship and cannon upgrades), but a lot of the additions will change current gameplay."},
+        {"t": 65, "kind": "opinion", "text": "Gnomonkey thinks Jagex's goal with the blog is not to upend skilling but to add new methods of training, and says he thinks most of it is really cool even though some skilling players complain about it."},
+        {"t": 1262, "kind": "opinion", "text": "Gnomonkey likes the integration of Sailing with other skills and the way it gates methods behind Sailing to encourage early Sailing training, and says basically every skilling method mentioned sounds potentially cool."},
+        {"t": 1318, "kind": "opinion", "text": "Gnomonkey says this is the best Sailing blog yet, has the most potential, and that nothing in it looks like it will not fit in the game."},
+        {"t": 1290, "kind": "opinion", "text": "Gnomonkey hopes the next Sailing blog is about combat, saying the combat beta left a lot to be desired and he wants to know what mobs and encounters are planned, whether Slayer will be integrated, and what is planned for hunting leviathans."}
+      ]
+    },
+    {
+      "name": "Sailing",
+      "kind": "skill",
+      "claims": [
+        {"t": 1348, "kind": "opinion", "text": "Gnomonkey says Jagex is not going to repoll Sailing and it is going to be added whether players like it or not, so the best option is to give constructive feedback to make the skill good."},
+        {"t": 1348, "kind": "opinion", "text": "Gnomonkey asks Sailing detractors to give specific feedback, such as how a hunter method could be improved, or to join the Sailing Discord discussion, instead of just saying they hate Sailing; he calls the latter a waste of everyone's time."},
+        {"t": 1408, "kind": "tip", "text": "Gnomonkey gave feedback that he does not want to just be farming seaweed all day, and encourages others to give their own feedback on things they do not want to end up doing."},
+        {"t": 1318, "kind": "opinion", "text": "Gnomonkey says what most players are after with Sailing is going out and killing things, and that is what he is most interested in."},
+        {"t": 1138, "kind": "opinion", "text": "Gnomonkey considers new Sailing content such as the Smithing furnace and thieving options a good reason to train Sailing early on."}
+      ]
+    },
+    {
+      "name": "Woodcutting",
+      "kind": "skill",
+      "claims": [
+        {"t": 65, "kind": "event", "text": "The Sailing blog adds new logs for Woodcutting and Firemaking and a new hardwood patch on one of the islands, with four new trees: Jatoba, camphor, ironwood and rosewood."},
+        {"t": 65, "kind": "stat", "text": "Jatoba logs come from trees comparable to a lower XP maple tree, and the logs are used for Sailing."},
+        {"t": 97, "kind": "stat", "text": "Camphor trees are a hardwood above mahogany used in shipbuilding and give slightly more XP per hour than mahogany but fewer logs per hour; Gnomonkey likes this trade-off since lower resources usually mean lower XP."},
+        {"t": 130, "kind": "stat", "text": "Ironwood trees give slightly more XP per hour than camphor but fewer logs per hour, and rosewood (reserved for master sailors) gives slightly more XP per hour than ironwood; the hardwood tree patch variants respawn slower."},
+        {"t": 97, "kind": "opinion", "text": "Gnomonkey says mahogany trees are about 40% worse than teaks, so he does not think the new trees will change much and expects teaks to stay the best option, but welcomes new AFK woodcutting options beyond Forestry and teaks."}
+      ]
+    },
+    {
+      "name": "Mining",
+      "kind": "skill",
+      "claims": [
+        {"t": 162, "kind": "stat", "text": "Lead is a new ore requiring level 25 Mining that gives slightly higher XP per hour than iron rocks outside the Mining Guild but less than iron inside the guild, so it could be an early option; the blog calls it an alternative for those willing to train Sailing early."},
+        {"t": 193, "kind": "stat", "text": "Rubium is a new ore similar to Infernal shale: either rocks that deplete after one mine or a slower AFK option."},
+        {"t": 193, "kind": "opinion", "text": "Gnomonkey says Infernal shale is a cool but really slow method with atrocious XP, and hopes Rubium has better tuned XP rates."},
+        {"t": 223, "kind": "opinion", "text": "Gnomonkey hates Jim's wet rag because it is meant to teach three-tick mining but makes you click on the third tick, which is not transferable, and would prefer it to work like a pestle and mortar."},
+        {"t": 254, "kind": "stat", "text": "Nickel is a level 74 Mining resource mined similar to pay-dirt in Motherlode Mine or Baronite, used to make cupro-nickel (called Cooper Nickel in the transcript), AFK but lower XP per hour than Motherlode Mine and should be more profitable."},
+        {"t": 288, "kind": "opinion", "text": "Gnomonkey thinks a level 74 mining method would be fine if it simply beat Motherlode Mine and gave more money, but he notes the blog does not say it does."}
+      ]
+    },
+    {
+      "name": "Fishing",
+      "kind": "skill",
+      "claims": [
+        {"t": 288, "kind": "stat", "text": "Two new harpoon squid fishing spots are added at levels 52 and 69 Fishing, which give squid paste (used in potions), fish offcuts (used for fishing other fish) and squid beaks (used for Fletching)."},
+        {"t": 319, "kind": "opinion", "text": "Gnomonkey does not expect the squid fishing spots to shake up XP rates unless they have a two-tick option, but expects them to be a profitable option since the drops are useful."},
+        {"t": 351, "kind": "stat", "text": "Deep sea trawling is a hybrid method requiring both a Sailing level and a Construction level, where higher level nets give better fish; Gnomonkey says you are blocked from the best option without enough Construction."},
+        {"t": 351, "kind": "opinion", "text": "Gnomonkey says he asked for more hybrid skill methods like drift net fishing on Fossil Island (fishing and hunter) and likes that the blog adds more."},
+        {"t": 379, "kind": "stat", "text": "Deep sea trawling introduces new fish with unique effects: haddock heals 18 with overheal up to 10 (a low-level anglerfish equivalent) and yellowfin tuna gives 20% energy, like Kebbit, and both are used to make super fishing potion and extreme energy potions."},
+        {"t": 442, "kind": "stat", "text": "A new combo food heals 20, and Gnomonkey wonders whether it has a two-tick delay like Karambwan; if so it would be the best healing food per tick in the game."},
+        {"t": 442, "kind": "stat", "text": "Bluefin tuna restores a small amount of prayer points, which Gnomonkey says might help redemption procing, such as when thieving."},
+        {"t": 474, "kind": "stat", "text": "Marlin heals 24, the new highest healing food in the game, needs level 93 Cooking, heals more per bite than an anglerfish, and is used to make extended stamina potions."}
+      ]
+    },
+    {
+      "name": "Hunter",
+      "kind": "skill",
+      "claims": [
+        {"t": 474, "kind": "stat", "text": "The new crab hunting method sets a trap and after an exact amount of time the crab enters the trap, rather than a random chance; higher-level crabs seem slower, and the crab meat is used for potions."},
+        {"t": 505, "kind": "opinion", "text": "Gnomonkey says the crab hunting method is a set cycle (for example, every 25 ticks you reset the trap, then look away for 10 to 15 seconds) and is closest to herbiboar, a method he really likes; he hopes it does not have terrible XP."},
+        {"t": 533, "kind": "stat", "text": "Crab traps are faster if you set them manually than automatically, and Gnomonkey thinks the main idea would be the slow but consistent automatic option."},
+        {"t": 899, "kind": "opinion", "text": "Gnomonkey thinks the super hunter potion (boosting Hunter by six) could allow boosting to high-level hunter contracts such as herbiboar or black chinchompas early, as there is currently no good consistent high-level boost."},
+        {"t": 836, "kind": "stat", "text": "Anti-odour salt is a stackable salt that is automatically consumed to smoke a Hunter trap, increasing catch rates for things like chinchompas; Gnomonkey says smoking traps was an old, buggy system nobody used."}
+      ]
+    },
+    {
+      "name": "Farming",
+      "kind": "skill",
+      "claims": [
+        {"t": 533, "kind": "stat", "text": "The blog adds corals that can be farmed underwater (compared by Gnomonkey to giant seaweed), used in potions, and new hop seeds: flax, hemp and cotton, used mostly to make nets and ship supplies."},
+        {"t": 565, "kind": "opinion", "text": "Gnomonkey was concerned that growing would be the only way to get the new corals, but the blog says they will also drop from mobs, which he says is great; he did not want constant seaweed runs on Iron Men."},
+        {"t": 598, "kind": "stat", "text": "The new corals take two hours 40 minutes to grow, compared with about 40 minutes for seaweed, according to Gnomonkey."},
+        {"t": 598, "kind": "stat", "text": "The new hop seeds take 1 hour 20 minutes to 1 hour 40 minutes to grow, similar to herb runs, and Gnomonkey thinks some will be worth growing for profit on a herb run."},
+        {"t": 629, "kind": "stat", "text": "The new hardwood trees take a long time to respawn and will not replace teaks for XP, but could be profitable at 1.5 tick because people need the logs for Sailing; Gnomonkey likes that it is a choice between profit and max XP."},
+        {"t": 658, "kind": "stat", "text": "The rosewood tree needs level 92 Farming, which Gnomonkey says is really high, and he is curious how much XP it gives."}
+      ]
+    },
+    {
+      "name": "Fletching",
+      "kind": "skill",
+      "claims": [
+        {"t": 685, "kind": "stat", "text": "The blog adds fletchable lower-tier blowpipes: a max level dart is required for each blowpipe, either mithril darts for the lowest tier or adamant darts, and the toxic blowpipe still reigns supreme."},
+        {"t": 745, "kind": "stat", "text": "The new blowpipes require 72 Fletching to make (Gnomonkey also mentions 84), and the Ranged levels to use them are 45, 55 and 65."},
+        {"t": 745, "kind": "opinion", "text": "Gnomonkey says the craftable blowpipes will help mid-level Iron Men, whose early Ranged options are basically a Magic shortbow, Scurrius' bow or Dorgeshuun crossbow, and that most early targets have no defence so a blowpipe is an amazing option."},
+        {"t": 776, "kind": "opinion", "text": "Gnomonkey says some players might be scared by letting players craft blowpipes, but it seems reined in by the dart limits, the Fletching requirement and the Ranged requirement, and that it will change the early game a lot."}
+      ]
+    },
+    {
+      "name": "Herblore",
+      "kind": "skill",
+      "claims": [
+        {"t": 804, "kind": "stat", "text": "Anti-bleed tonic, made with corals and paste from fishing, cures bleed and heals 5 hitpoints but does not prevent bleed from being reapplied; Gnomonkey notes the only thing that applies bleed is Vardorvis's axe and he expects it to be good there."},
+        {"t": 866, "kind": "stat", "text": "Super fishing potions boost Fishing by six, which Gnomonkey thinks will help with diaries and fishing sturgeon at Barbarian Fishing earlier, similar to summer pies for the Rooftop course."},
+        {"t": 899, "kind": "stat", "text": "Extreme energy potions restore 40% run energy and Gnomonkey says they would be really good at Blast Furnace; a super hunter potion boosts Hunter by six."},
+        {"t": 929, "kind": "stat", "text": "Extended stamina potions give a 70% reduction in run energy depletion for four minutes (up from two minutes for a regular stamina potion), and each dose adds two charges to the ring of endurance and consumes two charges from the ring."},
+        {"t": 956, "kind": "opinion", "text": "Gnomonkey thinks extended stamina would give about eight minutes of stamina with the ring of endurance, which he calls wild and says will greatly cut down stamina potion use for Iron Men."},
+        {"t": 987, "kind": "stat", "text": "Armadyl brew (Armadil brew in the transcript) needs about 89 Herblore and Umbral coral and crab paste; it heals 10% plus 2 hitpoints and raises Ranged by 10% plus 4, but lowers Attack, Strength, Magic and Defence by 10% plus 2; Gnomonkey estimates 11 healed per dose, 44 per potion."},
+        {"t": 1019, "kind": "opinion", "text": "Gnomonkey thinks Armadyl brew could be the strongest offshoot brew in the game for pure ranging, such as Zulrah, Chinning, God Wars with a Twisted bow or Scorching bow, and the Doom of Mokhaiotl, where the melee punish bonus damage is unaffected by level."},
+        {"t": 1076, "kind": "opinion", "text": "Gnomonkey would like an upgraded Zamorak brew that raises all combat stats, to be a super-combat style brew near level 99."}
+      ]
+    },
+    {
+      "name": "Smithing",
+      "kind": "skill",
+      "claims": [
+        {"t": 1106, "kind": "stat", "text": "At 81 Sailing a unique furnace on one of the islands will double the speed of making cannonballs, and the blog says it also includes the double mould from Giants' Foundry."},
+        {"t": 1138, "kind": "opinion", "text": "Gnomonkey says the new furnace could make making cannonballs on Iron Men feasible, such as for using a cannon before a Corporeal Beast grind, and boosts regular cannonballs for dwarf multicannons too."}
+      ]
+    },
+    {
+      "name": "Thieving",
+      "kind": "skill",
+      "claims": [
+        {"t": 1138, "kind": "stat", "text": "The blog adds Thieving pickpocketing and chest opening that drops cannonball fragments and sources of coral, plus a new way to get clue scrolls: medium clues and hard clues from a level 76 chest."},
+        {"t": 1199, "kind": "stat", "text": "New thieving stalls have guards on rotation around the market; when you see them leave you can pickpocket repeatedly until they return, which Gnomonkey compares to wealthy citizens."},
+        {"t": 1199, "kind": "opinion", "text": "Gnomonkey says the new stalls could be a really solid semi-AFK thieving option, which thieving does not have, especially if you steal automatically while the guards are gone."},
+        {"t": 1232, "kind": "opinion", "text": "Gnomonkey says he likes that the thieving additions give other ways to get new items such as cannonballs and fish and could change how you train Thieving, rather than adding the same old stuff."}
+      ]
+    },
+    {
+      "name": "Doom of Mokhaiotl",
+      "kind": "boss",
+      "claims": [
+        {"t": 1439, "kind": "record", "text": "Gnomonkey says new rock block tech for the Doom of Mokhaiotl got him all the way to cave 23, and he plans to keep hanging out there until something big happens."}
+      ]
+    }
+  ]
+}

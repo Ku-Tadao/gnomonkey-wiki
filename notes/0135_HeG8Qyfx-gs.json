@@ -1,0 +1,39 @@
+{
+  "id": "HeG8Qyfx-gs",
+  "title": "WR SOLO NEX Speedrun",
+  "date": "2024-01-12",
+  "type": "speedrun",
+  "summary": "Gnomonkey completes a solo Nex speedrun in 26:30, which the description calls the fastest time by over 10 minutes. The video is mostly raw gameplay with little spoken explanation; the description credits Saxerpillar's lab work for making solo Nex possible and says the kill took 106 sweets.",
+  "outline": [
+    {"t": 0, "text": "Run starts with a one-hour clock joke"},
+    {"t": 54, "text": "Restoring stats at the altar before fighting Fumus; minions use most of the supplies"},
+    {"t": 82, "text": "Frustration at repeated low damage rolls"},
+    {"t": 148, "text": "Remainder of the run (little narration in the transcript)"}
+  ],
+  "topics": [
+    {
+      "name": "Nex",
+      "kind": "boss",
+      "claims": [
+        {"t": 0, "kind": "record", "text": "Gnomonkey's world record solo Nex speedrun finished with a final time of 26:30, which the video description says is the fastest time by over 10 minutes."},
+        {"t": 0, "kind": "event", "text": "The video description says solo Nex became possible thanks to over a year of lab work by Saxerpillar."},
+        {"t": 0, "kind": "method", "text": "According to the description, the final hurdles to solo Nex were max distance resets, blood sacrifice and ice prison tick eats, plus simply figuring out to tank through Glacies."},
+        {"t": 54, "kind": "tip", "text": "In Gnomonkey's solo Nex run, most of the supplies used over the whole kill go on defeating minions, because he cannot tick-eat while also killing them."},
+        {"t": 0, "kind": "opinion", "text": "Gnomonkey says solo Nex is absolutely not worth it for GP, although it is still somewhat profitable."},
+        {"t": 0, "kind": "opinion", "text": "Gnomonkey says solo Nex can be done 100% consistently and plans to speedrun it in the future."},
+        {"t": 0, "kind": "opinion", "text": "Gnomonkey rates solo Nex as roughly equal in difficulty to a normal solo Theatre of Blood."},
+        {"t": 0, "kind": "stat", "text": "The 26:30 solo Nex run took 106 sweets, with many more used on attempts, and dragon arrows were also used up on the failed attempts."},
+        {"t": 54, "kind": "method", "text": "Gnomonkey restores his stats at an altar before fighting Nex in the speedrun."}
+      ]
+    },
+    {
+      "name": "Gnomonkey",
+      "kind": "person",
+      "claims": [
+        {"t": 0, "kind": "record", "text": "Gnomonkey set a 26:30 solo Nex time in January 2024, which the description calls the fastest time by over 10 minutes."},
+        {"t": 0, "kind": "event", "text": "Gnomonkey thanked Condor in the description for helping him between planks during the solo Nex attempts."},
+        {"t": 0, "kind": "opinion", "text": "Gnomonkey plans to speedrun solo Nex in the future."}
+      ]
+    }
+  ]
+}

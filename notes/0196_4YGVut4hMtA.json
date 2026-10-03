@@ -1,0 +1,115 @@
+{
+ "id": "4YGVut4hMtA",
+ "title": "NEW INFERNO + REWARDS - Varlamore Final Dawn (OSRS)",
+ "date": "2025-01-09",
+ "type": "news-opinion",
+ "summary": "Gnomonkey reads and reacts to Jagex's blog on the Varlamore: Final Dawn update, featuring the Doom of Mokhaiotl delve boss, a new quest weapon, and rewards like Avernic treads, the Eldritch veil cape, the Diabolical Aegis, a thrall upgrade and a new slayer dungeon. He is very hyped about the boss and loot system, likes most rewards, but argues the thrall upgrade as described will not work well.",
+ "outline": [
+  {"t": 0, "text": "Introduction and the new quest and weapon"},
+  {"t": 74, "text": "Doom of Mokhaiotl: delve system, difficulty and loot"},
+  {"t": 283, "text": "Avernic Treads boots"},
+  {"t": 398, "text": "Eldritch Veil magic cape"},
+  {"t": 526, "text": "Diabolical Aegis weapon"},
+  {"t": 642, "text": "Thrall upgrade and how it might work"},
+  {"t": 1210, "text": "Overall thoughts on rewards compared to the Colosseum"},
+  {"t": 1210, "text": "New slayer dungeon and Antler Guard shield"},
+  {"t": 1305, "text": "Release timing and closing thoughts"}
+ ],
+ "topics": [
+  {
+   "name": "Doom of Mokhaiotl",
+   "kind": "boss",
+   "claims": [
+    {"t": 0, "kind": "event", "text": "The Varlamore: Final Dawn update blog (January 2025) detailed the Doom of Mokhaiotl, an Inferno-level difficulty endgame boss encounter similar to the Colosseum, unlocked by a new quest."},
+    {"t": 89, "kind": "stat", "text": "The Doom of Mokhaiotl is a never-ending boss encounter that you can leave at any time; each time it is defeated it descends deeper into its burrow, and chasing it increases the chance of unique drops, with some uniques only appearing at more dangerous levels."},
+    {"t": 117, "kind": "stat", "text": "In the Doom of Mokhaiotl encounter, progress must be made in a single run since returning to the surface resets you to delve level one, and the chance at uniques rises with depth while basic loot quantities do not."},
+    {"t": 176, "kind": "stat", "text": "You can keep repeating the Doom of Mokhaiotl's hardest difficulty as long as you survive, but if you die you lose everything, creating a risk-reward system like the Colosseum."},
+    {"t": 176, "kind": "stat", "text": "The Doom of Mokhaiotl is aimed at players at or above combat level 120 who have or are close to getting their Infernal cape."},
+    {"t": 205, "kind": "stat", "text": "Deeper delve levels of the Doom of Mokhaiotl increase boss attack rate, shorten reaction times, leave lingering arena state from previous levels, and after level five add environment changes with extra damaging effects that can be avoided, plus additional mechanics and special attacks."},
+    {"t": 236, "kind": "opinion", "text": "Gnomonkey is very pleased that the Doom of Mokhaiotl blog does not mention max hit, defence or HP increases at deeper levels, calling the difficulty scaling purely skill expression, unlike how people disliked Tombs of Amascut's stat scaling."},
+    {"t": 89, "kind": "opinion", "text": "Gnomonkey says he has long begged for an RS3 Telos or Araxxor-style kill-streak loot system and is glad Jagex is focusing only on increasing rare drops and not common loot quantities as RS3 did, calling it the perfect approach."},
+    {"t": 3, "kind": "opinion", "text": "Gnomonkey calls the Doom of Mokhaiotl update the most hyped he has been for an update, maybe ever, saying it is what he has been begging for, while worrying there are many ways Jagex could mess it up."},
+    {"t": 1305, "kind": "event", "text": "As of January 2025 the Doom of Mokhaiotl update was slated on the roadmap for spring, after the Giants boss update, and Gnomonkey expects it to come with the Fletching update and the whole Varlamore expansion."}
+   ]
+  },
+  {
+   "name": "Varlamore: Final Dawn",
+   "kind": "quest",
+   "claims": [
+    {"t": 27, "kind": "event", "text": "The Varlamore: Final Dawn update includes a new quest (like Tombs of Amascut has) that unlocks a new weapon and the Doom of Mokhaiotl encounter."},
+    {"t": 27, "kind": "stat", "text": "The new weapon from the quest is a one-handed melee weapon similar to the Dragon scimitar with decent slash and stab, slightly worse strength, one Prayer bonus and a four-tick attack speed."},
+    {"t": 27, "kind": "stat", "text": "The new weapon's special attack is a 50% spec that performs a single attack with 50% increased accuracy and 50% increased damage and guarantees one stack of burn on a successful hit."},
+    {"t": 57, "kind": "opinion", "text": "Gnomonkey considers the new burn weapon a decent mid-level spec option until Burning claws, and thinks the Dragon dagger-style weapon might still beat it depending on the target's defence."}
+   ]
+  },
+  {
+   "name": "Avernic treads",
+   "kind": "item",
+   "claims": [
+    {"t": 283, "kind": "stat", "text": "The Avernic catalyst is a consumable drop from the Doom of Mokhaiotl that combines Primordial boots, Pegasian boots and Eternal boots into the Avernic treads, which come in three recolors, and both the catalyst and treads are tradable."},
+    {"t": 321, "kind": "stat", "text": "Gnomonkey says Avernic treads combine the stats of Pegasian, Eternal and Primordial boots plus heavy defence and ranged strength, which Pegasian boots lack, enough in max gear to reach a Toxic blowpipe max hit, about a 4% DPS increase with the pipe."},
+    {"t": 283, "kind": "opinion", "text": "Gnomonkey calls the Avernic treads gigantic tribrid boots and probably the best drop from the Doom of Mokhaiotl, with high defence against melee, magic and ranged, and expects Pegasian boot prices to rise."},
+    {"t": 381, "kind": "stat", "text": "Combining the Avernic treads requires 80 Smithing according to Gnomonkey, who says that seems reasonable and that the upgrade keeps old boots valuable."}
+   ]
+  },
+  {
+   "name": "Eldritch veil",
+   "kind": "item",
+   "claims": [
+    {"t": 398, "kind": "stat", "text": "The Eldritch veil is a new best-in-slot cape for magic offence, made by using a demonic mark (a tradable consumable) on any imbued god cape, while the finished cape is untradeable."},
+    {"t": 414, "kind": "stat", "text": "The Eldritch veil gives five extra magic attack and 1% magic damage with a trade-off of negative two prayer bonus."},
+    {"t": 414, "kind": "opinion", "text": "Gnomonkey thinks 1% magic damage with negative Prayer is odd and says it feels like the Tumeken's shadow is holding back magic as a whole, so he believes it should be 4% magic damage, noting the magic rebalance already hindered magic."},
+    {"t": 469, "kind": "opinion", "text": "Gnomonkey is happy that nearly all Doom of Mokhaiotl rewards are tradable, and says the encounter is not suited to a quiver-style untradeable unlock."}
+   ]
+  },
+  {
+   "name": "Diabolical Aegis",
+   "kind": "item",
+   "claims": [
+    {"t": 526, "kind": "stat", "text": "The Diabolical Aegis is a new two-handed demonbane crush weapon with four-tick attack speed, double hit splats, and a passive that resets your attack delay if you land the killing blow on a demonic enemy."},
+    {"t": 554, "kind": "stat", "text": "The Diabolical Aegis has a Demon ward effect giving 25% damage reduction against demons, and Gnomonkey cites stats of 75 strength, 95 crush attack and solid defence."},
+    {"t": 588, "kind": "opinion", "text": "Gnomonkey considers the Diabolical Aegis a niche side-grade that doesn't slot into the game well, since Emberlight is amazing at Tormented Demons, Sire and Cerberus, and says he will wait for Gearscape calcs."}
+   ]
+  },
+  {
+   "name": "Thrall upgrade",
+   "kind": "item",
+   "claims": [
+    {"t": 642, "kind": "stat", "text": "The thrall upgrade is a tradable consumable Doom of Mokhaiotl drop stored in the ammo slot that augments summoned thralls; when they despawn their spirit travels in a straight line back towards you, damaging enemies in its path."},
+    {"t": 677, "kind": "opinion", "text": "Gnomonkey likes that the thrall upgrade is a consumable, saying it is like Sunfire splinters and gives the content a lasting money sink and profit source, and hopes Reddit does not push for a permanent version."},
+    {"t": 725, "kind": "opinion", "text": "Gnomonkey dislikes that the thrall upgrade goes in the ammo slot, saying it is clunky with the quiver and weapons like the Twisted bow, and suggests charging the Book of the Dead or using a rune pouch instead."},
+    {"t": 794, "kind": "opinion", "text": "Gnomonkey notes a Reddit concern that Master and Grandmaster Combat Achievements players with extended-duration thralls would be penalised, and mentions a Jagex developer suggested the effect could trigger at fixed intervals instead, which he would prefer."},
+    {"t": 920, "kind": "opinion", "text": "Gnomonkey argues the thrall upgrade effect breaks down in practice: it cannot work if there is no line from the thrall through the boss to you (such as Ulm, Warden phase 3 or Duke), thralls spawn on a random tile, and for many bosses it would either always or never work."},
+    {"t": 1004, "kind": "opinion", "text": "Gnomonkey compares the thrall upgrade to the old Gambit prayer, saying a damage bonus for doing something right does not suit bosses with so many different defences and contexts."},
+    {"t": 1057, "kind": "opinion", "text": "Gnomonkey suggests a simpler alternative of upgrading thrall DPS by removing their zero hits, so they hit one to three and never splash, which would help Ulm."},
+    {"t": 1124, "kind": "tip", "text": "Gnomonkey notes there are about ten bosses requiring a specific thrall, for example melee at Tekton, mage at Vasa and skeletal at Olm's head."},
+    {"t": 1152, "kind": "opinion", "text": "Gnomonkey loves the concept of the thrall upgrade but thinks the effect needs work, and asks the community for ideas."}
+   ]
+  },
+  {
+   "name": "Antler guard",
+   "kind": "item",
+   "claims": [
+    {"t": 1223, "kind": "stat", "text": "The Antler guard is a tribrid shield dropped in the new Final Dawn slayer dungeon, with five melee strength, two ranged strength and massive negative defence."},
+    {"t": 1254, "kind": "opinion", "text": "Gnomonkey says the Antler guard is not best in slot anywhere but could be useful on ironmen, who find ranged strength offhands hard to get, for example with a Warhammer or a ring crossbow at Zebak where defence does not matter."}
+   ]
+  },
+  {
+   "name": "Slayer",
+   "kind": "skill",
+   "claims": [
+    {"t": 1210, "kind": "stat", "text": "The Final Dawn update adds a new slayer dungeon with several variants and tiers of monsters with hefty HP, low to mid defence and some elemental weakness, which Gnomonkey compares to crabs."},
+    {"t": 1241, "kind": "opinion", "text": "Gnomonkey hopes the new slayer monsters are cannonable with decent XP and likes having more enemies with more HP and less defence."}
+   ]
+  },
+  {
+   "name": "Colosseum",
+   "kind": "activity",
+   "claims": [
+    {"t": 1180, "kind": "opinion", "text": "Gnomonkey considers the Doom of Mokhaiotl rewards better than the Colosseum's, which he says had an untradeable unlock and cruddy items like Sunfire armour and Echo boots that recoil for wind damage and didn't fit the content."},
+    {"t": 1180, "kind": "opinion", "text": "Gnomonkey believes Jagex was scared to give upgrades with the Colosseum but is much less scared now."},
+    {"t": 205, "kind": "opinion", "text": "Gnomonkey says re-entry (lingering arena state) from the Colosseum was almost cool but did not work there, and he hopes it works better in the Doom of Mokhaiotl."}
+   ]
+  }
+ ]
+}

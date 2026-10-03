@@ -1,0 +1,132 @@
+{
+  "id": "kd6oHdt4BB0",
+  "title": "Jagex Let Reddit Win - Varlamore Final Dawn Blog #3 (OSRS)",
+  "date": "2025-01-14",
+  "type": "news-opinion",
+  "summary": "Gnomonkey reacts to Jagex's third Varlamore: The Final Dawn blog, which revises the rewards of the new delve boss (Doom of Mokhaiotl). He is upset that the Eldritch Veil became untradeable and that the thrall upgrade was removed, arguing this removes the boss's long-term profit and any reason to delve past level 8.",
+  "outline": [
+    {"t": 0, "text": "Intro and reading the blog: Jagex addresses feedback on the Final Dawn quest, delve boss and Slayer dungeon rewards"},
+    {"t": 28, "text": "Avernic treads: the upgrade path is kept unchanged"},
+    {"t": 96, "text": "Player expectations and consistency: Jagex's reasoning around the Eldritch Veil"},
+    {"t": 193, "text": "Changes to the Eldritch Veil: untradeable, prayer bonus, guaranteed drop at delve level 8, minimum hit of 2"},
+    {"t": 331, "text": "Aegis: demon bane effect and attack requirement lowered to 70"},
+    {"t": 397, "text": "Thrall upgrade removed and Gnomonkey's reaction"},
+    {"t": 457, "text": "Book of the Dead rewards deferred to a future quest"},
+    {"t": 585, "text": "New melee weapon: slash only, AoE special removed, spec cost reduced"},
+    {"t": 670, "text": "Slayer dungeon rewards: Elder stalkers and the Antler guard"},
+    {"t": 772, "text": "Final thoughts: Jagex should have more confidence and not bow to Reddit feedback"}
+  ],
+  "topics": [
+    {
+      "name": "Doom of Mokhaiotl",
+      "kind": "boss",
+      "claims": [
+        {"t": 0, "kind": "event", "text": "In its January 2025 blog on Varlamore: The Final Dawn rewards, Jagex responded to feedback on the new delve boss (called Mokha/Mocha in the video) and its rewards."},
+        {"t": 96, "kind": "event", "text": "Jagex stated that the Eldritch Veil was never intended to be an Inferno or Magic cape, and that the Avernic treads are the standout unlock from the boss."},
+        {"t": 133, "kind": "opinion", "text": "Gnomonkey says Jagex had argued that tradable uniques that are more obtainable at higher levels give skilled players a real economic incentive to push themselves, and that this was the whole point of his previous video, so he considers keeping tradables important for a boss designed this way."},
+        {"t": 62, "kind": "opinion", "text": "Gnomonkey says losing one tradable unique from the Doom of Mokhaiotl is really sad because the boss loses a lot of profitability."},
+        {"t": 242, "kind": "event", "text": "Jagex announced the Eldritch Veil would drop at delve level 8 as a guaranteed drop, with the demonic mark and any attachment to the existing god capes removed."},
+        {"t": 331, "kind": "event", "text": "Jagex said the Aegis was intended as a niche reward useful against the boss, which is a demonic creature, hence its demon bane effect."},
+        {"t": 385, "kind": "event", "text": "Jagex announced it was not moving forward with the thrall upgrade, and was instead working on a new self-contained reward that changes or enhances the experience within the fight itself."},
+        {"t": 420, "kind": "opinion", "text": "Gnomonkey argues the whole long-term profit of the boss hinged on the thrall currency from pushing high delve levels, so removing it means ironmen and mains have no reason to come back and they will simply do the boss to wave eight."},
+        {"t": 518, "kind": "opinion", "text": "Gnomonkey believes the changes will gut the Doom of Mokhaiotl: with the cape untradeable and the currency gone, there is no profit or long-term reason to return, and players will go to cave eight, get the boots, and leave."},
+        {"t": 554, "kind": "opinion", "text": "Gnomonkey says a Reddit comment noted the boss now has only one unique that scales with delve level and otherwise gives flat loot, and he agrees this is the worst of both worlds."},
+        {"t": 583, "kind": "opinion", "text": "Gnomonkey suggests that if the cape has to be untradeable, it should at least break down into the thrall currency, similar to how a quiver does."},
+        {"t": 758, "kind": "opinion", "text": "Gnomonkey says removing half the rewards and any incentive to push the enraged levels is the wrong move, and predicts the boss will be dead on release, with players going there for the new cape and then leaving."},
+        {"t": 823, "kind": "opinion", "text": "Gnomonkey says the Final Dawn update was his most hyped update, and he is now bummed about it; he compares it unfavourably even to the Fortis Colosseum standard."}
+      ]
+    },
+    {
+      "name": "Eldritch Veil",
+      "kind": "item",
+      "claims": [
+        {"t": 66, "kind": "event", "text": "Following feedback, Jagex decided to make the Eldritch Veil untradeable."},
+        {"t": 96, "kind": "event", "text": "Jagex described the Eldritch Veil as intended to be a minor upgrade, a stopgap between the imbued god capes and an eventual magic cape."},
+        {"t": 215, "kind": "event", "text": "Jagex said it did not intend the Eldritch Veil to replace the Inferno cape."},
+        {"t": 215, "kind": "event", "text": "Changes announced to the Eldritch Veil: it becomes an untradeable item, its prayer bonus is raised to plus one, and Jagex is re-examining its defence stats."},
+        {"t": 242, "kind": "event", "text": "The Eldritch Veil becomes a guaranteed drop at delve level 8 and a standalone item, so it no longer needs to be attached to an imbued god cape and the demonic mark is removed."},
+        {"t": 274, "kind": "event", "text": "The Eldritch Veil gains a passive effect of a flat minimum hit of two: any successful accuracy roll rolls between two and the max hit, and this does not interact with the two-roll mechanics (shadow) or multiplier effects."},
+        {"t": 274, "kind": "opinion", "text": "Gnomonkey says the minimum hit of two makes the Eldritch Veil significantly better for fast-hitting weapons like the Trice or the Sangstaff (as he names them), and he considers it effectively plus one max hit that matters more on faster weapons."},
+        {"t": 274, "kind": "opinion", "text": "Gnomonkey says he looked into it and the minimum hit change is not very good for the Tumeken's shadow, which gets max hits in the Chambers of Xeric and outside raids but not in the Tombs of Amascut."},
+        {"t": 218, "kind": "opinion", "text": "Gnomonkey says raising the Eldritch Veil's prayer stat from negative two to plus one makes sense, and he asks why its defence stats cannot simply match the Mage Arena 2 cape."},
+        {"t": 244, "kind": "opinion", "text": "Gnomonkey likes that the Eldritch Veil no longer has to be attached to an imbued god cape, because it lets players skip the Mage Arena 2 capes, but notes it reduces the prestige some players valued from needing the Wilderness-obtained capes."},
+        {"t": 301, "kind": "opinion", "text": "Gnomonkey says he really does not like the veil being untradeable and does not understand it, since Jagex gave no reasoning for the change after giving several reasons to keep it tradable."}
+      ]
+    },
+    {
+      "name": "Avernic treads",
+      "kind": "item",
+      "claims": [
+        {"t": 28, "kind": "event", "text": "The Avernic treads are made using the new Avernic catalyst consumable."},
+        {"t": 28, "kind": "event", "text": "Jagex decided to keep the Avernic treads upgrade path unchanged despite feedback about complex upgrade trees and linearity, arguing the boss targets players who likely already own the required boots and that upgrades keep older content relevant."},
+        {"t": 63, "kind": "opinion", "text": "Gnomonkey would have preferred the Avernic treads to need only the Surb crystals instead of the boots, because he does not like infinity boots and ranger boots staying relevant for PvM, though he calls it not a big deal."}
+      ]
+    },
+    {
+      "name": "Aegis",
+      "kind": "item",
+      "claims": [
+        {"t": 331, "kind": "event", "text": "Jagex said the Aegis from the Doom of Mokhaiotl was designed as a niche reward with a demon bane effect, noting that several demon bane weapons had recently entered the game and some players feel they have little use."},
+        {"t": 358, "kind": "stat", "text": "According to Gnomonkey, the Aegis is usually slightly better than Emberlight across the board and also has 25% damage reduction, making it basically an upgrade over Emberlight most of the time."},
+        {"t": 358, "kind": "event", "text": "Jagex lowered the Aegis attack requirement to 70."},
+        {"t": 358, "kind": "opinion", "text": "Gnomonkey is okay with the Aegis as it is and does not care about its requirements."}
+      ]
+    },
+    {
+      "name": "Thralls",
+      "kind": "mechanic",
+      "claims": [
+        {"t": 385, "kind": "event", "text": "Jagex removed the planned thrall upgrade from the Doom of Mokhaiotl rewards."},
+        {"t": 385, "kind": "opinion", "text": "Gnomonkey says he asked players for ideas for the thrall upgrade in a previous video, received hundreds of comments, and was shocked that Jagex chose to drop the idea instead of using one of them."},
+        {"t": 436, "kind": "opinion", "text": "Gnomonkey calls dropping the thrall currency and upgrade one of the worst changes he has heard of pre-update, saying he did not see a single comment asking for the currency to be removed."},
+        {"t": 727, "kind": "tip", "text": "Gnomonkey suggests that a minimal thrall upgrade would be to make thralls hit one to three, or to give thralls different effects and make them typeless so they work."}
+      ]
+    },
+    {
+      "name": "Book of the Dead",
+      "kind": "item",
+      "claims": [
+        {"t": 457, "kind": "event", "text": "Jagex said that many players clamoured for a reward relating to the Book of the Dead, but that the current storyline will continue in the future and Book of the Dead developments will come then."},
+        {"t": 457, "kind": "opinion", "text": "Gnomonkey finds Jagex's Book of the Dead response passive-aggressive."}
+      ]
+    },
+    {
+      "name": "Varlamore: The Final Dawn",
+      "kind": "quest",
+      "claims": [
+        {"t": 585, "kind": "event", "text": "Jagex said the new melee weapon from the Final Dawn quest will only work as a slash weapon, so a requested stab weapon is something it is open to working on in the future."},
+        {"t": 614, "kind": "event", "text": "Jagex said that as the Varlamore arc closes it plans to bring more burn effects to the game, and it is removing the area-of-effect portion of the new weapon's special attack."},
+        {"t": 614, "kind": "event", "text": "Jagex reduced the special attack cost of the new Final Dawn melee weapon."},
+        {"t": 614, "kind": "opinion", "text": "Gnomonkey sees the new melee weapon as a competitor to a de-skim-type weapon (as he describes it) and a decent mid-game or earlier special attack weapon that will be solid until you get something like Burning claws, comparing it to how the Dragon dagger is good in some places."}
+      ]
+    },
+    {
+      "name": "Antler guard",
+      "kind": "item",
+      "claims": [
+        {"t": 670, "kind": "event", "text": "Jagex said it deliberately designed the Antler guard to sit below the Dragon defender, to keep players going until they get the Dragon defender."},
+        {"t": 670, "kind": "event", "text": "Jagex said the Antler guard is intended to be particularly useful for players using the RCB (rune crossbow) or the Hunter crossbow, or those using a proselyte set on a Slayer task."},
+        {"t": 700, "kind": "event", "text": "Jagex is reducing the Antler guard's negative defence values."},
+        {"t": 700, "kind": "opinion", "text": "Gnomonkey thought the Antler guard was fine as it was and expected to use it as a ranged off-hand for bosses like Zebak and while progressing on his hardcore account."}
+      ]
+    },
+    {
+      "name": "Elder stalker",
+      "kind": "other",
+      "claims": [
+        {"t": 670, "kind": "event", "text": "Some players felt the Slayer level requirement for the Elder stalkers was too low, but Jagex responded that these creatures were purposely designed to pad out lower progression levels, and raising the requirement would mean changing the entire reward pitch."},
+        {"t": 670, "kind": "opinion", "text": "Gnomonkey thinks the Elder stalker Slayer requirements felt fair, saying the high-level ones were around 70 and the range was something like 50 to 70."}
+      ]
+    },
+    {
+      "name": "Opinion: Reddit influence on Jagex",
+      "kind": "opinion",
+      "claims": [
+        {"t": 0, "kind": "opinion", "text": "Gnomonkey titles the video as Jagex letting Reddit win, arguing that Jagex reversed good ideas in response to feedback from people who do not intend to interact with the content."},
+        {"t": 96, "kind": "opinion", "text": "Gnomonkey agrees with Jagex's point that there is no set-in-stone rule like every cape upgrade having to come from a wave-based minigame."},
+        {"t": 758, "kind": "opinion", "text": "Gnomonkey says Jagex should have confidence in a unique idea and not bow to feedback just because players have not seen it yet, saying minor tweaks were all that was needed rather than gutting half the rewards."},
+        {"t": 820, "kind": "opinion", "text": "Gnomonkey says he hopes Jagex is willing to walk some of these changes back."}
+      ]
+    }
+  ]
+}

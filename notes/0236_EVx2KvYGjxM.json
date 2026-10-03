@@ -1,0 +1,168 @@
+{
+ "id": "EVx2KvYGjxM",
+ "title": "Summer Sweep - BEST UPDATE EVER (OSRS)",
+ "date": "2025-05-30",
+ "type": "news-opinion",
+ "summary": "Gnomonkey goes through Jagex's Summer Sweep-up combat and loot blog and calls it one of the few updates he has zero qualms with. He covers elemental weaknesses and flat armour, loot table cuts and Soul Wars, major Tombs of Amascut changes and upcoming drop nerfs, boss quality-of-life changes (Phosani's Nightmare, Nex, Hueycoatl, Moons, Cerberus, Duke) and the permanent Tzkal slayer helmet bonus in the Inferno for Grandmaster players. He says he feels heard by Jagex again.",
+ "outline": [
+  {"t": 0, "text": "Intro: reading the Summer Sweep-up blog, zero qualms"},
+  {"t": 57, "text": "Elemental weaknesses added to many NPCs"},
+  {"t": 120, "text": "Flat armour and negative flat armour changes"},
+  {"t": 210, "text": "Loot table reductions, shark chum and Soul Wars gutting"},
+  {"t": 262, "text": "Tombs of Amascut changes: Ba-Ba, Akkha, Kephri, Zebak, Wardens"},
+  {"t": 405, "text": "Toa loot nerf talk"},
+  {"t": 471, "text": "Phosani's Nightmare loses a phase"},
+  {"t": 525, "text": "Nex changes and Hueycoatl changes"},
+  {"t": 656, "text": "Moons of Peril, Granite ring, Obor and Bryophyta"},
+  {"t": 744, "text": "Cerberus and Duke Sucellus changes"},
+  {"t": 822, "text": "Other small changes: halberds, demonbane, DT2 vestiges"},
+  {"t": 892, "text": "Permanent slayer helm bonus in the Inferno for Grandmaster players"},
+  {"t": 957, "text": "Thralls duration moves to master combat achievements"},
+  {"t": 1045, "text": "Why Toa is becoming a better raid"},
+  {"t": 1173, "text": "Gnomonkey feels heard by Jagex"}
+ ],
+ "topics": [
+  {
+   "name": "Update: Summer Sweep-up",
+   "kind": "update",
+   "claims": [
+    {"t": 0, "kind": "event", "text": "Jagex published the Summer Sweep-up combat and loot blog, a large quality-of-life update scheduled to arrive in a couple of months from late May 2025."},
+    {"t": 29, "kind": "opinion", "text": "Gnomonkey says the Summer Sweep-up is one of the few updates he has literally zero qualms with: every change is good and many massive problems he has with the game are being fixed."},
+    {"t": 1000, "kind": "opinion", "text": "Gnomonkey says this is potentially the best QOL change ever made to the game, and that he wants to clear out about half his teleflaws (tile/mechanic notes) because so many problems are being fixed."},
+    {"t": 1173, "kind": "opinion", "text": "Gnomonkey says the update covers every pain point he has with the game and feels like Jagex was listening to him."},
+    {"t": 1173, "kind": "opinion", "text": "Gnomonkey says that for a long time high-level players' complaints felt ignored as a small part of the player base, but lately the team has been hitting those pain points, including the Yama contract changes."},
+    {"t": 1229, "kind": "opinion", "text": "Gnomonkey says he has been on the verge of burning out a couple of times, but with these changes and the upcoming PvM content he can potentially play his main and be excited about updates again, beyond just hardcore."}
+   ]
+  },
+  {
+   "name": "Elemental weakness",
+   "kind": "mechanic",
+   "claims": [
+    {"t": 57, "kind": "event", "text": "The Summer Sweep-up adds elemental weaknesses to many NPCs including quest bosses, and tweaks some NPC defences; a spreadsheet lists all the changes."},
+    {"t": 57, "kind": "event", "text": "The Tzhaar enemy that Gnomonkey names Tizar is given a water weakness, which he says was strange to be missing; he notes this makes a Twinflame staff a good option for sending a fire cape on an iron."},
+    {"t": 88, "kind": "event", "text": "Phantom Muspah is given an air weakness; Gnomonkey says it is notoriously awful to send early on an iron, so the weakness lets you go there faster with a twin flame."},
+    {"t": 88, "kind": "event", "text": "The Great Olm's mage hand is given an earth weakness, which Gnomonkey says matters with the Hueycoatl wand changes later."},
+    {"t": 118, "kind": "event", "text": "A lot of Theatre of Blood bosses now have elemental weaknesses, which Gnomonkey says may make the harmonised nightmare staff a decent option."}
+   ]
+  },
+  {
+   "name": "Flat armour",
+   "kind": "mechanic",
+   "claims": [
+    {"t": 120, "kind": "event", "text": "The update adds flat armour to some NPCs and negative flat armour to others; Gnomonkey notes sulphur nagua already have flat armour and that about eight monsters have it."},
+    {"t": 151, "kind": "method", "text": "Gnomonkey explains flat armour is subtracted from each hit you deal, so an NPC with flat armour 2 reduces a 36 to a 34, meaning slower heavier single-hit weapons are better than multi-hit weapons such as a scythe, which loses 6 damage per swing against flat armour 2."},
+    {"t": 181, "kind": "method", "text": "Negative flat armour increases each hit by that number, so fast and multi-hit weapons are very good against NPCs with negative flat armour."},
+    {"t": 181, "kind": "event", "text": "Nex's mages get negative flat armour, which Gnomonkey says makes the blowpipe a lot better on them."},
+    {"t": 181, "kind": "event", "text": "All Barrows brothers get negative flat armour, which boosts both splats of a Twinflame staff and also helps multi-hit weapons like dragon claws and DDS specs."}
+   ]
+  },
+  {
+   "name": "Loot table changes",
+   "kind": "update",
+   "claims": [
+    {"t": 210, "kind": "event", "text": "The update reworks loot tables across the board, reducing chaos runes, torstol seeds, other seed quantities and herb quantities, among other items."},
+    {"t": 238, "kind": "event", "text": "A new item called shark chum is added, which works like diabolic worms but for sharks; Gnomonkey notes chat pointed out you can two-tick sharks at the aerial fishing spot, which might be a viable iron method."},
+    {"t": 268, "kind": "event", "text": "The update guts Soul Wars rewards, reducing the value of blood runes and more; Gnomonkey is delighted since it is heavily botted, and the pet remains the same."}
+   ]
+  },
+  {
+   "name": "Tombs of Amascut",
+   "kind": "raid",
+   "claims": [
+    {"t": 299, "kind": "event", "text": "As of the Summer Sweep-up, Ba-Ba no longer has chip damage, so Gnomonkey says you no longer need Justiciar or Red X to fight him and he is actually a decent fight now."},
+    {"t": 326, "kind": "event", "text": "Akkha's chip damage is reduced, Stay Vigilant is reworked so Akkha only prays against the style he is currently attacking with (letting you shadow two style changes instead of one), and the number of orbs in come phase is reduced."},
+    {"t": 326, "kind": "opinion", "text": "Gnomonkey says come phase is arguably the hardest part of the raid and agrees with Jagex that Akkha should not be harder than the Warden, saying he is good at it and still approves the change."},
+    {"t": 354, "kind": "event", "text": "Kephri's arcane scarabs are guaranteed to move even on zeroes, removing arcane RNG; Gnomonkey says this cuts about 20 of his total Toa flaws."},
+    {"t": 384, "kind": "event", "text": "Zebak's active waves no longer push you back but deal 30% more damage, which stops players getting clipped by line-of-sight and pushed into acid; Gnomonkey says this is safer for hardcores."},
+    {"t": 384, "kind": "event", "text": "At the Wardens, skull bombs can no longer land underneath the Warden."},
+    {"t": 413, "kind": "event", "text": "The monkey room is shortened even further and ranged hits on cursed baboons and baboon shamans are made guaranteed."},
+    {"t": 413, "kind": "opinion", "text": "Gnomonkey says Osmumten's fang is about nine million flat, which is ridiculous, and welcomes Jagex's talk of nerfing Toa purple chance across the board, saying it should have been done a year and a half ago."},
+    {"t": 442, "kind": "opinion", "text": "Gnomonkey says Jagex mentioned changing weightings and reducing loot scaling at the top end, but argues they should blanket reduce purple chance; he says Toa drops are worth absolutely nothing and the only valuable drop is a shadow."},
+    {"t": 1045, "kind": "opinion", "text": "Gnomonkey says he would like Toa to be a better raid more than he cares about its difficulty, calls it currently the worst of the three raids, and thinks after the update it may be on par with Chambers of Xeric."},
+    {"t": 1017, "kind": "opinion", "text": "Gnomonkey says players can still butterfly Akkha and Red X Ba-Ba if they want to avoid specials, and that the update only removes bullshit and one-shots, making a better raid."}
+   ]
+  },
+  {
+   "name": "Phosani's Nightmare",
+   "kind": "boss",
+   "claims": [
+    {"t": 471, "kind": "event", "text": "The update removes a phase from Phosani's Nightmare so it has three phases instead of four, without nerfing the loot."},
+    {"t": 471, "kind": "opinion", "text": "Gnomonkey says this is effectively a kills-per-hour buff and loot buff, bringing the long fight closer in line with Yama kill times and making drops easier to get."}
+   ]
+  },
+  {
+   "name": "Nex",
+   "kind": "boss",
+   "claims": [
+    {"t": 525, "kind": "event", "text": "Damage dealt to blood reavers now heals you at Nex."},
+    {"t": 525, "kind": "event", "text": "When Nex melees you she is guaranteed to melee two more times, and players can now catch magic prayer in the last phase by predicting her attacks."},
+    {"t": 525, "kind": "opinion", "text": "Gnomonkey says these changes should cut Nex damage dramatically and mean it is no longer a 'breach hugging simulator'."}
+   ]
+  },
+  {
+   "name": "Hueycoatl",
+   "kind": "boss",
+   "claims": [
+    {"t": 560, "kind": "event", "text": "The Hueycoatl's tail HP is reduced to make the fight faster, since Jagex felt the tail was a slog."},
+    {"t": 560, "kind": "stat", "text": "The Hueycoatl wand's bonus damage is buffed from 20% to 40%, accuracy from 50% to 75%, and it becomes three times more common, dropping around 69 kills rather than 207."},
+    {"t": 590, "kind": "opinion", "text": "Gnomonkey says the Hueycoatl wand becomes the new best-in-slot at rune dragons, since you can stand out of melee range and pray ranged so you only take magic hits; it is also great on adamant dragons, metal dragons, and the Great Olm with its earth weakness, possibly beating Sanguinesti DPS."},
+    {"t": 590, "kind": "opinion", "text": "Gnomonkey says the wand's range of 10 and thrall dropping mean it is not realistic solo and works best in teams."},
+    {"t": 623, "kind": "event", "text": "The Hueycoatl wand can now auto-cast Ancient spells and has 10% bonus damage; Gnomonkey calls it a straight-up better ancient sceptre and a great mid-game iron option if you lack a nightmare staff or Kodai wand."},
+    {"t": 623, "kind": "event", "text": "The crafting requirement of Hueycoatl hide armour is reduced to below black dragonhide, making it feasible to craft on a lower-level iron."}
+   ]
+  },
+  {
+   "name": "Moons of Peril",
+   "kind": "activity",
+   "claims": [
+    {"t": 656, "kind": "event", "text": "The Moons of Peril ranged boss adds a new tank ring so players going for a rune crossbow can get it without needing to visit Dagannoth Rex first."},
+    {"t": 683, "kind": "event", "text": "The number of tornadoes is reduced for Blue Moon."},
+    {"t": 683, "kind": "event", "text": "The Granite ring gets dramatically better stats; Gnomonkey notes someone told him the listed stats were a typo of the current stats."}
+   ]
+  },
+  {
+   "name": "Obor and Bryophyta",
+   "kind": "boss",
+   "claims": [
+    {"t": 683, "kind": "event", "text": "Obor and Bryophyta no longer require keys to fight: keys give access to the old loot table, and killing them normally gives a smaller, simpler drop table."},
+    {"t": 716, "kind": "opinion", "text": "Gnomonkey says this is good for combat achievements and free-to-play players, who get a consistent boss to grind, and a new better bones item (members only) that can be buried for a chunk of XP."}
+   ]
+  },
+  {
+   "name": "Cerberus",
+   "kind": "boss",
+   "claims": [
+    {"t": 744, "kind": "event", "text": "Cerberus teleport scrolls (Cerberus teleport) are made more common and tradable."},
+    {"t": 744, "kind": "event", "text": "The Ward of Arceus now protects against prayer drain by 30%, so Cerberus ghosts drain 20 prayer points instead of 30; it also works against Yama's prayer drain and K'ril Tsutsaroth's melee special."},
+    {"t": 773, "kind": "opinion", "text": "Gnomonkey says Cerberus is no longer a 'chug prayer potion boss' to the same degree, and that the Ward of Arceus effect stacks with a spectral spirit shield, though you do not need one to kill Cerberus."}
+   ]
+  },
+  {
+   "name": "Duke Sucellus",
+   "kind": "boss",
+   "claims": [
+    {"t": 773, "kind": "event", "text": "Players can prepare for three Duke Sucellus kills in a row by making up to six potions ahead of time, and Duke's HP is increased by 10% to compensate."},
+    {"t": 803, "kind": "opinion", "text": "Gnomonkey says this will make Duke much more reasonable, possibly making Grandmaster time free, though Jagex did not mention changing Grandmaster time; people had asked for this with Leagues."}
+   ]
+  },
+  {
+   "name": "Slayer helmet in the Inferno",
+   "kind": "update",
+   "claims": [
+    {"t": 892, "kind": "event", "text": "Players with Grandmaster combat achievements completed will be able to show their Tzkal slayer helmet to the Tzhaar and gain on-task damage bonuses without any of the other on-task benefits, giving a permanent slayer helm bonus in the Inferno."},
+    {"t": 892, "kind": "opinion", "text": "Gnomonkey says he has been begging for this for years since he started streaming, and jokes there may be an arc where the channel returns to the Inferno."},
+    {"t": 957, "kind": "event", "text": "The Grandmaster combat achievement reward that increases the duration of the Summon thralls to two minutes is moved down to master tier."}
+   ]
+  },
+  {
+   "name": "Other combat changes in the Summer Sweep-up",
+   "kind": "update",
+   "claims": [
+    {"t": 822, "kind": "event", "text": "Halberds can now hit Aviansies, which Gnomonkey thinks does not compete with chinchompas at Kree'arra but may suit an iron without shadow or chins, noting Kree'arra has high slash defence."},
+    {"t": 822, "kind": "event", "text": "Demonbane is allowed to work on the ice demon at Chambers of Xeric, letting players use an Emberlight without swapping spellbooks; Gnomonkey says he cannot wait to use it on the hardcore."},
+    {"t": 855, "kind": "event", "text": "An indicator drop is added for successful rolls on vestiges dropped by Desert Treasure 2 bosses, letting players check how many rolls deep they are on each ring with a kill after the update."},
+    {"t": 855, "kind": "opinion", "text": "Gnomonkey says he might do a kill of each Desert Treasure 2 boss after the update to see where he is on all of them."}
+   ]
+  }
+ ]
+}

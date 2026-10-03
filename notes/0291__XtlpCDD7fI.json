@@ -1,0 +1,161 @@
+{
+  "id": "_XtlpCDD7fI",
+  "title": "Megarare Rewards for Raids 4 (OSRS)",
+  "date": "2026-03-05",
+  "type": "news-opinion",
+  "summary": "Gnomonkey reacts to a Jagex blog about potential mega rare and armor rewards for the upcoming raid Raids 4: The Fractured Archive. Jagex leans toward a crush main-hand melee mega rare, which Gnomonkey argues risks invalidating existing raids and gear. He concludes Jagex should stop adding mega rares and instead give well-rounded rewards with a couple of strong items, and he shoots down many community reward suggestions.",
+  "outline": [
+    {"t": 0, "text": "Introduction to the Raids 4 rewards blog"},
+    {"t": 92, "text": "Mega rare design philosophy in the blog"},
+    {"t": 200, "text": "Balancing raid relevance and power creep of old mega rares"},
+    {"t": 407, "text": "Why invalidating raids is bad, versus mid-level content like Bandos"},
+    {"t": 546, "text": "Potential crush weapon mega rare for the Fractured Archive"},
+    {"t": 724, "text": "Upgrade paths and the problems of upgrade-scape"},
+    {"t": 933, "text": "Horizontal progression versus real power"},
+    {"t": 1120, "text": "Gnomonkey's case for stopping mega rares"},
+    {"t": 1344, "text": "Raid armor sets and set bonuses"},
+    {"t": 1633, "text": "Alternative reward suggestions (ring slot, turmoil, Soul Split, boots, ammo, jewelry)"},
+    {"t": 1810, "text": "Community suggestions: prayer-scaling gear and tank gear"},
+    {"t": 2044, "text": "Wrap-up, feedback request and possible Shadow rework"}
+  ],
+  "topics": [
+    {
+      "name": "Update: Raids 4 rewards blog",
+      "kind": "update",
+      "claims": [
+        {"t": 0, "kind": "event", "text": "Jagex published a blog about what they are considering for potential Raids 4 (The Fractured Archive) rewards, including what a mega rare could look like; Gnomonkey made the video the day after his previous video, which had suggested this topic."},
+        {"t": 32, "kind": "opinion", "text": "Gnomonkey says much of the blog is 'vibes coded', pointing to the earlier Mocha mage cape offering that players disliked because capes have always been aspirational content in RuneScape."},
+        {"t": 61, "kind": "stat", "text": "In the blog Jagex says players feel Chambers of Xeric has too many rewards, Theatre of Blood too few, and Tombs of Amascut a good number but with rarities that could be shifted."},
+        {"t": 92, "kind": "stat", "text": "The blog defines a mega rare as an absolute powerhouse, undisputed best in slot and a valuable pickup for any player; Jagex thinks it should probably be a weapon."},
+        {"t": 92, "kind": "stat", "text": "For a raid armor set, the blog says Jagex wants it to be outright best in slot and not too niche (more like Masori and Ancestral than a niche set), plus one to three standalone rewards that are strong in a niche, such as Elder maul, Dinh's bulwark, Osmumten's fang and Lightbearer."},
+        {"t": 2044, "kind": "event", "text": "Jagex says that once they are confident they are on the right lines they will work on specific reward concepts and hope to show them to the community before summer."},
+        {"t": 2092, "kind": "event", "text": "At the end of the blog Jagex said they have not forgotten questions around limited builds and possible changes to the Shadow if they explore the magic reward space, and will address both in the coming months; Gnomonkey reads this as a potential Shadow rework coming fairly soon."},
+        {"t": 2044, "kind": "tip", "text": "Gnomonkey encourages viewers to give Jagex feedback and reward ideas, since the blog shows they are stuck and want to know what the community feels."}
+      ]
+    },
+    {
+      "name": "Mega rare",
+      "kind": "mechanic",
+      "claims": [
+        {"t": 121, "kind": "stat", "text": "Jagex's blog says mega rares should probably be weapons; it considered suggestions such as the turmoil prayer, a second ring slot or overload potion access but doubts they match the excitement of equipping a powerhouse visible in future encounters."},
+        {"t": 155, "kind": "opinion", "text": "Gnomonkey argues permanent unlocks are poor mega rares because, like deck scrolls and arcane scrolls, they have no resale value, are tied to the account forever, and do not work for mega rare rebuilds."},
+        {"t": 181, "kind": "stat", "text": "The blog says that, assuming a weapon, Jagex likes a niche design with a wide range of use cases: the Twisted bow and Scythe of vitur are niche because content can be designed where they are weak or strong, while the Tumeken's shadow is an outlier that is good everywhere."},
+        {"t": 208, "kind": "opinion", "text": "Gnomonkey says the Scythe was bad for a long time but gained use cases from content like the Colosseum and more bosses, and is now the most expensive mega rare; he says the Twisted bow and Shadow are generally more powerful than the Scythe across the board."},
+        {"t": 237, "kind": "stat", "text": "The blog says big numbers with a slower, usually five-tick attack rate make mega rares feel impactful; Gnomonkey adds that the Toxic blowpipe is arguably mega-rare tier in power but does not feel like a Twisted bow hitting massive numbers."},
+        {"t": 268, "kind": "stat", "text": "The blog says it is okay for a new mega rare to steal some spotlight from an existing one, but a line should not be crossed and too much space should not be taken from an established, iconic piece of gear."},
+        {"t": 1037, "kind": "opinion", "text": "Gnomonkey thinks mega rares should be really powerful and make you say 'this changes everything', as when you first get a Twisted bow; he says a mega rare that is only 'kind of good in some cases' should not be one."},
+        {"t": 1048, "kind": "opinion", "text": "Gnomonkey argues the best option may be to stop adding mega rares, because they are horrendous to balance."},
+        {"t": 1079, "kind": "opinion", "text": "Gnomonkey says adding range strength gives the Twisted bow extra max hits and adding melee strength can cross a Scythe max-hit breakpoint, because weapons with 250 to 300 percent damage multipliers scale much harder from new gear."},
+        {"t": 1176, "kind": "opinion", "text": "Gnomonkey says he personally thinks Jagex should 'chill out' on mega rares, while admitting every solution (upgrade-scape or ever more horizontal progression) has problems."},
+        {"t": 1179, "kind": "opinion", "text": "Gnomonkey prefers the Tombs of Amascut approach: a well-rounded reward table where everything is pretty good, with one or two items a step above like the Masori body, but nothing giant and balance-breaking."},
+        {"t": 1236, "kind": "opinion", "text": "Gnomonkey says a mega rare sends its whole combat style out of balance: before the Shadow, magic was a side grade used for multi-target Ancient spells and utility, whereas afterwards it is usable almost everywhere."},
+        {"t": 1357, "kind": "opinion", "text": "Gnomonkey says mega rares make it hard to add equipment later, to the point where a 3 percent mage damage bonus cannot be added to an item at Mocha because the Shadow is too strong."},
+        {"t": 1210, "kind": "opinion", "text": "Gnomonkey says he does not want to remove existing mega rares, but thinks any new reward will now either be a weak side grade or so strong it invalidates old content, and dislikes both outcomes."},
+        {"t": 1296, "kind": "opinion", "text": "Gnomonkey contrasts mega rares with Lightbearer: although Lightbearer is the best ring, it does not invalidate anything, whereas Shadow, Scythe or Twisted bow are strong enough to blow the game apart."},
+        {"t": 1263, "kind": "opinion", "text": "Gnomonkey says he has previously argued that content should be allowed to change the meta, but mega rares specifically cause too many issues and invalidate content he has enjoyed."}
+      ]
+    },
+    {
+      "name": "Raids invalidation",
+      "kind": "opinion",
+      "claims": [
+        {"t": 330, "kind": "opinion", "text": "Gnomonkey says that if the Twisted bow were no longer best in slot, Chambers of Xeric would be done much less even though it has other good drops like the Dragon hunter crossbow, Ancestral armor and Elder maul."},
+        {"t": 330, "kind": "opinion", "text": "Gnomonkey says Theatre of Blood purples have become less useful over time: the Ghrazi rapier was overshadowed by the Osmumten's fang, Sanguinesti staff and Justiciar armor are relatively useless, leaving Avernic defender and Scythe of vitur as the only impactful ones."},
+        {"t": 366, "kind": "opinion", "text": "Gnomonkey says Theatre of Blood is probably the last raid an Ironman would do, who would rather do Chambers of Xeric for its useful purples and Twisted bow, and that every Tombs of Amascut purple is impactful."},
+        {"t": 394, "kind": "opinion", "text": "Gnomonkey says raids must not be invalidated because they arrive only every two to four years at this rate, take huge effort from Jagex and the community, and represent old school PvM as a whole."},
+        {"t": 451, "kind": "opinion", "text": "Gnomonkey says that if a raid came out every year it might be fine to invalidate older ones, but at the current release rate it does not work."},
+        {"t": 479, "kind": "opinion", "text": "Gnomonkey gives Bandos armor as acceptable invalidation: Blood moon armor has about the same stats, many Ironmen skip Bandos, yet it is still needed to make Torva, and old mid-level content can become low-level content."},
+        {"t": 509, "kind": "opinion", "text": "Gnomonkey says power creeping mid and low-level content works better than power creeping endgame raids, because endgame content that becomes irrelevant is skipped entirely, like Phosani's Nightmare, where none of the drops are useful, and a whole raid is a lot of content to invalidate."},
+        {"t": 724, "kind": "opinion", "text": "Gnomonkey says that if a Scythe 2 existed, players would enter Theatre of Blood only for the Avernic defender, effectively not doing the raid."}
+      ]
+    },
+    {
+      "name": "Crush",
+      "kind": "mechanic",
+      "claims": [
+        {"t": 546, "kind": "stat", "text": "The blog says the Fractured Archive is shaping up to be a raid where melee shines more than in Chambers of Xeric or Tombs of Amascut, and that Jagex is most inclined toward a main-hand melee mega rare; they are looking at crush and stab, but Gnomonkey says this effectively means crush because the Osmumten's fang already fills stab."},
+        {"t": 625, "kind": "stat", "text": "The blog says crush is relatively underserved at the top end, with the Scythe of vitur's limited crush bonus still winning over dedicated crush weapons in many instances, and that Jagex would add more crush use cases and better progression stepping stones."},
+        {"t": 653, "kind": "opinion", "text": "Gnomonkey says that in his previous video he argued the Scythe's crush option should not be removed, but that with a crush mega rare he flips on that and thinks the crush option should be removed from the Scythe to give the new weapon a clear place in the meta."},
+        {"t": 653, "kind": "opinion", "text": "Gnomonkey says removing crush from the Scythe alone would not make players use an Inquisitor's mace, only use slash with Oathplate more often, which they already do."},
+        {"t": 683, "kind": "opinion", "text": "Gnomonkey says he is not sure a crush mega rare is the right direction for Jagex."},
+        {"t": 770, "kind": "opinion", "text": "Gnomonkey says one solution is making the new crush mega rare decent on its own and an upgrade path combined with the Scythe, but he dislikes this due to upgrade-scape."}
+      ]
+    },
+    {
+      "name": "Upgrade-scape",
+      "kind": "opinion",
+      "claims": [
+        {"t": 773, "kind": "opinion", "text": "Gnomonkey says upgrade-scape is annoying and disliked, especially by Ironmen, and asks whether players should need every previous mega rare when future raids are added."},
+        {"t": 804, "kind": "opinion", "text": "Gnomonkey calls Avernic treads the most egregious upgrade-scape in the game: Pegasian crystal upgrades Ranger boots, Primordial crystal upgrades Dragon boots, and Eternal boots need Mage Training Arena, all from Cerberus crystals, making roughly 18 sources."},
+        {"t": 826, "kind": "opinion", "text": "Gnomonkey notes that each pair of boots put into the Avernic treads gets a different name, so treads are effectively nine items in one."},
+        {"t": 830, "kind": "opinion", "text": "Gnomonkey says a hypothetical Treads 2 would make the chain absurd, so future upgrades should simply be a drop that is good, and he would have preferred Avernic treads to use only the Cerberus crystals directly on the boots."},
+        {"t": 922, "kind": "opinion", "text": "Gnomonkey says upgrade paths do keep content relevant but not in a fun way, and the more complicated they get the more obnoxious they are for Ironmen."}
+      ]
+    },
+    {
+      "name": "Horizontal progression",
+      "kind": "opinion",
+      "claims": [
+        {"t": 933, "kind": "opinion", "text": "Gnomonkey says the direction Jagex appears to be going is horizontal stacking, where every item fits its own niche, like Trident of the swamp to Sanguinesti staff, with every style and level covered."},
+        {"t": 955, "kind": "opinion", "text": "Gnomonkey says a crush mega rare following this approach would have about half the usability of the Scythe (good at Araxxor and Phosani's Nightmare) but never be used as widely as the Twisted bow or the Shadow."},
+        {"t": 986, "kind": "opinion", "text": "Gnomonkey says adding a stab mega rare next raid, then elemental weakness and ballista mega rares, would eventually make nothing feel special and rewards not exciting."}
+      ]
+    },
+    {
+      "name": "Tumeken's shadow",
+      "kind": "item",
+      "claims": [
+        {"t": 181, "kind": "opinion", "text": "The Jagex blog describes the Tumeken's shadow as an outlier because it is good everywhere, which has come with no shortage of problems."},
+        {"t": 1079, "kind": "opinion", "text": "Gnomonkey says the Shadow now needs rebalancing because it is impossible to add new gear items with it."},
+        {"t": 1357, "kind": "opinion", "text": "Gnomonkey says the Shadow is so strong that a 3 percent mage damage bonus cannot be added to an item at Mocha without the Shadow making it too powerful."},
+        {"t": 2092, "kind": "event", "text": "Jagex said it may make changes to the Shadow if it explores the magic reward space; Gnomonkey says a potential Shadow rework could come fairly soon and would get its own video."}
+      ]
+    },
+    {
+      "name": "Scythe of vitur",
+      "kind": "item",
+      "claims": [
+        {"t": 208, "kind": "opinion", "text": "Gnomonkey says the Scythe of vitur was bad for a long time, but recent content such as the Colosseum and newer bosses gave it more uses, and it is now the most expensive mega rare."},
+        {"t": 366, "kind": "opinion", "text": "Gnomonkey says the Scythe of vitur and Avernic defender are the only Theatre of Blood purples that remain impactful."},
+        {"t": 1079, "kind": "opinion", "text": "Gnomonkey says adding melee strength could push the Scythe of vitur past a max-hit breakpoint and make it much stronger."}
+      ]
+    },
+    {
+      "name": "Raid armor",
+      "kind": "mechanic",
+      "claims": [
+        {"t": 1344, "kind": "stat", "text": "The blog says armor sets occupy the rare reward space from raids, so pieces are seen more often than a mega rare but completing a full set can still see kill count skyrocket; Jagex believes raid armor should be best in slot and not too niche."},
+        {"t": 1344, "kind": "opinion", "text": "Gnomonkey says completing the Ancestral set at Chambers takes about as long as a Twisted bow, and that on his main the only items he is missing are a Twisted bow and the Ancestral hat."},
+        {"t": 1387, "kind": "stat", "text": "The blog says ranged armor feels out of the question given Masori, Dizana's quiver and the Blood Moon Rises rewards, and that melee armor could be too soon for an upgrade since Oathplate is still fresh; Gnomonkey disagrees because Oathplate is used everywhere since slash is so good."},
+        {"t": 1408, "kind": "opinion", "text": "Gnomonkey says he did not think Masori needed to be combined with Armadyl and found it unnecessary; he does not want Inquisitor's armor combined with Justiciar, which would force players to kill Nightmare."},
+        {"t": 1496, "kind": "opinion", "text": "Gnomonkey says better Inquisitor's armor still would not beat Oathplate, and that Oathplate coming from Yama, the first endgame boss, did not fit well as raid-tier armor from a not-so-endgame boss."},
+        {"t": 1524, "kind": "stat", "text": "The blog says Ancestral is nine years old, just like the Twisted bow, so an upgrade is not too soon, but Jagex has concerns about upgrade paths for raids."},
+        {"t": 1584, "kind": "opinion", "text": "Gnomonkey says a mega rare armor set would not work because getting three mega rare pieces would be annoying and would invalidate three equipment slots at once, cutting off reward space for several years."},
+        {"t": 1520, "kind": "opinion", "text": "Gnomonkey says upgrading armor sets is worse than upgrading weapons because three pieces are needed, and requiring every raid to be done to keep others relevant is arbitrary."}
+      ]
+    },
+    {
+      "name": "Raids 4: The Fractured Archive reward suggestions",
+      "kind": "opinion",
+      "claims": [
+        {"t": 1647, "kind": "opinion", "text": "Gnomonkey rejects a double ring slot as a permanent unlock because it cannot be resold, and says wearing two rings such as Lightbearer and Ultor is boring and would not change how he approaches the game."},
+        {"t": 1677, "kind": "opinion", "text": "Gnomonkey describes the RuneScape 3 turmoil prayer (used by Nex) as a super Piety that saps enemy stats; he says it would be an extremely strong permanent unlock like Rigor but for melee, which he does not want."},
+        {"t": 1703, "kind": "opinion", "text": "Gnomonkey says he does not want Soul Split because it would let players tick-eat unless made a percent chance, and he points to the problems Blood Fury already added."},
+        {"t": 1759, "kind": "opinion", "text": "Gnomonkey says boots are out because Avernic treads are already mega rare tier for the boot slot, and ammo does not work because it would be a one in 200 drop that rich players use and everyone else sells, like dragon arrows or dragon knives from Hydra."},
+        {"t": 1770, "kind": "opinion", "text": "Gnomonkey says current jewelry all comes from Slayer monsters, so changing that would be odd, but in the wrap-up he says he personally thinks jewelry has a lot of potential as a mega rare space."},
+        {"t": 1825, "kind": "opinion", "text": "Gnomonkey says prayer-bonus or weight-scaling mega rare gear would only turn prayer gear into a stand-in for max strength gear and spike Sunfire gear prices, without changing how content is approached."},
+        {"t": 1850, "kind": "opinion", "text": "Gnomonkey says super-tanky gear does not work because defense is weak in OSRS PvM, since killing faster also stops damage faster, and Old School lacks damage soaking or reflection systems."},
+        {"t": 1939, "kind": "opinion", "text": "Gnomonkey says armor-swap mechanics (swapping every attack, as in Challenge Mode or Chambers of Xeric) are not fun, and that cheesing content with tank gear would not be interesting."},
+        {"t": 1972, "kind": "opinion", "text": "Gnomonkey says offensive shields that reflect damage or have spikes could be interesting, giving less DPS than an Avernic defender but hurting enemies when you take damage."}
+      ]
+    },
+    {
+      "name": "Gnomonkey",
+      "kind": "person",
+      "claims": [
+        {"t": 2044, "kind": "event", "text": "Gnomonkey said he would be streaming live on Twitch and YouTube right after posting this video to discuss the rewards with chat."},
+        {"t": 1344, "kind": "trivia", "text": "Gnomonkey said that on his main account the only items he is missing are a Twisted bow and the Ancestral hat."}
+      ]
+    }
+  ]
+}

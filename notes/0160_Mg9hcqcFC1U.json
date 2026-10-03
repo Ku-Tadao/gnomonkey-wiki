@@ -1,185 +1,583 @@
 {
-  "id": "Mg9hcqcFC1U",
-  "title": "500 TOA Teaching Stream (Monkey Room Update) OSRS",
-  "date": "2024-05-30",
-  "type": "guide",
-  "summary": "Gnomonkey runs a Tombs of Amascut raid level 500 as a live teaching stream on the day Jagex reworked the monkey room. His main message is that Mixed hide armour is a new, overpowered hybrid set that, used with Osmumten's fang, beats Bandos, replaces Masori, and lets him bring eight restores instead of four or five. He walks every room (Ba-Ba, Zebak, Kephri, Akkha, Wardens) and ends with how he would nerf the armour.",
-  "outline": [
-    {"t": 0, "text": "Introduction: the monkey room update and why Mixed hide is the new 500 meta"},
-    {"t": 82, "text": "Mixed hide armour analysis: why Fang loves stab bonus, DPS calc vs Bandos and Torva"},
-    {"t": 174, "text": "Raiding gear, restore count and prep: Pathfinder, prayer and invocation choices, Voidwaker"},
-    {"t": 298, "text": "Monkey room walkthrough after the update"},
-    {"t": 386, "text": "Ba-Ba fight: Red X, boulders, Voidwaker spec"},
-    {"t": 515, "text": "Zebak encounter: levels, blood barrage safe spots, shadow orbs"},
-    {"t": 732, "text": "Kephri encounter: arcane scarab handling, Auguri, prayer drain"},
-    {"t": 894, "text": "Akkha butterfly method and double trouble"},
-    {"t": 1125, "text": "Wardens fight: Keris, death charge, phase hit thresholds, skulls, last row"},
-    {"t": 1542, "text": "Post-raid breakdown: loot, Mixed hide requirements and how Gnomonkey would nerf it"}
-  ],
-  "topics": [
+ "id": "Mg9hcqcFC1U",
+ "title": "500 TOA Teaching Stream (Monkey Room Update) OSRS",
+ "date": "2024-05-30",
+ "type": "guide",
+ "summary": "Gnomonkey runs a Tombs of Amascut raid level 500 as a live teaching stream on the day Jagex reworked the monkey room. His main message is that Mixed hide armour is a new, overpowered hybrid set that, used with Osmumten's fang, beats Bandos, replaces Masori, and lets him bring eight restores instead of four or five. He walks every room (Ba-Ba, Zebak, Kephri, Akkha, Wardens) and ends with how he would nerf the armour.",
+ "outline": [
+  {
+   "t": 0,
+   "text": "Introduction: the monkey room update and why Mixed hide is the new 500 meta"
+  },
+  {
+   "t": 82,
+   "text": "Mixed hide armour analysis: why Fang loves stab bonus, DPS calc vs Bandos and Torva"
+  },
+  {
+   "t": 174,
+   "text": "Raiding gear, restore count and prep: Pathfinder, prayer and invocation choices, Voidwaker"
+  },
+  {
+   "t": 298,
+   "text": "Monkey room walkthrough after the update"
+  },
+  {
+   "t": 386,
+   "text": "Ba-Ba fight: Red X, boulders, Voidwaker spec"
+  },
+  {
+   "t": 515,
+   "text": "Zebak encounter: levels, blood barrage safe spots, shadow orbs"
+  },
+  {
+   "t": 732,
+   "text": "Kephri encounter: arcane scarab handling, Auguri, prayer drain"
+  },
+  {
+   "t": 894,
+   "text": "Akkha butterfly method and double trouble"
+  },
+  {
+   "t": 1125,
+   "text": "Wardens fight: Keris, death charge, phase hit thresholds, skulls, last row"
+  },
+  {
+   "t": 1542,
+   "text": "Post-raid breakdown: loot, Mixed hide requirements and how Gnomonkey would nerf it"
+  }
+ ],
+ "topics": [
+  {
+   "name": "Mixed hide armour",
+   "kind": "item",
+   "claims": [
     {
-      "name": "Mixed hide armour",
-      "kind": "item",
-      "claims": [
-        {"t": 0, "kind": "opinion", "text": "Gnomonkey calls Mixed hide armour the new meta setup for a Tombs of Amascut raid level 500 and says it is overpowered; he says it is essentially better Bandos for use with Osmumten's fang and also gives ranged stats."},
-        {"t": 93, "kind": "trivia", "text": "Gnomonkey says Mixed hide armour was added alongside the Coliseum, to the Hunter Guild, and that few players know about it."},
-        {"t": 93, "kind": "stat", "text": "Mixed hide armour provides both strength bonus and stab bonus; Gnomonkey says the chestplate has the strength bonus while the legs have only stab bonus, and his full setup showed a stab bonus of 137."},
-        {"t": 124, "kind": "mechanic", "text": "Gnomonkey explains that Osmumten's fang rolls accuracy twice, so strength bonus matters less for it while stab bonus matters a lot; he likens the fang to a mini Shadow that rolls stab twice."},
-        {"t": 152, "kind": "stat", "text": "In Gnomonkey's DPS calculator against Ba-Ba at raid level 500, path level 2, with no defence drained, Mixed hide had 1.5% better accuracy than Bandos and killed half a second faster; Torva was still about two seconds faster than Mixed hide."},
-        {"t": 185, "kind": "opinion", "text": "Gnomonkey says that across almost every boss, Mixed hide with the fang beats Bandos with the fang, including at Vorkath, and that anyone using Bandos with a fang should switch to Mixed hide; he notes only rare cases where Bandos is slightly better."},
-        {"t": 185, "kind": "stat", "text": "Mixed hide has a 27 ranged bonus (hybrid ranged armour), so Gnomonkey wears it instead of Masori in Tombs of Amascut, saving two inventory slots for extra potions."},
-        {"t": 215, "kind": "method", "text": "Because Mixed hide replaces the ranged armour switch, Gnomonkey brings eight restore potions in a 500, up from four or five in his previous teaching stream, and says this makes the 500 much more relaxed."},
-        {"t": 370, "kind": "tip", "text": "The downside of Mixed hide is awkward switching: with two pieces of armour used on both sides, Gnomonkey says he has to swap back into the ranged setup first to keep his inventory set up properly."},
-        {"t": 705, "kind": "stat", "text": "Gnomonkey says Mixed hide has very low ranged defence, so he gets hit hard by ranged attacks in Tombs of Amascut, but that defence matters in very few rooms there."},
-        {"t": 1050, "kind": "tip", "text": "Mixed hide takes more damage from Akkha's hits, but Gnomonkey says this is fine because he butterflies Akkha and takes almost no damage."},
-        {"t": 1596, "kind": "stat", "text": "Gnomonkey says the Mixed hide legs need 57 Hunter and the full set needs 72 Hunter; he first thought it also needed 72 Crafting, then learned from chat that you can pay for the crafting, so it is effectively just 72 Hunter."},
-        {"t": 1596, "kind": "opinion", "text": "Gnomonkey calls Mixed hide the stronger option over Bandos and over Torva for getting a completion rather than for speed GP, and says it slots in DPS between Bandos and Torva."},
-        {"t": 1684, "kind": "opinion", "text": "Gnomonkey says Mixed hide is not good without Osmumten's fang because it is stab armour with negative bonuses otherwise, and he would not use it below 300 invocations or with the Bow of Faerdhinen."},
-        {"t": 1684, "kind": "stat", "text": "Gnomonkey says his calc shows Mixed hide gives better DPS than Bandos down to 300 invocation level, even if you carry a Masori switch for money."},
-        {"t": 1718, "kind": "opinion", "text": "Gnomonkey says you should just wear Mixed hide instead of Bandos when using a fang, calling Bandos effectively dead content for fang users."}
-      ]
+     "t": 0,
+     "kind": "opinion",
+     "text": "Gnomonkey calls Mixed hide armour the new meta setup for a Tombs of Amascut raid level 500 and says it is overpowered; he says it is essentially better Bandos for use with Osmumten's fang and also gives ranged stats."
     },
     {
-      "name": "Opinion: Mixed hide should be nerfed",
-      "kind": "opinion",
-      "claims": [
-        {"t": 0, "kind": "opinion", "text": "Gnomonkey says he wants Jagex to nerf Mixed hide armour and cites how overpowered it is as proof; he says nobody knows about it yet."},
-        {"t": 1596, "kind": "opinion", "text": "Gnomonkey says he would redesign Mixed hide as an unfortified item, like Masori, with no offensive bonuses until it is fortified."},
-        {"t": 1627, "kind": "opinion", "text": "Gnomonkey would add a fortifying leather drop to the Grotesque Guardians (he says 'GGs') or Abyssal Sire, because they have no good drops and only a 75 Slayer requirement, and would make the drop fairly common."},
-        {"t": 1656, "kind": "opinion", "text": "Gnomonkey argues the current requirements are too low: with 72 Hunter and 72 Crafting a player gets armour better than Masori and Torva for Tombs of Amascut."},
-        {"t": 1684, "kind": "opinion", "text": "Gnomonkey says that until it is changed, players should use and abuse Mixed hide because it is really good."}
-      ]
+     "t": 93,
+     "kind": "trivia",
+     "text": "Gnomonkey says Mixed hide armour was added alongside the Coliseum, to the Hunter Guild, and that few players know about it."
     },
     {
-      "name": "Tombs of Amascut",
-      "kind": "raid",
-      "claims": [
-        {"t": 0, "kind": "opinion", "text": "Gnomonkey recorded this Tombs of Amascut raid level 500 teaching stream after the monkey room update because he was waiting for the changes, and says the new setup with Mixed hide is the meta for a 500."},
-        {"t": 33, "kind": "method", "text": "Gnomonkey's recommended 500 setup: eight restores, a good spec weapon (fang, DDS, Keris, BGS) and ranged-capable armour in the form of Mixed hide; he says this makes the raid much easier."},
-        {"t": 244, "kind": "tip", "text": "For a 500 Gnomonkey likes Pathfinder, Overly Draining off and Overlords as an option; he says unconfident players can turn Keep Back off and use Overlords to slow the rate a bit, but he personally prefers Overlords off."},
-        {"t": 270, "kind": "tip", "text": "Gnomonkey says the Ring switches are only worth it for Overly Draining, and a slight max hit increase is not worth bringing the non-active Lightbearer."},
-        {"t": 515, "kind": "method", "text": "Gnomonkey does the super combat rooms first (Ba-Ba and Kephri) with pre-pot, because salts benefit melee less than the other styles, and leaves the mage and range salts for last, which are Zebak and Akkha."},
-        {"t": 1125, "kind": "tip", "text": "Mage attacks roll against the monster's mage level and bypass defence, so BGS specs do nothing when mageing a boss."},
-        {"t": 1100, "kind": "record", "text": "Gnomonkey finished the 500 with four restores left over and says this is far more than the gap he thinks viewers need to close to match his flicking skill."},
-        {"t": 1590, "kind": "event", "text": "Gnomonkey reports a 14% purple chance on this run and got no purple, and no kit because he already had one in the bank; he took 700k loot."},
-        {"t": 1566, "kind": "opinion", "text": "Gnomonkey says Tombs of Amascut has never been easier and the 500 is now completely free with this setup."}
-      ]
+     "t": 93,
+     "kind": "stat",
+     "text": "Mixed hide armour provides both strength bonus and stab bonus; Gnomonkey says the chestplate has the strength bonus while the legs have only stab bonus, and his full setup showed a stab bonus of 137."
     },
     {
-      "name": "Update: Monkey room changes",
-      "kind": "update",
-      "claims": [
-        {"t": 62, "kind": "event", "text": "As of 30 May 2024, Gnomonkey says the Tombs of Amascut monkey room is guaranteed one shot on everything and the monsters' health no longer scales."},
-        {"t": 62, "kind": "stat", "text": "After the update, Gnomonkey says everything in the monkey room has extremely low health and one-way weapon swaps one-shot everything, including the blowpipe."},
-        {"t": 305, "kind": "stat", "text": "Gnomonkey notes the monkey room monsters have 16 health after the update, and a later wave has 10 health."},
-        {"t": 338, "kind": "opinion", "text": "Gnomonkey says the monkey room is night and day faster and easier, and is not even a room anymore; he says this helps the 500 a lot because it was previously the hardest room for supplies."},
-        {"t": 298, "kind": "opinion", "text": "Gnomonkey says the room is now as free as the other puzzle rooms and compares it to a hot knife through butter; chat said everyone missed him doing it because it was fast."},
-        {"t": 90, "kind": "opinion", "text": "Gnomonkey says the changes make the monkey room one of the hardest and first rooms no longer a reset central, and calls the update a night and day upgrade to Tombs of Amascut."}
-      ]
+     "t": 124,
+     "kind": "method",
+     "text": "Gnomonkey explains that Osmumten's fang rolls accuracy twice, so strength bonus matters less for it while stab bonus matters a lot; he likens the fang to a mini Shadow that rolls stab twice."
     },
     {
-      "name": "Eternal boots",
-      "kind": "item",
-      "claims": [
-        {"t": 33, "kind": "stat", "text": "Gnomonkey says Eternal boots now give max hit in Tombs of Amascut after the monkey room update, which he believes is +1 and +2 with mage."},
-        {"t": 62, "kind": "opinion", "text": "Gnomonkey says camping Eternal boots is now better than camping Primordial boots for Tombs of Amascut because of the extra max hit, and he equips them for the whole raid."},
-        {"t": 33, "kind": "opinion", "text": "Gnomonkey says wearing Eternal boots makes the setup slightly worse against Kephri and Ba-Ba but that the trade-off is worth it."}
-      ]
+     "t": 152,
+     "kind": "stat",
+     "text": "In Gnomonkey's DPS calculator against Ba-Ba at raid level 500, path level 2, with no defence drained, Mixed hide had 1.5% better accuracy than Bandos and killed half a second faster; Torva was still about two seconds faster than Mixed hide."
     },
     {
-      "name": "Voidwaker",
-      "kind": "item",
-      "claims": [
-        {"t": 270, "kind": "stat", "text": "Gnomonkey says the Voidwaker one-shots all the monkey room monsters and is four-tick, so he uses it there."},
-        {"t": 270, "kind": "method", "text": "Gnomonkey uses the Voidwaker as his whack weapon in the Wardens' phase 2, with DDS for spec."},
-        {"t": 442, "kind": "mechanic", "text": "The Voidwaker special counts as magic damage, so speccing with it does not end Ba-Ba's boulder phase; Gnomonkey can spec during boulder throwing for free damage."},
-        {"t": 442, "kind": "tip", "text": "Gnomonkey says to swap the Voidwaker back to its normal style after using it on stab, because it has a lower max hit on stab."},
-        {"t": 552, "kind": "opinion", "text": "Gnomonkey says BGS is not worth using on Ba-Ba if you have the Voidwaker because you would just spec with the Voidwaker; without a Voidwaker, BGS is worth it."},
-        {"t": 552, "kind": "opinion", "text": "Gnomonkey says claws are probably worth bringing only if they are your only DPS spec, as they are much worse than the Voidwaker."}
-      ]
+     "t": 185,
+     "kind": "opinion",
+     "text": "Gnomonkey says that across almost every boss, Mixed hide with the fang beats Bandos with the fang, including at Vorkath, and that anyone using Bandos with a fang should switch to Mixed hide; he notes only rare cases where Bandos is slightly better."
     },
     {
-      "name": "Ba-Ba",
-      "kind": "boss",
-      "claims": [
-        {"t": 386, "kind": "method", "text": "Gnomonkey starts his Red X on Ba-Ba by going three tiles under and three back; after that it is two under, two back."},
-        {"t": 442, "kind": "method", "text": "To get into the Red X cycle quickly, Gnomonkey puts the Voidwaker on stab, does a four-tick hit into a two step under, and is instantly in cycle."},
-        {"t": 442, "kind": "opinion", "text": "Gnomonkey says he teaches the easy way: you can do 500s without Red X but that makes them harder than needed."},
-        {"t": 462, "kind": "tip", "text": "Gnomonkey found that in the boulder phase after the update the Voidwaker did not one-shot without a potion, so you need the full switch; he suggests using an accurate blowpipe with the full switch and pre-potting a normal ranging potion."},
-        {"t": 515, "kind": "stat", "text": "Gnomonkey used only one dose of restore on Ba-Ba and says he could have used zero."}
-      ]
+     "t": 185,
+     "kind": "stat",
+     "text": "Mixed hide has a 27 ranged bonus (hybrid ranged armour), so Gnomonkey wears it instead of Masori in Tombs of Amascut, saving two inventory slots for extra potions."
     },
     {
-      "name": "Zebak",
-      "kind": "boss",
-      "claims": [
-        {"t": 515, "kind": "mechanic", "text": "At the time of this video Gnomonkey says there was a one in two chance that Zebak would be level four, and overall a one in six chance with Pathfinder; he had a level three Zebak this run."},
-        {"t": 732, "kind": "tip", "text": "Gnomonkey recommends checking Zebak's level early: if it is level three or lower, do Zebak first; if it is level four you may do Akkha earlier, because a level four Zebak makes everything harder, including the Wardens."},
-        {"t": 768, "kind": "tip", "text": "Gnomonkey says it is better to range Zebak even in Mixed hide, based on his calc."},
-        {"t": 791, "kind": "tip", "text": "Gnomonkey says Zebak can be a free prayer room if you set quick prayers to Rigor and Mage prayer and one-tick flick most of the time."},
-        {"t": 819, "kind": "method", "text": "Gnomonkey uses red tile markers on the left and right of the room as safe spots from the opposite side's blood spawns; with a level three Zebak you can catch all the blood barrages."},
-        {"t": 848, "kind": "stat", "text": "With a level four Zebak, Gnomonkey says the blood barrages become a 50-50 coin toss and you take chip damage."},
-        {"t": 878, "kind": "tip", "text": "Gnomonkey says to avoid being hit by Zebak's shadow orbs in a 500 because they hit for 25 and you do not want to lose 25 health going into Akkha."},
-        {"t": 1415, "kind": "mechanic", "text": "Gnomonkey says a level four Zebak makes the Wardens' projectiles a tick faster, making the Wardens a bit harder, so avoiding a level four Zebak is ideal but it is still beatable."}
-      ]
+     "t": 215,
+     "kind": "method",
+     "text": "Because Mixed hide replaces the ranged armour switch, Gnomonkey brings eight restore potions in a 500, up from four or five in his previous teaching stream, and says this makes the 500 much more relaxed."
     },
     {
-      "name": "Kephri",
-      "kind": "boss",
-      "claims": [
-        {"t": 649, "kind": "tip", "text": "In Kephri's room the arcane scarab is the priority and the one thing that can kill you; Gnomonkey uses the fang on it most of the time and the Shadow if he cannot reach it."},
-        {"t": 649, "kind": "mechanic", "text": "Gnomonkey says a hit of 39 or higher jumps the arcane scarab, and three hit splats of any amount higher than three also make it jump."},
-        {"t": 678, "kind": "tip", "text": "Gnomonkey recommends not shooting the swarms when the arcane scarab exists in a 500, unless you are speedrunning."},
-        {"t": 678, "kind": "tip", "text": "Gnomonkey says Augury is always worth using in Tombs of Amascut because it gives max hit, which he believes is +1."},
-        {"t": 711, "kind": "mechanic", "text": "Gnomonkey says a hit must be a 5 (the enemy's max) to drain any prayer, since lower hits round down to zero prayer drain."},
-        {"t": 711, "kind": "opinion", "text": "Gnomonkey says with so many restores in the Mixed hide setup you could camp ranged prayer in Kephri's room."},
-        {"t": 515, "kind": "tip", "text": "With Pathfinder Gnomonkey gets triple swarms in Kephri's room and says chinchompas might be worth it for them."},
-        {"t": 757, "kind": "tip", "text": "Gnomonkey says using the jug on the water makes you pick up a tick faster, and using the jug on the tree makes it water a tick faster."}
-      ]
+     "t": 370,
+     "kind": "tip",
+     "text": "The downside of Mixed hide is awkward switching: with two pieces of armour used on both sides, Gnomonkey says he has to swap back into the ranged setup first to keep his inventory set up properly."
     },
     {
-      "name": "Akkha",
-      "kind": "boss",
-      "claims": [
-        {"t": 894, "kind": "opinion", "text": "Gnomonkey says Akkha is the most dangerous room in Tombs of Amascut."},
-        {"t": 906, "kind": "method", "text": "Gnomonkey starts Akkha on a specific tile and begins the butterfly method as soon as the true tile is one tick from him; he only butterflies in one direction because swapping quadrants is easier that way."},
-        {"t": 934, "kind": "method", "text": "Double trouble is simply moving two tiles for every step, never walking, which Gnomonkey says keeps you 100% safe; he says people overcomplicate it."},
-        {"t": 969, "kind": "tip", "text": "Gnomonkey has magic tiles marked that take you horizontally tick-perfect to the next set of butterfly tiles; if you mess up, he says just skip the hit and recover."},
-        {"t": 969, "kind": "tip", "text": "Gnomonkey says it is never worth tanking melee hits from Akkha because that is what causes Akkha to swap styles."},
-        {"t": 998, "kind": "tip", "text": "Gnomonkey says to keep resalting so run energy does not drop, since salt occasionally replenishes run energy."},
-        {"t": 1032, "kind": "mechanic", "text": "Gnomonkey says there are three ticks between each damage instance so you can safely move twice in a quadrant on rare bad layouts."},
-        {"t": 1060, "kind": "tip", "text": "Gnomonkey says the blowpipe is the best weapon on Akkha: once Akkha is on the right tick you step out, shoot, step back in, take two more shots and repeat, keeping him in place."},
-        {"t": 1090, "kind": "mechanic", "text": "Gnomonkey says when the true tile is one tick away from you the orb will hit you the next tick, so you can never step in front of an orb."}
-      ]
+     "t": 705,
+     "kind": "stat",
+     "text": "Gnomonkey says Mixed hide has very low ranged defence, so he gets hit hard by ranged attacks in Tombs of Amascut, but that defence matters in very few rooms there."
     },
     {
-      "name": "The Wardens",
-      "kind": "boss",
-      "claims": [
-        {"t": 1125, "kind": "method", "text": "Gnomonkey mages the Wardens with the Shadow and uses Keris spec; he says to pop one Voidwaker spec and use the rest of the specs for Keris."},
-        {"t": 1148, "kind": "tip", "text": "Gnomonkey drops chaos runes far away in a spot he does not care about to get death charge for the fight; death charge works on the core each time it is sucked back in, and you pick up the potions after phase 2."},
-        {"t": 1180, "kind": "tip", "text": "Gnomonkey flicks rapid heal right before the fight starts and tanks down to 75 health, then runs to a safe spot so he can tank one more skull."},
-        {"t": 1212, "kind": "mechanic", "text": "Gnomonkey says a monster's mage defence is based on pure mage level, while a player's mage defence roll is based on 30% of their non-mage defence."},
-        {"t": 1277, "kind": "tip", "text": "Gnomonkey stands in melee range of the core because the melee attack rolls against defence and maxes 4 instead of 10, which reduces damage; he says you do not have to if you are uncomfortable."},
-        {"t": 1277, "kind": "tip", "text": "Gnomonkey says to use the Keris whenever you are below 10 health, or a bit earlier if nervous."},
-        {"t": 1330, "kind": "mechanic", "text": "Gnomonkey says the skulls shoot out two safe tiles next to them, so you can stand right next to the skull shadow and be safe."},
-        {"t": 1330, "kind": "mechanic", "text": "Gnomonkey says the number of hits you get depends on the damage threshold dealt to the core: below 80% health gives 8 hits next time instead of 6, below 60% gives 10 hits, and after that it is permanently 10 hits."},
-        {"t": 1358, "kind": "tip", "text": "Gnomonkey says you cannot get death charge off the last hit unless you do the full 10 hits on the last phase."},
-        {"t": 1385, "kind": "tip", "text": "Gnomonkey says to stand close to the boss to make the Shadow hit a bit faster, and that every 20% damage brings skulls; killing the skulls gives health back with the Keris."},
-        {"t": 1385, "kind": "tip", "text": "Gnomonkey says that with over two restores you effectively have unlimited restore and can camp Augury throughout the Wardens."},
-        {"t": 1443, "kind": "tip", "text": "In phase 4 Gnomonkey says to keep prayer high and sip again if prayer approaches 50, so you can always use the Keris, and to have your adrenaline ready for the last phase."},
-        {"t": 1443, "kind": "tip", "text": "Gnomonkey says to stay far away at the end of phase 3 because it lets you get an extra hit off before phase 4 and it counts."},
-        {"t": 1471, "kind": "method", "text": "For last row in phase 4, Gnomonkey steps directly onto the first shadow of each of the three sets, which avoids the damage; he says phase 4 is not RNG and is completely consistent."},
-        {"t": 1532, "kind": "tip", "text": "Gnomonkey says the boulders do the most damage in the Wardens fight and are the thing to avoid."}
-      ]
+     "t": 1050,
+     "kind": "tip",
+     "text": "Mixed hide takes more damage from Akkha's hits, but Gnomonkey says this is fine because he butterflies Akkha and takes almost no damage."
     },
     {
-      "name": "Series: Wiki Guides",
-      "kind": "other",
-      "claims": [
-        {"t": 1565, "kind": "event", "text": "Gnomonkey says he did not learn about Mixed hide until he did the Tombs of Amascut wiki guide, which he planned to put up relatively soon after this stream."},
-        {"t": 1612, "kind": "event", "text": "Gnomonkey says the wiki-gear Tombs of Amascut run he was preparing as a wiki guide was super difficult because he had to use really terrible gear."}
-      ]
+     "t": 1596,
+     "kind": "stat",
+     "text": "Gnomonkey says the Mixed hide legs need 57 Hunter and the full set needs 72 Hunter; he first thought it also needed 72 Crafting, then learned from chat that you can pay for the crafting, so it is effectively just 72 Hunter."
+    },
+    {
+     "t": 1596,
+     "kind": "opinion",
+     "text": "Gnomonkey calls Mixed hide the stronger option over Bandos and over Torva for getting a completion rather than for speed GP, and says it slots in DPS between Bandos and Torva."
+    },
+    {
+     "t": 1684,
+     "kind": "opinion",
+     "text": "Gnomonkey says Mixed hide is not good without Osmumten's fang because it is stab armour with negative bonuses otherwise, and he would not use it below 300 invocations or with the Bow of Faerdhinen."
+    },
+    {
+     "t": 1684,
+     "kind": "stat",
+     "text": "Gnomonkey says his calc shows Mixed hide gives better DPS than Bandos down to 300 invocation level, even if you carry a Masori switch for money."
+    },
+    {
+     "t": 1718,
+     "kind": "opinion",
+     "text": "Gnomonkey says you should just wear Mixed hide instead of Bandos when using a fang, calling Bandos effectively dead content for fang users."
     }
-  ]
+   ]
+  },
+  {
+   "name": "Opinion: Mixed hide should be nerfed",
+   "kind": "opinion",
+   "claims": [
+    {
+     "t": 0,
+     "kind": "opinion",
+     "text": "Gnomonkey says he wants Jagex to nerf Mixed hide armour and cites how overpowered it is as proof; he says nobody knows about it yet."
+    },
+    {
+     "t": 1596,
+     "kind": "opinion",
+     "text": "Gnomonkey says he would redesign Mixed hide as an unfortified item, like Masori, with no offensive bonuses until it is fortified."
+    },
+    {
+     "t": 1627,
+     "kind": "opinion",
+     "text": "Gnomonkey would add a fortifying leather drop to the Grotesque Guardians (he says 'GGs') or Abyssal Sire, because they have no good drops and only a 75 Slayer requirement, and would make the drop fairly common."
+    },
+    {
+     "t": 1656,
+     "kind": "opinion",
+     "text": "Gnomonkey argues the current requirements are too low: with 72 Hunter and 72 Crafting a player gets armour better than Masori and Torva for Tombs of Amascut."
+    },
+    {
+     "t": 1684,
+     "kind": "opinion",
+     "text": "Gnomonkey says that until it is changed, players should use and abuse Mixed hide because it is really good."
+    }
+   ]
+  },
+  {
+   "name": "Tombs of Amascut",
+   "kind": "raid",
+   "claims": [
+    {
+     "t": 0,
+     "kind": "opinion",
+     "text": "Gnomonkey recorded this Tombs of Amascut raid level 500 teaching stream after the monkey room update because he was waiting for the changes, and says the new setup with Mixed hide is the meta for a 500."
+    },
+    {
+     "t": 33,
+     "kind": "method",
+     "text": "Gnomonkey's recommended 500 setup: eight restores, a good spec weapon (fang, DDS, Keris, BGS) and ranged-capable armour in the form of Mixed hide; he says this makes the raid much easier."
+    },
+    {
+     "t": 244,
+     "kind": "tip",
+     "text": "For a 500 Gnomonkey likes Pathfinder, Overly Draining off and Overlords as an option; he says unconfident players can turn Keep Back off and use Overlords to slow the rate a bit, but he personally prefers Overlords off."
+    },
+    {
+     "t": 270,
+     "kind": "tip",
+     "text": "Gnomonkey says the Ring switches are only worth it for Overly Draining, and a slight max hit increase is not worth bringing the non-active Lightbearer."
+    },
+    {
+     "t": 515,
+     "kind": "method",
+     "text": "Gnomonkey does the super combat rooms first (Ba-Ba and Kephri) with pre-pot, because salts benefit melee less than the other styles, and leaves the mage and range salts for last, which are Zebak and Akkha."
+    },
+    {
+     "t": 1125,
+     "kind": "tip",
+     "text": "Mage attacks roll against the monster's mage level and bypass defence, so BGS specs do nothing when mageing a boss."
+    },
+    {
+     "t": 1100,
+     "kind": "record",
+     "text": "Gnomonkey finished the 500 with four restores left over and says this is far more than the gap he thinks viewers need to close to match his flicking skill."
+    },
+    {
+     "t": 1590,
+     "kind": "event",
+     "text": "Gnomonkey reports a 14% purple chance on this run and got no purple, and no kit because he already had one in the bank; he took 700k loot."
+    },
+    {
+     "t": 1566,
+     "kind": "opinion",
+     "text": "Gnomonkey says Tombs of Amascut has never been easier and the 500 is now completely free with this setup."
+    }
+   ]
+  },
+  {
+   "name": "Update: Monkey room changes",
+   "kind": "update",
+   "claims": [
+    {
+     "t": 62,
+     "kind": "event",
+     "text": "As of 30 May 2024, Gnomonkey says the Tombs of Amascut monkey room is guaranteed one shot on everything and the monsters' health no longer scales."
+    },
+    {
+     "t": 62,
+     "kind": "stat",
+     "text": "After the update, Gnomonkey says everything in the monkey room has extremely low health and one-way weapon swaps one-shot everything, including the blowpipe."
+    },
+    {
+     "t": 305,
+     "kind": "stat",
+     "text": "Gnomonkey notes the monkey room monsters have 16 health after the update, and a later wave has 10 health."
+    },
+    {
+     "t": 338,
+     "kind": "opinion",
+     "text": "Gnomonkey says the monkey room is night and day faster and easier, and is not even a room anymore; he says this helps the 500 a lot because it was previously the hardest room for supplies."
+    },
+    {
+     "t": 298,
+     "kind": "opinion",
+     "text": "Gnomonkey says the room is now as free as the other puzzle rooms and compares it to a hot knife through butter; chat said everyone missed him doing it because it was fast."
+    },
+    {
+     "t": 90,
+     "kind": "opinion",
+     "text": "Gnomonkey says the changes make the monkey room one of the hardest and first rooms no longer a reset central, and calls the update a night and day upgrade to Tombs of Amascut."
+    }
+   ]
+  },
+  {
+   "name": "Eternal boots",
+   "kind": "item",
+   "claims": [
+    {
+     "t": 33,
+     "kind": "stat",
+     "text": "Gnomonkey says Eternal boots now give max hit in Tombs of Amascut after the monkey room update, which he believes is +1 and +2 with mage."
+    },
+    {
+     "t": 62,
+     "kind": "opinion",
+     "text": "Gnomonkey says camping Eternal boots is now better than camping Primordial boots for Tombs of Amascut because of the extra max hit, and he equips them for the whole raid."
+    },
+    {
+     "t": 33,
+     "kind": "opinion",
+     "text": "Gnomonkey says wearing Eternal boots makes the setup slightly worse against Kephri and Ba-Ba but that the trade-off is worth it."
+    }
+   ]
+  },
+  {
+   "name": "Voidwaker",
+   "kind": "item",
+   "claims": [
+    {
+     "t": 270,
+     "kind": "stat",
+     "text": "Gnomonkey says the Voidwaker one-shots all the monkey room monsters and is four-tick, so he uses it there."
+    },
+    {
+     "t": 270,
+     "kind": "method",
+     "text": "Gnomonkey uses the Voidwaker as his whack weapon in the Wardens' phase 2, with DDS for spec."
+    },
+    {
+     "t": 442,
+     "kind": "method",
+     "text": "The Voidwaker special counts as magic damage, so speccing with it does not end Ba-Ba's boulder phase; Gnomonkey can spec during boulder throwing for free damage."
+    },
+    {
+     "t": 442,
+     "kind": "tip",
+     "text": "Gnomonkey says to swap the Voidwaker back to its normal style after using it on stab, because it has a lower max hit on stab."
+    },
+    {
+     "t": 552,
+     "kind": "opinion",
+     "text": "Gnomonkey says BGS is not worth using on Ba-Ba if you have the Voidwaker because you would just spec with the Voidwaker; without a Voidwaker, BGS is worth it."
+    },
+    {
+     "t": 552,
+     "kind": "opinion",
+     "text": "Gnomonkey says claws are probably worth bringing only if they are your only DPS spec, as they are much worse than the Voidwaker."
+    }
+   ]
+  },
+  {
+   "name": "Ba-Ba",
+   "kind": "boss",
+   "claims": [
+    {
+     "t": 386,
+     "kind": "method",
+     "text": "Gnomonkey starts his Red X on Ba-Ba by going three tiles under and three back; after that it is two under, two back."
+    },
+    {
+     "t": 442,
+     "kind": "method",
+     "text": "To get into the Red X cycle quickly, Gnomonkey puts the Voidwaker on stab, does a four-tick hit into a two step under, and is instantly in cycle."
+    },
+    {
+     "t": 442,
+     "kind": "opinion",
+     "text": "Gnomonkey says he teaches the easy way: you can do 500s without Red X but that makes them harder than needed."
+    },
+    {
+     "t": 462,
+     "kind": "tip",
+     "text": "Gnomonkey found that in the boulder phase after the update the Voidwaker did not one-shot without a potion, so you need the full switch; he suggests using an accurate blowpipe with the full switch and pre-potting a normal ranging potion."
+    },
+    {
+     "t": 515,
+     "kind": "stat",
+     "text": "Gnomonkey used only one dose of restore on Ba-Ba and says he could have used zero."
+    }
+   ]
+  },
+  {
+   "name": "Zebak",
+   "kind": "boss",
+   "claims": [
+    {
+     "t": 515,
+     "kind": "method",
+     "text": "At the time of this video Gnomonkey says there was a one in two chance that Zebak would be level four, and overall a one in six chance with Pathfinder; he had a level three Zebak this run."
+    },
+    {
+     "t": 732,
+     "kind": "tip",
+     "text": "Gnomonkey recommends checking Zebak's level early: if it is level three or lower, do Zebak first; if it is level four you may do Akkha earlier, because a level four Zebak makes everything harder, including the Wardens."
+    },
+    {
+     "t": 768,
+     "kind": "tip",
+     "text": "Gnomonkey says it is better to range Zebak even in Mixed hide, based on his calc."
+    },
+    {
+     "t": 791,
+     "kind": "tip",
+     "text": "Gnomonkey says Zebak can be a free prayer room if you set quick prayers to Rigor and Mage prayer and one-tick flick most of the time."
+    },
+    {
+     "t": 819,
+     "kind": "method",
+     "text": "Gnomonkey uses red tile markers on the left and right of the room as safe spots from the opposite side's blood spawns; with a level three Zebak you can catch all the blood barrages."
+    },
+    {
+     "t": 848,
+     "kind": "stat",
+     "text": "With a level four Zebak, Gnomonkey says the blood barrages become a 50-50 coin toss and you take chip damage."
+    },
+    {
+     "t": 878,
+     "kind": "tip",
+     "text": "Gnomonkey says to avoid being hit by Zebak's shadow orbs in a 500 because they hit for 25 and you do not want to lose 25 health going into Akkha."
+    },
+    {
+     "t": 1415,
+     "kind": "method",
+     "text": "Gnomonkey says a level four Zebak makes the Wardens' projectiles a tick faster, making the Wardens a bit harder, so avoiding a level four Zebak is ideal but it is still beatable."
+    }
+   ]
+  },
+  {
+   "name": "Kephri",
+   "kind": "boss",
+   "claims": [
+    {
+     "t": 649,
+     "kind": "tip",
+     "text": "In Kephri's room the arcane scarab is the priority and the one thing that can kill you; Gnomonkey uses the fang on it most of the time and the Shadow if he cannot reach it."
+    },
+    {
+     "t": 649,
+     "kind": "method",
+     "text": "Gnomonkey says a hit of 39 or higher jumps the arcane scarab, and three hit splats of any amount higher than three also make it jump."
+    },
+    {
+     "t": 678,
+     "kind": "tip",
+     "text": "Gnomonkey recommends not shooting the swarms when the arcane scarab exists in a 500, unless you are speedrunning."
+    },
+    {
+     "t": 678,
+     "kind": "tip",
+     "text": "Gnomonkey says Augury is always worth using in Tombs of Amascut because it gives max hit, which he believes is +1."
+    },
+    {
+     "t": 711,
+     "kind": "method",
+     "text": "Gnomonkey says a hit must be a 5 (the enemy's max) to drain any prayer, since lower hits round down to zero prayer drain."
+    },
+    {
+     "t": 711,
+     "kind": "opinion",
+     "text": "Gnomonkey says with so many restores in the Mixed hide setup you could camp ranged prayer in Kephri's room."
+    },
+    {
+     "t": 515,
+     "kind": "tip",
+     "text": "With Pathfinder Gnomonkey gets triple swarms in Kephri's room and says chinchompas might be worth it for them."
+    },
+    {
+     "t": 757,
+     "kind": "tip",
+     "text": "Gnomonkey says using the jug on the water makes you pick up a tick faster, and using the jug on the tree makes it water a tick faster."
+    }
+   ]
+  },
+  {
+   "name": "Akkha",
+   "kind": "boss",
+   "claims": [
+    {
+     "t": 894,
+     "kind": "opinion",
+     "text": "Gnomonkey says Akkha is the most dangerous room in Tombs of Amascut."
+    },
+    {
+     "t": 906,
+     "kind": "method",
+     "text": "Gnomonkey starts Akkha on a specific tile and begins the butterfly method as soon as the true tile is one tick from him; he only butterflies in one direction because swapping quadrants is easier that way."
+    },
+    {
+     "t": 934,
+     "kind": "method",
+     "text": "Double trouble is simply moving two tiles for every step, never walking, which Gnomonkey says keeps you 100% safe; he says people overcomplicate it."
+    },
+    {
+     "t": 969,
+     "kind": "tip",
+     "text": "Gnomonkey has magic tiles marked that take you horizontally tick-perfect to the next set of butterfly tiles; if you mess up, he says just skip the hit and recover."
+    },
+    {
+     "t": 969,
+     "kind": "tip",
+     "text": "Gnomonkey says it is never worth tanking melee hits from Akkha because that is what causes Akkha to swap styles."
+    },
+    {
+     "t": 998,
+     "kind": "tip",
+     "text": "Gnomonkey says to keep resalting so run energy does not drop, since salt occasionally replenishes run energy."
+    },
+    {
+     "t": 1032,
+     "kind": "method",
+     "text": "Gnomonkey says there are three ticks between each damage instance so you can safely move twice in a quadrant on rare bad layouts."
+    },
+    {
+     "t": 1060,
+     "kind": "tip",
+     "text": "Gnomonkey says the blowpipe is the best weapon on Akkha: once Akkha is on the right tick you step out, shoot, step back in, take two more shots and repeat, keeping him in place."
+    },
+    {
+     "t": 1090,
+     "kind": "method",
+     "text": "Gnomonkey says when the true tile is one tick away from you the orb will hit you the next tick, so you can never step in front of an orb."
+    }
+   ]
+  },
+  {
+   "name": "The Wardens",
+   "kind": "boss",
+   "claims": [
+    {
+     "t": 1125,
+     "kind": "method",
+     "text": "Gnomonkey mages the Wardens with the Shadow and uses Keris spec; he says to pop one Voidwaker spec and use the rest of the specs for Keris."
+    },
+    {
+     "t": 1148,
+     "kind": "tip",
+     "text": "Gnomonkey drops chaos runes far away in a spot he does not care about to get death charge for the fight; death charge works on the core each time it is sucked back in, and you pick up the potions after phase 2."
+    },
+    {
+     "t": 1180,
+     "kind": "tip",
+     "text": "Gnomonkey flicks rapid heal right before the fight starts and tanks down to 75 health, then runs to a safe spot so he can tank one more skull."
+    },
+    {
+     "t": 1212,
+     "kind": "method",
+     "text": "Gnomonkey says a monster's mage defence is based on pure mage level, while a player's mage defence roll is based on 30% of their non-mage defence."
+    },
+    {
+     "t": 1277,
+     "kind": "tip",
+     "text": "Gnomonkey stands in melee range of the core because the melee attack rolls against defence and maxes 4 instead of 10, which reduces damage; he says you do not have to if you are uncomfortable."
+    },
+    {
+     "t": 1277,
+     "kind": "tip",
+     "text": "Gnomonkey says to use the Keris whenever you are below 10 health, or a bit earlier if nervous."
+    },
+    {
+     "t": 1330,
+     "kind": "method",
+     "text": "Gnomonkey says the skulls shoot out two safe tiles next to them, so you can stand right next to the skull shadow and be safe."
+    },
+    {
+     "t": 1330,
+     "kind": "method",
+     "text": "Gnomonkey says the number of hits you get depends on the damage threshold dealt to the core: below 80% health gives 8 hits next time instead of 6, below 60% gives 10 hits, and after that it is permanently 10 hits."
+    },
+    {
+     "t": 1358,
+     "kind": "tip",
+     "text": "Gnomonkey says you cannot get death charge off the last hit unless you do the full 10 hits on the last phase."
+    },
+    {
+     "t": 1385,
+     "kind": "tip",
+     "text": "Gnomonkey says to stand close to the boss to make the Shadow hit a bit faster, and that every 20% damage brings skulls; killing the skulls gives health back with the Keris."
+    },
+    {
+     "t": 1385,
+     "kind": "tip",
+     "text": "Gnomonkey says that with over two restores you effectively have unlimited restore and can camp Augury throughout the Wardens."
+    },
+    {
+     "t": 1443,
+     "kind": "tip",
+     "text": "In phase 4 Gnomonkey says to keep prayer high and sip again if prayer approaches 50, so you can always use the Keris, and to have your adrenaline ready for the last phase."
+    },
+    {
+     "t": 1443,
+     "kind": "tip",
+     "text": "Gnomonkey says to stay far away at the end of phase 3 because it lets you get an extra hit off before phase 4 and it counts."
+    },
+    {
+     "t": 1471,
+     "kind": "method",
+     "text": "For last row in phase 4, Gnomonkey steps directly onto the first shadow of each of the three sets, which avoids the damage; he says phase 4 is not RNG and is completely consistent."
+    },
+    {
+     "t": 1532,
+     "kind": "tip",
+     "text": "Gnomonkey says the boulders do the most damage in the Wardens fight and are the thing to avoid."
+    }
+   ]
+  },
+  {
+   "name": "Series: Wiki Guides",
+   "kind": "other",
+   "claims": [
+    {
+     "t": 1565,
+     "kind": "event",
+     "text": "Gnomonkey says he did not learn about Mixed hide until he did the Tombs of Amascut wiki guide, which he planned to put up relatively soon after this stream."
+    },
+    {
+     "t": 1612,
+     "kind": "event",
+     "text": "Gnomonkey says the wiki-gear Tombs of Amascut run he was preparing as a wiki guide was super difficult because he had to use really terrible gear."
+    }
+   ]
+  }
+ ]
 }

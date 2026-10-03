@@ -1,0 +1,135 @@
+{
+  "id": "bHKYk5VY_oI",
+  "title": "The Good and Bad of RS3 Leagues",
+  "date": "2025-09-19",
+  "type": "news-opinion",
+  "summary": "Gnomonkey gives his thoughts after playing the first RuneScape 3 Leagues: he enjoyed the PvM and EoC combat and recommends trying it, but criticises the slow relic progression, the quest requirements and the mass of dailies and flash events. He then argues the RS3 player base should demand better from Jagex, as Old School players do.",
+  "outline": [
+    {"t": 0, "text": "Recommending RS3 Leagues and defending EoC and the interface"},
+    {"t": 88, "text": "What RS3 Leagues is and RSguy's step-by-step guide"},
+    {"t": 178, "text": "Problems with progression: slow relic tiers, no region locking, quests"},
+    {"t": 432, "text": "PvM and combat relic gameplay: Araxxor and EoC"},
+    {"t": 653, "text": "Dailies and Wilderness flash events"},
+    {"t": 830, "text": "Dailies, weeklies and shops: hours of daily upkeep"},
+    {"t": 958, "text": "Reddit reactions and the community defending the design"},
+    {"t": 1157, "text": "Calling on the RS3 player base to demand better updates"},
+    {"t": 1384, "text": "Microtransactions, battle pass and Old School comparisons"},
+    {"t": 1624, "text": "Final conclusions: Leagues as RS3's last chance"}
+  ],
+  "topics": [
+    {
+      "name": "RuneScape 3 Leagues",
+      "kind": "activity",
+      "claims": [
+        {"t": 0, "kind": "opinion", "text": "Gnomonkey played the RS3 Leagues for quite a while, streamed it, had a lot of fun, and recommends anyone curious to give it a try since the worst that can happen is logging out."},
+        {"t": 61, "kind": "stat", "text": "RS3 Leagues works like Old School Leagues: boosted XP rates, with tasks that unlock relics at certain tiers which hugely buff the player (fast mining, woodcutting, catching, up to turning into a literal god)."},
+        {"t": 92, "kind": "stat", "text": "This RS3 league does not include combat masteries or Echo bosses as seen in Echo Leagues; Gnomonkey considers it a simpler, more straightforward league that may suit players easing into RS3."},
+        {"t": 151, "kind": "stat", "text": "There are no microtransactions whatsoever in RS3 Leagues, as everybody is an Ironman and Ironman in the base game already has none."},
+        {"t": 183, "kind": "opinion", "text": "Gnomonkey says this is RS3's very first league and it shows, with progression extremely slow even after a change cutting the points required per relic tier by about 40%."},
+        {"t": 183, "kind": "record", "text": "Gnomonkey played about 13 hours on day one and finished Dragon Slayer, barely reaching the tier 3 relic out of 7 relics total."},
+        {"t": 212, "kind": "stat", "text": "Gnomonkey estimates tier 3 is roughly 10% of the total points needed for tier 7, and that early progress was about 20% of the speed of an Echo League; in Echo Leagues a solo player had all relics and combat masteries unlocked by the end of day one."},
+        {"t": 242, "kind": "opinion", "text": "Gnomonkey says RS3 Leagues has no region locking but did not add extra points to compensate, so players have roughly the same point total as an Old School league across a much bigger game map."},
+        {"t": 273, "kind": "stat", "text": "Some quests auto-complete in RS3 Leagues, mainly the elf questline, but many quest lines such as the vampire questline are not auto-unlocked."},
+        {"t": 366, "kind": "stat", "text": "The combat relic is tier 5, which Gnomonkey says would take roughly three days of play from the beginning point spread to reach, so players do little combat in the first days and mostly skill and quest."},
+        {"t": 1624, "kind": "opinion", "text": "Gnomonkey does not expect to return to RS3 Leagues because Jagex have been slow on changes and say they cannot do much to auto-complete quests; he thinks they needed more time to learn from Old School's league mistakes and the hype has died."},
+        {"t": 1624, "kind": "opinion", "text": "Gnomonkey believes the RS3 Leagues is RuneScape 3's last chance to use a bump in player numbers to demand sweeping changes."}
+      ]
+    },
+    {
+      "name": "RSguy",
+      "kind": "person",
+      "claims": [
+        {"t": 123, "kind": "trivia", "text": "Gnomonkey describes RSguy as RuneScape 3's biggest streamer; he has a full step-by-step Leagues guide on his website, thersguide.com, that players can follow through the basic relics or leave at any point."},
+        {"t": 151, "kind": "trivia", "text": "RSguy's website also has guides on how the tick system works, how to set up keybinds and how combat works in RS3."},
+        {"t": 332, "kind": "opinion", "text": "Gnomonkey notes RSguy's guide has a two-hour step to build the fort (Fort Forinthry) about four hours into leagues, which he says is important for skilling hubs and construction XP but badly halts the pace."}
+      ]
+    },
+    {
+      "name": "Quest",
+      "kind": "mechanic",
+      "claims": [
+        {"t": 304, "kind": "stat", "text": "Gnomonkey says RS3 has maybe 30% more quests than Old School, many of them grandmaster quests, and that they are longer and harder and often required for combat."},
+        {"t": 304, "kind": "requirement", "text": "In RS3, a quest (Gnomonkey recalls 'One Piercing Note') is required for the Devotion ability, which makes protection prayers 100% effective for about 10 seconds instead of the usual 50%, and many bosses one-shot players who lack it."},
+        {"t": 394, "kind": "opinion", "text": "Gnomonkey says the early quests required in Leagues (Restless Ghost, Priest in Peril, Rune Mysteries, which is a remade quest taking an hour) are not RS3's good quests; the loved ones are the late grandmaster quests."},
+        {"t": 990, "kind": "opinion", "text": "Gnomonkey notes subreddit advice to skip questing for points, but says many quests are very long and unlock combat abilities and bosses so you cannot skip them."}
+      ]
+    },
+    {
+      "name": "Araxxor",
+      "kind": "boss",
+      "claims": [
+        {"t": 447, "kind": "stat", "text": "Araxxor in RS3 is an enrage boss: he does not give better loot as you kill him but becomes harder every time you kill him."},
+        {"t": 447, "kind": "record", "text": "In RS3 Leagues Gnomonkey pushed Araxxor to 80% enrage using a crystal halberd and mostly Bandos gear with his buffed combat relics."},
+        {"t": 479, "kind": "opinion", "text": "Gnomonkey says the fight forced him to learn ability rotations, defensive abilities, prayer swapping and movement, that he had a blast, and that Araxxor is a joke compared with other RS3 bosses."}
+      ]
+    },
+    {
+      "name": "Evolution of Combat",
+      "kind": "mechanic",
+      "claims": [
+        {"t": 0, "kind": "opinion", "text": "Gnomonkey says claims that EoC ruined the game are not true; he found EoC combat so fleshed out and deep that he had a lot of fun with it."},
+        {"t": 31, "kind": "stat", "text": "The RS3 interface is completely customizable and can be imported from any other player's name."},
+        {"t": 508, "kind": "opinion", "text": "Gnomonkey says RS3 PvM does not feel held back: bosses are meant to be done at top difficulty and scale up to sometimes 40 times, or almost infinitely in the case of Zamorak, with no reward otherwise."},
+        {"t": 508, "kind": "opinion", "text": "Gnomonkey contrasts this with Old School, which he says must include mid-level players even in endgame bosses such as Tombs of Amascut; he says RS3 devs play to an elite crowd."},
+        {"t": 568, "kind": "trivia", "text": "Gnomonkey says EoC was terrible at launch, super buggy, with special attacks removed from the game entirely and claws worth about 50k overnight."},
+        {"t": 598, "kind": "opinion", "text": "Gnomonkey considers modern RS3 combat amazing with insane depth, while he likes Old School's point-and-click simplicity which has depth born out of the simplicity; which is better, he says, is up to taste."}
+      ]
+    },
+    {
+      "name": "Wilderness flash events",
+      "kind": "mechanic",
+      "claims": [
+        {"t": 656, "kind": "stat", "text": "RS3 Wilderness flash events happen every hour on the hour, and Gnomonkey says they are incredibly rewarding."},
+        {"t": 682, "kind": "stat", "text": "The Unnatural outcrop event near the Mage of Zamorak asks players to mine 25 ores with level 1 Mining and hand them in, after which they receive sacks of wild rewards after five minutes."},
+        {"t": 714, "kind": "stat", "text": "Wild sack rewards include 10 to 20 black salamanders, 40 to 60 red chinchompas, 1 to 2 bloodweed seeds, 20 to 40 infernal ashes, and cash amounts of 20-40k, 48-100k and 73k."},
+        {"t": 746, "kind": "stat", "text": "At 70 Mining the Unnatural outcrop event gives about 22k Mining XP for five minutes of work, plus around 100k cash and maybe 30k prayer XP."},
+        {"t": 810, "kind": "stat", "text": "The evil tree event gives three lots of XP, three baby sacks and one very special wild sack with even more loot; Gnomonkey says a chat viewer set a midnight alarm so as not to miss it."},
+        {"t": 958, "kind": "stat", "text": "Gnomonkey says XP for flash events was scaled for Leagues, so missing 20k Mining was like missing 200k."}
+      ]
+    },
+    {
+      "name": "RuneScape 3 dailies",
+      "kind": "mechanic",
+      "claims": [
+        {"t": 626, "kind": "opinion", "text": "Gnomonkey says the dailies in RS3 are far worse than the microtransactions and are an overlooked reason people dislike the game; the FOMO is absurd and designed to make players log in daily."},
+        {"t": 838, "kind": "stat", "text": "Gnomonkey lists RS3 dailies including the Traveling Merchant, daily challenges, Jack of Trades XP, Soul Reaper boss tasks, Player-owned ports, and Gethixian caches which are the main way to train Divination."},
+        {"t": 866, "kind": "stat", "text": "In RS3 all shops are daily and do not restock until the day resets, so Ironmen must buy their runes, vis wax and feathers each day."},
+        {"t": 896, "kind": "stat", "text": "Gnomonkey estimates efficient dailies take about two hours a day, and up to six hours if pushed, plus weeklies and monthlies."},
+        {"t": 912, "kind": "opinion", "text": "Gnomonkey says the lack of a quest helper client in RS3, endless dailies and hourly flash events made him crash out on day one."},
+        {"t": 1267, "kind": "opinion", "text": "Gnomonkey says Jagex could have cut dailies from Leagues as a test and then started removing them from the main game, though he thinks some players would complain about losing them."}
+      ]
+    },
+    {
+      "name": "RuneScape 3 player base",
+      "kind": "opinion",
+      "claims": [
+        {"t": 1076, "kind": "opinion", "text": "Gnomonkey says the RS3 player base is completely different from Old School's, noting players telling him it is not supposed to be fast, that he is bad, or to just cope with the design; he adds that not all RS3 players are like this and many agreed with him."},
+        {"t": 1171, "kind": "opinion", "text": "Gnomonkey does not blame RS3 streamers or devs, whom he has heard are passionate, but blames the RS3 player base for accepting mediocrity, saying they have Stockholm syndrome after update after horrible update."},
+        {"t": 1204, "kind": "opinion", "text": "Gnomonkey says Old School players do not tolerate this: they quit in droves when EoC was added, and Reddit posts reached the top when Jagex tried to remove RuneLite, and he credits this for Old School's golden age."},
+        {"t": 1290, "kind": "opinion", "text": "Gnomonkey believes the Leagues player bump in RS3 is temporary, saying player count already dipped and Leagues will not save the game."},
+        {"t": 1326, "kind": "opinion", "text": "Gnomonkey tells the RS3 player base to demand more out of their game, such as removing dailies and microtransactions, or it will die."},
+        {"t": 1590, "kind": "opinion", "text": "Gnomonkey wants RS3 to thrive again, with players able to jump between both games and healthy communities on both sides."}
+      ]
+    },
+    {
+      "name": "Microtransactions",
+      "kind": "opinion",
+      "claims": [
+        {"t": 1353, "kind": "event", "text": "Gnomonkey says the Jagex CEO claimed on a podcast that he wanted RuneScape 3 to last 25 to 50 years, but Gnomonkey says it will not get better unless the player base pushes."},
+        {"t": 1385, "kind": "event", "text": "Gnomonkey says Jagex tested for a week removing Treasure Hunter's RNG spin and letting people directly buy XP, which he says is not an improvement."},
+        {"t": 1440, "kind": "event", "text": "Gnomonkey says Old School players reacted strongly to a survey about paying for customer support and putting up with in-game ads, with the subreddit and big YouTubers talking about it."},
+        {"t": 1472, "kind": "event", "text": "About a year before the video, RS3 added a battle pass whose final reward was 15% damage reduction against Zamorak, the hardest boss in the game; Gnomonkey says it did not cause a large stink the way it would on Old School."},
+        {"t": 1532, "kind": "opinion", "text": "Gnomonkey rejects claims that RS3 microtransactions are impossible to remove, saying players should not care about Jagex's bottom line and that RS3 could organically regrow its player base."}
+      ]
+    },
+    {
+      "name": "Opinion: Old School players should keep complaining",
+      "kind": "opinion",
+      "claims": [
+        {"t": 1384, "kind": "opinion", "text": "Gnomonkey says he will not stop complaining about bad updates such as Yama contracts that are 'completely impossible to complete'."},
+        {"t": 1414, "kind": "opinion", "text": "Gnomonkey argues complaining and quitting are why Old School is thriving while RS3 has been slowly dying, and he wants Old School to stay in its golden age."},
+        {"t": 1384, "kind": "opinion", "text": "Gnomonkey tells Old School players to keep up the pushback and not become apologists for Jagex, after seeing comments telling him to stop complaining."}
+      ]
+    }
+  ]
+}

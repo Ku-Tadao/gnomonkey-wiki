@@ -1,0 +1,156 @@
+{
+  "id": "nJICcC6IrLQ",
+  "title": "Solo Normal ToB - NEW UPDATE  (OSRS)",
+  "date": "2024-05-24",
+  "type": "speedrun",
+  "summary": "Gnomonkey does a solo normal-mode Theatre of Blood run right after the update that reduced Verzik's P2 red crabs to one in solo and capped lightning damage. He gets a one-and-done kill and a personal best of about 49 minutes, more than five minutes faster than his old best of just under 55.",
+  "outline": [
+    {
+      "t": 0,
+      "text": "Reacting to the Theatre of Blood solo update and starting the run"
+    },
+    {
+      "t": 65,
+      "text": "Maiden of Sugadinti"
+    },
+    {
+      "t": 108,
+      "text": "Pestilent Bloat"
+    },
+    {
+      "t": 234,
+      "text": "Nylocas waves and Vasilias, called the hardest room"
+    },
+    {
+      "t": 568,
+      "text": "Sotetseg and the maze, with brush markers on one maze"
+    },
+    {
+      "t": 734,
+      "text": "Xarpus"
+    },
+    {
+      "t": 866,
+      "text": "Verzik Vitur P1 to P3 with the new solo changes"
+    },
+    {
+      "t": 1129,
+      "text": "Finishing on a new personal best"
+    }
+  ],
+  "topics": [
+    {
+      "name": "Theatre of Blood",
+      "kind": "raid",
+      "claims": [
+        {
+          "t": 0,
+          "kind": "event",
+          "text": "A May 2024 update changed Verzik's P2 red crabs in solo Theatre of Blood to a single crab and capped the lightning damage."
+        },
+        {
+          "t": 0,
+          "kind": "opinion",
+          "text": "In the description Gnomonkey says that after the update there are no more double crabs in solo, so players no longer need to tick eat with purple sweets on Verzik P2 for 15 minutes to complete the raid."
+        },
+        {
+          "t": 0,
+          "kind": "opinion",
+          "text": "Gnomonkey says the double-crab problem was not an issue in hard mode, so it was stupid that normal mode, which is supposed to be easier, had not been fixed sooner."
+        },
+        {
+          "t": 0,
+          "kind": "opinion",
+          "text": "After the update, Gnomonkey says solo Theatre of Blood is good now and he plans to run it more on stream because it is now tolerable."
+        },
+        {
+          "t": 1129,
+          "kind": "record",
+          "text": "Gnomonkey's solo normal-mode Theatre of Blood run finished in about 49 minutes, a new personal best that beat his old best of barely sub-55 by over five minutes, even though he made many mistakes."
+        },
+        {
+          "t": 1129,
+          "kind": "opinion",
+          "text": "Gnomonkey says he wanted a sub-50 solo Theatre of Blood time, which this run achieved, and that it was a one-and-done run first thing in the day after a while away from the raid."
+        },
+        {
+          "t": 0,
+          "kind": "opinion",
+          "text": "Gnomonkey says he will not make a Wiki Guides video for solo Theatre of Blood because he thinks it is one of the hardest pieces of content and you have no business entering solo Theatre of Blood with budget setups."
+        },
+        {
+          "t": 184,
+          "kind": "opinion",
+          "text": "Gnomonkey says Nylocas is easily the hardest room of solo Theatre of Blood, and he had not done it in about a month before this run."
+        },
+        {
+          "t": 568,
+          "kind": "method",
+          "text": "At Sotetseg, Gnomonkey used brush markers for painting one of the mazes, and the funny noises in that room come from TobQOL and Sound Swapper."
+        },
+        {
+          "t": 0,
+          "kind": "tip",
+          "text": "According to the description, Gnomonkey's Nylocas radius squares can be obtained via the !nyloradius command in his Twitch chat."
+        }
+      ]
+    },
+    {
+      "name": "Verzik Vitur",
+      "kind": "boss",
+      "claims": [
+        {
+          "t": 866,
+          "kind": "method",
+          "text": "At Verzik P2 in solo Theatre of Blood after the update, Gnomonkey uses mage and piety, relies on Blood Fury healing to tank the lightning, and brews or uses Redemption when heals are unlucky; he notes you may not need to tick eat at all."
+        },
+        {
+          "t": 866,
+          "kind": "stat",
+          "text": "Gnomonkey says Verzik's max hit is over a player's max health, so a mistake at Verzik P2 means instant death."
+        },
+        {
+          "t": 866,
+          "kind": "tip",
+          "text": "At Verzik P2 Gnomonkey says Verzik's mage attack drains prayer, which he thinks is about five prayer points per hit, so prayer can get tight and he flicks a bit."
+        },
+        {
+          "t": 1002,
+          "kind": "tip",
+          "text": "After the update, Verzik can still shoot lightning in solo, but only after throwing four bombs in a row, and her mage attacks do not count toward that, so the lightning is very rare."
+        },
+        {
+          "t": 889,
+          "kind": "method",
+          "text": "Gnomonkey used Blood Barrage on Verzik P1 in the run, calling it tech, and says it always seemed to give three heals."
+        },
+        {
+          "t": 1062,
+          "kind": "opinion",
+          "text": "Gnomonkey says Blood Fury makes the solo P2 change night and day, since he no longer has to run away and start tick eating and can simply click Verzik."
+        }
+      ]
+    },
+    {
+      "name": "Gnomonkey",
+      "kind": "person",
+      "claims": [
+        {
+          "t": 0,
+          "kind": "record",
+          "text": "As of May 2024, Gnomonkey's solo normal-mode Theatre of Blood personal best is about 49 minutes."
+        },
+        {
+          "t": 1002,
+          "kind": "trivia",
+          "text": "Gnomonkey says he learned his solo Nylocas tech from Flash and Squaunch telling him what to do in chat."
+        },
+        {
+          "t": 1002,
+          "kind": "event",
+          "text": "Gnomonkey says he is entering his Theatre of Blood solo speedrunning arc and may go for PBs, though he is not pushing a world record."
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,436 @@
+{
+ "id": "YizVhRWXnxs",
+ "title": "TOA 500 BUDGET Meta (OSRS)",
+ "date": "2024-06-27",
+ "type": "guide",
+ "summary": "An updated budget teaching stream for 500 invocation Tombs of Amascut runs on a roughly 287 mil setup. Gnomonkey concludes that Blue Moon (mage) armour hybrided with the Bow of Faerdhinen is better than mixed hide unless you own a Twisted bow, and walks through all the paths and the Warden. He also explains the difference between sustain and defence.",
+ "outline": [
+  {
+   "t": 0,
+   "text": "Gear setup and calcs: why mixed hide is not the budget play without a Twisted bow"
+  },
+  {
+   "t": 126,
+   "text": "Path of Apmeken (Monkey Room) and the changed room"
+  },
+  {
+   "t": 269,
+   "text": "Baba: red X stalling, BGS and Kirus"
+  },
+  {
+   "t": 484,
+   "text": "Kephri and the swarms, Arcane scarab"
+  },
+  {
+   "t": 570,
+   "text": "Akkha, level choices and wave skip"
+  },
+  {
+   "t": 743,
+   "text": "Zebak strategy and zero prayer"
+  },
+  {
+   "t": 818,
+   "text": "Sustain versus defence discussion"
+  },
+  {
+   "t": 1031,
+   "text": "Warden P1 setup and Elidinis' Warden tick display"
+  },
+  {
+   "t": 1152,
+   "text": "Warden P2 mechanics: rapid heal, Kirus and BGS hit counts"
+  },
+  {
+   "t": 1273,
+   "text": "Warden P3 and P4: shadows, prayer and not panicking"
+  },
+  {
+   "t": 1375,
+   "text": "Raid conclusion and the Monkey Room change opinion"
+  },
+  {
+   "t": 1599,
+   "text": "Setup summary and upgrade priorities"
+  }
+ ],
+ "topics": [
+  {
+   "name": "Tombs of Amascut",
+   "kind": "raid",
+   "claims": [
+    {
+     "t": 0,
+     "kind": "opinion",
+     "text": "Gnomonkey says that after running calcs he does not think mixed hide is good for a 500-invocation Tombs of Amascut budget setup unless you have a Twisted bow."
+    },
+    {
+     "t": 0,
+     "kind": "stat",
+     "text": "Gnomonkey calced mixed hide with a Dragon crossbow against the Bow of Faerdhinen setup and found it about 25% worse, so he says you kind of need the Bofa."
+    },
+    {
+     "t": 33,
+     "kind": "method",
+     "text": "Gnomonkey's budget 500 setup uses mage armour for melee, hybriding toward Blue Moon, with very cheap items: no vambraces, Dragon boots, no Primordial boots and no Neitiznot faceguard."
+    },
+    {
+     "t": 66,
+     "kind": "stat",
+     "text": "The 500 budget setup Gnomonkey shows costs 287 mil, cleanly below 300 mil."
+    },
+    {
+     "t": 66,
+     "kind": "opinion",
+     "text": "Gnomonkey says a Fire cape is the same as an Infernal cape here, just slower on the rooms he does not want to do, and answers the viewer joke that an Infernal cape is about 300 mil by noting this setup does not need it."
+    },
+    {
+     "t": 94,
+     "kind": "tip",
+     "text": "Gnomonkey says items to swap in if you have more money are Primordial boots, a Neitiznot faceguard, and a Torva helmet, which is even better if you have it."
+    },
+    {
+     "t": 94,
+     "kind": "opinion",
+     "text": "Gnomonkey says that without a Bow of Faerdhinen he would probably not do a 500 at all, and he would not do a 500 with less gear than this setup, though he has done a 500 with 30 mil before (in the Wiki Guides - ToA video)."
+    },
+    {
+     "t": 125,
+     "kind": "opinion",
+     "text": "Gnomonkey says Eternal boots are not worth it because they do not give a max hit even with the Blue Moon helmet, and camped Eternal boots are mostly for shadow setups."
+    },
+    {
+     "t": 125,
+     "kind": "stat",
+     "text": "Gnomonkey says Ward (the Ward / Book of the Dead swap) is a 3% damage increase over the Book of the Dead, about five seconds saved on Akkha, so it is not worth it."
+    },
+    {
+     "t": 178,
+     "kind": "tip",
+     "text": "Gnomonkey brings soul runes in his pouch because he pulls death runes out of his trident for Warden and so does not need to do the full rune switch."
+    },
+    {
+     "t": 222,
+     "kind": "tip",
+     "text": "Gnomonkey says the Monkey Room is much easier than it was: the monkeys have 10 health and the shamans 16 health, so with hybrid gear you basically run up and one-shot everything."
+    },
+    {
+     "t": 744,
+     "kind": "opinion",
+     "text": "Gnomonkey says Lightbearer is always the best option in ToA unless you are using Overly Draining, in which case it might be worth considering the rings, which he says you really should not be doing unless you are a player like Reynolds."
+    },
+    {
+     "t": 1375,
+     "kind": "opinion",
+     "text": "Gnomonkey acknowledges the argument that the Monkey Room changes are bad because it is now zero skill, but says Jagex was not given the resources to make it a good room, and describes the change as removing the worst room from ToA like a tumor, though the raid is still a cancer patient."
+    },
+    {
+     "t": 1599,
+     "kind": "tip",
+     "text": "Gnomonkey says the biggest upgrades for this budget setup are strength bonus, a Sanguinesti staff, which he calls massive for saving restores, and a Voidwaker, which is the DPS spec in every room."
+    },
+    {
+     "t": 1599,
+     "kind": "opinion",
+     "text": "Gnomonkey says Blue Moon's bad defence does not matter in this setup because Akkha is the only place you are tanking, and no mage armour has good defence anyway."
+    },
+    {
+     "t": 1642,
+     "kind": "opinion",
+     "text": "Gnomonkey says a standalone video on progression and calcing what to work toward with your own bank is planned next and will take a while."
+    }
+   ]
+  },
+  {
+   "name": "Blue Moon armour",
+   "kind": "item",
+   "claims": [
+    {
+     "t": 66,
+     "kind": "stat",
+     "text": "Gnomonkey says Blue Moon armour has a strength bonus, which he believes is 2 and 1; it is not quite as good as Bandos but close enough for his purposes."
+    },
+    {
+     "t": 94,
+     "kind": "opinion",
+     "text": "Gnomonkey says mixed hide is amazing with a Twisted bow while Blue Moon is amazing with the Bow of Faerdhinen, so the Blue Moon set is the Bofa armour."
+    },
+    {
+     "t": 579,
+     "kind": "opinion",
+     "text": "Gnomonkey says that if you are fanging, Bandos is basically dead content and he would never bring Bandos to ToA; hybriding with Blue Moon, which has strength bonus, is better."
+    },
+    {
+     "t": 1599,
+     "kind": "stat",
+     "text": "Gnomonkey says Blue Moon has 1% mage damage, equal to Ahrim's, so there is no reason to bring Ahrim's or Bandos any more because it is basically Bandos with Ahrim's stats."
+    },
+    {
+     "t": 962,
+     "kind": "tip",
+     "text": "Gnomonkey brings Blue Moon gear because he uses the Bow of Faerdhinen and needs crystal armour; otherwise he would use mixed hide."
+    }
+   ]
+  },
+  {
+   "name": "Bow of Faerdhinen",
+   "kind": "item",
+   "claims": [
+    {
+     "t": 2,
+     "kind": "opinion",
+     "text": "Gnomonkey says to run Bofa as the main weapon on this budget setup, with crystal armour required to make it work, and downgrading to a crossbow with mixed hide is not worth it."
+    },
+    {
+     "t": 540,
+     "kind": "stat",
+     "text": "Gnomonkey says doing Warden with a Dragon crossbow setup means about 25% less damage, which he says is not the play."
+    }
+   ]
+  },
+  {
+   "name": "Mixed hide armour",
+   "kind": "item",
+   "claims": [
+    {
+     "t": 0,
+     "kind": "opinion",
+     "text": "Gnomonkey says mixed hide is for Twisted bow setups and Moons gear is for Bofa setups; if you have a Twisted bow, mixed hide is dramatically better than Bandos and better than a Blue Moon hybrid."
+    },
+    {
+     "t": 574,
+     "kind": "opinion",
+     "text": "Gnomonkey says mixed hide is directly better than Bandos, but one is better off hybriding with Blue Moon in some cases because Blue Moon has strength bonus."
+    },
+    {
+     "t": 612,
+     "kind": "opinion",
+     "text": "Gnomonkey acknowledges you lose a few max hits on Core (Kephri-room) with mixed hide but says it is still worth it."
+    }
+   ]
+  },
+  {
+   "name": "Baba",
+   "kind": "boss",
+   "claims": [
+    {
+     "t": 269,
+     "kind": "method",
+     "text": "To set up the red X stall on Baba, Gnomonkey steps out after swinging: three under, three back, then two under, two back; red-clicking something makes monsters unable to path underneath you, which is why it is called red X Baba."
+    },
+    {
+     "t": 450,
+     "kind": "method",
+     "text": "Gnomonkey says you need to click anything that gives a red X to stall: a red click is interpreted differently by the game and monsters cannot path when you red click to path underneath them, which is why he drops potions."
+    },
+    {
+     "t": 342,
+     "kind": "tip",
+     "text": "Gnomonkey suggests a four-tick hit (his Keris) followed by any hit and then two under, which makes the red X stall setup cleaner, and says the gap cannot kill you if you are on the top row."
+    },
+    {
+     "t": 450,
+     "kind": "tip",
+     "text": "Gnomonkey says it is worth using the Bandos godsword special on Baba until after the next phase, with a threshold he believes is 1000 damage."
+    }
+   ]
+  },
+  {
+   "name": "Kephri",
+   "kind": "boss",
+   "claims": [
+    {
+     "t": 490,
+     "kind": "method",
+     "text": "Gnomonkey says the Bone dagger is bugged on Kephri and does not guarantee a hit, except that if somebody else attacks Kephri first the hit is guaranteed; in a solo 500 it does not help."
+    },
+    {
+     "t": 490,
+     "kind": "tip",
+     "text": "Gnomonkey lets the swarms go in because he did not bring chinchompas; with chins you could hit all the swarms."
+    },
+    {
+     "t": 570,
+     "kind": "method",
+     "text": "Gnomonkey says any hitsplat over 40 makes the Arcane scarab jump immediately, and any three hitsplats above three also make it jump, so he hard focuses and spams specs at it to kill it."
+    },
+    {
+     "t": 570,
+     "kind": "tip",
+     "text": "Gnomonkey says to focus the Arcane scarab and not trust it not to kill you because it will."
+    }
+   ]
+  },
+  {
+   "name": "Akkha",
+   "kind": "boss",
+   "claims": [
+    {
+     "t": 645,
+     "kind": "tip",
+     "text": "With the Pathfinder invocation on, Gnomonkey says to check room levels: if Zebak is level three, do it first, and if Zebak would be level four, do Akkha first to keep the level lower since Zebak is a fairly easy room."
+    },
+    {
+     "t": 654,
+     "kind": "tip",
+     "text": "With plenty of restore potions, Gnomonkey says you do not need to butterfly Akkha because you can heal through the damage."
+    },
+    {
+     "t": 690,
+     "kind": "tip",
+     "text": "To flinch Akkha's attack, Gnomonkey says to flinch to the side or two tiles out, otherwise the bite hits you and kills you."
+    },
+    {
+     "t": 703,
+     "kind": "method",
+     "text": "Gnomonkey says to ideally avoid wave skip if possible: to do it, step one tile away from the true tile (or towards it) and then go straight through, which needs a moving start or it will hit you."
+    },
+    {
+     "t": 1050,
+     "kind": "method",
+     "text": "Gnomonkey uses the true tile for Akkha's wave skip: if you are in front of an enemy's true tile you will be hit, so you watch where the true tile is and move accordingly."
+    },
+    {
+     "t": 1050,
+     "kind": "stat",
+     "text": "Gnomonkey says he still had seven restores left after Akkha, and that with this much restore you definitely do not need to butterfly."
+    }
+   ]
+  },
+  {
+   "name": "Zebak",
+   "kind": "boss",
+   "claims": [
+    {
+     "t": 722,
+     "kind": "tip",
+     "text": "Gnomonkey says Mage prayer with Rigour catches both Zebak's Blubberage and his mage attack, so it is the most likely prayer, and Zebak is ideally a zero-prayer room that you can one-tick most of the time."
+    },
+    {
+     "t": 788,
+     "kind": "trivia",
+     "text": "Gnomonkey says Zebak zero prayer level four is not close to the hardest Combat Achievement, with about five harder; it needs 85 mining to hit on the first try or a spec boost up to 85 from 82 or above."
+    },
+    {
+     "t": 800,
+     "kind": "opinion",
+     "text": "Gnomonkey says four-tick butterfly is not worth doing if you do not have to because it is very slow and bad, and that it is shadow exclusive."
+    },
+    {
+     "t": 740,
+     "kind": "tip",
+     "text": "For Zebak's Invo-related jug puzzle, Gnomonkey says you can pull and push jugs diagonally and the solve for Upset Stomach is to stand on the left side of the arena for the first barricade and in the middle of the arena for the second."
+    }
+   ]
+  },
+  {
+   "name": "Warden",
+   "kind": "boss",
+   "claims": [
+    {
+     "t": 1031,
+     "kind": "tip",
+     "text": "Gnomonkey says to enable the Elidinis' Warden monster HP percentage option in the plugin (monster menu HP), which ticks up when the ball is charging and shows the timing for tick-eating the ball, saving some spec."
+    },
+    {
+     "t": 1115,
+     "kind": "method",
+     "text": "In Warden P1 Gnomonkey turns on Rapid Heal before the fight, tanks down to 75, then turns Rapid Heal off at 76; when the number ticks from 46 to 48 you click Rapid Heal to auto-tick eat the next orb, saving health."
+    },
+    {
+     "t": 1115,
+     "kind": "tip",
+     "text": "Gnomonkey says the first set of orbs takes you to one HP and Rapid Heal lets health regenerate to 76 before you tank them."
+    },
+    {
+     "t": 1233,
+     "kind": "stat",
+     "text": "Gnomonkey says the Warden P2 attacks have a max hit of ten and four with melee, so he stands in melee range and tries to Kirus when under 10 health, and says you cannot catch orbs in melee range because they hit a tick earlier."
+    },
+    {
+     "t": 1270,
+     "kind": "stat",
+     "text": "Gnomonkey says the number of BGS hits you get on the next down depends on the core's health: below 80% gives eight hits and below 60% gives 10 hits, and he says comments claiming 12 or 14 hits at lower percentages are false."
+    },
+    {
+     "t": 1330,
+     "kind": "tip",
+     "text": "Gnomonkey says anytime you are below ten health on this phase you need to Kirus, and he recommends speccing down to 25% so the spec regenerates in time and you have Kirus to heal with."
+    },
+    {
+     "t": 1506,
+     "kind": "tip",
+     "text": "In Warden P4 Gnomonkey says keep prayer high at all times and step on the first shadow of each of the three sets of shadows each time."
+    },
+    {
+     "t": 1539,
+     "kind": "tip",
+     "text": "Gnomonkey says that when you make a mistake in P4 you should not panic: find your Kirus, use it, and go back to hitting the boss, even if the boss has hit you down to one health."
+    },
+    {
+     "t": 1415,
+     "kind": "tip",
+     "text": "Gnomonkey says to Kirus-poke the Warden if you ever make a mistake, as it gives 11 HP per poke, but not at max health because it wastes prayer."
+    }
+   ]
+  },
+  {
+   "name": "Sustain versus defence",
+   "kind": "opinion",
+   "claims": [
+    {
+     "t": 818,
+     "kind": "opinion",
+     "text": "Gnomonkey says defence is not as valuable as people think because killing the boss faster makes it stop hitting you faster, while sustain is different because healing (brewing, Kirus, eating) wastes ticks, spec damage and stats."
+    },
+    {
+     "t": 886,
+     "kind": "opinion",
+     "text": "Gnomonkey says free health is massive, which is why Blood fury is so good: it increases DPS because healing from it costs very little damage."
+    },
+    {
+     "t": 886,
+     "kind": "opinion",
+     "text": "Gnomonkey tells people in Challenge Mode runs to stop brewing so much and hit the boss, and notes that brewing a lot wastes overload heals, with players wasting three doses."
+    },
+    {
+     "t": 927,
+     "kind": "opinion",
+     "text": "Gnomonkey says Torva is great because it gives a lot of defence and slightly higher max hit, but wearing something that kills the boss slower is bad because you take more damage overall; he says healing from Blood fury is probably worth it over torture almost every time."
+    }
+   ]
+  },
+  {
+   "name": "Kirus",
+   "kind": "item",
+   "claims": [
+    {
+     "t": 1005,
+     "kind": "tip",
+     "text": "Gnomonkey recommends using the Kirus (Keris) for a four-tick hit on red X Baba as well as Kirus-poking Warden."
+    }
+   ]
+  },
+  {
+   "name": "Gnomonkey",
+   "kind": "person",
+   "claims": [
+    {
+     "t": 0,
+     "kind": "event",
+     "text": "Gnomonkey launched merch, with Hedron making the art designs and a store at gnomonkey-shop.fourthwall.com."
+    },
+    {
+     "t": 0,
+     "kind": "trivia",
+     "text": "Gnomonkey says the video's mage thrall bug should be ignored because the stream was a few weeks old, and that the Mage thrall was bugged to count as melee damage after an update that Jagex had not hotfixed after 48 hours."
+    },
+    {
+     "t": 962,
+     "kind": "trivia",
+     "text": "Gnomonkey says he currently uses Gearscape for DPS calcs, calling it really solid and better than any other option, with a couple of imperfections that are being fixed quickly."
+    }
+   ]
+  }
+ ]
+}

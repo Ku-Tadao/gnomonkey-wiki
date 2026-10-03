@@ -1,0 +1,378 @@
+{
+ "id": "1sv6tIkEHjs",
+ "title": "Inferno (Sub 65 CA) Teaching Stream OSRS",
+ "date": "2023-03-30",
+ "type": "guide",
+ "summary": "A live teaching stream in which Gnomonkey runs the Inferno while explaining how to get the sub 65 Combat Achievement. His core message is to always be divined, always be potted and always be attacking something, with kill priority (melees first, mage before respawning blobs) and flexible movement doing most of the work.",
+ "outline": [
+  {
+   "t": 0,
+   "text": "Introduction: the three rules for a sub 65 run and setup"
+  },
+  {
+   "t": 133,
+   "text": "Early waves and strategy"
+  },
+  {
+   "t": 188,
+   "text": "Blobs, bats and nibblers: kill order and attacking in between"
+  },
+  {
+   "t": 465,
+   "text": "Ice barrage versus blood barrage, flicking and restores"
+  },
+  {
+   "t": 593,
+   "text": "Flexibility away from the pillar and using downtime"
+  },
+  {
+   "t": 758,
+   "text": "Melee first, corner traps and monsters as pillars"
+  },
+  {
+   "t": 1050,
+   "text": "Moving instead of flicking, reaching the mage first"
+  },
+  {
+   "t": 1350,
+   "text": "Avoiding respawns, healing tricks and drag penalties"
+  },
+  {
+   "t": 1890,
+   "text": "Off ticking and mage priority"
+  },
+  {
+   "t": 2220,
+   "text": "Splash off tick on difficult spawns"
+  },
+  {
+   "t": 2825,
+   "text": "Preparation for the final waves: pillar, standing tile and not fearing prayer"
+  },
+  {
+   "t": 3089,
+   "text": "Jad and concluding thoughts"
+  }
+ ],
+ "topics": [
+  {
+   "name": "Inferno",
+   "kind": "activity",
+   "claims": [
+    {
+     "t": 0,
+     "kind": "tip",
+     "text": "Gnomonkey says the most important things for a sub 65 Inferno are to always be divined, always be potted and always be attacking something; doing these gets you a sub 65 and can scale to sub 60 with the same procedure."
+    },
+    {
+     "t": 0,
+     "kind": "method",
+     "text": "For a full run Gnomonkey brings enough divine potions for 60 minutes of divine."
+    },
+    {
+     "t": 0,
+     "kind": "tip",
+     "text": "Gnomonkey brings two pieces of Ancestral to quickly heal off things when needed, ideally only healing off bloblets because healing on other things wastes time."
+    },
+    {
+     "t": 58,
+     "kind": "opinion",
+     "text": "Gnomonkey says if you are potted and clicking stuff at all times you will get the sub 65, and it is not that hard."
+    },
+    {
+     "t": 121,
+     "kind": "tip",
+     "text": "Gnomonkey says he is not showing how to two-tick because you do not need it for a sub 65."
+    },
+    {
+     "t": 1266,
+     "kind": "stat",
+     "text": "At the 21 minute mark Gnomonkey notes he is on a 55 minute pace without using chinchompas or doing anything crazy."
+    },
+    {
+     "t": 1266,
+     "kind": "tip",
+     "text": "Gnomonkey says to just keep moving to the next thing instead of waiting for monsters to die."
+    },
+    {
+     "t": 0,
+     "kind": "event",
+     "text": "Gnomonkey says this is likely the last teaching stream of this kind for a while, and he was surprised at how fast the pace stayed even without chins and the Scythe."
+    },
+    {
+     "t": 0,
+     "kind": "tip",
+     "text": "Gnomonkey says subbing out the Elysian spirit shield for the Crystal shield is totally acceptable for this run."
+    }
+   ]
+  },
+  {
+   "name": "Inferno kill priority",
+   "kind": "mechanic",
+   "claims": [
+    {
+     "t": 288,
+     "kind": "tip",
+     "text": "Gnomonkey says to kill the melee bloblets first in the Inferno because they die a tick slower than the other monsters."
+    },
+    {
+     "t": 330,
+     "kind": "tip",
+     "text": "Gnomonkey says to avoid killing melees last: melees die very slowly, so leaving a nibbler alive to kill while the melee dies saves time because both die at the same time."
+    },
+    {
+     "t": 1275,
+     "kind": "tip",
+     "text": "Gnomonkey's goal in the Inferno is always to get to the mage first if you can."
+    },
+    {
+     "t": 1350,
+     "kind": "tip",
+     "text": "Gnomonkey avoids killing blobs before the mage because if the mage respawns a blob, all its bloblets are also respawned, which is a load of health you have to re-deal."
+    },
+    {
+     "t": 1350,
+     "kind": "tip",
+     "text": "Gnomonkey says killing bats is not a big deal because it does not matter if they respawn, and a melee respawns with only about 40 HP, which is a few pipe shots."
+    },
+    {
+     "t": 1595,
+     "kind": "tip",
+     "text": "Gnomonkey says avoiding dragging monsters while you kill them is good, because monsters attack slower when moving."
+    },
+    {
+     "t": 2338,
+     "kind": "tip",
+     "text": "Gnomonkey would rather pick off a melee than a ranger because a ranger respawn is way worse."
+    },
+    {
+     "t": 2393,
+     "kind": "tip",
+     "text": "A ranger dies slower than a nibbler, and nibblers die really fast, and bats die a little quicker than rangers, so you can kill bats after the ranger to save a little time."
+    }
+   ]
+  },
+  {
+   "name": "Bloblets and nibblers",
+   "kind": "other",
+   "claims": [
+    {
+     "t": 151,
+     "kind": "method",
+     "text": "When killing a blob in the Inferno, Gnomonkey gives it one cast and then starts piping, and says you can kill other things in between, such as attacking a bat with a cast and coming back."
+    },
+    {
+     "t": 211,
+     "kind": "tip",
+     "text": "Gnomonkey says nibblers are not a priority and you do not always have to clear them, because things die so fast it does not matter."
+    },
+    {
+     "t": 240,
+     "kind": "tip",
+     "text": "Gnomonkey says ice barrage prevents things from clumping up nicely."
+    },
+    {
+     "t": 1779,
+     "kind": "tip",
+     "text": "Gnomonkey says ice barrage is better on bloblets, while blood barrage is always better on nibblers because they clump up better even if the DPS is slightly worse, since you have full accuracy on them anyway."
+    },
+    {
+     "t": 1753,
+     "kind": "stat",
+     "text": "A barrage is a five tick attack and shooting the blowpipe three times is six ticks, so one barrage is worth it if it kills one monster; after that start piping."
+    }
+   ]
+  },
+  {
+   "name": "Inferno mage",
+   "kind": "boss",
+   "claims": [
+    {
+     "t": 1926,
+     "kind": "stat",
+     "text": "When the Inferno mage is at 34 HP or lower Gnomonkey says piping it is better than using the Twisted bow."
+    },
+    {
+     "t": 1926,
+     "kind": "tip",
+     "text": "Gnomonkey warns the mage can see you from certain tiles, so be careful when pulling nibblers."
+    },
+    {
+     "t": 2012,
+     "kind": "tip",
+     "text": "Gnomonkey says the big thing with sub 65 is not being afraid to off tick stuff: just send it, and forcing yourself to do it teaches you quickly."
+    },
+    {
+     "t": 2262,
+     "kind": "method",
+     "text": "To off tick, wait for an attack from the monster closest to you, step up on that tick, and repeat; Gnomonkey says it is not that hard."
+    },
+    {
+     "t": 2623,
+     "kind": "stat",
+     "text": "Splashing a mage on purpose stalls it by two ticks, allowing you to off tick; this only works if it has not respawned anything."
+    },
+    {
+     "t": 2654,
+     "kind": "tip",
+     "text": "On a bad spawn where you do not know the splash off tick, Gnomonkey says you can simply wait for the melee to dig."
+    }
+   ]
+  },
+  {
+   "name": "Inferno movement and positioning",
+   "kind": "other",
+   "claims": [
+    {
+     "t": 233,
+     "kind": "tip",
+     "text": "Gnomonkey says starting from the center is good every wave up until wave 50, after which you start from a different tile mainly so you can two-tick."
+    },
+    {
+     "t": 593,
+     "kind": "tip",
+     "text": "Gnomonkey says being flexible and not afraid to move out from the pillar is really good for speeds, since waiting for stuff to pull in is very slow; you can do it a lot for sub 65 but it helps to run around and kill things on the safe waves."
+    },
+    {
+     "t": 650,
+     "kind": "tip",
+     "text": "Gnomonkey says a lot of speedrunning is using your downtime properly, and when popping blobs you should try to be attacking other things."
+    },
+    {
+     "t": 758,
+     "kind": "tip",
+     "text": "Gnomonkey says monsters treat pillars as obstacles, so you can use a corner trap or stand somewhere safe spotted where a monster cannot reach you."
+    },
+    {
+     "t": 1140,
+     "kind": "tip",
+     "text": "Gnomonkey says if moving saves you time over flicking you should be moving, since flicking is not a big deal and prayer is not a concern."
+    },
+    {
+     "t": 1180,
+     "kind": "tip",
+     "text": "Within one tile of the mage lowers the Twisted bow travel time, so any tile within one tile is slightly faster."
+    },
+    {
+     "t": 1950,
+     "kind": "tip",
+     "text": "Gnomonkey says a lot of the little movement stuff can save you a lot of time, such as being ready to move up and not waiting for everything to pull in."
+    },
+    {
+     "t": 2987,
+     "kind": "tip",
+     "text": "Gnomonkey says to always stand on one specific tile in the late waves because it delays your Twisted bow shot, giving you more time to tag, and not a random tile."
+    },
+    {
+     "t": 3034,
+     "kind": "tip",
+     "text": "Standing on that tile also means that if a healer is blocked behind you, you can avoid taking damage from it."
+    }
+   ]
+  },
+  {
+   "name": "Inferno gear and consumables",
+   "kind": "item",
+   "claims": [
+    {
+     "t": 523,
+     "kind": "tip",
+     "text": "Gnomonkey says flicking is not the focus: you bring enough restore that you do not need to flick much."
+    },
+    {
+     "t": 1266,
+     "kind": "tip",
+     "text": "Gnomonkey says Pegasian boots or Holy sandals (holy boots) either work and the pace is not that tight."
+    },
+    {
+     "t": 1266,
+     "kind": "opinion",
+     "text": "Gnomonkey calls Rigour a very powerful prayer and says to keep it on, adding that people doing speedruns get nervous about running out of prayer."
+    },
+    {
+     "t": 2812,
+     "kind": "tip",
+     "text": "Gnomonkey says to have a chat member remind you when equipping the wrong items, such as Anguish, as that helps."
+    },
+    {
+     "t": 2812,
+     "kind": "tip",
+     "text": "Gnomonkey says not to panic about prayer: he brought enough supplies for eons and would finish with over two sanfew-style doses spare, and people get nervous in speedruns about running out of prayer."
+    },
+    {
+     "t": 2909,
+     "kind": "tip",
+     "text": "Gnomonkey says the Inferno pillar does exactly half of the HP of the monster remaining, so dragging a monster in to get hit by the pillar is useful, and you do not have to one-tick flick this at all."
+    },
+    {
+     "t": 59,
+     "kind": "tip",
+     "text": "Gnomonkey says to be pre-venged before waves in the Inferno, calling it very important."
+    }
+   ]
+  },
+  {
+   "name": "Inferno healing tricks",
+   "kind": "other",
+   "claims": [
+    {
+     "t": 1413,
+     "kind": "tip",
+     "text": "Gnomonkey says that if you are going to heal, do it with Ancestral and blood barrage; healing off bloblets is worth about 40 HP and quickly gets you back on your feet after a mistake."
+    },
+    {
+     "t": 1470,
+     "kind": "tip",
+     "text": "Gnomonkey says you can also brew: with four brews and needing around one for Zuk, he says do not be afraid to chug a brew since mistakes happen."
+    },
+    {
+     "t": 2421,
+     "kind": "tip",
+     "text": "Gnomonkey says you can do blowpipe barrage-style health recovery if you make sure the monster is dead, which does not waste time if done properly and can recover about 7 HP."
+    },
+    {
+     "t": 2661,
+     "kind": "tip",
+     "text": "Gnomonkey says you brought Bastion potions or restores for a reason, so do not panic if things go wrong; a couple of sloppy waves will happen."
+    }
+   ]
+  },
+  {
+   "name": "Jad",
+   "kind": "boss",
+   "claims": [
+    {
+     "t": 3061,
+     "kind": "opinion",
+     "text": "Gnomonkey says he will do a Jad skip because it is required for the diary anyway, and thinks anyone going for sub 65 will also be able to Jad skip."
+    },
+    {
+     "t": 3095,
+     "kind": "tip",
+     "text": "Gnomonkey uses prayer on Jad triples without bothering to flick, although he normally flicks the hell out of triples."
+    },
+    {
+     "t": 3280,
+     "kind": "tip",
+     "text": "Gnomonkey says without chinchompas he plays the final waves chill and waits for the shield to start moving, and kills all the healers."
+    }
+   ]
+  },
+  {
+   "name": "Gnomonkey",
+   "kind": "person",
+   "claims": [
+    {
+     "t": 0,
+     "kind": "event",
+     "text": "Gnomonkey ran this Inferno sub 65 teaching stream on Twitch and uploaded it to YouTube, with an Inferno tiles pastebin linked in the description."
+    },
+    {
+     "t": 2012,
+     "kind": "event",
+     "text": "During the stream Gnomonkey notes he has not done an Ancient spellbook run in a long time and is used to running around and pulling things in faster than he tries to for the teaching pace."
+    }
+   ]
+  }
+ ]
+}

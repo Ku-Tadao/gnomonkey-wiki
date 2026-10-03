@@ -1,0 +1,67 @@
+{
+ "id": "M0Y3Hj3YIGw",
+ "title": "WORLD'S FIRST SOL + ECHO SOL (OSRS)",
+ "date": "2024-11-28",
+ "type": "challenge",
+ "summary": "Stream highlight of Gnomonkey claiming a world first Sol Heredit and Echo Sol kill in Leagues 5 on his melee account, using tier 4 melee relics for the regular Colosseum run and tier 6 for Echo Sol. The Colosseum run relies on the healing relic and flicking, and the Echo Sol fight ends very tight at 14 health with no food.",
+ "outline": [
+  {"t": 0, "text": "Start of the Leagues 5 Colosseum run, waves 1 to 3 and chat"},
+  {"t": 91, "text": "Echo orb from Colosseum and unlocking Echo Sol"},
+  {"t": 150, "text": "Choosing modifiers (Frailty) and early waves"},
+  {"t": 270, "text": "Waves 6 to 9 and thoughts on which wave is hardest"},
+  {"t": 570, "text": "Waves 10 to 11, managing food and prayer flicks"},
+  {"t": 750, "text": "Wave 11 and the final wave with Sol Heredit"},
+  {"t": 956, "text": "Choosing the Quartet modifier and fighting Sol Heredit"},
+  {"t": 1355, "text": "Loot from Sol Heredit and the Echo Sol orb"},
+  {"t": 1387, "text": "Entering Echo Sol and trying to find a patterns"},
+  {"t": 1788, "text": "Echo Sol kill at 14 HP and loot"}
+ ],
+ "topics": [
+  {
+   "name": "Sol Heredit",
+   "kind": "boss",
+   "claims": [
+    {"t": 0, "kind": "record", "text": "Gnomonkey claims a world first Sol Heredit kill in Leagues 5, done on his melee account with tier 4 melee relics."},
+    {"t": 91, "kind": "stat", "text": "In Leagues 5, the orb needed to reach Echo Sol is a guaranteed drop from completing the Colosseum, unlike other Echo orbs that are chance-based, and unlocking Echo Sol is a permanent unlock."},
+    {"t": 150, "kind": "tip", "text": "Gnomonkey says that in the Colosseum he went through quickly, and that speed is a big multiplier on glory, with one run earning about 58,000 glory."},
+    {"t": 300, "kind": "opinion", "text": "Gnomonkey argues that on average wave 8 is the hardest Colosseum wave, and calls wave 9 a gimme, leaving waves 10 and 11 as the hard waves left."},
+    {"t": 390, "kind": "opinion", "text": "Gnomonkey says the Leagues 5 heal passive from the melee relic tiers is so good in the Colosseum that the DDS gave him his health back almost immediately."},
+    {"t": 570, "kind": "tip", "text": "Gnomonkey says that if he can clear a late Colosseum wave without missing a prayer flick, he should end at about 60 health, and he says the Amulet of blood strength is not very good."},
+    {"t": 750, "kind": "event", "text": "For wave 11 of his Colosseum run, Gnomonkey took the Flare 3 modifier and noted he would have a million in cash after the run."},
+    {"t": 956, "kind": "event", "text": "In his Colosseum run Gnomonkey took the Quartet modifier against Sol Heredit, and was concerned about Sol's grapple, which he said he did not want under any circumstances."},
+    {"t": 1355, "kind": "event", "text": "Gnomonkey finished the regular Sol Heredit fight in Leagues 5 and received a Sunfire chestplate, a quiver and the Varlamore Echo orb, and noted the run counted for the Colosseum speed task."},
+    {"t": 956, "kind": "tip", "text": "Gnomonkey says the Colosseum helmet reward in Leagues 5 is a rune full helm with prayer bonus, which he considered a big upgrade, and that he could not wear some Colosseum rewards at his 60 Prayer level."}
+   ]
+  },
+  {
+   "name": "Echo Sol",
+   "kind": "boss",
+   "claims": [
+    {"t": 1355, "kind": "record", "text": "Gnomonkey claims the world first Echo Sol kill in Leagues 5, done on a melee account using tier 6 melee relics, noting this is not an Echo boss in the usual sense but the Raging Echo of Sol Heredit."},
+    {"t": 1788, "kind": "event", "text": "Gnomonkey won the Echo Sol fight with 14 health and no food left after a very tight ending, and said it gets very intense at the end."},
+    {"t": 1830, "kind": "opinion", "text": "Gnomonkey says Echo Sol has some RNG and DPS checks that he is not typically a fan of, but understands they exist so that people cannot come to the fight in rags and destroy it."},
+    {"t": 1355, "kind": "stat", "text": "In Leagues 5 you skip the Colosseum waves for Echo Sol, jumping straight into the fight, which Gnomonkey says he is glad about."},
+    {"t": 1355, "kind": "opinion", "text": "Gnomonkey says he was not happy to hear that Jagex did not add much to the Echo Sol fight but thinks it will be fun and has some difficulty to it, and he was very excited to try 1 HP Dharok strategies on it."}
+   ]
+  },
+  {
+   "name": "Leagues V: Raging Echoes",
+   "kind": "update",
+   "claims": [
+    {"t": 0, "kind": "event", "text": "This video covers a roughly 16-hour stream at the start of Leagues 5 where Gnomonkey was just beginning his league, and he planned to stream it for a while and make a second ranged account."},
+    {"t": 150, "kind": "tip", "text": "In Leagues 5 Gnomonkey says he does the Fight Caves for another combat mastery as an alternative to repeatedly attempting the Colosseum."},
+    {"t": 1830, "kind": "opinion", "text": "Gnomonkey says he had been having a blast so far in Leagues 5 and had only just started."}
+   ]
+  },
+  {
+   "name": "Colosseum",
+   "kind": "activity",
+   "claims": [
+    {"t": 0, "kind": "opinion", "text": "Gnomonkey says he loves the Colosseum."},
+    {"t": 60, "kind": "opinion", "text": "Gnomonkey says he could clear the Colosseum in Leagues 5 but it depends on getting decent wave RNG and invocation (modifier) RNG, and that it might take a few tries."},
+    {"t": 391, "kind": "tip", "text": "In the Colosseum, Gnomonkey says Leagues 5 hit a heal relic that heals him enough that food and supplies are sufficient for the run."},
+    {"t": 150, "kind": "tip", "text": "Gnomonkey says he wanted to take Frailty as a modifier and that Dragon platelegs reward is really tanky."}
+   ]
+  }
+ ]
+}

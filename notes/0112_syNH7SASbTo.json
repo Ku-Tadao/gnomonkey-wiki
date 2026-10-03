@@ -1,0 +1,109 @@
+{
+  "id": "syNH7SASbTo",
+  "title": "COX CM Speedrun in 27 Minutes",
+  "date": "2023-05-02",
+  "type": "speedrun",
+  "summary": "Gnomonkey does a solo Chambers of Xeric Challenge Mode speedrun attempt on stream and finishes with a new personal best of 27:04, just short of the world record. The commentary is mostly live reaction, with a post-raid room-by-room review.",
+  "outline": [
+    {
+      "t": 0,
+      "text": "Intro and early commentary, previous attempt result"
+    },
+    {
+      "t": 98,
+      "text": "Early raid rooms: Ice Demon with dragon warhammer, vanguards, thieving"
+    },
+    {
+      "t": 651,
+      "text": "Mid-raid progression: pace check at 12:40 down to floor 3"
+    },
+    {
+      "t": 1207,
+      "text": "Olm: hammer specs, brewing and a streak of zero hits"
+    },
+    {
+      "t": 1691,
+      "text": "Post-raid review of each room and PB update"
+    }
+  ],
+  "topics": [
+    {
+      "name": "Chambers of Xeric Challenge Mode",
+      "kind": "raid",
+      "claims": [
+        {
+          "t": 0,
+          "kind": "record",
+          "text": "The Chambers of Xeric Challenge Mode solo world record is 26:38, held by rot salad, per the video description."
+        },
+        {
+          "t": 1755,
+          "kind": "record",
+          "text": "Gnomonkey's 27:04 run was a new personal best in solo Challenge Mode; he reads out the change as 2751 to 2704.2 and says he is still ranked sixth."
+        },
+        {
+          "t": 1655,
+          "kind": "event",
+          "text": "Gnomonkey says that without the six zero hits in a row on lances in the middle of Olm and a bit less trolling, the run would likely have been a world record Olm at the very least."
+        },
+        {
+          "t": 765,
+          "kind": "stat",
+          "text": "Gnomonkey's pace at the time of reaching floor 3 was 12:40, which he considered not great; he says low twelves are nice and sub twelves are very fast."
+        },
+        {
+          "t": 1688,
+          "kind": "opinion",
+          "text": "Gnomonkey reviewed the raid backwards after finishing: Olm, Vasa and Guardians were disgusting (very good), Mystics pretty good, Muttadile kind of bad, Vespula, thieving and Tekton average, and Vanguards and Shamans bad."
+        },
+        {
+          "t": 89,
+          "kind": "method",
+          "text": "Gnomonkey kills the Ice Demon in the Chambers of Xeric Challenge Mode speedrun with an Inquisitor's armour set and a dragon warhammer."
+        }
+      ]
+    },
+    {
+      "name": "Olm",
+      "kind": "boss",
+      "claims": [
+        {
+          "t": 1342,
+          "kind": "tip",
+          "text": "Gnomonkey kept health high and brewed heavily during Olm, saying not to chance anything while he had loads of brew."
+        },
+        {
+          "t": 1441,
+          "kind": "event",
+          "text": "Gnomonkey hit six zeros in a row on the lance phase of Olm during this run, which he called possibly one in a hundred thousand odds and the cause of losing four hits of time."
+        },
+        {
+          "t": 1555,
+          "kind": "tip",
+          "text": "Gnomonkey says he needed to brew every single tick near the end of Olm to survive the final phase."
+        },
+        {
+          "t": 1587,
+          "kind": "opinion",
+          "text": "Gnomonkey calls the final Olm kill free once the damage landed, the freest it has ever been."
+        }
+      ]
+    },
+    {
+      "name": "Gnomonkey",
+      "kind": "person",
+      "claims": [
+        {
+          "t": 1755,
+          "kind": "record",
+          "text": "Gnomonkey streams on Twitch full time, per his own comment in the chat during the run."
+        },
+        {
+          "t": 1640,
+          "kind": "record",
+          "text": "Gnomonkey notes his Chambers of Xeric Challenge Mode time at the end of the stream was 27:04.2, and he says it would literally have been sub twenty-seven without the trolling."
+        }
+      ]
+    }
+  ]
+}

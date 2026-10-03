@@ -1,0 +1,265 @@
+{
+  "id": "KRl59CBUR8U",
+  "title": "Sailing's Future in OSRS",
+  "date": "2025-11-26",
+  "type": "news-opinion",
+  "summary": "A roughly 90 minute feedback video on the Sailing skill a week after launch. Gnomonkey lists what he likes (salvaging, Barracuda Trials movement, art, quests, new potions and food) and what he dislikes (the 10k XP hotfix fiasco, tedious travel and clickboxes, empty seas, unfinished combat and expensive cannons, disappointing Slayer monsters, a rushed release and no endgame reason to train it). He argues Jagex needs honest early feedback and should take more time with updates and quality-of-life work.",
+  "outline": [
+    {"t": 0, "text": "Disclaimer: Gnomonkey is maxed, likes skilling, and is not a Sailing hater by default"},
+    {"t": 87, "text": "Sponsor message (NordVPN)"},
+    {"t": 149, "text": "Voting for a new skill, working with Jagex, and his approach to feedback"},
+    {"t": 298, "text": "Community reaction: echo chamber and toxic positivity around Sailing"},
+    {"t": 608, "text": "Why early feedback matters and Jagex's roughly two-week bug-fix window"},
+    {"t": 696, "text": "Common counter-arguments: 'you hate skilling', 'better than Firemaking', 'too early to judge'"},
+    {"t": 914, "text": "What he likes: salvaging, Barracuda Trials movement, art, quests, ship facilities, charting, new potions and food"},
+    {"t": 1529, "text": "The 10k XP troll potion hotfix and its fallout"},
+    {"t": 2057, "text": "Exploration, hard level gates and lack of incentive to team up"},
+    {"t": 2390, "text": "Tedious ship handling: clickboxes, travel, recover wizards and a proposed current highway"},
+    {"t": 2820, "text": "Charting potions, the duck, weather charting and the empty ocean"},
+    {"t": 3256, "text": "Cargo missions are boring; the sailing combat system and expensive cannonballs"},
+    {"t": 3598, "text": "What Jagex should have done: release Sailing in two parts and flesh out combat separately"},
+    {"t": 3844, "text": "New Slayer monsters and the Shellbane Gryphon are disappointing"},
+    {"t": 4270, "text": "Rushed development and focus on new content over old content"},
+    {"t": 4624, "text": "No endgame reason to train Sailing; Sailing sits in its own bubble"},
+    {"t": 4915, "text": "Barracuda Trials problems compared with Hallowed Sepulchre"},
+    {"t": 5218, "text": "Calls for slower updates, more QOL updates, better QA and a kinder community"}
+  ],
+  "topics": [
+    {
+      "name": "Opinion: Sailing as released",
+      "kind": "opinion",
+      "claims": [
+        {"t": 942, "kind": "opinion", "text": "Gnomonkey says he generally dislikes Sailing and thinks it is not impossible for it to become good, but right now considers Sailing very weak."},
+        {"t": 975, "kind": "opinion", "text": "Gnomonkey says some of his Sailing complaints are subjective, but there are many objectively bad things such as balance problems, many bugs, and friction in training the skill."},
+        {"t": 4541, "kind": "opinion", "text": "Gnomonkey argues Sailing came at a cost to other updates because it had basically the entire dev team working on it to some extent, so it is not fair to say it cost nothing."},
+        {"t": 4392, "kind": "opinion", "text": "Gnomonkey thinks Sailing needed a whole other year to be in an acceptable state for Old School, whether as a part two or a further delay, despite taking about three years to develop."},
+        {"t": 4451, "kind": "opinion", "text": "Gnomonkey argues the three years of Sailing development could have been spent fleshing out weak skills such as Firemaking, early Hunter and Agility, which people compare Sailing favourably against."},
+        {"t": 4883, "kind": "opinion", "text": "Gnomonkey says he is not sure he fully trusts Jagex to fix Sailing with a part two; he expects clickboxes and bugs to be ironed out but doubts major issues like the combat will be fixed."},
+        {"t": 4883, "kind": "opinion", "text": "Gnomonkey thinks the big thing Jagex needs to focus on is making Sailing training more interesting and varied, especially with more Barracuda Trials."},
+        {"t": 757, "kind": "opinion", "text": "Gnomonkey says Sailing had been in development for three years, so he argues it is fair to judge it right after release, which is when feedback matters most."},
+        {"t": 788, "kind": "opinion", "text": "Gnomonkey says that with three years of dev time it is frustrating that Sailing is not more fleshed out; he says it does not have something for everyone the way fully fleshed-out skills have a method for every playstyle."}
+      ]
+    },
+    {
+      "name": "Sailing",
+      "kind": "skill",
+      "claims": [
+        {"t": 32, "kind": "record", "text": "Gnomonkey says he was already maxed before Sailing came out and had 75 Sailing at the time of recording."},
+        {"t": 1005, "kind": "opinion", "text": "Gnomonkey says salvaging is his favourite thing about Sailing and maybe the most AFK activity in the game."},
+        {"t": 1282, "kind": "opinion", "text": "Gnomonkey likes the Sailing quests, praising Current Affairs (where you elect a fish as mayor of Catherby) as a banger comparable to the egg quest in writing, and appreciates that the quests are snappy, under half an hour each, with no two hour Sailing master quest."},
+        {"t": 1311, "kind": "opinion", "text": "Gnomonkey likes the ship facilities and upgrades because there is a reason to build a bigger ship that holds more facilities, which feels like building up a player-owned house and gives a good feeling of progression."},
+        {"t": 1341, "kind": "opinion", "text": "Gnomonkey appreciates that the ship's ale keg is truly unlimited rather than needing refills."},
+        {"t": 1222, "kind": "opinion", "text": "Gnomonkey praises the Sailing art, animations and island themes (ice islands, volcano islands, the net-throwing animation) as top tier."},
+        {"t": 1159, "kind": "opinion", "text": "Gnomonkey says the boat movement is not as tight as normal game movement but works well, you never sail into land, and it is a solid system that was refined from the beta, which felt clunkier."},
+        {"t": 1192, "kind": "tip", "text": "Gnomonkey understands that going in a direct diagonal is slightly slower in a boat, so you can speed up slightly by not going in a straight diagonal; hitting speed boosts at the right time gives snappy movement and boosts can be stored."},
+        {"t": 4624, "kind": "opinion", "text": "Gnomonkey says the biggest argument against Sailing is the lack of reason to train it: it unlocks nothing endgame, and apart from new potions and foods you basically train it for its own sake."},
+        {"t": 4771, "kind": "opinion", "text": "Gnomonkey says Sailing fits into the game inside its own bubble: Sailing items and upgrades are acquired using resources from outside Sailing, but nothing from Sailing flows out, such as XP from quests, Sailing items from other sources, or seeds from outside Sailing monsters."},
+        {"t": 4828, "kind": "opinion", "text": "Gnomonkey suggests Jagex should add Sailing seeds, bars, planks and logs as drops on non-Sailing monsters, for example cave horrors dropping ironwood logs, so Sailing does not feel disconnected."},
+        {"t": 4856, "kind": "opinion", "text": "Gnomonkey says that if you logged in without knowing Sailing had been released, nothing about your gameplay would change, which is why many feel it does not fit into the game."},
+        {"t": 4712, "kind": "stat", "text": "Gnomonkey says the Sailing fishing shoals (trawling) give about 5k XP an hour for Sailing and 20k XP an hour for Fishing, which he calls weak and unbalanced."},
+        {"t": 4712, "kind": "stat", "text": "Gnomonkey says cannonball thieving from the new stall requires 87 Thieving and gives about 230k XP an hour, but he says spam-clicking Ardougne knights gives the same XP and more money."},
+        {"t": 4738, "kind": "opinion", "text": "Gnomonkey thinks everything unlocked through Sailing feels undertuned, as if Jagex did not want anything too good or powerful, even with high Sailing requirements."}
+      ]
+    },
+    {
+      "name": "Salvaging",
+      "kind": "mechanic",
+      "claims": [
+        {"t": 1005, "kind": "stat", "text": "Salvaging in Sailing can be a full 25 minutes AFK, with less efficiency if you AFK that hard, and gives useful loot for an iron such as herbs and seeds at higher spots."},
+        {"t": 1005, "kind": "tip", "text": "You can park the boat between two active salvage spots to make salvaging extra AFK."},
+        {"t": 1037, "kind": "stat", "text": "The crystal extractor from the elf Barracuda trial gives a 600 XP drop every minute while salvaging."},
+        {"t": 1037, "kind": "method", "text": "Salvaging has several intensity levels: full AFK (slowest), semi-attentive with a crewmate on another hook (more XP), or 1.5 tick the hooks for much faster XP."},
+        {"t": 1093, "kind": "stat", "text": "Gnomonkey says salvaging gives real AFK XP of around 100k an hour, while even redwoods give about 60k an hour."},
+        {"t": 1093, "kind": "opinion", "text": "Gnomonkey considers it fine for salvaging to be an AFK option as long as the intensive methods are better, which he says Barracuda Trials consistently are by about double; he asks Jagex not to nerf salvaging."},
+        {"t": 1500, "kind": "opinion", "text": "Gnomonkey says he really needs salvaging as an AFK method because he does not like the rest of Sailing."}
+      ]
+    },
+    {
+      "name": "Barracuda Trials",
+      "kind": "activity",
+      "claims": [
+        {"t": 1125, "kind": "opinion", "text": "Gnomonkey likes that Barracuda Trials are an active Sepulchre-style activity where you can chase personal bests, get a bonus for beating a certain time, and optimise routing, boat turning and speed-boost timing."},
+        {"t": 4915, "kind": "opinion", "text": "Gnomonkey personally dislikes Barracuda Trials, calling them super sweaty and like Hallowed Sepulchre for boats, though he understands why others enjoy them."},
+        {"t": 4944, "kind": "method", "text": "In Barracuda Trials you race a course with your boat grabbing crates, with a main objective such as moving rum to another boat, going through the teleporters on the elf city course, or moving jubblies, plus the side objective of grabbing all the crates."},
+        {"t": 4976, "kind": "opinion", "text": "Gnomonkey says you cannot tell the exact hitbox range of your boat for sucking in crates, so missing one means slowly turning all the way back; he hopes a plugin will show it."},
+        {"t": 5003, "kind": "stat", "text": "Players call Jubbly Jive 'Laggy Lagoon' because it is hard to get over 40 FPS there; Gnomonkey says the frame rates made him sick and he quit Sailing on stream at that point."},
+        {"t": 5129, "kind": "opinion", "text": "Gnomonkey says Barracuda Trials lack variation compared with Hallowed Sepulchre: crates and boost pads are always in the same spots, there are no race variants, and players always spam the hardest of the three races for the best XP."},
+        {"t": 5035, "kind": "stat", "text": "Gnomonkey says Hallowed Sepulchre floors (except the last) have variants, giving about 12 total variants across five floors, plus random teleporter pads and crossbow bolts, which keeps racing for a personal best engaging up to 99."},
+        {"t": 5157, "kind": "opinion", "text": "Gnomonkey suggests level-locking some of the Barracuda Trial races and giving dramatically more XP as they unlock, instead of unlocking all three races early and spamming the hardest for 30 levels."},
+        {"t": 5191, "kind": "opinion", "text": "Gnomonkey wishes there were more than three Barracuda Trials, because they get stale quickly and visually need more variance between race types."},
+        {"t": 2447, "kind": "opinion", "text": "Gnomonkey says the Barracuda Trial crystal extractor, which gives a speed boost every 60 seconds, sits right next to the helm, so mis-clicking the helm stops your ship mid-race; he suggests the extractor be a button on the Sailing interface like the speed boost."}
+      ]
+    },
+    {
+      "name": "Charting",
+      "kind": "mechanic",
+      "claims": [
+        {"t": 1341, "kind": "opinion", "text": "Gnomonkey likes the exploration and charting in Sailing, finding all the little XP drops and getting a big XP boost for fully charting an area, and enjoys being able to do it with friends."},
+        {"t": 1373, "kind": "event", "text": "Early on, players discovered double salvage spots and routed Barracuda Trials by exploring, which Gnomonkey found maybe the most fun thing about the skill."},
+        {"t": 1402, "kind": "event", "text": "Gnomonkey tried duo charting off stream with his wife, who was level 1 Sailing, taking her around on his boat at about level 60 to get all the charting spots, and found it very fun."},
+        {"t": 1434, "kind": "opinion", "text": "Gnomonkey says early Sailing levels have very little variety and charting makes the early levels go by much more easily and enjoyably than other early options."},
+        {"t": 1555, "kind": "stat", "text": "After the day one XP complaints, Jagex buffed early Sailing training for levels 1 to 30 by 20% on all methods and made charting about three times better than it was."},
+        {"t": 2030, "kind": "opinion", "text": "Gnomonkey wishes charting and exploration were front and centre as a main training method, with more XP for exploration instead of simply following a duck or solving a riddle."},
+        {"t": 2091, "kind": "opinion", "text": "Gnomonkey dislikes that charting is hard level gated; his wife could not get charting spots in the Temporos area because she lacked the level to tank it in her ship, and he would prefer soft gates that teamwork or tanking could get around."},
+        {"t": 2820, "kind": "stat", "text": "Charting potions found while exploring give XP drops and are part of charting an area, and have wacky effects such as shooting 99 fireworks above your head."},
+        {"t": 2820, "kind": "stat", "text": "A bug caused some charting potions that teleport you to make players lose their cargo (potentially thousands of cannonballs) and the ship, forcing a recovery fee; Jagex took days to fix it and later returned items to people."},
+        {"t": 2876, "kind": "opinion", "text": "Gnomonkey dislikes that some charting potions teleport you or bank everything (Banker's Draft banks your whole inventory and worn items), because it takes you out of exploring and forces you to work out where you were."},
+        {"t": 2909, "kind": "stat", "text": "One charting potion hits for 90 damage, and Gnomonkey describes a clip of an ultimate ironman losing a three-billion death stash after a summoned tiny troll meleed for around 45 with a four-tick max hit and he could not teleport away in time."},
+        {"t": 2964, "kind": "opinion", "text": "Because the potion effects are punishing, Gnomonkey says players are heavily incentivised to stockpile charting potions and drink them all at once in a safe location rather than spreading them out."},
+        {"t": 2992, "kind": "opinion", "text": "Gnomonkey says using the duck for charting is super annoying because it moves slowly; a couple of ducks he did took over three minutes for one step among many hundred charting locations, and he would like them sped up by double or triple."},
+        {"t": 3026, "kind": "method", "text": "Weather charting uses a tool from a troll that tells you the wind direction toward the centre of a large wind circle, and you must find the exact pinpoint centre tile, which can sit in dangerous water."},
+        {"t": 3114, "kind": "opinion", "text": "Gnomonkey says doing weather charting manually would take about 10 to 20 minutes apiece, over 10 times slower than the duck, so players just use the wiki or a plugin; he thinks the click area should be more generous so it is doable without them."}
+      ]
+    },
+    {
+      "name": "Update: Sailing 10k XP hotfix",
+      "kind": "update",
+      "claims": [
+        {"t": 1555, "kind": "event", "text": "On Sailing day one, training was very slow, with Gnomonkey describing about 2k XP an hour, and after about four and a half hours of streaming he was around level 24 or 25 Sailing."},
+        {"t": 1583, "kind": "event", "text": "A chatter named Thorbeers told Gnomonkey about a charting potion north of Rellekka... as transcribed 'above Relica', which gave 10,000 experience."},
+        {"t": 1649, "kind": "event", "text": "Gnomonkey reached the potion after about 10 minutes of sailing from Port Piscarilius; drinking it took him to an arena fighting three trolls, each dropping a potion that gave a 3,333 XP drop, 10,000 XP in total."},
+        {"t": 1704, "kind": "event", "text": "Crowds of players sailed to the spot after hearing about the 10,000 XP, which equalled about four hours of Sailing XP at that point, before Jagex hotfixed it within about five minutes."},
+        {"t": 1737, "kind": "event", "text": "Jagex nerfed the troll potion from a total of 10,000 XP to 300 XP (100 per troll) and did not revert the XP of those who had already used it, so the first couple hundred players doubled their XP."},
+        {"t": 1766, "kind": "opinion", "text": "Gnomonkey says players racing for the first 99 lost an hour and a half to two hours of progress compared with those who got the XP, and that Jagex handled this very poorly."},
+        {"t": 1827, "kind": "event", "text": "Gnomonkey was accused in chat of being a bug abuser and told he should be banned; he says people even set up cannons in World 2 in protest, and that Fox and Bodhi also got the XP while Hebox narrowly missed it."},
+        {"t": 1889, "kind": "opinion", "text": "Gnomonkey says the only party to blame is Jagex because he found something that existed in the game and Jagex removed it, and says some people still comment that he should be banned for bug abuse."},
+        {"t": 1918, "kind": "opinion", "text": "Gnomonkey says that if Jagex was going to patch it out they should have taken the XP away from those who used it, since 10k XP at level 10 Sailing is several hours of progress and gives an unfair advantage in a race to 99."},
+        {"t": 1972, "kind": "opinion", "text": "Gnomonkey thinks Jagex should have left the 10k XP potion in, since it was a one-time effective XP lamp and early Sailing was very slow, or at least left it for a day so the integrity of the race to 99 stayed intact."},
+        {"t": 2030, "kind": "opinion", "text": "Gnomonkey says the hotfix brought the mood down tremendously on day one, with players quitting Sailing, and he hopes Jagex handles a future new skill better; he notes RS3 had a similar skip-then-removed situation."}
+      ]
+    },
+    {
+      "name": "Opinion: Sailing teamwork incentives",
+      "kind": "opinion",
+      "claims": [
+        {"t": 2209, "kind": "opinion", "text": "Gnomonkey says there is very little incentive to team up in Sailing even though being able to hop on other players' boats and boat PvP were advertised as big points, with almost a negative incentive on everything."},
+        {"t": 2266, "kind": "stat", "text": "On a friend's boat you do not get to trim the sails so you get no trimming XP, cannot dock at islands you lack the level for, and cannot drink charting potions as you go, so you must use your own boat for those."},
+        {"t": 2293, "kind": "stat", "text": "You cannot use a teammate's facilities if you lack the level, as Sailing has level requirements just to use facilities and not only to build them; Gnomonkey had to keep a boost up to use the rune salvage hooks."},
+        {"t": 2326, "kind": "opinion", "text": "Gnomonkey says the fear of players boosting each other has made many parts of the game less fun, and this shows in Sailing where there is no reason to hop on someone else's boat."},
+        {"t": 2357, "kind": "opinion", "text": "Gnomonkey suggests everyone on the ship should get the sail trim XP so more players would sail together."},
+        {"t": 2117, "kind": "opinion", "text": "Gnomonkey wishes Sailing had more soft gates and less hard level gates, likening sequence-breaking and cheesing through areas to Metroidvania and Breath of the Wild, with players able to tank through dangerous areas using repair packs."}
+      ]
+    },
+    {
+      "name": "Opinion: Sailing ship handling and travel",
+      "kind": "opinion",
+      "claims": [
+        {"t": 2390, "kind": "opinion", "text": "Gnomonkey dislikes that idle crew members wander around the ship with clickboxes, which can intercept clicks while steering."},
+        {"t": 2419, "kind": "opinion", "text": "Gnomonkey says the sail and helm clickboxes are massive and easy to hit accidentally, plugins that deprioritise them help a lot, and plugins are basically mandatory for Sailing, while mobile is almost impossible."},
+        {"t": 2480, "kind": "opinion", "text": "Gnomonkey argues Jagex should not rely on RuneLite to fix clickboxes because other clients like mobile need to work, and says the sails are far too big."},
+        {"t": 2537, "kind": "stat", "text": "The level 53 salvage spot in the bottom right of the map is very remote with no recover wizard, dock master or charter ship nearby, so you must start from Pandemonium and sail about eight minutes with early upgrades."},
+        {"t": 2597, "kind": "opinion", "text": "Gnomonkey says the main early meta is to take a charter ship to a dock and pay a 5k recover wizard fee to bring your ship rather than sail, so players are incentivised not to sail anywhere and the ship feels like a ball and chain."},
+        {"t": 2657, "kind": "opinion", "text": "Gnomonkey proposes a highway system of strong currents (maybe triple boat speed) looping around the main parts of the map, like the East Australian current in Finding Nemo, with recover wizards removed or unlocked later, making travel less tedious and giving the teleport unlock more weight."},
+        {"t": 2722, "kind": "stat", "text": "Fully charting an area unlocks a very small number of rapids (speed boost panels) there, which Gnomonkey calls a good idea with terrible execution because there are so few and many are in out-of-the-way spots."},
+        {"t": 2788, "kind": "opinion", "text": "Gnomonkey thinks a highway system would also let players see each other and get more people actually sailing instead of running around on land dragging the boat with them."},
+        {"t": 3146, "kind": "opinion", "text": "Gnomonkey says the ocean feels very empty, with long stretches of minutes with nothing happening, and odd clutches of krakens; he suggests more random events, castaways and sailing monsters, such as a superior-Slayer-style monster giving a 1k XP drop."}
+      ]
+    },
+    {
+      "name": "Opinion: Sailing cargo missions",
+      "kind": "opinion",
+      "claims": [
+        {"t": 3230, "kind": "opinion", "text": "Gnomonkey finds the cargo (port task) missions very boring because nothing happens between point A and point B, with vast stretches of nothing until the XP drop."},
+        {"t": 3256, "kind": "opinion", "text": "Gnomonkey would like cargo missions to be more like Temple Trekking, with events along the way (such as pirates attempting to steal cargo, or helping a rich castaway) that change the XP and loot you receive."},
+        {"t": 3290, "kind": "opinion", "text": "Gnomonkey says he understands why people enjoy cargo missions since you can zone out and watch Netflix, but he would never train with it as it stands."}
+      ]
+    },
+    {
+      "name": "Opinion: Sailing combat",
+      "kind": "opinion",
+      "claims": [
+        {"t": 3323, "kind": "opinion", "text": "Gnomonkey calls Sailing combat unfinished and nothing frankly: you attack a target, it attacks you, you take damage."},
+        {"t": 3356, "kind": "stat", "text": "In Sailing combat, damage taken depends on your ship upgrades and Sailing level, you heal your ship by spamming repair packs made from planks, and normal weapons do tremendously less damage (Gnomonkey thinks about one-sixth), so you are effectively forced to use a cannon."},
+        {"t": 3388, "kind": "stat", "text": "Because the boat's hitbox is in the back, you can safe-spot some NPCs so they cannot reach you while you attack them."},
+        {"t": 3418, "kind": "opinion", "text": "Gnomonkey says there is no way in Sailing combat to mitigate damage besides better upgrades and a tankier boat, with no boat prayers or dodging."},
+        {"t": 3444, "kind": "opinion", "text": "Gnomonkey says the Sailing combat appears unchanged from the combat beta, only with more monsters, and he did not like it then either."},
+        {"t": 3473, "kind": "stat", "text": "Each cannonball costs one quarter of a bar (four per bar), better molds or furnaces only speed up making them, and there is no Ava's-style item to return them; killing an armoured kraken takes about 30 to 40 rune cannonballs, roughly 120k to 150k gp."},
+        {"t": 3507, "kind": "stat", "text": "Gnomonkey says adamant cannonballs cost around 800 each, so using about 50 is roughly 40k per kill, which he says is more expensive than using a scythe and blood fury on most targets."},
+        {"t": 3536, "kind": "opinion", "text": "Gnomonkey finds it illogical that a cannon is the only thing that can hit an albatross flying overhead for more than 10, more than his Tumeken's shadow or twisted bow."},
+        {"t": 3569, "kind": "opinion", "text": "Gnomonkey says Jagex should have released Sailing in two batches like Forestry, focusing the first batch on the skill itself with repair packs and dangerous enemies to avoid, and adding combat, cannons, drop tables, a boss or two, the bounty task system and leviathan hunting in a second batch."},
+        {"t": 3660, "kind": "opinion", "text": "Gnomonkey thinks Jagex cast the net too wide, with most dev time going into Barracuda Trials and boat engine work, leaving a half-baked combat system that should not have been a quick afterthought."},
+        {"t": 3726, "kind": "opinion", "text": "Gnomonkey's ideas for improving Sailing combat include making the ship do set damage from cannons, locked island doors blasted open from the water, ordering your crew to bombard Slayer monsters while you fight on an island, and Wind Waker-style set-piece boss fights."}
+      ]
+    },
+    {
+      "name": "Update: Sailing slayer monsters",
+      "kind": "update",
+      "claims": [
+        {"t": 3844, "kind": "opinion", "text": "Gnomonkey calls the Sailing Slayer monsters (Aqua Knights, Lava Strikeworms, Frost Dragons) and the Shellbane Gryphon boss a disappointment, with very simple mechanics and nothing that teaches or prepares players for other content."},
+        {"t": 3937, "kind": "stat", "text": "Lava Strikeworms take 50% extra from water spells and are healed by fire spells, which Gnomonkey says is the whole mechanic after Jagex teased that elemental spells would weaken or empower them."},
+        {"t": 3970, "kind": "stat", "text": "Frost Dragons have a 100% fire weakness; with the Dragon Hunter wand, which stacks with the elemental weakness, Gnomonkey says you can get almost 200 kills per hour, but it is still only about a 40k Slayer XP per hour task with a low Slayer weight."},
+        {"t": 3970, "kind": "stat", "text": "Frost Dragons and the other new monsters drop Sailing materials such as dragon metal sheets, dragon nails and dragon cannonballs but nothing useful outside Sailing; Frost Dragon dragon metal sheets are about 1 in 180, Lava Strikeworm sheets about 1 in 500."},
+        {"t": 4085, "kind": "opinion", "text": "Gnomonkey says the Aqua Knight hopper's double bolt proc is roughly equal to the Stalker offhand in a calculator and nowhere good, so there is not much reason to unlock the new monsters."},
+        {"t": 4180, "kind": "opinion", "text": "Gnomonkey would like more Slayer monsters with several mechanics and good XP rates, like Tormented Demons, and is sick of cannoning and bursting every task; he notes RS3 monsters such as Frost Dragons and Lava Strikeworms had mechanics that Jagex did not copy."},
+        {"t": 4212, "kind": "opinion", "text": "Gnomonkey criticises that an 87 Sailing requirement monster still gives a worse Slayer XP rate than the average Slayer task, at about 40k an hour with max gear."},
+        {"t": 4149, "kind": "opinion", "text": "Gnomonkey predicts most of the new Slayer monsters will be dead content in a month or two once the hype of going for 200 million Sailing XP fades."}
+      ]
+    },
+    {
+      "name": "Shellbane Gryphon",
+      "kind": "boss",
+      "claims": [
+        {"t": 3876, "kind": "opinion", "text": "Gnomonkey says the Shellbane Gryphon is much easier than Scurrius and teaches new players nothing, with very simple mechanics, no prayer switching, and nothing preparing them for other content."},
+        {"t": 3908, "kind": "stat", "text": "Gnomonkey says the Shellbane Gryphon's new rapier drops at around 1 in 440, and many players skip it as not worth the time."},
+        {"t": 4119, "kind": "stat", "text": "The Shellbane Gryphon must be killed on task; it is an 80 point Slayer unlock and takes about three Slayer tasks on average to get the new rapier, and its weight from Neve (as transcribed) is six, the highest you can get."},
+        {"t": 4270, "kind": "opinion", "text": "Gnomonkey cites the Shellbane Gryphon pet jar, which says it cannot be stored in the display case at this time, as evidence that Sailing was rushed."},
+        {"t": 4300, "kind": "opinion", "text": "Gnomonkey contrasts Moons (48 Slayer, teaching movement and combat) and Scurrius (teaching prayer switching and dealing with small mobs) with the Gryphon, calling it a nothing burger as if Kraken was added again."}
+      ]
+    },
+    {
+      "name": "Armadillo brew",
+      "kind": "item",
+      "claims": [
+        {"t": 1434, "kind": "stat", "text": "Armadillo brew is a Ranged potion that drains all your other stats but boosts Ranged; drinking a regular brew then an Armadillo brew instead of a restore gives a huge amount of HP while still being potted."},
+        {"t": 1466, "kind": "opinion", "text": "Gnomonkey says with a full Armadillo brew and a full regular brew you basically cannot die to the healers at Zulrah... as transcribed 'healers on Zuck' he says in the Inferno, and calls it very strong for Inferno even for casual runs."},
+        {"t": 1466, "kind": "opinion", "text": "Gnomonkey says the extended stamina potion and the new fish from Sailing are also solid and fun to use."}
+      ]
+    },
+    {
+      "name": "Opinion: Community reception of Sailing criticism",
+      "kind": "opinion",
+      "claims": [
+        {"t": 298, "kind": "opinion", "text": "Gnomonkey says his main fear before Sailing's release was the extreme politicisation of talking about the skill, and he says he was 100% correct."},
+        {"t": 329, "kind": "opinion", "text": "Gnomonkey describes a Reddit echo chamber around Sailing in which feedback about things not working is downvoted heavily and YouTube comments are brigaded, with people saying Sailing is good and critics should shut up."},
+        {"t": 386, "kind": "opinion", "text": "Gnomonkey argues that saying 'I am having fun, so everyone else should too' ignores that different players want different things from Sailing, and that improvements for others do not hinder you."},
+        {"t": 511, "kind": "opinion", "text": "Gnomonkey says RuneScape's golden age and high player counts are due partly to Jagex listening, with J mods talking on Reddit and Discord and players able to give immediate brutal feedback, as with the rioting and cannons in the past."},
+        {"t": 544, "kind": "opinion", "text": "Gnomonkey says he has never seen more toxic positivity than at Sailing's launch, citing a thread where someone said the dragon ship upgrades take about 70 hours and replies mocked giving feedback on day four."},
+        {"t": 608, "kind": "stat", "text": "Gnomonkey says newer updates typically get about a two-week window of constant bug fixes from Jagex, and then that content is not fixed again for a long time, so early feedback is extremely important."},
+        {"t": 635, "kind": "opinion", "text": "Gnomonkey says many problems with raids, Slayer and other content were only fixed by quality-of-life updates years after release."},
+        {"t": 5284, "kind": "opinion", "text": "Gnomonkey asks the community to stop toxicity toward individuals, to stop calling for permanent bans on him, and to give a plus one or like to others' pain points even when they do not personally mind them."}
+      ]
+    },
+    {
+      "name": "Opinion: Common arguments about Sailing criticism",
+      "kind": "opinion",
+      "claims": [
+        {"t": 696, "kind": "opinion", "text": "Gnomonkey rejects the argument that anyone who dislikes Sailing just dislikes skilling, saying he has a max cape, enjoys skilling, and that Agility is his favourite skill."},
+        {"t": 726, "kind": "opinion", "text": "Gnomonkey says 'Sailing is better than Firemaking' is not an excuse, because Firemaking is basically just Wintertodt and weak, and many skills need fleshing out, Sailing among them."},
+        {"t": 788, "kind": "opinion", "text": "Gnomonkey says Jagex has made many good skilling updates in recent years, naming hunter rumours, calcified rocks for Mining and the Varlamore content, and that Runecrafting has been fleshed out compared with five years ago."}
+      ]
+    },
+    {
+      "name": "Opinion: Jagex update pacing and old content",
+      "kind": "opinion",
+      "claims": [
+        {"t": 4328, "kind": "opinion", "text": "Gnomonkey says updates often release in a very unfinished state, citing Doom of Mokhaiotl (Mocha) with a drop table that does not make sense, shark lures, a common loot drop system that does not scale properly, and small bugs that he expects will not be fixed for years."},
+        {"t": 4420, "kind": "opinion", "text": "Gnomonkey says he shares Hey Jay's view that there is a lack of focus on existing content because Jagex constantly pushes new content to sell the game to new players."},
+        {"t": 4541, "kind": "opinion", "text": "Gnomonkey names the Slayer quality-of-life update, which let Grandmasters kill Zulrah without Turael-based task trickery, reduced unlock costs and added custom block lists, as one of his favourite updates of all time, saying he enjoys Slayer about 50% more."},
+        {"t": 4597, "kind": "opinion", "text": "Gnomonkey says the Tombs of Amascut and Chambers of Xeric quality-of-life updates are among his favourite updates ever, and that QOL updates giving old content a coat of paint are always his favourites."},
+        {"t": 5218, "kind": "opinion", "text": "Gnomonkey hopes Jagex takes more time with updates, with more thorough QA, fuller feature sets before release and more QOL updates, and guesses that rushing to hit a major update every quarter is management's fault more than the dev team's."}
+      ]
+    },
+    {
+      "name": "Gnomonkey",
+      "kind": "person",
+      "claims": [
+        {"t": 32, "kind": "record", "text": "Gnomonkey says he was already maxed before he started streaming and has extra XP in many skills, including a high Runecrafting, and went for skilling pets."},
+        {"t": 59, "kind": "trivia", "text": "Gnomonkey says he has learned 1.5 tick teaks and barb-lore (cutting barbarian fish and making potions while fishing), and that his favourite skilling activity is Hallowed Sepulchre."},
+        {"t": 149, "kind": "opinion", "text": "Gnomonkey says he voted yes when Jagex asked whether players wanted a new skill, and voted for Sailing over shamanism and taming, because he is a long-time RS3 player who has seen many new skill launches."},
+        {"t": 209, "kind": "opinion", "text": "Gnomonkey says he has worked with Jagex on videos and Jagex often asks him for feedback without forcing an opinion, though they do not always follow his suggestions, and he says he does not attack individual developers."},
+        {"t": 268, "kind": "opinion", "text": "Gnomonkey says he would never take a sponsor or ad that forced him to hold an opinion untrue to what he thinks, calling himself a free thinker."},
+        {"t": 5380, "kind": "opinion", "text": "Gnomonkey says he had been thinking about the video for about a week, waiting for new information and to unlock the new Barracuda Trial, and invites viewers to share what they like and dislike about Sailing."}
+      ]
+    }
+  ]
+}

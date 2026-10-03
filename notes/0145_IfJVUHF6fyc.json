@@ -24,7 +24,7 @@
         {"t": 0, "kind": "event", "text": "Gnomonkey maxed out as much crush bonus as he could to kill his way through Fortis Colosseum using only fists, after a chatter recommended killing the boss like a Fremennik with some punching and kicking."},
         {"t": 0, "kind": "opinion", "text": "Gnomonkey says the fist-only Colosseum run is almost as difficult as speedrunning Colosseum, because there is no out-DPSing anything before the Minotaur and reinforcements arrive."},
         {"t": 828, "kind": "event", "text": "On the previous fist-only attempt Gnomonkey got Sol Heredit down to 250 health with a kick-only setup but died."},
-        {"t": 1346, "kind": "tip", "text": "Gnomonkey says he is not afraid to use brews during the waves in the fist-only run because he is confident he can do the boss with no brews and thinks brews do not do much for him at the boss."},
+        {"t": 1008, "kind": "tip", "text": "Gnomonkey says he is not afraid to use brews during the waves in the fist-only run because he is confident he can do the boss with no brews and thinks brews do not do much for him at the boss."},
         {"t": 1346, "kind": "stat", "text": "Gnomonkey says the monsters have low melee defence, and that an ink-type crush bonus is good for crush accuracy, which is how his fists hit as hard as they do."},
         {"t": 1920, "kind": "stat", "text": "Gnomonkey notes that punching is a four-tick action."},
         {"t": 1864, "kind": "event", "text": "Gnomonkey took Relentless 3 on the final waves, calling it probably the first and last time he would ever pick it, and fought the boss with a torture amulet and a kick/punch setup."},
@@ -60,7 +60,7 @@
       "kind": "item",
       "claims": [
         {"t": 82, "kind": "stat", "text": "With piety on, the Atlatl kills a Fremennik mage in two shots at three ticks a shot, six ticks in total, the same as a Webweaver bow or blowpipe."},
-        {"t": 1604, "kind": "opinion", "text": "Gnomonkey says an Ancient mace is not worth using instead of the Saradomin godsword, because he uses the godsword for health: to chunk 50 health on a bad spawn, and he would still use it even if it did not restore prayer."}
+        {"t": 1629, "kind": "opinion", "text": "Gnomonkey says an Ancient mace is not worth using instead of the Saradomin godsword, because he uses the godsword for health: to chunk 50 health on a bad spawn, and he would still use it even if it did not restore prayer."}
       ]
     },
     {

@@ -1,0 +1,154 @@
+{
+  "id": "8VyPkG4sEwQ",
+  "title": "I Tried The NEW Prayerbook, This Is What I Found",
+  "date": "2023-04-19",
+  "type": "news-opinion",
+  "summary": "Gnomonkey goes through the beta of the new ruinous-powers prayer book prayer by prayer, saying what he would keep, scrap or rework. He considers it close to good but in need of refinement, and says it should not be scrapped or replaced with RS3 ancient curses.",
+  "outline": [
+    {"t": 0, "text": "Introduction: general thoughts on the new prayer book beta"},
+    {"t": 41, "text": "Complaints about prayer ordering, layout and colors"},
+    {"t": 105, "text": "Rejuvenation and Ruinous Grace"},
+    {"t": 154, "text": "Deflect prayers and chip damage"},
+    {"t": 242, "text": "Metabolize and offensive prayers"},
+    {"t": 281, "text": "Rebuke and the Vows in general"},
+    {"t": 328, "text": "Fumus' Vow, Umbra's Vow, Krewer's Vow and a bleed rework idea"},
+    {"t": 455, "text": "Glacies' Vow and DPS math"},
+    {"t": 544, "text": "Vindication and Gambit"},
+    {"t": 601, "text": "Conclusion: keep updating the beta"}
+  ],
+  "topics": [
+    {
+      "name": "Update: Ruinous powers prayer book beta",
+      "kind": "update",
+      "claims": [
+        {"t": 0, "kind": "opinion", "text": "Gnomonkey considers the new prayer book beta close to being good but in need of refinement, with a lot of prayers completely useless and others incredibly overpowered."},
+        {"t": 0, "kind": "opinion", "text": "Gnomonkey says there are many locations where the new prayers are unusable and many where you would be silly not to use them."},
+        {"t": 26, "kind": "opinion", "text": "Gnomonkey believes the new prayer book should ideally always be used at the highest level of any activity, and that there should never be a competitive speedrun done on the old prayer book."},
+        {"t": 26, "kind": "opinion", "text": "Gnomonkey wants the new prayer book to add depth and complexity, something a player starts using once they feel very comfortable at a given piece of PvM."},
+        {"t": 0, "kind": "opinion", "text": "Gnomonkey says he mostly agrees with Edicon's video on the new prayers, and he references it throughout his own video."},
+        {"t": 601, "kind": "opinion", "text": "Gnomonkey says the whole new prayer book does not need to be scrapped, and does not need to be replaced by RS3 ancient curses as Reddit wants."},
+        {"t": 601, "kind": "opinion", "text": "Gnomonkey wants Jagex to keep updating the beta and trying things until something works well, and asks for yellow Kiris to be made available so he can properly test content."}
+      ]
+    },
+    {
+      "name": "Opinion: New prayer book layout and ordering",
+      "kind": "opinion",
+      "claims": [
+        {"t": 26, "kind": "opinion", "text": "Gnomonkey calls the default order of prayers in the new prayer book beta absolutely atrocious, with no rhyme or reason to the prayer locations."},
+        {"t": 26, "kind": "opinion", "text": "Gnomonkey says RuneLite is capable of reordering prayers and should be allowed to introduce this as soon as possible, but the default order still needs to be much better."},
+        {"t": 60, "kind": "opinion", "text": "In the beta, protection prayers are top left and offensive prayers sit below them shifted two slots right, so flicking Vows, Gambit, protections and offensives makes the mouse travel the entire prayer book."},
+        {"t": 60, "kind": "opinion", "text": "Gnomonkey notes that the default prayer book has everything needed in a small 3x3 block in the bottom middle and says the new book should match this."},
+        {"t": 94, "kind": "opinion", "text": "Gnomonkey dislikes that the new prayer book uses incredibly bright colors regardless of what the prayer does and that many bleed together, whereas the old book gives the offensive prayers a clear blue highlight."}
+      ]
+    },
+    {
+      "name": "Rejuvenation",
+      "kind": "item",
+      "claims": [
+        {"t": 105, "kind": "stat", "text": "Rejuvenation is the same as Rapid Heal with some odd differences; Gnomonkey says it is still not worth using for health because of an insane drain rate even with the faster regeneration."},
+        {"t": 105, "kind": "event", "text": "Gnomonkey says the only thing Rejuvenation changed was Tyrope-skip setups, and he does not know why it differs from Rapid Heal at all."},
+        {"t": 105, "kind": "opinion", "text": "Gnomonkey asks Jagex to make Rejuvenation the same as Rapid Heal."}
+      ]
+    },
+    {
+      "name": "Ruinous Grace",
+      "kind": "item",
+      "claims": [
+        {"t": 122, "kind": "stat", "text": "Ruinous Grace in the beta trains about five prayer points per run energy at zero prayer bonus, and prayer bonus is the only thing that affects it."},
+        {"t": 122, "kind": "stat", "text": "At maximum prayer bonus, Ruinous Grace restores between 1 and 2 prayer points per run energy."},
+        {"t": 122, "kind": "opinion", "text": "Gnomonkey says Ruinous Grace is worse in every way than Vile Vigour even at max prayer bonus, and that Vile Vigour itself is useless outside of Challenge Mode and maybe some rare cases, so Ruinous Grace can just be scrapped."}
+      ]
+    },
+    {
+      "name": "Deflect prayers",
+      "kind": "mechanic",
+      "claims": [
+        {"t": 154, "kind": "opinion", "text": "Gnomonkey says the chip damage from the new Deflect prayers is either unnoticeable or makes content undoable."},
+        {"t": 154, "kind": "stat", "text": "Gnomonkey says the Inferno is basically impossible with the new Deflect prayers because of the chip damage from Jads, requiring roughly three to four brews dedicated to surviving the Jads."},
+        {"t": 154, "kind": "stat", "text": "Gnomonkey found the chip damage extremely bad in the Tombs of Amascut Monkey Room and at Kephri due to the spinning scarabs, and expects Zebak and Warden would likely be bad too, but found it definitely manageable in Tombs of Amascut overall; he could not test much due to lacking yellow Kiris."},
+        {"t": 188, "kind": "stat", "text": "In the Theatre of Blood the Deflect chip damage is not noticeable at all, so Gnomonkey says the prayers are incredibly strong there."},
+        {"t": 188, "kind": "stat", "text": "In Chambers of Xeric Challenge Mode the Deflect chip damage is manageable but a problem at places like Mystics, Muttadile and Olm."},
+        {"t": 188, "kind": "opinion", "text": "Addy suggested increased damage on the wrong prayer instead of chip damage; Gnomonkey says this would be an improvement but causes problems for monsters with multiple damage types that are not guaranteed, like Inferno Bloblets, Muttadile and Olm."},
+        {"t": 214, "kind": "opinion", "text": "Gnomonkey says wrong-prayer extra damage is probably still better than chip damage, but he is not sure there is a perfect solution."}
+      ]
+    },
+    {
+      "name": "Trinitas",
+      "kind": "item",
+      "claims": [
+        {"t": 214, "kind": "opinion", "text": "Gnomonkey voted no to Trinitas when it was proposed, says it is still as dumb as it was then, and wants it scrapped as a low-skill prayer on the high-skill prayer book."}
+      ]
+    },
+    {
+      "name": "Berserker",
+      "kind": "item",
+      "claims": [
+        {"t": 214, "kind": "opinion", "text": "Gnomonkey says the Berserker prayer is fine as is; it drains a little more than Preserve and that is not a big deal."}
+      ]
+    },
+    {
+      "name": "Metabolize",
+      "kind": "item",
+      "claims": [
+        {"t": 242, "kind": "opinion", "text": "Gnomonkey wants Metabolize scrapped because it does not actually allow you to eat any faster and has little use."},
+        {"t": 242, "kind": "opinion", "text": "Gnomonkey says you typically never want to eat hard food mid-combat anyway, and Metabolize also has a ridiculous prayer drain."}
+      ]
+    },
+    {
+      "name": "Rebuke",
+      "kind": "item",
+      "claims": [
+        {"t": 242, "kind": "opinion", "text": "Gnomonkey says the new offensive prayers all feel in a good place damage-wise and should remain as is."},
+        {"t": 242, "kind": "opinion", "text": "Gnomonkey really likes Rebuke: its usage is rare but it can do cool things, and he loved Venge bombing Tekton with it."},
+        {"t": 273, "kind": "stat", "text": "Rebuke raised Gnomonkey's max hit to 100 when paired with Vengeance on Tekton, which he calls very substantial added damage."}
+      ]
+    },
+    {
+      "name": "Vows",
+      "kind": "mechanic",
+      "claims": [
+        {"t": 281, "kind": "opinion", "text": "Gnomonkey says the Vows all need a lot of work and should mostly offer neat utility effects applied on a target in unique cases rather than pure damage."},
+        {"t": 281, "kind": "opinion", "text": "Gnomonkey argues Vows drain so much prayer that making one pure damage, like Glacies' Vow currently is, means you have to one-tick flick it and use it everywhere."},
+        {"t": 302, "kind": "opinion", "text": "Gnomonkey wants Vows to add an effect on a target rather than being something you camp."},
+        {"t": 302, "kind": "event", "text": "Fumus' Vow was insanely powerful in the beta and came with a bug that allowed players to one-shot every boss instantly."},
+        {"t": 302, "kind": "stat", "text": "Gnomonkey says that once Fumus' Vow is changed you will no longer be able to pre-pot getting poisoned and it will only work if the target directly applied poison to you, so it likely will not work in places with area poison like Zarp or Vorkath."},
+        {"t": 331, "kind": "opinion", "text": "Gnomonkey says after the Fumus' Vow change it would be useful only against things like Lizardman shamans and Spitting Scarabs, and suggests making the poison heal you, wear off quickly, and drain prayer on each proc."},
+        {"t": 331, "kind": "opinion", "text": "Gnomonkey says Umbra's Vow is perfect as is, loves it, and likes that its effect takes place before defence-draining special attacks."},
+        {"t": 362, "kind": "opinion", "text": "Gnomonkey calls Krewer's Vow utterly useless: a huge prayer drain for healing one HP per 100 damage dealt, and sustaining prayers that you camp to slowly gain HP are boring and cannot be balanced."},
+        {"t": 362, "kind": "tip", "text": "Gnomonkey's bleed rework idea for Krewer's Vow, developed with Saxer Pillar and inspired by Zebak's bleed chomp: each hitsplat on a target with the prayer active adds a bleed stack, perhaps needing multiple splats per stack, which encourages multi-splat weapons like Scythe and Claws."},
+        {"t": 395, "kind": "tip", "text": "In Gnomonkey's bleed idea, once a stack is built, the target hemorrhages if it moves, dealing damage over time; each extra stack increases the bleed's duration and damage per splat like poison, and no further stacks can be added until the bleed ends, possibly with a cooldown."},
+        {"t": 424, "kind": "opinion", "text": "Gnomonkey says the bleed idea would be effective only on bosses you can keep stationary and then move tactically (Bloat, Tekton, Thermonuclear smoke devil, Cerberus, group God Wars bosses), and ineffective on bosses you constantly run around like solo God Wars."}
+      ]
+    },
+    {
+      "name": "Glacies' Vow",
+      "kind": "item",
+      "claims": [
+        {"t": 455, "kind": "opinion", "text": "Gnomonkey says Glacies' Vow is nearly as useless as Krewer's Vow currently is."},
+        {"t": 455, "kind": "stat", "text": "Gnomonkey's math: with 14 DPS (equal to max melee Scythe against a zero-defence Maiden), a 20% chance to deal 10% of your damage, even if it hit every time, adds only 0.28 DPS."},
+        {"t": 482, "kind": "stat", "text": "Gnomonkey estimates Glacies' Vow adds roughly 0.1 DPS after accounting for target magic defense, generously, and about 0.2 DPS only at Thermonuclear smoke devil where it is accurate, compared with a thrall adding 0.625 DPS."},
+        {"t": 482, "kind": "opinion", "text": "Gnomonkey notes a thrall costs 6 prayer points and lasts a long time, while Glacies' Vow costs prayer points on each swing for a tiny fraction of the damage, and calls the design boring."},
+        {"t": 515, "kind": "opinion", "text": "Addy suggested Glacies' Vow do the same thing as Umbra's Vow but for magic, which Gnomonkey says would be perfect: put it on early when maging a target to increase accuracy, then swap to a different Vow."}
+      ]
+    },
+    {
+      "name": "Vindication",
+      "kind": "item",
+      "claims": [
+        {"t": 544, "kind": "event", "text": "Vindication was Gnomonkey's own suggestion that made it into the beta prayer book."},
+        {"t": 544, "kind": "opinion", "text": "Gnomonkey says Locator Orb spam makes Vindication's damage buff very broken, and the meta would become taking a Locator Orb everywhere for damage."},
+        {"t": 554, "kind": "stat", "text": "Vindication's reduced health does not prevent Vespula or Tyrope skips as people thought, but if you were 10 or lower HP at Vespula you need to brew to prevent chancing, and a Tyrope skip now always requires brewing when going to Crystal."},
+        {"t": 554, "kind": "stat", "text": "Gnomonkey says a 3 HP skip is guaranteed death, so there is a 1 in 6 chance the run is bricked."},
+        {"t": 574, "kind": "opinion", "text": "Gnomonkey would prefer Vindication heal the same amount as regular Redemption and give an accuracy buff instead of a damage buff, making it useful but not enough to Locator spam for."}
+      ]
+    },
+    {
+      "name": "Gambit",
+      "kind": "item",
+      "claims": [
+        {"t": 574, "kind": "opinion", "text": "Gnomonkey says Gambit is great: flicking it is fun and it is not a big enough buff to feel necessary anywhere."},
+        {"t": 574, "kind": "tip", "text": "Gnomonkey says Gambit is incredibly powerful at Tekton, and he had fun flicking it at the Ranged Vanguards with step-unders; it also works with necks."}
+      ]
+    }
+  ]
+}

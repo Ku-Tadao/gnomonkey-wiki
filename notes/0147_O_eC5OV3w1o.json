@@ -1,0 +1,96 @@
+{
+  "id": "O_eC5OV3w1o",
+  "title": "INSANE 16:10 WR Colosseum (OSRS)",
+  "date": "2024-04-01",
+  "type": "speedrun",
+  "summary": "Gnomonkey's 16:10 world record Fortis Colosseum speedrun, commentated after the fact because the original VOD had music that YouTube would not accept. He explains his Venator bow and Bulwark setup, off-ticking, heal-block tiles and invocation choices wave by wave, reaching wave 7 in about 5:15 and wave 11 in under two minutes. He says sub-15 is effectively not possible without new knowledge or patches and that about 15:30 is roughly the limit.",
+  "outline": [
+    {"t": 0, "text": "Run introduction, pre-pot and Bulwark setup"},
+    {"t": 70, "text": "Early waves, Frailty and Venator setups"},
+    {"t": 155, "text": "Wave 2 and 4 reinforcement skips"},
+    {"t": 305, "text": "Waves 5-6 and difficult spawns"},
+    {"t": 447, "text": "Minotaur heal block tile and wave 7-8"},
+    {"t": 527, "text": "Late wave strategies and Minotaur heal cap"},
+    {"t": 743, "text": "Resource management, run energy and Re-entry"},
+    {"t": 923, "text": "Final waves to boss, wave 11"},
+    {"t": 1074, "text": "Sol Heredit fight"},
+    {"t": 1227, "text": "Run review: limits of Colosseum records"}
+  ],
+  "topics": [
+    {
+      "name": "Colosseum speedrun world record",
+      "kind": "activity",
+      "claims": [
+        {"t": 0, "kind": "record", "text": "Gnomonkey got a 16:10 Fortis Colosseum world record, over a minute faster than his own previous record, which had been beaten by Ausah, and it happened in only the first few hours of the stream."},
+        {"t": 1227, "kind": "stat", "text": "The 16:10 run had about 5:15 to wave 7 (Gnomonkey says 5:16 was the fastest by about 20 seconds), a 110-second wave 5, a wave 11 under two minutes (1:58, where it is usually around two and a half minutes), and a 14:12 entry to the boss."},
+        {"t": 1220, "kind": "opinion", "text": "Gnomonkey says he does not think sub-15 is feasible for Colosseum without new knowledge or changes, and that around 15:30 is roughly the limit for how fast Colosseum can be done at this point."},
+        {"t": 1249, "kind": "opinion", "text": "Gnomonkey says the run had incredible RNG for waves and damage and would be very difficult to beat; he thinks a sub-16 would require absurd luck, and that with a good boss and better play on one wave it could have been 15:50."},
+        {"t": 1249, "kind": "stat", "text": "Gnomonkey lost roughly 10 seconds on the boss from missing a Dragon warhammer special, and says the boss, the only slow wave, could have been about 10 seconds faster with both hammers landing."},
+        {"t": 1280, "kind": "event", "text": "Gnomonkey says he took a deal with Kick and streams for a couple of hours on Twitch and YouTube before moving to Kick, which is why he has been streaming a lot of hours."}
+      ]
+    },
+    {
+      "name": "Colosseum speedrun setup",
+      "kind": "item",
+      "claims": [
+        {"t": 0, "kind": "method", "text": "Gnomonkey's pre-pot includes a heart, and he sips a Menaphite remedy to break the divine effect so the heart ticks down; as long as he has over a plus-three boost, his three-way mage one-shots the Berserkers."},
+        {"t": 0, "kind": "tip", "text": "The only change from his previous record setup is using a Bulwark instead of the Moonlight meat."},
+        {"t": 33, "kind": "stat", "text": "The Bulwark gives Gnomonkey a lot of survivability in the early waves and in a couple of cases is better DPS than a claw spec."},
+        {"t": 33, "kind": "method", "text": "Gnomonkey starts some waves in melee armour, casts at the Berserker, then flicks on the Bulwark while praying mage, making him very tanky for the one off-prayer hit he takes, and on one wave takes no damage."},
+        {"t": 277, "kind": "tip", "text": "Gnomonkey uses the Blowpipe only for low HP targets to kill them quickly and save ticks."},
+        {"t": 718, "kind": "opinion", "text": "Gnomonkey says the Bulwark was slightly better than a claw on one wave because it kills the archer but he took damage for it, and on another says it is barely better than a claw."},
+        {"t": 748, "kind": "tip", "text": "You can regenerate run energy between waves; Gnomonkey took a pee break to get run energy back and called it tech."}
+      ]
+    },
+    {
+      "name": "Venator bow",
+      "kind": "item",
+      "claims": [
+        {"t": 65, "kind": "stat", "text": "The Venator bow's main benefit is 35 percent more DPS as long as it gets a triple ricochet, which needs the mage on the west or south side of a target."},
+        {"t": 305, "kind": "tip", "text": "A Venator ricochet off an archer under a target is slightly better than scything, so Gnomonkey abuses that."},
+        {"t": 359, "kind": "tip", "text": "With the Venator bow, Gnomonkey shoots the higher-health target so the bow can ricochet longer."},
+        {"t": 1011, "kind": "stat", "text": "Gnomonkey says the Twisted bow is usually only about 8 percent worse than a scythe."},
+        {"t": 98, "kind": "opinion", "text": "Gnomonkey considers the scythe his second best option compared to Venator bow shots, and uses it mainly to get health back."}
+      ]
+    },
+    {
+      "name": "Colosseum reinforcements",
+      "kind": "mechanic",
+      "claims": [
+        {"t": 155, "kind": "stat", "text": "Colosseum reinforcements always come in at the 40 second mark of a wave, so for a wave skip both targets must be killed before 40 seconds or the run is reset; Gnomonkey's wave two time was 39 seconds and two ticks slower would have spawned them."},
+        {"t": 155, "kind": "method", "text": "To go for a record, Gnomonkey needs a wave two skip and a wave four skip."},
+        {"t": 247, "kind": "tip", "text": "Gnomonkey says reinforcements can get you killed, so he starts on the dangerous side and moves to the safer side once they spawn."}
+      ]
+    },
+    {
+      "name": "Colosseum heal block and off-ticking",
+      "kind": "mechanic",
+      "claims": [
+        {"t": 447, "kind": "method", "text": "Gnomonkey kills the thing next to where the Minotaur spawns first because the Minotaur heals it, and he watches the respawn timer and goes to the heal block tile so the Minotaur never gets line of sight on those targets, using a Twisted bow shot to block the heal."},
+        {"t": 569, "kind": "stat", "text": "The Minotaur seems to have a heal cap of about 20 percent of the target's health, so chipping each target a little with a side swing means the Minotaur does not heal them at all."},
+        {"t": 333, "kind": "tip", "text": "To know targets are off-ticked, Gnomonkey looks for a target within one or two ticks of a Manticore attacking or just after it."},
+        {"t": 181, "kind": "tip", "text": "Gnomonkey steps out diagonally to off-tick a mage so it comes a tick later and syncs up with the Manticore, and he can corner trap for a second before the orb arrives to guarantee the off-tick."},
+        {"t": 598, "kind": "tip", "text": "Gnomonkey tries to keep the archer, which maxes one, alive until the end and kill it at the same time as the other target, so there is basically zero time loss."}
+      ]
+    },
+    {
+      "name": "Colosseum invocations",
+      "kind": "mechanic",
+      "claims": [
+        {"t": 33, "kind": "opinion", "text": "Gnomonkey has started locking Frailty first, which gives him more options for invocations and is faster than taking Quartet or Duo that add spawns, though it makes completing the run harder."},
+        {"t": 98, "kind": "tip", "text": "Gnomonkey does not take Quartet for speedruns because it is a big time loss."},
+        {"t": 626, "kind": "opinion", "text": "Gnomonkey says the safe choice is Duo or Frailty three, but he caps his health at 60 and takes Frailty rather than the safe slow choice; he later takes Re-entry two because Duo wastes time, though Re-entry is really hard to deal with."},
+        {"t": 927, "kind": "tip", "text": "Gnomonkey takes Re-entry two for wave 11 rather than Quartet because Quartet is a time loss, and wastes a few ticks to be sure he does not put Re-entry on the bad tile."},
+        {"t": 1074, "kind": "tip", "text": "For the boss, Gnomonkey took Volatility and no Quartet so he did not have to worry about the Fremennik at the start; he had 60 maximum health, no brew and three doses of sand fuse."}
+      ]
+    },
+    {
+      "name": "Sol Heredit",
+      "kind": "boss",
+      "claims": [
+        {"t": 1100, "kind": "tip", "text": "Gnomonkey calls out every single Sol Heredit attack out loud during the fight to make sure he does not mess anything up, and notes the lasers can one-shot him at 60 health."},
+        {"t": 1166, "kind": "tip", "text": "Gnomonkey got several perfect parries on Sol, including one for a max scythe angle, and a perfect parry on the 87 hit."}
+      ]
+    }
+  ]
+}

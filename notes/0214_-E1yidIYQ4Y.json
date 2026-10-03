@@ -1,0 +1,99 @@
+{
+  "id": "-E1yidIYQ4Y",
+  "title": "PERFECT REWARDS - Mokha Delve Boss (OSRS)",
+  "date": "2025-03-24",
+  "type": "news-opinion",
+  "summary": "Gnomonkey reviews Jagex's follow-up blog on the Mokha delve boss rewards and concludes they finally got it right. The treads are unchanged, the Eye of Ayak's special attack now costs 50% and is decent, the Confliction gauntlets are band-aided to four-tick weapons so they no longer break the Tumeken's shadow, and the digger becomes a double-harvest demonic spade; he plans to vote yes to everything.",
+  "outline": [
+    {"t": 0, "text": "Introduction: the revised delve boss rewards are finally good"},
+    {"t": 66, "text": "Avernic treads analysis: no changes, melee strength kept at four"},
+    {"t": 109, "text": "Eye of Ayak staff review: range, special attack cost and clarifications"},
+    {"t": 172, "text": "Where the Eye's spec is strong or weak: Warden, Vanguards, Vespula portal, Ulm hand"},
+    {"t": 355, "text": "Gauntlets and shadow balance: the four-tick passive band-aid"},
+    {"t": 508, "text": "Magic damage cap at Tombs of Amascut and the call for a shadow rework"},
+    {"t": 541, "text": "Demon spade utility: instant harvesting changed to double harvesting speed"},
+    {"t": 712, "text": "Final thoughts and voting yes to everything"}
+  ],
+  "topics": [
+    {
+      "name": "Update: Mokha delve boss rewards revision",
+      "kind": "update",
+      "claims": [
+        {"t": 0, "kind": "opinion", "text": "Gnomonkey thinks the revised Mokha delve boss rewards are finally a good set, saying Jagex has gone through a lot of changes but nailed it this time, and that the Yama rewards were perfect as they were."},
+        {"t": 0, "kind": "opinion", "text": "Gnomonkey's main complaints about the previous blog were that the gauntlets were insanely broken for the Tumeken's shadow and that the new weapon's spec was basically useless; both were addressed."},
+        {"t": 25, "kind": "event", "text": "The blog says the rewards were tweaked after player feedback with a handful of small changes, and includes all the upcoming poll questions."},
+        {"t": 712, "kind": "opinion", "text": "Gnomonkey says Jagex conquered every complaint he had about the rewards and that he is glad he complained, despite people being mad at him for complaining about things being too powerful."},
+        {"t": 740, "kind": "opinion", "text": "Gnomonkey says he is no longer voting no on everything and will vote yes to everything in the poll, being very happy with the update."}
+      ]
+    },
+    {
+      "name": "Mokha boots",
+      "kind": "item",
+      "claims": [
+        {"t": 25, "kind": "event", "text": "Jagex made no changes to the Avernic treads in the second blog, and Gnomonkey says they were perfect and never needed changing."},
+        {"t": 84, "kind": "event", "text": "Jagex corrected its earlier blog: the base treads do not drop with the original stats, and melee strength is kept at four so that upgrading with primordial, Pegasian or eternal boots feels impactful."},
+        {"t": 84, "kind": "event", "text": "Jagex said the treads will pair nicely with the Oathplate armor coming with Yama, if it passes the poll."},
+        {"t": 84, "kind": "opinion", "text": "Gnomonkey says the boots were totally fine, that some people had an issue with them for some reason, and he is glad they were not touched."}
+      ]
+    },
+    {
+      "name": "Eye of Ayak",
+      "kind": "item",
+      "claims": [
+        {"t": 113, "kind": "stat", "text": "In response to concerns about the Eye of Ayak's range of six, Jagex clarified that the staff also has a long range mode of eight, and says it will perform as expected for activities such as the Nylocas room at the Theatre of Blood."},
+        {"t": 113, "kind": "stat", "text": "Jagex lowered the Eye of Ayak's special attack cost from 100% to 50% energy, which Gnomonkey calls a slight buff that takes the spec from utterly useless to pretty good."},
+        {"t": 145, "kind": "stat", "text": "Jagex clarified that the Eye of Ayak's special attack will not drain an NPC's magic defense past zero and that NPCs will not regenerate the drained stat, which Gnomonkey says matters for NPCs that normally regen stats fast, such as Akkha."},
+        {"t": 145, "kind": "stat", "text": "The Eye of Ayak is classed as a powered weapon like the trident, so it will not be usable in PvP."},
+        {"t": 172, "kind": "opinion", "text": "Gnomonkey says the Eye's spec is best on targets with roughly 20 to 50 magic defense; with very high magic defense like Zebak's 225 or very low defense like Akkha's it does little, because draining small amounts cannot go below zero."},
+        {"t": 200, "kind": "stat", "text": "In Gnomonkey's calcs the Eye's special attack saves about one second on a 500 Akkha, but about 12 seconds on Warden phases 1 and 3, which he says is better than a Zaryte crossbow for much less spec cost."},
+        {"t": 234, "kind": "stat", "text": "Gnomonkey estimates the Eye's spec saves about 1-2 seconds on non-melee Vanguards, about 3 seconds at the Vespula portal (but you must enter melee range with the range of eight), and about 1-2 seconds on the Ulm hands, with the saving multiplied by team size in raids."},
+        {"t": 296, "kind": "opinion", "text": "Gnomonkey says the Eye's spec typically beats a scepter spec and stacks with it, and at 50% spec energy you can now actually use both, which was not possible when it cost 100%."},
+        {"t": 296, "kind": "opinion", "text": "Gnomonkey is unsure how the Eye's spec works on Zalra, whose magic defense changes every time she changes form and who regens stats very fast, saying it could theoretically be good there but nobody knows."},
+        {"t": 327, "kind": "opinion", "text": "Gnomonkey says between five and seven bosses are good for the Eye's spec, which he calls a lot better than zero, and says it is not the best spec weapon ever but is the right spot for it."}
+      ]
+    },
+    {
+      "name": "Confliction gauntlets",
+      "kind": "item",
+      "claims": [
+        {"t": 359, "kind": "event", "text": "Jagex changed the Confliction gauntlets passive: when you miss a magic attack, your next magic attack within four ticks rolls accuracy twice, so it only works with fast weapons and not manually cast spells such as barrage."},
+        {"t": 390, "kind": "stat", "text": "After the change the gauntlets still work with fire surge on a harm staff, but typical staves, ancients and the Tumeken's shadow are no longer affected by the double accuracy roll."},
+        {"t": 390, "kind": "opinion", "text": "Gnomonkey says it is a shame the gauntlets are band-aided, because the right thing would be to fix the Tumeken's shadow and let the gauntlets work properly on slower and manually cast weapons, but he calls it a good band-aid."},
+        {"t": 447, "kind": "opinion", "text": "Gnomonkey says the other option was turning the gauntlets into a shield, but Jagex wants to get the reward going, and most people liked the gauntlets and only disliked that they were broken for the shadow."},
+        {"t": 480, "kind": "stat", "text": "The gauntlets' passive must be against the same target and use the same spell or magic weapon, which Gnomonkey says makes them much less useful when fighting a bunch of monsters."},
+        {"t": 508, "kind": "opinion", "text": "Gnomonkey says with this change the gauntlets are not broken any more and are a solid item addition."}
+      ]
+    },
+    {
+      "name": "Opinion: Tumeken's shadow needs a rework",
+      "kind": "opinion",
+      "claims": [
+        {"t": 417, "kind": "opinion", "text": "Gnomonkey says the Tumeken's shadow is holding the game down and holding Jagex hostage as developers, because anything slower than it is now worse even if it is not a broken staff."},
+        {"t": 447, "kind": "opinion", "text": "Gnomonkey wants Jagex to fix or rebalance the Tumeken's shadow soon, saying it is clearly holding them back, though he accepts that fixing it is a big project."},
+        {"t": 508, "kind": "opinion", "text": "Gnomonkey says shadow has just hit the magic damage cap at Tombs of Amascut, so every new mage damage upgrade will not affect shadow, which he says makes mage gear boring and needs a project rebalance treatment."}
+      ]
+    },
+    {
+      "name": "Demonic spade",
+      "kind": "item",
+      "claims": [
+        {"t": 541, "kind": "event", "text": "The demonic digger from the earlier blog is renamed the demonic spade, which Gnomonkey says is a better name."},
+        {"t": 541, "kind": "event", "text": "Jagex changed the spade from instantly processing farming harvesting actions to double harvesting speed, fearing instant harvest would make crops such as snape grass and watermelons more efficient for XP than trees and kill tree runs."},
+        {"t": 570, "kind": "stat", "text": "Gnomonkey calculates that instantly harvesting snape grass (82 XP each, average yield up to about 50) would give an instant 4k XP, better than a maple tree, and notes there are about 17 allotment patches."},
+        {"t": 598, "kind": "stat", "text": "Gnomonkey also calculates watermelons (54 XP each) at about 2,800 XP and torstols (225 XP at an average yield of 9.5) at about 2k XP for an instant harvest."},
+        {"t": 629, "kind": "opinion", "text": "Gnomonkey thinks the nerf was fair, since instant harvesting would also have been crazy for Chambers of Xeric prep with an instant full inventory of herbs."},
+        {"t": 659, "kind": "event", "text": "Jagex said the spade will be useful for farming harvesting actions that need a spade, including herbs, hops, allotments, clearing dead plants and tree roots, and that it will be equipable."},
+        {"t": 659, "kind": "event", "text": "The spade will not work on seaweed since seaweed does not use a spade, and it can be used on the patch at the Chambers of Xeric."},
+        {"t": 685, "kind": "opinion", "text": "Gnomonkey thinks the double-harvest spade is still really good, harvesting about four herbs every other tick, while understanding the XP disruption concern from 4k XP off allotment patches."}
+      ]
+    },
+    {
+      "name": "Poll: Mokha delve boss rewards",
+      "kind": "update",
+      "claims": [
+        {"t": 25, "kind": "event", "text": "The blog includes all upcoming poll questions for the new delve boss rewards, which are now going to a poll."},
+        {"t": 740, "kind": "opinion", "text": "Gnomonkey says he will vote yes on everything in the poll and thinks the update has gone in the perfect direction."}
+      ]
+    }
+  ]
+}

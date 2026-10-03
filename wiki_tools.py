@@ -96,6 +96,32 @@ def check(path: Path) -> list[str]:
     return errs
 
 
+CLAIM_MAP = {"mechanic": "method", "update": "event", "fact": "stat"}
+TOPIC_MAP = {"method": "mechanic", "tip": "other", "record": "other", "requirement": "other", "strategy": "mechanic",
+             "event": "update", "gear": "item", "monster": "boss", "location": "activity"}
+
+
+def fixkinds() -> None:
+    """Map the few off-schema kind labels agents keep inventing onto valid ones (in place)."""
+    n_fixed = 0
+    for f in sorted(NOTES.glob("*.json")):
+        try:
+            j = json.loads(f.read_text(encoding="utf-8"))
+        except Exception:  # noqa: BLE001
+            continue
+        changed = False
+        for t in j.get("topics") or []:
+            if t.get("kind") not in KINDS_TOPIC:
+                t["kind"], changed = TOPIC_MAP.get(t.get("kind"), "other"), True
+            for c in t.get("claims") or []:
+                if c.get("kind") not in KINDS_CLAIM:
+                    c["kind"], changed = CLAIM_MAP.get(c.get("kind"), "trivia"), True
+        if changed:
+            f.write_text(json.dumps(j, ensure_ascii=False, indent=1), encoding="utf-8")
+            n_fixed += 1
+    print(f"normalised kinds in {n_fixed} files")
+
+
 def validate() -> None:
     bad = missing = 0
     for f in sorted(TRANSCRIPTS.glob("*.json")):
@@ -270,7 +296,7 @@ def build() -> None:
     print(f"built {len(notes)} video pages, index, topics.md, videos/index.md, mkdocs.yml")
 
 
-def check() -> None:
+def linkcheck() -> None:
     """List broken relative .md links and topic pages that are missing from _work/pages.json."""
     pages = json.loads((WORK / "pages.json").read_text(encoding="utf-8"))
     missing_pages = [s for s in pages.values() if not (DOCS / f"{s}.md").exists()]
@@ -287,4 +313,4 @@ def check() -> None:
 
 
 if __name__ == "__main__":
-    {"prepare": prepare, "validate": validate, "names": names, "plan": plan, "build": build, "check": check}[sys.argv[1]]()
+    {"prepare": prepare, "validate": validate, "names": names, "plan": plan, "build": build, "fixkinds": fixkinds, "check": linkcheck}[sys.argv[1]]()

@@ -1,127 +1,363 @@
 {
-  "id": "IR0MIzsbFeM",
-  "title": "WORLD RECORD COLOSSEUM + Mini Guide (OSRS)",
-  "date": "2024-03-22",
-  "type": "speedrun",
-  "summary": "Gnomonkey's world record Fortis Colosseum completion (26:22) from stream footage, with a short strategy overview up front. He used max melee with Scythe and Claws, thralls and Death Charge SGS specs, and argues the invocation system is too RNG-heavy and needs an overhaul.",
-  "outline": [
-    {"t": 0, "text": "Colosseum strategy overview: gear, boss defences, spec plan"},
-    {"t": 30, "text": "Invocation priorities and thralls/Death Charge sustain"},
-    {"t": 59, "text": "Spawn manipulation using B5's spawn tile"},
-    {"t": 84, "text": "Colosseum vs Inferno and Tombs of Amascut difficulty comparison (stream chat)"},
-    {"t": 121, "text": "High-level gameplay from the stream"},
-    {"t": 178, "text": "RNG and resets in the invocation system"},
-    {"t": 393, "text": "Why Gnomonkey likes Inferno more than Colosseum so far"},
-    {"t": 514, "text": "Waves breakdown"},
-    {"t": 682, "text": "Boss prep"},
-    {"t": 893, "text": "Late wave challenges and reset rate discussion"},
-    {"t": 1128, "text": "Boss fight mechanics (Sol Heredit)"},
-    {"t": 1825, "text": "Sol Heredit final kill and world record time"}
-  ],
-  "topics": [
+ "id": "IR0MIzsbFeM",
+ "title": "WORLD RECORD COLOSSEUM + Mini Guide (OSRS)",
+ "date": "2024-03-22",
+ "type": "speedrun",
+ "summary": "Gnomonkey's world record Fortis Colosseum completion (26:22) from stream footage, with a short strategy overview up front. He used max melee with Scythe and Claws, thralls and Death Charge SGS specs, and argues the invocation system is too RNG-heavy and needs an overhaul.",
+ "outline": [
+  {
+   "t": 0,
+   "text": "Colosseum strategy overview: gear, boss defences, spec plan"
+  },
+  {
+   "t": 30,
+   "text": "Invocation priorities and thralls/Death Charge sustain"
+  },
+  {
+   "t": 59,
+   "text": "Spawn manipulation using B5's spawn tile"
+  },
+  {
+   "t": 84,
+   "text": "Colosseum vs Inferno and Tombs of Amascut difficulty comparison (stream chat)"
+  },
+  {
+   "t": 121,
+   "text": "High-level gameplay from the stream"
+  },
+  {
+   "t": 178,
+   "text": "RNG and resets in the invocation system"
+  },
+  {
+   "t": 393,
+   "text": "Why Gnomonkey likes Inferno more than Colosseum so far"
+  },
+  {
+   "t": 514,
+   "text": "Waves breakdown"
+  },
+  {
+   "t": 682,
+   "text": "Boss prep"
+  },
+  {
+   "t": 893,
+   "text": "Late wave challenges and reset rate discussion"
+  },
+  {
+   "t": 1128,
+   "text": "Boss fight mechanics (Sol Heredit)"
+  },
+  {
+   "t": 1825,
+   "text": "Sol Heredit final kill and world record time"
+  }
+ ],
+ "topics": [
+  {
+   "name": "Fortis Colosseum",
+   "kind": "activity",
+   "claims": [
     {
-      "name": "Fortis Colosseum",
-      "kind": "activity",
-      "claims": [
-        {"t": 0, "kind": "record", "text": "Gnomonkey says he is the Fortis Colosseum world record holder; the final kill shows a best time of 26:22 (global best 26:22)."},
-        {"t": 29, "kind": "stat", "text": "Gnomonkey says all targets in the Colosseum have equal melee style defences."},
-        {"t": 0, "kind": "stat", "text": "The Colosseum's last boss, Sol Heredit, has 800 ranged and mage defence and his only weakness is slash, so Gnomonkey says Scythe of Vitur is a must."},
-        {"t": 0, "kind": "method", "text": "Gnomonkey's Colosseum strategy was max melee with claws to burst Sol down as fast as possible."},
-        {"t": 0, "kind": "method", "text": "For the Colosseum, Gnomonkey used a 4-way Shadow to one-shot the melee Fremennik every time, and Webweaver bow to 2-shot the mage."},
-        {"t": 0, "kind": "tip", "text": "In the Colosseum, Gnomonkey tried to SGS spec the ranger whenever possible because the spec always counts as a max hit."},
-        {"t": 0, "kind": "tip", "text": "Gnomonkey brought a mace in the Colosseum to kill smaller targets and for its prayer bonus."},
-        {"t": 29, "kind": "method", "text": "Gnomonkey used thralls and pulled soul runes from his Shadow for Death Charge to continually keep SGS specs up in the Colosseum."},
-        {"t": 84, "kind": "opinion", "text": "In stream chat discussion, Gnomonkey says the Colosseum feels harder than it looks because there is no wave 50-style ramp up, and describes the last boss fight as Inferno mixed with Tombs of Amascut."},
-        {"t": 514, "kind": "opinion", "text": "Gnomonkey likes that the Colosseum feels like being plopped in at around wave 50: it is fast paced, short and unique, though without the chip damage through prayer that the Inferno has."},
-        {"t": 540, "kind": "tip", "text": "Monster spawns in the Colosseum are random; Gnomonkey manipulates them to force spawns into the middle, away from him."},
-        {"t": 540, "kind": "opinion", "text": "Gnomonkey says that if Jagex patches out spawn manipulation, the invocations will need to be balanced."}
-      ]
+     "t": 0,
+     "kind": "record",
+     "text": "Gnomonkey says he is the Fortis Colosseum world record holder; the final kill shows a best time of 26:22 (global best 26:22)."
     },
     {
-      "name": "Sol Heredit",
-      "kind": "boss",
-      "claims": [
-        {"t": 0, "kind": "stat", "text": "Sol Heredit, the Colosseum final boss, has 800 ranged and mage defence and his only weakness is slash."},
-        {"t": 1799, "kind": "event", "text": "Gnomonkey describes Sol Heredit as a very intense fight with mechanics never seen in a boss fight before."},
-        {"t": 1829, "kind": "mechanic", "text": "Sol Heredit has multiple patterns of shockwaves that change based on his last attack, so the player must plan the next movement before seeing the attack."},
-        {"t": 1829, "kind": "mechanic", "text": "Sol Heredit has a parry attack where he charges with an orange glow and then attacks three times in a row; the player must switch protect from melee with perfect timing as the attacks come out."},
-        {"t": 1829, "kind": "mechanic", "text": "Sol Heredit has a grapple attack where he shouts a body part in the chat box, and the player must click the matching gear piece in the equipment tab to guard against it."},
-        {"t": 1829, "kind": "mechanic", "text": "The floor hazards that matter most in the Sol Heredit fight are the lasers, which hit for over 70."},
-        {"t": 1799, "kind": "tip", "text": "Gnomonkey's boss-fight plan was to run in and claw spec, then immediately start meleeing, killing the extra Fremennik first, and to pre-move backwards from Sol's middle as soon as he does an animation before stepping to the side."},
-        {"t": 1799, "kind": "tip", "text": "Gnomonkey kept the chat box open and turned off the thrall helper for the Sol Heredit fight."},
-        {"t": 0, "kind": "trivia", "text": "Gnomonkey says he got the world's first Monster Examine on the Sol Heredit boss."},
-        {"t": 2091, "kind": "event", "text": "Gnomonkey finished the world record kill with 60 health, no prayer left, and just enough super combat to brew a super combat."}
-      ]
+     "t": 29,
+     "kind": "stat",
+     "text": "Gnomonkey says all targets in the Colosseum have equal melee style defences."
     },
     {
-      "name": "Colosseum invocations",
-      "kind": "mechanic",
-      "claims": [
-        {"t": 29, "kind": "opinion", "text": "Gnomonkey says there is a lot of RNG in the Colosseum invocation system, good runs are not guaranteed, and resets are likely."},
-        {"t": 29, "kind": "tip", "text": "Gnomonkey always prioritises taking a new invocation over upgrading an existing one, because the game throws tier 2 or 3 upgrades at you more often than new non-terrible invocations."},
-        {"t": 29, "kind": "tip", "text": "Which wave you are on changes what a good or bad invocation choice is."},
-        {"t": 882, "kind": "stat", "text": "In the stream, Gnomonkey estimated he resets about one in three runs on wave two and perhaps another one in three before wave four, and guessed about 33 out of 100 runs reach the end with perfect play (an estimate he was unsure about)."},
-        {"t": 1002, "kind": "opinion", "text": "Blasphemy is the only sensible choice at the start of a run because the other two options are awful, but being forced to keep taking Blasphemy can leave you without enough prayer very easily."},
-        {"t": 1002, "kind": "opinion", "text": "Gnomonkey says some invocations make the boss nearly impossible, which is a reason runs get reset."},
-        {"t": 1766, "kind": "tip", "text": "Gnomonkey says the Totemic invocation spawns only one totem for the boss, and the community was unsure whether it heals the boss; a viewer claimed it does."},
-        {"t": 0, "kind": "opinion", "text": "Gnomonkey's video description says the invocation system has to be overhauled or Colosseum will die out, and that over 80% of invocations make you lose a run automatically or cause reset spam as it stands."}
-      ]
+     "t": 0,
+     "kind": "stat",
+     "text": "The Colosseum's last boss, Sol Heredit, has 800 ranged and mage defence and his only weakness is slash, so Gnomonkey says Scythe of Vitur is a must."
     },
     {
-      "name": "Spawn manipulation",
-      "kind": "mechanic",
-      "claims": [
-        {"t": 29, "kind": "tip", "text": "Gnomonkey used B5's spawn tile in the Colosseum to manipulate monster spawns into being easier to deal with."},
-        {"t": 63, "kind": "mechanic", "text": "In the Colosseum, if the player is too close to a spawn point, mobs will not spawn there; a red radius shows the area around the character where spawns are blocked, and grey tiles are spawn points."},
-        {"t": 63, "kind": "tip", "text": "Gnomonkey says B5's tile blocks the majority of spawns and allows rotation to the closed pillar, giving much easier spawns to deal with."},
-        {"t": 0, "kind": "event", "text": "Gnomonkey credits charts made by his mods Chilled and Hedron and a screenshot by B5 showing wave placements for helping him get the Colosseum kill."}
-      ]
+     "t": 0,
+     "kind": "method",
+     "text": "Gnomonkey's Colosseum strategy was max melee with claws to burst Sol down as fast as possible."
     },
     {
-      "name": "Scythe of vitur",
-      "kind": "item",
-      "claims": [
-        {"t": 0, "kind": "opinion", "text": "Gnomonkey says Scythe of vitur is a must for the Colosseum because the final boss is only weak to slash."},
-        {"t": 0, "kind": "stat", "text": "Gnomonkey says that even using a Salad blade instead of the Scythe is a 30% DPS loss in the Colosseum."},
-        {"t": 0, "kind": "method", "text": "Gnomonkey melee camped the Colosseum with Scythe and took claws to spec mobs down faster."}
-      ]
+     "t": 0,
+     "kind": "method",
+     "text": "For the Colosseum, Gnomonkey used a 4-way Shadow to one-shot the melee Fremennik every time, and Webweaver bow to 2-shot the mage."
     },
     {
-      "name": "Thralls",
-      "kind": "mechanic",
-      "claims": [
-        {"t": 29, "kind": "method", "text": "Gnomonkey used thralls in the Colosseum and pulled soul runes from his Shadow for Death Charge to keep SGS specs going."},
-        {"t": 0, "kind": "opinion", "text": "Gnomonkey says that after he switched to thralls in the Colosseum, the waves became easy, and that thralls provide so much DPS that Ancients is not the play."},
-        {"t": 0, "kind": "opinion", "text": "Gnomonkey says everything in the Colosseum has high magic defence, and SGS plus Bloodfury gives him the same sustain as camping Death Charge."}
-      ]
+     "t": 0,
+     "kind": "tip",
+     "text": "In the Colosseum, Gnomonkey tried to SGS spec the ranger whenever possible because the spec always counts as a max hit."
     },
     {
-      "name": "Inferno",
-      "kind": "activity",
-      "claims": [
-        {"t": 393, "kind": "opinion", "text": "Gnomonkey says the Inferno feels impossible and all RNG the first time, but once you get into it you realise every single wave can be solved and everything has a solution."},
-        {"t": 483, "kind": "opinion", "text": "Gnomonkey compares the Colosseum invocation RNG to being given a sudoku with no solution without being told beforehand, contrasting it with the Inferno where every wave is solvable."},
-        {"t": 514, "kind": "opinion", "text": "Gnomonkey notes the Colosseum lacks the Inferno's chip damage through prayer."}
-      ]
+     "t": 0,
+     "kind": "tip",
+     "text": "Gnomonkey brought a mace in the Colosseum to kill smaller targets and for its prayer bonus."
     },
     {
-      "name": "Tombs of Amascut",
-      "kind": "raid",
-      "claims": [
-        {"t": 84, "kind": "opinion", "text": "In stream chat, Gnomonkey says Tombs of Amascut is way harder than the Inferno, probably close to 400 invocation level in difficulty, and that he is not sure anything in the game comes close to that."},
-        {"t": 84, "kind": "opinion", "text": "Gnomonkey describes the Colosseum final boss fight as the Inferno mixed with Tombs of Amascut."}
-      ]
+     "t": 29,
+     "kind": "method",
+     "text": "Gnomonkey used thralls and pulled soul runes from his Shadow for Death Charge to continually keep SGS specs up in the Colosseum."
     },
     {
-      "name": "Opinion: Colosseum invocation overhaul",
-      "kind": "opinion",
-      "claims": [
-        {"t": 0, "kind": "opinion", "text": "Gnomonkey says the invocation system has to be overhauled or the Colosseum is going to die out, and that it cannot be left in its current state."},
-        {"t": 0, "kind": "opinion", "text": "Gnomonkey thinks the Colosseum could be one of the greatest pieces of content Jagex has released if they maintain it and fix the invocation issues."},
-        {"t": 0, "kind": "stat", "text": "Gnomonkey states that over 80% of Colosseum invocations make you lose a run automatically or cause reset spam."},
-        {"t": 121, "kind": "opinion", "text": "Gnomonkey says he enjoys the Colosseum's waves and boss, and that the frustrating part is having to start again because of bad invocations."},
-        {"t": 270, "kind": "opinion", "text": "Gnomonkey says he did not say he wanted more difficult content; he would prefer not having RNG checks every wave, which he calls ideal."}
-      ]
+     "t": 84,
+     "kind": "opinion",
+     "text": "In stream chat discussion, Gnomonkey says the Colosseum feels harder than it looks because there is no wave 50-style ramp up, and describes the last boss fight as Inferno mixed with Tombs of Amascut."
+    },
+    {
+     "t": 514,
+     "kind": "opinion",
+     "text": "Gnomonkey likes that the Colosseum feels like being plopped in at around wave 50: it is fast paced, short and unique, though without the chip damage through prayer that the Inferno has."
+    },
+    {
+     "t": 540,
+     "kind": "tip",
+     "text": "Monster spawns in the Colosseum are random; Gnomonkey manipulates them to force spawns into the middle, away from him."
+    },
+    {
+     "t": 540,
+     "kind": "opinion",
+     "text": "Gnomonkey says that if Jagex patches out spawn manipulation, the invocations will need to be balanced."
     }
-  ]
+   ]
+  },
+  {
+   "name": "Sol Heredit",
+   "kind": "boss",
+   "claims": [
+    {
+     "t": 0,
+     "kind": "stat",
+     "text": "Sol Heredit, the Colosseum final boss, has 800 ranged and mage defence and his only weakness is slash."
+    },
+    {
+     "t": 1799,
+     "kind": "event",
+     "text": "Gnomonkey describes Sol Heredit as a very intense fight with mechanics never seen in a boss fight before."
+    },
+    {
+     "t": 1829,
+     "kind": "method",
+     "text": "Sol Heredit has multiple patterns of shockwaves that change based on his last attack, so the player must plan the next movement before seeing the attack."
+    },
+    {
+     "t": 1829,
+     "kind": "method",
+     "text": "Sol Heredit has a parry attack where he charges with an orange glow and then attacks three times in a row; the player must switch protect from melee with perfect timing as the attacks come out."
+    },
+    {
+     "t": 1829,
+     "kind": "method",
+     "text": "Sol Heredit has a grapple attack where he shouts a body part in the chat box, and the player must click the matching gear piece in the equipment tab to guard against it."
+    },
+    {
+     "t": 1829,
+     "kind": "method",
+     "text": "The floor hazards that matter most in the Sol Heredit fight are the lasers, which hit for over 70."
+    },
+    {
+     "t": 1799,
+     "kind": "tip",
+     "text": "Gnomonkey's boss-fight plan was to run in and claw spec, then immediately start meleeing, killing the extra Fremennik first, and to pre-move backwards from Sol's middle as soon as he does an animation before stepping to the side."
+    },
+    {
+     "t": 1799,
+     "kind": "tip",
+     "text": "Gnomonkey kept the chat box open and turned off the thrall helper for the Sol Heredit fight."
+    },
+    {
+     "t": 0,
+     "kind": "trivia",
+     "text": "Gnomonkey says he got the world's first Monster Examine on the Sol Heredit boss."
+    },
+    {
+     "t": 2091,
+     "kind": "event",
+     "text": "Gnomonkey finished the world record kill with 60 health, no prayer left, and just enough super combat to brew a super combat."
+    }
+   ]
+  },
+  {
+   "name": "Colosseum invocations",
+   "kind": "mechanic",
+   "claims": [
+    {
+     "t": 29,
+     "kind": "opinion",
+     "text": "Gnomonkey says there is a lot of RNG in the Colosseum invocation system, good runs are not guaranteed, and resets are likely."
+    },
+    {
+     "t": 29,
+     "kind": "tip",
+     "text": "Gnomonkey always prioritises taking a new invocation over upgrading an existing one, because the game throws tier 2 or 3 upgrades at you more often than new non-terrible invocations."
+    },
+    {
+     "t": 29,
+     "kind": "tip",
+     "text": "Which wave you are on changes what a good or bad invocation choice is."
+    },
+    {
+     "t": 882,
+     "kind": "stat",
+     "text": "In the stream, Gnomonkey estimated he resets about one in three runs on wave two and perhaps another one in three before wave four, and guessed about 33 out of 100 runs reach the end with perfect play (an estimate he was unsure about)."
+    },
+    {
+     "t": 1002,
+     "kind": "opinion",
+     "text": "Blasphemy is the only sensible choice at the start of a run because the other two options are awful, but being forced to keep taking Blasphemy can leave you without enough prayer very easily."
+    },
+    {
+     "t": 1002,
+     "kind": "opinion",
+     "text": "Gnomonkey says some invocations make the boss nearly impossible, which is a reason runs get reset."
+    },
+    {
+     "t": 1766,
+     "kind": "tip",
+     "text": "Gnomonkey says the Totemic invocation spawns only one totem for the boss, and the community was unsure whether it heals the boss; a viewer claimed it does."
+    },
+    {
+     "t": 0,
+     "kind": "opinion",
+     "text": "Gnomonkey's video description says the invocation system has to be overhauled or Colosseum will die out, and that over 80% of invocations make you lose a run automatically or cause reset spam as it stands."
+    }
+   ]
+  },
+  {
+   "name": "Spawn manipulation",
+   "kind": "mechanic",
+   "claims": [
+    {
+     "t": 29,
+     "kind": "tip",
+     "text": "Gnomonkey used B5's spawn tile in the Colosseum to manipulate monster spawns into being easier to deal with."
+    },
+    {
+     "t": 63,
+     "kind": "method",
+     "text": "In the Colosseum, if the player is too close to a spawn point, mobs will not spawn there; a red radius shows the area around the character where spawns are blocked, and grey tiles are spawn points."
+    },
+    {
+     "t": 63,
+     "kind": "tip",
+     "text": "Gnomonkey says B5's tile blocks the majority of spawns and allows rotation to the closed pillar, giving much easier spawns to deal with."
+    },
+    {
+     "t": 0,
+     "kind": "event",
+     "text": "Gnomonkey credits charts made by his mods Chilled and Hedron and a screenshot by B5 showing wave placements for helping him get the Colosseum kill."
+    }
+   ]
+  },
+  {
+   "name": "Scythe of vitur",
+   "kind": "item",
+   "claims": [
+    {
+     "t": 0,
+     "kind": "opinion",
+     "text": "Gnomonkey says Scythe of vitur is a must for the Colosseum because the final boss is only weak to slash."
+    },
+    {
+     "t": 0,
+     "kind": "stat",
+     "text": "Gnomonkey says that even using a Salad blade instead of the Scythe is a 30% DPS loss in the Colosseum."
+    },
+    {
+     "t": 0,
+     "kind": "method",
+     "text": "Gnomonkey melee camped the Colosseum with Scythe and took claws to spec mobs down faster."
+    }
+   ]
+  },
+  {
+   "name": "Thralls",
+   "kind": "mechanic",
+   "claims": [
+    {
+     "t": 29,
+     "kind": "method",
+     "text": "Gnomonkey used thralls in the Colosseum and pulled soul runes from his Shadow for Death Charge to keep SGS specs going."
+    },
+    {
+     "t": 0,
+     "kind": "opinion",
+     "text": "Gnomonkey says that after he switched to thralls in the Colosseum, the waves became easy, and that thralls provide so much DPS that Ancients is not the play."
+    },
+    {
+     "t": 0,
+     "kind": "opinion",
+     "text": "Gnomonkey says everything in the Colosseum has high magic defence, and SGS plus Bloodfury gives him the same sustain as camping Death Charge."
+    }
+   ]
+  },
+  {
+   "name": "Inferno",
+   "kind": "activity",
+   "claims": [
+    {
+     "t": 393,
+     "kind": "opinion",
+     "text": "Gnomonkey says the Inferno feels impossible and all RNG the first time, but once you get into it you realise every single wave can be solved and everything has a solution."
+    },
+    {
+     "t": 483,
+     "kind": "opinion",
+     "text": "Gnomonkey compares the Colosseum invocation RNG to being given a sudoku with no solution without being told beforehand, contrasting it with the Inferno where every wave is solvable."
+    },
+    {
+     "t": 514,
+     "kind": "opinion",
+     "text": "Gnomonkey notes the Colosseum lacks the Inferno's chip damage through prayer."
+    }
+   ]
+  },
+  {
+   "name": "Tombs of Amascut",
+   "kind": "raid",
+   "claims": [
+    {
+     "t": 84,
+     "kind": "opinion",
+     "text": "In stream chat, Gnomonkey says Tombs of Amascut is way harder than the Inferno, probably close to 400 invocation level in difficulty, and that he is not sure anything in the game comes close to that."
+    },
+    {
+     "t": 84,
+     "kind": "opinion",
+     "text": "Gnomonkey describes the Colosseum final boss fight as the Inferno mixed with Tombs of Amascut."
+    }
+   ]
+  },
+  {
+   "name": "Opinion: Colosseum invocation overhaul",
+   "kind": "opinion",
+   "claims": [
+    {
+     "t": 0,
+     "kind": "opinion",
+     "text": "Gnomonkey says the invocation system has to be overhauled or the Colosseum is going to die out, and that it cannot be left in its current state."
+    },
+    {
+     "t": 0,
+     "kind": "opinion",
+     "text": "Gnomonkey thinks the Colosseum could be one of the greatest pieces of content Jagex has released if they maintain it and fix the invocation issues."
+    },
+    {
+     "t": 0,
+     "kind": "stat",
+     "text": "Gnomonkey states that over 80% of Colosseum invocations make you lose a run automatically or cause reset spam."
+    },
+    {
+     "t": 121,
+     "kind": "opinion",
+     "text": "Gnomonkey says he enjoys the Colosseum's waves and boss, and that the frustrating part is having to start again because of bad invocations."
+    },
+    {
+     "t": 270,
+     "kind": "opinion",
+     "text": "Gnomonkey says he did not say he wanted more difficult content; he would prefer not having RNG checks every wave, which he calls ideal."
+    }
+   ]
+  }
+ ]
 }

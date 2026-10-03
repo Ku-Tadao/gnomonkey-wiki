@@ -1,0 +1,115 @@
+{
+  "id": "Z5ZONYTlS1w",
+  "title": "Guide to PVM: Plugins (OSRS)",
+  "date": "2024-02-25",
+  "type": "guide",
+  "summary": "Gnomonkey walks through the RuneLite plugins and settings he uses every day for PvM: general plugins first, then the dedicated plugins and markers for Chambers of Xeric, Theatre of Blood, Tombs of Amascut and the Inferno. He says plugins fill the quality-of-life gap Jagex cannot, and that anyone doing PvM without RuneLite is shooting themselves in the foot.",
+  "outline": [
+    {"t": 0, "text": "Introduction: why use RuneLite for PvM and how to download it safely"},
+    {"t": 69, "text": "RuneLite sections: default plugin settings, profiles and the plugin hub"},
+    {"t": 123, "text": "General PvM plugins: monster HP, radius markers, menu entry swapper, tile indicators, NPC indicators, XP drops"},
+    {"t": 239, "text": "Dynamic tags, entity hider, metronomes, anti-drag, boost information, key remapping"},
+    {"t": 356, "text": "Thrall helper, ping grapher, tick tracker, custom menu swaps, charge calculator"},
+    {"t": 518, "text": "Chambers of Xeric plugins and settings"},
+    {"t": 634, "text": "Theatre of Blood plugins by room"},
+    {"t": 798, "text": "Tombs of Amascut plugins and room markers"},
+    {"t": 949, "text": "Inferno plugins and conclusion"}
+  ],
+  "topics": [
+    {
+      "name": "RuneLite",
+      "kind": "other",
+      "claims": [
+        {"t": 0, "kind": "opinion", "text": "Gnomonkey says RuneLite is more widely used than the vanilla client, runs better, and has plugins that dramatically improve the playing experience, and that anyone doing PvM without it is shooting themselves in the foot."},
+        {"t": 30, "kind": "tip", "text": "Gnomonkey warns that it is very common to get scammed or phished by downloading the wrong RuneLite client; the real one is at RuneLite.net or linked from the official OSRS page's left-hand column."},
+        {"t": 62, "kind": "trivia", "text": "According to Gnomonkey, the only third-party clients allowed by Jagex are RuneLite and HDOS."},
+        {"t": 62, "kind": "method", "text": "RuneLite's wrench button has three main sections: default plugin settings (everything bundled with RuneLite), profiles (saving different whole-client configurations) and the plugin hub."},
+        {"t": 88, "kind": "tip", "text": "Gnomonkey says plugins should only be acquired from the plugin hub inside RuneLite, never from download links outside that menu."},
+        {"t": 88, "kind": "opinion", "text": "Gnomonkey says Menu Entry Swapper and Custom Menu Swaps improve how the game plays so substantially that he would not want to play without them."},
+        {"t": 0, "kind": "opinion", "text": "In the video description Gnomonkey says plugins bridge the quality-of-life gap Jagex cannot currently provide, and that being able to use RuneLite and plugins was one of the main reasons he came over from RS3."},
+        {"t": 0, "kind": "trivia", "text": "The description says Gnomonkey cannot export his RuneLite settings, which is why he made the video, and that some of his tile markers are on a pastebin while others (like radius markers) must be found via commands in his Twitch chat."}
+      ]
+    },
+    {
+      "name": "RuneLite plugins for PvM",
+      "kind": "other",
+      "claims": [
+        {"t": 120, "kind": "tip", "text": "The Monster Menu HP plugin shows the health of a group of enemies when right-clicking them, which Gnomonkey finds very useful for area attacks such as barrage or chinchompas."},
+        {"t": 120, "kind": "tip", "text": "The Monster HP Percentage plugin shows the percent HP left at the centre of a boss, useful for bosses with phase changes at health thresholds such as Baba, Akkha, Zebak, Wardens, Nex, Duke Sucellus and Vardorvis."},
+        {"t": 152, "kind": "tip", "text": "Radius Markers is one of the most versatile plugins and can draw a box around an NPC at a customisable size, for example Nex's aggression radius, the explosion radius for Nylocas or volatile baboons, or Akkha's combat style changes."},
+        {"t": 152, "kind": "tip", "text": "Menu Entry Swapper can swap menu order in many locations and allows shift-click on bank withdraw and deposit."},
+        {"t": 181, "kind": "tip", "text": "The Tile Indicators plugin's true tile option shows where the character is server-side, which helps with careful pathing around hazards like Sotetseg's maze or Zebak's poison and waves."},
+        {"t": 181, "kind": "tip", "text": "NPC Indicators lets you tag NPCs by holding shift and right-clicking them; Gnomonkey personally uses the Highlight True Tile and Highlight Southwest True Tile options."},
+        {"t": 208, "kind": "tip", "text": "Customizable XP Drops has a predicted hit feature that tells you what you hit based on the XP drop; it can be wrong for targets with unique XP multipliers, which can be customised, and for Leagues Gnomonkey inputs 16 times."},
+        {"t": 208, "kind": "tip", "text": "Dynamic Tags highlights a gear piece in your inventory when you are wearing a weapon of a different style, showing a missed switch; Gnomonkey uses a four second delay so inventory does not flash on every equip."},
+        {"t": 239, "kind": "tip", "text": "With Dynamic Tags, hold shift and right-click an item to choose the style it belongs to under Gear Alert; non-charged stabs count as melee weapons until autocast is enabled."},
+        {"t": 239, "kind": "tip", "text": "Entity Hider can hide dead targets and thralls; hiding NPC corpses prevents misclicks, and hiding thralls stops them from obscuring ground hazards."},
+        {"t": 272, "kind": "tip", "text": "The Visual Metronome plugin tracks server ticks and can paint a tick counter over your character or true tile, or as a UI square, counting to a custom number (Gnomonkey uses four for the raid counter) and resettable by hotkey; it is very good for timing bosses like Scythe Xarpus, P2 and P3 Verzik in Theatre of Blood."},
+        {"t": 300, "kind": "tip", "text": "The Audio Metronome plays an audio cue every tick; Gnomonkey does not use it but says it is useful for things like the Inferno."},
+        {"t": 300, "kind": "tip", "text": "Anti-drag prevents dragging inventory items for a set time, helping fast gear switching; Gnomonkey says most people use somewhere between 8 and 15, and you need to experiment."},
+        {"t": 330, "kind": "tip", "text": "Boost Information shows current potion boosts in an overlay; Gnomonkey uses compact mode, found in RuneLite's base settings, tucked against his inventory."},
+        {"t": 330, "kind": "method", "text": "Gnomonkey uses Key Remapping to bind the number row (1 inventory, 2 prayer, 3 spells, 4 gear, 5 combat style) instead of the F keys, so his fingers stay near shift and control."},
+        {"t": 356, "kind": "tip", "text": "Thrall Helper reminds you when to resummon a thrall, and Death Charge Reminder does the same for Death Charge, which only matters with master combat achievements or better for longer thrall duration."},
+        {"t": 386, "kind": "tip", "text": "Companion Pet turns your thrall into any pet and can be combined with Entity Hider to render the thrall visually without it hiding things beneath it."},
+        {"t": 386, "kind": "tip", "text": "Ping Grapher shows server stability and can post a chat message on a very bad tick; Tick Tracker shows the percentage of ticks near 600 ms, and you can never reach 100% because running over loading lines counts as a lost tick."},
+        {"t": 414, "kind": "opinion", "text": "Gnomonkey calls Custom Menu Swaps one of, if not the, most useful plugins in the game because it can reorder entries in any menu."},
+        {"t": 414, "kind": "method", "text": "Examples of Custom Menu Swaps given are making Akkha's shadow the priority left click when butterflying, and making Nex's ice prison stalagmite attack take priority over the other option."},
+        {"t": 446, "kind": "tip", "text": "In Custom Menu Swaps the plugin lists the bottom-most entered entry at the top, and an asterisk works as a wildcard, for example ending Xeric's aid with an asterisk to cover all doses."},
+        {"t": 479, "kind": "method", "text": "Gnomonkey uses shift-click to swap his quick prayers and sets hotkeys for banking, such as separate withdraw and eat/potion hotkeys, to gear quickly within the bank interface."},
+        {"t": 479, "kind": "tip", "text": "Charge Calculator lets you recharge a staff with a custom number of charges via a chat prompt button, useful for pulling extra runes out of staves for things like spellbook swap and Death Charge."}
+      ]
+    },
+    {
+      "name": "Chambers of Xeric",
+      "kind": "raid",
+      "claims": [
+        {"t": 518, "kind": "tip", "text": "Most Chambers of Xeric helpers are bundled under the CoX Editions plugin, with a few others such as Crab Solver and Stun Timer used separately."},
+        {"t": 518, "kind": "tip", "text": "The CoX instance timer setting lets you enter the raid on the tick the raid counter starts; Gnomonkey says entering on zero is what allows him to pull Tekton to the anvil instantly, and left-click Cc is huge for resetting."},
+        {"t": 538, "kind": "tip", "text": "Crab Solver shows icons for the style needed to paint the crabs in the crystal room and a tick timer showing how long they remain still after being smashed."},
+        {"t": 538, "kind": "tip", "text": "The CoX Vanguards plugin highlights each vanguard's style and shows how much damage each can take before resetting, adding an asterisk to the HP of the vanguard in the kill threshold; when all three are at threshold the HP overlay disappears and they can all be killed."},
+        {"t": 570, "kind": "tip", "text": "Bat Locator helps find the bats in the thieving room by opening chests and deducing the location, and it marks the poison chest green."},
+        {"t": 570, "kind": "tip", "text": "At Vespula the prayer enhance timer shows when Prayer Enhance will give a prayer point; Gnomonkey detaches it from the boost information panel (shift right-click, Detach) and keeps it next to his quick prayers."},
+        {"t": 602, "kind": "tip", "text": "At Olm, CoX Editions can highlight where Olm will pop up at the start of the room, show current HP over his limbs, and has an Olm phase panel showing whether he is in the crystal, flame or acid phase; Gnomonkey does not replace Olm orbs with other projectiles."}
+      ]
+    },
+    {
+      "name": "Theatre of Blood",
+      "kind": "raid",
+      "claims": [
+        {"t": 634, "kind": "tip", "text": "The TobQOL plugin covers almost everything Gnomonkey uses in Theatre of Blood, including rebinding left click on loot and supply chests to bank all and supply chest by one."},
+        {"t": 634, "kind": "tip", "text": "TobQOL's loot reminder, salve reminder and spellbook reminder warn you about missing items or unclaimed loot before entering, which stops you holding your team up."},
+        {"t": 634, "kind": "method", "text": "At Maiden, Gnomonkey shows crab health as a percent, puts true tile on the crabs, marks wave spawn locations to hover the mouse where he needs to freeze them, and marks the tbow line to know where full-delay tbow shots can be used."},
+        {"t": 667, "kind": "method", "text": "At Bloat, Gnomonkey hides the ceiling chains and can replace the floor with a skybox using the ground object hider to make shadows more obvious; the setup is available via a Twitch chat command."},
+        {"t": 698, "kind": "tip", "text": "At Nylocas, TobQOL can show pillar HP, hide pillars, recolour menu options, and show the instance timer to enter faster; Gnomonkey also uses Nylo Death Indicators, which syncs with party members and hides a nylo's corpse the instant lethal damage is on its way."},
+        {"t": 698, "kind": "tip", "text": "The Nylor plugin shows which wave a Nylocas spawned on so you can prioritise fresher ones, and adds an interface button to swap your role and left-click priority for that role."},
+        {"t": 731, "kind": "method", "text": "At Sotetseg, Gnomonkey uses TobQOL to change attack projectiles to Inferno blob projectiles, hide the white screen in the maze and rocks in the underworld, and sets a custom sound for the death ball alarm."},
+        {"t": 731, "kind": "method", "text": "At Xarpus, Gnomonkey uses TobQOL's screech warning and instance timer to enter faster, with ground markers on important screech tiles."},
+        {"t": 759, "kind": "method", "text": "At Verzik, Gnomonkey uses TobQOL for health percentage on red crabs and marking tornadoes in P3, and radius markers for the nylo explosion area; you touch your true tile against the side and move at least three tiles away to avoid full damage."},
+        {"t": 786, "kind": "tip", "text": "For Verzik P3 one-tick tanking, Gnomonkey says to set the Visual Metronome to 7 ticks and click under Verzik on every 7th tick."}
+      ]
+    },
+    {
+      "name": "Tombs of Amascut",
+      "kind": "raid",
+      "claims": [
+        {"t": 798, "kind": "tip", "text": "The Tombs of Amascut plugin gives indicators for forgetting a pickaxe (and can prevent exiting the raid if you still have it), shows when and where to mine and place mirrors in the mirror puzzle, and solves all puzzles before Kephri."},
+        {"t": 820, "kind": "tip", "text": "The Tombs of Amascut plugin's Het/Ba-Ba wave helper shows a side panel of which baboon waves spawn on which wave, which helps with learning; Gnomonkey highlights true tiles on all monkeys, especially cursed and volatile baboons."},
+        {"t": 842, "kind": "tip", "text": "Gnomonkey sets shift click on potions to 'use' so he can use them on other players, and uses Monster Menu HP to choose which baboon to chin, targeting those with higher HP."},
+        {"t": 842, "kind": "method", "text": "At Ba-Ba, Gnomonkey adds her HP with monster HP percentage, with phase thresholds at 66% and 33% of her HP, and outlines the cracked boulder (ID 11783) for a clear outline."},
+        {"t": 875, "kind": "method", "text": "At Zebak, Gnomonkey uses monster HP percentage because his specials come roughly every 15%, true tiles on waves, jugs and blood spawns, and ground markers on the sides to show safe areas from opposite spawn bloods."},
+        {"t": 906, "kind": "method", "text": "At Akkha, Gnomonkey radius-marks him with colour coding for all three styles so he knows the instant Akkha swaps, marks Akkha's true tile to butterfly him, and uses true tile on the orbs; the full setup is available through the !akkhatech command in his Twitch chat."},
+        {"t": 937, "kind": "tip", "text": "For the Wardens, Gnomonkey does not use anything specific but strongly recommends hiding thralls because they hide important ground indicators in all phases."}
+      ]
+    },
+    {
+      "name": "Inferno",
+      "kind": "activity",
+      "claims": [
+        {"t": 949, "kind": "tip", "text": "A recently added Tzhaar HP Tracker plugin can show the HP of all pillars and the monsters inside them, and warn about the wrong spellbook before you enter the Inferno."},
+        {"t": 949, "kind": "tip", "text": "Gnomonkey says tile indicators on all Inferno mobs are really important so you can play Tetris with them behind pillars and tell exactly how they are oriented."},
+        {"t": 968, "kind": "tip", "text": "The Inferno Stats plugin can show the current wave and next wave, along with the mobs included if desired."},
+        {"t": 968, "kind": "trivia", "text": "Gnomonkey says most of his Inferno ground markers are positional indicators for speedruns rather than casual runs."}
+      ]
+    }
+  ]
+}

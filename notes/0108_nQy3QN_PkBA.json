@@ -1,0 +1,124 @@
+{
+  "id": "nQy3QN_PkBA",
+  "title": "Inferno Venator Bow Sub 44 (OSRS)",
+  "date": "2023-03-29",
+  "type": "speedrun",
+  "summary": "Gnomonkey shows an Inferno speedrun using the Venator bow that began badly but finished sub 44, beating his previous personal best of 46:07. The video is almost entirely live gameplay with sparse commentary; the description explains that the Venator bow replaces an Infernal cape switch and saves a lot of time but is hard to use.",
+  "outline": [
+    {
+      "t": 0,
+      "text": "Starting the run, flying into the Inferno"
+    },
+    {
+      "t": 171,
+      "text": "Dealing with frustration; the run is at 2:26 on the clock early on and behind pace"
+    },
+    {
+      "t": 360,
+      "text": "Pacing and combat, a roughly 6:30 wave"
+    },
+    {
+      "t": 605,
+      "text": "Managing tough spawns"
+    },
+    {
+      "t": 852,
+      "text": "Technical gameplay with chins and Venator bow angles"
+    },
+    {
+      "t": 1107,
+      "text": "Turning the run around"
+    },
+    {
+      "t": 1375,
+      "text": "High-stakes combat"
+    },
+    {
+      "t": 1715,
+      "text": "Big plays and recovery"
+    },
+    {
+      "t": 1940,
+      "text": "Pacing and optimization"
+    },
+    {
+      "t": 2228,
+      "text": "Final push and finishing sub 44"
+    }
+  ],
+  "topics": [
+    {
+      "name": "Inferno",
+      "kind": "activity",
+      "claims": [
+        {
+          "t": 0,
+          "kind": "record",
+          "text": "Gnomonkey completed an Inferno speedrun in under 44 minutes with the Venator bow, even though the run started absolutely horribly."
+        },
+        {
+          "t": 0,
+          "kind": "record",
+          "text": "Gnomonkey's previous Inferno personal best before this run was 46:07."
+        },
+        {
+          "t": 0,
+          "kind": "event",
+          "text": "Gnomonkey says he was about a minute behind in the first three splits of this run, so it could have been a lot faster."
+        },
+        {
+          "t": 171,
+          "kind": "event",
+          "text": "Early in the run the clock read 2:26 and Gnomonkey noted it was not even from misplays."
+        },
+        {
+          "t": 2658,
+          "kind": "event",
+          "text": "At the end of the run Gnomonkey reacts with disbelief and asks if anybody saw the time, confirming the sub 44 finish."
+        }
+      ]
+    },
+    {
+      "name": "Venator bow",
+      "kind": "item",
+      "claims": [
+        {
+          "t": 0,
+          "kind": "method",
+          "text": "In his Inferno speedruns the Venator bow takes the place of an Infernal cape switch; Gnomonkey does not use a spec bar so he cannot currently use claws."
+        },
+        {
+          "t": 0,
+          "kind": "stat",
+          "text": "Gnomonkey calculates the Venator bow maxes 96 with the full 2 ricochets, and still maxes 69 with only 1 ricochet, which is higher than two Toxic blowpipe shots with higher accuracy."
+        },
+        {
+          "t": 0,
+          "kind": "opinion",
+          "text": "Gnomonkey says the Venator bow saves a lot of time in the Inferno but is hard to use, and says it truly saved the day in this run."
+        },
+        {
+          "t": 704,
+          "kind": "tip",
+          "text": "Gnomonkey notes you kind of just have to guess with the Venator bow, since you cannot tell where the ricochet hit from the XP drop."
+        }
+      ]
+    },
+    {
+      "name": "Gnomonkey",
+      "kind": "person",
+      "claims": [
+        {
+          "t": 0,
+          "kind": "event",
+          "text": "Gnomonkey streams Inferno speedruns like this one on his Twitch channel."
+        },
+        {
+          "t": 0,
+          "kind": "method",
+          "text": "Gnomonkey does not use a spec bar in his Inferno speedruns, which is why he currently cannot use claws and uses the Venator bow instead."
+        }
+      ]
+    }
+  ]
+}

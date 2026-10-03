@@ -1,0 +1,91 @@
+{
+ "id": "6Qmuhnpa0gc",
+ "title": "BOFA 4T BUTTERFLY TOA GUIDE (OSRS)",
+ "date": "2025-06-25",
+ "type": "guide",
+ "summary": "After the June 2025 Tombs of Amascut update made Akkha pray only the style he is attacking with, Gnomonkey teaches the four-tick butterfly method with the Bow of Faerdhinen at Akkha: the plugin setup, tile pattern, the shadow handling and a DPS skip, shown in a raid level 500. He also covers Atlatl, ZCB and other weapon options and warns never to use a twisted bow.",
+ "outline": [
+  {"t": 0, "text": "Update overview: Akkha now prays one style, butterfly with ranged"},
+  {"t": 124, "text": "Plugin setup for butterfly: tile packs, NPC indicators, radius markers"},
+  {"t": 272, "text": "The butterfly method workflow and attack tiles"},
+  {"t": 375, "text": "Akkha fight breakdown: shadows and Simon Says"},
+  {"t": 601, "text": "Advanced mechanics and DPS skip"},
+  {"t": 716, "text": "Raid demonstration, keep back and chip damage"},
+  {"t": 857, "text": "Weapon options: Atlatl, new three-tick mage weapon"},
+  {"t": 1030, "text": "ZCB butterfly, why not to use twisted bow, closing"}
+ ],
+ "topics": [
+  {
+   "name": "Akkha",
+   "kind": "boss",
+   "claims": [
+    {"t": 0, "kind": "event", "text": "After the Tombs of Amascut changes update, Akkha prays only the style he is attacking with (melee when he is meleeing), so players can range butterfly him, which Gnomonkey says is dramatically better than maging."},
+    {"t": 1, "kind": "opinion", "text": "Gnomonkey says mage has always been the worst style at Akkha, that Trident is really weak compared to Bofa, and Bofa's advantage grows with raid level (description: Trident is 20% worse than Bofa, and 25% worse in a 500)."},
+    {"t": 61, "kind": "method", "text": "Reworked Stay Vigilant makes Akkha do his special (Simon Says) one attack earlier, every six attacks instead of seven, and if you butterfly perfectly without being hit he never changes style, so you can butterfly the whole kill."},
+    {"t": 88, "kind": "opinion", "text": "Gnomonkey says players without a shadow get raids about four minutes faster on average, and that Bofa is also a solid weapon on Akkha's shadows, whereas with a Trident you had to swap to a blowpipe for the shadow DPS check."},
+    {"t": 273, "kind": "method", "text": "Akkha has three attack tiles around the quadrants; you attack on a tile, run around the circle, and each 20% of Akkha's health dealt spawns a shadow that must be killed before moving Akkha to the next quadrant."},
+    {"t": 331, "kind": "method", "text": "Start of the butterfly cycle: stand on the attack tile and shoot Akkha; when his true tile is one tile away from you, immediately move regardless of whether you took a shot, click to the intermediate indicator tiles, and attack again on the next attack tile; repeat until he is below 80%, then do the shadow."},
+    {"t": 331, "kind": "tip", "text": "Gnomonkey notes the direction of the run changes between quadrants (counter-clockwise on one tile, clockwise on another), so double check you go the right way or you start taking melee hits."},
+    {"t": 376, "kind": "method", "text": "Akkha does Simon Says specials with a number of rounds based on raid level: four at raid level 0-1, five at 2-3, and six above that; with Feeling Special on it is much faster."},
+    {"t": 405, "kind": "tip", "text": "A timer runs whenever shadows are up and sends a damaging wave if it fills; it pauses while Akkha does Simon Says, so you can keep hitting the shadows during Simon Says. Make sure Akkha is not in a position to melee you because getting meleed lets him swap styles."},
+    {"t": 585, "kind": "tip", "text": "To DPS skip a shadow: go two tiles away from the attack tile and click to it as the shadow stabs the ground, jumping over the wave; Gnomonkey says at raid level 500 with Bofa you will almost never need it."},
+    {"t": 690, "kind": "stat", "text": "In his raid level 500 demonstration Akkha's melee hit Gnomonkey for 50 through prayer with keep back on, and Gnomonkey notes Akkha maxes 70."},
+    {"t": 690, "kind": "tip", "text": "Gnomonkey says the reduced chip damage means he previously took up to 16 through prayer from melees, but now you can mostly block them, so keep back is not as bad as it used to be."},
+    {"t": 840, "kind": "opinion", "text": "Gnomonkey says come phase has become dramatically easier with fewer orbs on screen, and Akkha overall is ten times easier for mid-level players and irons without a shadow."}
+   ]
+  },
+  {
+   "name": "Akkha butterfly setup",
+   "kind": "mechanic",
+   "claims": [
+    {"t": 124, "kind": "method", "text": "Gnomonkey marks tiles with the external plugin Tile Packs: search 'butterfly' and use the four-tick tiles, not the normal butterfly tiles."},
+    {"t": 148, "kind": "tip", "text": "Gnomonkey sets up colour-coded radius markers for Akkha's three attack styles (type !akkha color in his Twitch chat to see his), which doubles as a true tile indicator; otherwise add Akkha in NPC indicators and highlight true tile and the southwest true tile."},
+    {"t": 295, "kind": "tip", "text": "Add a custom menu swap that prioritises Akkha's shadow for left-click attack, since Akkha walks over the shadow and you do not want to click the invincible Akkha; the custom menu swap text is 'attack,akkha's shadow*' as in the description."},
+    {"t": 320, "kind": "tip", "text": "Enable shift-click walk under in menu entry swapper to walk under the shadow without clicking it, and add the Monster HP percentage plugin with Akkha's name to see his health over his body to know when to switch to the shadow."},
+    {"t": 1215, "kind": "tip", "text": "In the video's demonstration the Tombs of Amascut plugin also shows the shadows' HP so you can see whether you will beat the DPS check."},
+    {"t": 408, "kind": "tip", "text": "Gnomonkey brings a ranging potion and stamina in his demonstration; with salts you get unlimited run energy so stamina is unnecessary."}
+   ]
+  },
+  {
+   "name": "Bow of Faerdhinen",
+   "kind": "item",
+   "claims": [
+    {"t": 0, "kind": "opinion", "text": "Gnomonkey says Bofa is the main butterfly weapon at Akkha after the change, far better than the Trident of the swamp, with the gap growing at higher raid levels."},
+    {"t": 3, "kind": "opinion", "text": "The description says shadow is still best in slot at Akkha but you can now use Bofa, ZCB, Atlatl and other crossbows, and that 500 Toa is now very achievable with Bofa or budget gear."},
+    {"t": 959, "kind": "opinion", "text": "Gnomonkey says Bofa rather than Zaryte crossbow butterfly is good: ZCB butterfly works but its DPS is deceptive because each hit cannot cross the 80% quadrant threshold (a hit at 82% pulls him to exactly 80%), so it is lower DPS than calcs suggest."}
+   ]
+  },
+  {
+   "name": "Eclipse atlatl",
+   "kind": "item",
+   "claims": [
+    {"t": 857, "kind": "method", "text": "Gnomonkey says you can also butterfly Akkha with the Eclipse atlatl, which is three-tick but uses the same tiles as the four-tick method; he will make a separate guide."},
+    {"t": 857, "kind": "opinion", "text": "Gnomonkey says the Atlatl is about 10 to 15% worse than Bofa but extremely cheap, and calls Atlatl, Bofa or shadow the best options at Akkha now, any of which can do a 500."}
+   ]
+  },
+  {
+   "name": "Twisted bow",
+   "kind": "item",
+   "claims": [
+    {"t": 1049, "kind": "tip", "text": "Gnomonkey says to never butterfly Akkha with a twisted bow because Akkha's magic level is very low, calling it terrible and worse than a rune crossbow."},
+    {"t": 1079, "kind": "tip", "text": "If a player only owns a rune crossbow and a twisted bow, Gnomonkey says to bring the crossbow swap, as it is better than a twisted bow at Akkha; the description says explicitly do not use a tbow."}
+   ]
+  },
+  {
+   "name": "Upcoming three-tick mage weapon",
+   "kind": "item",
+   "claims": [
+    {"t": 897, "kind": "event", "text": "Gnomonkey says a new in-between mage weapon between Sanguinesti staff and Tumeken's shadow, a three-tick weapon, is coming from a boss release he calls 'Mocha' in about a month."},
+    {"t": 897, "kind": "opinion", "text": "Gnomonkey says the new weapon can be used to butterfly Akkha with the same method as the Atlatl and would be the best option until shadow, with a special attack that works on Akkha unlike most defence-training specs."}
+   ]
+  },
+  {
+   "name": "Update: Tombs of Amascut changes",
+   "kind": "update",
+   "claims": [
+    {"t": 0, "kind": "opinion", "text": "Gnomonkey says the Toa changes update that arrived in June 2025 made the raid dramatically easier with multiple rooms much easier, and calls the Akkha change the biggest."},
+    {"t": 3, "kind": "opinion", "text": "Gnomonkey says that so far the update is very solid and Toa does not feel like a slog, especially in lower tier gear, and that he will make a lot of updated guides."}
+   ]
+  }
+ ]
+}

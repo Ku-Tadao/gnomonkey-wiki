@@ -1,0 +1,112 @@
+{
+ "id": "JjIAGBBDmL8",
+ "title": "ToA Changes - Good or Bad? (OSRS)",
+ "date": "2025-06-22",
+ "type": "news-opinion",
+ "summary": "Gnomonkey explains the upcoming Tombs of Amascut changes from the Summer Sweep-up, going boss by boss (Ba-Ba, Akkha, Kephri, Zebak, Wardens, puzzles) and then the purple chance nerf at high raid levels. He argues that for over 90% of players the changes speed up raids with the same drop rates, defends the loot nerf as healthy for the game, and answers criticism from high-level raiders and others.",
+ "outline": [
+  {"t": 0, "text": "Introduction: Toa changes are an improvement for most players"},
+  {"t": 30, "text": "Ba-Ba changes: no chip damage through protect melee"},
+  {"t": 167, "text": "Akkha changes: prayer mitigation, Stay Vigilant rework, praying only the attacking style"},
+  {"t": 403, "text": "Kephri changes: scarab defence, arcane scarab, bone dagger"},
+  {"t": 554, "text": "Zebak changes"},
+  {"t": 600, "text": "Wardens skull bombs and puzzle changes"},
+  {"t": 706, "text": "Loot changes: Fang and Lightbearer volume, raid level scaling graph"},
+  {"t": 956, "text": "Who benefits: irons and mid-level players"},
+  {"t": 991, "text": "Response to complaints from high-level players"},
+  {"t": 1167, "text": "Raid length compared to Chambers and Theatre of Blood"},
+  {"t": 1220, "text": "Upcoming guides and outro"}
+ ],
+ "topics": [
+  {
+   "name": "Update: Tombs of Amascut changes",
+   "kind": "update",
+   "claims": [
+    {"t": 0, "kind": "opinion", "text": "Gnomonkey says that for probably over 90% of players the upcoming Toa changes (from the Summer Sweep-up) are a dramatic improvement, speeding up raids and giving even more loot."},
+    {"t": 600, "kind": "opinion", "text": "Gnomonkey says the changes remove about half of his roughly 200 tile markers for Toa flaws outside the raid, and address almost all his problems with the raid."},
+    {"t": 1164, "kind": "opinion", "text": "Gnomonkey says players should wait for the update rather than push Toa now, noting the update arrives in a few days and that he is waiting on his hardcore account since the changes lower risk."},
+    {"t": 1220, "kind": "event", "text": "Gnomonkey says he will make a suite of refresher guides after the update, including 300s with different gear setups, new 500 guides, and guides for other Summer Sweep-up changes such as Phantom Muspah elemental reworks and possibly Cerberus."}
+   ]
+  },
+  {
+   "name": "Ba-Ba",
+   "kind": "boss",
+   "claims": [
+    {"t": 30, "kind": "event", "text": "All chip damage is removed from protect melee at Ba-Ba, so he no longer hits you through prayer and the room should be damageless with no brews needed."},
+    {"t": 53, "kind": "event", "text": "Ba-Ba spawns fewer baboons, which die after one hit from any attack style (Gnomonkey assumes one monkey in solo, killed with one blowpipe shot), and they drop more bananas on death."},
+    {"t": 86, "kind": "event", "text": "Damage from the throne debris is now shifted onto anything you split the damage with, such as boulders and sarcophagi, so you no longer take that chip damage when next to them."},
+    {"t": 112, "kind": "trivia", "text": "Jagex's wording that they are not looking to make further tweaks to Ba-Ba and that Red X still has its place was confusing; Gnomonkey says it was confirmed on Reddit (via Goblin) that the Ba-Ba changes in the initial blog are kept as they were."},
+    {"t": 630, "kind": "opinion", "text": "Gnomonkey summarises Ba-Ba as a zero-brew room with no special tech required, no Red X and no five-to-one; you do the boss and he does not hit you."}
+   ]
+  },
+  {
+   "name": "Akkha",
+   "kind": "boss",
+   "claims": [
+    {"t": 176, "kind": "event", "text": "Protection prayers now mitigate more damage from Akkha, so he chips you less hard when you tank him."},
+    {"t": 176, "kind": "event", "text": "The Stay Vigilant invocation is reworked: Akkha swaps style whenever he uses a special attack, uses specials more often (mirroring the current number with the invocation), and swaps in a predictable order like the base overhead swaps."},
+    {"t": 205, "kind": "event", "text": "With the Stay Vigilant rework, Akkha only swaps styles if he has hit you with a regular attack before performing a special attack, so if you butterfly perfectly he never changes styles."},
+    {"t": 232, "kind": "event", "text": "Akkha now only prays against the style he is attacking with, so when he is meleeing you he prays melee and not melee enraged."},
+    {"t": 264, "kind": "opinion", "text": "Gnomonkey says this lets players butterfly Akkha with a Bow of Faerdhinen (or any three-, four- or five-tick weapon such as an Atlatl) for the entire kill, and Bofa beats maging the shadows, potentially speeding the room up about two times and making it a zero-damage, 100% consistent room."},
+    {"t": 357, "kind": "event", "text": "Akkha's stat drain now only affects combat skills, and special shot attacks occur every seven attacks rather than every six."},
+    {"t": 357, "kind": "event", "text": "The number of orbs in Akkha's come phase (enrage) is reduced."},
+    {"t": 386, "kind": "opinion", "text": "Gnomonkey says Akkha is by far the biggest time save for raids, especially for players without a shadow, who currently have a bad time with a Trident of the swamp."},
+    {"t": 1100, "kind": "opinion", "text": "Gnomonkey says he has long asked for perfect butterflying to reliably avoid style changes, since it was random whether Akkha let you butterfly even with zero mistakes, sometimes adding six minutes to a raid."}
+   ]
+  },
+  {
+   "name": "Kephri",
+   "kind": "boss",
+   "claims": [
+    {"t": 403, "kind": "event", "text": "The mage defence of the soldier scarab at Kephri is lowered, and scarabs no longer scale their defence with raid level, so spitting scarabs and others can be killed far faster with Osmumten's fang."},
+    {"t": 441, "kind": "event", "text": "The arcane scarab is now guaranteed to move after a certain number of attacks regardless of hit or miss, so three zero blowpipe hits will make it jump."},
+    {"t": 453, "kind": "event", "text": "Jagex said it will look into a bug where the bone dagger special attack is not guaranteed to hit Kephri on entry; Gnomonkey says it is only guaranteed during the get-up animation after the first scarab set."},
+    {"t": 482, "kind": "opinion", "text": "Gnomonkey says if the bone dagger fix lands it becomes better than a Bandos godsword at Kephri, since BGS is about 30% accurate there while bone dagger gives guaranteed defence reduction right off the bat."},
+    {"t": 509, "kind": "event", "text": "Jagex is trying to fix the scenario where Kephri uses dung twice in a row if you hit her into her final phase while she is using it, which could trap players."},
+    {"t": 520, "kind": "opinion", "text": "Gnomonkey says there is a through line in the changes that the raid is just much faster and more consistent, with less brew and supply use."}
+   ]
+  },
+  {
+   "name": "Zebak",
+   "kind": "boss",
+   "claims": [
+    {"t": 554, "kind": "event", "text": "Jagex did not go ahead with making Zebak's waves not push the player back but deal 30% more damage; in the follow-up blog they said they would investigate making the pushing smarter with pathfinding, and if that dead-ends, waves will deal reduced damage on subsequent hits instead."},
+    {"t": 569, "kind": "opinion", "text": "Gnomonkey says either option will make Zebak more consistent, noting the waves have a dragging hitbox with line-of-sight checks."}
+   ]
+  },
+  {
+   "name": "Wardens",
+   "kind": "boss",
+   "claims": [
+    {"t": 590, "kind": "event", "text": "Skull bombs during phase two can no longer land underneath the active Warden or the obelisk."},
+    {"t": 590, "kind": "opinion", "text": "Gnomonkey says phase two Warden skull bombs, which pull your prayer off and hit for about 50 in a cross pattern, were the one way he died on phase two when they barely clipped him from under the boss; this change makes it safer."},
+    {"t": 641, "kind": "event", "text": "Toa puzzles are tweaked to be a little easier, and two of the monkey room waves are removed."}
+   ]
+  },
+  {
+   "name": "Opinion: Toa loot nerf",
+   "kind": "opinion",
+   "claims": [
+    {"t": 706, "kind": "event", "text": "Jagex's stated goals for the Toa loot changes are to decrease the volume of Fangs and Lightbearers entering the game because they are considerably undervalued, and to decrease the overall volume of Toa uniques because the raid is too generous at the top end, warping the unique economy."},
+    {"t": 706, "kind": "stat", "text": "Gnomonkey notes Jagex's numbers that 12% of Toa completions are at raid level 400 to 449 but account for a quarter of all uniques, while raid level 500s are only about 7% of completions."},
+    {"t": 774, "kind": "stat", "text": "Under the new purple scaling, drop rates at raid level 300 and below are exactly the same as before; above 300 the rate is reduced, but the scaling is more gradual than the previous exponential curve."},
+    {"t": 807, "kind": "event", "text": "At higher raid levels, players' chances at purples other than Fang and Lightbearer increase proportionally the higher the raid level is above 300, so pushing raid level gives the best odds at a Tumeken's shadow."},
+    {"t": 895, "kind": "stat", "text": "Jagex's table shows raids per shadow at raid level 500 changing from 186 to 216, and at 400-449 from 283 to 351; Fang and Lightbearer rates (e.g. 138, 108, 82) stay the same at the lower raid levels."},
+    {"t": 826, "kind": "opinion", "text": "Gnomonkey says ironmen and mid-level players after the Fang and Lightbearer are unaffected by the nerf and benefit from faster raids, since most players without a Fang run raid levels of 300 or lower."},
+    {"t": 1100, "kind": "opinion", "text": "Gnomonkey argues the loot nerf alongside the difficulty reduction makes sense since raids will get faster and use fewer supplies, and says Fang at around 9 mil and Lightbearer at around 1.5 mil are ridiculously cheap."},
+    {"t": 1100, "kind": "opinion", "text": "In the description Gnomonkey says Masori is best-in-slot ranged gear yet worth pennies while Torva sets are still 700m+, and that one of the best melee weapons should never have dropped below 200-300m."}
+   ]
+  },
+  {
+   "name": "Opinion: Response to Toa changes criticism",
+   "kind": "opinion",
+   "claims": [
+    {"t": 991, "kind": "opinion", "text": "Gnomonkey says some top Toa players complain the raid is being watered down, such as five-to-one Ba-Ba tech being made not worth it, but that they do not appreciate how the raid feels without max gear: a raid level 400 with a Hosta Ba-Ba takes 13 to 14 minutes."},
+    {"t": 1050, "kind": "opinion", "text": "Gnomonkey says a raid level 300 without a Fang feels like trudging through mud, and the changes help that tier of player."},
+    {"t": 1100, "kind": "opinion", "text": "Gnomonkey says the tech being lost is only used in solo and by a small part of the player base, and that a raid should not require learning tech such as Red X or you have to flip a coin to survive Ba-Ba."},
+    {"t": 1167, "kind": "stat", "text": "Gnomonkey says a high-level Toa (raid level 500 in max gear) takes around 40 minutes, comparable to a solo Theatre of Blood, versus around 15 minutes for a good solo Chambers of Xeric and around 20 minutes for a trio Theatre of Blood."},
+    {"t": 1194, "kind": "opinion", "text": "Gnomonkey says Toa's length is an outlier and that the time invocations stop being used at high raid levels, so the speed-up changes are welcome."}
+   ]
+  }
+ ]
+}

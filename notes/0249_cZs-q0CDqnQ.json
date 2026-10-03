@@ -1,0 +1,45 @@
+{
+  "id": "cZs-q0CDqnQ",
+  "title": "WORLD'S FIRST DELVE 8 FULL CLEAR (OSRS)",
+  "date": "2025-07-23",
+  "type": "challenge",
+  "summary": "Gnomonkey streams and clears Delve 8 on the new Doom of Mokhaiotl boss, claiming the world's first full clear, on his first try. He discusses the Rally/strain-style defence drain on the boss's mechanics, AOE attacks and a decision to kill the boss rather than solve the orb mechanic. The description calls the boss far more fun and difficult than Yama.",
+  "outline": [
+    {"t": 0, "text": "Starting the Delve 8 attempt"},
+    {"t": 87, "text": "Discussion of defence drain: how much one splat drains"},
+    {"t": 177, "text": "Positioning and spot handling as the fight continues"},
+    {"t": 268, "text": "Confusion over attack travel time and a possible double attack"},
+    {"t": 456, "text": "AOE attacks and trying to outrange them"},
+    {"t": 517, "text": "Chat reports outranging the AOE does not work"},
+    {"t": 637, "text": "Running low on food and committing to killing the boss"},
+    {"t": 753, "text": "Delve 8 cleared on the first try"}
+  ],
+  "topics": [
+    {
+      "name": "Doom of Mokhaiotl",
+      "kind": "boss",
+      "claims": [
+        {"t": 753, "kind": "record", "text": "Gnomonkey achieved what he describes as the World's First Clear of Delve 8 on the new Doom of Mokhaiotl boss, doing it on his first try during a stream."},
+        {"t": 753, "kind": "tip", "text": "Gnomonkey says that at Delve 8 he gunned for killing Doom of Mokhaiotl rather than trying to solve it with the orb, because he believes there was no chance of solving it with the orb and killing the boss was definitely the play."},
+        {"t": 637, "kind": "event", "text": "Gnomonkey was out of food late in the Delve 8 fight and decided to use all the remaining food and commit to the kill."},
+        {"t": 0, "kind": "opinion", "text": "Gnomonkey describes Doom of Mokhaiotl as very fun and definitely end game content, and says it is way better than Yama in terms of fun and difficulty."},
+        {"t": 0, "kind": "opinion", "text": "Gnomonkey says the Doom of Mokhaiotl release had minimal bugs, other than the boss itself, and praises Jagex for it."},
+        {"t": 0, "kind": "event", "text": "At the time of the video Gnomonkey had done Delves up to Delve 10 on Doom of Mokhaiotl without receiving any uniques."},
+        {"t": 0, "kind": "tip", "text": "Gnomonkey credits chat for tips and his wife for backseating and helping with the mechanics during the Delve 8 clear."}
+      ]
+    },
+    {
+      "name": "Delve",
+      "kind": "mechanic",
+      "claims": [
+        {"t": 87, "kind": "stat", "text": "Gnomonkey and chat discuss a drain mechanic in the Delve 8 fight: chat suggested each splat drains 15%, but Gnomonkey concluded one splat is enough to fully drain a stat."},
+        {"t": 120, "kind": "stat", "text": "Gnomonkey works out that the boss's cap is 30 and the drain is 10%, so he calculates 27.5 as the figure, and is unsure whether it rounds up; he says one spot is effectively a full drain, so it is never worth respeccing."},
+        {"t": 177, "kind": "tip", "text": "Gnomonkey says one spot doing the same as roughly two is not a worry, and that once one spot is off in the Delve 8 fight he considers it fine."},
+        {"t": 268, "kind": "event", "text": "During the Delve 8 attempt Gnomonkey got caught out by attack travel time, noting one attack hit him even though he was right next to the other one."},
+        {"t": 456, "kind": "tip", "text": "In the Delve 8 fight Gnomonkey tried to outrange the AOE attacks by running as fast as he could, and it did not work even though it looked like it should have."},
+        {"t": 517, "kind": "tip", "text": "A viewer reported that trying to outrange the Delve 8 AOE attack did not work on the boss, so Gnomonkey concluded the outrange appearance is just visual and advises not to try to outrange it."},
+        {"t": 332, "kind": "event", "text": "Gnomonkey thought the boss may have performed two attacks at once during the Delve 8 fight and noted he would clip it for review."}
+      ]
+    }
+  ]
+}

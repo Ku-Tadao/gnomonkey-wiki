@@ -1,0 +1,168 @@
+{
+  "id": "kkmUE6oQxy4",
+  "title": "No Rewards and Dead Content  - New Enrage Boss (OSRS)",
+  "date": "2025-01-30",
+  "type": "news-opinion",
+  "summary": "Gnomonkey reacts to Jagex's third Mokha (Delve boss) reward proposal blog, which replaced the cape with an Occult necklace upgrade, removed the thrall upgrade currency and added a consumable that skips to Delve level 3. He argues Jagex is afraid to reward high-level content, compares reward scaling in CoX, ToB, ToA and the Colosseum, and urges Jagex to delay the boss and give it real rewards plus a long-term currency.",
+  "outline": [
+    {"t": 0, "text": "Initial thoughts: Mokha changes in a third reward proposal blog, QA was skipped"},
+    {"t": 10, "text": "Reward proposal overview"},
+    {"t": 53, "text": "Analysis of the new Naga weapon: dual-hit stab weapon with no use"},
+    {"t": 96, "text": "Eldritch necklace review: Occult necklace upgrade, minimum-hit idea removed"},
+    {"t": 246, "text": "Thrall upgrade replaced with teleport and level-3 skip consumable"},
+    {"t": 305, "text": "Boss reward issues: endless scaling with no currency, previous poor Jagex rewards"},
+    {"t": 377, "text": "Reward scaling comparison: CoX vs CM, ToB hard mode, ToA 400 vs 500"},
+    {"t": 656, "text": "Colosseum reward critique and Sunfire splinters"},
+    {"t": 747, "text": "Impactful rewards: Nex as a counterexample; Mokha rewards compared"},
+    {"t": 915, "text": "Slayer boss reward comparison (Araxxor)"},
+    {"t": 991, "text": "Long-term profit and fear of high-level players"},
+    {"t": 1137, "text": "Target audience analysis: who is this update for"},
+    {"t": 1323, "text": "Final recommendations: delay it, add big spec weapon, bring back currency"},
+    {"t": 1507, "text": "Concluding thoughts and Golden Gnomes nominations"}
+  ],
+  "topics": [
+    {
+      "name": "Mokha",
+      "kind": "boss",
+      "claims": [
+        {"t": 25, "kind": "event", "text": "Jagex skipped the previous week's Q&A about Mokha due to events in the news, so the community gave no feedback before this refined reward proposal blog."},
+        {"t": 274, "kind": "opinion", "text": "Gnomonkey describes Mokha as an endlessly scaling, infinite endurance match where you try to make supplies last as long as possible to get as far as possible."},
+        {"t": 274, "kind": "event", "text": "According to the third reward blog, Mokha's rewards are new BIS boots, a slightly better BIS mage necklace, and a demonbane crush weapon similar to Emberlight; the common loot does not scale with the Delve level, only the rare rewards do, and there is no currency."},
+        {"t": 305, "kind": "opinion", "text": "Gnomonkey says without a currency like the Colosseum's Sunfire splinters, Mokha will be dead content even with terrible rewards, and he has never been more certain that Jagex has no clue how to make rewards."},
+        {"t": 897, "kind": "opinion", "text": "Gnomonkey says Mokha is potentially the hardest boss in the game since it scales infinitely, so asking players to do the hardest thing in the game for 2% mage damage or 1% ranged strength is not enough."},
+        {"t": 915, "kind": "opinion", "text": "Gnomonkey says Mokha's proposed drop table looks like a slayer boss's drops, and that Araxxor's necklace alone might be more impactful than anything on Mokha's drop table."},
+        {"t": 991, "kind": "opinion", "text": "Gnomonkey fears the boss will release with no real drops after three blogs, and that players will then say that enrage bosses should not be added anymore."},
+        {"t": 1137, "kind": "opinion", "text": "Gnomonkey says Mokha should be a high-level update for good players, and mid-level players can still try the early caves for earlier drops."},
+        {"t": 1323, "kind": "opinion", "text": "Gnomonkey says Jagex should not rush Mokha: if it cannot be released by the end of spring it should wait until summer, and he has been begging for Mokha for years and does not want it made bad to hit a deadline."},
+        {"t": 1445, "kind": "opinion", "text": "Gnomonkey says he has lost all faith that Jagex knows what it is doing based on this blog, but chooses to believe they have just had a hard time in the office."}
+      ]
+    },
+    {
+      "name": "Update: Mokha reward proposal (third blog)",
+      "kind": "update",
+      "claims": [
+        {"t": 25, "kind": "event", "text": "Jagex put together a whole new blog collecting the latest information on the Mokha reward proposals, which Gnomonkey says was in response to the proposal updates being complicated to follow."},
+        {"t": 96, "kind": "event", "text": "The third blog replaced the previously proposed cape with an untradeable Occult necklace upgrade after back and forth about a tradable, untradeable or no cape."},
+        {"t": 246, "kind": "event", "text": "The third blog said Jagex plans to replace the thrall upgrade with a teleport and possibly a second tradable drop that affects the encounter itself, such as an item that skips straight to Delve level 3 when consumed; Jagex said it would not poll these additions."},
+        {"t": 274, "kind": "opinion", "text": "Gnomonkey says Jagex is replacing a profit-keeping thrall upgrade currency with teleport scrolls and something that lets players skip to cave three so they can immediately get the necklace, and he reacts with disbelief."},
+        {"t": 305, "kind": "opinion", "text": "Gnomonkey says the third blog is very short and made things worse than the previous blog, which he calls impressive because the second blog had many issues he wanted answered."},
+        {"t": 1507, "kind": "opinion", "text": "Gnomonkey tells viewers not to accept the third blog update as good enough just because the blog count is wearing everyone out, and tells Jagex to delay the update if it needs to."}
+      ]
+    },
+    {
+      "name": "Eldritch necklace",
+      "kind": "item",
+      "claims": [
+        {"t": 96, "kind": "stat", "text": "The proposed Eldritch necklace is an untradeable upgrade for the Occult necklace that requires level 65 Runecraft and level 65 Crafting to combine."},
+        {"t": 96, "kind": "stat", "text": "Over the Occult necklace, the proposed Mokha necklace adds 2% magic damage, +1 prayer bonus and +8 magic attack bonus."},
+        {"t": 117, "kind": "opinion", "text": "Gnomonkey says the earlier idea of raising minimum hit to boost weapons that are not the Tumeken's shadow was a really cool idea, and that it was removed from the necklace for no reason because nobody disliked it."},
+        {"t": 149, "kind": "requirement", "text": "To equip the proposed necklace, a player must have cleared Delve level 3 and have 80 Magic."},
+        {"t": 149, "kind": "opinion", "text": "Gnomonkey considers the Delve level 3 and 80 Magic equip requirement tacked on and pointless, and asks why it is not the eighth Delve level so it becomes an actual achievement."},
+        {"t": 206, "kind": "opinion", "text": "Gnomonkey says the necklace would be a very small upgrade to Shadow users and would almost never give a max hit on weapons that are not the Shadow, and that Jagex is again scared to make it good because the Shadow exists."},
+        {"t": 828, "kind": "opinion", "text": "Gnomonkey says if the necklace gave 5% magic damage it would be a big-ticket item, but 2% mage damage is minor, comparable to the Zaryte vambraces upgrade from Nex."},
+        {"t": 1505, "kind": "opinion", "text": "Gnomonkey suggests making the necklace chargeable so that it goes up to 10% magic damage, with a currency used to charge it."}
+      ]
+    },
+    {
+      "name": "Naga weapon",
+      "kind": "item",
+      "claims": [
+        {"t": 53, "kind": "opinion", "text": "Gnomonkey says the new stab Naga weapon is utterly useless because dual-hit weapons are only really good against targets with negative armour, and nothing in the game is weak to stab."},
+        {"t": 53, "kind": "stat", "text": "Gnomonkey says Nagas have negative-four armour, which makes double-hit weapons good against them."},
+        {"t": 53, "kind": "stat", "text": "Gnomonkey notes that Eclipse Moon has about five true armour, which reduces both hits of a dual-hit weapon by five, so the weapon does 10 less damage per hit there."},
+        {"t": 88, "kind": "opinion", "text": "Gnomonkey says the new Naga weapon has no use in the game currently, though a use might be added with the Slayer Dungeon."}
+      ]
+    },
+    {
+      "name": "Reward scaling in high-level content",
+      "kind": "opinion",
+      "claims": [
+        {"t": 385, "kind": "opinion", "text": "Gnomonkey says Jagex has a really hard time rewarding higher-tier difficulty content, giving CoX to Challenge Mode, ToB hard mode and ToA 500s as examples."},
+        {"t": 385, "kind": "stat", "text": "Gnomonkey says a regular Chambers of Xeric clear is around 30,000 points in 15 to 20 minutes for a very good player, while a Challenge Mode clear takes about 30 minutes if flying and gives about 59,000 points while requiring much better gear and more supplies such as purple sweets."},
+        {"t": 398, "kind": "opinion", "text": "Gnomonkey says the only reason to do Challenge Mode Chambers is for the kits, because for loot it is not worth it."},
+        {"t": 398, "kind": "opinion", "text": "Gnomonkey says Theatre of Blood hard mode has a lower chance of the Avernic, which he calls one of the more valuable drops now, and takes several minutes longer, so it is worse for loot than regular ToB."},
+        {"t": 446, "kind": "stat", "text": "Gnomonkey says ToA reward scaling is strong up to raid level 400, after which each raid level added is only one-third as effective, so harder invocations are worth less and less."},
+        {"t": 473, "kind": "opinion", "text": "Gnomonkey says players choose the normal variant of content that has higher-level variants (ToA, hard mode ToB, Chambers) even with max gear and thousands of KC, unless they enjoy speedrunning or want kits."},
+        {"t": 528, "kind": "opinion", "text": "Gnomonkey lists the factors for whether harder content is worth it as the difficulty and consistency (wipe risk), the extra time to complete, and how much more profit it gives."},
+        {"t": 568, "kind": "stat", "text": "Gnomonkey's example is the typical Pathfinder walk-the-path setup in Tombs of Amascut: a raid level 400 gives a 9% purple chance, while 500 gives 13.7%, but 500 takes 5 to 10 minutes longer, increasing the raid length by 15 to 25%."},
+        {"t": 521, "kind": "opinion", "text": "Gnomonkey says a ToA 500 was maybe 10% more loot than a 400, and that it is technically arguably worth doing but not really."},
+        {"t": 621, "kind": "opinion", "text": "Gnomonkey says that if you have max gear there should be no reason to do regular Chambers instead of Challenge Mode, and that Challenge Mode should give something like 80,000 or 90,000 points."},
+        {"t": 646, "kind": "opinion", "text": "Gnomonkey says Jagex is afraid of rewarding difficult content."},
+        {"t": 1050, "kind": "opinion", "text": "Gnomonkey says Jagex's reward scaling is built around being terrified of high-level players, who grind these bosses for pets and lots of KC, so Jagex gimps the content so it is not worth going beyond ToA level 400, grinding hard mode ToB or doing challenge mode raids."},
+        {"t": 1080, "kind": "opinion", "text": "Gnomonkey says he wants players at Delve level 8 and beyond to face a real choice: whether to keep pushing with few supplies because the next level is worth a lot, rather than a technically correct meta of stopping around level 10."},
+        {"t": 1144, "kind": "opinion", "text": "Gnomonkey says Mokha can have much better profit than other content without locking it to 20 million an hour, because few players will be capable of doing it and it would not hurt drops for everyone else."},
+        {"t": 1170, "kind": "opinion", "text": "Gnomonkey says RuneScape 3 is willing to add ridiculous scaling to bosses, to the point of being too far at places like Telos, and that he thinks it is good that the common loot of Mokha does not scale."},
+        {"t": 1203, "kind": "opinion", "text": "Gnomonkey agrees with commenters that scaling ToA to a high level is not fun and that this is a problem with ToA Jagex should fix, but says that for Mokha, where the content gets harder with new mechanics, it must be rewarding."}
+      ]
+    },
+    {
+      "name": "Colosseum",
+      "kind": "activity",
+      "claims": [
+        {"t": 656, "kind": "opinion", "text": "Gnomonkey considers the Colosseum's rare drops poor: the new BIS Prayer armour is equivalent to rune in defence and useless by the time you get it, and he rarely sees anyone wear it."},
+        {"t": 666, "kind": "opinion", "text": "Gnomonkey says the Colosseum's quiver is amazing but untradeable, and the Tonalztics of Ralos is a spec weapon used only at Maiden and high-scale Chambers, a very minor use case."},
+        {"t": 687, "kind": "opinion", "text": "Gnomonkey says the Echo boots are dead content whose only use at that point is first Inferno clear, and the new Mokha boots will replace them; the boots have a high prayer bonus, decent defence and very low recoil."},
+        {"t": 659, "kind": "opinion", "text": "Gnomonkey says the Colosseum's rare drops are not why players do it; he describes recoiling-one-damage boots and a throwing disc worse than a Warhammer as amazing rare drops sarcastically."},
+        {"t": 719, "kind": "stat", "text": "Gnomonkey says three Colosseum kills an hour is about the best realistic rate for most players, and that three quivers convert to 7.6 million worth of Sunfire splinters plus an average of 6,000 splinters worth another 3.7 million, so about half of the profit is from splinters."},
+        {"t": 659, "kind": "opinion", "text": "Gnomonkey says the Sunfire splinter currency is the only thing that kept the Colosseum profitable, and he wants a similar currency for Mokha."},
+        {"t": 1264, "kind": "event", "text": "Gnomonkey says the Colosseum came out on March 20th of 2024, the last high-level update before Mokha, roughly 10 months earlier."}
+      ]
+    },
+    {
+      "name": "Sunfire splinters",
+      "kind": "item",
+      "claims": [
+        {"t": 719, "kind": "opinion", "text": "Gnomonkey says the Sunfire splinter currency is really the only thing that has kept the Colosseum profitable."},
+        {"t": 719, "kind": "stat", "text": "At about three Colosseum kills an hour, Gnomonkey calculates roughly 11 million of profit, with half of it coming from splinters (quivers converted to 7.6 million worth of splinters plus about 6,000 splinters worth 3.7 million)."},
+        {"t": 1545, "kind": "opinion", "text": "Gnomonkey asks Jagex to bring back a currency like the one that worked great for the Colosseum so that Mokha stays profitable even when drops are poor, saying it could be a venge upgrade, prayer upgrade or something that charges an item."}
+      ]
+    },
+    {
+      "name": "Nex",
+      "kind": "boss",
+      "claims": [
+        {"t": 747, "kind": "opinion", "text": "Gnomonkey says Nex is the only higher-level boss he can think of with adequate rewards, since it drops full BIS melee and what he calls the best DPS spec weapon in the game."},
+        {"t": 758, "kind": "opinion", "text": "Gnomonkey says Nex is not the same tier as Mokha, Inferno or the Colosseum, but is more like Nightmare, a boss plus: one step higher than a boss but not a raid."},
+        {"t": 778, "kind": "opinion", "text": "Gnomonkey lists Nex's rewards as a powerful crossbow upgrade, powerful BIS melee and the best ranged gloves, and says Nex has no currency like the Colosseum."},
+        {"t": 1415, "kind": "opinion", "text": "Gnomonkey says the only drop table that has worked properly for high-level content is Nex, and he suggests Mokha needs a big spec weapon."}
+      ]
+    },
+    {
+      "name": "Opinion: Mokha reward design",
+      "kind": "opinion",
+      "claims": [
+        {"t": 874, "kind": "opinion", "text": "Gnomonkey says a player named Sax in his Discord suggested adding the Sunlight spear, because it is in Varlamore, as a big spec weapon to make Mokha's rewards feel impactful."},
+        {"t": 886, "kind": "opinion", "text": "Gnomonkey says Mokha has no big-ticket item, only nice boots and a nice necklace, and that something is missing from the table."},
+        {"t": 1415, "kind": "opinion", "text": "Gnomonkey suggests keeping the untradeable cape alongside the necklace (1% from the cape, 2% from the necklace) and adding a big spec weapon, and says even that might not be enough since the boss is so beyond anything else in the game."},
+        {"t": 1445, "kind": "opinion", "text": "Gnomonkey says RuneScape 3's Telos gave new BIS weapons for all three combat styles, not BIS boots, gloves or a necklace, and while he is not asking for that, Mokha needs more meat than a salad with one or two croutons."},
+        {"t": 1476, "kind": "opinion", "text": "Gnomonkey says even Nightmare, which has notoriously terrible rewards, has a really good spec weapon for Inferno, a powerful elemental staff and BIS crush armour, and that Mokha is not Araxxor 2 or Cerberus so it cannot just drop a boot upgrade."},
+        {"t": 1571, "kind": "opinion", "text": "Gnomonkey is concerned by consumables that skip the early Delve levels with no tangible reward, wondering whether the early caves are boring like Inferno waves one through 40."}
+      ]
+    },
+    {
+      "name": "Araxxor",
+      "kind": "boss",
+      "claims": [
+        {"t": 915, "kind": "opinion", "text": "Gnomonkey says Araxxor drops a new best melee necklace with extra strength and a ton of extra accuracy, which he calls really important."},
+        {"t": 915, "kind": "event", "text": "Gnomonkey notes Araxxor also has a venomous halberd as a bonus drop."},
+        {"t": 915, "kind": "opinion", "text": "Gnomonkey says Araxxor's necklace alone might be more impactful than anything on Mokha's proposed drop table, and that Mokha has only a slayer boss's drops."}
+      ]
+    },
+    {
+      "name": "Desert Treasure II",
+      "kind": "quest",
+      "claims": [
+        {"t": 335, "kind": "opinion", "text": "Gnomonkey cites Desert Treasure II's conflicting, bizarre drop mechanics for items that did not make sense coming from those bosses as an example of Jagex struggling with rewards."}
+      ]
+    },
+    {
+      "name": "Gnomonkey",
+      "kind": "person",
+      "claims": [
+        {"t": 1604, "kind": "event", "text": "As of January 2025, Gnomonkey was nominated for best OSRS streamer and best guide maker in the Golden Gnomes awards and linked the voting page below the video."},
+        {"t": 1604, "kind": "event", "text": "Gnomonkey said he may be convinced to paint his entire body gold if he wins a Golden Gnome."},
+        {"t": 1370, "kind": "opinion", "text": "Gnomonkey says he has been begging for Mokha for years and years."}
+      ]
+    }
+  ]
+}

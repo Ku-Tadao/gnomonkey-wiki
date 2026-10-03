@@ -1,0 +1,191 @@
+{
+  "id": "N7UM0bqdcU4",
+  "title": "Clue Scroll Raider (OSRS)",
+  "date": "2023-10-09",
+  "type": "challenge",
+  "summary": "For SubTember, Gnomonkey was challenged to complete a raid using only gear obtained from his own clue scroll rewards within a three-hour window. After a failed Tombs of Amascut attempt that reached Akkha, he completed a solo Chambers of Xeric run with the clue gear.",
+  "outline": [
+    {
+      "t": 0,
+      "text": "Challenge rules: gear only from clue rewards, three-hour clue timer"
+    },
+    {
+      "t": 32,
+      "text": "Which clue tiers are useful and what gear he wanted"
+    },
+    {
+      "t": 87,
+      "text": "Opening the last caskets"
+    },
+    {
+      "t": 145,
+      "text": "Final gear list obtained from clues"
+    },
+    {
+      "t": 173,
+      "text": "Starting Chambers of Xeric: Tekton with a dragon mace"
+    },
+    {
+      "t": 326,
+      "text": "Corner trapping the Mystics"
+    },
+    {
+      "t": 869,
+      "text": "Tekton dead in 8:21, moving through the raid"
+    },
+    {
+      "t": 1050,
+      "text": "Vasa and Vespula-area rooms and Olm gear discussion"
+    },
+    {
+      "t": 1500,
+      "text": "Olm fight, including head phase with a three-tick weapon"
+    },
+    {
+      "t": 2840,
+      "text": "Raid completed in roughly 27 minutes"
+    }
+  ],
+  "topics": [
+    {
+      "name": "Challenge: Clue Scroll Raider",
+      "kind": "challenge",
+      "claims": [
+        {
+          "t": 0,
+          "kind": "event",
+          "text": "For the SubTember challenge, Gnomonkey was challenged to complete raids using only Clue Scroll gear, which had to be obtained within 3 hours from his own clue rewards."
+        },
+        {
+          "t": 0,
+          "kind": "requirement",
+          "text": "In the Clue Scroll Raider challenge, all gear must come from clues as an item; items from implings or the Grand Exchange are not allowed, though implings can be opened to obtain clues."
+        },
+        {
+          "t": 0,
+          "kind": "requirement",
+          "text": "The challenge has a three-hour timer to complete clues; after that no more clues may be completed. Supplies are completely allowed."
+        },
+        {
+          "t": 0,
+          "kind": "requirement",
+          "text": "Ammo is allowed if it drops from clues, but Gnomonkey allowed amethyst arrows because no arrows drop from any clue."
+        },
+        {
+          "t": 0,
+          "kind": "opinion",
+          "text": "Gnomonkey says he did not do 'dragon' clues because he is poor, saying that is 20 mil a clue."
+        },
+        {
+          "t": 32,
+          "kind": "opinion",
+          "text": "Gnomonkey determined that elite clues are the most useful tier to complete because of all the weapons, while hard clues offer bows, rune armour, black dragonhide and a rune pickaxe, and master clues offer dragon weaponry."
+        },
+        {
+          "t": 32,
+          "kind": "stat",
+          "text": "Gnomonkey wanted the following from elite clues: DDS, rune crossbow, dragon mace/longsword, rune armour again and dragonstone jewellery."
+        },
+        {
+          "t": 59,
+          "kind": "stat",
+          "text": "Gnomonkey notes there are no magic robes or weapons from any tier of clue besides the Third Age wand, none of which is useful for him, and he cannot use supplies from clues to make things, he needs the item itself."
+        },
+        {
+          "t": 145,
+          "kind": "record",
+          "text": "Gnomonkey's final clue gear: a dragon mace as main weapon, a dragon longsword as a separate spec option, a rune kiteshield, a Bandos plate skirt (one prayer bonus), a rune pickaxe for Guardians, a dragonstone bracelet he allowed to be turned into a combat bracelet because he also got charge-jewellery scrolls, blessed dragonhide boots, a magic shortbow and a full set of black dragonhide."
+        },
+        {
+          "t": 145,
+          "kind": "event",
+          "text": "Per the video description, the Master casket dropping dragon longswords and later picking up a dragon mace helped, as did the magic shortbow and the full set of dragonhide pieces he got."
+        },
+        {
+          "t": 59,
+          "kind": "event",
+          "text": "Gnomonkey says the farmer's hat step for Elite clues was impossible because he does not own the hat, and he did not end up getting that step."
+        },
+        {
+          "t": 713,
+          "kind": "trivia",
+          "text": "Gnomonkey's chat pointed out that crystal dust cannot be obtained from clues, so the Chambers run technically breaks the rules, and he agreed."
+        }
+      ]
+    },
+    {
+      "name": "Tombs of Amascut",
+      "kind": "raid",
+      "claims": [
+        {
+          "t": 0,
+          "kind": "event",
+          "text": "Gnomonkey tried a Tombs of Amascut run with the clue scroll gear and got to Akkha, but died there after a 30 minute fight with manual casting and butterflying, and did not have time for another attempt."
+        },
+        {
+          "t": 0,
+          "kind": "record",
+          "text": "Gnomonkey had done a clue scroll gear Tombs of Amascut run before, but that one was all gear from the Grand Exchange and racing against others."
+        }
+      ]
+    },
+    {
+      "name": "Chambers of Xeric",
+      "kind": "raid",
+      "claims": [
+        {
+          "t": 2840,
+          "kind": "record",
+          "text": "Gnomonkey completed a solo Chambers of Xeric run using only clue scroll gear, which he says surprised even himself, finishing in about 27 minutes of raid time."
+        },
+        {
+          "t": 2567,
+          "kind": "tip",
+          "text": "Gnomonkey says he thinks he is the first ever to use a three-tick weapon on Olm's head phase, and notes the head phase's final phase can be recognised because the head is glowing."
+        }
+      ]
+    },
+    {
+      "name": "Tekton",
+      "kind": "boss",
+      "claims": [
+        {
+          "t": 869,
+          "kind": "record",
+          "text": "Gnomonkey killed Tekton with a dragon mace in 8 minutes 21 seconds during the clue scroll run."
+        },
+        {
+          "t": 502,
+          "kind": "record",
+          "text": "A viewer said they killed Tekton in seven to eight minutes with a rune scimitar in a hundred-K gear challenge, and Gnomonkey says his dragon mace kill was faster, noting a Dragon Defender and other boosting jewellery help."
+        },
+        {
+          "t": 270,
+          "kind": "tip",
+          "text": "Gnomonkey says he wanted to mace spec Tekton, and was unsure whether he could kill Tekton with this gear at all."
+        }
+      ]
+    },
+    {
+      "name": "Mystics",
+      "kind": "mechanic",
+      "claims": [
+        {
+          "t": 326,
+          "kind": "method",
+          "text": "When a Chambers of Xeric Mystic tries to melee you, it pauses for a moment then chases you; Gnomonkey stands in a corner trap so the Mystic cannot reach him and deals no damage."
+        },
+        {
+          "t": 326,
+          "kind": "stat",
+          "text": "A trapped Mystic can occasionally mage and break out of the corner trap, but goes back to melee mode about 50-50."
+        },
+        {
+          "t": 591,
+          "kind": "stat",
+          "text": "Gnomonkey explains corner trapping: NPCs prioritise east-west movement, so if their next action would take them east or west through a wall, they cannot attack you while meleeing."
+        }
+      ]
+    }
+  ]
+}

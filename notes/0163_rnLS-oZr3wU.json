@@ -1,0 +1,620 @@
+{
+ "id": "rnLS-oZr3wU",
+ "title": "HOW TO DUO Budget Nex Guide (OSRS)",
+ "date": "2024-06-15",
+ "type": "guide",
+ "summary": "A budget guide to duo Nex built around the Mixed hide armour set, with two demonstration kills (one where a teammate dies, one clean). Gnomonkey explains the gear path, five-ticking with the Osmumten's fang, prayer swapping, and above all the 'reset' mechanic, and insists on fanging Nex rather than range camping her.",
+ "outline": [
+  {
+   "t": 0,
+   "text": "Introduction, why duo Nex, and the budget gear set"
+  },
+  {
+   "t": 357,
+   "text": "Combat mechanics and five-ticking"
+  },
+  {
+   "t": 536,
+   "text": "Overview of Nex's phases and melee mode"
+  },
+  {
+   "t": 623,
+   "text": "Mastering boss resets and tick walking"
+  },
+  {
+   "t": 741,
+   "text": "Duo kill demonstration begins (positioning, Smoke phase)"
+  },
+  {
+   "t": 1016,
+   "text": "Shadow phase tactics"
+  },
+  {
+   "t": 1106,
+   "text": "Handling the Umbra phase"
+  },
+  {
+   "t": 1224,
+   "text": "Blood phase and Reavers"
+  },
+  {
+   "t": 1362,
+   "text": "Ice phase mechanics"
+  },
+  {
+   "t": 1475,
+   "text": "Final phase and rewards"
+  },
+  {
+   "t": 1624,
+   "text": "Second kill and post-fight analysis"
+  }
+ ],
+ "topics": [
+  {
+   "name": "Nex",
+   "kind": "boss",
+   "claims": [
+    {
+     "t": 0,
+     "kind": "opinion",
+     "text": "Gnomonkey says duo Nex is the best GP/hr in the game and has been since release, at over 20 million GP an hour in max gear, though not in budget gear."
+    },
+    {
+     "t": 0,
+     "kind": "opinion",
+     "text": "Gnomonkey considers focusing on killing Nex as fast as possible usually the best way to build an account."
+    },
+    {
+     "t": 0,
+     "kind": "requirement",
+     "text": "Gnomonkey says you need roughly 200 million GP as a starter cache for duo Nex, and that it is not easy so you should not go too early."
+    },
+    {
+     "t": 536,
+     "kind": "stat",
+     "text": "Nex has five phases: Smoke, Shadow, Blood and Ice phases, then a final phase. In each of the first four you damage her to a threshold, a minion appears, and she is invincible until the minion dies."
+    },
+    {
+     "t": 536,
+     "kind": "opinion",
+     "text": "Gnomonkey stresses that Nex is complicated and not easy, and says people who claim she is easy are trolling."
+    },
+    {
+     "t": 462,
+     "kind": "stat",
+     "text": "Nex is a four-tick boss: she attacks every four ticks."
+    },
+    {
+     "t": 462,
+     "kind": "stat",
+     "text": "Nex typically uses a melee attack when everybody is in melee range, with a small chance (roughly 20%, per Gnomonkey) to use magic instead."
+    },
+    {
+     "t": 490,
+     "kind": "stat",
+     "text": "In each phase Nex usually attacks about twice before swapping to a different target, but in the final phase she attacks the same target about four times before swapping. Neither is guaranteed every time."
+    },
+    {
+     "t": 587,
+     "kind": "method",
+     "text": "When a player is far from Nex and she is attacking someone, she has a chance to enter what Gnomonkey calls melee mode: she stops her current action and runs up to punch the player."
+    },
+    {
+     "t": 1122,
+     "kind": "tip",
+     "text": "Gnomonkey says the Fear the Shadow special just requires not standing on the marked tile, and that her damage on that attack is calculated right before the projectile appears to hit you."
+    },
+    {
+     "t": 1016,
+     "kind": "stat",
+     "text": "When Nex's phase threshold is reached by thrall damage alone she remains invincible and will not let you hit the minion until she has made one more attack, even if that attack hits a zero, so you must send her one more attack to phase her."
+    },
+    {
+     "t": 1769,
+     "kind": "tip",
+     "text": "At a phase transition Nex keeps running up to you and the reset timer starts over, so you will likely need to tick walk under her again; Gnomonkey says many people do not know this."
+    },
+    {
+     "t": 2038,
+     "kind": "tip",
+     "text": "Gnomonkey recommends ending a kill by getting the last hit with death charge active, since you get a death charge off Nex and start the next kill with more special attack."
+    },
+    {
+     "t": 2135,
+     "kind": "opinion",
+     "text": "Gnomonkey says Trio Nex is very similar but much easier, so learners may start with a trio, and in the video description recommends moving down from trio to duo as the mechanics become comfortable."
+    },
+    {
+     "t": 831,
+     "kind": "tip",
+     "text": "Gnomonkey calls the third phase the longest by far and says it is the best time to dump all your specs, let your health drop low, run to the altar to restore everything, and dump more specs."
+    },
+    {
+     "t": 831,
+     "kind": "tip",
+     "text": "Because Nex has multiple attacks that heal her in phase 3, Gnomonkey says you want that phase to end quickly."
+    }
+   ]
+  },
+  {
+   "name": "Nex reset",
+   "kind": "mechanic",
+   "claims": [
+    {
+     "t": 623,
+     "kind": "opinion",
+     "text": "Gnomonkey considers nailing resets, more than five-ticking or praying correctly, the single biggest thing in Nex and the hardest thing to learn; it is why he dislikes bringing new people, because one missed reset can get the whole team killed."
+    },
+    {
+     "t": 623,
+     "kind": "method",
+     "text": "A reset means stepping under Nex when she runs at you, which stops her pursuit. If Nex has no target to attack for a random 5 to 7 ticks she returns to the centre of the room."
+    },
+    {
+     "t": 623,
+     "kind": "method",
+     "text": "Gnomonkey says Nex is the only boss in the game with this reset mechanic."
+    },
+    {
+     "t": 692,
+     "kind": "method",
+     "text": "While attacking minions, the goal is to keep Nex in the centre of the room not hitting anyone; otherwise she starts doing heavy damage and specials, especially in phase 2 where she deals more damage the closer you are."
+    },
+    {
+     "t": 768,
+     "kind": "tip",
+     "text": "Gnomonkey says that if someone misses a reset on phase 2 (Shadow) and Nex runs up to them, the team should simply teleport out via the altar because they will die."
+    },
+    {
+     "t": 763,
+     "kind": "tip",
+     "text": "Enable Nex's true tile in the RuneLite NPC indicators; Gnomonkey steps under as her tile sticks out from the end of the corridor, similar to timing at Akkha."
+    },
+    {
+     "t": 797,
+     "kind": "method",
+     "text": "Tick walking: enabling the shift-click walk-under setting in the menu entry swapper lets you hold shift and walk under Nex anywhere, clicking where her centre tile moves every game tick to stay under her permanently, as done in Nex solos."
+    },
+    {
+     "t": 831,
+     "kind": "tip",
+     "text": "Tick walking can be used in a pinch to force a manual reset when Nex is in a bad position, but Gnomonkey says it is advanced and not needed early on."
+    },
+    {
+     "t": 1035,
+     "kind": "tip",
+     "text": "Gnomonkey says missing a reset is far worse than lower DPS, so you can crossbow the whole time while learning to make resets easier."
+    },
+    {
+     "t": 1094,
+     "kind": "method",
+     "text": "In the Shadow phase, step under the centre when Nex is one tile away from you as she runs at you; this resets her."
+    },
+    {
+     "t": 633,
+     "kind": "tip",
+     "text": "Gnomonkey offers radius markers and tiles for Nex through his Twitch chat commands !nexradius and !nextiles, which he calls an absolute must when learning resets."
+    }
+   ]
+  },
+  {
+   "name": "Five-ticking",
+   "kind": "mechanic",
+   "claims": [
+    {
+     "t": 336,
+     "kind": "method",
+     "text": "To five-tick Nex with the Osmumten's fang, every fourth tick you step under her and then click to attack, which steps you back out and delays her attack by an extra tick each time."
+    },
+    {
+     "t": 336,
+     "kind": "stat",
+     "text": "Gnomonkey says clicking to attack a boss re-xes it, so while you step under Nex and immediately click attack, she cannot move."
+    },
+    {
+     "t": 399,
+     "kind": "opinion",
+     "text": "Gnomonkey says that without five-ticking you waste a minimum of two extra brews, and calls learning the timing the biggest learning curve going into Nex."
+    },
+    {
+     "t": 399,
+     "kind": "stat",
+     "text": "Gnomonkey states five-ticking reduces damage taken by roughly twenty percent (he first says twenty-five)."
+    },
+    {
+     "t": 428,
+     "kind": "tip",
+     "text": "The cue to step under for a five-tick is when Nex's attack animation snaps back to normal, one tick before she attacks again, similar to the Inferno ranger."
+    },
+    {
+     "t": 336,
+     "kind": "opinion",
+     "text": "Gnomonkey says the huge benefit of the Osmumten's fang at Nex is that it is extremely accurate against the tankiest boss in the game and can be five-ticked."
+    },
+    {
+     "t": 399,
+     "kind": "opinion",
+     "text": "Gnomonkey says the team five-ticks the whole fight and does not follow style."
+    }
+   ]
+  },
+  {
+   "name": "Nex gear setup",
+   "kind": "mechanic",
+   "claims": [
+    {
+     "t": 29,
+     "kind": "opinion",
+     "text": "Gnomonkey says the Osmumten's fang is about 35% better than a crossbow at Nex and is also your spec weapon if you cannot afford one; Voidwaker or the Zaryte crossbow are better spec weapons, with the Zaryte crossbow best-in-slot for spec."
+    },
+    {
+     "t": 87,
+     "kind": "requirement",
+     "text": "The budget setup uses Mixed hide armour, which Gnomonkey says is lower in max hit than Bandos but has a stab bonus, giving better DPS than Bandos at Nex, doubles as ranged armour, and is extremely cheap."
+    },
+    {
+     "t": 87,
+     "kind": "opinion",
+     "text": "Gnomonkey says if you do not own Masori, run Mixed hide; if you do own Masori he thinks camping it is slightly faster overall than Mixed hide, and Mixed hide plus a Masori switch is faster still as you get better."
+    },
+    {
+     "t": 119,
+     "kind": "tip",
+     "text": "Gnomonkey says the cape swap and Masori helmet switch are not max hits, so in a struggling setup you can drop the switch, bring an extra potion, and dump your bolts on the ground."
+    },
+    {
+     "t": 148,
+     "kind": "tip",
+     "text": "The budget setup uses Ferocious gloves and Primordial boots, a regular dragon defender, and Gnomonkey names the Avernic defender (about 50 million) as the next melee upgrade."
+    },
+    {
+     "t": 148,
+     "kind": "tip",
+     "text": "Gnomonkey names the Voidwaker (about 80 million at the time) as the next major purchase, and says it is way better than fang specing; if you own a Voidwaker and later can afford a Zaryte crossbow, sell the Voidwaker, though it is a solid backup budget spec."
+    },
+    {
+     "t": 178,
+     "kind": "tip",
+     "text": "Zaryte vambraces (about 100 million, previously about 180) are recommended because they count as an ancient item, which is required to receive the full restore from the altar in the middle of the fight."
+    },
+    {
+     "t": 211,
+     "kind": "stat",
+     "text": "The altar at Nex gives full health, prayer, run energy and spec restore, but only if you have an ancient item equipped."
+    },
+    {
+     "t": 243,
+     "kind": "opinion",
+     "text": "Gnomonkey says a Twisted bow plus Zaryte crossbow is the meta now, with the Twisted bow replacing the blowpipe, and that the Torva helmet alone is a solid upgrade because of its defence and max hit."
+    },
+    {
+     "t": 244,
+     "kind": "opinion",
+     "text": "Gnomonkey says that because Nex is weak to crossbows, an adamant crossbow does more damage than a Twisted bow on Nex, so you always bring a crossbow in addition to a Twisted bow and never camp the Twisted bow."
+    },
+    {
+     "t": 244,
+     "kind": "tip",
+     "text": "Gnomonkey says Pharaoh's gloves give a huge strength bonus and a switch to bracers is the best option, and that the Twisted bow is for the minions while the crossbow is for the boss."
+    },
+    {
+     "t": 276,
+     "kind": "opinion",
+     "text": "Gnomonkey says the toxic blowpipe is the second-best option for minions but not very good because blowpipes do poorly against high defence targets."
+    },
+    {
+     "t": 276,
+     "kind": "tip",
+     "text": "Bring runes for death charge and thralls; Gnomonkey says thralls are a huge part of your DPS because they hit through Nex's very high defence."
+    },
+    {
+     "t": 288,
+     "kind": "opinion",
+     "text": "Gnomonkey says the Bow of Faerdhinen is a terrible choice here and tells people never to bring it, since it is worse than an adamant crossbow on Nex and worse than the blowpipe on minions."
+    },
+    {
+     "t": 308,
+     "kind": "tip",
+     "text": "Gnomonkey says an adamant crossbow is preferred over a rune crossbow because its higher range lets you flinch out of Nex's close-range damage more easily, even though both fire rubies."
+    },
+    {
+     "t": 322,
+     "kind": "opinion",
+     "text": "Gnomonkey says to always wear the Lightbearer at Nex because it is better DPS than any other ring, including an Ultor ring or Venator ring, even when using fang specs, and he would not recommend Nex until you own one."
+    },
+    {
+     "t": 1619,
+     "kind": "tip",
+     "text": "Gnomonkey says that if you leave without an ancient item equipped you should make sure you have the Zaryte item on, otherwise things will hit you and kill you."
+    },
+    {
+     "t": 2158,
+     "kind": "tip",
+     "text": "Gnomonkey says not to bring a rune defender because the 5 stab attack bonus loss matters more than the 1 strength difference."
+    },
+    {
+     "t": 2113,
+     "kind": "opinion",
+     "text": "Gnomonkey says it is difficult for a learner with low gear to find a Nex duo, because people with poor gear are also bad at Nex, though kills in bad gear are absolutely doable."
+    }
+   ]
+  },
+  {
+   "name": "Opinion: Range camping Nex",
+   "kind": "opinion",
+   "claims": [
+    {
+     "t": 59,
+     "kind": "opinion",
+     "text": "Gnomonkey says to fang Nex and not crossbow camp her, calling people who tell you to range camp silly."
+    },
+    {
+     "t": 59,
+     "kind": "event",
+     "text": "After the update that made Nex weak to crossbows, Gnomonkey says she is weaker to crossbow than before and easier to kill than before the update, but it is still much better to fang."
+    },
+    {
+     "t": 0,
+     "kind": "opinion",
+     "text": "In the video description Gnomonkey says range camping Nex is at minimum 35% worse than fanging her and that she is most weak to stab."
+    },
+    {
+     "t": 1651,
+     "kind": "opinion",
+     "text": "Gnomonkey reacts angrily to a chat viewer who claims never to have had a kill longer than 10 minutes with range camp, calling range campers people who lead others down bad paths and accusing them of lying."
+    }
+   ]
+  },
+  {
+   "name": "Nex Smoke phase",
+   "kind": "boss",
+   "claims": [
+    {
+     "t": 976,
+     "kind": "method",
+     "text": "The duo opens by standing opposite each other, which Gnomonkey says makes it easy to rotate up to the minion; Nex starts the fight with a virus on someone, which drains stats, and the team dumps all their specs and summons a thrall."
+    },
+    {
+     "t": 976,
+     "kind": "stat",
+     "text": "Nex has a very long wind-up at the start of the fight, and after about two attacks she swaps targets."
+    },
+    {
+     "t": 1006,
+     "kind": "stat",
+     "text": "Nex's There Is No Escape special makes her dash in the direction she is facing, hitting for about 50, so you run in a direction she is not facing."
+    },
+    {
+     "t": 1014,
+     "kind": "method",
+     "text": "While your stats are drained by virus, crossbow Nex and drink brew, because ruby bolts hit the same regardless of your stats, then run up and use the blowpipe on the minion."
+    },
+    {
+     "t": 1046,
+     "kind": "tip",
+     "text": "One player should step out of range of Nex so she can only hit the other, then return to the minion; Gnomonkey says this is a reset."
+    }
+   ]
+  },
+  {
+   "name": "Nex Shadow phase",
+   "kind": "boss",
+   "claims": [
+    {
+     "t": 1063,
+     "kind": "stat",
+     "text": "In Shadow phase, the further away you are when Nex's attack lands, the less damage you take, so you should flinch crossbow shots; the hits are between one and three damage."
+    },
+    {
+     "t": 1063,
+     "kind": "tip",
+     "text": "Gnomonkey says to shoot Nex with a crossbow during Shadow phase until you can attack the minion, then kill the minion and she advances to Blood phase."
+    },
+    {
+     "t": 1138,
+     "kind": "tip",
+     "text": "To do the Shadow phase, Gnomonkey says to repot and watch for Nex running at you, since you must step under her or you will die."
+    },
+    {
+     "t": 1106,
+     "kind": "tip",
+     "text": "Gnomonkey says players commonly die in the Shadow phase from messing up the reset."
+    }
+   ]
+  },
+  {
+   "name": "Nex Umbra tank",
+   "kind": "mechanic",
+   "claims": [
+    {
+     "t": 1155,
+     "kind": "method",
+     "text": "The duo designates one player as the Umbra tank: Nex is kept on that player while the other, out of Nex's range, kills Umbra with the blowpipe, since the blowpipe is dramatically better against Umbra."
+    },
+    {
+     "t": 1183,
+     "kind": "tip",
+     "text": "Gnomonkey says Umbra hits really hard and you should pray magic while near her; Nex should not be staring at you when you run to Umbra, and Nex will not swap targets if she cannot see someone out of range."
+    },
+    {
+     "t": 1210,
+     "kind": "tip",
+     "text": "Gnomonkey says to do resets during Umbra and that not missing resets in this phase is the most important part, calling it the most dangerous part of the fight."
+    },
+    {
+     "t": 1241,
+     "kind": "tip",
+     "text": "During the Umbra phase keep magic prayer active the whole time, because the magic attack always hits you in this phase and cannot miss."
+    }
+   ]
+  },
+  {
+   "name": "Nex Blood phase",
+   "kind": "boss",
+   "claims": [
+    {
+     "t": 1241,
+     "kind": "tip",
+     "text": "Kill Blood Reavers as soon as possible because they heal Nex based on whether they would have hit you."
+    },
+    {
+     "t": 1270,
+     "kind": "stat",
+     "text": "Blood Sacrifice highlights a player in red; that player must get about six tiles away from Nex before it lands, or it heals her hugely and hits everyone next to her very hard."
+    },
+    {
+     "t": 1296,
+     "kind": "tip",
+     "text": "Gnomonkey says you only skip killing the Reaver if you can kill Kruor before she summons another Reaver; otherwise kill the Reaver."
+    },
+    {
+     "t": 1352,
+     "kind": "event",
+     "text": "In the demonstration a Blood Reaver healed Nex for about 150 and Gnomonkey says a blood sacrifice, Reaver heal and extra attacks cost his team several brews."
+    },
+    {
+     "t": 1381,
+     "kind": "tip",
+     "text": "Gnomonkey says to drag Nex up towards you as much as possible in the Blood phase, as that is time she is not attacking you."
+    },
+    {
+     "t": 1381,
+     "kind": "tip",
+     "text": "When Nex casts Contain, step away from her and use it as a chance to spam brew and range, because brewing while ranging with rubies loses very little DPS compared with brewing in melee."
+    }
+   ]
+  },
+  {
+   "name": "Nex Ice phase",
+   "kind": "boss",
+   "claims": [
+    {
+     "t": 1411,
+     "kind": "stat",
+     "text": "In Ice phase, a magic hit that lands off-prayer freezes you in place for a huge amount of time, so keep magic prayer active."
+    },
+    {
+     "t": 1411,
+     "kind": "method",
+     "text": "If frozen by ice prison, melee one of the stalagmites with the fang and it frees everyone; you do not need to run out of the middle."
+    },
+    {
+     "t": 1473,
+     "kind": "tip",
+     "text": "Gnomonkey says Contain carries over to the next phase, so do not just run in; without a Twisted bow you have to tank, with one you can avoid a lot of damage."
+    },
+    {
+     "t": 1768,
+     "kind": "tip",
+     "text": "When Contain is cast, you can both get out of range and let her dash back up; do not drag her."
+    }
+   ]
+  },
+  {
+   "name": "Nex final phase",
+   "kind": "boss",
+   "claims": [
+    {
+     "t": 879,
+     "kind": "stat",
+     "text": "In the final phase Nex does no special attacks, only normal attacks: four attacks with no prayer, then Deflect Melee for four attacks, then Soul Split for four attacks, and the cycle repeats."
+    },
+    {
+     "t": 889,
+     "kind": "stat",
+     "text": "Deflect Melee blocks all melee damage and reflects 50% of the damage back at you, so when it is up you should swap to a crossbow; Soul Split heals Nex for about 50% of the damage she deals."
+    },
+    {
+     "t": 859,
+     "kind": "stat",
+     "text": "Gnomonkey says Nex hits really hard in the final phase and mages more often than in other phases, though he notes there is no information confirming this."
+    },
+    {
+     "t": 925,
+     "kind": "stat",
+     "text": "When Nex has no prayer active she leeches your stats on each successful melee attack, which Gnomonkey says is not something you react to."
+    },
+    {
+     "t": 2074,
+     "kind": "tip",
+     "text": "In the final phase never drop below 15 health: you can tick-eat the magic attack but not the melee, and the melee max is 15 per Gnomonkey."
+    },
+    {
+     "t": 943,
+     "kind": "tip",
+     "text": "While ranging in this phase you should be healing, so brew whenever you range; Gnomonkey says that is a good time to heal."
+    }
+   ]
+  },
+  {
+   "name": "Prayer swapping at Nex",
+   "kind": "mechanic",
+   "claims": [
+    {
+     "t": 462,
+     "kind": "method",
+     "text": "Gnomonkey's prayer approach at Nex is to pray melee while she is attacking you and pray magic when she is not attacking you, which blocks the majority of damage, similar to Ulm."
+    },
+    {
+     "t": 520,
+     "kind": "opinion",
+     "text": "Gnomonkey says catching prayers correctly is probably the next biggest learning curve after five-ticking, and that if you cannot pray magic the whole time you will die."
+    },
+    {
+     "t": 1203,
+     "kind": "tip",
+     "text": "Gnomonkey says to scan in melee range during some phases to reduce damage taken, because Nex maxes four with melee attacks, by clicking melee prayer right after the damage."
+    }
+   ]
+  },
+  {
+   "name": "Menaphite remedy",
+   "kind": "item",
+   "claims": [
+    {
+     "t": 955,
+     "kind": "tip",
+     "text": "Gnomonkey says to pre-pop a Menaphite remedy before your divine potion, since it has a chance to give stats back while you are spamming brews."
+    }
+   ]
+  },
+  {
+   "name": "Mixed hide armour",
+   "kind": "item",
+   "claims": [
+    {
+     "t": 0,
+     "kind": "event",
+     "text": "In the video description Gnomonkey says Mixed hide is a new item that replaces the Karil's plus Bandos or melee setups from his earlier guides, letting you stack supplies while doing outrageous damage compared with even Bandos."
+    },
+    {
+     "t": 87,
+     "kind": "stat",
+     "text": "Mixed hide is one max hit lower than Bandos at Nex but its stab bonus gives better DPS than Bandos there."
+    },
+    {
+     "t": 336,
+     "kind": "tip",
+     "text": "Gnomonkey says he calculated Eclipse moon and it is not a max hit, so he wants Mixed hide for its stab bonus at Nex."
+    }
+   ]
+  },
+  {
+   "name": "Gnomonkey",
+   "kind": "person",
+   "claims": [
+    {
+     "t": 0,
+     "kind": "event",
+     "text": "As of this video's description, Gnomonkey says he is no longer on Kick and is streaming full time on Twitch and YouTube."
+    },
+    {
+     "t": 0,
+     "kind": "event",
+     "text": "Gnomonkey says he made this duo budget Nex guide to update his previous guides after changes to the game, and mentions a Max setup guide will follow showing how the meta changed now that Nex is weak to crossbows."
+    }
+   ]
+  }
+ ]
+}

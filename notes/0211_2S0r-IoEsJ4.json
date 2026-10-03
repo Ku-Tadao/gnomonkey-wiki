@@ -1,0 +1,221 @@
+{
+  "id": "2S0r-IoEsJ4",
+  "title": "IN-GAME WEDDING + SHADOW NEX OSRS",
+  "date": "2025-03-16",
+  "type": "other",
+  "summary": "Gnomonkey and his partner Hedron hold an in-game wedding with the community at the cosmic entity plane, then duo a Nex kill using the Tumeken's shadow with max mage gear to show shadow Nex is viable. He argues that after the Mokha update, with the new boots and Confliction gauntlets, shadow will beat the Zaryte crossbow at Nex.",
+  "outline": [
+    {
+      "t": 0,
+      "text": "Gathering at the blue flowers on the cosmic entity plane; wedding gifts and drops"
+    },
+    {
+      "t": 170,
+      "text": "Wedding ceremony preparations and a large donation from a viewer"
+    },
+    {
+      "t": 386,
+      "text": "The marriage vows read by an officiant and the ring exchange"
+    },
+    {
+      "t": 574,
+      "text": "Pronounced married; after-party at the Blue Moon Inn"
+    },
+    {
+      "t": 634,
+      "text": "Mage Nex boss run with the Tumeken's shadow and max mage gear"
+    },
+    {
+      "t": 764,
+      "text": "Discussion of shadow versus the Zaryte crossbow at Nex after the update"
+    },
+    {
+      "t": 1019,
+      "text": "Reddit's reaction to the claim that shadow Nex is viable"
+    },
+    {
+      "t": 1139,
+      "text": "Phase struggles at P5 and the 9-way versus 10-way kill"
+    },
+    {
+      "t": 1195,
+      "text": "Kill result and DPS comparison against the Zaryte crossbow"
+    },
+    {
+      "t": 1229,
+      "text": "Post-update setup with boots and gauntlets, and the recommended gear plan"
+    }
+  ],
+  "topics": [
+    {
+      "name": "In-game wedding",
+      "kind": "activity",
+      "claims": [
+        {
+          "t": 0,
+          "kind": "event",
+          "text": "Gnomonkey's in-game wedding with Hedron was held at the cosmic entity plane, chosen because it looks pretty and because during the quest a magic essence potion is used there to grow a flower for each person present."
+        },
+        {
+          "t": 27,
+          "kind": "event",
+          "text": "Gnomonkey noted that the number of blue flowers grew with the number of attendees, and that the flowers stacked."
+        },
+        {
+          "t": 130,
+          "kind": "event",
+          "text": "Attendees brought wedding gifts, including eggs and a 10-pack of Xylas from a guest."
+        },
+        {
+          "t": 160,
+          "kind": "event",
+          "text": "During the ceremony prep a viewer donated $1,000 as a wedding gift."
+        },
+        {
+          "t": 386,
+          "kind": "event",
+          "text": "The ceremony was officiated by a community member who read a humorous service referring to Gnomonkey as an A-tier PvMer and Hedron as his HLC partner, and who praised the couple for years spent doing Nex and building a welcoming community."
+        },
+        {
+          "t": 515,
+          "kind": "event",
+          "text": "Rings were gold rings made with level 5 Crafting using a ring mold and a gold bar at a furnace, exchanged by right-click trading your partner."
+        },
+        {
+          "t": 574,
+          "kind": "event",
+          "text": "After the ceremony an after-party was held at the Blue Moon Inn."
+        },
+        {
+          "t": 0,
+          "kind": "event",
+          "text": "In the video description Gnomonkey thanks the community for showing up and says the in-game wedding let people share the moment who could not attend the real-life wedding."
+        }
+      ]
+    },
+    {
+      "name": "Nex",
+      "kind": "boss",
+      "claims": [
+        {
+          "t": 634,
+          "kind": "method",
+          "text": "Gnomonkey does a Nex kill with the Tumeken's shadow in max mage gear to show that mage Nex is viable, and says it is similar in difficulty to a mixed hide kill count."
+        },
+        {
+          "t": 646,
+          "kind": "opinion",
+          "text": "Gnomonkey says shadow Nex is not good right now and not a budget option, but you can still get kills; he expects it to be about 20% more DPS after the Mokha update."
+        },
+        {
+          "t": 679,
+          "kind": "opinion",
+          "text": "Gnomonkey says that if you can do a mixed hide Nex kill, you can do a shadow Nex kill."
+        },
+        {
+          "t": 766,
+          "kind": "opinion",
+          "text": "Asked if shadow is better than range at Nex, Gnomonkey says not right now but it will be after the update, which he says is coming in the summer, and that shadow is closer to the Zaryte crossbow than people think."
+        },
+        {
+          "t": 829,
+          "kind": "opinion",
+          "text": "Gnomonkey says he did not turn on protect from missiles for the whole run, and that because of Nex's 15 range defense in mage gear it just kills you."
+        },
+        {
+          "t": 1139,
+          "kind": "opinion",
+          "text": "Gnomonkey says phase five is where shadow Nex struggles, because Nex drains your magic level, but shadow keeps working past the 500 health point where the Zaryte crossbow cannot normally be used."
+        },
+        {
+          "t": 1139,
+          "kind": "opinion",
+          "text": "Gnomonkey says not having to do the 9-way (a 10-way is obnoxious) would be nice for the post-update setup."
+        },
+        {
+          "t": 1195,
+          "kind": "record",
+          "text": "Gnomonkey completes the shadow Nex kill in max mage with four brews left over, and says it was not even bad."
+        },
+        {
+          "t": 1203,
+          "kind": "stat",
+          "text": "Gnomonkey calculates the shadow is 13% worse DPS than the Zaryte crossbow at Nex right now with Forgotten brew, and 11.7% worse without the Venator bow being used."
+        },
+        {
+          "t": 1229,
+          "kind": "stat",
+          "text": "With the new boots (treads) but without the gauntlets' double accuracy passive, shadow at Nex is only slightly worse than the Zaryte crossbow; with the passive, accuracy goes up by over 10% and shadow becomes about 11% better than the Zaryte crossbow."
+        },
+        {
+          "t": 1256,
+          "kind": "tip",
+          "text": "Gnomonkey's post-update Nex plan is max melee with the Fang for melee phases and the shadow for mage phases, instead of bringing the Zaryte crossbow, which he says would also be an 8-way setup."
+        }
+      ]
+    },
+    {
+      "name": "Opinion: Shadow Nex viability",
+      "kind": "opinion",
+      "claims": [
+        {
+          "t": 0,
+          "kind": "opinion",
+          "text": "In the description Gnomonkey says Reddit claimed shadow Nex would never be a thing because you take too much damage, and he disagrees: you wear Ancestral for about 30% of the kill, which has better defences than mixed hide with Augury."
+        },
+        {
+          "t": 0,
+          "kind": "opinion",
+          "text": "In the description Gnomonkey says if you can do a mixed hide kill count you are fine to do shadow Nex with the new Confliction gauntlets, and that Forgotten brew gives +10 mage so brewing is not an issue."
+        },
+        {
+          "t": 860,
+          "kind": "opinion",
+          "text": "Gnomonkey says Reddit seemed pretty much against him saying the gauntlets are overpowered and decided shadow Nex was instant death, but he notes it hits pretty well and just works even though it is not as good as the Twisted bow."
+        },
+        {
+          "t": 646,
+          "kind": "opinion",
+          "text": "A chat participant remarks that as an Ironman with a shadow and no Twisted bow, mage Nex being better sounds good to them, and Gnomonkey agrees it would help."
+        }
+      ]
+    },
+    {
+      "name": "Confliction gauntlets",
+      "kind": "item",
+      "claims": [
+        {
+          "t": 1229,
+          "kind": "stat",
+          "text": "In Gnomonkey's Nex calcs, the gauntlets' double accuracy passive raises shadow accuracy by over 10%, making it about 11% better than the Zaryte crossbow after the update."
+        },
+        {
+          "t": 0,
+          "kind": "opinion",
+          "text": "Gnomonkey says the new Confliction gauntlets from the Mokha update are what make shadow Nex fine to do."
+        }
+      ]
+    },
+    {
+      "name": "Hedron",
+      "kind": "person",
+      "claims": [
+        {
+          "t": 0,
+          "kind": "event",
+          "text": "Hedron is Gnomonkey's partner and the one he married in the in-game wedding."
+        },
+        {
+          "t": 386,
+          "kind": "trivia",
+          "text": "The ceremony jokingly describes Hedron and Gnomonkey as having spent years doing Nex together, 'probably the worst boss in the game', and making it a place of culture within the community."
+        },
+        {
+          "t": 574,
+          "kind": "trivia",
+          "text": "Gnomonkey and Hedron planned to duo Nex after the wedding."
+        }
+      ]
+    }
+  ]
+}

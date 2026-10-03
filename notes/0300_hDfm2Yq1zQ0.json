@@ -1,0 +1,105 @@
+{
+  "id": "hDfm2Yq1zQ0",
+  "title": "HUGE RUBIUM AND SMITHING CHANGES (OSRS)",
+  "date": "2026-05-22",
+  "type": "news-opinion",
+  "summary": "Gnomonkey reacts to Jagex's blog nerfing Rubium mining (tick manipulation removed, base XP cut, more AFK time) and incendiary cannonball smithing XP (faster to make but token XP). He agrees the rates were overtuned and the balance changes make sense, but regrets losing tick manipulation and proposes an alternative that kept a high-intensity option, and criticises Jagex's QA.",
+  "outline": [
+    {"t": 0, "text": "Introduction: Jagex blog on Rubium mining and smithing rates; his 1000th video"},
+    {"t": 64, "text": "Jagex's balance philosophy and the Duke mining and shooting stars precedents"},
+    {"t": 140, "text": "Analysis of mining balance: Rubium versus granite at roughly 133k XP per hour"},
+    {"t": 280, "text": "Proposed mining adjustments: tick manipulation removed, 30 to 24 XP, longer AFK, more splinters"},
+    {"t": 345, "text": "Gnomonkey's alternative: deposits to break down at a forge, like Baronite"},
+    {"t": 463, "text": "Smithing changes: incendiary cannonballs four times faster, token XP"},
+    {"t": 552, "text": "Why the smithing change makes sense for the wider game"},
+    {"t": 640, "text": "Final thoughts: tick manipulation discourse and more high-level mining methods"},
+    {"t": 762, "text": "Jagex QA feedback: Yama contracts and Mokhaiotl bugs"}
+  ],
+  "topics": [
+    {
+      "name": "Update: Rubium and smithing nerfs",
+      "kind": "update",
+      "claims": [
+        {"t": 22, "kind": "event", "text": "This week Jagex launched the Red Reef, the second quest in the Tortugan storyline, and after monitoring feedback and reviewing XP from Rubium mining and smithing, put out a blog about nerfs to both."},
+        {"t": 124, "kind": "event", "text": "Jagex said it should have discussed changes of this scale to existing mining and smithing methods with players first, and compared Rubium to Duke mining and shooting stars as cases where XP rates did not align with long-term skill progression."},
+        {"t": 7, "kind": "opinion", "text": "Gnomonkey agrees overall that the Rubium and incendiary cannonball rates were too much and should have been tested more thoroughly, and says skilling cannot be both good at GP and XP because of market implications."},
+        {"t": 643, "kind": "tip", "text": "Gnomonkey notes the nerfs had not taken effect yet and would apply next update, so players wanting to use the tick-manipulated Rubium mining had until then."},
+        {"t": 762, "kind": "opinion", "text": "Gnomonkey says he understands why people ask how Jagex missed the Rubium rates, as players in the beta posted high 50k rates, and says Jagex's QA could be improved quite a bit and is a big sore spot."},
+        {"t": 828, "kind": "opinion", "text": "Gnomonkey says that as a PvM player he has seen Jagex QA problems such as two of the Yama contracts being literally impossible to complete and Doom of Mokhaiotl being a very buggy PvM release, and wants more QA for cleaner updates."}
+      ]
+    },
+    {
+      "name": "Rubium",
+      "kind": "item",
+      "claims": [
+        {"t": 124, "kind": "stat", "text": "Before the nerf, tick manipulation on Rubium mining reached around 133k Mining XP per hour when combined with various mining enhancement effects, matching granite's maximum of about 134k XP per hour."},
+        {"t": 156, "kind": "opinion", "text": "Gnomonkey says Rubium was effectively granite where you do not have to drop anything and the ore is a useful stackable resource, which he says would make granite so much easier."},
+        {"t": 189, "kind": "event", "text": "Jagex said that if Rubium mining remained the best mining XP method, Rubium splinters would become far less valuable over time and incendiary cannonballs would become the default for main accounts and iron accounts."},
+        {"t": 221, "kind": "stat", "text": "Gnomonkey says access to Rubium requires 60 Sailing and about 48 Mining, and that it gives the same XP as granite and a ton of valuable resources."},
+        {"t": 280, "kind": "event", "text": "Jagex is preventing tick manipulation from working on Rubium."},
+        {"t": 280, "kind": "event", "text": "Jagex is reducing the base Mining XP from Rubium by 20%, from 30 to 24 per action."},
+        {"t": 280, "kind": "event", "text": "Rubium rocks will always last at least three successful mining attempts, previously two, before their one in six depletion chance can start, and splinters received scale up with Mining level, up to three at level 96."},
+        {"t": 313, "kind": "stat", "text": "At level 96 Mining, 1.5-tick mining with all enhancers gave 133k XP and 4,700 splinters per hour; after the change fairly AFK Rubium mining gives 63 to 75k XP per hour and 2,100 to 2,500 splinters per hour, and Gnomonkey also quotes a proposed range of 51 to 60k XP per hour and 6,300 to 7,500 splinters per hour."},
+        {"t": 346, "kind": "stat", "text": "Rubium geodes must be cracked open individually with no crack-all option, but it is quick, so players could spam-click the last geode in the inventory to make splinters."},
+        {"t": 346, "kind": "opinion", "text": "Gnomonkey likes the increase to AFK time but wishes Jagex had not turned off tick manipulation, because he likes emergent engaging methods, as he loves in PvM."}
+      ]
+    },
+    {
+      "name": "Opinion: Rubium mining design",
+      "kind": "opinion",
+      "claims": [
+        {"t": 369, "kind": "method", "text": "Gnomonkey's alternative design is that every mine gives some stackable splinters plus a deposit that fills your inventory, which you take to a forge-like station in the cave and break down for extra splinters, as with Baronite; players tick manipulating would simply drop the deposits."},
+        {"t": 403, "kind": "opinion", "text": "Gnomonkey says his alternative would give a high-intensity 1.5-tick option that drops lots of resources while AFK players get extra splinters from breaking deposits down, making a more variable and interesting scaling method like an intensive granite for a useful resource."},
+        {"t": 463, "kind": "opinion", "text": "Gnomonkey says he would like both options to exist but does not hate making Rubium AFK and does not think the change is horrible, since Jagex had to do something balance-wise."},
+        {"t": 696, "kind": "opinion", "text": "Gnomonkey rejects the common Reddit claim that Jagex is ruining the game by discouraging tick manipulation or that tick manipulation holds back methods, calling it not reality."},
+        {"t": 707, "kind": "event", "text": "Jagex said it is aware many players would like more high-level mining XP methods in the future and is interested in exploring them."},
+        {"t": 734, "kind": "method", "text": "Gnomonkey suggests Jagex could add super granite rocks requiring 80 Sailing on an island that yield only XP at roughly 150k or more per hour while still dropping every rock, with higher requirements but the same method."}
+      ]
+    },
+    {
+      "name": "Granite",
+      "kind": "item",
+      "claims": [
+        {"t": 31, "kind": "opinion", "text": "Gnomonkey disagrees with Reddit comments that granite mining is ruining the game."},
+        {"t": 124, "kind": "stat", "text": "Granite mining at maximum efficiency (three-tick) gives about 134k Mining XP per hour."},
+        {"t": 249, "kind": "opinion", "text": "Gnomonkey says Rubium was not intended to be a granite 2.0, since it was meant to be an activity for a valuable resource rather than a method where you drop everything, but as released it was granite but better in every way: easier, better money and the same speed."}
+      ]
+    },
+    {
+      "name": "Cannonball",
+      "kind": "item",
+      "claims": [
+        {"t": 456, "kind": "stat", "text": "Players were achieving around 220k Smithing XP per hour by smithing incendiary rune cannonballs, an extremely low-intensity method because both cannonballs and Rubium splinters are stackable and need no banking."},
+        {"t": 494, "kind": "event", "text": "Jagex said Smithing XP per bar is something it typically respects outside content designed around it like Giants' Foundry, and that players were rewarded with Smithing XP twice for the cannonballs, once for the bar and again when converting."},
+        {"t": 520, "kind": "event", "text": "Jagex is making incendiary and chain shot cannonballs at least four times faster to create, one set of two cannonballs per tick instead of one every four ticks, while reducing the Smithing XP to a token amount."},
+        {"t": 520, "kind": "event", "text": "Chain shot cannonballs require banking, so Jagex will balance the changes so both types of cannonball give roughly equal XP."},
+        {"t": 552, "kind": "stat", "text": "Gnomonkey says making incendiary cannonballs cost about 30 gp per XP, so it would have been an extremely expensive, extremely AFK high XP method used only by the very wealthy, like the top 0.0001% of players."},
+        {"t": 584, "kind": "opinion", "text": "Gnomonkey says the pre-change incendiary cannonball method resembled smithing crystal armour with armour seeds, something normal players do not do but the very wealthy do, as seen in a max cape speedrun, and was not what Jagex intended."},
+        {"t": 611, "kind": "opinion", "text": "Gnomonkey says Ironmen would burn through cannonballs quickly and only very rich mains could take true advantage, so he thinks the change to a fast, token XP, divine-potion-like upgrade makes a ton of sense and he has no gripe with it."}
+      ]
+    },
+    {
+      "name": "Duke Sucellus",
+      "kind": "boss",
+      "claims": [
+        {"t": 64, "kind": "event", "text": "Jagex cited Duke mining and shooting stars as examples where changes were necessary because the XP rates in the gameplay loops did not align with long-term skill progression."},
+        {"t": 91, "kind": "opinion", "text": "Gnomonkey says the problem with Duke mining was not the roughly 10k XP per hour you could AFK for six hours, but that people were opening tons of instances at Duke, which hurt the servers."}
+      ]
+    },
+    {
+      "name": "Shooting Stars",
+      "kind": "activity",
+      "claims": [
+        {"t": 64, "kind": "event", "text": "Jagex cited shooting stars as a case where changes were necessary because XP rates did not align with long-term skill progression."},
+        {"t": 91, "kind": "opinion", "text": "Gnomonkey says shooting stars were changed to be less hop-heavy because players constantly hopping between worlds was destroying them, which he says actively harmed the game and made the nerf sensible."}
+      ]
+    },
+    {
+      "name": "Gnomonkey",
+      "kind": "person",
+      "claims": [
+        {"t": 31, "kind": "trivia", "text": "This video is Gnomonkey's 1000th video, and he says the channel is trying to reach 150k subscribers."}
+      ]
+    }
+  ]
+}

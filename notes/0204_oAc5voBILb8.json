@@ -1,0 +1,133 @@
+{
+  "id": "oAc5voBILb8",
+  "title": "VOTE NO to Varlamore Part 3 (OSRS)",
+  "date": "2025-02-04",
+  "type": "news-opinion",
+  "summary": "Gnomonkey urges players to vote no on the Varlamore: The Final Dawn poll, which includes the Mokha (delve) boss, arguing Jagex ignored all community reward suggestions, pushed out half-baked blogs after the survey scandal, and is over-fearing power creep. He argues rewards must suit an enraged, scaling boss and that a failed poll is the only feedback Jagex cannot ignore.",
+  "outline": [
+    {"t": 0, "text": "Blog analysis: Jagex announces a poll for the current rewards and one last Eldritch Necklace tweak"},
+    {"t": 82, "text": "Communication issues: promises to fix things later, with underrated rewards like the Elidinis' ward left unchanged"},
+    {"t": 159, "text": "Community reward suggestions: Tormented bracelet buff, Sunlight spear, mage warhammer, ward ideas, thrall upgrade"},
+    {"t": 246, "text": "Power creep and boss design: the two minimum hit walk-back and what the content is meant to be"},
+    {"t": 390, "text": "Zamorak (RS3 enraged boss) and boss standards"},
+    {"t": 450, "text": "Nex drop table as the gold standard for rewards"},
+    {"t": 616, "text": "Redefining power creep: some is necessary for hard content"},
+    {"t": 720, "text": "Demand for quality updates: delay rather than release unfinished work"},
+    {"t": 867, "text": "Impact of player voting and the Coliseum precedent"},
+    {"t": 975, "text": "Rewards must suit encounters"},
+    {"t": 1044, "text": "Call to action: vote no on all accounts"},
+    {"t": 1140, "text": "Why the poll matters and the 70% pass threshold"},
+    {"t": 1280, "text": "Focus on fun and longevity; he is not motivated by GP"},
+    {"t": 1376, "text": "Final plea and conclusion"}
+  ],
+  "topics": [
+    {
+      "name": "Poll: Varlamore: The Final Dawn",
+      "kind": "update",
+      "claims": [
+        {"t": 0, "kind": "event", "text": "Jagex's third blog on the Final Dawn rewards said that after much back and forth it would poll the current offerings, stating that it believes these rewards are suitable thematically and mechanically."},
+        {"t": 27, "kind": "event", "text": "The blog said Jagex would still be working on the delve boss for a while before the release of Varlamore: The Final Dawn, so there is still time to present new ideas if the team is struck by sudden inspiration or sees a fantastic player suggestion."},
+        {"t": 61, "kind": "event", "text": "The final tweak announced in the blog was to the Eldritch necklace: the demonic mark component would be untradeable while the Eldritch necklace would be tradeable, to alleviate endgame frustrations from untradeable items."},
+        {"t": 1160, "kind": "stat", "text": "Gnomonkey says polls need a 70% pass threshold and that anything that is not a new game mode or a PvP update has passed for the last four years, so he expects this one is likely to pass despite his urging."},
+        {"t": 1044, "kind": "opinion", "text": "Gnomonkey says he will vote no on this poll on all his accounts and urges everyone to do the same, even though he calls the Final Dawn his most hyped update ever, because he does not think it should be released in this state."},
+        {"t": 1160, "kind": "opinion", "text": "Gnomonkey argues a no vote is more impactful than a yes vote, and that Jagex can ignore Reddit posts or his video but cannot ignore a poll that fails."},
+        {"t": 1276, "kind": "opinion", "text": "Gnomonkey says he is putting the game before the update he wants, accepting that voting no may mean the boss does not come out."}
+      ]
+    },
+    {
+      "name": "Doom of Mokhaiotl",
+      "kind": "boss",
+      "claims": [
+        {"t": 333, "kind": "event", "text": "Gnomonkey says Mod Blossom said delve 8 is the final delve, but it can be repeated and does not continue to increase in difficulty, so the scaling difficulty effectively ends at cave eight."},
+        {"t": 366, "kind": "opinion", "text": "Gnomonkey says the lack of communication leaves it unclear whether the Doom of Mokhaiotl is an endgame encounter, because the rewards do not reflect that."},
+        {"t": 420, "kind": "opinion", "text": "Gnomonkey says he envisioned the Doom of Mokhaiotl as an enraged boss that could feasibly be the hardest boss in the game while being accessible to everyone at lower difficulty, and questions dropping a 2% magic damage necklace on it."},
+        {"t": 453, "kind": "event", "text": "The boss's rewards included boots with one ranged strength that combine all three boots, which Gnomonkey calls a solid upgrade but not enough."},
+        {"t": 1139, "kind": "opinion", "text": "Gnomonkey says the boss content is a big chunk with problems he can see before release, and that the rewards will give it no draw."},
+        {"t": 1067, "kind": "opinion", "text": "Gnomonkey says his long-held idea for an enraged boss is one where difficulty scales infinitely and rewards scale with it, so what you put in is what you get out, without gatekeeping everyone."},
+        {"t": 1067, "kind": "opinion", "text": "Gnomonkey says that for the Doom of Mokhaiotl he cares mostly about whether it is fun and whether players are rewarded, not about how hard it is."},
+        {"t": 1280, "kind": "opinion", "text": "Gnomonkey says an enraged boss appeals to everyone because mid-level players and up can try it at lower difficulty and still get drops."},
+        {"t": 1440, "kind": "opinion", "text": "Gnomonkey says he would still buy the rewards, since he has a maxed mage alt and plenty of GP, and what he cares about is whether the content has draw and creates discussion and excitement."}
+      ]
+    },
+    {
+      "name": "Eldritch Veil",
+      "kind": "item",
+      "claims": [
+        {"t": 61, "kind": "event", "text": "The Eldritch necklace (the reward then under poll) was changed so the necklace itself would be tradeable while the demonic mark component would be untradeable."},
+        {"t": 61, "kind": "opinion", "text": "Gnomonkey says he does not see an issue with this tradability tweak, saying it is the same as the Amulet of rancor, and he doesn't really care."},
+        {"t": 247, "kind": "event", "text": "Gnomonkey says the third blog stated that the necklace would not have the minimum hit of two, which was in the previous blog."},
+        {"t": 274, "kind": "event", "text": "Jagex said about the two minimum hit that it mainly wants to avoid additional power creep, and that combined with the existing plus 2% magic damage it would end up too strong."},
+        {"t": 274, "kind": "opinion", "text": "Gnomonkey finds it baffling that a minimum hit of two plus 2% magic damage is considered power creep from Inferno-tier content, saying it works out to about two max hits for a Sang in good situations."}
+      ]
+    },
+    {
+      "name": "Opinion: Power creep",
+      "kind": "opinion",
+      "claims": [
+        {"t": 274, "kind": "opinion", "text": "Gnomonkey says Jagex is so afraid of power creep that nothing can be added to the game anymore, and that the dev team seems crippled with fear."},
+        {"t": 661, "kind": "opinion", "text": "Gnomonkey argues that any extra option for a PvM encounter makes the game at least a little easier, so Jagex is trying to avoid giving extremely difficult bosses proper rewards to curb power creep a little longer."},
+        {"t": 723, "kind": "opinion", "text": "Gnomonkey says too much power creep is a bad thing and RuneScape 3 has it, since every update adds three new best-in-slot weapons from every boss, but he says Jagex has gone to the opposite extreme of allowing roughly 2% DPS increase wiggle room per update."},
+        {"t": 754, "kind": "opinion", "text": "Gnomonkey says a little power creep at a boss of high difficulty that deserves good rewards is not just fine but absolutely necessary, because the boss will have no draw without rewards."}
+      ]
+    },
+    {
+      "name": "Nex",
+      "kind": "boss",
+      "claims": [
+        {"t": 450, "kind": "opinion", "text": "Gnomonkey says Nex's drop table is a perfect example of rewards suiting a boss, and he disagrees with comments saying Nex drops too many good items."},
+        {"t": 480, "kind": "stat", "text": "According to Gnomonkey, the Nex ranged gloves have two ranged strength, decent accuracy, minor defence and one prayer bonus, making them an incredibly minor best-in-slot upgrade that is also no longer hybrid like Barrows gloves."},
+        {"t": 509, "kind": "stat", "text": "According to Gnomonkey, Torva armour from Nex gives six strength, one prayer and a lot of defence, which he says is a small upgrade over Bandos."},
+        {"t": 569, "kind": "opinion", "text": "Gnomonkey says the Zaryte crossbow is what Ironmen go to Nex for, calling it the best special attack weapon in the game for targets over 500 health that can be hit with ranged, making it best in over 20 bosses."},
+        {"t": 569, "kind": "opinion", "text": "Gnomonkey says the Ancient hilt has very little use, mostly for PKing, as a situational spec weapon."}
+      ]
+    },
+    {
+      "name": "Zamorak (RS3)",
+      "kind": "boss",
+      "claims": [
+        {"t": 394, "kind": "trivia", "text": "Gnomonkey shows Zamorak, an enraged boss on RuneScape 3 that has been the hardest boss in that game since July 2022, with players only recently reaching the overall cap of 60,000% enrage."},
+        {"t": 394, "kind": "opinion", "text": "Gnomonkey says RS3's Zamorak is a large-scale encounter with many mechanics added as you go, and that this is not what the Doom of Mokhaiotl is going to be."}
+      ]
+    },
+    {
+      "name": "Fortis Colosseum",
+      "kind": "activity",
+      "claims": [
+        {"t": 936, "kind": "opinion", "text": "Gnomonkey says the Fortis Colosseum had glaring flaws, including RNG picking invocations and rewards being poor, and that buff suggestions such as for the Tonalztics were ignored."},
+        {"t": 967, "kind": "opinion", "text": "Gnomonkey says the Tonalztics of Ralos is valuable only because it is extremely rare from some of the hardest content, and compares it to a main spec disc, and objects to being asked to accept the same again."},
+        {"t": 126, "kind": "opinion", "text": "Gnomonkey says Sunfire armour does not fit the Colosseum at all, as an example of items that were never revisited."}
+      ]
+    },
+    {
+      "name": "Opinion: Community reward suggestions for the delve boss",
+      "kind": "opinion",
+      "claims": [
+        {"t": 157, "kind": "tip", "text": "Gnomonkey highlights community suggestions such as a buff to the Tormented bracelet, a Sunlight spear (suggested by a user called Sax, tweaked in some way), and a mage warhammer or mage Bandos godsword that drains magic levels as a magic spec."},
+        {"t": 189, "kind": "tip", "text": "Gnomonkey notes a suggestion of a cryptic ward that buffs magic for one-handed items as an offhand, and another for a one-at-a-time buff per item."},
+        {"t": 219, "kind": "opinion", "text": "Gnomonkey says many people suggested ways to make the thrall upgrade work, and that Jagex scrapped it instead, and that every single community suggestion was ignored except the minimal change of the cape being something other than the original."},
+        {"t": 92, "kind": "opinion", "text": "Gnomonkey says he saw someone mention the Elidinis' ward as an underrated Tombs of Amascut reward that was never buffed, using it as an example of Jagex not coming back to fix things later."}
+      ]
+    },
+    {
+      "name": "Opinion: Update quality and Jagex deadlines",
+      "kind": "opinion",
+      "claims": [
+        {"t": 735, "kind": "opinion", "text": "Gnomonkey says he has lost faith in Jagex's reward design, arguing the devs with years of experience should be able to read feedback from the first blog and fix rewards."},
+        {"t": 817, "kind": "opinion", "text": "Gnomonkey argues Jagex should delay the delve boss if needed rather than release something that might be good enough, saying it should not be released and tweaked later knowing it will be bad."},
+        {"t": 879, "kind": "opinion", "text": "Gnomonkey says he accepts getting about one major hard update a year, but it should be refined and crafted."},
+        {"t": 1189, "kind": "opinion", "text": "Gnomonkey says Old School has a poll system, and other games do not, because not listening to the community did not work out back in the day when players quit and Old School RuneScape arose."},
+        {"t": 1370, "kind": "opinion", "text": "Gnomonkey says he does not want a bad taste left by an update that has glaring flaws, and that he wants Jagex to strive for perfection rather than just meeting a deadline."}
+      ]
+    },
+    {
+      "name": "Gnomonkey",
+      "kind": "person",
+      "claims": [
+        {"t": 1425, "kind": "stat", "text": "Gnomonkey says he has an alt with full max mage, so he can buy anything in the game and is not concerned about GP rewards."},
+        {"t": 1464, "kind": "tip", "text": "Gnomonkey says he does solo Tombs of Amascut 515s not because they are very good (about 10% better than a regular 515) but because they are a fun, different way to approach the content."},
+        {"t": 1464, "kind": "opinion", "text": "Gnomonkey says that for Tombs of Amascut he would not make it a 100% purple chance at 600 raid level nor a 0% chance under 450 raid level, and instead wants a balanced drop table."},
+        {"t": 1518, "kind": "event", "text": "Gnomonkey says he will stream the Titans update the next day, probably on the hardcore account, and says the rewards from that update sound pretty good."}
+      ]
+    }
+  ]
+}

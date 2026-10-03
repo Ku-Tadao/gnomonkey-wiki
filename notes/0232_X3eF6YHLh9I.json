@@ -1,0 +1,42 @@
+{
+  "id": "X3eF6YHLh9I",
+  "title": "WORLD'S 6TH OATHPLATE KIT COMPLETE (OSRS)",
+  "date": "2025-05-24",
+  "type": "showcase",
+  "summary": "A compilation of Gnomonkey's Yama contract kills from a roughly 20-hour stream in which he completed his Radiant Oathplate kit, which he says was the world's 6th. There is no guide commentary; the video is mostly live reactions to each contract.",
+  "outline": [
+    {"t": 0, "text": "First contract kill, taking little damage and using Blood Fury healing"},
+    {"t": 569, "text": "Sigil bottom contract completed in 9:39 with two instant mauls"},
+    {"t": 627, "text": "Managing stamina and run energy on later contracts"},
+    {"t": 1215, "text": "Line of sight plugin and full mage contract"},
+    {"t": 1749, "text": "Contract compared to Kephri Medic that kills you if a swarm goes in"},
+    {"t": 2873, "text": "Final contract completed after twenty and a half hours"},
+    {"t": 2930, "text": "Trying on the finished Oathplate set"}
+  ],
+  "topics": [
+    {
+      "name": "Oathplate armour",
+      "kind": "challenge",
+      "claims": [
+        {"t": 0, "kind": "record", "text": "Gnomonkey completed his Radiant Oathplate kit as the world's 6th player to do so, in May 2025, after a roughly 20 hour stream."},
+        {"t": 2873, "kind": "record", "text": "Gnomonkey says completing all the contracts for the kit took twenty and a half hours of stream."},
+        {"t": 0, "kind": "opinion", "text": "Gnomonkey calls the Radiant Oathplate kit one of the hardest challenges in the game at release."},
+        {"t": 0, "kind": "event", "text": "Per the description, the launch had many issues, including contracts being impossible to complete without hotfixes."},
+        {"t": 0, "kind": "opinion", "text": "Gnomonkey says 6th place is good enough for him and refers to himself as a D tier PvMer; he says he will not make a guide on these contracts."},
+        {"t": 2961, "kind": "event", "text": "After completion Gnomonkey tried the new Oathplate on with a Torva helmet and a Zek helmet and thought he was third to finish unless someone else had snuck in."}
+      ]
+    },
+    {
+      "name": "Yama",
+      "kind": "boss",
+      "claims": [
+        {"t": 569, "kind": "record", "text": "Gnomonkey completed the sigil bottom contract in 9:39 with two instant mauls, which he thought was probably a fairly fast completion; he says the key is keeping run energy high."},
+        {"t": 627, "kind": "tip", "text": "On the contract kills Gnomonkey used a stamina potion and a food that gives lots of health and 10 run energy when eaten to keep run energy up."},
+        {"t": 1215, "kind": "tip", "text": "Gnomonkey used the Line of sight plugin, set to five, for one of the contract kills, which he did in full mage."},
+        {"t": 1749, "kind": "opinion", "text": "Gnomonkey described one contract as Kephri Medic as a contract, except it kills you if a swarm goes in."},
+        {"t": 569, "kind": "opinion", "text": "Gnomonkey says one contract was one of the easiest of the contracts, and another easier than the previous one."},
+        {"t": 2921, "kind": "event", "text": "At completion Gnomonkey got no white Rancour and no pet, only the blue-eyed look he likes, and said a thrall saved his last kill."}
+      ]
+    }
+  ]
+}

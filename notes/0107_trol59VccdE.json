@@ -1,0 +1,214 @@
+{
+  "id": "trol59VccdE",
+  "title": "Ancient Prayer Book (ACTUALLY GOOD?) OSRS",
+  "date": "2023-03-07",
+  "type": "news-opinion",
+  "summary": "Gnomonkey reacts to Jagex's blog listing its ideas for the new ancient prayer book, going through each proposed prayer and giving his verdict. He is happy with the direction of heavier trade-offs for stronger offence, objects to Trinitas and to any form of Soul Split, criticises the planned removal of one-tick flicking, and argues the prayers should be put in a beta rather than scrapped because of Reddit feedback.",
+  "outline": [
+    {"t": 0, "text": "Intro: Jagex's blog matches the direction he hoped for; Overprotection and Rejuvenation"},
+    {"t": 82, "text": "Dampen prayers and chip damage"},
+    {"t": 135, "text": "Absorb prayers and his fragile protection idea"},
+    {"t": 196, "text": "Ancient Precision, Strength, Sight, Will, and Trinitas"},
+    {"t": 253, "text": "Ruinous Smite and Gambit"},
+    {"t": 350, "text": "Rebuke and Vengeance synergy"},
+    {"t": 400, "text": "Decimate, Annihilate and Vaporize power increase"},
+    {"t": 476, "text": "Vindication versus Redemption"},
+    {"t": 509, "text": "Metabolize, Wrath and Ruinous Grace"},
+    {"t": 583, "text": "Skilling prayers: Conservation, Ancient Abundance, Ancient Offering"},
+    {"t": 673, "text": "Community feedback and the Soul Split survey question"},
+    {"t": 780, "text": "One-tick flicking removal criticism"},
+    {"t": 868, "text": "Reddit comment, beta testing and conclusion"}
+  ],
+  "topics": [
+    {
+      "name": "Update: Ancient prayer book",
+      "kind": "update",
+      "claims": [
+        {"t": 0, "kind": "event", "text": "Jagex released a blog listing its ideas for additional prayers in the new prayer book."},
+        {"t": 0, "kind": "opinion", "text": "Gnomonkey is very happy that Jagex took the book in the direction he hoped, with extra damage received and heavier prayer drain traded for increased offensive output and additional recoil damage, and with no mention of Turmoil or Soul Split."},
+        {"t": 453, "kind": "opinion", "text": "Gnomonkey says the book is a chance to flesh out PvM and raise the skill cap across the game, and that making the prayers a direct upgrade would change nothing and just add power creep."},
+        {"t": 686, "kind": "opinion", "text": "Gnomonkey says he saw Reddit overwhelmingly respond that it was not interested in the prayers, either wanting them to be direct upgrades because they come from a Grandmaster quest (which he calls beyond stupid) or finding them uninteresting."},
+        {"t": 868, "kind": "opinion", "text": "Gnomonkey says the poll is to decide whether the prayers go into a beta, not whether they are added, and scrapping them untested because Reddit complained would be a huge waste."},
+        {"t": 868, "kind": "opinion", "text": "Gnomonkey also thinks that if Jagex is not confident it can get the prayer book right, it should not add it, since it is the biggest update to PvM in Old School history, affecting every monster encounter."},
+        {"t": 868, "kind": "opinion", "text": "Gnomonkey says he hates the idea of Jagex adding something that threatens the game's long-term health because they do not want to rescind the offer or vocal reception forces them to shoehorn it in, and says Jagex should not cave to the majority."}
+      ]
+    },
+    {
+      "name": "Overprotection",
+      "kind": "other",
+      "claims": [
+        {"t": 0, "kind": "stat", "text": "Overprotection protects two items on death but drains prayer by 25% of damage taken while active."},
+        {"t": 29, "kind": "opinion", "text": "Gnomonkey thinks Overprotection is a really good idea for a more unique Protect Item prayer: it lets you risk another item in PvP but at the risk of losing two additional items if smited."},
+        {"t": 29, "kind": "opinion", "text": "Gnomonkey says PKers are getting an even more draining Smite prayer, which would make it very risky to bring two expensive items, so players would likely bring cheaper ones; he is not a PKer but does some Wilderness content and finds it interesting."}
+      ]
+    },
+    {
+      "name": "Rejuvenation",
+      "kind": "other",
+      "claims": [
+        {"t": 56, "kind": "stat", "text": "Rejuvenation regenerates 1 HP every 20 seconds while active, with a hefty drain rate attached according to Jagex so it is not worth leaving on forever."},
+        {"t": 56, "kind": "opinion", "text": "Gnomonkey says the new prayer book needs Rapid Heal to reset your regen cooldown, but a Rapid Heal with a high drain rate is as useless as the old one; he does not mind it being not particularly useful or interesting since it is a necessary function."},
+        {"t": 82, "kind": "opinion", "text": "Gnomonkey would prefer Rejuvenation have the same drain rate as Rapid Heal, since the book already has loads of trade-offs."}
+      ]
+    },
+    {
+      "name": "Dampen prayers",
+      "kind": "other",
+      "claims": [
+        {"t": 82, "kind": "stat", "text": "The Dampen prayers are three protection prayers for melee, magic and ranged that reduce damage from the appropriate style by 90% instead of 100%."},
+        {"t": 82, "kind": "opinion", "text": "Gnomonkey says the Dampen prayers seem the most divisive of the proposed prayers, and for good reason."},
+        {"t": 108, "kind": "opinion", "text": "Gnomonkey notes Quiet Prayers is a Tombs of Amascut invocation at raid level 3 with the same effect and is the hardest invocation to add due to added damage everywhere; nobody uses it because its reward of 20 invocation levels is not worth the danger, except maybe for 500 speedruns."},
+        {"t": 108, "kind": "opinion", "text": "Gnomonkey says that for the new book the reward for choosing Dampen would be a tremendous amount of power, and that chip damage is not necessarily bad, as it is used well in Theatre of Blood at Maiden, Nylocas Vasilias and Verzik P3."},
+        {"t": 135, "kind": "opinion", "text": "Gnomonkey is unsure the Dampen trade-off is not too much for the book but would love to see it put into the beta and tested."}
+      ]
+    },
+    {
+      "name": "Absorb prayers",
+      "kind": "other",
+      "claims": [
+        {"t": 135, "kind": "stat", "text": "The Absorb prayers are another set of melee, magic and ranged protection prayers that reduce damage from the appropriate style by 100% but drain prayer points by 10% of the mitigated damage on top of normal prayer drain."},
+        {"t": 163, "kind": "opinion", "text": "Gnomonkey calls two sets of protection overheads a neat idea but is unsure how it would look in practice: you would likely only use the Absorb set for massive hits."},
+        {"t": 163, "kind": "opinion", "text": "Gnomonkey suggests instead a second set of fragile protection prayers giving 100% protection for only a maximum number of hits (maybe five hits per minute) before breaking and entering a cooldown; at Maiden you could constantly swap people to tank in front of the boss."}
+      ]
+    },
+    {
+      "name": "Ancient Precision, Strength, Sight and Will",
+      "kind": "other",
+      "claims": [
+        {"t": 196, "kind": "stat", "text": "Ancient Precision, Strength, Sight and Will are 20% stat boosts for each combat style."},
+        {"t": 196, "kind": "opinion", "text": "Gnomonkey says these are basically filler prayers for people without the level for the later ones, with nothing wrong with them and not much to discuss."}
+      ]
+    },
+    {
+      "name": "Trinitas",
+      "kind": "other",
+      "claims": [
+        {"t": 216, "kind": "stat", "text": "Trinitas gives a 15% accuracy and strength boost to all combat styles, and accuracy only for magic."},
+        {"t": 216, "kind": "opinion", "text": "Gnomonkey considers Trinitas the only poorly designed prayer on the whole prayer book: it is meant to ease people into PvM by removing the need to switch offensive prayers, which goes against the book's theme."},
+        {"t": 247, "kind": "opinion", "text": "Gnomonkey says Trinitas is a crutch encouraging players not to learn a basic skill important in all PvM encounters, and he would vote no on it, though few people would use it."}
+      ]
+    },
+    {
+      "name": "Ruinous Smite",
+      "kind": "other",
+      "claims": [
+        {"t": 256, "kind": "stat", "text": "Ruinous Smite reduces your opponent's and your own prayer points by 33% of damage dealt."},
+        {"t": 256, "kind": "opinion", "text": "Gnomonkey finds Ruinous Smite interesting but, as a non-PKer, says it only affects Muspah and escaping from PKers for him; he thinks the drain on the user may be a bit much but it is hard to tell without a beta."}
+      ]
+    },
+    {
+      "name": "Gambit",
+      "kind": "other",
+      "claims": [
+        {"t": 285, "kind": "stat", "text": "Gambit increases accuracy with all combat styles by 1% per 3% missing HP, which is 33% increased accuracy at 1 HP."},
+        {"t": 285, "kind": "opinion", "text": "Gnomonkey calls Gambit probably the most interesting prayer offered because it is an overhead usable alongside the offensive boost prayers, so it could be flicked to between protection prayers."},
+        {"t": 285, "kind": "opinion", "text": "Gnomonkey dislikes the low life mechanic because it basically requires a locator orb everywhere, and in some situations you cannot use a low locator orb; he thinks a flat buff would make more sense."},
+        {"t": 318, "kind": "tip", "text": "Gnomonkey notes that streamer and PvMer Hugo suggested Gambit give a flat 10% accuracy boost and 30% special attack accuracy, which would keep it worth flicking and somewhat fix the defence draining meta by letting Bandos godsword and hammers land more consistently."}
+      ]
+    },
+    {
+      "name": "Rebuke",
+      "kind": "other",
+      "claims": [
+        {"t": 350, "kind": "stat", "text": "Rebuke is an overhead that reflects 15% of damage taken but increases damage taken by 25%."},
+        {"t": 350, "kind": "opinion", "text": "Gnomonkey calls Rebuke a great idea and the Vengeance buff he wanted in his own prayer suggestions: paired with Vengeance it raises damage taken and so Vengeance's damage, and adds recoil on top, which would make Vengeance meta over thralls in quite a few places."},
+        {"t": 382, "kind": "stat", "text": "At Kalphite Queen, Gnomonkey says Rebuke would raise her max hit from 31 to 38, allowing a maximum recoil of 34 instead of 23 with Vengeance and the prayer combined."}
+      ]
+    },
+    {
+      "name": "Decimate, Annihilate and Vaporize",
+      "kind": "other",
+      "claims": [
+        {"t": 400, "kind": "stat", "text": "Decimate, Annihilate and Vaporize are offensive prayers giving 20% attack and 30% strength for melee and ranged and 25% attack and 4% damage for magic, with no defence boost whatsoever."},
+        {"t": 412, "kind": "stat", "text": "Gnomonkey calculates this is a 7% strength bonus for melee and range and 4% magic damage, effectively 8 strength levels or 11 ranged levels, which is 3 base max hits for the Scythe in max melee (4 on task) or effectively plus 6 due to the triple hit splat, and 6 max hits for the Twisted bow."},
+        {"t": 412, "kind": "stat", "text": "Gnomonkey says the Twisted bow's on-task max hit against max magic level would be 94, and the small magic damage boost is one max hit for Tumeken's shadow off task or two on task."},
+        {"t": 443, "kind": "stat", "text": "Gnomonkey calculated that if Reddit's suggestion of +25% ranged or melee damage over Rigor and Piety were true, the Twisted bow max hit off task would rise from 77 to 96, which he calls hilariously broken."},
+        {"t": 443, "kind": "opinion", "text": "Gnomonkey thinks the prayers as described in the blog are an appropriate DPS increase for the trade-offs."}
+      ]
+    },
+    {
+      "name": "Vindication",
+      "kind": "other",
+      "claims": [
+        {"t": 476, "kind": "stat", "text": "Vindication, when you are reduced below 10% of your max HP without taking lethal damage, heals you for 15% of your prayer level, takes 100% of your remaining prayer points and grants a 10% bonus damage on your next attack."},
+        {"t": 476, "kind": "opinion", "text": "Gnomonkey says Vindication is the prayer he wanted added most, since it was his suggestion in his earlier video and encourages proccing Redemption repeatedly at the cost of prayer points."},
+        {"t": 476, "kind": "stat", "text": "Vindication heals 15% of prayer level instead of Redemption's 25%, which Gnomonkey calculates as 18 instead of 24 HP."},
+        {"t": 509, "kind": "opinion", "text": "Gnomonkey says healing 18 would make Vindication unusable for Vespula and the tightrope skip in Challenge Mode Chambers of Xeric, and suggests giving it the exact same healing as Redemption plus the damage buff."}
+      ]
+    },
+    {
+      "name": "Metabolize",
+      "kind": "other",
+      "claims": [
+        {"t": 509, "kind": "stat", "text": "Metabolize reduces eating delay by 0.6 seconds while active; when disabled the action delay would be reset to your weapon's attack speed or left unchanged to prevent flicking."},
+        {"t": 541, "kind": "opinion", "text": "Gnomonkey says Metabolize effectively means eating wastes two ticks instead of three, a cool buff to hard food, but wonders whether it would work for potions and notes combo eating would be awkward with different delays."},
+        {"t": 541, "kind": "opinion", "text": "Gnomonkey notes Metabolize could allow two tick barbarian fishing by flicking it on and off, which would need an engine change to prevent or would be a massive skilling buff if allowed."}
+      ]
+    },
+    {
+      "name": "Wrath",
+      "kind": "other",
+      "claims": [
+        {"t": 571, "kind": "stat", "text": "The proposed Wrath prayer deals damage equal to 25% of your prayer level in a 5x5 radius around you on death, like Nex's attack when killed, and Gnomonkey calls it a super Retribution."}
+      ]
+    },
+    {
+      "name": "Ruinous Grace",
+      "kind": "other",
+      "claims": [
+        {"t": 579, "kind": "stat", "text": "Ruinous Grace drains prayer points instead of run energy while active, with the rate modified by prayer bonus and not accounting for effects like stamina."},
+        {"t": 579, "kind": "opinion", "text": "Gnomonkey thinks Ruinous Grace would be rarely used like Vile Vigour but could see use in places like Challenge Mode Chambers of Xeric or skilling spots like ZMI if it scales heavily with prayer bonus."}
+      ]
+    },
+    {
+      "name": "Opinion: Skilling prayers in the ancient prayer book",
+      "kind": "opinion",
+      "claims": [
+        {"t": 597, "kind": "stat", "text": "Conservation gives a chance to prevent a resource from depleting when harvested."},
+        {"t": 597, "kind": "opinion", "text": "Gnomonkey finds the skilling prayers as boring as expected and would prefer none, but sees nothing horribly wrong with Conservation, which would be a big AFK buff at redwoods or amethyst."},
+        {"t": 628, "kind": "stat", "text": "Ancient Abundance increases success chance while gathering."},
+        {"t": 628, "kind": "opinion", "text": "Gnomonkey calls Ancient Abundance incredibly boring and a big skilling buff that adds nothing to the game, though he would not vote no."},
+        {"t": 628, "kind": "stat", "text": "Ancient Offering gives a 75% chance to destroy a resource when obtaining it, but drains one additional prayer point whenever a resource is destroyed."},
+        {"t": 662, "kind": "opinion", "text": "Gnomonkey says Ancient Offering would be insane at barbarian fishing, teak trees and granite and would need many prayer potions, but he is not against it."}
+      ]
+    },
+    {
+      "name": "Soul Split",
+      "kind": "other",
+      "claims": [
+        {"t": 686, "kind": "event", "text": "Jagex's feedback form asked whether players would be interested in exploring a weaker version of Soul Split as a reward, which Gnomonkey finds incredibly worrying."},
+        {"t": 721, "kind": "opinion", "text": "Gnomonkey, a prior RS3 player, says Soul Split is meta-shattering and should never be added to the game in any form."},
+        {"t": 721, "kind": "stat", "text": "In RS3 Soul Split is an overhead on the ancient prayer book, used by Nex, that heals for 10% of damage dealt, down from a much higher figure through repeated nerfs."},
+        {"t": 721, "kind": "stat", "text": "For comparison Gnomonkey says Blood fury is effectively 6% healing from melee only but not consistent like Soul Split, and the two would stack."},
+        {"t": 747, "kind": "opinion", "text": "Gnomonkey says even a 5% Soul Split would remove the need for food in nearly every activity, shatter existing metas and let you tick eat all enemies simply by attacking them."},
+        {"t": 747, "kind": "event", "text": "Gnomonkey says Jagex mods had repeatedly said they would never add Soul Split, so he was not worried before, but now they seem at least somewhat open to it."}
+      ]
+    },
+    {
+      "name": "One-tick flicking",
+      "kind": "mechanic",
+      "claims": [
+        {"t": 780, "kind": "event", "text": "Jagex said in the prayer blog before this one that they would make one-tick flicking impossible as a trade-off with the new prayers; Gnomonkey assumes they are sticking to it as the new blog did not mention it."},
+        {"t": 780, "kind": "opinion", "text": "Gnomonkey sees no reason to prevent one-tick flicking with the listed prayers, calling it arbitrary like the lack of a spec orb in the Wilderness, and says it lowers the skill cap and makes flicking more annoying."},
+        {"t": 810, "kind": "opinion", "text": "Gnomonkey says lazy flicking is not easier than one-tick flicking and usually takes more effort, and that one-tick flicking is balanced by being unable to do anything else while doing it."},
+        {"t": 840, "kind": "opinion", "text": "Gnomonkey calls Reddit's claim that one-tick flicking is simply infinite prayer points ridiculously ignorant, and says preventing it just makes Inferno and high level Tombs of Amascut more annoying while not affecting other content."}
+      ]
+    },
+    {
+      "name": "Prayer",
+      "kind": "skill",
+      "claims": [
+        {"t": 868, "kind": "opinion", "text": "Gnomonkey quotes and agrees with a Reddit comment saying max-gear players who run hard mode Theatre of Blood or 450 scale Tombs of Amascut call the DPS buffs huge and worth the trade-off, while average players say they are not rewarding enough, and that the loudest voice should not decide."},
+        {"t": 896, "kind": "opinion", "text": "Gnomonkey says the higher-level player base knows how ridiculous adding this many max hits is, and that if the community is evenly divided maybe the book is not needed at all."}
+      ]
+    },
+    {
+      "name": "Gnomonkey",
+      "kind": "person",
+      "claims": [
+        {"t": 29, "kind": "opinion", "text": "Gnomonkey says he is not a PKer but does participate in some Wilderness content."},
+        {"t": 930, "kind": "event", "text": "Gnomonkey said he would discuss the prayers further that night on his Twitch livestream while doing Challenge Mode Chambers of Xeric, Inferno and Tombs of Amascut."}
+      ]
+    }
+  ]
+}

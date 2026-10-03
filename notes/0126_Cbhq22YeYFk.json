@@ -1,0 +1,221 @@
+{
+  "id": "Cbhq22YeYFk",
+  "title": "RS3 - Day Two - Exploration",
+  "date": "2023-10-18",
+  "type": "series-episode",
+  "summary": "Day two of Gnomonkey's RuneScape 3 ironman series, covering early questing with voice acting and god choices, early skilling and what the account needs for PvM, the Fire Cape, Kiln cape and Zuk-equivalent capes in RS3, and the long list of dailies, weeklies and monthlies. He says questing is even more rewarding than in OSRS and that RS3 music is great.",
+  "outline": [
+    {
+      "t": 0,
+      "text": "Story introduction and voice acting"
+    },
+    {
+      "t": 96,
+      "text": "Voice acting and questing"
+    },
+    {
+      "t": 182,
+      "text": "Choosing a god in a quest"
+    },
+    {
+      "t": 269,
+      "text": "Skilling, early-game feel and combat preparation (Herblore for overloads)"
+    },
+    {
+      "t": 377,
+      "text": "Boss cutscene, Fire Cape, Kiln cape and the best hybrid cape"
+    },
+    {
+      "t": 596,
+      "text": "Fort construction and the daily, weekly and monthly task lists"
+    }
+  ],
+  "topics": [
+    {
+      "name": "RuneScape 3 ironman series",
+      "kind": "account",
+      "claims": [
+        {
+          "t": 0,
+          "kind": "event",
+          "text": "This is day two of Gnomonkey's journey in RuneScape 3 as an ironman; he says questing seems even more relevant and rewarding than in OSRS with additional XP and teleport areas."
+        },
+        {
+          "t": 0,
+          "kind": "opinion",
+          "text": "Gnomonkey says RS3 music is absolutely insane, and he no longer plays his own music on stream when playing RS3."
+        },
+        {
+          "t": 0,
+          "kind": "event",
+          "text": "Per the description, RS3 videos had been heavily requested, and now that SubTember is over and he has an assistant editor, Gnomonkey says he can start making RS3 content."
+        },
+        {
+          "t": 61,
+          "kind": "opinion",
+          "text": "Gnomonkey says the early game of RS3 is worse than the early game of OSRS and that early game is not what you come to RS3 for."
+        },
+        {
+          "t": 269,
+          "kind": "tip",
+          "text": "Gnomonkey says basically any extra XP from lamps goes straight into Herblore on his RS3 ironman and will stay that way for all eternity."
+        }
+      ]
+    },
+    {
+      "name": "RuneScape 3 quests",
+      "kind": "quest",
+      "claims": [
+        {
+          "t": 96,
+          "kind": "opinion",
+          "text": "Gnomonkey likes that in RS3 you can see buildings and monuments in the distance."
+        },
+        {
+          "t": 96,
+          "kind": "trivia",
+          "text": "Gnomonkey enjoys the voice acting in RS3 quests, though he notes that not every character is voice acted."
+        },
+        {
+          "t": 154,
+          "kind": "trivia",
+          "text": "The quest Missing, Presumed Death lets the player choose between gods or go godless, and Gnomonkey says Guthix looks the worst of all of them in his opinion."
+        },
+        {
+          "t": 182,
+          "kind": "event",
+          "text": "Gnomonkey chose to side with the dog-like god (his words: 'we're picking the dog') in the RS3 god-choice quest, joking that anything he picked would make him a furry."
+        }
+      ]
+    },
+    {
+      "name": "Herblore (RuneScape 3)",
+      "kind": "skill",
+      "claims": [
+        {
+          "t": 293,
+          "kind": "requirement",
+          "text": "In RS3, regular overloads take 96 Herblore, supreme overloads (which boost more) take 98 Herblore, and elder overloads (which boost even more) take 106 Herblore."
+        },
+        {
+          "t": 293,
+          "kind": "opinion",
+          "text": "Gnomonkey says extremely high Herblore is needed for PvM in RS3 for overloads, and that it is equally as hard on an RS3 ironman as on an OSRS ironman."
+        },
+        {
+          "t": 677,
+          "kind": "stat",
+          "text": "Gnomonkey says finding all the penguins across the RS3 map gives about 50,000 Herblore XP."
+        }
+      ]
+    },
+    {
+      "name": "Skilling in RuneScape 3",
+      "kind": "skill",
+      "claims": [
+        {
+          "t": 281,
+          "kind": "opinion",
+          "text": "Gnomonkey says RS3 woodcutting animation looks like the character's arm and axe are pool noodles."
+        },
+        {
+          "t": 341,
+          "kind": "opinion",
+          "text": "Gnomonkey says many RS3 skills are still really bad even compared to OSRS and that things like Agility are still very slow."
+        },
+        {
+          "t": 341,
+          "kind": "stat",
+          "text": "Getting to 30 woodcutting on Gnomonkey's RS3 account took maybe an hour or two."
+        },
+        {
+          "t": 341,
+          "kind": "tip",
+          "text": "Gnomonkey says he will eventually still have to kill Dagannoth Rex to get a dragon hatchet in RS3, the exact same way as in old school."
+        },
+        {
+          "t": 341,
+          "kind": "tip",
+          "text": "Gnomonkey says one of the big upcoming grinds is fishing in Shilo Village to get enough fishing level for desert fish, which will be his combat food from then on."
+        },
+        {
+          "t": 600,
+          "kind": "opinion",
+          "text": "Gnomonkey says training construction in Fort Forinthry makes more sense than in old school because you are actually building a fort instead of destroying furniture over and over, and it gives buffs as the fort is built up."
+        },
+        {
+          "t": 600,
+          "kind": "tip",
+          "text": "Gnomonkey says Fort Forinthry is connected to the wilderness and is the big skilling hub where you can train prayer, Herblore and construction among other things."
+        }
+      ]
+    },
+    {
+      "name": "Fire Cape (RuneScape 3)",
+      "kind": "item",
+      "claims": [
+        {
+          "t": 529,
+          "kind": "stat",
+          "text": "The RS3 Fire Cape is very similar to OSRS, but Gnomonkey says it is harder than you would think because protection prayers are only 50% effective in RS3, so mages hit through prayer very hard."
+        },
+        {
+          "t": 529,
+          "kind": "requirement",
+          "text": "Gnomonkey says he needs to be a decent level and have decent gear to get the RS3 Fire Cape."
+        },
+        {
+          "t": 529,
+          "kind": "stat",
+          "text": "After the Fire Cape in RS3 there is the Kiln cape from the Fight Kiln, which Gnomonkey says is like the Inferno but a complete joke in comparison."
+        },
+        {
+          "t": 555,
+          "kind": "stat",
+          "text": "In the Fight Kiln the last waves are a regular Jad then two Jads which you can safespot and kill one at a time, and the final boss is easier than a single Jad; Gnomonkey says the Kiln is easier than getting a Fire Cape."
+        },
+        {
+          "t": 555,
+          "kind": "stat",
+          "text": "Gnomonkey says there is one more cape after that from Zuk, with several different capes, and that the best-for-all-styles hybrid cape comes from defeating him in hard mode with a bunch of restrictions, which he calls the true Inferno Cape of RS3."
+        },
+        {
+          "t": 555,
+          "kind": "opinion",
+          "text": "Gnomonkey says that cape will require very solid gear and he plans to work up to it eventually."
+        }
+      ]
+    },
+    {
+      "name": "Dailies, weeklies and monthlies (RuneScape 3)",
+      "kind": "activity",
+      "claims": [
+        {
+          "t": 616,
+          "kind": "opinion",
+          "text": "Gnomonkey says RS3 has so many dailies that you will be doing them for upwards of an hour a day, and that it is one of the things he hates most about RS3."
+        },
+        {
+          "t": 646,
+          "kind": "tip",
+          "text": "RS3 dailies listed by Gnomonkey: caches, Jack of Trades, soul obelisk and squishing scarabs for Menaphos reputation, mining sandstone for glass for flasks, Nemi Forest for raid reputation, the Reaper boss task, and shop runs since RS3 shops reset daily."
+        },
+        {
+          "t": 677,
+          "kind": "tip",
+          "text": "RS3 weeklies listed by Gnomonkey: tiers of Gothics like in old school, Herbi Werby (Herblore XP), Helping Meg (an XP lamp each week), killing Agaroth twice (a bonus XP crystal) and finding all the penguins."
+        },
+        {
+          "t": 677,
+          "kind": "stat",
+          "text": "Troll Invasion monthly gives roughly a 30k XP lamp for about five minutes of effort, according to Gnomonkey."
+        },
+        {
+          "t": 707,
+          "kind": "tip",
+          "text": "Other RS3 monthlies Gnomonkey lists: building all the god statues for construction, prayer or slayer XP, and feeding the giant oyster, which gives the same as a master clue casket plus farming and fishing XP."
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,436 @@
+{
+  "id": "6VJYbPtkvfI",
+  "title": "DMM New Player Experience Needs Work (OSRS)",
+  "date": "2026-02-04",
+  "type": "news-opinion",
+  "summary": "Gnomonkey gives his thoughts on Deadman: Annihilation after about 25 hours as a PvMer new to PvP. He enjoyed Yama's meatballs and the combat brackets, but criticises breach points, the Deadman chests, and a confusing new-player experience. He argues Jagex should commit to making it a PvP mode rather than a watered-down Leagues.",
+  "outline": [
+    {
+      "t": 0,
+      "text": "Initial thoughts: Deadman Annihilation is casualised and Gnomonkey is the target new-to-PvP demographic"
+    },
+    {
+      "t": 60,
+      "text": "Breaches and balance: Yama's meatballs"
+    },
+    {
+      "t": 102,
+      "text": "Survival strategies: combat brackets and immunity hour"
+    },
+    {
+      "t": 190,
+      "text": "His PvP experience: killing skillers and thieves for money"
+    },
+    {
+      "t": 227,
+      "text": "Gripes and population: worlds not as full as Leagues"
+    },
+    {
+      "t": 351,
+      "text": "Points and progression: breach top-16 limit and boring point grinds"
+    },
+    {
+      "t": 462,
+      "text": "Deadman chests: abuse, alts and bugs"
+    },
+    {
+      "t": 544,
+      "text": "New player friction: starter sigil, bone crossbow, emblem chest, starter crate"
+    },
+    {
+      "t": 745,
+      "text": "Streamlining issues: restrictions and the sigil shop menu"
+    },
+    {
+      "t": 863,
+      "text": "League vs Deadman: copy the Leagues menu approach and points design"
+    },
+    {
+      "t": 1056,
+      "text": "Proposed improvements: reward dangerous activity, make escaping obvious"
+    },
+    {
+      "t": 1132,
+      "text": "Final thoughts: commit to PvP, one point system, and Leagues worry"
+    }
+  ],
+  "topics": [
+    {
+      "name": "Deadman: Annihilation",
+      "kind": "update",
+      "claims": [
+        {
+          "t": 0,
+          "kind": "event",
+          "text": "Jagex recently released Deadman: Annihilation, a temporary game mode encouraging PvP with a Leagues-like feel."
+        },
+        {
+          "t": 0,
+          "kind": "opinion",
+          "text": "Gnomonkey says Deadman: Annihilation was casualised by removing things like looting other players' banks, and Jagex marketed it as doable even if you do not do PvP."
+        },
+        {
+          "t": 31,
+          "kind": "trivia",
+          "text": "Gnomonkey describes himself as a PvMer and extreme PvP novice who used Deadman: Annihilation to practise for All-Stars, making him the target demographic for the casualised mode."
+        },
+        {
+          "t": 233,
+          "kind": "stat",
+          "text": "Gnomonkey observed that Deadman: Annihilation worlds were not as busy as Leagues worlds: a Leagues world would have over a thousand players, while some Deadman worlds were dropping below 200 at almost midnight his time."
+        },
+        {
+          "t": 233,
+          "kind": "opinion",
+          "text": "Gnomonkey says Deadman: Annihilation streams were not really popping off and the mode did not grab players the way Leagues does."
+        },
+        {
+          "t": 1090,
+          "kind": "opinion",
+          "text": "Gnomonkey considers Deadman: Annihilation a 'meh' game mode that is not capturing people because Jagex tried to Leagues-ify it."
+        },
+        {
+          "t": 1330,
+          "kind": "opinion",
+          "text": "Gnomonkey is worried that releasing a temporary game mode in the same year as Leagues may leave players burnt out on temporary game modes."
+        },
+        {
+          "t": 1330,
+          "kind": "opinion",
+          "text": "Gnomonkey hopes future Deadman modes drop the jack-of-all-trades approach and focus on PvP, while keeping bank keys removed and making things more obvious."
+        }
+      ]
+    },
+    {
+      "name": "Deadman breaches",
+      "kind": "mechanic",
+      "claims": [
+        {
+          "t": 58,
+          "kind": "method",
+          "text": "Breaches in Deadman: Annihilation spawn many random bosses roughly every seven hours (as Gnomonkey recalls); killing them gives PvP-helping drops such as emblems and supply drops, plus points."
+        },
+        {
+          "t": 85,
+          "kind": "event",
+          "text": "The big breach addition in Deadman: Annihilation was Yama, who spams meatballs that one-shot players."
+        },
+        {
+          "t": 85,
+          "kind": "opinion",
+          "text": "Gnomonkey calls Yama's meatballs maybe the best addition to any Deadman mode ever and loves the chaos of players being wiped out in droves."
+        },
+        {
+          "t": 291,
+          "kind": "requirement",
+          "text": "Breach points were meant to be one point per point of damage dealt to a boss, but only the top 16 damage dealers receive any points, which Jagex did not mention when marketing it."
+        },
+        {
+          "t": 320,
+          "kind": "stat",
+          "text": "With over a thousand players at breaches, getting into the top 16 damage dealers is very hard, so points from breaches were barely obtainable."
+        },
+        {
+          "t": 352,
+          "kind": "event",
+          "text": "Jagex said on the Wednesday that it planned to raise the breach points cutoff to the top 100 players, which Gnomonkey says is still not many given the crowds."
+        },
+        {
+          "t": 352,
+          "kind": "trivia",
+          "text": "At a breach on day one or two Gnomonkey's client lagged so badly he could barely move, and Yama's meatballs turned invisible because of the number of players, killing people with invisible meatballs."
+        }
+      ]
+    },
+    {
+      "name": "Deadman combat brackets",
+      "kind": "mechanic",
+      "claims": [
+        {
+          "t": 85,
+          "kind": "opinion",
+          "text": "Gnomonkey felt the combat brackets in Deadman: Annihilation were pretty well balanced even though many players complained."
+        },
+        {
+          "t": 102,
+          "kind": "method",
+          "text": "In Deadman: Annihilation, once you reach a certain combat level you are booted from the world, cannot gain XP, and can access the bank only a few times before moving to a new world for a different combat bracket."
+        },
+        {
+          "t": 113,
+          "kind": "opinion",
+          "text": "Gnomonkey says brackets enabled pure and other builds and had fun in the level 60 to 80 bracket, though he heard the 1 to 60 bracket became horrible after a few days from pker camping."
+        },
+        {
+          "t": 113,
+          "kind": "method",
+          "text": "Each new bracket entered gives one hour of immunity in which no one can attack you, which Gnomonkey enjoyed min-maxing; he spent his on Barrows, got nothing, then started killing people."
+        }
+      ]
+    },
+    {
+      "name": "Deadman: Annihilation PvP experience",
+      "kind": "opinion",
+      "claims": [
+        {
+          "t": 146,
+          "kind": "opinion",
+          "text": "Gnomonkey did not feel clans were a big problem in multi-combat areas; he was killed only once or twice at Scurrius when a clan swept through, and mostly players in multi areas left each other alone."
+        },
+        {
+          "t": 175,
+          "kind": "tip",
+          "text": "Gnomonkey's Deadman: Annihilation PvP approach was killing skillers doing chinchompas, players thieving wealthy citizens, and players at the Agility Pyramid, targeting people carrying money who would not fight back much."
+        },
+        {
+          "t": 204,
+          "kind": "opinion",
+          "text": "Gnomonkey says he started to have much more fun in Deadman: Annihilation when he stopped focusing on points and the grind and just killed people for money."
+        }
+      ]
+    },
+    {
+      "name": "Deadman points and sigils",
+      "kind": "mechanic",
+      "claims": [
+        {
+          "t": 265,
+          "kind": "method",
+          "text": "Deadman points work like Leagues points and are spent on sigils, such as an instant crop-harvesting sigil or a sigil giving one tick faster mage attack speed, and on unlocking things like Ancient Magicks and Barrows gloves."
+        },
+        {
+          "t": 312,
+          "kind": "stat",
+          "text": "In Deadman: Annihilation a level-up gives five points, while one point of damage on a breach boss gives one point."
+        },
+        {
+          "t": 383,
+          "kind": "stat",
+          "text": "Killing a player in Deadman: Annihilation gives five points per kill up to 100 kills, equal to roughly one level-up, which Gnomonkey says is poor when XP rates are ten times normal."
+        },
+        {
+          "t": 383,
+          "kind": "method",
+          "text": "Other Deadman: Annihilation point sources include combat achievements, regular diaries, levelling stats and clues (a sigil makes clues a single step), so the best method is skilling, raids (ignoring purples for combat achievements) and clues."
+        },
+        {
+          "t": 446,
+          "kind": "opinion",
+          "text": "Gnomonkey says points are essential: without grinding them you will not keep up when moving up brackets, as others will attack faster, have much higher accuracy and unlimited prayer points."
+        },
+        {
+          "t": 410,
+          "kind": "opinion",
+          "text": "Gnomonkey says grinding Deadman points through skilling, raids and clues is boring and not dangerous, like Leagues but in a PvP game mode."
+        }
+      ]
+    },
+    {
+      "name": "Deadman chests",
+      "kind": "mechanic",
+      "claims": [
+        {
+          "t": 446,
+          "kind": "method",
+          "text": "Deadman chests are announced in chat; you open one by sitting at it doing a thieving-style opening animation for 60 seconds, after which you get strong loot."
+        },
+        {
+          "t": 476,
+          "kind": "stat",
+          "text": "The Deadman chests in Deadman: Annihilation can give the Dragon sword and the Khopesh, which Gnomonkey calls absolutely wild."
+        },
+        {
+          "t": 476,
+          "kind": "opinion",
+          "text": "Gnomonkey says basically only players with ultimate-level setups or Giga Max risks bother with the chests, since sitting defenceless for 60 seconds is dangerous."
+        },
+        {
+          "t": 490,
+          "kind": "trivia",
+          "text": "A bug let players log out underneath the chest and log back in inside it, where they could still open it and no one could hit them."
+        },
+        {
+          "t": 510,
+          "kind": "trivia",
+          "text": "Players abused the chests by arriving with around ten alts and shooting anyone opening the chest with bone crossbows, so whoever had the most alts won the chest."
+        },
+        {
+          "t": 538,
+          "kind": "opinion",
+          "text": "Gnomonkey considers the Deadman chests a lame addition and says most players ignored them because the loot was not worth the trouble."
+        }
+      ]
+    },
+    {
+      "name": "Deadman: Annihilation new player experience",
+      "kind": "opinion",
+      "claims": [
+        {
+          "t": 539,
+          "kind": "opinion",
+          "text": "Gnomonkey says Deadman: Annihilation was his first Deadman, and that veterans may find new-player friction less of an issue but it is important if Jagex wants a more casual mode."
+        },
+        {
+          "t": 571,
+          "kind": "method",
+          "text": "The starter sigil (for example melee, magic or ranged) is picked by clicking the skull in the equipment tab, rather than a menu popping up on login like in Leagues; Gnomonkey's chat repeatedly asked how to pick it."
+        },
+        {
+          "t": 602,
+          "kind": "trivia",
+          "text": "Bone crossbows are sold in the Varrock Archery Shop, which Gnomonkey says new players cannot discover without a wiki."
+        },
+        {
+          "t": 630,
+          "kind": "trivia",
+          "text": "A chest at the Grand Exchange lets players turn in emblems from breaches for points to buy items such as potions, a granite maul handle and a ring pouch."
+        },
+        {
+          "t": 659,
+          "kind": "method",
+          "text": "The starter crate (tuna, basic starter weapons, and a chronicle to teleport) can be claimed once per day from the Combat Tutor in Lumbridge, or you get it back if you die a PvP death."
+        },
+        {
+          "t": 688,
+          "kind": "requirement",
+          "text": "Entering raids in Deadman: Annihilation requires at least 800k risk, but Gnomonkey says players gamed this with inflated GE-value items so it served no purpose."
+        },
+        {
+          "t": 694,
+          "kind": "method",
+          "text": "In Deadman: Annihilation the peek option is disabled on bosses that have one, and you cannot bank items worth over 10k while in a fight, which Gnomonkey learned when overload clicks at a bank did nothing."
+        },
+        {
+          "t": 774,
+          "kind": "opinion",
+          "text": "Gnomonkey says Jagex failed at the easiest step of making Deadman friendly to new players, which is making things obvious, and wants an NPC like the Leagues Sage as a hub for game-mode items such as the bone crossbow and lost gear."
+        }
+      ]
+    },
+    {
+      "name": "Deadman sigil shop",
+      "kind": "mechanic",
+      "claims": [
+        {
+          "t": 808,
+          "kind": "trivia",
+          "text": "In Deadman: Annihilation all sigils are bought with points from a sigil shop, whereas Gnomonkey thinks they previously dropped from monsters."
+        },
+        {
+          "t": 829,
+          "kind": "opinion",
+          "text": "Gnomonkey calls the Deadman sigil shop menu horrendous: it is not alphabetical, the sigils appear in random order, the filters are haphazard, and it has no search function."
+        },
+        {
+          "t": 850,
+          "kind": "opinion",
+          "text": "Gnomonkey says the sigil menu is the most used menu in Deadman and needs a search function, more filters and proper sorting, as finding a sigil like Litheness takes around 30 seconds to two minutes of scrolling."
+        }
+      ]
+    },
+    {
+      "name": "Opinion: Deadman should copy Leagues menus",
+      "kind": "opinion",
+      "claims": [
+        {
+          "t": 888,
+          "kind": "opinion",
+          "text": "Gnomonkey would copy Leagues: Deadman's skull item opens a shop, must be banked and only works in safe zones, whereas he wants a Deadman menu that opens everything, including the Grand Exchange chest, the bone crossbow and all sigils with working search and filters."
+        },
+        {
+          "t": 918,
+          "kind": "opinion",
+          "text": "Gnomonkey says Deadman has forgotten everything Leagues learned about onboarding and menus."
+        }
+      ]
+    },
+    {
+      "name": "Opinion: Deadman should push dangerous PvP",
+      "kind": "opinion",
+      "claims": [
+        {
+          "t": 925,
+          "kind": "opinion",
+          "text": "Gnomonkey says awarding points for nearly any activity (PvM, skilling, diaries, combat achievements, clues) lets players earn points without PvP, which goes against pushing them to dangerous areas."
+        },
+        {
+          "t": 978,
+          "kind": "opinion",
+          "text": "Gnomonkey says Jagex should make freezes, myth seeds, escaping and teleporting accessible to new players; he only learned about myth seeds in the last hours of a roughly 25-hour playthrough."
+        },
+        {
+          "t": 978,
+          "kind": "trivia",
+          "text": "Myth seeds come from Legends' Quest, about eight quests deep with no unlock for it in Deadman, so the only way to get seeds is killing zombie pirates."
+        },
+        {
+          "t": 1040,
+          "kind": "opinion",
+          "text": "Gnomonkey would give access to Desert Treasure from the start of Deadman instead of locking it behind points, since freezes are mandatory for escaping and otherwise you hope you have entangle sacks."
+        },
+        {
+          "t": 1056,
+          "kind": "opinion",
+          "text": "Gnomonkey would make Barrows give the most points of any boss, more than raids, because going to Barrows is more dangerous than doing Tombs of Amascut and Barrows gear is more useful for PvP than raid gear."
+        },
+        {
+          "t": 1056,
+          "kind": "opinion",
+          "text": "Gnomonkey suggests opening Deadman chests, going to dangerous areas, or getting one kill in a breach should give big chunks of points, for example 500 points for a kill, to encourage fights even if players use alts."
+        },
+        {
+          "t": 1124,
+          "kind": "opinion",
+          "text": "Gnomonkey says players hiding in raids and AFKing skills for points are not interacting with anything that makes the game mode special."
+        },
+        {
+          "t": 1124,
+          "kind": "opinion",
+          "text": "Gnomonkey likes the lower risk and the absence of bank keys in Deadman: Annihilation, but wants more incentive for dangerous activity and less for hiding in raids."
+        }
+      ]
+    },
+    {
+      "name": "Opinion: Deadman should have its own point system",
+      "kind": "opinion",
+      "claims": [
+        {
+          "t": 1181,
+          "kind": "opinion",
+          "text": "Gnomonkey says Jagex should commit to Deadman being a PvP mode, and stop making it Leagues with PvP enabled."
+        },
+        {
+          "t": 1215,
+          "kind": "opinion",
+          "text": "Gnomonkey proposes one point system where Leagues points can buy Deadman items, so players who do not want Deadman are not forced into it and Deadman rewards can be bought later with points from the next Leagues or prior Leagues."
+        },
+        {
+          "t": 1215,
+          "kind": "stat",
+          "text": "Gnomonkey says the Void Waker scroll from Deadman is around 200 million because no one plays Deadman."
+        },
+        {
+          "t": 1245,
+          "kind": "opinion",
+          "text": "Gnomonkey says feedback from players who only want points mostly asks for easier points, which would not improve the mode, as the mode needs to be more PvP-centric and engaging."
+        }
+      ]
+    },
+    {
+      "name": "Swapping",
+      "kind": "mechanic",
+      "claims": [
+        {
+          "t": 1270,
+          "kind": "opinion",
+          "text": "Gnomonkey says players buying gold for Deadman gives huge advantages, such as multiple days ahead with Giga Max setups, but he cannot think of a solution since a PvP mode must allow taking items from people."
+        },
+        {
+          "t": 1303,
+          "kind": "tip",
+          "text": "Gnomonkey thinks the best mitigation for stacked players is making escaping more obvious, for example that if you freeze someone and go under them you can log out."
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,81 @@
+{
+  "id": "WvmEY9v6AnI",
+  "title": "WIKI GUIDES - VORKATH (OSRS)",
+  "date": "2024-05-18",
+  "type": "challenge",
+  "summary": "Gnomonkey kills Vorkath in the OSRS Wiki's worst melee downgrade setup (Justiciar, Slayer helmet, granite gloves, Abyssal dagger, no salve, Rune defender), which takes about three minutes, then uses Gearscape's budget tool for a mixed hide plus Osmumten's fang setup that kills much faster. He criticises the wiki for offering downgrades from a free, easily obtained salve amulet and for listing a ring of recoil.",
+  "outline": [
+    {"t": 0, "text": "Wiki Vorkath setup and grinding a Rune defender at the Warriors Guild Cyclopes"},
+    {"t": 64, "text": "Reviewing the wiki's options: crossbow, blowpipe and the melee setup he picked"},
+    {"t": 181, "text": "Assembling the downgraded melee gear and checking max hit"},
+    {"t": 241, "text": "Abyssal dagger and Arclight specs; no salve amulet"},
+    {"t": 326, "text": "The first Vorkath kill takes about three minutes"},
+    {"t": 378, "text": "Using the Gearscape tool with a budget excluding ranged and mage"},
+    {"t": 421, "text": "Testing the Osmumten's fang and mixed hide setup"},
+    {"t": 538, "text": "Comparing kill times and the blowpipe with BGS option"},
+    {"t": 618, "text": "Critique of the wiki's downgrades, including salve and ring of recoil"}
+  ],
+  "topics": [
+    {
+      "name": "Vorkath",
+      "kind": "boss",
+      "claims": [
+        {"t": 0, "kind": "event", "text": "Gnomonkey does Vorkath using the OSRS Wiki's worst melee setup: Justiciar armour, Bandos boots, granite gloves, a Slayer helmet, an Abyssal dagger and a Rune defender, with no salve amulet."},
+        {"t": 181, "kind": "stat", "text": "In the downgraded Vorkath setup Gnomonkey's max hit is 37 with Piety and 44 with extra boosts, while he calls the setup's magic bonus very negative so he has to take off pieces for the spawn."},
+        {"t": 241, "kind": "stat", "text": "Gnomonkey notes the Abyssal dagger special attack reduces your max hit, and says it is probably still better than Arclight."},
+        {"t": 270, "kind": "stat", "text": "Gnomonkey says the Arclight special drains Vorkath's defence by 10 levels after first saying 12."},
+        {"t": 355, "kind": "record", "text": "Gnomonkey's downgraded Vorkath kill took about three minutes (two and a half minutes in when he commented), and he compared the later budget kill to this slower 344 time."},
+        {"t": 421, "kind": "tip", "text": "Gnomonkey says that with the budget setup he has enough mage attack bonus that he does not need to worry about the spawn."},
+        {"t": 505, "kind": "record", "text": "The Osmumten's fang and mixed hide budget setup killed Vorkath in about 126 seconds on the first attempt and 144 seconds on the second, with fewer supplies used than the downgraded setup."},
+        {"t": 150, "kind": "opinion", "text": "Gnomonkey says the blowpipe option for Vorkath is standard and boring, and that the crossbow with rune bolts is probably worse than his setup."}
+      ]
+    },
+    {
+      "name": "Osmumten's fang",
+      "kind": "item",
+      "claims": [
+        {"t": 421, "kind": "opinion", "text": "Gnomonkey says the Osmumten's fang spec is strong for its cost and that Fang is quite good for a weapon that costs 'zero' on this budget."},
+        {"t": 485, "kind": "opinion", "text": "Gnomonkey says Gearscape confirmed Fang as the best choice for Vorkath under the budget and says Osmumten's fang is supreme there."},
+        {"t": 585, "kind": "stat", "text": "Gnomonkey says that if you BGS Vorkath to low defence, the blowpipe takes over and is about 10% better than Osmumten's fang, though Fang would also do better with BGS."}
+      ]
+    },
+    {
+      "name": "Mixed hide armour",
+      "kind": "item",
+      "claims": [
+        {"t": 515, "kind": "opinion", "text": "Gnomonkey describes mixed hide body as effectively Bandos but with stab bonus and ranged bonus, and says almost every budget setup now includes it."},
+        {"t": 545, "kind": "opinion", "text": "Gnomonkey says that as long as you are using Osmumten's fang, mixed hide is really good, though its strength bonus is not the same as Bandos."},
+        {"t": 515, "kind": "opinion", "text": "Gnomonkey describes himself as a big proponent of mixed hide."}
+      ]
+    },
+    {
+      "name": "Wiki Guides challenge series",
+      "kind": "challenge",
+      "claims": [
+        {"t": 0, "kind": "event", "text": "Gnomonkey notes the wiki's worst downgrade for Vorkath is a Rune defender, which he did not own, so he first grinds one at the Warriors Guild."},
+        {"t": 27, "kind": "event", "text": "Gnomonkey grinds the Rune defender at the Warriors Guild cyclopes using the Vorkath downgrade gear with an attack cape, finding granite gloves very bad."},
+        {"t": 56, "kind": "tip", "text": "Gnomonkey notes the hairy cyclopes in the Warriors Guild are a higher level, so do not kill those."},
+        {"t": 678, "kind": "event", "text": "The Rune defender drop that Gnomonkey expected to take a long time took only about 10 seconds."},
+        {"t": 150, "kind": "event", "text": "Gnomonkey says he picked the melee Justiciar setup over the blowpipe or crossbow options partly because the wiki lists a Armadyl godsword as its worst spec, which raised the funniness value."},
+        {"t": 0, "kind": "event", "text": "Gnomonkey plans Vardorvis-style follow-ups including Muspah next, but says he will avoid Wilderness bosses on stream."}
+      ]
+    },
+    {
+      "name": "Opinion: Wiki gear downgrades include salve amulet and ring of recoil",
+      "kind": "opinion",
+      "claims": [
+        {"t": 246, "kind": "opinion", "text": "Gnomonkey says the wiki's Vorkath setup includes downgrades from the salve amulet all the way to an Amulet of the damned, which he mocks."},
+        {"t": 640, "kind": "opinion", "text": "Gnomonkey says there is no reason to do Vorkath without a salve, since the salve is a free untradeable quest reward that multiplies max hit by a lot, so including downgrades for it is insane."},
+        {"t": 640, "kind": "opinion", "text": "Gnomonkey says the wiki also lists downgrades from Infernal cape to fire cape to Ardougne cloak 4 and 3, and still lists a ring of recoil even though Vorkath is immune to recoil in his understanding."}
+      ]
+    },
+    {
+      "name": "Gearscape",
+      "kind": "other",
+      "claims": [
+        {"t": 378, "kind": "method", "text": "Gnomonkey told Gearscape to exclude ranged and mage when finding a Vorkath setup with the same budget as the wiki setup, and it left about 5 million gp to spare."},
+        {"t": 421, "kind": "opinion", "text": "Gnomonkey says Gearscape (gearscape.net) is a gear website whose owners are active in chat taking feedback."}
+      ]
+    }
+  ]
+}

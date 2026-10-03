@@ -1,0 +1,70 @@
+{
+ "id": "7ZyZC0OcvsU",
+ "title": "3T BUTTERFLY TOA GUIDE (OSRS)",
+ "date": "2025-06-25",
+ "type": "guide",
+ "summary": "Gnomonkey teaches three-tick butterfly of Akkha in Tombs of Amascut using the Eclipse atlatl after the June 2025 update made Akkha pray only the style he is using. He covers the budget gear setup (about a sixth of the Bofa setup cost), the Stay Vigilant invocation, plugins and tiles, and demonstrates an unsalted raid level 500 kill in about seven minutes.",
+ "outline": [
+  {"t": 0, "text": "Massive Toa changes overview"},
+  {"t": 23, "text": "Akkha changes: prays only the style he is attacking with"},
+  {"t": 83, "text": "Gear setup for the Eclipse atlatl"},
+  {"t": 198, "text": "Invocation settings: Stay Vigilant"},
+  {"t": 235, "text": "Plugins and tiles"},
+  {"t": 347, "text": "Raid demonstration at raid level 500"},
+  {"t": 562, "text": "Handling mistakes and DPS skip"},
+  {"t": 765, "text": "Final tips: melee armour, ring swap, conclusion"}
+ ],
+ "topics": [
+  {
+   "name": "Akkha",
+   "kind": "boss",
+   "claims": [
+    {"t": 23, "kind": "event", "text": "After the Toa changes update, Akkha only prays against the style he is attacking with, so on entering he prays only melee, allowing players to butterfly with ranged weapons; Gnomonkey says ranged weapons are much better than magic here."},
+    {"t": 55, "kind": "opinion", "text": "Gnomonkey says four-tick butterfly with a Trident was a bad time where you never made the DPS skip, whereas ranged options now exist; he had already done a Bofa butterfly guide."},
+    {"t": 198, "kind": "method", "text": "Turn on the Stay Vigilant invocation when butterflying: Akkha does specials a bit faster, but if you butterfly perfectly he never attacks you and never changes styles."},
+    {"t": 232, "kind": "stat", "text": "Gnomonkey says the keep back invocation chip damage, if you need to tank Akkha hits, is dramatically better, around 40% lower, and says Fire K (as transcribed) is better than the assembler but dumps darts on the ground."},
+    {"t": 233, "kind": "method", "text": "Three-tick butterfly is the same as four-tick butterfly: go to the first attack tile, attack Akkha until his true tile is one tile away, then start the cycle, but attack more often, at different points in the cycle."},
+    {"t": 515, "kind": "method", "text": "While moving in the left quadrant, the only place you do not click straight to an attack tile is the left side where you need to path out of the way of Akkha."},
+    {"t": 565, "kind": "tip", "text": "Gnomonkey says that when dodging dropping orbs you should move two tiles each time you path, and that if you do the butterfly perfectly Akkha stays in melee mode permanently with zero damage taken."},
+    {"t": 677, "kind": "tip", "text": "To DPS skip a shadow, stand on the attack tile and, as Akkha thrusts his spear into the ground, click through it; at raid level 300 Gnomonkey says you will never need it."},
+    {"t": 705, "kind": "tip", "text": "Akkha's colour changes (such as green) only occur if you took damage; with keep back on you can actually fully tank the chip damage and heal up if you mess up."},
+    {"t": 767, "kind": "opinion", "text": "Gnomonkey says come phase has far less going on now, and that every three melee hits that land tell you exactly when he will jump."},
+    {"t": 778, "kind": "record", "text": "Gnomonkey completed an unsalted raid level 500 Akkha kill in about seven minutes with the Atlatl setup, which he says is light years ahead of what Bofa could do before the update."}
+   ]
+  },
+  {
+   "name": "Eclipse atlatl",
+   "kind": "item",
+   "claims": [
+    {"t": 55, "kind": "method", "text": "With the Akkha change, three-tick butterfly is possible with the Eclipse atlatl; Gnomonkey notes you never had a three-tick weapon before outside Leagues."},
+    {"t": 86, "kind": "stat", "text": "Gnomonkey says the Atlatl setup costs a sixth of the Bofa setup (about 20 mil) and has the same DPS on the shadows as Bofa, being only a little worse on Akkha himself, with the same effectively zero chance of missing a DPS skip."},
+    {"t": 116, "kind": "method", "text": "The Eclipse atlatl scales with strength bonus for max hit and ranged bonus for accuracy, so you want hybrid gear with both strength and ranged bonus such as Barrows gloves, and a Fury is the best amulet."},
+    {"t": 143, "kind": "tip", "text": "Gnomonkey says to wear the full Eclipse armour set as melee gear because it lets the Atlatl burn, adding about 0.7 DPS (burn stacks up to five), and the set gives both ranged and strength bonus; the only upgrades are Primordial boots and Ultor ring."},
+    {"t": 175, "kind": "tip", "text": "Gnomonkey says Pharaoh gloves are worse for this setup and Necklace of anguish is terrible, never to be used; Fury beats torture or rancour because it has accuracy for range."},
+    {"t": 1190, "kind": "tip", "text": "Gnomonkey recommends a Berserker ring (about 5% DPS) or Ultor ring as a switch for Akkha and Ba-Ba, using Lightbearer for the rest of the raid."},
+    {"t": 805, "kind": "opinion", "text": "Gnomonkey says to just camp the Eclipse set as melee armour for the whole raid since Ba-Ba no longer has chip damage and Akkha's chip damage is reduced, accepting a slight DPS decrease on the Fang."},
+    {"t": 1230, "kind": "opinion", "text": "Gnomonkey says the setup costs nothing relative to Bofa and that Toa has never been easier, more accessible or enjoyable."},
+    {"t": 355, "kind": "tip", "text": "The Eclipse atlatl benefits from both Divine ranging and Divine super combat potions, and salts boost both; Gnomonkey also summons a thrall."}
+   ]
+  },
+  {
+   "name": "Akkha butterfly setup",
+   "kind": "mechanic",
+   "claims": [
+    {"t": 235, "kind": "tip", "text": "Gnomonkey provides the butterfly tiles through a Pastebin import (right-click the world map, import), plus colour-coded radius markers via !akkha color in his Twitch chat; the radius markers double as the true tile indicator."},
+    {"t": 267, "kind": "tip", "text": "Without the colour markers, add Akkha in NPC indicators with True Tile and Southwest True Tile highlights."},
+    {"t": 301, "kind": "tip", "text": "The Tombs of Amascut plugin has a toggle to show the shadows' health, telling you whether you need a DPS skip, and the Monster HP percentage plugin set to Akkha shows his health over his chest; every 20% health he loses spawns shadows."},
+    {"t": 372, "kind": "tip", "text": "Because the Atlatl has six tile range you can keep hitting Akkha while Akkha does Simon Says (five rounds at his raid level 2-3), and Gnomonkey notes you do not always need to be on a specific tile."},
+    {"t": 436, "kind": "opinion", "text": "Gnomonkey says he does not know whether the OSRS wiki DPS calculator includes burn damage yet, but that Gearscape does."}
+   ]
+  },
+  {
+   "name": "Update: Tombs of Amascut changes",
+   "kind": "update",
+   "claims": [
+    {"t": 0, "kind": "event", "text": "The June 2025 Tombs of Amascut changes made Ba-Ba no longer hit through prayer and many rooms much easier, with Akkha the biggest change for raids according to Gnomonkey."},
+    {"t": 3, "kind": "opinion", "text": "In the description Gnomonkey says shadow is still best in slot at Akkha but Bofa, ZCB, Atlatl and other crossbows now work, never a twisted bow, and that a 500 Toa is now very achievable with Bofa or budget gear."}
+   ]
+  }
+ ]
+}

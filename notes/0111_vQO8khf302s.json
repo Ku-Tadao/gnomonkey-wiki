@@ -1,0 +1,449 @@
+{
+  "id": "vQO8khf302s",
+  "title": "TOA 500 Teaching Stream OSRS",
+  "date": "2023-04-25",
+  "type": "guide",
+  "summary": "A stream recording where Gnomonkey does a solo Tombs of Amascut 500-raid-level run while explaining his invocations, supply usage and room strategies, based on hundreds of 500 completions. His main takeaway is not to overcomplicate it: bring more damage switches and only about six restores, kill bosses fast and use less prayer.",
+  "outline": [
+    {
+      "t": 0,
+      "text": "Raid setup and which invocations to run"
+    },
+    {
+      "t": 32,
+      "text": "Gear and supply optimization (restores, ZCB, Void Waker)"
+    },
+    {
+      "t": 133,
+      "text": "Monkey Room strategy"
+    },
+    {
+      "t": 396,
+      "text": "Ba-Ba room mechanics"
+    },
+    {
+      "t": 703,
+      "text": "Zebak and Kephri tactics and room levels"
+    },
+    {
+      "t": 929,
+      "text": "Akkha room and Arcane/Simon Says puzzles"
+    },
+    {
+      "t": 1259,
+      "text": "Advanced movement and skipping (Zebak waves, Akkha movement)"
+    },
+    {
+      "t": 1513,
+      "text": "Akkha butterfly phase and combat"
+    },
+    {
+      "t": 1911,
+      "text": "Warden fight strategies and tanking orbs"
+    },
+    {
+      "t": 2226,
+      "text": "Warden final phase and skull skipping"
+    },
+    {
+      "t": 2495,
+      "text": "Final takeaways and Q&A about invocations"
+    }
+  ],
+  "topics": [
+    {
+      "name": "Tombs of Amascut",
+      "kind": "raid",
+      "claims": [
+        {
+          "t": 0,
+          "kind": "method",
+          "text": "For a 500 raid level, Gnomonkey treats Hardcore, No Help Needed, Walk the Path and Pathfinder as givens, and says Pathmaster adds 10 more raid level and is worth trying if you can manage it."
+        },
+        {
+          "t": 26,
+          "kind": "opinion",
+          "text": "Gnomonkey thinks it is trolling to use Overly Draining on a 500, and says the only reason would be something odd like not having Kiris; he runs Dehydration instead."
+        },
+        {
+          "t": 53,
+          "kind": "opinion",
+          "text": "Gnomonkey does not like Overlords because it is bad for points and speed, and says the invocations people struggle with are Double Trouble and Keep Back, which can be turned off for other raid level if needed."
+        },
+        {
+          "t": 86,
+          "kind": "tip",
+          "text": "Gnomonkey says you should run every boss invocation, and specifically not turn off Ancient Haste because it is good raid level; the only boss invocations worth turning off are the Akkha ones if you struggle with them."
+        },
+        {
+          "t": 2738,
+          "kind": "tip",
+          "text": "Gnomonkey says Double Trouble is, in his view, the single most valuable room invocation at 20 points (besides Warden), and very good to learn because it saves a lot of trouble."
+        },
+        {
+          "t": 2738,
+          "kind": "opinion",
+          "text": "Gnomonkey says you should do your 500 in a solo because it is much easier solo, and the invocations are free there."
+        },
+        {
+          "t": 2672,
+          "kind": "method",
+          "text": "Gnomonkey's recommended 500 invocations: Hardcore, no supplies, Walk the Path, Pathfinder, Dehydration (diet), no quiet prayers; Overlords optional; do not use Medic; everything else on, with Double Trouble or Keep Back optionally off."
+        },
+        {
+          "t": 2672,
+          "kind": "opinion",
+          "text": "Gnomonkey says Pathfinder is much easier than Pathmaster because Pathmaster needs a different boss layout, making it harder."
+        }
+      ]
+    },
+    {
+      "name": "Opinion: Bring damage over supplies in Tombs of Amascut 500",
+      "kind": "opinion",
+      "claims": [
+        {
+          "t": 0,
+          "kind": "opinion",
+          "text": "Gnomonkey says you do not need five restores in a 500; he considers bringing six restores effectively infinite restore, and says he sees people bring 12 and does not understand why."
+        },
+        {
+          "t": 133,
+          "kind": "tip",
+          "text": "Gnomonkey says to leave the Zaryte crossbow (ZCB) at home for a learner and bring a Void Waker instead; dropping ZCB for more restores gives more than enough restore for the whole raid."
+        },
+        {
+          "t": 1380,
+          "kind": "opinion",
+          "text": "Gnomonkey says that when you bring no switches, every room takes forever, is hard and uses more prayer."
+        },
+        {
+          "t": 2562,
+          "kind": "opinion",
+          "text": "Gnomonkey's main takeaway is that Tombs of Amascut 500 is pretty easy: do not overcomplicate it, kill bosses faster with damage and switches so you use less prayer and flick less."
+        },
+        {
+          "t": 2562,
+          "kind": "stat",
+          "text": "Gnomonkey says he uses roughly one dose of restore per boss room, and in this run used only three doses over the whole raid before Warden, with two doses left over at the end."
+        },
+        {
+          "t": 2562,
+          "kind": "opinion",
+          "text": "Gnomonkey says going slow makes the raid harder, and adding invocations like Overly Draining or Medic or turning things off makes it much harder; his invocations are fast and keep it easy."
+        },
+        {
+          "t": 2562,
+          "kind": "tip",
+          "text": "Gnomonkey says you get full prayer after each room, so there is no point stocking up on prayer when you can stock up on damage."
+        }
+      ]
+    },
+    {
+      "name": "Monkey Room",
+      "kind": "mechanic",
+      "claims": [
+        {
+          "t": 197,
+          "kind": "tip",
+          "text": "In the Tombs of Amascut Monkey Room, Gnomonkey says to prioritise the shamans when they are the ones draining prayer."
+        },
+        {
+          "t": 299,
+          "kind": "stat",
+          "text": "Each Monkey Room shaman summons four thralls that are assigned to it before it starts maging you, so chinning the pile of thralls stops the shaman maging."
+        },
+        {
+          "t": 326,
+          "kind": "tip",
+          "text": "Gnomonkey says the thralls are assigned only to their shaman, so it can be hard to tell, and there can be a ton of thralls in the room while shamans are still summoning."
+        },
+        {
+          "t": 2644,
+          "kind": "tip",
+          "text": "Gnomonkey says avoiding the throttles (spinning attackers) in the Monkey Room matters a lot because you waste a lot of prayer there."
+        }
+      ]
+    },
+    {
+      "name": "Ba-Ba",
+      "kind": "boss",
+      "claims": [
+        {
+          "t": 386,
+          "kind": "tip",
+          "text": "Gnomonkey says Ba-Ba needs no prayer and no resources: it is a completely free room if done properly, and he aims to use zero doses there."
+        },
+        {
+          "t": 471,
+          "kind": "tip",
+          "text": "Gnomonkey's cue to continue the Ba-Ba cycle is Ba-Ba throwing her paw up, then clicking the obelisk; the window is two ticks, so it is very lenient."
+        },
+        {
+          "t": 503,
+          "kind": "stat",
+          "text": "If you mess up Ba-Ba's cycle and have to tank an area attack, Gnomonkey says it hits for about 30, so you are fine as long as you have more than 30 HP."
+        },
+        {
+          "t": 503,
+          "kind": "tip",
+          "text": "For the boulders, Gnomonkey uses a DCB (Dragon crossbow) though a pipe (blowpipe) also works, stays standing at the back to have more time to run, and clicks diagonally to go around a boulder."
+        },
+        {
+          "t": 532,
+          "kind": "tip",
+          "text": "Gnomonkey drops a partial restore potion to make room and uses a Void Waker auto, optionally adding a ZCB spec, during Ba-Ba."
+        },
+        {
+          "t": 2616,
+          "kind": "stat",
+          "text": "Gnomonkey says Ba-Ba should be a literally zero prayer room, and that you can flick while redexing."
+        }
+      ]
+    },
+    {
+      "name": "Kephri",
+      "kind": "boss",
+      "claims": [
+        {
+          "t": 565,
+          "kind": "tip",
+          "text": "Gnomonkey says Blood Fury is really good for Kephri because it is fast and gives an extra Void Waker auto hit; he always runs Blood Fury."
+        },
+        {
+          "t": 592,
+          "kind": "tip",
+          "text": "On the top row of Kephri's room, Gnomonkey says the gap does not actually matter and will not kill you, so you can be redexing from there."
+        },
+        {
+          "t": 1011,
+          "kind": "opinion",
+          "text": "Gnomonkey says Void Waker is better than ZCB on Kephri, even at 500 health."
+        },
+        {
+          "t": 773,
+          "kind": "stat",
+          "text": "Gnomonkey says Kephri's room level does not matter; the only levels that matter are Zebak's and Akkha's."
+        },
+        {
+          "t": 2644,
+          "kind": "tip",
+          "text": "Gnomonkey did Kephri in zero prayer in this run, says it normally uses about one dose, and suggests flicking Piety when possible and turning ranged prayer off at high health to let Blood Fury heal you."
+        }
+      ]
+    },
+    {
+      "name": "Zebak",
+      "kind": "boss",
+      "claims": [
+        {
+          "t": 706,
+          "kind": "stat",
+          "text": "In the Tombs of Amascut path rooms there is a one in three chance that Zebak is level four, and Gnomonkey says a level four Zebak is not ideal."
+        },
+        {
+          "t": 773,
+          "kind": "opinion",
+          "text": "Gnomonkey says you want a lower-level Zebak and a higher-level Akkha."
+        },
+        {
+          "t": 835,
+          "kind": "stat",
+          "text": "Gnomonkey says a level 4 Zebak is very bad: it makes the room harder and also increases the speed of Warden's attacks, making Warden's phase 4 a lot harder."
+        },
+        {
+          "t": 1226,
+          "kind": "stat",
+          "text": "A level 4 Zebak makes his enrage two ticks instead of three, extremely fast, but Gnomonkey says the bigger issue is the faster Warden attacks."
+        },
+        {
+          "t": 1305,
+          "kind": "tip",
+          "text": "For Zebak's waves, Gnomonkey uses true tile on the waves, shift-click marks them and steps away and through when they are close; he says wave skipping is really easy."
+        },
+        {
+          "t": 1278,
+          "kind": "tip",
+          "text": "On Zebak's jugs, Gnomonkey stays on the left side for the first jugs and in the middle for the next jugs, which always gives an easy solve."
+        },
+        {
+          "t": 1366,
+          "kind": "stat",
+          "text": "With a level 4 Zebak you cannot catch the blood barrages, they just hit you, so it is harder."
+        },
+        {
+          "t": 2616,
+          "kind": "stat",
+          "text": "Gnomonkey says Zebak is a zero-prayer room because you kill it so fast."
+        }
+      ]
+    },
+    {
+      "name": "Akkha",
+      "kind": "boss",
+      "claims": [
+        {
+          "t": 929,
+          "kind": "tip",
+          "text": "Gnomonkey uses a mix of shadow hits and fang hits on Akkha's Arcane, doing shadow until up next to it and then Fang, noting Fang is more consistent."
+        },
+        {
+          "t": 1011,
+          "kind": "stat",
+          "text": "Akkha's Arcane teleports instantly if you deal more than 40 damage in a single hitsplat; otherwise three hitsplats between 3 and 40 make it jump, and hitsplats below 3 do not count."
+        },
+        {
+          "t": 1044,
+          "kind": "stat",
+          "text": "Gnomonkey says the Arcane hitsplat requirement applies to everything, not just 500s, and each extra teammate adds one extra required hitsplat, though 40 always sends it."
+        },
+        {
+          "t": 1044,
+          "kind": "stat",
+          "text": "Gnomonkey says melee heals the Arcane boss, so you have to kill it."
+        },
+        {
+          "t": 1485,
+          "kind": "opinion",
+          "text": "Gnomonkey says Akkha is one of the hardest rooms and arguably harder than Warden."
+        },
+        {
+          "t": 1485,
+          "kind": "opinion",
+          "text": "Gnomonkey says ZCB is better damage on Akkha than Twisted bow or Blowpipe in a 500."
+        },
+        {
+          "t": 1510,
+          "kind": "tip",
+          "text": "If low on prayer in Akkha's room, Gnomonkey says you can camp Mystic Lore, which is almost as good as Augury at about a fifth of the drain."
+        },
+        {
+          "t": 1595,
+          "kind": "stat",
+          "text": "Gnomonkey says Augury is only about a 3% DPS increase and Mystic Lore about 1.5% in Akkha's room, so they do not matter much."
+        },
+        {
+          "t": 1620,
+          "kind": "tip",
+          "text": "For Akkha's Double Trouble, Gnomonkey says to move two tiles per movement, never walk toward the end, and then you will not get hit by an orb."
+        },
+        {
+          "t": 1627,
+          "kind": "tip",
+          "text": "Gnomonkey's cue for the Akkha DPS check skip is Akkha slamming the pole into the ground, then moving to the outer diagonals."
+        },
+        {
+          "t": 1668,
+          "kind": "stat",
+          "text": "Akkha's attacks are six-tick, and his Keep Back comes out the instant the melee attack animation starts, so you flinch it."
+        },
+        {
+          "t": 1718,
+          "kind": "tip",
+          "text": "Gnomonkey says Akkha can melee with seventies, so keep above seventy health."
+        },
+        {
+          "t": 1744,
+          "kind": "method",
+          "text": "Gnomonkey starts the Akkha butterfly phase by always moving in the same direction in each quadrant, using magic tiles to transition and hitting from each tile."
+        },
+        {
+          "t": 1853,
+          "kind": "tip",
+          "text": "Gnomonkey says you can flick prayers in the final Akkha phase if you are good enough, but you should otherwise just camp Piety and heal as needed, since it is the hardest part; he uses true tile on his orbs."
+        },
+        {
+          "t": 1911,
+          "kind": "tip",
+          "text": "Gnomonkey says if you accidentally have a thrall up in the last Akkha phase, swap it for a zombie and avoid summoning a thrall toward the end of the kill."
+        },
+        {
+          "t": 2644,
+          "kind": "tip",
+          "text": "Gnomonkey says for Akkha you can just camp Mystic Lore, since flicking Augury while butterflying is hard, or turn it on only for shadows."
+        }
+      ]
+    },
+    {
+      "name": "Warden",
+      "kind": "boss",
+      "claims": [
+        {
+          "t": 1990,
+          "kind": "tip",
+          "text": "Gnomonkey says to tank a minimum of four sets of orbs before Warden's phase transition, because tanking fewer gives the wrong Warden due to a bug; he has had the wrong Warden with three."
+        },
+        {
+          "t": 2018,
+          "kind": "tip",
+          "text": "In Warden phase 2, Gnomonkey says standing in melee range reduces the damage you take since the melee max hit is 4 while ranged attacks max 10, so you waste less prayer; flick melee right after the hitsplat from the ranged attack."
+        },
+        {
+          "t": 2082,
+          "kind": "tip",
+          "text": "Gnomonkey says to stand two tiles away from, or one away from, the skulls to avoid them, and that a melee thrall hits through prayer in this room while the mage thrall does not."
+        },
+        {
+          "t": 2116,
+          "kind": "stat",
+          "text": "Warden's damage-threshold phases: below 80% health the next skulls phase takes eight hits instead of six, below 60% it takes ten hits, and ten hits from then on."
+        },
+        {
+          "t": 2149,
+          "kind": "tip",
+          "text": "Gnomonkey says to keep high prayer in the Warden room and be at maximum prayer at all times, not low."
+        },
+        {
+          "t": 2278,
+          "kind": "tip",
+          "text": "Gnomonkey stands close to the boss because a hit from further back does not get nulled, which saves about five ticks."
+        },
+        {
+          "t": 2434,
+          "kind": "tip",
+          "text": "In Warden's final phase, Gnomonkey says to stand at the back, which gives an extra hit before phase 4 and a lower chance of reaching the last row."
+        },
+        {
+          "t": 2434,
+          "kind": "tip",
+          "text": "For the Warden skull explosion particles, Gnomonkey says you click from the back to the inside across any red or grey tiles."
+        },
+        {
+          "t": 2492,
+          "kind": "tip",
+          "text": "If you mess up in Warden's skull phase, Gnomonkey says you can do a skull skip real quick as long as you recognise it and do it immediately."
+        },
+        {
+          "t": 2492,
+          "kind": "opinion",
+          "text": "Gnomonkey says if you want points it is worth skull skipping all the waves, but if it is your first 500 you should not skull skip."
+        },
+        {
+          "t": 2222,
+          "kind": "stat",
+          "text": "Gnomonkey says Augury is about 6% DPS in Warden's final phase, so it does matter, and with infinite restore he can straight camp it."
+        },
+        {
+          "t": 2222,
+          "kind": "tip",
+          "text": "Gnomonkey likes to double ZCB spec on Warden because killing the boss faster means less input and less prayer used."
+        }
+      ]
+    },
+    {
+      "name": "Gnomonkey",
+      "kind": "person",
+      "claims": [
+        {
+          "t": 0,
+          "kind": "record",
+          "text": "Gnomonkey says his teaching stream draws on the experience of hundreds of 500-raid-level Tombs of Amascut completions."
+        },
+        {
+          "t": 2522,
+          "kind": "record",
+          "text": "Gnomonkey finished this Tombs of Amascut teaching run in 38 minutes, which he calls pretty average, with two restore doses left over and no purple."
+        }
+      ]
+    }
+  ]
+}

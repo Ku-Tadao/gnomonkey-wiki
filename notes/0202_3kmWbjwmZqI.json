@@ -1,0 +1,143 @@
+{
+  "id": "3kmWbjwmZqI",
+  "title": "Trouble Brewing Nerfs and the Minigames of OSRS",
+  "date": "2025-01-27",
+  "type": "news-opinion",
+  "summary": "Gnomonkey reacts to Jagex nerfing Trouble Brewing's XP rates to roughly one-third of their previous values, and to the preview of the new Varlamore fletching activity. He argues that hybrid skilling methods should be allowed to coexist with new skilling minigames, and gives his opinions on several recent skilling minigames.",
+  "outline": [
+    {"t": 0, "text": "Intro: Trouble Brewing's XP rates are nerfed to under one-third; what the method used to give"},
+    {"t": 47, "text": "Sponsor segment (Marvel Strike Force)"},
+    {"t": 104, "text": "Why Jagex nerfed it: pushing the new fletching activity; the method was already not meta"},
+    {"t": 130, "text": "Quest requirements and who the method suited"},
+    {"t": 157, "text": "Preview of the Varlamore part three fletching activity and its totems"},
+    {"t": 189, "text": "Fletching activity rewards: bowstring spool, fletching knife, whittling blades"},
+    {"t": 223, "text": "Ent branches, enhanced hunter traps, slayer dungeon access and darts"},
+    {"t": 339, "text": "Argument for keeping hybrid skilling methods"},
+    {"t": 386, "text": "Trouble Brewing's downsides and why it was not overpowered"},
+    {"t": 473, "text": "Jagex's one-minigame-per-skill approach and weird tick-manipulation methods"},
+    {"t": 572, "text": "Opinions on Forestry, Giants' Foundry, Mixology, Gotr and Tempoross"},
+    {"t": 658, "text": "Closing: more hybrid methods, ask to revert the nerf"}
+  ],
+  "topics": [
+    {
+      "name": "Trouble Brewing",
+      "kind": "activity",
+      "claims": [
+        {"t": 0, "kind": "stat", "text": "Before the nerf, Trouble Brewing gave a little over 100k Fletching XP per hour along with about 200k Cooking XP per hour, according to Gnomonkey."},
+        {"t": 0, "kind": "event", "text": "Jagex heavily buffed Trouble Brewing roughly six months before this video; Gnomonkey made a guide on it back then."},
+        {"t": 33, "kind": "event", "text": "Jagex nerfed Trouble Brewing's XP rates to a little under one-third of what they were, which Gnomonkey says makes the method completely dead."},
+        {"t": 33, "kind": "event", "text": "The same update patched the exploit where players could get Firemaking XP in the one boiler; that boiler no longer gives XP."},
+        {"t": 130, "kind": "requirement", "text": "Trouble Brewing has decent quest requirements, including many stats in the 40s and 50s and Prayer, which Gnomonkey says must be raised first."},
+        {"t": 130, "kind": "method", "text": "Gnomonkey describes Trouble Brewing as a method that does not scale and gives a flat 200k Cooking XP and 100k Fletching XP, with no input cost, which suits an account that rushes there early."},
+        {"t": 386, "kind": "opinion", "text": "Gnomonkey lists Trouble Brewing's downsides as big quest requirements and needing a second player to access it, though he notes the second-player requirement encouraged communication and group play."},
+        {"t": 386, "kind": "opinion", "text": "Gnomonkey says Trouble Brewing was not as good as the best methods for either Fletching or Cooking even when combined XP is considered, so it was an early hybrid method rather than a meta method."},
+        {"t": 447, "kind": "trivia", "text": "Trouble Brewing's only rewards are cosmetics and a teleport back, plus a small amount of brewing stuff that Gnomonkey says nobody uses."},
+        {"t": 520, "kind": "opinion", "text": "Gnomonkey considers it better to unlock broad arrows and make broads for Fletching, and better to buy cooked karambwans with gp from other methods for Cooking, so Trouble Brewing was worse than those and merely an option for players who do not want to put in input."},
+        {"t": 520, "kind": "opinion", "text": "Gnomonkey says no Ironman Discord communities were reporting records broken with Trouble Brewing, so he argues it was never meta and should not have been nerfed at all."},
+        {"t": 100, "kind": "opinion", "text": "Gnomonkey says some HCIM players laughed at him for using Trouble Brewing because Cooking karambwans and Fletching broad arrows with zero-time Fletching were so strong that Trouble Brewing was barely worth it."}
+      ]
+    },
+    {
+      "name": "Update: Trouble Brewing nerf",
+      "kind": "update",
+      "claims": [
+        {"t": 33, "kind": "event", "text": "Jagex published the changed Trouble Brewing XP rates, which came to a little under one-third of the previous rates."},
+        {"t": 104, "kind": "opinion", "text": "Gnomonkey believes the Trouble Brewing nerf is Jagex wanting to push the new Fletching activity coming with Varlamore, because Trouble Brewing was stepping on its toes."},
+        {"t": 520, "kind": "opinion", "text": "Gnomonkey says some people claimed Jagex nerfed Trouble Brewing too much and should have nerfed it less, but he disagrees because the method was never meta."},
+        {"t": 658, "kind": "opinion", "text": "Gnomonkey asks viewers whether they think Jagex should revert the Trouble Brewing nerf, and says he feels the method was not overpowered, just solid."},
+        {"t": 658, "kind": "opinion", "text": "Gnomonkey says he feels it seems like the Jagex mods only noticed Trouble Brewing after players were getting good rates in a place where they were not intended, and responded with a quick nerf."}
+      ]
+    },
+    {
+      "name": "Fletching",
+      "kind": "skill",
+      "claims": [
+        {"t": 100, "kind": "opinion", "text": "Gnomonkey says Fletching broad arrows with zero-time Fletching is so strong that Trouble Brewing's Fletching XP was not really worth it by comparison."},
+        {"t": 157, "kind": "event", "text": "A new Fletching activity is coming with Varlamore part three, in which players recycle logs, bows and shields to build totems at totem sites around Varlamore."},
+        {"t": 157, "kind": "method", "text": "In the previewed Fletching activity, players go to a site and build all the totems, then Ents visit and drop off rewards including XP; the Ents keep interacting with the totems while the player runs to the next site."},
+        {"t": 157, "kind": "opinion", "text": "Gnomonkey says the previewed Fletching activity feels like birdhouse runs that you actively train, and he thinks that sounds decent."},
+        {"t": 157, "kind": "tip", "text": "Jagex said that players can do zero-time activities such as blowing glass while running between the Fletching totem sites, and that banks are accessible throughout the method."},
+        {"t": 157, "kind": "opinion", "text": "Gnomonkey says he is not sure he fully agrees that the new Fletching activity and Trouble Brewing have to be mutually exclusive."},
+        {"t": 386, "kind": "opinion", "text": "Gnomonkey predicts the new Fletching minigame will lean towards Mixology and be better than average minigames, but says that having to pave over old methods leaves a bad taste."}
+      ]
+    },
+    {
+      "name": "Update: Varlamore fletching activity",
+      "kind": "update",
+      "claims": [
+        {"t": 157, "kind": "event", "text": "The Fletching activity that replaces Trouble Brewing as the Fletching method is coming with Varlamore part three and has players recycling logs, bows and shields into totems."},
+        {"t": 189, "kind": "event", "text": "One previewed reward is a bowstring spool: a single inventory slot that holds up to 270 strings and lets the player string 27 bows at a time."},
+        {"t": 189, "kind": "event", "text": "Another previewed reward is a fletching knife that, roughly every five bows, gives a chance to speed up Fletching."},
+        {"t": 189, "kind": "opinion", "text": "Gnomonkey is curious whether the new fletching knife will work for teak log tick manipulation, since cutting a teak log is three-tick and he wonders whether one in five could become two-tick; he expects Jagex to block that."},
+        {"t": 223, "kind": "event", "text": "Whittling blades can be bought for gp from the shop once the player has the plans; when chopping with one in the inventory there is a chance logs turn into arrow shafts, which Gnomonkey says will help with AFKing Woodcutting longer."},
+        {"t": 223, "kind": "event", "text": "Ent branches are an uncommon drop that let players make enhanced bird snares, net trap kits and box traps, which would have a 50% chance to reset themselves if they fail."},
+        {"t": 253, "kind": "event", "text": "The enhanced traps cannot be picked up after placing and collapse after 10 minutes, making them an AFK-oriented option rather than tick-by-tick trapping."},
+        {"t": 281, "kind": "event", "text": "Players could spend items from the Fletching activity to temporarily access a new Slayer area."},
+        {"t": 281, "kind": "opinion", "text": "Gnomonkey finds it strange that Fletching rewards give temporary access to a Slayer dungeon and says he would prefer that reward to come from Mokha, which is coming out at the same time."},
+        {"t": 281, "kind": "event", "text": "Using an ent branch on leaves makes darts that Jagex wants to give a debuff; the ideas were non-stacking attack and defence reduction against undead creatures and a binding effect on the target."},
+        {"t": 311, "kind": "opinion", "text": "Gnomonkey thinks the undead-debuff darts might be useful against Vorkath, and that the binding darts could be interesting against the Maiden in the Theatre of Blood, but says leaves are annoying to collect."},
+        {"t": 253, "kind": "opinion", "text": "Gnomonkey says the enhanced hunter traps could be insane for box traps on chinchompas, since chinchompas are already very good Hunter XP, and that the AFK option suits relaxed Hunter training."}
+      ]
+    },
+    {
+      "name": "Hunter",
+      "kind": "skill",
+      "claims": [
+        {"t": 223, "kind": "event", "text": "Ent branches from the new Fletching activity can make enhanced bird snares, net trap kits and box traps that have a 50% chance to reset themselves if they fail, which Gnomonkey calls a huge buff to Hunter."},
+        {"t": 253, "kind": "opinion", "text": "Gnomonkey says Hunter lacks a relaxed training option, because it is usually trained actively or with birdhouse runs, so he is okay with the AFK enhanced traps being added."},
+        {"t": 253, "kind": "opinion", "text": "Gnomonkey says box traps for chinchompas could be crazy with the self-resetting enhanced traps because chinchompas are already really good Hunter XP."}
+      ]
+    },
+    {
+      "name": "Hybrid skilling methods",
+      "kind": "opinion",
+      "claims": [
+        {"t": 339, "kind": "opinion", "text": "Gnomonkey says very few things in OSRS give hybrid XP, naming driftnet fishing and the underwater agility on Fossil Island as the main examples."},
+        {"t": 366, "kind": "opinion", "text": "Gnomonkey finds hybrid methods rare, fun and engaging when they suit what an account needs, and thinks they are underutilised and no longer made by Jagex."},
+        {"t": 392, "kind": "opinion", "text": "Gnomonkey says hybrid skilling methods on Fossil Island see little use because underwater agility is clunky, driftnet requires making nets that is not fun for Ironmen, and none of them have a pet chance."},
+        {"t": 473, "kind": "opinion", "text": "Gnomonkey says he has been trying tick-manipulation hybrid methods on his Ironman, such as fishing trout and salmon while also cooking each fish at the same time, which is very difficult but gives lots of Cooking XP on top of Fishing if mastered."},
+        {"t": 473, "kind": "opinion", "text": "Gnomonkey says some of the most interesting and fun skilling methods are the weird ones that players figure out."},
+        {"t": 658, "kind": "opinion", "text": "Gnomonkey would love each skill to have many fleshed-out methods with varying hybrid options depending on whether the player has gp or higher stats, and says removing old methods discourages that."},
+        {"t": 658, "kind": "opinion", "text": "Gnomonkey says choosing between Trouble Brewing's hybrid XP and the new Fletching activity's rewards would be a fun trade-off, and that skilling in RuneScape is already grindy so it should not become less fleshed out."},
+        {"t": 715, "kind": "opinion", "text": "Gnomonkey asks viewers whether they want more hybrid methods and says he would love to see Jagex add more."}
+      ]
+    },
+    {
+      "name": "Opinion: One skilling minigame per skill",
+      "kind": "opinion",
+      "claims": [
+        {"t": 473, "kind": "opinion", "text": "Gnomonkey says Jagex seems set on every skill having one skilling minigame that is the way to train it, citing Wintertodt for Firemaking and Tempoross for Fishing."},
+        {"t": 508, "kind": "opinion", "text": "Gnomonkey says everything gets paved over when a new minigame arrives and the new thing becomes the way to train the skill, which he thinks does not need to be the case."},
+        {"t": 508, "kind": "opinion", "text": "Gnomonkey says skills can be fleshed out and hybrid skilling methods add a lot of value to the game, and he wants Jagex to reconsider."},
+        {"t": 658, "kind": "opinion", "text": "Gnomonkey says Jagex removing old methods encourages players to just go to the new activity for a skill, where a choice between methods would be better."}
+      ]
+    },
+    {
+      "name": "Forestry",
+      "kind": "activity",
+      "claims": [
+        {"t": 572, "kind": "opinion", "text": "Gnomonkey considers Forestry full of bloat, with many unnecessary tokens, eggs and minigames."},
+        {"t": 572, "kind": "stat", "text": "Gnomonkey says Forestry has 18 different types of minigame, but the player is still just chopping trees and occasionally doing a different thing."},
+        {"t": 572, "kind": "opinion", "text": "Gnomonkey finds Forestry's random events, such as standing on a tile for 10 seconds, not engaging and says they do not add much to the gameplay."}
+      ]
+    },
+    {
+      "name": "Giants' Foundry",
+      "kind": "activity",
+      "claims": [
+        {"t": 600, "kind": "opinion", "text": "Gnomonkey, who has been doing a lot of Giants' Foundry on his Ironman, says it is not a fun gameplay loop."},
+        {"t": 600, "kind": "stat", "text": "Gnomonkey says Giants' Foundry heavily penalizes AFKing: if you AFK for 17 seconds you lose 2,000 XP on your sword."},
+        {"t": 600, "kind": "opinion", "text": "Gnomonkey complains that Giants' Foundry involves so little input that you stare at your character hammering the sword for 15 seconds doing nothing, which he finds frustrating and not engaging."}
+      ]
+    },
+    {
+      "name": "Skilling minigames",
+      "kind": "opinion",
+      "claims": [
+        {"t": 630, "kind": "opinion", "text": "Gnomonkey says he is okay with Mastering Mixology and thinks Guardians of the Rift is really fun."},
+        {"t": 630, "kind": "opinion", "text": "Gnomonkey says he really enjoys Tempoross because it has a lot of varying methods going for it."},
+        {"t": 630, "kind": "opinion", "text": "Gnomonkey says recently added minigames have been very hit or miss, either engaging or mind-numbing."}
+      ]
+    }
+  ]
+}

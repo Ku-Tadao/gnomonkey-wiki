@@ -1,0 +1,128 @@
+{
+  "id": "Y4S7mK8qoJo",
+  "title": "Higher Hopes for Yama (OSRS)",
+  "date": "2025-05-13",
+  "type": "news-opinion",
+  "summary": "Gnomonkey goes through the Jagex Yama Reddit AMA answers and shares what was confirmed about the boss (accessibility, difficulty, loot, gravestone, kill times). He then critiques the developers' stated rationale for tradable contracts as wealth redistribution from rich players, argues hard gates on content are worse than soft sinks, runs numbers showing Awakener's Orbs add only about 5 to 10 percent of profit at the bosses, and suggests alternatives. He is still hyped for release and plans a world first solo attempt.",
+  "outline": [
+    {"t": 0, "text": "Intro: Jagex Reddit AMA about Yama; news first, discussion later"},
+    {"t": 57, "text": "Accessibility: Arcane planning to kill Yama on a 1600 total ironman"},
+    {"t": 117, "text": "Difficulty comparison and death mechanics in duo"},
+    {"t": 214, "text": "Combat achievements, demon bane, and Monster Examine"},
+    {"t": 244, "text": "Solo versus duo design and the lack of true duo mechanics"},
+    {"t": 391, "text": "Armor requirements, gravestone fee reduction and fight start"},
+    {"t": 479, "text": "Loot: Oathplate shards, drop protection and pacing"},
+    {"t": 645, "text": "Contract farming, buy/sell hint, drop rate comparison, kill time of about 8 minutes"},
+    {"t": 821, "text": "Pewer viability and Arcane's boss design philosophy; Yama likes pizza"},
+    {"t": 919, "text": "Developers' wealth redistribution rationale for contracts, with PoE inspiration"},
+    {"t": 1098, "text": "Why hard gates on content are bad: Porkazar's profit, learners, longevity"},
+    {"t": 1403, "text": "Numbers on orb share of profit at Vardorvis and Whisperer"},
+    {"t": 1561, "text": "Blorva as skill versus GP flex; hard versus soft gates"},
+    {"t": 1859, "text": "Alternative wealth sinks and unlock proposals"},
+    {"t": 2130, "text": "Why market Yama as a duo boss then make contracts solo"},
+    {"t": 2383, "text": "Praise for the AMA, plans for release, and encouragement to give feedback"}
+  ],
+  "topics": [
+    {
+      "name": "Update: Yama",
+      "kind": "update",
+      "claims": [
+        {"t": 0, "kind": "event", "text": "Jagex Jmods held a Reddit AMA about Yama after community confusion over contracts, and Gnomonkey summarizes the confirmed info and the developers' thoughts in this video."},
+        {"t": 57, "kind": "event", "text": "Arcane said a player with high 90s stats and Blood Moon gear can definitely get Yama kills once they learn the mechanics, with slower kills, more damage and more prayer lost; he said he planned to attempt it on his 1600 total ironman that weekend."},
+        {"t": 117, "kind": "event", "text": "Jmods described Yama as quite punishing with a lot of movement plus some prayer and gear switching, with few confusing mechanics and one mechanic that kills the player outright if they fail it entirely."},
+        {"t": 150, "kind": "event", "text": "If one player dies in a Yama duo, they go straight to Lumbridge and the remaining player can stay and try to close out the fight, though the dead player does not get a role in the loot, similar to Duo Nex."},
+        {"t": 214, "kind": "event", "text": "Per the AMA, the Combat Achievement tier for Yama is likely elite as the lowest tier, with no medium combat achievements expected."},
+        {"t": 214, "kind": "event", "text": "Yama will have no demon bane damage reduction, and Monster Examine will be enabled on release so players can check his stats."},
+        {"t": 244, "kind": "event", "text": "Jmods said Yama can be entirely soloed, with some mechanics less forgiving and tight; it encourages duo play more like Royal Titans than Theatre of Blood, and the boss does not scale in stats or mechanics."},
+        {"t": 366, "kind": "stat", "text": "The AMA stated the armor from Yama requires 78 Mining and 83 Smithing to make."},
+        {"t": 382, "kind": "event", "text": "Dying in Yama's domain leaves a gravestone at the bottom of the Chasm of Fire, with gravestone fees reduced by 75% until the player has at least 10 Yama kill count."},
+        {"t": 418, "kind": "stat", "text": "Gnomonkey says the gravestone fee is 500k for a maxed player, much costlier than deaths at Fasani, about 50k, or Nex, about 100k."},
+        {"t": 440, "kind": "event", "text": "Jmods said Yama's gameplay loop might be more like Vorkath or Grotesque Guardians than Royal Titans, so there is a short downtime before the fight starts and a joining player is not locked out after a few seconds."},
+        {"t": 479, "kind": "event", "text": "Yama drops uniques outright with loot to the floor and also drops Oathplate shards as a form of soft drop protection that doubles as GP-per-hour and creates demand for Infernal shale."},
+        {"t": 518, "kind": "event", "text": "Jmods said there is room for players to bring unusual tech to Yama, but did not say whether players will opt for it."},
+        {"t": 560, "kind": "event", "text": "Jmods said the fight has some high-intensity phases and downtime like P3 Verzik, and that tribrid is better left to raids since switching three gear sets is exhausting and takes inventory space."},
+        {"t": 677, "kind": "event", "text": "Drop rates for Yama will be shared fairly quickly after launch, within a week or two; Jmods looked at Nex and Bandos as comparative grinds and said Oathplate time-to-completion sits somewhere in the middle."},
+        {"t": 728, "kind": "event", "text": "Jmods said base Yama is a notch beyond regular Vardorvis in difficulty, and soloing the fight length is closer to Fasani's Nightmare but less intensely punishing."},
+        {"t": 762, "kind": "stat", "text": "Arcane said solo kills during testing took about eight minutes depending on setups and effort, which Gnomonkey says is close to a typical Fasani kill."},
+        {"t": 793, "kind": "event", "text": "There is no bank near Yama, but there is a Fairy Ring DJR nearby and new agility shortcuts within the Chasm; the fastest way there is the Fairy Ring."},
+        {"t": 821, "kind": "event", "text": "Jmods said Yama is absolutely doable on a one-defence pure and has been in testing."},
+        {"t": 888, "kind": "trivia", "text": "Gnomonkey jokes that the Jmods confirmed Yama likes pizza, speculating players will need to feed him a snack."},
+        {"t": 2383, "kind": "event", "text": "Gnomonkey plans to stream Yama on release, duo with Saks, attempt a world first solo, then try to put out a guide quickly and do challenges such as a lower-budget solo."},
+        {"t": 2383, "kind": "tip", "text": "Gnomonkey encourages viewers to try Yama on release day, since it seems doable even without an Inferno cape or a duo partner, and to keep giving feedback after release since Jmods said they are willing to rework things."}
+      ]
+    },
+    {
+      "name": "Opinion: Solo versus duo design in Yama",
+      "kind": "opinion",
+      "claims": [
+        {"t": 244, "kind": "opinion", "text": "Gnomonkey says he wanted Yama to be primarily a duo boss, and that the solo-leaning design alongside solo-only contracts is a shame for players who wanted group content."},
+        {"t": 274, "kind": "event", "text": "Jmods said the Yama fight has no true duo mechanics requiring two players to coordinate, but some mechanics are more interesting and rewarding in a coordinated duo, with more room for optimization; they wanted the encounter to be completable and fun solo for those who prefer it."},
+        {"t": 2130, "kind": "event", "text": "A Jmod said Yama's original goal was a new endgame duo boss with contracts as extra spice, but playtesting showed a tradable valuable item with unequal risk investment between two players would cause awkward social dynamics, so they made contracts solo."},
+        {"t": 2171, "kind": "opinion", "text": "Gnomonkey considers it a real shame that Jagex, upon realizing tradable contracts would make a duo boss toxic, forced the system by making the boss solo rather than rethinking the contracts, and says something is lost when a group boss becomes solo."},
+        {"t": 2203, "kind": "opinion", "text": "Gnomonkey compares this to Tombs of Amascut, where group play was said to be faster but in practice most people solo it."},
+        {"t": 2236, "kind": "event", "text": "A Jmod said the contract system being at odds with a duo encounter may mean it would have been better for a solo encounter, and that they are open to changing it post-launch if a better design is found."},
+        {"t": 2263, "kind": "opinion", "text": "Gnomonkey does not think Jagex can feasibly change the system after launch since tradable contracts will be on the Grand Exchange, so he expects only improvements rather than a clean fix and blames the lack of communication and forethought."}
+      ]
+    },
+    {
+      "name": "Opinion: Wealth redistribution through content gating",
+      "kind": "opinion",
+      "claims": [
+        {"t": 919, "kind": "event", "text": "A Jmod explained that the inspiration for tradable contracts came from Path of Exile, where lower-level players farm items that high-level players buy; the aim is to siphon value from top-level players to lower-level ones and bolster drop tables without flooding the game with resources."},
+        {"t": 977, "kind": "event", "text": "The Jmod said that if players universally say the contract system is not worth it, Jagex will simply stop using it."},
+        {"t": 1013, "kind": "opinion", "text": "Gnomonkey notes the game already has wealthy-player sinks that benefit others, such as Vials of blood used for Bastion potions, Blood fury charges on Blood shard scythe users, Sand fuse for Inferno runners, and Sweets in CM that are only used by top players."},
+        {"t": 1098, "kind": "opinion", "text": "Gnomonkey says directly gating content with a consumable entry token is totally different from soft-gating by supply cost, because it prevents players from doing the content long term unless they earn gold elsewhere, such as through services."},
+        {"t": 1126, "kind": "stat", "text": "Gnomonkey says Porkazar told him that over his 2000 Awakened Leviathan kill count his loot tracker showed about negative 900 million GP, assuming no deaths."},
+        {"t": 1186, "kind": "opinion", "text": "Gnomonkey argues hard gates hurt the longevity of high-level content, noting only about one or two high-level updates come per year (Yama and Mocha this year) and Coliseum was the only one last year."},
+        {"t": 1216, "kind": "opinion", "text": "Gnomonkey argues gatekeeping also stops learners: a player with 100 Chambers of Xeric kill count would delay trying challenge mode if each entry cost 1 million, and imagining a 1 million entry fee at Inferno shows how it discourages trying difficult content."},
+        {"t": 1346, "kind": "opinion", "text": "Gnomonkey admits that siphoning gold from super rich players into mid-level accounts and raising profit per hour is a benefit, even though he is a rich player, but he thinks the repercussions are too negative and Jagex should favor minor items like Blood vials, Sand fuse or Purple sweets."},
+        {"t": 1358, "kind": "tip", "text": "Gnomonkey's example idea is for Yama to drop a worm that can be crushed into a prayer enhance potion to last one minute longer, being rare and costly so only top speedrunners at Inferno or Coliseum would use it."},
+        {"t": 1561, "kind": "opinion", "text": "Gnomonkey says supply and gear costs are soft gates that can be mitigated by prayer flicking, playing well and not taking damage, whereas an entry token is a hard gate that can prevent doing something forever."},
+        {"t": 1859, "kind": "tip", "text": "Gnomonkey suggested increasing death costs at hard bosses as a wealth sink, but notes it punishes players trying to learn content, the opposite of the reduced gravestone fee."},
+        {"t": 1895, "kind": "tip", "text": "Gnomonkey suggested that the boss drop the awakener orb or contract used on completion so successful players repeat, but says it still punishes learning."},
+        {"t": 1927, "kind": "opinion", "text": "Gnomonkey says currency systems like Sunfire splinters, which he says are about 50% of profit per hour at Coliseum, and unique items like Vials of blood are good sinks that high-level players use in bulk without gating anything."},
+        {"t": 1981, "kind": "tip", "text": "Gnomonkey's final idea is a bulk payment, for example 50 to 100 orbs or contracts, to permanently unlock the boss, which would draw in many more players and sink more total orbs even if per-player sinks drop."},
+        {"t": 2008, "kind": "opinion", "text": "Gnomonkey says Awakener's Orbs sink nothing from players who feel it is not worth returning post-Blorva, so more people engaging would increase what is sunk."}
+      ]
+    },
+    {
+      "name": "Awakened bosses",
+      "kind": "mechanic",
+      "claims": [
+        {"t": 1098, "kind": "opinion", "text": "Gnomonkey says he and others have decided they cannot afford to keep killing awakened bosses after getting Blorva, so they do not."},
+        {"t": 1403, "kind": "stat", "text": "Using Temple OSRS EHB of 21 kills per hour for Whisperer and 39 for Vardorvis, and subtracting the Soul Reaper axe, Gnomonkey calculates about 10 million GP per hour at Vardorvis with Awakener's Orbs worth about 430k, roughly 4.3% of profit."},
+        {"t": 1501, "kind": "stat", "text": "Gnomonkey calculates Whisperer at about 5.4 million GP per hour after subtracting the Soul Reaper axe, with Awakener's Orbs worth about 540k, roughly 10% of profit."},
+        {"t": 1532, "kind": "opinion", "text": "Gnomonkey concludes Awakener's Orbs add only about 5 to 10 percent to profit at awakened bosses, which he considers minor compared to the cost of gatekeeping learners and challenge players."},
+        {"t": 1561, "kind": "event", "text": "Gnomonkey says Jmods have said they are willing to add a permanent unlock method for the awakened bosses."},
+        {"t": 1561, "kind": "opinion", "text": "Gnomonkey disagrees that Blorva is mostly a flex of GP rather than skill but considers it both a skill and money flex, and believes it would be more impressive and a purer skill flex if players could attempt it earlier with worse gear, such as with a Bow of Faerdhinen."},
+        {"t": 1681, "kind": "opinion", "text": "Gnomonkey says high-level updates are too rare to dedicate to a one-time cosmetic with no repeatability, and that cheaper contracts also lessen the profit benefit for those who farm them."},
+        {"t": 1699, "kind": "opinion", "text": "Gnomonkey says wealth siphoning does not require this system and has been done many times before in other ways."}
+      ]
+    },
+    {
+      "name": "Opinion: Boss design pacing and intensity",
+      "kind": "opinion",
+      "claims": [
+        {"t": 832, "kind": "event", "text": "Arcane said a big lesson from his years at Jagex is that intensity does not make a good boss fight, and it is fine and often better for players to chill for a bit within the fight, especially since players kill the boss hundreds or thousands of times."},
+        {"t": 853, "kind": "opinion", "text": "Gnomonkey agrees with Arcane, citing Ulm phases as an example where an intense phase is followed by time to spam brew and prepare for the next phase, and hopes Yama's pacing feels right."}
+      ]
+    },
+    {
+      "name": "Gnomonkey",
+      "kind": "person",
+      "claims": [
+        {"t": 1546, "kind": "record", "text": "Gnomonkey says he has Blorva and that, as a rich player, he would like to keep as much gold as possible, but he still prefers wealth sinks that do not gate content."},
+        {"t": 2383, "kind": "opinion", "text": "Gnomonkey praises Jagex for putting out the AMA so quickly and admitting that mistakes were made, and asks players to give honest feedback without attacking individual Jmods."},
+        {"t": 2383, "kind": "event", "text": "Gnomonkey says he expects to be on the front page of Twitch while streaming Yama's release."}
+      ]
+    },
+    {
+      "name": "Grand Exchange",
+      "kind": "mechanic",
+      "claims": [
+        {"t": 646, "kind": "event", "text": "When asked what to buy or sell for the update, Gnomonkey hinted that a boss some people consider a chicken will be quite important, without elaborating."},
+        {"t": 2263, "kind": "opinion", "text": "Gnomonkey says that once Yama contracts are on the Grand Exchange and in players' banks, removing or radically changing the tradable system would require ripping out a huge chunk of content."}
+      ]
+    }
+  ]
+}

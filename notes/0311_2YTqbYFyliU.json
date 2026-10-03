@@ -1,0 +1,65 @@
+{
+  "id": "2YTqbYFyliU",
+  "title": "DRAKAN FINAL BOSS FIGHT GUIDE (OSRS)",
+  "date": "2026-07-01",
+  "type": "guide",
+  "summary": "A guide to Draken (Loerniel Draken), the final boss of the Grandmaster quest Blood Moon Rises, which Gnomonkey calls the hardest quest boss in the game. It covers the quest-specific potions, the basic punch dodges, the blood portal, lightning and final phases, and notes the fight is forgiving because of free healing supplies.",
+  "outline": [
+    {"t": 0, "text": "Preparation and potions"},
+    {"t": 66, "text": "Basic combat mechanics: dodging the jabs and burst attacks"},
+    {"t": 180, "text": "Blood portals and phase one"},
+    {"t": 302, "text": "Lightning strikes phase"},
+    {"t": 368, "text": "Final phase and face-tanking"},
+    {"t": 570, "text": "Final tips and conclusion"}
+  ],
+  "topics": [
+    {
+      "name": "Draken",
+      "kind": "boss",
+      "claims": [
+        {"t": 0, "kind": "opinion", "text": "Gnomonkey considers Loerniel Draken, the final boss of Blood Moon Rises, the hardest quest boss in the entire game, and says many people are struggling with him."},
+        {"t": 66, "kind": "method", "text": "At the start of the Draken fight he throws rapid spear jabs and the arrows telegraph the direction to dodge; you dodge in the opposite direction of the one forecast (for example left, right, left)."},
+        {"t": 84, "kind": "tip", "text": "Draken flashes red as the cue to start clicking through the dodges rapidly for his basic punch attack."},
+        {"t": 112, "kind": "method", "text": "When Draken does punches ending in a giant burst of energy into himself, you click on him to move forward through the big ring AoE instead of dodging backwards."},
+        {"t": 142, "kind": "method", "text": "Draken's special stab animation (rearing back) is an AoE in front of and behind him, so you dodge to the side; he always throws a jab afterwards, and Gnomonkey thinks later in the fight he can do two."},
+        {"t": 160, "kind": "method", "text": "Draken's second special AoE curls the spear behind him in a sweeping arc around him, with the area directly behind him safe, so you run around behind him to dodge it."},
+        {"t": 168, "kind": "stat", "text": "Gnomonkey thinks Draken only starts using his two special AoE attacks below about 80% health."},
+        {"t": 168, "kind": "stat", "text": "Below roughly 70% health, Draken dashes away and spawns blood portals that send out waves."},
+        {"t": 222, "kind": "method", "text": "After the portal phase Draken pops back into the arena with four hit splats on him as he drains his own blood to fire at you; you must immediately put on Protect from Magic, as this is basically the only one-shot mechanic in the fight."},
+        {"t": 252, "kind": "tip", "text": "Gnomonkey says he died the first time to Draken's blood-drain magic attack because he did not pray mage in time."},
+        {"t": 252, "kind": "method", "text": "If you dodge the series of punches after the blood-drain attack perfectly (left, right, left), Draken takes a massive hit splat (155 in the footage) and the portals disappear immediately; if you mess up a punch you do not get the splat and must do another set of waves."},
+        {"t": 283, "kind": "method", "text": "Later in the fight Draken occasionally throws in a mage attack, visible as blood behind him; you have about two or three ticks to react and switch on Protect from Magic to block it. Gnomonkey believes it heals Draken if it hits you."},
+        {"t": 302, "kind": "event", "text": "After about 800 health has been chunked from Draken, he sweeps away and lightning strikes start spawning blood pools on the ground."},
+        {"t": 311, "kind": "method", "text": "In the lightning phase Draken does a sweep with a red flash then a dash towards you; since he always sweeps in a 90-degree arc out of the way, you can dodge by clicking in the direction you immediately see him on your screen."},
+        {"t": 343, "kind": "tip", "text": "In the lightning phase you can get two perfect punish sets (a smaller splat, 80 in the footage) because Draken does the sweep attack twice, so a perfect run finishes the fight faster."},
+        {"t": 372, "kind": "method", "text": "Below 10% health, which Gnomonkey says is basically nothing, you can pretty much face-tank the whole phase and just spam brews while Draken throws very fast rapid jabs."},
+        {"t": 400, "kind": "requirement", "text": "Gnomonkey says you will likely have at least 8 brews by the final phase and should be ready to spam them."},
+        {"t": 433, "kind": "tip", "text": "Draken does not care if blood is in your way and will make you dash right into it; the blood takes your prayer off and does about 20 damage per game tick, so rotate around the boss between attacks to avoid being forced into blood."},
+        {"t": 521, "kind": "tip", "text": "An alternative dodge Gnomonkey credits to MMORPG: if you panic run backwards you are out of the AoE, Draken only steps forward one tile, and you can dodge the next sweep if it goes in the correct direction."},
+        {"t": 550, "kind": "event", "text": "You cannot refight Draken after stepping out of the arena."},
+        {"t": 579, "kind": "tip", "text": "For the blood wave attack and Draken's swoop dashes, dodge in straight cardinal lines only, with no diagonal steps, because diagonal movement may stop him from dashing."}
+      ]
+    },
+    {
+      "name": "Blood Moon Rises",
+      "kind": "quest",
+      "claims": [
+        {"t": 0, "kind": "trivia", "text": "Blood Moon Rises is a new Grandmaster quest whose final boss is Loerniel Draken."},
+        {"t": 0, "kind": "trivia", "text": "The Blood Moon Rises quest unlocks the Maggot King, which Gnomonkey had just put up a separate guide on."},
+        {"t": 0, "kind": "tip", "text": "Gnomonkey describes the Draken fight as very forgiving: it lets you bring in a lot of free healing supplies from the chest and death fees mean failing costs little."},
+        {"t": 582, "kind": "tip", "text": "Gnomonkey tells viewers who have lost their quest cape to go get it back by beating Draken."}
+      ]
+    },
+    {
+      "name": "Quest-specific potions",
+      "kind": "item",
+      "claims": [
+        {"t": 27, "kind": "requirement", "text": "For the Draken fight you get quest-specific potions: a super combat, brews (the colors line up), and a red potion at the bottom that is an ambrosia; single-dose ambrosias from Tombs of Amascut can also be brought."},
+        {"t": 27, "kind": "tip", "text": "The quest-specific brews only drain a single combat stat by one level, unlike a normal brew, so you can spam them during the Draken fight."},
+        {"t": 27, "kind": "tip", "text": "Gnomonkey recommends pre-potting the quest brews before the Draken fight to get your overheal going."},
+        {"t": 56, "kind": "tip", "text": "Pre-potting a quest-specific restore before the Draken fight also gives prayer regeneration through the fight."},
+        {"t": 610, "kind": "requirement", "text": "Gnomonkey says to bring an Efaritay's aid (a silver ring with a red stone) to the Draken fight; he forgot to mention it at the start."}
+      ]
+    }
+  ]
+}

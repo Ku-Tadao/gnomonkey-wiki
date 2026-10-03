@@ -1,161 +1,491 @@
 {
-  "id": "kIfF1pNro2c",
-  "title": "Soulreaper Axe Colosseum Guide (OSRS)",
-  "date": "2024-06-15",
-  "type": "guide",
-  "summary": "A budget-ish Colosseum teaching stream where Gnomonkey runs melee with the Soulreaper axe after its spec/decay changes, starting from South Pillar. He teaches wave stacks, off-ticking, Manticore and Minotaur handling, invocation choices and the Sol Heredit fight. His main takeaway is that the axe is within about 10% of Scythe, South Pillar is the best pillar for learners, and thralls plus death charge beat Ancients.",
-  "outline": [
-    {"t": 0, "text": "Setup and gear overview: Soulreaper axe, Sanguinesti staff/trident, hammer, SGS"},
-    {"t": 180, "text": "Early waves and strategy: invocation choices, spec overlay plugin, wave-start priorities"},
-    {"t": 387, "text": "Mid waves and mechanics: Manticores, thralls vs Ancients, Mayhem and Quartet invocations"},
-    {"t": 737, "text": "Advanced pillar techniques: off-ticking, Minotaur healing and mage blocking, start tile"},
-    {"t": 1210, "text": "Wave 11: double Mage/Shockwave spawns and not panicking"},
-    {"t": 1421, "text": "Final boss guide: Sol Heredit spear and shield attacks, parry, grapple, positioning"}
-  ],
-  "topics": [
+ "id": "kIfF1pNro2c",
+ "title": "Soulreaper Axe Colosseum Guide (OSRS)",
+ "date": "2024-06-15",
+ "type": "guide",
+ "summary": "A budget-ish Colosseum teaching stream where Gnomonkey runs melee with the Soulreaper axe after its spec/decay changes, starting from South Pillar. He teaches wave stacks, off-ticking, Manticore and Minotaur handling, invocation choices and the Sol Heredit fight. His main takeaway is that the axe is within about 10% of Scythe, South Pillar is the best pillar for learners, and thralls plus death charge beat Ancients.",
+ "outline": [
+  {
+   "t": 0,
+   "text": "Setup and gear overview: Soulreaper axe, Sanguinesti staff/trident, hammer, SGS"
+  },
+  {
+   "t": 180,
+   "text": "Early waves and strategy: invocation choices, spec overlay plugin, wave-start priorities"
+  },
+  {
+   "t": 387,
+   "text": "Mid waves and mechanics: Manticores, thralls vs Ancients, Mayhem and Quartet invocations"
+  },
+  {
+   "t": 737,
+   "text": "Advanced pillar techniques: off-ticking, Minotaur healing and mage blocking, start tile"
+  },
+  {
+   "t": 1210,
+   "text": "Wave 11: double Mage/Shockwave spawns and not panicking"
+  },
+  {
+   "t": 1421,
+   "text": "Final boss guide: Sol Heredit spear and shield attacks, parry, grapple, positioning"
+  }
+ ],
+ "topics": [
+  {
+   "name": "Soulreaper axe",
+   "kind": "item",
+   "claims": [
     {
-      "name": "Soulreaper axe",
-      "kind": "item",
-      "claims": [
-        {"t": 0, "kind": "stat", "text": "After its recent change the Soulreaper axe is described by Gnomonkey as sitting between the Tent Whip (Abyssal tentacle) and the Scythe of Vitur: it is 11% better than the Tent Whip but costs about 400 mil, making it usable in Colosseum."},
-        {"t": 27, "kind": "stat", "text": "Following the change, Soulreaper axe stacks decay every 20 ticks instead of the previous (as he recalls) 10 ticks, and the axe refunds 8 health each time it loses a stack, so the wielder never loses health from decaying stacks."},
-        {"t": 27, "kind": "tip", "text": "Soulreaper axe stacks keep decaying between Colosseum waves, which heals the player back, so Gnomonkey says Sanguinesti staff's start-of-wave healing is rarely needed with the axe."},
-        {"t": 85, "kind": "opinion", "text": "Gnomonkey finds he gets a bit less use out of the Saradomin godsword spec with the Soulreaper axe because he is trying to keep the axe's stacks up, but still considers the spec very useful."},
-        {"t": 116, "kind": "stat", "text": "Asked in chat about running no Blood Fury, Gnomonkey said the Soulreaper axe's great advantage is that it does not drain (the run's resources) as fast as the Scythe, and even drains less than the Tent Whip, which is a four-tick weapon."},
-        {"t": 147, "kind": "opinion", "text": "Gnomonkey finds that the Frailty invocation is noticeably worse than usual with the Soulreaper axe, so he tries to avoid taking it."},
-        {"t": 236, "kind": "tip", "text": "Frailty is normally an acceptable invocation, but Gnomonkey avoids it with the Soulreaper axe for as long as possible because it prevents banking health from stacks."},
-        {"t": 236, "kind": "tip", "text": "The Spec Overlay plugin shows special attack energy while the Soulreaper axe is equipped; a viewer pointed it out and Gnomonkey said he would keep it on."},
-        {"t": 1050, "kind": "opinion", "text": "After using it in the run, Gnomonkey's verdict on the Soulreaper axe is that it seems quite good because the stacks decay really slowly."},
-        {"t": 2050, "kind": "opinion", "text": "Gnomonkey says the Soulreaper axe is very close to the Scythe on Sol Heredit and is not bad at all there."}
-      ]
+     "t": 0,
+     "kind": "stat",
+     "text": "After its recent change the Soulreaper axe is described by Gnomonkey as sitting between the Tent Whip (Abyssal tentacle) and the Scythe of Vitur: it is 11% better than the Tent Whip but costs about 400 mil, making it usable in Colosseum."
     },
     {
-      "name": "Colosseum",
-      "kind": "activity",
-      "claims": [
-        {"t": 0, "kind": "event", "text": "Gnomonkey made this Colosseum guide because his first Colosseum guides were made at release, before any changes to the Colosseum or the Soulreaper axe; the spec changes to the axe make it within 10% of Scythe and a mid-level budget melee option."},
-        {"t": 0, "kind": "tip", "text": "The suggested budget setup keeps the same setup as his budget run but with the Soulreaper axe in place of the Tent Whip, a Sanguinesti staff (the trident from his budget run also works), a hammer, a Saradomin godsword for special attacks, and an Attle weapon (transcribed as Adle/Attle) that two-shots the Mage even with no boost."},
-        {"t": 56, "kind": "tip", "text": "Gnomonkey says the Colosseum hammer can be skipped when using the Sanguinesti staff because it is a one-handed item, but he thinks it is worth bringing because it makes the boss a little easier and most people die at the boss."},
-        {"t": 56, "kind": "tip", "text": "An Elder maul (about 150 mil) can be brought in the hammer slot if the player owns one; Gnomonkey assumes most viewers do not and says it is better if you have it."},
-        {"t": 116, "kind": "tip", "text": "For runes in the Colosseum, Gnomonkey brings death, fire, soul and cosmic runes, runs Arceuus spells, and pulls blood runes out of his staff; a swamp trident can pull runes but a regular trident cannot."},
-        {"t": 147, "kind": "tip", "text": "Blasphemy is always the first choice when choosing invocations, according to Gnomonkey."},
-        {"t": 179, "kind": "tip", "text": "At the start of every wave, Gnomonkey immediately kills the Berserker because it hits very high, then kills one of the other two; killing the archer first still lets you maintain axe stacks."},
-        {"t": 179, "kind": "tip", "text": "Mage waves are killed by switching to the Attle weapon, while archers can be killed with the axe or a Saradomin godsword spec."},
-        {"t": 208, "kind": "tip", "text": "The Saradomin godsword does not show its spec meter in Colosseum, so Gnomonkey advises checking it occasionally to avoid never using the special attack."},
-        {"t": 208, "kind": "mechanic", "text": "Shockwave Colossi throw a spear into the air every five attacks and the player must move out of the way; it hits for about what they would hit off prayer but is guaranteed to hit."},
-        {"t": 268, "kind": "mechanic", "text": "Reinforcements spawn after exactly 40 seconds on the wave timer; the Speed Splits plugin lets you see when they will arrive."},
-        {"t": 302, "kind": "opinion", "text": "Gnomonkey says a Colossus always hits harder than a Shaman, with a much higher max hit, even though you are more likely to tank the Shaman."},
-        {"t": 356, "kind": "tip", "text": "Gnomonkey's invocation-picking advice is to take a new invocation if possible or finish an existing one, because taking it removes it from the pool and the game stops offering it, raising the chance of the invocations you want."},
-        {"t": 458, "kind": "tip", "text": "There is a delay at the start of each wave, so you have time to turn your prayer on and react; Gnomonkey also uses a red radius marker showing the Shaman's max range so he can avoid it if it spawns far away."},
-        {"t": 540, "kind": "tip", "text": "When facing a stack of enemies, Gnomonkey always kills the lowest-HP target first so he has to flick prayers less; he says people wrongly ignore the Shockwave Colossus, which hits for around 50s if you mess up but has only about 120 health."},
-        {"t": 1330, "kind": "tip", "text": "Before Sol Heredit, Gnomonkey says to pick up everything because Sol teleports you to the centre of the arena, and it is good to have full special attack (100%) before Sol."},
-        {"t": 1415, "kind": "opinion", "text": "Gnomonkey says double-hammering Sol Heredit with the hammer special saves about 11 seconds on the fight if the spec lands."},
-        {"t": 1235, "kind": "tip", "text": "Gnomonkey stresses not panicking at the start of wave 11: if the off-tick looks obvious he stays at the bottom of the pillar rather than rotating, and he notes people almost never go for off-ticks even though they make the wave easier."}
-      ]
+     "t": 27,
+     "kind": "stat",
+     "text": "Following the change, Soulreaper axe stacks decay every 20 ticks instead of the previous (as he recalls) 10 ticks, and the axe refunds 8 health each time it loses a stack, so the wielder never loses health from decaying stacks."
     },
     {
-      "name": "Colosseum South Pillar",
-      "kind": "mechanic",
-      "claims": [
-        {"t": 0, "kind": "tip", "text": "Gnomonkey recommends starting at South Pillar, either on the B5 tile or on his own speed tile, for learners."},
-        {"t": 0, "kind": "opinion", "text": "Gnomonkey says North Pillar has unsolvable double stacks and you cannot 100% mage block the Minotaur waves there, and that suggesting North for learners is a noob trap because you lose safety and pillar rotation options and coin flip whether the Shaman stacks behind Minotaurs."},
-        {"t": 328, "kind": "opinion", "text": "Gnomonkey hates North Pillar because it prevents rotating the pillar and doing stacks, whereas on South Pillar stacks can be solved on both sides and you can rotate the pillar both ways."},
-        {"t": 356, "kind": "opinion", "text": "Gnomonkey also says North Pillar is worse for reinforcements, which is why he always uses South."},
-        {"t": 840, "kind": "tip", "text": "Gnomonkey's personal start tile is not the typical B5 tile; he starts a couple of tiles out so something can spawn right next to him, which lets him pray against it behind the pillar and often avoid damage, and he thinks it is better than B5 even for learners."},
-        {"t": 1190, "kind": "opinion", "text": "Gnomonkey says South Pillar always gives a way to solve a bad wave if you are quick (including mage blocking), whereas on North Pillar a spawn like a bad wave 10 just kills you."}
-      ]
+     "t": 27,
+     "kind": "tip",
+     "text": "Soulreaper axe stacks keep decaying between Colosseum waves, which heals the player back, so Gnomonkey says Sanguinesti staff's start-of-wave healing is rarely needed with the axe."
     },
     {
-      "name": "Pillar stacks and off-ticking",
-      "kind": "mechanic",
-      "claims": [
-        {"t": 302, "kind": "method", "text": "To solve a stack at the Colosseum pillar, start from the middle of the pillar, go to the stacking tile and pray against the enemy in the back first and then the enemy in the front, which off-ticks them; Gnomonkey says this is the same across the board."},
-        {"t": 489, "kind": "method", "text": "One stack does not work the normal way: with a Mage in the stack, going the usual direction means the small Mage sees you at the same time, so Gnomonkey instead goes the opposite way, praying against the Mage and running out right after it attacks."},
-        {"t": 570, "kind": "method", "text": "You can force off-ticks by walking along an axis or running to a corner so an enemy sees you earlier, jiggling positions slightly."},
-        {"t": 637, "kind": "mechanic", "text": "A Manticore's attack cycle is five ticks of attacking and then five ticks to recharge, ten ticks in total, so its timing matches other mobs."},
-        {"t": 663, "kind": "tip", "text": "You know a mob is off-ticked relative to a Manticore if it attacks during the Manticore's orb attack style, or two ticks before or two ticks after the Manticore attacks."},
-        {"t": 692, "kind": "method", "text": "With a Manticore in a stack, pray against the thing in the back and then the thing in the front, same as other stacks."},
-        {"t": 911, "kind": "method", "text": "For a stack with two enemies in front of a Manticore, start two or three tiles out from the pillar and pray against the enemy in front first and then the one in the back, so the order is backwards; the enemy in the back then sees you late."},
-        {"t": 937, "kind": "tip", "text": "When flicking prayers against a Manticore plus another enemy, Gnomonkey stares at whichever target starts its attack first; every two attacks he flicks through his prayers rather than tracking two mobs."},
-        {"t": 1310, "kind": "tip", "text": "Gnomonkey explains off-ticking by saying that right after an enemy attacks you have four or five ticks in which any different attack that lands is off-ticked, so you ask whether something just attacked you."},
-        {"t": 1353, "kind": "opinion", "text": "Gnomonkey says to go for off-ticks even if you have to tank a ranged hit to set one up, because it makes life much easier."}
-      ]
+     "t": 85,
+     "kind": "opinion",
+     "text": "Gnomonkey finds he gets a bit less use out of the Saradomin godsword spec with the Soulreaper axe because he is trying to keep the axe's stacks up, but still considers the spec very useful."
     },
     {
-      "name": "Manticore",
-      "kind": "mechanic",
-      "claims": [
-        {"t": 390, "kind": "mechanic", "text": "Colosseum Manticores queue up three orb attacks, and as soon as the projectile starts moving toward you and the animation starts, you flick through Mage, Ranged, Melee protection prayers; the first two orbs can randomly swap but the approach is the same."},
-        {"t": 692, "kind": "stat", "text": "Gnomonkey says Manticores are the tankiest mob in the Colosseum, with more defence than Sol Heredit, so he focuses them and uses a Saradomin godsword spec."},
-        {"t": 1160, "kind": "tip", "text": "If two Manticores are charging up Mage, both will use Mage, so Gnomonkey tanks a ranger and prays against the Manticore because a Manticore is more dangerous than a ranger."}
-      ]
+     "t": 116,
+     "kind": "stat",
+     "text": "Asked in chat about running no Blood Fury, Gnomonkey said the Soulreaper axe's great advantage is that it does not drain (the run's resources) as fast as the Scythe, and even drains less than the Tent Whip, which is a four-tick weapon."
     },
     {
-      "name": "Minotaur",
-      "kind": "mechanic",
-      "claims": [
-        {"t": 786, "kind": "mechanic", "text": "Colosseum Minotaurs only melee, so you can pray melee against them, but as a replacement for their attack they fully heal anything in range."},
-        {"t": 816, "kind": "mechanic", "text": "A Minotaur only heals enemies that are damaged, as Gnomonkey believes below 20% or more of their max health, so you have to hit them hard for the heal to matter."},
-        {"t": 816, "kind": "tip", "text": "To avoid a Minotaur's heal, stay within its melee range because it will then always attack you instead of healing; also if you have the Minotaur corner-trapped on your diagonal, it will not heal."},
-        {"t": 1090, "kind": "method", "text": "A Minotaur heal block (mage block) is done by letting a Shaman see you from a spot that puts the Minotaur in front of the mage every time; Gnomonkey watches his timer, hits once, stands there praying mage, then moves back out of the way."}
-      ]
+     "t": 147,
+     "kind": "opinion",
+     "text": "Gnomonkey finds that the Frailty invocation is noticeably worse than usual with the Soulreaper axe, so he tries to avoid taking it."
     },
     {
-      "name": "Shockwave Colossus",
-      "kind": "mechanic",
-      "claims": [
-        {"t": 786, "kind": "mechanic", "text": "The Colosseum Shockwave Colossus attacks with mage attacks like a Javelin Colossus, and the attack lands as the animation starts."},
-        {"t": 720, "kind": "tip", "text": "Gnomonkey says to always pray Mage at the start of waves containing Shockwave Colossi because they are very dangerous."}
-      ]
+     "t": 236,
+     "kind": "tip",
+     "text": "Frailty is normally an acceptable invocation, but Gnomonkey avoids it with the Soulreaper axe for as long as possible because it prevents banking health from stacks."
     },
     {
-      "name": "Colosseum invocations",
-      "kind": "mechanic",
-      "claims": [
-        {"t": 402, "kind": "opinion", "text": "Gnomonkey tries to avoid the Mayhem invocation because a misclick makes the Manticore's attacks do two hits per orb with the same max hit each, which is basically double damage; it is not the worst invocation but he avoids it."},
-        {"t": 570, "kind": "opinion", "text": "Gnomonkey says Bees is a run killer and the worst invocation, that Relentless is okay only very late, and that Quartet is really bad because it forces you to deal with something at the start of a wave, the most crucial moment, and spawns an extra enemy on Sol."},
-        {"t": 720, "kind": "opinion", "text": "Gnomonkey says Doom is a fairly good choice but he would only take Doom 1 on a first Quiver (first-time Colosseum run)."},
-        {"t": 964, "kind": "opinion", "text": "Gnomonkey would never take Doom 2 on a first Quiver unless forced, saying Doom is a terrible choice because it makes wave 11 hell."},
-        {"t": 1050, "kind": "opinion", "text": "Gnomonkey says Frailty was his best choice at that point in the run and that Relentless is really bad if you can avoid it, though it does not make Sol harder."},
-        {"t": 1440, "kind": "tip", "text": "Gnomonkey says Relentless does nothing on Sol Heredit and Quartet's extra spawn at Sol can be used to get a free death charge for extra special energy."},
-        {"t": 0, "kind": "trivia", "text": "Gnomonkey's Discord has an in-depth invocation tier list and custom menu swaps for the Fremmys under Colosseum Resources."}
-      ]
+     "t": 236,
+     "kind": "tip",
+     "text": "The Spec Overlay plugin shows special attack energy while the Soulreaper axe is equipped; a viewer pointed it out and Gnomonkey said he would keep it on."
     },
     {
-      "name": "Thralls and death charge in Colosseum",
-      "kind": "opinion",
-      "claims": [
-        {"t": 0, "kind": "opinion", "text": "Gnomonkey says Ancients is trolling in the Colosseum and that people should stop bringing Barrage, comparing it to bringing Justiciar's armour into the Inferno; melee is by far the best style."},
-        {"t": 0, "kind": "opinion", "text": "Gnomonkey says thralls and death charge are supreme in the Colosseum, and death charge heals more over a run via the Saradomin godsword than Blood Barrage would."},
-        {"t": 422, "kind": "opinion", "text": "Gnomonkey says thralls give death charge, which lets you spec more and therefore use the Saradomin godsword more, and asks why you would heal off things with Blood spells when you can heal and do more damage."}
-      ]
+     "t": 1050,
+     "kind": "opinion",
+     "text": "After using it in the run, Gnomonkey's verdict on the Soulreaper axe is that it seems quite good because the stacks decay really slowly."
     },
     {
-      "name": "Sol Heredit",
-      "kind": "boss",
-      "claims": [
-        {"t": 1456, "kind": "stat", "text": "Sol Heredit has two main attacks, a spear lunge and a shield slam, each with a different ground area of effect."},
-        {"t": 1507, "kind": "mechanic", "text": "After each phase at 90%, 75%, 50%, 25% and 10% health, Sol shoots lightning down and then is guaranteed to do a spear attack."},
-        {"t": 1537, "kind": "mechanic", "text": "If Sol does the same attack twice in a row the area of effect changes: a second spear is triple-prong instead of double-prong, and a second shield slam hits two tiles out rather than one tile out in a big square."},
-        {"t": 1569, "kind": "method", "text": "Gnomonkey advises tracking Sol's last attack to decide the next step: after a spear, step one tile diagonally on the next attack because that dodges both a second spear and a shield slam; he compares this to biking while staring forward instead of at the ground."},
-        {"t": 1602, "kind": "mechanic", "text": "Sol's parry attack is signified by orange on his spear tip; he baps you twice and then lunges, and you must catch each with prayer on the exact tick because it turns Protect from Melee off."},
-        {"t": 1635, "kind": "tip", "text": "Gnomonkey describes the parry timing as three ticks, three ticks, three ticks above 50% health, and a delay on the last attack below 50%, saying it is easier to learn by feel than by tick counts."},
-        {"t": 1666, "kind": "mechanic", "text": "Sol's grapple targets one of five equipment pieces (legs, chestplate, cape, gloves or boots), announced by text on screen and in the chatbox; you have a long delay before it hits."},
-        {"t": 1698, "kind": "tip", "text": "Gnomonkey says the grapple is too late to catch once Sol closes his fist, but clicking the correct gear piece as his hand starts moving toward you is the last tick to catch it for a guaranteed max hit on your next attack; it saves about 10 seconds per grapple."},
-        {"t": 1769, "kind": "tip", "text": "Most players click the grapple piece too early out of panic; Gnomonkey says you actually have around five ticks and recommends hovering the gear piece and clicking."},
-        {"t": 1769, "kind": "mechanic", "text": "In the last 10% of Sol's health he shoots lots of lightning, but it is only the last hundred health so he dies in two or three swings."},
-        {"t": 1828, "kind": "tip", "text": "Gnomonkey says that after a special (grapple or parry) the next attack resets the counter, so it is always a back-mid-one step; after a phase the next attack is a spear and you must remember what he last did."},
-        {"t": 1849, "kind": "tip", "text": "Gnomonkey's advice is to control the boss and not get pinned against a wall, rotating Sol away from the wall when convenient and dragging him back into position."},
-        {"t": 1920, "kind": "tip", "text": "Gnomonkey says he gets through Sol by saying out loud what Sol will do and what he will do next, and recommends fighting Sol proactively rather than reacting."}
-      ]
-    },
-    {
-      "name": "Gnomonkey",
-      "kind": "person",
-      "claims": [
-        {"t": 2090, "kind": "record", "text": "Gnomonkey said during the stream that his Sol Heredit kill count was 109 with no pet."},
-        {"t": 0, "kind": "trivia", "text": "Gnomonkey's Twitch chat has commands for his Colosseum tiles and NPC markers: !colotiles, !colotile, !soltiles (orbs that rotate during the boss), !coloorb and !shaman."}
-      ]
+     "t": 2050,
+     "kind": "opinion",
+     "text": "Gnomonkey says the Soulreaper axe is very close to the Scythe on Sol Heredit and is not bad at all there."
     }
-  ]
+   ]
+  },
+  {
+   "name": "Colosseum",
+   "kind": "activity",
+   "claims": [
+    {
+     "t": 0,
+     "kind": "event",
+     "text": "Gnomonkey made this Colosseum guide because his first Colosseum guides were made at release, before any changes to the Colosseum or the Soulreaper axe; the spec changes to the axe make it within 10% of Scythe and a mid-level budget melee option."
+    },
+    {
+     "t": 0,
+     "kind": "tip",
+     "text": "The suggested budget setup keeps the same setup as his budget run but with the Soulreaper axe in place of the Tent Whip, a Sanguinesti staff (the trident from his budget run also works), a hammer, a Saradomin godsword for special attacks, and an Attle weapon (transcribed as Adle/Attle) that two-shots the Mage even with no boost."
+    },
+    {
+     "t": 56,
+     "kind": "tip",
+     "text": "Gnomonkey says the Colosseum hammer can be skipped when using the Sanguinesti staff because it is a one-handed item, but he thinks it is worth bringing because it makes the boss a little easier and most people die at the boss."
+    },
+    {
+     "t": 56,
+     "kind": "tip",
+     "text": "An Elder maul (about 150 mil) can be brought in the hammer slot if the player owns one; Gnomonkey assumes most viewers do not and says it is better if you have it."
+    },
+    {
+     "t": 116,
+     "kind": "tip",
+     "text": "For runes in the Colosseum, Gnomonkey brings death, fire, soul and cosmic runes, runs Arceuus spells, and pulls blood runes out of his staff; a swamp trident can pull runes but a regular trident cannot."
+    },
+    {
+     "t": 147,
+     "kind": "tip",
+     "text": "Blasphemy is always the first choice when choosing invocations, according to Gnomonkey."
+    },
+    {
+     "t": 179,
+     "kind": "tip",
+     "text": "At the start of every wave, Gnomonkey immediately kills the Berserker because it hits very high, then kills one of the other two; killing the archer first still lets you maintain axe stacks."
+    },
+    {
+     "t": 179,
+     "kind": "tip",
+     "text": "Mage waves are killed by switching to the Attle weapon, while archers can be killed with the axe or a Saradomin godsword spec."
+    },
+    {
+     "t": 208,
+     "kind": "tip",
+     "text": "The Saradomin godsword does not show its spec meter in Colosseum, so Gnomonkey advises checking it occasionally to avoid never using the special attack."
+    },
+    {
+     "t": 208,
+     "kind": "method",
+     "text": "Shockwave Colossi throw a spear into the air every five attacks and the player must move out of the way; it hits for about what they would hit off prayer but is guaranteed to hit."
+    },
+    {
+     "t": 268,
+     "kind": "method",
+     "text": "Reinforcements spawn after exactly 40 seconds on the wave timer; the Speed Splits plugin lets you see when they will arrive."
+    },
+    {
+     "t": 302,
+     "kind": "opinion",
+     "text": "Gnomonkey says a Colossus always hits harder than a Shaman, with a much higher max hit, even though you are more likely to tank the Shaman."
+    },
+    {
+     "t": 356,
+     "kind": "tip",
+     "text": "Gnomonkey's invocation-picking advice is to take a new invocation if possible or finish an existing one, because taking it removes it from the pool and the game stops offering it, raising the chance of the invocations you want."
+    },
+    {
+     "t": 458,
+     "kind": "tip",
+     "text": "There is a delay at the start of each wave, so you have time to turn your prayer on and react; Gnomonkey also uses a red radius marker showing the Shaman's max range so he can avoid it if it spawns far away."
+    },
+    {
+     "t": 540,
+     "kind": "tip",
+     "text": "When facing a stack of enemies, Gnomonkey always kills the lowest-HP target first so he has to flick prayers less; he says people wrongly ignore the Shockwave Colossus, which hits for around 50s if you mess up but has only about 120 health."
+    },
+    {
+     "t": 1330,
+     "kind": "tip",
+     "text": "Before Sol Heredit, Gnomonkey says to pick up everything because Sol teleports you to the centre of the arena, and it is good to have full special attack (100%) before Sol."
+    },
+    {
+     "t": 1415,
+     "kind": "opinion",
+     "text": "Gnomonkey says double-hammering Sol Heredit with the hammer special saves about 11 seconds on the fight if the spec lands."
+    },
+    {
+     "t": 1235,
+     "kind": "tip",
+     "text": "Gnomonkey stresses not panicking at the start of wave 11: if the off-tick looks obvious he stays at the bottom of the pillar rather than rotating, and he notes people almost never go for off-ticks even though they make the wave easier."
+    }
+   ]
+  },
+  {
+   "name": "Colosseum South Pillar",
+   "kind": "mechanic",
+   "claims": [
+    {
+     "t": 0,
+     "kind": "tip",
+     "text": "Gnomonkey recommends starting at South Pillar, either on the B5 tile or on his own speed tile, for learners."
+    },
+    {
+     "t": 0,
+     "kind": "opinion",
+     "text": "Gnomonkey says North Pillar has unsolvable double stacks and you cannot 100% mage block the Minotaur waves there, and that suggesting North for learners is a noob trap because you lose safety and pillar rotation options and coin flip whether the Shaman stacks behind Minotaurs."
+    },
+    {
+     "t": 328,
+     "kind": "opinion",
+     "text": "Gnomonkey hates North Pillar because it prevents rotating the pillar and doing stacks, whereas on South Pillar stacks can be solved on both sides and you can rotate the pillar both ways."
+    },
+    {
+     "t": 356,
+     "kind": "opinion",
+     "text": "Gnomonkey also says North Pillar is worse for reinforcements, which is why he always uses South."
+    },
+    {
+     "t": 840,
+     "kind": "tip",
+     "text": "Gnomonkey's personal start tile is not the typical B5 tile; he starts a couple of tiles out so something can spawn right next to him, which lets him pray against it behind the pillar and often avoid damage, and he thinks it is better than B5 even for learners."
+    },
+    {
+     "t": 1190,
+     "kind": "opinion",
+     "text": "Gnomonkey says South Pillar always gives a way to solve a bad wave if you are quick (including mage blocking), whereas on North Pillar a spawn like a bad wave 10 just kills you."
+    }
+   ]
+  },
+  {
+   "name": "Pillar stacks and off-ticking",
+   "kind": "mechanic",
+   "claims": [
+    {
+     "t": 302,
+     "kind": "method",
+     "text": "To solve a stack at the Colosseum pillar, start from the middle of the pillar, go to the stacking tile and pray against the enemy in the back first and then the enemy in the front, which off-ticks them; Gnomonkey says this is the same across the board."
+    },
+    {
+     "t": 489,
+     "kind": "method",
+     "text": "One stack does not work the normal way: with a Mage in the stack, going the usual direction means the small Mage sees you at the same time, so Gnomonkey instead goes the opposite way, praying against the Mage and running out right after it attacks."
+    },
+    {
+     "t": 570,
+     "kind": "method",
+     "text": "You can force off-ticks by walking along an axis or running to a corner so an enemy sees you earlier, jiggling positions slightly."
+    },
+    {
+     "t": 637,
+     "kind": "method",
+     "text": "A Manticore's attack cycle is five ticks of attacking and then five ticks to recharge, ten ticks in total, so its timing matches other mobs."
+    },
+    {
+     "t": 663,
+     "kind": "tip",
+     "text": "You know a mob is off-ticked relative to a Manticore if it attacks during the Manticore's orb attack style, or two ticks before or two ticks after the Manticore attacks."
+    },
+    {
+     "t": 692,
+     "kind": "method",
+     "text": "With a Manticore in a stack, pray against the thing in the back and then the thing in the front, same as other stacks."
+    },
+    {
+     "t": 911,
+     "kind": "method",
+     "text": "For a stack with two enemies in front of a Manticore, start two or three tiles out from the pillar and pray against the enemy in front first and then the one in the back, so the order is backwards; the enemy in the back then sees you late."
+    },
+    {
+     "t": 937,
+     "kind": "tip",
+     "text": "When flicking prayers against a Manticore plus another enemy, Gnomonkey stares at whichever target starts its attack first; every two attacks he flicks through his prayers rather than tracking two mobs."
+    },
+    {
+     "t": 1310,
+     "kind": "tip",
+     "text": "Gnomonkey explains off-ticking by saying that right after an enemy attacks you have four or five ticks in which any different attack that lands is off-ticked, so you ask whether something just attacked you."
+    },
+    {
+     "t": 1353,
+     "kind": "opinion",
+     "text": "Gnomonkey says to go for off-ticks even if you have to tank a ranged hit to set one up, because it makes life much easier."
+    }
+   ]
+  },
+  {
+   "name": "Manticore",
+   "kind": "mechanic",
+   "claims": [
+    {
+     "t": 390,
+     "kind": "method",
+     "text": "Colosseum Manticores queue up three orb attacks, and as soon as the projectile starts moving toward you and the animation starts, you flick through Mage, Ranged, Melee protection prayers; the first two orbs can randomly swap but the approach is the same."
+    },
+    {
+     "t": 692,
+     "kind": "stat",
+     "text": "Gnomonkey says Manticores are the tankiest mob in the Colosseum, with more defence than Sol Heredit, so he focuses them and uses a Saradomin godsword spec."
+    },
+    {
+     "t": 1160,
+     "kind": "tip",
+     "text": "If two Manticores are charging up Mage, both will use Mage, so Gnomonkey tanks a ranger and prays against the Manticore because a Manticore is more dangerous than a ranger."
+    }
+   ]
+  },
+  {
+   "name": "Minotaur",
+   "kind": "mechanic",
+   "claims": [
+    {
+     "t": 786,
+     "kind": "method",
+     "text": "Colosseum Minotaurs only melee, so you can pray melee against them, but as a replacement for their attack they fully heal anything in range."
+    },
+    {
+     "t": 816,
+     "kind": "method",
+     "text": "A Minotaur only heals enemies that are damaged, as Gnomonkey believes below 20% or more of their max health, so you have to hit them hard for the heal to matter."
+    },
+    {
+     "t": 816,
+     "kind": "tip",
+     "text": "To avoid a Minotaur's heal, stay within its melee range because it will then always attack you instead of healing; also if you have the Minotaur corner-trapped on your diagonal, it will not heal."
+    },
+    {
+     "t": 1090,
+     "kind": "method",
+     "text": "A Minotaur heal block (mage block) is done by letting a Shaman see you from a spot that puts the Minotaur in front of the mage every time; Gnomonkey watches his timer, hits once, stands there praying mage, then moves back out of the way."
+    }
+   ]
+  },
+  {
+   "name": "Shockwave Colossus",
+   "kind": "mechanic",
+   "claims": [
+    {
+     "t": 786,
+     "kind": "method",
+     "text": "The Colosseum Shockwave Colossus attacks with mage attacks like a Javelin Colossus, and the attack lands as the animation starts."
+    },
+    {
+     "t": 720,
+     "kind": "tip",
+     "text": "Gnomonkey says to always pray Mage at the start of waves containing Shockwave Colossi because they are very dangerous."
+    }
+   ]
+  },
+  {
+   "name": "Colosseum invocations",
+   "kind": "mechanic",
+   "claims": [
+    {
+     "t": 402,
+     "kind": "opinion",
+     "text": "Gnomonkey tries to avoid the Mayhem invocation because a misclick makes the Manticore's attacks do two hits per orb with the same max hit each, which is basically double damage; it is not the worst invocation but he avoids it."
+    },
+    {
+     "t": 570,
+     "kind": "opinion",
+     "text": "Gnomonkey says Bees is a run killer and the worst invocation, that Relentless is okay only very late, and that Quartet is really bad because it forces you to deal with something at the start of a wave, the most crucial moment, and spawns an extra enemy on Sol."
+    },
+    {
+     "t": 720,
+     "kind": "opinion",
+     "text": "Gnomonkey says Doom is a fairly good choice but he would only take Doom 1 on a first Quiver (first-time Colosseum run)."
+    },
+    {
+     "t": 964,
+     "kind": "opinion",
+     "text": "Gnomonkey would never take Doom 2 on a first Quiver unless forced, saying Doom is a terrible choice because it makes wave 11 hell."
+    },
+    {
+     "t": 1050,
+     "kind": "opinion",
+     "text": "Gnomonkey says Frailty was his best choice at that point in the run and that Relentless is really bad if you can avoid it, though it does not make Sol harder."
+    },
+    {
+     "t": 1440,
+     "kind": "tip",
+     "text": "Gnomonkey says Relentless does nothing on Sol Heredit and Quartet's extra spawn at Sol can be used to get a free death charge for extra special energy."
+    },
+    {
+     "t": 0,
+     "kind": "trivia",
+     "text": "Gnomonkey's Discord has an in-depth invocation tier list and custom menu swaps for the Fremmys under Colosseum Resources."
+    }
+   ]
+  },
+  {
+   "name": "Thralls and death charge in Colosseum",
+   "kind": "opinion",
+   "claims": [
+    {
+     "t": 0,
+     "kind": "opinion",
+     "text": "Gnomonkey says Ancients is trolling in the Colosseum and that people should stop bringing Barrage, comparing it to bringing Justiciar's armour into the Inferno; melee is by far the best style."
+    },
+    {
+     "t": 0,
+     "kind": "opinion",
+     "text": "Gnomonkey says thralls and death charge are supreme in the Colosseum, and death charge heals more over a run via the Saradomin godsword than Blood Barrage would."
+    },
+    {
+     "t": 422,
+     "kind": "opinion",
+     "text": "Gnomonkey says thralls give death charge, which lets you spec more and therefore use the Saradomin godsword more, and asks why you would heal off things with Blood spells when you can heal and do more damage."
+    }
+   ]
+  },
+  {
+   "name": "Sol Heredit",
+   "kind": "boss",
+   "claims": [
+    {
+     "t": 1456,
+     "kind": "stat",
+     "text": "Sol Heredit has two main attacks, a spear lunge and a shield slam, each with a different ground area of effect."
+    },
+    {
+     "t": 1507,
+     "kind": "method",
+     "text": "After each phase at 90%, 75%, 50%, 25% and 10% health, Sol shoots lightning down and then is guaranteed to do a spear attack."
+    },
+    {
+     "t": 1537,
+     "kind": "method",
+     "text": "If Sol does the same attack twice in a row the area of effect changes: a second spear is triple-prong instead of double-prong, and a second shield slam hits two tiles out rather than one tile out in a big square."
+    },
+    {
+     "t": 1569,
+     "kind": "method",
+     "text": "Gnomonkey advises tracking Sol's last attack to decide the next step: after a spear, step one tile diagonally on the next attack because that dodges both a second spear and a shield slam; he compares this to biking while staring forward instead of at the ground."
+    },
+    {
+     "t": 1602,
+     "kind": "method",
+     "text": "Sol's parry attack is signified by orange on his spear tip; he baps you twice and then lunges, and you must catch each with prayer on the exact tick because it turns Protect from Melee off."
+    },
+    {
+     "t": 1635,
+     "kind": "tip",
+     "text": "Gnomonkey describes the parry timing as three ticks, three ticks, three ticks above 50% health, and a delay on the last attack below 50%, saying it is easier to learn by feel than by tick counts."
+    },
+    {
+     "t": 1666,
+     "kind": "method",
+     "text": "Sol's grapple targets one of five equipment pieces (legs, chestplate, cape, gloves or boots), announced by text on screen and in the chatbox; you have a long delay before it hits."
+    },
+    {
+     "t": 1698,
+     "kind": "tip",
+     "text": "Gnomonkey says the grapple is too late to catch once Sol closes his fist, but clicking the correct gear piece as his hand starts moving toward you is the last tick to catch it for a guaranteed max hit on your next attack; it saves about 10 seconds per grapple."
+    },
+    {
+     "t": 1769,
+     "kind": "tip",
+     "text": "Most players click the grapple piece too early out of panic; Gnomonkey says you actually have around five ticks and recommends hovering the gear piece and clicking."
+    },
+    {
+     "t": 1769,
+     "kind": "method",
+     "text": "In the last 10% of Sol's health he shoots lots of lightning, but it is only the last hundred health so he dies in two or three swings."
+    },
+    {
+     "t": 1828,
+     "kind": "tip",
+     "text": "Gnomonkey says that after a special (grapple or parry) the next attack resets the counter, so it is always a back-mid-one step; after a phase the next attack is a spear and you must remember what he last did."
+    },
+    {
+     "t": 1849,
+     "kind": "tip",
+     "text": "Gnomonkey's advice is to control the boss and not get pinned against a wall, rotating Sol away from the wall when convenient and dragging him back into position."
+    },
+    {
+     "t": 1920,
+     "kind": "tip",
+     "text": "Gnomonkey says he gets through Sol by saying out loud what Sol will do and what he will do next, and recommends fighting Sol proactively rather than reacting."
+    }
+   ]
+  },
+  {
+   "name": "Gnomonkey",
+   "kind": "person",
+   "claims": [
+    {
+     "t": 2090,
+     "kind": "record",
+     "text": "Gnomonkey said during the stream that his Sol Heredit kill count was 109 with no pet."
+    },
+    {
+     "t": 0,
+     "kind": "trivia",
+     "text": "Gnomonkey's Twitch chat has commands for his Colosseum tiles and NPC markers: !colotiles, !colotile, !soltiles (orbs that rotate during the boss), !coloorb and !shaman."
+    }
+   ]
+  }
+ ]
 }

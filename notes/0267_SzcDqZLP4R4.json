@@ -1,0 +1,56 @@
+{
+  "id": "SzcDqZLP4R4",
+  "title": "GNOMONKEY 100K SUBS SURPRISE (OSRS)",
+  "date": "2025-10-01",
+  "type": "other",
+  "summary": "A surprise tribute video made by Gnomonkey's mod team and creator friends to celebrate his reaching 100,000 YouTube subscribers, narrated by the creator Settled on Hedron's behalf, with recorded messages from friends. It praises his teaching, his passion for the game's health and the growth of his channel.",
+  "outline": [
+    {"t": 0, "text": "Settled congratulates Gnomonkey on 100k YouTube subscribers and praises his impact on the community"},
+    {"t": 29, "text": "His Inferno teaching and the 'Click the Boss / Click Yellow' message"},
+    {"t": 55, "text": "Tombs of Amascut jokes and his help with raids and nerfs"},
+    {"t": 110, "text": "His Chambers of Xeric shorts that helped players get solo kills"},
+    {"t": 143, "text": "His hot takes and passion for the game's health and future"},
+    {"t": 174, "text": "His five-year YouTube journey, three-year Twitch journey and 40k subs in 2025"},
+    {"t": 205, "text": "Recorded messages from friends and creators"},
+    {"t": 403, "text": "Closing thanks from the community, mod team and creators"}
+  ],
+  "topics": [
+    {
+      "name": "Gnomonkey",
+      "kind": "person",
+      "claims": [
+        {"t": 0, "kind": "event", "text": "This video is a surprise made by Gnomonkey's mod team and creator friends to congratulate him on reaching 100,000 YouTube subscribers; Hedron was meant to present it but Settled stepped in to read the message for her."},
+        {"t": 174, "kind": "record", "text": "Gnomonkey started his YouTube journey five years before this video (2025) and his Twitch journey three years before it."},
+        {"t": 174, "kind": "record", "text": "With the rise of his streaming, Gnomonkey almost gave up on YouTube altogether, but over the last two years he pushed through stagnation and gained 40k subscribers in 2025 alone to reach the 100k badge."},
+        {"t": 143, "kind": "opinion", "text": "The tribute says Gnomonkey has some of the hottest takes in Old School but that no player is more passionate about the game or cares more about its health and future; it says he 'draws the line' with Jagex and does not give an inch."},
+        {"t": 0, "kind": "opinion", "text": "The tribute credits Gnomonkey with giving many players confidence in challenges that once felt out of reach, and with building a welcoming community that fosters learning and growth."},
+        {"t": 55, "kind": "trivia", "text": "The tribute jokes that Gnomonkey is 'worlds first' not only from Oka but in the community's hearts, and the speaker complains about being 60 purples without a shadow while Gnomonkey's hardcore Iron Man gets 'spooned'."},
+        {"t": 403, "kind": "event", "text": "The video credits an eleven-person mod team who voice recorded messages, plus friends and creators who wrote messages, and thanks ScriticRS for editing it together."}
+      ]
+    },
+    {
+      "name": "Inferno",
+      "kind": "activity",
+      "claims": [
+        {"t": 29, "kind": "opinion", "text": "The tribute says Gnomonkey's fiery passion for teaching the Inferno, and his simple message 'Click the Boss' or 'Click Yellow', keeps players' spirits high as they gather courage to enter the Inferno and earn the Infernal cape."},
+        {"t": 29, "kind": "opinion", "text": "The tribute credits Gnomonkey with turning the Inferno from something many see as impossible into something achievable, replacing fear with excitement and frustration with determination."}
+      ]
+    },
+    {
+      "name": "Tombs of Amascut",
+      "kind": "raid",
+      "claims": [
+        {"t": 29, "kind": "trivia", "text": "In the tribute's joke, Tombs of Amascut is described as the fourth best raid in OSRS, coming just behind Barbarian Assault, and Gnomonkey is called the best of 'us' even if there are monkeys in the tombs."},
+        {"t": 55, "kind": "opinion", "text": "The tribute says Gnomonkey helped players step into raids for the first time and eased their frustration with nerfs, and that during the release of Tombs of Amascut he found ways to make the fights bearable and broke mechanics down so everyday PvMers could do deep invocation levels."}
+      ]
+    },
+    {
+      "name": "Chambers of Xeric",
+      "kind": "raid",
+      "claims": [
+        {"t": 110, "kind": "opinion", "text": "The tribute credits Gnomonkey's shorts breaking down the hardest part of Chambers of Xeric with helping even new players get solo kills without spending a lot on gear."},
+        {"t": 110, "kind": "trivia", "text": "The tribute jokes that nobody needs a '3-2-1 mage' when they have Gnomonkey's '4-1 RAAA' method in Chambers of Xeric."}
+      ]
+    }
+  ]
+}

@@ -1,0 +1,129 @@
+{
+  "id": "zkqU0jZoPhY",
+  "title": "World Record CM CoX Gone Wild (OSRS)",
+  "date": "2023-12-31",
+  "type": "speedrun",
+  "summary": "A Challenge Mode Chambers of Xeric solo world record attempt in which Gnomonkey is at or near record pace in almost every room, but the run is lost in the Great Olm fight. He says it would easily have been a 24:40 run if Olm had not been unlucky, and he lists how each room's time compared to the record holder.",
+  "outline": [
+    {
+      "t": 0,
+      "text": "Starting the run and early Tekton/crab challenges"
+    },
+    {
+      "t": 60,
+      "text": "Early issues: missing Tekton kill, lockpick, timer plugin bug"
+    },
+    {
+      "t": 143,
+      "text": "Shamans room, 53 seconds"
+    },
+    {
+      "t": 261,
+      "text": "Record pacing and Thieving"
+    },
+    {
+      "t": 416,
+      "text": "Guardians and bosses, about 15 seconds ahead of the record"
+    },
+    {
+      "t": 554,
+      "text": "Fast combat rooms, a minute and a half faster than he's ever had"
+    },
+    {
+      "t": 770,
+      "text": "Tight healing and portals (Muttadile, Olm approach)"
+    },
+    {
+      "t": 1050,
+      "text": "Final boss fight failure at Olm"
+    },
+    {
+      "t": 1213,
+      "text": "Run analysis: room-by-room comparison to record pace and conclusion"
+    }
+  ],
+  "topics": [
+    {
+      "name": "Chambers of Xeric",
+      "kind": "raid",
+      "claims": [
+        {
+          "t": 1213,
+          "kind": "record",
+          "text": "Gnomonkey says his Challenge Mode CoX solo world record attempt would have been easily a 24:40 run if Olm had not been unlucky, but it ended in a failure at the final boss."
+        },
+        {
+          "t": 1213,
+          "kind": "stat",
+          "text": "Gnomonkey lists his room times after the run: Tekton 1:10 (58 crabs, 1:53 pop, which he calls decent), Ice Demon 2:30 (which he calls so-so), Shamans 53 seconds, Vanguards 2:07, with Thieving, Vespula, Guardians, Vasa and Mystics all called insane and Muttadile pretty good."
+        },
+        {
+          "t": 1213,
+          "kind": "opinion",
+          "text": "Gnomonkey says Vespula, Shamans, Vanguards, Thieving, Guardians, Vasa and Mystics were all close to or at record pace, and that he has never seen a faster Thieving room than the one in this run."
+        },
+        {
+          "t": 60,
+          "kind": "event",
+          "text": "At around 1:00 Gnomonkey reports a timer bug, which he says is caused by the CoX Analytics plugin."
+        },
+        {
+          "t": 143,
+          "kind": "record",
+          "text": "Gnomonkey completes the Shamans room in 53 seconds, which he repeatedly calls nuts."
+        },
+        {
+          "t": 269,
+          "kind": "record",
+          "text": "At 7:42 into the run, Gnomonkey says the record pace at that point was around 7:50, which he calls crazy fast."
+        },
+        {
+          "t": 357,
+          "kind": "record",
+          "text": "Gnomonkey gets Thieving done in sub nine minutes of run time."
+        },
+        {
+          "t": 415,
+          "kind": "stat",
+          "text": "At about 6:55 per Gnomonkey the run was 'a 1050-ish down' versus the record down at about 11:01, putting him around 15 seconds ahead of the record holder, though he notes the record holder got ridiculous luck on that floor."
+        },
+        {
+          "t": 530,
+          "kind": "stat",
+          "text": "At one point Gnomonkey says a section is about a minute and a half faster than he has ever had."
+        },
+        {
+          "t": 0,
+          "kind": "opinion",
+          "text": "Gnomonkey says in the description that the run had minor misplays but near-record pacing in each room."
+        }
+      ]
+    },
+    {
+      "name": "Great Olm",
+      "kind": "boss",
+      "claims": [
+        {
+          "t": 1050,
+          "kind": "event",
+          "text": "The run fails at the Olm fight: Gnomonkey dies close to the door and says the healing was extremely tight throughout."
+        },
+        {
+          "t": 1213,
+          "kind": "opinion",
+          "text": "Gnomonkey says he used a ton of brews in the Olm fight, and the head phase repeatedly hit him with jat attacks, with burn and acid on him, so he couldn't tick-eat and couldn't hit the head; he says he misplayed a little but it was mostly an unlucky head phase."
+        },
+        {
+          "t": 1280,
+          "kind": "opinion",
+          "text": "Gnomonkey says he will never see a run like that again, calling it probably a one in fifty thousand run."
+        },
+        {
+          "t": 0,
+          "kind": "event",
+          "text": "The description says Olm decided to be a Grinch this December and made the attempt the most tragic ending to a world record speedrun attempt in CM CoX."
+        }
+      ]
+    }
+  ]
+}

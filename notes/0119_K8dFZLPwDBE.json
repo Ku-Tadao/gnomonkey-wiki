@@ -1,0 +1,207 @@
+{
+ "id": "K8dFZLPwDBE",
+ "title": "Solo OLM Guide COX OSRS",
+ "date": "2023-07-15",
+ "type": "guide",
+ "summary": "Gnomonkey teaches the solo Great Olm fight in a regular Chambers of Xeric, covering the 12:0 and 8:1 Tumeken's Shadow running methods and the 4:1 lance (Scythe) method. He explains how to get into cycle, null flame walls, deal with acid and crystals, and what to do when something goes wrong.",
+ "outline": [
+  {
+   "t": 0,
+   "text": "12:0 shadow running tiles and cycle (hits one to five)"
+  },
+  {
+   "t": 55,
+   "text": "8:1 shadow running: tanking a hit in the middle"
+  },
+  {
+   "t": 118,
+   "text": "Why start with the Shadow and the opening hand order"
+  },
+  {
+   "t": 176,
+   "text": "Using thralls and getting into cycle"
+  },
+  {
+   "t": 265,
+   "text": "4:1 lance method: tank two hits on the thumb"
+  },
+  {
+   "t": 325,
+   "text": "The three things that can happen on the thumb"
+  },
+  {
+   "t": 512,
+   "text": "Crystal phase: keep moving"
+  },
+  {
+   "t": 575,
+   "text": "Fixing the tick with a Scythe swing; starting the third phase in 4:1"
+  },
+  {
+   "t": 638,
+   "text": "Acid run"
+  },
+  {
+   "t": 750,
+   "text": "Head running and flame wall nulling"
+  },
+  {
+   "t": 820,
+   "text": "Summary of the methods"
+  },
+  {
+   "t": 1000,
+   "text": "Binding the attack style tab and spec bar; solo advice"
+  }
+ ],
+ "topics": [
+  {
+   "name": "Great Olm",
+   "kind": "boss",
+   "claims": [
+    {
+     "t": 0,
+     "kind": "method",
+     "text": "In the 12:0 Shadow running method Gnomonkey uses marked tiles numbered by the hit of the cycle: hit from one then run to the side and return, hit from two to be dragged and come back, hit from three, a long range hit from four, and hit from five, then repeat one to five until the hand is dead, usually about two cycles."
+    },
+    {
+     "t": 55,
+     "kind": "method",
+     "text": "In the 8:1 Shadow running method you actually tank a hit: a long-range hit from one, run and come back, drag on the hit, then tank a hit in the middle on two, and get dragged on three, repeating."
+    },
+    {
+     "t": 55,
+     "kind": "opinion",
+     "text": "Gnomonkey says 8:1 is a lot harder than 12:0 because you actually tank a hit."
+    },
+    {
+     "t": 88,
+     "kind": "tip",
+     "text": "In 8:1 you tank the hit in the middle because when the head is on flame phase and does a flame wall, standing on that tile nulls it and he just makes a motion with nothing happening; you can equip ranged armour quickly to block some damage."
+    },
+    {
+     "t": 118,
+     "kind": "tip",
+     "text": "Gnomonkey says to start with the Shadow because the melee hand cripples if you attack it with melee before the mage hand is dead; the main idea is to hammer the melee hand, switch to mage and start running."
+    },
+    {
+     "t": 176,
+     "kind": "tip",
+     "text": "Gnomonkey says it is really important to use a thrall while learning, because the thrall keeps the hand turning all the way; if you splash or the thrall stops attacking, the hand turns mid-way, which makes it hard to learn."
+    },
+    {
+     "t": 205,
+     "kind": "tip",
+     "text": "To get into cycle, wait until Olm is about to turn and click from tile one; Gnomonkey says to hit a tick after he turns."
+    },
+    {
+     "t": 265,
+     "kind": "method",
+     "text": "In the 4:1 lance method you go to the thumb, tank two hits, and then do the same thing every cycle, making sure you are hitting on the right tick."
+    },
+    {
+     "t": 293,
+     "kind": "method",
+     "text": "On the thumb with 4:1 there are three outcomes: Olm uses a special attack (lightning, crystals, teleports) then another attack then nothing, so you wait an attack and run when he does nothing; he does two attacks in a row so you run immediately and do a three-to-one; or he stares at you and does nothing, in which case you are already in cycle."
+    },
+    {
+     "t": 575,
+     "kind": "tip",
+     "text": "If you attack on the same tick Olm turns (the wrong tick) and have a Scythe, you can swing the Scythe to fix it, and it even gives a bit more DPS for that swing."
+    },
+    {
+     "t": 512,
+     "kind": "tip",
+     "text": "For the crystal phase, Gnomonkey says it is super easy: do an L walk and just keep moving every tick, tanking a hit, then he does nothing and you are in cycle."
+    },
+    {
+     "t": 600,
+     "kind": "tip",
+     "text": "Gnomonkey says you can start the third phase with the melee hand because it does not clench, and with a hammer you can hammer, wait for him to turn and be in 4:1 every time; with two hammers it is tick perfect."
+    },
+    {
+     "t": 638,
+     "kind": "tip",
+     "text": "For acid, Gnomonkey says to just start attacking and do an L walk: step across, hit, come around, hit, hit, and repeat."
+    },
+    {
+     "t": 689,
+     "kind": "tip",
+     "text": "Gnomonkey says to remove boots at Olm if you can because it is a big difference: minus 12 mage accuracy."
+    },
+    {
+     "t": 750,
+     "kind": "tip",
+     "text": "For head running, move every time Olm turns so you line up with the cycle, and you tank a hit every four turns in the middle, which nulls flame walls."
+    },
+    {
+     "t": 907,
+     "kind": "tip",
+     "text": "Gnomonkey says you can null flame walls in 4:1 by standing on a specific tile when you tank the attack; on either side you tank the attack and then come in and it also nulls the flame wall."
+    },
+    {
+     "t": 686,
+     "kind": "tip",
+     "text": "Gnomonkey says if you ever lose a tick you should go back to one and start the cycle again; always fix the cycle."
+    },
+    {
+     "t": 812,
+     "kind": "tip",
+     "text": "Gnomonkey says if you are close and pulled up at the end it reduces the Twisted bow travel time so it kills him slightly faster, and he has never done a solo Olm without a Twisted bow."
+    },
+    {
+     "t": 955,
+     "kind": "opinion",
+     "text": "Gnomonkey says dealing with acid and dealing with flame walls are the two things to know and that Shadow running and 4:1 are not hard, you just have to know what to do and not get pulled out of cycle by weird things."
+    },
+    {
+     "t": 1110,
+     "kind": "opinion",
+     "text": "Gnomonkey says you should probably do some team runs before solo Chambers of Xeric because solo is pretty hard."
+    },
+    {
+     "t": 1137,
+     "kind": "opinion",
+     "text": "Gnomonkey says a lot of people are scared of four-to-one and he was too for hundreds of kills because nobody explained it well and there were no good videos."
+    }
+   ]
+  },
+  {
+   "name": "Chambers of Xeric",
+   "kind": "raid",
+   "claims": [
+    {
+     "t": 0,
+     "kind": "tip",
+     "text": "The video description says the solo Olm guide was mocked up on stream in a regular Chambers of Xeric, and that 12:0 and 8:1 Shadow running and 4:1 lance method are not tough to learn."
+    },
+    {
+     "t": 1000,
+     "kind": "tip",
+     "text": "Gnomonkey says you need the long range attack style bound to run Shadow at solo Chambers of Xeric, and he binds a tab for the attack style, which he also finds useful in Chambers and Inferno."
+    },
+    {
+     "t": 1062,
+     "kind": "opinion",
+     "text": "Gnomonkey says the spec bar is really, really good because it lets you spec out so fast but takes a lot of practice, and he only started using it a couple of months before this stream."
+    },
+    {
+     "t": 1055,
+     "kind": "opinion",
+     "text": "Gnomonkey says his Shadow running method is the same as others on YouTube but he remembers it by labeled tiles and the hits of the cycle."
+    }
+   ]
+  },
+  {
+   "name": "Gnomonkey",
+   "kind": "person",
+   "claims": [
+    {
+     "t": 1062,
+     "kind": "trivia",
+     "text": "Gnomonkey says he is 6'2."
+    }
+   ]
+  }
+ ]
+}

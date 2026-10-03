@@ -1,0 +1,222 @@
+{
+  "id": "yP8IB3_IsSc",
+  "title": "Yama Contracts are the Worst Update in OSRS History",
+  "date": "2025-05-25",
+  "type": "news-opinion",
+  "summary": "Gnomonkey, who completed the Radiant Oathplate kit after a 20.5 hour stream, argues the Yama contract system was Jagex's biggest update failure: two of the five kit contracts were impossible at launch, drop rates and contract supply were a mess, and the contracts are gimmicky Tombs of Amascut-style invocations. He walks through each contract, praises base Yama, and criticises Oathplate's drop rate and the secrecy around tradable contracts, while asking people not to harass Jagex moderators.",
+  "outline": [
+    {"t": 0, "text": "Intro: completing the kit and asking people not to attack Jagex moderators"},
+    {"t": 89, "text": "Contracts harder than Colosseum-level content, daily volume bug and original dossier drop rates"},
+    {"t": 207, "text": "Jagex's buffs to dossier and contract drop rates"},
+    {"t": 295, "text": "Economy and cost of attempts; why contract gating hurt normal players"},
+    {"t": 420, "text": "Contracts worse than Awakener's orbs, trash mobs and bot farms, and Jagex's response"},
+    {"t": 536, "text": "Oathplate drop rate, grind length and price drops of Torva and Bandos"},
+    {"t": 799, "text": "Power creep concerns and wanting another Oathplate nerf"},
+    {"t": 920, "text": "Contract of Forfeit Breath"},
+    {"t": 1137, "text": "Contract of Glyphic Attenuation"},
+    {"t": 1301, "text": "Contract of Sensory Clouding"},
+    {"t": 1433, "text": "Contract of Divine Severance and why it was impossible"},
+    {"t": 1932, "text": "Contract of Bloody Blows and proposed fixes"},
+    {"t": 2433, "text": "Contracts versus base Yama and Awakened bosses; hotfix to acquisition contract wording"},
+    {"t": 2583, "text": "Toa invocation comparison and three axes of difficulty"},
+    {"t": 3057, "text": "Recommendation, communication with the community and tradable contracts"},
+    {"t": 3214, "text": "Do not attack individuals; hopes about fixes and not adding contracts to Combat Achievements"}
+  ],
+  "topics": [
+    {
+      "name": "Update: Yama contracts",
+      "kind": "update",
+      "claims": [
+        {"t": 0, "kind": "opinion", "text": "Gnomonkey considers the Yama contracts for the Radiant Oathplate kit the biggest failure of an update by Jagex to date."},
+        {"t": 89, "kind": "opinion", "text": "Gnomonkey says the Radiant Oathplate contracts are much harder than Blorva, even after hotfixes made them possible."},
+        {"t": 89, "kind": "event", "text": "At launch the contracts had a daily purchase volume of five, which Jagex could not hotfix and left for a later update (a cold fix)."},
+        {"t": 1779, "kind": "event", "text": "Two of the five Yama kit contracts were literally impossible to complete at release and needed hotfixes, which Gnomonkey calls a huge failure on Jagex's part and a QA failure."},
+        {"t": 1838, "kind": "opinion", "text": "Gnomonkey says players lost hundreds of millions of gp on the impossible contracts and he does not expect refunds."},
+        {"t": 2433, "kind": "opinion", "text": "Gnomonkey says he completed all five contracts, that none are very good, and that as a whole they do not come close to the quality of any awakened boss."},
+        {"t": 0, "kind": "opinion", "text": "Per the video description, Gnomonkey says players should not have to pay gp to QA test for Jagex and that the update should not have been released on a weekend when a fix was unlikely."},
+        {"t": 2552, "kind": "opinion", "text": "Gnomonkey says he will not attempt any more contracts until a Jagex moderator completes them and shows proof they are no longer bugged, because he cannot afford to QA test for Jagex."},
+        {"t": 3057, "kind": "opinion", "text": "Gnomonkey says he does not plan to return to the contracts or make guides on them, and does not recommend them unless you are starved for content and really good at the game."},
+        {"t": 2524, "kind": "event", "text": "Jagex announced a hotfix to correct wording on contracts of acquisition, to state that Yama is not weak to demonbane weaponry in those encounters, because before it the contract did not say so."},
+        {"t": 447, "kind": "opinion", "text": "Gnomonkey says the contracts felt like gimmick fights and like something you would do for a Combat Achievement rather than for a prestigious kit."},
+        {"t": 3304, "kind": "opinion", "text": "Gnomonkey asks Jagex not to use the Yama contracts as requirements for Combat Achievements, since they would be by far the hardest in the game and players should not have to pay money to access a CA."}
+      ]
+    },
+    {
+      "name": "Yama contract drop rates",
+      "kind": "mechanic",
+      "claims": [
+        {"t": 117, "kind": "stat", "text": "Before the launch changes, the solo rate was one in 20 for a dossier and one in 33 per contract type, so about 15% of dossiers gave a Radiant Oathplate kit contract, roughly one contract per 125 kills."},
+        {"t": 144, "kind": "stat", "text": "Gnomonkey needed about 200 contracts for his kit; at the original rates that would have been about 25,000 Yama kills and roughly 2,100 hours, giving him around 125 Oathplate pieces, 83 Soulflame horns and about 10 pets."},
+        {"t": 207, "kind": "event", "text": "Jagex buffed the dossier rate from one in 20 to one in 17, then after the launch problems to one in 12, a very significant buff."},
+        {"t": 207, "kind": "event", "text": "Jagex adjusted dossier weightings to reduce teleports and increase purifying sigil contracts (the Radiant kit contracts), while acquisition contracts with tradable rewards were adjusted to be obtained at roughly the same rate as before."},
+        {"t": 234, "kind": "event", "text": "Contracts now drop three at a time, and the contract drop rate from Demons in the Chasm is three times more common."},
+        {"t": 234, "kind": "event", "text": "Fulfilling the active sigil's condition makes contracts two times more common, and killing a demon with the special attack glyph (needing a spec, basically a purging staff) makes them five times more common instead of three."},
+        {"t": 267, "kind": "opinion", "text": "Gnomonkey says the new drop rates are roughly five to six times faster and are what the contracts should have dropped at, and that he had no idea how difficult the contracts would be."},
+        {"t": 295, "kind": "event", "text": "Gnomonkey says he sold half his contracts before launch expecting the content to be finished quickly and the price to drop, and was wrong."},
+        {"t": 329, "kind": "stat", "text": "Gnomonkey bought about 50 of each contract before release, paying three to five million each, a little over a billion in total; right after the change some dropped to around 100k to 500k each, and he lost roughly 300 million on bugged contracts."},
+        {"t": 2909, "kind": "stat", "text": "Gnomonkey says there is a 500k death fee on top of the contract cost, and that he lost over a billion on contracts in total."}
+      ]
+    },
+    {
+      "name": "Opinion: Yama contract system and tradable contracts",
+      "kind": "opinion",
+      "claims": [
+        {"t": 387, "kind": "opinion", "text": "Gnomonkey says the contract system gated the Yama kit bosses off from normal players, which was what he was concerned about, and many very good players gave up."},
+        {"t": 420, "kind": "opinion", "text": "Gnomonkey says the Yama contract system is far worse than Awakener's orbs, and he was amazed Jagex claimed it was better than awakened bosses."},
+        {"t": 420, "kind": "opinion", "text": "Gnomonkey says the best way to get contracts is to kill the trash mobs (Demons in the Chasm) rather than Yama, so even skilled Ironmen would sit at demons for thousands of kills, which he finds backwards."},
+        {"t": 447, "kind": "event", "text": "Gnomonkey says huge bot farms were farming contracts from the demons, wearing granite, a black mask and a Saradomin sword, on every world, which he calls redistribution to bots' pockets."},
+        {"t": 478, "kind": "event", "text": "Mod Goblin replied on Reddit that Jagex heard the feedback loud and clear and did not foresee touching a similar system again unless worked through with players from the ground up, and that work on Yama contract rates was ongoing."},
+        {"t": 3118, "kind": "opinion", "text": "Gnomonkey says Jagex should stop mystery-style releases: the contracts were not even known to be tradable until Mod Goblin accidentally mentioned it, and he thinks the idea would have been shot down if polled."},
+        {"t": 3149, "kind": "opinion", "text": "Gnomonkey says it was wrong not to poll tradable contracts, and especially wrong to have guaranteed tradable drops from contracts that may have bugged mechanics."}
+      ]
+    },
+    {
+      "name": "Oathplate armour",
+      "kind": "item",
+      "claims": [
+        {"t": 536, "kind": "stat", "text": "At Yama's release a 30% nerf was applied to the rare drop rates, from roughly one in 400 per piece of Oathplate to one in 600 per piece."},
+        {"t": 596, "kind": "stat", "text": "In solo, any piece of Oathplate is about 1 in 200 per kill (three pieces at one in 600 each), and the rates are doubled for duo."},
+        {"t": 596, "kind": "stat", "text": "Oathplate shards drop 12 per kill in solo and 6 in duo, and 450 shards let you forge any piece of Oathplate; at one in 17, that is about 620 kills to get another shot at a piece."},
+        {"t": 623, "kind": "stat", "text": "Gnomonkey estimates about 12 kills per hour in very good gear, so around 50 hours for full Oathplate, or 60 to 70 hours for a weaker player."},
+        {"t": 623, "kind": "opinion", "text": "Gnomonkey says 60 to 70 hours is close to how long Bandos armour takes and is too short for Oathplate, saying Oathplate is far too common even after the nerf and it needs another nerf to somewhere over 100 hours."},
+        {"t": 678, "kind": "opinion", "text": "Gnomonkey says the barrier to entry is low because Emberlight, not Scythe or Shadow, is best in slot, and synapses cost about 70 million, which he calls the lowest cost for a BIS weapon on any boss."},
+        {"t": 705, "kind": "stat", "text": "Gnomonkey shows Bandos chestplate falling from 25 million to 20 million and Torva platebody falling from 400 million in September 2024 to 270 million."},
+        {"t": 738, "kind": "opinion", "text": "Gnomonkey says Oathplate is better than Torva most of the time (about 80%) because melee is mostly slash, leaving Torva mainly for Tombs of Amascut and the Torva helmet for maintaining max hits with the scythe."},
+        {"t": 831, "kind": "opinion", "text": "Gnomonkey says Oathplate is endgame armour that knocks out the whole progression of Bandos and Torva, which he does not think is healthy and worries could be repeated with other new boss drops."},
+        {"t": 920, "kind": "opinion", "text": "Gnomonkey says the integrity of melee armour is ruined until the next best-in-slot melee armour, which could be three to five years away, and that Bandos and Nex-type armour have effectively been killed."},
+        {"t": 888, "kind": "opinion", "text": "Gnomonkey says a grind like Oathplate's would make sense for something like Phosani's Nightmare (long eight-minute kills, constant one-shots, harmonised orb at one in 300), but he does not think Yama is the same."}
+      ]
+    },
+    {
+      "name": "Yama contract: Forfeit Breath",
+      "kind": "challenge",
+      "claims": [
+        {"t": 974, "kind": "trivia", "text": "In the Contract of Forfeit Breath, Yama drains the challenger's run energy passively, one run energy every four game ticks."},
+        {"t": 1007, "kind": "trivia", "text": "In the Contract of Forfeit Breath, Yama also drains stamina on dealing damage, even from glyph touches, and reaching zero run energy kills you; Yama is no longer weak to demonbane."},
+        {"t": 1007, "kind": "trivia", "text": "In Forfeit Breath, Gnomonkey says you cannot kill the void flares with demonbane even though several other contracts that say Yama is not weak to demonbane still allow it on void flares, which the contract does not state."},
+        {"t": 1070, "kind": "opinion", "text": "Gnomonkey calls Forfeit Breath one of the two easiest contracts, though still extremely difficult, taking him about 10 to 15 contracts."},
+        {"t": 1070, "kind": "tip", "text": "For Forfeit Breath Gnomonkey used a food that heals about 23 health and gives 10 run energy to restore energy."},
+        {"t": 1103, "kind": "opinion", "text": "Gnomonkey says Forfeit Breath is a gimmick (do not let your energy hit zero), too gimmicky for a kit contract and a boring fight."},
+        {"t": 1103, "kind": "stat", "text": "Gnomonkey says all the contracts give Yama very high health, the lowest being 3,000 and one with 4,000, plus higher defence, stats and damage."}
+      ]
+    },
+    {
+      "name": "Yama contract: Glyphic Attenuation",
+      "kind": "challenge",
+      "claims": [
+        {"t": 1137, "kind": "trivia", "text": "In the Contract of Glyphic Attenuation, glyphs protect you for a much shorter window (roughly four ticks) and are more punishing, and Yama is weak to crush only."},
+        {"t": 1163, "kind": "trivia", "text": "In Glyphic Attenuation, the challenger's prayer bonus inversely affects prayer drain: the higher your prayer bonus, the faster prayer drains but the more damage you deal."},
+        {"t": 1163, "kind": "tip", "text": "Gnomonkey found Sunfire armour drained prayer every game tick in Glyphic Attenuation, so he swapped to gear with about 13 prayer bonus and did not feel any extra damage."},
+        {"t": 1218, "kind": "trivia", "text": "In Glyphic Attenuation the glyph hit is much weaker if Yama is far away, around 36 compared to a very large hit when Yama is close, so you lure the boss away from the glyph, wait for the special, step on it, then lure him away from the next glyph."},
+        {"t": 1245, "kind": "trivia", "text": "Glyphic Attenuation forces you to melee phase three and prevents the typical Donofly-style methods, which is the real challenge of the contract."},
+        {"t": 1273, "kind": "opinion", "text": "Gnomonkey says Glyphic Attenuation is fun but feels just like a Combat Achievement, as if hard mode Yama with a melee-only CA, and not like fighting an awakened Yama."}
+      ]
+    },
+    {
+      "name": "Yama contract: Sensory Clouding",
+      "kind": "challenge",
+      "claims": [
+        {"t": 1301, "kind": "trivia", "text": "In the Contract of Sensory Clouding, Yama's attacks have increased prayer penetration (Gnomonkey saw him hit 40 through melee prayer), Yama pursues forever including in phase three, and void flare explosions are lethal."},
+        {"t": 1335, "kind": "trivia", "text": "In Sensory Clouding the lethal void flares cannot be survived with a hot rock cake stall, Phoenix necklace or Redemption, so you must kill them in time; the challenger also has 50% reduced attack range."},
+        {"t": 1368, "kind": "stat", "text": "The contract fights take roughly 6 to 15 minutes and Sensory Clouding took Gnomonkey about 12 minutes, one of the longer ones."},
+        {"t": 1368, "kind": "opinion", "text": "Gnomonkey says phases one and two of Sensory Clouding are a boring slog, but phase three, where Yama walks towards you while you run around catching void flares and dodging waves, was a great time."},
+        {"t": 1400, "kind": "opinion", "text": "Gnomonkey calls Sensory Clouding probably the second hardest contract and the one with a mechanic that completely changes how Yama works, saying it was close to a really good boss fight and would not work as a CA."}
+      ]
+    },
+    {
+      "name": "Yama contract: Divine Severance",
+      "kind": "challenge",
+      "claims": [
+        {"t": 1433, "kind": "opinion", "text": "Gnomonkey calls Divine Severance the worst designed contract; he says it may be the easiest but had a meltdown on stream when he saw the mechanics."},
+        {"t": 1465, "kind": "trivia", "text": "In Divine Severance, prayers are only active for one game tick and then disabled for five ticks, so every prayer must be tick perfect and turned on as you are hit; Yama no longer penetrates prayers."},
+        {"t": 1465, "kind": "trivia", "text": "In Divine Severance Yama spawns a void flare every ten seconds, void flare explosions are lethal and every one must be caught; Gnomonkey says nothing survives them and the boss heals to full if one goes off."},
+        {"t": 1520, "kind": "opinion", "text": "Gnomonkey says Divine Severance is Kephri medic with tick-perfect prayers, if a swarm going in killed you, and that it is easier than Forfeit Breath."},
+        {"t": 1610, "kind": "trivia", "text": "At release Divine Severance was impossible: the void flares had 140 health, the highest hit with purging staff in max mage was about 84, so each needed at least two hits, and three orbs spawned at around 800 boss health and exploded after 20 ticks."},
+        {"t": 1779, "kind": "event", "text": "Jagex hotfixed Divine Severance at 2 a.m.; the contract was acting as a duo encounter so void flares had twice the intended HP, even though the contract says the challenger must be alone."},
+        {"t": 1746, "kind": "event", "text": "Gnomonkey says Reddit theories such as holy water or Din's bulwark to beat the void flares were wrong; the contract was simply bugged."}
+      ]
+    },
+    {
+      "name": "Yama contract: Bloody Blows",
+      "kind": "challenge",
+      "claims": [
+        {"t": 1932, "kind": "opinion", "text": "Gnomonkey calls Bloody Blows by far the hardest contract, about two times harder than the others including Sensory Clouding, and says it took about 80 of his contracts."},
+        {"t": 1963, "kind": "trivia", "text": "In Bloody Blows, Yama's phase one and two void flare special spawns twice as many orbs, and the flares are more resistant, so you are no longer guaranteed to hit or one-shot them and can splash."},
+        {"t": 1991, "kind": "trivia", "text": "Bloody Blows gives both Yama and the challenger Wretched strength, the Dharok set effect: the lower your health, the higher your minimum hit, and at one health you are guaranteed your max hit; it does not raise accuracy."},
+        {"t": 2050, "kind": "stat", "text": "In Bloody Blows you must be at 15 health or lower in max mage to be guaranteed to one-shot void flares, and the purging staff still works even though the contract says Yama is no longer weak to demonbane."},
+        {"t": 2081, "kind": "stat", "text": "In Bloody Blows Yama chips you for a max hit of 12 through prayer in the last phase, so you must camp at 15 health or lower while being perfect, and Gnomonkey got hit for a 70 off-prayer ranged hit."},
+        {"t": 2174, "kind": "tip", "text": "In Bloody Blows Gnomonkey used Guthix Rest to raise health and rock cake to lower it, and says he chanced around six times."},
+        {"t": 2203, "kind": "opinion", "text": "Gnomonkey says Bloody Blows should be hotfixed so you are guaranteed to hit the void flares (not necessarily max) and the chip damage through prayer should be max 10 instead of 12, so a hit does not force an unfixable health state."},
+        {"t": 2320, "kind": "event", "text": "At release Bloody Blows was impossible: the raised minimum hit did not work on the void flares, so you would need to hit max hits twice on each set of flares, six times in a fight."},
+        {"t": 2347, "kind": "event", "text": "Gnomonkey wasted many attempts on Bloody Blows, which was the first contract he tried and the most expensive, before it was found the mechanic was bugged."}
+      ]
+    },
+    {
+      "name": "Yama",
+      "kind": "boss",
+      "claims": [
+        {"t": 2464, "kind": "opinion", "text": "Gnomonkey says base Yama is amazing: it has a low skill floor so kills are easy but there is lots of room to improve with mechanics and fly methods people find daily."},
+        {"t": 2497, "kind": "tip", "text": "Gnomonkey and Sax found that stepping away from the boss on the second shadow special in phase two does double damage, which helps in tanking tech, and you can vengeance everything in the fight."},
+        {"t": 2996, "kind": "opinion", "text": "Gnomonkey says base Yama has depth like Chambers of Xeric, where getting a completion is easy but mastery takes a long time, and the contracts do not have this depth."},
+        {"t": 2937, "kind": "opinion", "text": "Gnomonkey says the contracts feel like Toa invocations: the same boss fight with one extra gimmick, such as one-shots if you lose focus."},
+        {"t": 2967, "kind": "opinion", "text": "Gnomonkey would have preferred one really hard contract with many new mechanics, such as Yama chasing you in phase three, over five similar fights with an invocation each."}
+      ]
+    },
+    {
+      "name": "Opinion: How to make bosses difficult",
+      "kind": "opinion",
+      "claims": [
+        {"t": 2764, "kind": "opinion", "text": "Gnomonkey says there are three ways to make content harder: time punishment, execution difficulty and cost, like points of a triangle."},
+        {"t": 2764, "kind": "opinion", "text": "Gnomonkey gives Inferno as an example of time punishment, where a first cape can take two to three hours and you may need two hours to get back to the hard part."},
+        {"t": 2794, "kind": "opinion", "text": "Gnomonkey gives the end of Awakened Leviathan and Awakened Vardorvis as examples of execution difficulty, with fights of four to six minutes and the hard part after about three minutes."},
+        {"t": 2824, "kind": "opinion", "text": "Gnomonkey says the Yama contracts went for long fights of up to 15 minutes, huge health pools and defence, one-shots if you lose focus and high entry cost, not timing-based mechanics."},
+        {"t": 2883, "kind": "opinion", "text": "Gnomonkey says the contracts increase execution difficulty in the least fun way: not juggling many mechanics but staying focused long enough, which he compares to what people complain about in Tombs of Amascut."},
+        {"t": 2676, "kind": "opinion", "text": "Gnomonkey says the contracts are not the tough update the HLC wanted, because they were difficult in a brain-dead way, and compares the lack of a hype around contracts to the excitement of Coliseum attempts."}
+      ]
+    },
+    {
+      "name": "Awakened bosses",
+      "kind": "boss",
+      "claims": [
+        {"t": 2433, "kind": "opinion", "text": "Gnomonkey says awakened bosses surprised him and were pretty good, with Awakened Leviathan one of the best boss fights he has done and Awakened Vardorvis also one of the best."},
+        {"t": 2464, "kind": "opinion", "text": "Gnomonkey says even the two other awakened bosses he likes less are better than any of the Yama contracts."}
+      ]
+    },
+    {
+      "name": "Tombs of Amascut",
+      "kind": "raid",
+      "claims": [
+        {"t": 2583, "kind": "opinion", "text": "Gnomonkey says several Yama contracts are straight Toa invocations, for example the ones where the challenger cannot heal or restore prayer with consumables."},
+        {"t": 2617, "kind": "opinion", "text": "Gnomonkey thinks Jagex felt they had to one up the Desert Treasure 2 bosses and made five super difficult fights with a Toa invocation on each, which he says was not needed."}
+      ]
+    },
+    {
+      "name": "Opinion: Harassment of Jagex moderators",
+      "kind": "opinion",
+      "claims": [
+        {"t": 0, "kind": "opinion", "text": "Gnomonkey says players should not personally attack Jagex moderators, who are passionate and care about the game; criticism should target the content."},
+        {"t": 32, "kind": "event", "text": "Gnomonkey says Mod Goblin and Mod Rice came in at 2 a.m. on their weekend to hotfix the contracts so Oathplate could be obtained, and he thinks Mod Lenny also came in."},
+        {"t": 61, "kind": "event", "text": "Gnomonkey says Mod Nox was attacked on Reddit for individual snippets of his chat messages taken out of context while chatting in Gnomonkey's Twitch chat on his personal account, despite not working on the contracts."},
+        {"t": 3214, "kind": "opinion", "text": "Gnomonkey says attacking individuals will make Jagex moderators close the line of communication, making updates worse, and he wants clear, loud feedback and more open communication before release."}
+      ]
+    },
+    {
+      "name": "Gnomonkey",
+      "kind": "person",
+      "claims": [
+        {"t": 0, "kind": "record", "text": "Gnomonkey says he got the Radiant Oathplate kit at the end of a 20 and a half hour stream and describes himself as the world's fourth, although another video of his describes it as 6th."},
+        {"t": 948, "kind": "opinion", "text": "Gnomonkey says that as one of the first to get Oathplate it is not a skill issue and he is good at the game, but the contracts are not good, fun or engaging."},
+        {"t": 2406, "kind": "event", "text": "Gnomonkey says he wanted to log out around hour eight of his stream but had to continue because commenters would say he was mad because he was bad."},
+        {"t": 1245, "kind": "event", "text": "Gnomonkey says he learned Donofly (Dono fly) right before the contracts came out and might make a guide on it."}
+      ]
+    },
+    {
+      "name": "Combat Achievements",
+      "kind": "other",
+      "claims": [
+        {"t": 3275, "kind": "opinion", "text": "Gnomonkey hopes Jagex fixes Bloody Blows (the chip damage and splashing on void flares) in the next update, and does not expect the contracts to be reworked."},
+        {"t": 3304, "kind": "opinion", "text": "Gnomonkey says Jagex said Combat Achievements are coming soon and begs them not to put the Yama contracts on CAs, since they are much harder than Blorva, broken and cost money to access."}
+      ]
+    }
+  ]
+}

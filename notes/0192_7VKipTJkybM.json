@@ -3,11 +3,11 @@
   "title": "LEAGUES 5 INFERNO - NO PRAYER/NO FOOD (OSRS)",
   "date": "2024-12-09",
   "type": "challenge",
-  "summary": "Gnomonkey completes the Inferno in Leagues 5 on his ranged-focused build using no prayer potions and no food, relying on Sapphire bolt (e) prayer restoration and healing from ranged relics. He argues Inferno is easy in Leagues and encourages viewers to try it, and finishes with a Fire cape.",
+  "summary": "Gnomonkey completes the Inferno in Leagues 5 on his ranged-focused build using no prayer potions and no food, relying on Sapphire bolt (e) prayer restoration and the healing the Leagues ranged relics provide. He argues Inferno is easy in Leagues and encourages viewers to try it, and finishes with a Fire cape.",
   "outline": [
     {"t": 0, "text": "Setup and the Sapphire bolt prayer-restore plan"},
     {"t": 262, "text": "Initial waves, healing from shooting, and testing Sapphire bolt procs on rangers"},
-    {"t": 527, "text": "Testing how bolt prayer restore scales with the target's range level"},
+    {"t": 527, "text": "Testing how bolt prayer restore scales with the target's Ranged level"},
     {"t": 686, "text": "Mid-game waves and tanking with Vengeance"},
     {"t": 925, "text": "Approaching the end game and losing pillars"},
     {"t": 1231, "text": "Final waves and TzKal-Zuk"},
@@ -19,14 +19,14 @@
       "kind": "activity",
       "claims": [
         {"t": 0, "kind": "event", "text": "Gnomonkey completes the Inferno during Leagues 5 on his ranged build with no prayer potions and no food."},
-        {"t": 0, "kind": "tip", "text": "He uses a banker's note on his inventory for the run, which he says is a good option if you do not have good specs, and he also jokes about using it for memes."},
+        {"t": 0, "kind": "tip", "text": "He uses a banker's note for the run, saying it is the play if you do not have good specs, and later notes everything in his inventory 'just for memes'."},
         {"t": 60, "kind": "opinion", "text": "Gnomonkey chooses to wear the full helm in the Inferno because he wants the extra ranged defense."},
-        {"t": 210, "kind": "opinion", "text": "In this Leagues ranged setup, Gnomonkey says praying in the Inferno feels almost worthless because you get so much health back from shooting things."},
-        {"t": 900, "kind": "opinion", "text": "Gnomonkey says Inferno is his favorite content in the game because there is so much to learn, and mentions he has done a lot of Inferno speedruns."},
-        {"t": 1020, "kind": "event", "text": "He loses the West Pillar deliberately and later struggles to save the North and South pillars, noting that a pillarless start would end the no-food attempt."},
-        {"t": 1190, "kind": "tip", "text": "Gnomonkey notes that long ranging (long range attack style) lets him shoot the first Jal-Nib from far away so he might kill two before they reach a pillar."},
-        {"t": 1218, "kind": "tip", "text": "He says a Venator-style bow would make Jal-Nibs easier, though it is not great against them."},
-        {"t": 1698, "kind": "event", "text": "Gnomonkey finishes the Inferno with no food and no prayer potions, which he says is a cape with no food and no prayer potions at all."},
+        {"t": 209, "kind": "opinion", "text": "With the Leagues ranged setup, Gnomonkey says praying in the Inferno feels almost worthless because you get so much health back from shooting things."},
+        {"t": 901, "kind": "opinion", "text": "Gnomonkey says Inferno is his favorite content in the game because there is so much to learn, and mentions he has done a lot of Inferno speedruns."},
+        {"t": 985, "kind": "event", "text": "He deliberately drops the West Pillar around wave 60, and then struggles to save the remaining pillars, noting that a pillarless start would end the no-food attempt."},
+        {"t": 1041, "kind": "tip", "text": "Gnomonkey starts with long range to shoot the first Jal-Nib from far away so he might kill two before they reach the pillar."},
+        {"t": 1070, "kind": "tip", "text": "He says a Venator bow would make Jal-Nibs easier, though it is not great against them."},
+        {"t": 1677, "kind": "event", "text": "Gnomonkey finishes the Inferno with no food and no prayer potions, calling it a Fire cape with no food and no prayer potions at all, purely cosmetic banker's note aside."},
         {"t": 1707, "kind": "opinion", "text": "Gnomonkey says the run was not even difficult because the Leagues ranged setup is broken, and that he did it with just an Adamant crossbow."}
       ]
     },
@@ -34,55 +34,46 @@
       "name": "Sapphire bolts",
       "kind": "item",
       "claims": [
-        {"t": 31, "kind": "stat", "text": "Sapphire bolts (e) restore prayer equal to 1/20th of the attacker's current Ranged level (as stated in the video), with a 5% proc in PvP and 25% in PvM; Gnomonkey reads the figures as 12.5 and says he gets about six prayer points on a proc every four shots on a ranger."},
-        {"t": 330, "kind": "stat", "text": "Gnomonkey observes that Sapphire bolts (e) have a one in four proc and restore three prayer points per proc when shooting rangers."},
-        {"t": 330, "kind": "tip", "text": "He says that killing rangers with Sapphire bolts (e) gives effectively unlimited prayer, as long as rangers are in play."},
-        {"t": 454, "kind": "stat", "text": "Gnomonkey says the prayer restored by Sapphire bolts (e) is based on the target's Ranged level: rangers with 250 Ranged give three prayer points per proc, while monsters with low Ranged give almost none."},
-        {"t": 479, "kind": "stat", "text": "In the video he gets about two prayer points per proc off melee-type monsters and six or seven off the Jal-Xil mager hit, and suggests it may depend on the target's own level."},
-        {"t": 540, "kind": "stat", "text": "Gnomonkey says at 99 Ranged you get two prayer on a proc from low-level targets and slightly more with a higher Ranged level, and estimates TzTok-Jad has a Ranged level around 1020, which would give about 15 prayer points per proc."},
-        {"t": 1251, "kind": "stat", "text": "On TzTok-Jad, Gnomonkey sees a Sapphire bolt (e) proc give roughly 16 prayer points, which he describes as not quite as crazy as hoped but still completely unlimited prayer."},
-        {"t": 785, "kind": "opinion", "text": "Gnomonkey says he expects Sapphire bolts (e) to be nerfed and jokes that some Redditor will cheese the Inferno with them in the main game; he says he would never use them in the main game himself."},
-        {"t": 1,"kind": "trivia", "text": "Gnomonkey brings Sapphire bolts to the Inferno specifically to get prayer back, instead of bringing prayer potions."}
+        {"t": 31, "kind": "tip", "text": "Gnomonkey brings Sapphire bolts (e) to the Inferno specifically to restore prayer instead of bringing prayer potions."},
+        {"t": 31, "kind": "stat", "text": "Gnomonkey says Sapphire bolts (e) restore prayer equal to 1/20th of the attacker's current Ranged stat; he quotes a 5% proc in PvP and 25% in PvM and says he gets about six prayer points on a proc every four shots on a ranger."},
+        {"t": 330, "kind": "stat", "text": "Gnomonkey observes that Sapphire bolts (e) have a one in four proc and restore three prayer points per proc when shooting rangers (Jal-Xil)."},
+        {"t": 387, "kind": "tip", "text": "He says that as long as rangers are in play, Sapphire bolts (e) give effectively unlimited prayer."},
+        {"t": 446, "kind": "stat", "text": "Gnomonkey says the prayer restored by Sapphire bolts (e) is based on the target's Ranged level: rangers with 250 Ranged give three prayer points per proc, while targets with low Ranged give almost none."},
+        {"t": 475, "kind": "stat", "text": "He gets about two prayer points per proc off the melee monsters and around six or seven off the mager, and says the amount seems to depend on the monster's own level."},
+        {"t": 539, "kind": "stat", "text": "Gnomonkey says that at 99 Ranged a proc gives two prayer points against low-level targets, and estimates TzTok-Jad's Ranged level at about 1020, which should give around 15 prayer points per proc."},
+        {"t": 1251, "kind": "stat", "text": "On the TzTok-Jad wave, a Sapphire bolt (e) proc gives Gnomonkey roughly 16 prayer points, which he describes as not quite as crazy as hoped but completely unlimited prayer."},
+        {"t": 1218, "kind": "opinion", "text": "Gnomonkey jokes that a nerf to Sapphire bolts (e) is incoming and says some Redditor will cheese Inferno with them, but he would never use them in the main game."}
       ]
     },
     {
       "name": "Leagues V: Raging Echoes",
-      "kind": "activity",
+      "kind": "update",
       "claims": [
-        {"t": 0, "kind": "opinion", "text": "Gnomonkey says he did the Inferno in Leagues 5 on the range machine build, and that if you are scared of trying Inferno even in Leagues you should just do it because it is easy and there is no downside."},
-        {"t": 0, "kind": "event", "text": "Gnomonkey says he did the Inferno right before tier 6 (T6) Mastery, because he thinks the game gets stale as a range build once you can one-shot everything."},
-        {"t": 360, "kind": "opinion", "text": "Gnomonkey thinks the Leagues ranged build is enjoyable up until tier six, and expects it to be 'stupid' at tier six."},
-        {"t": 0, "kind": "event", "text": "After finishing the range build and getting a 1000+ hit on Duke Sucellus... no: Gnomonkey says he plans to get a 1000+ hit on DH Sol and then go back to the Hardcore Ironman he has been AFKing on the side."}
-      ]
-    },
-    {
-      "name": "Ranged combat",
-      "kind": "mechanic",
-      "claims": [
-        {"t": 237, "kind": "opinion", "text": "Gnomonkey says healing from shooting things in Leagues 5 with a ranged build is about five times more healing than melee gets, and finds it absurd."},
-        {"t": 237, "kind": "opinion", "text": "He says that the designers must have known Blood fury existed and decided that ranged does not need more healing."},
-        {"t": 301, "kind": "stat", "text": "Gnomonkey notes that with the Leagues ranged relic, an onyx bolt (e) proc boosts damage and heals, which he first thought was only a healing effect."},
-        {"t": 782, "kind": "tip", "text": "Gnomonkey says that when you are going to take damage you should use Vengeance, and he notes that Vengeance on the melee reflected 100% of the damage in one case."},
-        {"t": 1230, "kind": "tip", "text": "Gnomonkey notes that Jad gives an instant prayer refill via the Sapphire bolts, so he can arrive at Jad with about six prayer points and be fine."}
+        {"t": 0, "kind": "opinion", "text": "Gnomonkey says that if you are scared of trying Inferno even in Leagues 5 you should just do it, because it is easy and there is no downside to trying."},
+        {"t": 0, "kind": "event", "text": "Gnomonkey did the Leagues 5 Inferno on the range machine build right before tier 6 (T6) Mastery, because he thinks the build gets stale once you can one-shot everything."},
+        {"t": 358, "kind": "opinion", "text": "Gnomonkey thinks the Leagues 5 ranged build is enjoyable precisely up until tier six, and expects it to be stupid at tier six."},
+        {"t": 237, "kind": "opinion", "text": "He says ranged in Leagues 5 heals about five times more than melee does when shooting, and speculates the designers knew Blood fury existed and decided ranged did not need more."},
+        {"t": 330, "kind": "stat", "text": "Gnomonkey notes that onyx bolt (e) procs in Leagues 5 boost damage and heal, which is better than the pure healing he first assumed."},
+        {"t": 0, "kind": "event", "text": "After finishing the range build and getting a 1000+ hit with Dragon hunter lance, Gnomonkey says he will return to the Hardcore Ironman he has been AFKing on the side."}
       ]
     },
     {
       "name": "Vengeance",
       "kind": "mechanic",
       "claims": [
-        {"t": 89, "kind": "tip", "text": "Gnomonkey uses Vengeance in the Inferno for overkill damage, calling the Vengeance overkill huge."},
-        {"t": 656, "kind": "tip", "text": "He says Vengeance reflected 100% of the damage in one hit, which he calls huge."},
-        {"t": 927, "kind": "tip", "text": "Gnomonkey advises using Vengeance whenever you are going to take damage in the Inferno."}
+        {"t": 89, "kind": "tip", "text": "Gnomonkey uses Vengeance in the Inferno to get overkill damage on monsters, calling the Vengeance overkill huge."},
+        {"t": 657, "kind": "tip", "text": "Gnomonkey says Vengeance reflected 100% of the damage from one hit in the Inferno, which he calls huge."},
+        {"t": 927, "kind": "tip", "text": "Gnomonkey advises that if you are ever going to take damage in the Inferno you should make sure to cast Vengeance first."}
       ]
     },
     {
       "name": "TzKal-Zuk",
       "kind": "boss",
       "claims": [
-        {"t": 1219, "kind": "tip", "text": "Gnomonkey says he wants full prayer before TzKal-Zuk and notes that rangers on the platform let him restore prayer with Sapphire bolts (e)."},
-        {"t": 1425, "kind": "tip", "text": "He notes you can long range from the starting position against Zuk, similar to the ring crossbow."},
-        {"t": 1535, "kind": "tip", "text": "Gnomonkey says he has to be careful not to proc a Ruby bolt (e) special while fighting TzKal-Zuk."},
-        {"t": 1531, "kind": "tip", "text": "He notes that rapid reaches the Ranged healers from certain positions but you cannot reach the other side, so you wait until you can long-reach."}
+        {"t": 1399, "kind": "tip", "text": "Gnomonkey wants full prayer before TzKal-Zuk and waits for a Sapphire bolt (e) proc off the healers/rangers to top it up."},
+        {"t": 1426, "kind": "tip", "text": "He says you can long range Zuk from the starting position, the same as with a ring crossbow."},
+        {"t": 1586, "kind": "tip", "text": "Gnomonkey says he has to be careful not to proc a Ruby bolt (e) special at the wrong moment while fighting TzKal-Zuk."},
+        {"t": 1649, "kind": "event", "text": "Gnomonkey kills TzKal-Zuk with the range build and finishes the run with a Range potion boost."}
       ]
     }
   ]

@@ -1,0 +1,328 @@
+{
+  "id": "OeDcRft1_cU",
+  "title": "Sailing NERFS REVERTED! (OSRS)",
+  "date": "2025-12-04",
+  "type": "news-opinion",
+  "summary": "Gnomonkey reviews Jagex's follow-up blog (4 December 2025) that largely reverted the previous day's Sailing Salvaging nerfs, including restoring sorting XP and the 4-tick salvage rate. He praises Jagex for listening, shows the new XP comparison table, and lays out what he wants from Sailing next: fleshed-out training methods, better combat and real endgame unlocks.",
+  "outline": [
+    {
+      "t": 0,
+      "text": "Intro: Jagex's follow-up post admits the nerfs missed the mark"
+    },
+    {
+      "t": 26,
+      "text": "Hotspot changes: extra active shipwreck per hotspot"
+    },
+    {
+      "t": 81,
+      "text": "Sorting XP restored and salvage rate back to 4 ticks"
+    },
+    {
+      "t": 112,
+      "text": "Crew deck handiness XP modifiers reduced"
+    },
+    {
+      "t": 170,
+      "text": "Gnomonkey on how AFK Salvaging was exaggerated"
+    },
+    {
+      "t": 282,
+      "text": "Gwenith Glide Marlin lap bonus and the crystal extractor left alone"
+    },
+    {
+      "t": 351,
+      "text": "Jagex's XP rate comparison table"
+    },
+    {
+      "t": 442,
+      "text": "Drop rates bugged to be more frequent, left as is"
+    },
+    {
+      "t": 524,
+      "text": "Community reaction and Gnomonkey's praise of the revert"
+    },
+    {
+      "t": 645,
+      "text": "How Jagex should have approached it: flesh out port tasks"
+    },
+    {
+      "t": 678,
+      "text": "Future Sailing wishes: combat, endgame unlocks, more training methods"
+    }
+  ],
+  "topics": [
+    {
+      "name": "Update: Sailing Salvaging revert",
+      "kind": "update",
+      "claims": [
+        {
+          "t": 0,
+          "kind": "event",
+          "text": "On 4 December 2025 Jagex posted a follow-up Sailing blog saying they missed the mark, acknowledging that the sorting XP nerf was too severe, Salvaging felt worse, players maxing effort at Gwenith Glide got no compensatory XP, and the Crystal extractor still felt mandatory."
+        },
+        {
+          "t": 0,
+          "kind": "event",
+          "text": "Jagex's blog used an image of Gnomonkey, which he jokingly takes as them implying he saved Sailing."
+        },
+        {
+          "t": 65,
+          "kind": "event",
+          "text": "Jagex fully restored the sorting XP, including merchant salvage going back from 34 XP to 95 XP."
+        },
+        {
+          "t": 96,
+          "kind": "event",
+          "text": "Jagex kept the increased salvaging success chance from the week 2 update and restored the player salvaging rate from 5 ticks back to 4 ticks, meaning salvaging 20% faster than before when on the hook yourself."
+        },
+        {
+          "t": 31,
+          "kind": "event",
+          "text": "Jagex increased the number of active shipwrecks by one at each hotspot, which fixes the unintended side effect of the previous day's change that reduced AFK uptime."
+        },
+        {
+          "t": 272,
+          "kind": "event",
+          "text": "Jagex said they felt one of the biggest problems with the week 2 changes was pulling too many levers at once, producing combined effects larger than the sum of their parts, and said the Crystal extractor is absent from the changes so they can see where the dust settles."
+        },
+        {
+          "t": 488,
+          "kind": "opinion",
+          "text": "Gnomonkey says Jagex almost fully reverted the update, which he respects since Jagex do not usually do full reverts, and thinks the choice to nearly fully revert was right."
+        },
+        {
+          "t": 522,
+          "kind": "event",
+          "text": "Gnomonkey says the Salvaging nerf caused an uproar beyond Reddit, with riots in World 2, Discord servers and stream chats."
+        },
+        {
+          "t": 556,
+          "kind": "opinion",
+          "text": "Gnomonkey praises Jagex for responding to feedback quickly, saying other companies would not revert an update the next day, and asks that Jagex warn players before big balance changes."
+        },
+        {
+          "t": 587,
+          "kind": "opinion",
+          "text": "Gnomonkey says that had Jagex mentioned a week earlier that Salvaging nerfs were coming, the response would not have been so explosive, since the nerf felt like a left hook out of a dark alley."
+        },
+        {
+          "t": 239,
+          "kind": "opinion",
+          "text": "Gnomonkey agrees Jagex hit too many levers at once, describing it as about five nerfs all levied at Salvaging that bombarded it, and says the extractor nerf alone would have been enough to see what happened."
+        }
+      ]
+    },
+    {
+      "name": "Salvaging",
+      "kind": "activity",
+      "claims": [
+        {
+          "t": 96,
+          "kind": "event",
+          "text": "As of the 4 December 2025 revert, player salvaging was restored to a 4-tick cycle, with the increased success chance from the week 2 update retained, which Jagex said should give a nice XP increase."
+        },
+        {
+          "t": 96,
+          "kind": "event",
+          "text": "Jagex reduced the crew's XP modifier for salvaging, the one nerf kept, as a way to move extreme AFK methods into a healthier spot without hurting players salvaging themselves."
+        },
+        {
+          "t": 128,
+          "kind": "stat",
+          "text": "Deck handiness XP modifiers were reduced: level 4 from 70% to 40%, and level 3 from 60% to 30%, with a crewmate still able to have level 4 deck handiness so two can be at level 4."
+        },
+        {
+          "t": 128,
+          "kind": "opinion",
+          "text": "Gnomonkey considers the crew deck handiness nerf fair, saying Jagex found the roughly 25 minute AFK a bit higher than expected and it is pulled back only a bit."
+        },
+        {
+          "t": 184,
+          "kind": "stat",
+          "text": "Gnomonkey says realistic 25 minute AFK Salvaging at level 87 gave roughly 40k to 60k XP per hour, not the over 100k per hour some people claimed, because people counted more intensive methods such as hitting the extractor every minute and getting on the hooks themselves."
+        },
+        {
+          "t": 211,
+          "kind": "opinion",
+          "text": "Gnomonkey says 40k to 60k XP per hour while AFK is a lot better than most skills offer and that Jagex only needed to nerf the extractor and then wait to see what happened."
+        },
+        {
+          "t": 338,
+          "kind": "stat",
+          "text": "Jagex's table: AFK salvaging with two crewmates on the hooks and the player sorting was at 60% of pre-adjustment XP and goes to 70% after the 4 December changes."
+        },
+        {
+          "t": 338,
+          "kind": "stat",
+          "text": "Jagex's table: self-salvaging and sorting, where the player pulls salvage on a hook then puts a crewmate back on it while sorting, was at 75% of pre-adjustment XP and goes to 95%."
+        },
+        {
+          "t": 366,
+          "kind": "opinion",
+          "text": "Gnomonkey thinks self-salvaging and sorting is basically back to what it was and might feel better than before because the player no longer has to leave the hooks to use the Crystal extractor."
+        },
+        {
+          "t": 428,
+          "kind": "opinion",
+          "text": "Gnomonkey notes the only method hit hard in the new numbers is 'giga AFK' salvaging, putting two crewmates on the hooks and only using the sort table."
+        }
+      ]
+    },
+    {
+      "name": "Crystal extractor",
+      "kind": "item",
+      "claims": [
+        {
+          "t": 31,
+          "kind": "event",
+          "text": "Jagex acknowledged in the 4 December 2025 blog that the Crystal extractor still feels mandatory but now gives less for mandatory engagement."
+        },
+        {
+          "t": 272,
+          "kind": "event",
+          "text": "Jagex did not make further Crystal extractor changes on 4 December, wanting to see where the dust settles and whether base XP of various methods with or without the extractor is in a healthier place before considering more changes."
+        },
+        {
+          "t": 305,
+          "kind": "event",
+          "text": "Jagex's XP table lists pre-adjustment XP including the Crystal extractor, with predicted values shown without the extractor."
+        },
+        {
+          "t": 184,
+          "kind": "tip",
+          "text": "Gnomonkey says a common high-XP Salvaging routine is hitting the extractor every single minute for about 36k XP per hour while crewmates pull up salvage, then sorting the cargo hold."
+        }
+      ]
+    },
+    {
+      "name": "Gwenith Glide",
+      "kind": "activity",
+      "claims": [
+        {
+          "t": 239,
+          "kind": "event",
+          "text": "Jagex added a bonus 1,250 XP upon completing a lap of the Marlin Gwenith Glide, intended to keep top-end XP rates roughly in line with before the extractor nerf."
+        },
+        {
+          "t": 239,
+          "kind": "opinion",
+          "text": "Gnomonkey considers the Marlin lap bonus a fair small buff to the hardest Gwenith Glide Barracuda Trial given the extractor was nerfed."
+        },
+        {
+          "t": 428,
+          "kind": "stat",
+          "text": "Jagex's table says the best Gwenith Glide Marlin XP is equal to before the extractor nerf."
+        }
+      ]
+    },
+    {
+      "name": "Port tasks",
+      "kind": "activity",
+      "claims": [
+        {
+          "t": 394,
+          "kind": "stat",
+          "text": "Jagex's table lists port tasks at 105% of pre-adjustment XP, but Gnomonkey disagrees, saying once you have the extractor they are about 95% of what they were at higher levels."
+        },
+        {
+          "t": 394,
+          "kind": "opinion",
+          "text": "Gnomonkey thinks port tasks need to be fleshed out rather than just given XP changes, saying there is a lot of untapped potential."
+        },
+        {
+          "t": 613,
+          "kind": "opinion",
+          "text": "Gnomonkey says port tasks are very basic (click from point A to point B, maybe trim sails or use charting to unlock rapids) and would feel much better with more things to do for XP without needing higher intensity."
+        },
+        {
+          "t": 613,
+          "kind": "opinion",
+          "text": "Gnomonkey says he has given Jagex mods ideas for fleshing out Sailing training methods but does not know if they will be used."
+        }
+      ]
+    },
+    {
+      "name": "Sailing drop rates",
+      "kind": "mechanic",
+      "claims": [
+        {
+          "t": 462,
+          "kind": "event",
+          "text": "Jagex confirmed in the 4 December 2025 blog that a variety of Sailing items are bugged and drop more frequently than the rates published the previous week."
+        },
+        {
+          "t": 462,
+          "kind": "event",
+          "text": "After internal discussion Jagex chose not to fix the bug that made certain Sailing items drop more often than intended, and said they would update with the actual numbers."
+        },
+        {
+          "t": 488,
+          "kind": "opinion",
+          "text": "Gnomonkey says he is fine with the accidental drop rate buff, calling it finally a good bug."
+        }
+      ]
+    },
+    {
+      "name": "Sailing",
+      "kind": "skill",
+      "claims": [
+        {
+          "t": 613,
+          "kind": "opinion",
+          "text": "Gnomonkey says Jagex's better response to everyone picking one method would be to flesh out the less engaging training methods rather than nerf the popular one, and thinks other Sailing options are basically just Barracuda Trials plus unbalanced or uninteresting things."
+        },
+        {
+          "t": 678,
+          "kind": "opinion",
+          "text": "Gnomonkey says Sailing combat, which Jagex has admitted does not feel good, is an extremely high priority to overhaul and make more engaging."
+        },
+        {
+          "t": 711,
+          "kind": "opinion",
+          "text": "Gnomonkey wants endgame Sailing unlocks such as an endgame training method, more rewarding Slayer tasks and good training methods for other skills, saying Sailing currently gives little reason to engage with it."
+        },
+        {
+          "t": 745,
+          "kind": "opinion",
+          "text": "Gnomonkey questions the value of unlocking frost dragons at 87 Sailing, saying they are not good Slayer XP and give loot only for your boat."
+        },
+        {
+          "t": 745,
+          "kind": "opinion",
+          "text": "Gnomonkey says Aqua Knights might be the best Sailing addition because they drop a good amount of seeds, while the hopper is complete trash needing a big buff and lava strike worms are something you skip."
+        },
+        {
+          "t": 771,
+          "kind": "opinion",
+          "text": "Gnomonkey says much of what Sailing unlocks is the same as or worse than base game content despite having Sailing level requirements."
+        },
+        {
+          "t": 798,
+          "kind": "opinion",
+          "text": "Gnomonkey says Jagex cannot add interesting PvM content on boats until combat is fixed, and that a raid-like Sailing encounter would bomb, though he doesn't think Jagex would do it."
+        },
+        {
+          "t": 798,
+          "kind": "opinion",
+          "text": "Gnomonkey would be fine with a group Kraken-style boss as a skilling training method for Sailing, and says Sailing most needs more training methods."
+        },
+        {
+          "t": 831,
+          "kind": "opinion",
+          "text": "Gnomonkey says a new Barracuda Trial would feel great since having only three means doing the same thing across 30 plus levels at a time."
+        }
+      ]
+    },
+    {
+      "name": "Gnomonkey",
+      "kind": "person",
+      "claims": [
+        {
+          "t": 646,
+          "kind": "opinion",
+          "text": "Gnomonkey says Jagex usually does not listen to his suggestions."
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,184 @@
+{
+  "id": "_q6rmQQkN1I",
+  "title": "Ironman Budget Doom Delve Boss Guide (OSRS) (NEW)",
+  "date": "2025-08-09",
+  "type": "guide",
+  "summary": "A full ironman/budget gear and wave-by-wave guide to the Doom of Mokhaiotl delve boss (\"Mocha\"), made after the big patch fixed the boss's bugs. Gnomonkey explains the spec-weapon setup (Scorching bow, blowpipe, Chally, ZCB), then walks through delves 1-8 including melee punish, shield phase, car phase, rock block and the orb phase, and says a roughly 70m setup can earn about 30m gp/hour.",
+  "outline": [
+    {"t": 0, "text": "Why the guide is coming now, importance of spec weapons, ranged spec options (ZCB, blowpipe, dragon knives)"},
+    {"t": 149, "text": "Melee punish options compared (Scythe, Chally, Nally, boppers, claws)"},
+    {"t": 332, "text": "Full budget gear setup: Scorching bow, Void, Arania boots, thralls, Demon bane weapons, blowpipe for car phase"},
+    {"t": 528, "text": "Spell choice, poison, teleports and how delves scale"},
+    {"t": 643, "text": "Wave 1: boulder attacks, grubs, melee punish and the orb phase explained"},
+    {"t": 972, "text": "Wave 2: two orbs, holy water on a finishing melee punish"},
+    {"t": 1025, "text": "Wave 3: acid and the shield phase"},
+    {"t": 1214, "text": "Wave 4: triple boulder attacks and coloured grubs"},
+    {"t": 1304, "text": "Wave 5: car phase and early orb phase"},
+    {"t": 1548, "text": "Wave 6: rock block and handling the orb phase"},
+    {"t": 1833, "text": "Wave 7: instant rock attack timing"},
+    {"t": 1959, "text": "Wave 8: double boulders, shadow trick, orb phase under pressure"},
+    {"t": 2374, "text": "Income expectations, setup cost and gear upgrade path"},
+    {"t": 2672, "text": "Do not copy his stream setup; follow-up thoughts video"}
+  ],
+  "topics": [
+    {
+      "name": "Doom of Mokhaiotl",
+      "kind": "boss",
+      "claims": [
+        {"t": 0, "kind": "event", "text": "Gnomonkey made his ironman/budget Doom of Mokhaiotl (\"Mocha\") guide only after a big patch fixed many bugs and the meta had settled, rather than releasing one early when everything was still changing."},
+        {"t": 32, "kind": "opinion", "text": "Gnomonkey says Doom of Mokhaiotl is hard to gear for because several phases have bonus damage and guaranteed accuracy: the melee punish and car phases are both 100% accurate, and the melee punish also gets bonus damage."},
+        {"t": 32, "kind": "requirement", "text": "Gnomonkey says you should not come to Doom of Mokhaiotl without double Death Charge, and you should do Yama first, because spec damage is a huge chunk of damage and you need to be able to upkeep specs constantly."},
+        {"t": 553, "kind": "stat", "text": "Doom of Mokhaiotl has eight delves, each progressively harder, faster and with more mechanics, and some mechanics only appear on certain delves."},
+        {"t": 585, "kind": "stat", "text": "Doom of Mokhaiotl gains 25 health each delve until delve 8, after which it loses 50 health, which Gnomonkey says makes delve 9 a little easier than delve 8."},
+        {"t": 643, "kind": "method", "text": "In Doom of Mokhaiotl wave 1 there are no special mechanics and the attacks are slow; the boss throws a boulder that tells you the next prayer: a dark green boulder means Protect from Missiles, a blue water-covered boulder means Protect from Magic."},
+        {"t": 1182, "kind": "stat", "text": "On Doom of Mokhaiotl delve 4 and above, boulder attacks come in sets of three back to back with one tick between each hit (for example mage, range, mage), and the first hit landing is the cue to start praying."},
+        {"t": 1272, "kind": "tip", "text": "On Doom of Mokhaiotl delve 4, Gnomonkey advises not to greed for melee grubs underneath the boss when a boulder attack lines up, because missed boulder-attack prayers are guaranteed hits that ignore defence and are the main way you die there."},
+        {"t": 1288, "kind": "opinion", "text": "Gnomonkey considers Doom of Mokhaiotl delve 5 the first really hard delve and compares it to Colosseum Wave 6 in difficulty; he notes many newer players do delves 1 to 4 for loot, but 5 is where difficulty ramps up."},
+        {"t": 1959, "kind": "opinion", "text": "Gnomonkey calls Doom of Mokhaiotl delve 8 by far the biggest jump in difficulty, because the boss does two boulder attacks back to back, which he describes as six continuous ticks of prayer switching."},
+        {"t": 2374, "kind": "stat", "text": "Gnomonkey says the budget setup costs about 70m for a main and, pushing fairly good delve 8 runs (delves 1 to 8), earns around 30m gp per hour, which he calls effectively the best money-maker in the game at the time."},
+        {"t": 2438, "kind": "stat", "text": "Gnomonkey says the rate is slightly higher on delves 9 and beyond, with about 50% more rare drops, so chaining deep delves could reach nearer 50m gp per hour; he expects the 30m figure to fall over about a month."},
+        {"t": 2438, "kind": "opinion", "text": "Gnomonkey says delve 12 is reachable with the budget setup without being impossibly difficult, and suggests clearing delves 1 to 8 as a good starter goal."},
+        {"t": 2615, "kind": "tip", "text": "Gnomonkey says his budget setup stays solid up to roughly delve 20, and that his stream extras (Lunars cure me, SGS, satchels for extra food) are only worth considering at very deep delves."}
+      ]
+    },
+    {
+      "name": "Ironman Budget Doom Delve Setup",
+      "kind": "mechanic",
+      "claims": [
+        {"t": 332, "kind": "method", "text": "Gnomonkey's budget Doom of Mokhaiotl setup uses a Scorching bow as main DPS, Void armour, Arania boots, a Chally for melee spec, a blowpipe for ranged specs and the car phase, and a Skull scepter and Dark light for Demon bane damage."},
+        {"t": 332, "kind": "stat", "text": "Gnomonkey says the Scorching bow is about 14% worse than a Twisted bow at Doom of Mokhaiotl but is still a fine option and can get you through delve 8 easily."},
+        {"t": 359, "kind": "opinion", "text": "Gnomonkey says Void is clearly better than Masori for the Scorching bow at Doom of Mokhaiotl because it gives a tremendous number of max hits, though he notes there has been debate about Masori versus Void with the Twisted bow."},
+        {"t": 359, "kind": "opinion", "text": "Gnomonkey prefers Arania boots over Pegasian boots for budget Doom delves because they are cheaper and easier to get and give strength bonus that boosts Chally hits and melee punish bonus damage; the lost ranged accuracy matters little because much of the fight is 100% accurate. He says the treads are the best option once you have them."},
+        {"t": 390, "kind": "tip", "text": "Gnomonkey says an Ava's assembler is better if you have it, Anguish is obvious, and Dragon arrows are very good, but Amethyst arrows are not terrible on an ironman: they cost only two max hits and arrows give no accuracy difference."},
+        {"t": 390, "kind": "requirement", "text": "Gnomonkey says you must be on the Arceuus spellbook (thralls) for Doom of Mokhaiotl because you need Demon bane spells to kill grubs, even though thralls generate more acid and can hurt you, and Death Charge is too important to leave out."},
+        {"t": 424, "kind": "tip", "text": "Gnomonkey recommends cheap Demon bane weapons (a Skull scepter or Slayer staff plus a Dark light) because each synapse weapon brought raises the death cost by 100k, or 50k on an ironman, and there is no difference between Dark light with Skull scepter and Emberlight with a Purging staff."},
+        {"t": 455, "kind": "tip", "text": "Gnomonkey says you can get a Dark light back if you own an Emberlight by bringing it to Surprise, dropping it on the ground and buying it from him."},
+        {"t": 488, "kind": "tip", "text": "When casting a Demon bane spell for Doom of Mokhaiotl, Gnomonkey says to use the mid-level Demon bane spell rather than the highest, because it uses the same rune type but costs fewer runes, so brewing down does not lose your autocast."},
+        {"t": 512, "kind": "tip", "text": "Gnomonkey says weapon poison (poison errors) is free damage because you can poison Doom of Mokhaiotl, but it is expensive and hard to get on an ironman, so it is worth using only if you already have some."},
+        {"t": 553, "kind": "tip", "text": "Gnomonkey says teleports to Doom of Mokhaiotl are expensive but worth buying for a main; an ironman without them takes the bird to the bank and runs there."},
+        {"t": 2468, "kind": "method", "text": "Gnomonkey's suggested upgrade path for Doom delves is to buy a ZCB, then treads, sell both to afford a Twisted bow, then buy them back later; he says a ZCB can be a stand-in until the Twisted bow and dropped D-knives and blowpipe once you own one."},
+        {"t": 2468, "kind": "stat", "text": "Gnomonkey says a Twisted bow costs about twenty times more than a Scorching bow, so it will be a long time before an ironman uses one for Doom delves, and treads will likely stay over 300m for quite a while."},
+        {"t": 2534, "kind": "opinion", "text": "Gnomonkey says his inventory is very close to the best setup and only lacks the Twisted bow; ZCB and Chally are always good specs."}
+      ]
+    },
+    {
+      "name": "Zaryte crossbow",
+      "kind": "item",
+      "claims": [
+        {"t": 62, "kind": "opinion", "text": "Gnomonkey considers the Zaryte crossbow the best ranged spec weapon for Doom of Mokhaiotl; it does about 36 DPS at full power and he says it wipes the floor with the other weapons."},
+        {"t": 62, "kind": "stat", "text": "At Doom of Mokhaiotl the Zaryte crossbow spec is typically used right before or after shield phase, so it hits around 90 to 100 rather than its full hit; it is a guaranteed hit on car phase and otherwise about 85% accurate."}
+      ]
+    },
+    {
+      "name": "Toxic blowpipe",
+      "kind": "item",
+      "claims": [
+        {"t": 119, "kind": "tip", "text": "Gnomonkey says that without a ZCB the budget ranged specs at Doom of Mokhaiotl are the blowpipe and Dragon knives; the blowpipe spec heals you, which is why it is also the choice when low on health."},
+        {"t": 119, "kind": "stat", "text": "Dragon knives cost half as much spec energy as the blowpipe at Doom of Mokhaiotl and hit a little higher, but do not heal; Gnomonkey says to bring both if you have access to Dragon knives."},
+        {"t": 455, "kind": "stat", "text": "Gnomonkey says a blowpipe with dragon darts is only about 5% worse than a Twisted bow at Doom of Mokhaiotl and does about 11% more DPS than the Scorching bow on car phase."},
+        {"t": 488, "kind": "tip", "text": "Gnomonkey says one of the most important items people ignore is the blowpipe on car phase at Doom of Mokhaiotl, and that using Amethyst darts instead of dragon darts is only a one max hit loss for normal attacks and two for specs."},
+        {"t": 1033, "kind": "tip", "text": "Gnomonkey says spamming Dragon knife specs, or anything that makes double hitsplats, spawns a lot of acid on Doom of Mokhaiotl delve 3 and above, so it is not worth it."}
+      ]
+    },
+    {
+      "name": "Melee punish (Doom of Mokhaiotl)",
+      "kind": "mechanic",
+      "claims": [
+        {"t": 149, "kind": "method", "text": "In the Doom of Mokhaiotl melee punish, usually before 75% health, the boss raises Protect from Missiles and Magic and charges a beam; you must hit it with a melee weapon to break the laser, and the hit does bonus damage per hitsplat based on your total strength bonus."},
+        {"t": 182, "kind": "tip", "text": "Gnomonkey says to judge melee punish weapons by average hit, not DPS, because you only get one or two punishes per fight; the Scythe needs no spec and averages about 70 with triple-splat bonus damage, while the Chally averages about 92 for 30% spec."},
+        {"t": 214, "kind": "opinion", "text": "Gnomonkey recommends bringing a Chally even if you own a Scythe and no ZCB, because you need to use up specs, and the Chally can also hit the boss from out of range, helpful when there is a lot of acid."},
+        {"t": 247, "kind": "stat", "text": "Gnomonkey says the Nally has high strength bonus for a two-hander and averages about 50 on the melee punish, and can hit from out of range like the Chally, but he would not bring it over a Chally."},
+        {"t": 274, "kind": "tip", "text": "Gnomonkey says boppers hit the same as a Nally on the melee punish and, because they double hit, can one-shot the two-health grubs, so they can replace a Demon bane weapon and save an inventory slot."},
+        {"t": 300, "kind": "opinion", "text": "Gnomonkey says Claws are only decent for the melee punish because they have about 50 strength bonus versus about 120 for a Chally, and Burning claws' extra 5% against demons is negligible."},
+        {"t": 300, "kind": "opinion", "text": "Gnomonkey says Ralos, Warhammer and Elder maul are awful at Doom of Mokhaiotl and worse than simply shooting the boss, because about 70% of the fight you have 100% accuracy."},
+        {"t": 767, "kind": "tip", "text": "Gnomonkey says that if you are on attack cooldown you can still do the Doom of Mokhaiotl melee punish, like Zebak jugs, so there is never a time you are unable to punish after shooting."},
+        {"t": 720, "kind": "stat", "text": "If the Doom of Mokhaiotl melee punish beam charges fully, it fully heals the boss and sends a death laser starting at hits in the 60s and going up to 99 at a certain delve."},
+        {"t": 1033, "kind": "tip", "text": "Gnomonkey says that on delves 2 to 8 if you finish the boss with a melee punish while it is at low health, holy water shoots out that clears acid and restores about 15 prayer points and around 50 health, but the developers made it not work on delve 9 or higher."},
+        {"t": 1181, "kind": "tip", "text": "Gnomonkey says that on delve 3 the shield phase's bonus hitsplat can break an in-progress melee punish and disrupt boulder prayer timing, which he thought might be hotfixed."}
+      ]
+    },
+    {
+      "name": "Orb phase (Doom of Mokhaiotl)",
+      "kind": "mechanic",
+      "claims": [
+        {"t": 800, "kind": "stat", "text": "The Doom of Mokhaiotl orb phase (volatile earth) happens after roughly 90 to 120 seconds into the fight, and Gnomonkey says the goal each delve is to do enough damage that you never have to see it."},
+        {"t": 800, "kind": "method", "text": "To make the orb you attack two volatile earths: the first one you shoot sets the direction the second orb will travel, and a 3x3 orb then spawns and moves toward the other earth, turning your character white and protecting you from attacks."},
+        {"t": 863, "kind": "stat", "text": "On delve 1 the orb moves at half speed, and on later delves it moves at walking speed; the boss shoots shockwaves about 20 ticks after the earth spawns."},
+        {"t": 863, "kind": "tip", "text": "Gnomonkey says the orb moves opposite to how players move (diagonal first, then straight), so draw a nearly straight line when spawning it to make it easy to move with."},
+        {"t": 911, "kind": "tip", "text": "Gnomonkey warns not to spam-click the second earth: wait after the first shot because arrow travel time can make the orb spawn in the wrong direction; do not worry about shooting the boss while learning."},
+        {"t": 911, "kind": "tip", "text": "Gnomonkey says to control-click far into the distance so your character walks and stays inside the orb automatically, which lets you pray without manually pathing."},
+        {"t": 1464, "kind": "tip", "text": "Gnomonkey's protocol for delve 5 orb phase: shoot one volatile earth far away, stand near where the orb will spawn, fire about four Scorching bow shots at the boss, then spawn the orb and control-walk with it."},
+        {"t": 1464, "kind": "stat", "text": "Gnomonkey says delve 5 is the shortest delve for getting orb phases and so is more likely than delve 8 to force one."},
+        {"t": 2223, "kind": "stat", "text": "After a patch, the orb now clears acid and the back tile of the orb protects you, and rocks landing on top of you inside the orb no longer place or eject you."},
+        {"t": 2223, "kind": "stat", "text": "Delve 8 has five shockwaves during the orb phase (delve 6 has three), and Gnomonkey says a shockwave plus one off-prayer can kill you instantly."},
+        {"t": 2338, "kind": "tip", "text": "Gnomonkey advises that when leaving car phase at low health with an inevitable orb phase (for example boss at 150 health), brew up, but if the boss only has about 50 health left keep sending shots rather than brewing down your damage."}
+      ]
+    },
+    {
+      "name": "Shield phase (Doom of Mokhaiotl)",
+      "kind": "mechanic",
+      "claims": [
+        {"t": 1033, "kind": "method", "text": "In the Doom of Mokhaiotl shield phase (from delve 3) the boss has a blue shield and yellow charge bar; only Demon bane hits damage the shield and each Demon bane hit resets the yellow bar, otherwise the laser hits up to 99."},
+        {"t": 1090, "kind": "method", "text": "During shield phase grubs spawn and each one popped does 100 shield damage; Gnomonkey sits in melee range because the boss cannot melee during shield phase and grub shockwaves hitting the boss do not hurt you."},
+        {"t": 1241, "kind": "stat", "text": "Doom of Mokhaiotl shield phase always triggers at 75% boss health, so any time you take the boss below 75% it goes into shield phase."},
+        {"t": 1121, "kind": "tip", "text": "Gnomonkey describes milking the shield phase: the longer it lasts, the larger the bonus hitsplat, up to about 50 damage after roughly 90 seconds, but he says it is rarely worth it except when low on health and needing spec for pipe specs."},
+        {"t": 1647, "kind": "tip", "text": "Gnomonkey says any damage dealt right before 75% carries past the shield phase, so a melee punish close to 75% brings the boss's health down and reduces the chance of an orb phase."}
+      ]
+    },
+    {
+      "name": "Car phase (Doom of Mokhaiotl)",
+      "kind": "mechanic",
+      "claims": [
+        {"t": 1331, "kind": "method", "text": "Car phase on Doom of Mokhaiotl begins after shield phase from delve 5; you should arrive with as much spec energy as possible and Death Charge from grubs, because the phase is 100% accurate."},
+        {"t": 1331, "kind": "tip", "text": "Gnomonkey says you cannot attack the boss while it is transforming into the car, so use that time to kill nearby grubs, and you are also immune to all damage for about three ticks, so you can run through acid."},
+        {"t": 1400, "kind": "stat", "text": "In car phase the boss spawns an eyeball four tiles behind you in line with the boss's centre and then dashes toward it; on delve 5 it hits about 10 if you are in the way, on delve 8 about 40 and it dashes almost instantly."},
+        {"t": 1420, "kind": "stat", "text": "Car phase has only two dashes on delve 5, three dashes with shockwaves on delve 6, and the boss is at about 145 health after it on Gnomonkey's delve 5 run."},
+        {"t": 2374, "kind": "tip", "text": "Gnomonkey says on a budget setup you must be right next to the boss with the blowpipe in car phase to avoid orb phases."},
+        {"t": 1760, "kind": "tip", "text": "Gnomonkey says to maximise the time the boss is dashing in car phase, by dragging it to a corner or side, to get more blowpipe and Dragon knife damage, especially if not using a Twisted bow."}
+      ]
+    },
+    {
+      "name": "Rock block",
+      "kind": "mechanic",
+      "claims": [
+        {"t": 1548, "kind": "method", "text": "Rock block is used on Doom of Mokhaiotl delve 6 and up: you place rocks from the boss's attack and stand behind them to avoid the car phase dash shockwaves; Gnomonkey refers viewers to a separate rock block video."},
+        {"t": 1566, "kind": "tip", "text": "Gnomonkey says imported rock block tiles do not show up until you reach delve 6 because delve 6 and above is different and clears all the acid."},
+        {"t": 1592, "kind": "tip", "text": "Gnomonkey says not to kill the boss too much before placing the second rock, because going below 75% sends it into shield phase and you get no more rocks."},
+        {"t": 1740, "kind": "method", "text": "Once two rocks are placed and shield phase ends, you must get within the quadrant before the boss's eyeball appears so the eyeball spawns directly on your rock, then spam specs."},
+        {"t": 1740, "kind": "tip", "text": "Gnomonkey says that since holy water does not work on delve 9 or higher, he now drags the boss to a corner or side to maximise dash time instead of pulling it to the middle."},
+        {"t": 1895, "kind": "tip", "text": "Gnomonkey warns that being dragged 11 tiles out into a shockwave can happen easily, so do not greed shots when far away."},
+        {"t": 1959, "kind": "tip", "text": "On delve 8 both double-boulder attacks turn off your prayer, so you cannot pre-pray; Gnomonkey recommends learning to look for the shadows on the ground and stepping onto a tile where rubble just landed, since rubble cannot land where a shadow was before."},
+        {"t": 2014, "kind": "tip", "text": "On delve 8 you can place both rocks with one attack, and it does not matter where the second rock is as long as it is on one of the lines."},
+        {"t": 2205, "kind": "tip", "text": "Gnomonkey says to keep the boss in place if your rock is in line with it, since pulling it to a corner would destroy the rock."}
+      ]
+    },
+    {
+      "name": "Grubs (Doom of Mokhaiotl)",
+      "kind": "mechanic",
+      "claims": [
+        {"t": 645, "kind": "method", "text": "Grubs spawn in the corners of the Doom of Mokhaiotl room and must be killed before they reach the boss; if they reach its centre they hurt you a little and heal the boss, compounding over the run."},
+        {"t": 677, "kind": "stat", "text": "You have until a grub reaches the boss's centre, plus one extra tick, to hit it; once you attack a grub it cannot move, and killing it causes a shockwave hitting up to about 20 if you are next to it, but a shockwave touching the boss cannot hurt you."},
+        {"t": 707, "kind": "stat", "text": "Grubs pray protection styles: one at the start, and later two styles at once, coloured, so you need the exact Demon bane weapon; Gnomonkey recommends the Demonic larva plugin from the plugin hub to highlight and colour them."},
+        {"t": 1275, "kind": "tip", "text": "Gnomonkey says melee grubs are the main struggle on delve 4 because they are awkward to catch depending on acid placement."},
+        {"t": 2178, "kind": "stat", "text": "After the most recent patch Doom of Mokhaiotl has big grubs that take only two shots, instead of the old triple grub spawn, with the same shockwave damage as a small grub."}
+      ]
+    },
+    {
+      "name": "Acid (Doom of Mokhaiotl)",
+      "kind": "mechanic",
+      "claims": [
+        {"t": 1033, "kind": "stat", "text": "From delve 3 on Doom of Mokhaiotl, every red hitsplat the boss takes (including thrall damage and fast attacks) spawns acid, similar to the monkey room in Tombs of Amascut."},
+        {"t": 1033, "kind": "stat", "text": "Stepping in Doom of Mokhaiotl's acid venoms you and does up to about 8 damage per splat per tick, which is why Gnomonkey brings an anti-venom."}
+      ]
+    },
+    {
+      "name": "Opinion: Doom of Mokhaiotl budget friendliness",
+      "kind": "opinion",
+      "claims": [
+        {"t": 0, "kind": "opinion", "text": "Per the video description, Gnomonkey argues Doom of Mokhaiotl is very similar to the Colosseum in difficulty when pushed to the highest level, yet its requirements are incredibly low."},
+        {"t": 2374, "kind": "opinion", "text": "Gnomonkey says the budget setup needs one synapse for the Scorching bow, Void costs nothing, and Arania boots and Dark light are very cheap, so the setup is very cheap for a main."},
+        {"t": 2438, "kind": "opinion", "text": "Gnomonkey believes the boss will keep paying well because few players can push the late delves."}
+      ]
+    }
+  ]
+}

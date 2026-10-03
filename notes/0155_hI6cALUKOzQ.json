@@ -1,0 +1,284 @@
+{
+ "id": "hI6cALUKOzQ",
+ "title": "WIKI GUIDES - VARDORVIS",
+ "date": "2024-05-13",
+ "type": "challenge",
+ "summary": "Gnomonkey fights Vardorvis using the OSRS Wiki's worst allowed downgrades, which include an Elysian spirit shield as the lowest offhand option. The Elysian turns out to be strong and gives a two-minute kill, then a 520 million gp Gearscape setup with a Soulreaper axe gets a 125 second kill. A bonus section covers the wiki's note that full Inquisitor's with the mace slightly beats an abyssal tentacle on Vardorvis.",
+ "outline": [
+  {
+   "t": 0,
+   "text": "Intro: Vardorvis with the wiki's worst downgrades, including an Elysian spirit shield"
+  },
+  {
+   "t": 20,
+   "text": "Going through the downgraded gear and choosing Amulet of power over strength"
+  },
+  {
+   "t": 175,
+   "text": "Vardorvis defence drops over time; bringing thralls and a Chali (as transcribed) special"
+  },
+  {
+   "t": 298,
+   "text": "Gameplay: prayer and defence interaction, Elysian proc and the downgraded kill"
+  },
+  {
+   "t": 390,
+   "text": "Testing the Elysian's effect on Vardorvis healing and two-minute kill"
+  },
+  {
+   "t": 420,
+   "text": "Building the budget setup with Gearscape"
+  },
+  {
+   "t": 515,
+   "text": "Budget kill with Soulreaper axe and Void Waker; 125 second kill"
+  },
+  {
+   "t": 610,
+   "text": "Extras: Inquisitor's mace note on the wiki"
+  },
+  {
+   "t": 694,
+   "text": "Justiciar versus other setups and Inquisitor's mace comparison"
+  },
+  {
+   "t": 782,
+   "text": "Inquisitor's mace bonus kill and closing"
+  }
+ ],
+ "topics": [
+  {
+   "name": "Vardorvis",
+   "kind": "boss",
+   "claims": [
+    {
+     "t": 177,
+     "kind": "stat",
+     "text": "As you damage Vardorvis, his defence level drops over time."
+    },
+    {
+     "t": 238,
+     "kind": "method",
+     "text": "Vardorvis always passes his accuracy roll if you are not using a protection prayer; with a protection prayer active he rolls against your defence, which Gnomonkey thinks is unique to this boss."
+    },
+    {
+     "t": 238,
+     "kind": "tip",
+     "text": "Gnomonkey says the difference between Void and Torva is about 10% Vardorvis accuracy, and that the more Vardorvis hits you the more he heals."
+    },
+    {
+     "t": 238,
+     "kind": "opinion",
+     "text": "Gnomonkey prefers using good offensive items on Vardorvis over tank pieces, because hitting him harder is probably good as well as tanking."
+    },
+    {
+     "t": 390,
+     "kind": "stat",
+     "text": "Vardorvis heals based on the visible damage splat, so reducing the splat with the Elysian spirit shield proc reduces his healing; Gnomonkey observed healing drop from 19 to 9."
+    },
+    {
+     "t": 420,
+     "kind": "record",
+     "text": "Gnomonkey kills Vardorvis in about two minutes using the wiki's worst downgraded gear with an Elysian spirit shield, which he says is better than expected."
+    },
+    {
+     "t": 574,
+     "kind": "record",
+     "text": "Gnomonkey's budget Soulreaper axe kill of Vardorvis took 125 seconds, which he says is about average for a Soulreaper axe kill (around 120), and thinks a faster time is feasible."
+    },
+    {
+     "t": 702,
+     "kind": "stat",
+     "text": "Gnomonkey calculates that Justiciar armour lowers Vardorvis's accuracy against you from 91% to 70%, a 21% drop, and thinks Justiciar might be underrated here."
+    }
+   ]
+  },
+  {
+   "name": "Wiki Guides challenge series",
+   "kind": "challenge",
+   "claims": [
+    {
+     "t": 0,
+     "kind": "event",
+     "text": "For Vardorvis, Gnomonkey follows the wiki's worst possible downgrades, including a skill cape, tank body and legs, a Zombie axe and an Elysian spirit shield."
+    },
+    {
+     "t": 0,
+     "kind": "stat",
+     "text": "The wiki's worst Vardorvis downgrades include Amulet of strength or Amulet of power, a regen bracelet instead of Barrows gloves, rune boots, a Lightbearer and a Chali (as transcribed) special attack weapon."
+    },
+    {
+     "t": 27,
+     "kind": "opinion",
+     "text": "Gnomonkey says the Zombie axe is the first time he has ever used one, and notes the wiki lists an Elysian spirit shield as an option for accounts without a rune defender or Dragonfire shield even though it should not be on the list."
+    },
+    {
+     "t": 31,
+     "kind": "event",
+     "text": "Gnomonkey tests Amulet of strength versus Amulet of power on a dummy and finds Amulet of power better even with the max hit loss, so he runs the amulet of power."
+    },
+    {
+     "t": 149,
+     "kind": "opinion",
+     "text": "Gnomonkey says the wiki gives slash entries in its gear table which he treats as 'use the worst one'."
+    },
+    {
+     "t": 185,
+     "kind": "event",
+     "text": "Gnomonkey brings both amulets for the joke because the wiki's wording does not rule it out; he says he will use the Amulet of strength for the final hits at the special attack."
+    },
+    {
+     "t": 237,
+     "kind": "tip",
+     "text": "Gnomonkey brings thralls as he always does in this series."
+    }
+   ]
+  },
+  {
+   "name": "Elysian spirit shield",
+   "kind": "item",
+   "claims": [
+    {
+     "t": 226,
+     "kind": "opinion",
+     "text": "Gnomonkey says the Elysian spirit shield should not be on the wiki's Vardorvis list, since being the most expensive offhand it makes the downgrade run near best in slot and cheeses the comparison."
+    },
+    {
+     "t": 270,
+     "kind": "stat",
+     "text": "Gnomonkey notes the Elysian spirit shield has a passive that reduces damage; the wiki lists it below a rune defender as a downgrade in the Vardorvis setup."
+    },
+    {
+     "t": 390,
+     "kind": "stat",
+     "text": "Gnomonkey found that the Elysian spirit shield proc reduces how much Vardorvis heals because Vardorvis heals off the visible hitsplat, not off what the hit would have been; he saw healing go from 19 to 9."
+    },
+    {
+     "t": 410,
+     "kind": "opinion",
+     "text": "Gnomonkey calls the Elysian spirit shield insanely powerful for Vardorvis, saying a blood fury added to the setup would make you sail."
+    },
+    {
+     "t": 206,
+     "kind": "stat",
+     "text": "At the time of the video Gnomonkey says the Elysian spirit shield costs about 730 million gp."
+    },
+    {
+     "t": 515,
+     "kind": "tip",
+     "text": "Gnomonkey says the budget setup works better without the Elysian spirit shield."
+    }
+   ]
+  },
+  {
+   "name": "Soulreaper axe",
+   "kind": "item",
+   "claims": [
+    {
+     "t": 515,
+     "kind": "opinion",
+     "text": "Gnomonkey considers the Soulreaper axe near best in slot for Vardorvis and notes that Torva is basically the only other upgrade."
+    },
+    {
+     "t": 574,
+     "kind": "record",
+     "text": "A Soulreaper axe Vardorvis kill with the budget setup took 125 seconds, around average for the axe."
+    },
+    {
+     "t": 0,
+     "kind": "trivia",
+     "text": "Gnomonkey recalls that when Vardorvis first came out some people used the Inquisitor's mace because nobody had a Soulreaper axe yet and best in slot was not known."
+    }
+   ]
+  },
+  {
+   "name": "Vardorvis budget setup",
+   "kind": "other",
+   "claims": [
+    {
+     "t": 420,
+     "kind": "stat",
+     "text": "The wiki-downgraded Vardorvis setup cost about 10.3 million gp, while Gnomonkey's Gearscape budget was 732 million gp because of his shield."
+    },
+    {
+     "t": 481,
+     "kind": "stat",
+     "text": "Gearscape's budget setup for Vardorvis cost 520 million gp, leaving about 200 million gp unused because only Torva remained to buy."
+    },
+    {
+     "t": 481,
+     "kind": "opinion",
+     "text": "Gnomonkey says Gearscape basically produces the meta setup for Vardorvis with a 700 million gp budget, which he says he has never seen before; the setup uses a Blood fury suggestion though he keeps a torture amulet."
+    },
+    {
+     "t": 515,
+     "kind": "method",
+     "text": "Gnomonkey opens the Vardorvis fight with a Void Waker special attack, then uses the Soulreaper axe."
+    }
+   ]
+  },
+  {
+   "name": "Inquisitor's mace",
+   "kind": "item",
+   "claims": [
+    {
+     "t": 622,
+     "kind": "stat",
+     "text": "The OSRS Wiki's Vardorvis page notes the Inquisitor's mace slightly surpasses the abyssal tentacle when wearing full Inquisitor's armour."
+    },
+    {
+     "t": 664,
+     "kind": "opinion",
+     "text": "Gnomonkey says notes like that on the wiki are accurate because someone calculated them, but they are given without context about who the setup is relevant to."
+    },
+    {
+     "t": 782,
+     "kind": "opinion",
+     "text": "Gnomonkey notes that bringing full Inquisitor's into the Tombs of Amascut is not the play, and asks who the wiki's Inquisitor's note is relevant to."
+    },
+    {
+     "t": 782,
+     "kind": "record",
+     "text": "In the bonus kill with full Inquisitor's and the Inquisitor's mace on Vardorvis, Gnomonkey's kill took around 140 seconds, which he says is slightly better than a tentacle whip."
+    },
+    {
+     "t": 720,
+     "kind": "opinion",
+     "text": "Gnomonkey says he expects the Inquisitor's mace to be slightly better still when its upcoming buff arrives."
+    }
+   ]
+  },
+  {
+   "name": "Justiciar armour",
+   "kind": "item",
+   "claims": [
+    {
+     "t": 694,
+     "kind": "tip",
+     "text": "Gnomonkey calculates Justiciar armour drops Vardorvis's accuracy from hitting you 91% of the time to 70%, and also reduces the damage you take."
+    },
+    {
+     "t": 694,
+     "kind": "opinion",
+     "text": "Gnomonkey says Justiciar might be underrated at Vardorvis, perhaps allowing a kill or two more per trip if you play perfectly."
+    }
+   ]
+  },
+  {
+   "name": "Opinion: OSRS Wiki gear recommendations",
+   "kind": "opinion",
+   "claims": [
+    {
+     "t": 633,
+     "kind": "opinion",
+     "text": "Gnomonkey says the wiki's Vardorvis page lists no mention of Void even though Void is quite good there."
+    },
+    {
+     "t": 633,
+     "kind": "opinion",
+     "text": "Gnomonkey considers the wiki clearly brain dead on setups in the downgrade tables, but says notes calculated by someone, such as the Inquisitor's mace one, are likely accurate."
+    }
+   ]
+  }
+ ]
+}

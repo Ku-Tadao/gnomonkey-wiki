@@ -1,0 +1,73 @@
+{
+  "id": "AyPfaq5Kvnk",
+  "title": "UPDATED DONOFLY + GNOMONOFLY TECH (OSRS)",
+  "date": "2025-05-18",
+  "type": "guide",
+  "summary": "Gnomonkey presents Monofly, an improved version of the Donofly Yama melee tile method with no delay tiles, and Gnomonofly, a solo-only extension that keeps you meleeing through the orb spawn. He explains both cycles tile by tile and notes that better methods are still being found daily.",
+  "outline": [
+    {"t": 0, "text": "Intro: Monofly as a superior version of Donofly"},
+    {"t": 20, "text": "Getting to Yama on tick three and the five-hit Monofly cycle"},
+    {"t": 87, "text": "Scythe swing on tile two and what happens when the orbs spawn"},
+    {"t": 146, "text": "Dodging waves while maging"},
+    {"t": 173, "text": "Full-tanking the boss, Oathplate contract and why Emberlight beats the scythe"},
+    {"t": 262, "text": "Gnomonofly: keeping 25 spec energy and the cycle until orbs spawn"},
+    {"t": 342, "text": "Three-way purging staff on the orbs and the jelly tile"},
+    {"t": 408, "text": "Dodging the second set of waves with the square pattern and blue tiles"},
+    {"t": 513, "text": "Full-speed live kill showing the entire method"},
+    {"t": 580, "text": "Newer methods being developed; outro"}
+  ],
+  "topics": [
+    {
+      "name": "Monofly",
+      "kind": "mechanic",
+      "claims": [
+        {"t": 0, "kind": "event", "text": "Monofly is a superior version of the Donofly Yama melee tile method, named after Mono who found it."},
+        {"t": 0, "kind": "trivia", "text": "In Monofly you never have to delay on any tile and go purely off your true tile, which Gnomonkey says makes it easier than Donofly in every way."},
+        {"t": 0, "kind": "requirement", "text": "As with Donofly, you must reach Yama on tick three after the Judge, so if you spawn close to Yama you delay one tick on a tile first."},
+        {"t": 58, "kind": "method", "text": "In Monofly, as soon as your true tile reaches a tile you click the boss; the cycle goes tile one, two, three, four, five, each followed by a hit, so it is a five-hit cycle."},
+        {"t": 87, "kind": "trivia", "text": "In the Monofly cycle you lose one tick from tile two to three because you must use a five-tick hit there or get meleed."},
+        {"t": 87, "kind": "tip", "text": "Because the hit on tile two is a five-tick hit anyway, Gnomonkey throws in a scythe swing there for slightly more damage than a five-tick Emberlight."},
+        {"t": 87, "kind": "trivia", "text": "After running through the waves and reaching tile five the next cycle, the orbs spawn and you exit the cycle to kill them and mage the boss."},
+        {"t": 263, "kind": "tip", "text": "In Monofly you can throw in a burning claw spec any time you would swing Emberlight for bonus DPS."},
+        {"t": 0, "kind": "trivia", "text": "Per the description, Monofly works in both duo and solo; in duo you simply Monofly because you outDPS the set of orbs and do not need to deal with them."},
+        {"t": 0, "kind": "event", "text": "Per the description, Mono also came up with a slightly different walk method and a tile-set pastebin for Monofly was shared."}
+      ]
+    },
+    {
+      "name": "Gnomonofly",
+      "kind": "mechanic",
+      "claims": [
+        {"t": 0, "kind": "event", "text": "Gnomonofly is an extended Monofly for solo, with tiles Gnomonkey made with help from another player; it is solo only."},
+        {"t": 173, "kind": "opinion", "text": "Gnomonkey says Gnomonofly is incredibly difficult, not for typical players, but worth learning for players grinding the pet who are solid at the game, speeding kills by about 30 seconds on average."},
+        {"t": 290, "kind": "requirement", "text": "Gnomonofly requires keeping at least 25 spec energy, because you spec one of the orbs with the purging staff later in the cycle."},
+        {"t": 342, "kind": "method", "text": "When the orbs spawn in Gnomonofly you go to tile one and one-shot an orb with a three-way purging staff setup: purging staff, occult necklace and tormented bracelet."},
+        {"t": 342, "kind": "tip", "text": "From tile one you can range all the orbs; it does not matter which orb you click, you just have to click an orb."},
+        {"t": 342, "kind": "method", "text": "After the first orb you run to tile two, prime your spec and click the other orb, then on the XP drop run to the jelly tile, swap back to melee and hit, which stands in for tile three of the cycle."},
+        {"t": 408, "kind": "method", "text": "For the second set of waves in Gnomonofly you go to tile one and hit, then run a square pattern and click to the blue tiles individually, which forces a five-tick Emberlight hit and skips the next wave."},
+        {"t": 409, "kind": "method", "text": "After dodging the second set of waves you run to the after-waves tile and hit, which stands in for tile five, then continue the cycle from tile one."},
+        {"t": 450, "kind": "tip", "text": "By the time of the next set of jellies you have usually killed the boss; Gnomonkey says many of his solos end as the first set of orbs come out."},
+        {"t": 0, "kind": "tip", "text": "Per the description, the Gnomonofly cycle is Monofly for three cycles, kill orbs at tile 1 and 2 with Mark of Darkness, Tormented bracelet and Occult necklace plus double death charge, then repeat Monofly until tile 5 again."}
+      ]
+    },
+    {
+      "name": "Yama",
+      "kind": "boss",
+      "claims": [
+        {"t": 146, "kind": "method", "text": "If you mage Yama, the way to dodge the waves is to stand on a row one tile west of the arena centre and click directly on top of the wave to run through both waves."},
+        {"t": 146, "kind": "tip", "text": "Dodge Yama's meteors by stepping perpendicular to them, then return to the wave-dodging tile each time."},
+        {"t": 173, "kind": "opinion", "text": "Gnomonkey says maging Yama has much worse DPS than meleeing."},
+        {"t": 173, "kind": "tip", "text": "With less than about 100 health left you can full tank Yama and kill him before the orbs pop, which Gnomonkey compares to a P2 skip in Verzik."},
+        {"t": 222, "kind": "stat", "text": "Gnomonkey says the scythe is about 10% worse than Emberlight at Yama and even worse than Arclight, and uses it only for an extra hit in this method."},
+        {"t": 600, "kind": "event", "text": "Gnomonkey says people are constantly finding new Yama methods, with Porcazard finding a way to save ticks using the meteor, and he may make a video on them later."}
+      ]
+    },
+    {
+      "name": "Oathplate armour",
+      "kind": "item",
+      "claims": [
+        {"t": 206, "kind": "event", "text": "On this kill Gnomonkey got a dossier and the Oathplate Acquisition contract, which guarantees a piece of Oathplate."},
+        {"t": 206, "kind": "stat", "text": "In May 2025 a piece of Oathplate was worth around 90 million gp according to Gnomonkey."}
+      ]
+    }
+  ]
+}

@@ -1,0 +1,182 @@
+{
+  "id": "DaUViQQ8TL8",
+  "title": "ToA Invocation Guide and Progression (OSRS)",
+  "date": "2025-06-26",
+  "type": "guide",
+  "summary": "A breakdown of every Tombs of Amascut invocation, grouped into life, timer, supply, path, prayer, food and per-boss categories, with Gnomonkey's opinion on which are free, which are traps and at what raid level to turn each on. It ends with example presets for 150, 200, 300, 350, 400, 450 and 500 raid levels.",
+  "outline": [
+    {"t": 0, "text": "Introduction: how to climb the invocation ladder from 150 to 500"},
+    {"t": 33, "text": "Life invocations (Try Again, Persistence, Softcore, Hardcore)"},
+    {"t": 83, "text": "Timer invocations (Walk for It to Sprint for It)"},
+    {"t": 113, "text": "Supply invocations (Need Some Help, Need Less Help, No Help Needed)"},
+    {"t": 168, "text": "Path invocations (Walk the Path, Pathseeker, Pathfinder, Pathmaster)"},
+    {"t": 315, "text": "Prayer invocations (Quiet Prayers, Deadly Prayers)"},
+    {"t": 364, "text": "Food invocations (On a Diet, Dehydration, Overly Draining)"},
+    {"t": 455, "text": "Kephri invocations"},
+    {"t": 556, "text": "Zebak invocations"},
+    {"t": 619, "text": "Akkha invocations"},
+    {"t": 723, "text": "Baba invocations"},
+    {"t": 783, "text": "Warden invocations"},
+    {"t": 898, "text": "150 raid level presets"},
+    {"t": 994, "text": "200 raid level presets"},
+    {"t": 1029, "text": "300 raid level presets"},
+    {"t": 1064, "text": "350 and 400 raid level presets"},
+    {"t": 1139, "text": "450 raid level presets"},
+    {"t": 1178, "text": "500 raid level presets and closing"}
+  ],
+  "topics": [
+    {
+      "name": "Invocations (Tombs of Amascut)",
+      "kind": "mechanic",
+      "claims": [
+        {"t": 0, "kind": "tip", "text": "Gnomonkey recommends slowly adding invocations one at a time until you reach a good spot to farm, preferably 500s eventually with good gear, and says the right choices depend on your gear and skill level."},
+        {"t": 0, "kind": "opinion", "text": "Gnomonkey groups invocations into ones you should basically always have on, ones to look to add in, and difficult ones that you will probably only add for combat achievements, pet transmogs and 500s."},
+        {"t": 33, "kind": "method", "text": "The life invocations in ToA (Try Again, Persistence, Softcore, Hardcore) set the number of lives you have before wiping; dying restarts you at the beginning of the room and may give crunchy scarab supplies."},
+        {"t": 66, "kind": "tip", "text": "Gnomonkey says you should always have at minimum Softcore on because salts are lost on death and there is no way to boost stats afterwards, so you cannot really continue the raid after dying."},
+        {"t": 66, "kind": "method", "text": "Softcore lets you exit the raid after dying to avoid the death fee, rather than instantly wiping like Hardcore; Gnomonkey says Hardcore can be turned on at higher raid levels for extra raid level."},
+        {"t": 1139, "kind": "tip", "text": "By 450 raid level Gnomonkey turns Softcore off and runs Hardcore in his example setups."},
+        {"t": 1064, "kind": "tip", "text": "At 400 with No Help Needed on, Gnomonkey notes you will not have enough salts if you die, so you need to be mindful of salt timers, but you can reset the raid without paying the 500k fee when you die."}
+      ]
+    },
+    {
+      "name": "Timer invocations (Tombs of Amascut)",
+      "kind": "mechanic",
+      "claims": [
+        {"t": 83, "kind": "method", "text": "The timer invocations Walk for It, Jog for It, Run for It and Sprint for It give points for finishing the raid within 40, 35, 30 and 25 minutes respectively."},
+        {"t": 98, "kind": "tip", "text": "As a rule of thumb Gnomonkey says you will only ever use Walk for It (40 minute timer) or turn the timers off entirely, since if you can consistently finish in under 25 minutes you should instead raise the raid level and slow down for more loot."},
+        {"t": 1178, "kind": "opinion", "text": "Gnomonkey turns the timer off in his 500 raid level example because he thinks the time pressure makes people get killed by nerves while learning 500s."},
+        {"t": 994, "kind": "tip", "text": "In a 200 example Gnomonkey says if your goal is to learn to be fast you can turn on speed timers for free points and use them to turn off a boss invocation you find annoying."}
+      ]
+    },
+    {
+      "name": "Supply invocations (Tombs of Amascut)",
+      "kind": "mechanic",
+      "claims": [
+        {"t": 113, "kind": "method", "text": "The supply invocations Need Some Help (66%), Need Less Help (33%) and No Help Needed (10%) reduce the supplies given by the spirit after killing two of the bosses."},
+        {"t": 113, "kind": "tip", "text": "Gnomonkey says the supply invocations make the raid much harder for learners and you really should not touch them until 300 plus; at 400s you can start turning them on if supplies are not an issue."},
+        {"t": 130, "kind": "method", "text": "With the supply invocations on you no longer get guaranteed two salts per pickup, so you may be forced to take double Power instead of Power into Life for free Warden supplies, and even the 66% invocation does not guarantee two salts."},
+        {"t": 156, "kind": "tip", "text": "Gnomonkey says you should not turn the supply invocations on until you do No Help Needed (10% of total supplies), going straight from full supplies to 10%, because the salt is so important."},
+        {"t": 1064, "kind": "tip", "text": "In his 400 raid level preset Gnomonkey turns on No Help Needed and says that if you are still using hybrid gear supplies should not be an issue by then."}
+      ]
+    },
+    {
+      "name": "Path invocations (Tombs of Amascut)",
+      "kind": "mechanic",
+      "claims": [
+        {"t": 168, "kind": "opinion", "text": "Gnomonkey calls the path invocations a noob trap that look like a great way to get raid level but should be among the last invocations you turn on."},
+        {"t": 168, "kind": "method", "text": "Walk the Path gives path upgrades with four levels total; each level adds 8% HP and damage to the bosses and adds more dangerous mechanics at level 2 and level 4."},
+        {"t": 188, "kind": "method", "text": "With Walk the Path, two bosses get a single higher level at random for each boss you kill; Pathseeker puts every boss at level 1 on entering, Pathfinder at level 2 and Pathmaster at level 3."},
+        {"t": 188, "kind": "tip", "text": "Gnomonkey says you can start taking Walk the Path around 350 plus and Pathseeker at 400, and that you almost never turn on the other two because level 4 bosses become incredibly difficult and tedious."},
+        {"t": 216, "kind": "method", "text": "A level 4 Zebak is notoriously hard because his projectiles have two-tick attack speed in enrage and you cannot flick his blood barrage anymore, so you are constantly chipped while it heals the boss."},
+        {"t": 246, "kind": "method", "text": "At Akkha, the Simon Says memory mechanic needs four icons by default, five at path level 2 and six at path level 4."},
+        {"t": 246, "kind": "method", "text": "Level 4 Kephri's bombs come out very quickly, land rapidly and deal a lot of damage, and at level 2 Kephri begins spawning sets of three swarms, which Gnomonkey says is annoying if you want to tag them."},
+        {"t": 276, "kind": "method", "text": "A high-level Baba only makes the boulders drop faster, and at Warden phase 3 the projectiles thrown by Baba's and Zebak's ghosts match their encounter levels, so level 4 bosses make them brutal."},
+        {"t": 302, "kind": "tip", "text": "Gnomonkey says higher boss HP from path levels does increase points per raid, but it is best to prioritise reaching Warden faster since killing him gives the most points."}
+      ]
+    },
+    {
+      "name": "Prayer invocations (Tombs of Amascut)",
+      "kind": "mechanic",
+      "claims": [
+        {"t": 302, "kind": "method", "text": "Quiet Prayers makes protection prayers 10% less effective, and Deadly Prayers drains prayer by 20% of total damage taken."},
+        {"t": 302, "kind": "opinion", "text": "Gnomonkey calls Quiet Prayers terrible and says he would never take it under any circumstances unless trying a 600 raid level, since even after the changes Zebak is still a serious issue with it."},
+        {"t": 329, "kind": "tip", "text": "Gnomonkey says Deadly Prayers is typically free at all raid levels from 150 to 500s and you basically want it always on given current restores and prayer regeneration, but you must watch for smiting yourself when healing with a yellow Keris."}
+      ]
+    },
+    {
+      "name": "Food invocations (Tombs of Amascut)",
+      "kind": "mechanic",
+      "claims": [
+        {"t": 364, "kind": "method", "text": "On a Diet stops you eating food, Dehydration stops you drinking healing potions (including brews and ambrosia), and Overly Draining makes special attacks cost 100% regardless of weapon."},
+        {"t": 364, "kind": "tip", "text": "Gnomonkey says On a Diet is one of the first invocations you turn on because brews are very strong, and food is typically only for irons who do not want to make many brews."},
+        {"t": 386, "kind": "method", "text": "Counterintuitively, On a Diet gives you more ambrosia on average, because the game picks supplies from either bandages or ambrosia and removing bandages means you get ambrosia, which Gnomonkey calls the most overpowered raid potion."},
+        {"t": 386, "kind": "opinion", "text": "Gnomonkey says Dehydration is a 450 plus invocation only, because it changes the playstyle too much for lower invocation levels and makes you rely on a yellow Keris for HP."},
+        {"t": 414, "kind": "opinion", "text": "Gnomonkey says to avoid Overly Draining at all costs; some people use it in 540s, but it is mainly used for pushing 500 without a yellow Keris, and adrenaline potions are extremely strong so you do not want to lack spec energy."}
+      ]
+    },
+    {
+      "name": "Kephri",
+      "kind": "boss",
+      "claims": [
+        {"t": 455, "kind": "method", "text": "Lively Larva makes more eggs spawn and more agile scarabs hatch at Kephri, which gives you fewer dung specials."},
+        {"t": 455, "kind": "method", "text": "Overlords spawns an additional bug with Kephri at phase changes (first melee, second a spinning scarab), and Gnomonkey says the Tombs of Amascut changes reduced the scarab's defence dramatically so it is a lot less bad now."},
+        {"t": 475, "kind": "method", "text": "Blowing Mud increases Kephri's dung attack to two rows instead of one; in solos it does nothing and is a free raid level because it needs two people to target."},
+        {"t": 475, "kind": "method", "text": "Medic makes swarms spawn constantly throughout the Kephri fight, and Aerial Assault increases Kephri's bombs from one by one to three by three with a higher max hit."},
+        {"t": 475, "kind": "tip", "text": "Gnomonkey says Lively Larva and Blowing Mud are must-takes at any raid level because they literally do not affect the fight."},
+        {"t": 504, "kind": "tip", "text": "Gnomonkey recommends starting Aerial Assault once you are comfortable, pushing from 150 to 200 plus, but says to keep it off in 8-man raids where teammates' area damage can hit you."},
+        {"t": 504, "kind": "opinion", "text": "Gnomonkey says Overlords used to be avoided until around 500 raid level but he now argues it is pretty much always worth using over 300, since the extra spawns' defence dropped so dramatically."},
+        {"t": 532, "kind": "opinion", "text": "Gnomonkey calls Medic the worst invocation in the entire game, says it should be deleted, and says never take it unless doing a 600 or a pet transmog because it makes the fight five times longer."}
+      ]
+    },
+    {
+      "name": "Zebak",
+      "kind": "boss",
+      "claims": [
+        {"t": 537, "kind": "method", "text": "Not Just a Head makes Zebak use blood barrage on you and summon a meatball that chases you and heals the boss if it touches you; Arterial Spray makes his blood magic hit harder; Blood Thinners splits the meatball into three that all chase you."},
+        {"t": 537, "kind": "method", "text": "Upset Stomach makes Zebak's acid pools five by five while jugs only clear a three by three area."},
+        {"t": 558, "kind": "opinion", "text": "Gnomonkey says Upset Stomach is the only difficult Zebak invocation and is completely doable if you stand in the right part of the room to reach the jugs, as shown in his guides."},
+        {"t": 589, "kind": "tip", "text": "Gnomonkey says the other three Zebak invocations are basically free and should always be on; the only issue is when three meatballs spawn at the same time as you need to explode a jug, and you can Woox walk or corner-trap the blood spawns."}
+      ]
+    },
+    {
+      "name": "Akkha",
+      "kind": "boss",
+      "claims": [
+        {"t": 619, "kind": "opinion", "text": "Gnomonkey says Akkha has some of the toughest boss invocations and that people struggle with him the most, so most avoid these until 400 to 450 plus."},
+        {"t": 619, "kind": "method", "text": "Double Trouble lets Akkha perform two specials at once, such as dropping orbs while doing Simon Says."},
+        {"t": 623, "kind": "method", "text": "Keep Back makes Akkha also melee you whenever he starts his ranged or mage attack animation, so you need to flick both styles and take much more chip damage."},
+        {"t": 623, "kind": "method", "text": "Stay Vigilant makes Akkha change prayer style every special, but if you do not get hit by him he never changes styles; Gnomonkey says this is effectively the butterfly invocation and you want it on."},
+        {"t": 654, "kind": "method", "text": "Feeling Special makes Akkha's detonate attack trigger in more directions (no effect in solos), gives only two ticks between memory blasts, and trailing orbs spawn an additional orb in front of the player."},
+        {"t": 654, "kind": "tip", "text": "Gnomonkey says Stay Vigilant is fairly free and necessary for butterfly, and Feeling Special is worth learning as a default because most teams run it."},
+        {"t": 687, "kind": "tip", "text": "Gnomonkey says not to turn on Double Trouble and Keep Back until maybe 450 plus or pet transmogs, as they are incredibly hard to learn and you will die a lot practicing them."},
+        {"t": 687, "kind": "opinion", "text": "Gnomonkey says Keep Back has become more doable after the update due to chip damage reduction and may be turned on around 400 if comfortable with Akkha, and that Double Trouble is really difficult and many avoid it even at 500s; he plans a guide for Keep Back."}
+      ]
+    },
+    {
+      "name": "Baba",
+      "kind": "boss",
+      "claims": [
+        {"t": 723, "kind": "method", "text": "Mind the Gap kills you if Baba knocks you back into the gap; Gotta Have Faith makes sarcophagi deal more damage when they break, scaling up the lower your prayer points are."},
+        {"t": 723, "kind": "method", "text": "Jungle Japes makes monkey adds drop bananas on death that damage you and stun you for three seconds, and Shaking Things Up makes the Baba shockwave shadow area five by five and a tick slower."},
+        {"t": 745, "kind": "method", "text": "Boulder Dash makes Baba's boulders faster, which makes the Boulder Skip a bit tougher."},
+        {"t": 745, "kind": "tip", "text": "Gnomonkey says Gotta Have Faith, Jungle Japes and Shaking Things Up are basically free and should always be on."},
+        {"t": 745, "kind": "tip", "text": "Gnomonkey suggests turning Mind the Gap on around 300 plus as a standard invocation, memorising Baba's 66% and 33% phase thresholds, and turning on Boulder Dash at around 350 to 400 plus."}
+      ]
+    },
+    {
+      "name": "Warden",
+      "kind": "boss",
+      "claims": [
+        {"t": 783, "kind": "method", "text": "Ancient Haste makes the Wardens charge faster in phase 1, giving more orb attacks (one extra orb special during the obelisk special), Acceleration makes the phase 2 Warden attack a tick faster, and Penetration makes the obelisk deal more damage and temporarily disables your prayers."},
+        {"t": 783, "kind": "method", "text": "Overclocked makes the phase 3 Warden attack at five ticks instead of six, Overclocked 2 makes it four ticks, and Insanity makes it three ticks, gives less reaction time on the skull special, and removes rows faster in phase 4 so you see last row more."},
+        {"t": 833, "kind": "tip", "text": "Gnomonkey says Acceleration is free and always on, and the Overclocked invocations are extremely free and give lots of points, so he argues you should not enter the raid without Overclocked 2 on at bare minimum."},
+        {"t": 833, "kind": "tip", "text": "Gnomonkey says Penetration is not something to start taking until around 300s and can be punishing at very high invocation levels, especially with Dehydration on."},
+        {"t": 867, "kind": "opinion", "text": "Gnomonkey calls Insanity the bane of learners but one of the easiest invocations to learn and a must-have at 50 raid level, saying it is better to learn Insanity than to turn on five other invocations to make up the points; he suggests turning it on around 300 to 350."}
+      ]
+    },
+    {
+      "name": "Tombs of Amascut presets by raid level",
+      "kind": "other",
+      "claims": [
+        {"t": 929, "kind": "tip", "text": "For 150 raid level presets, Gnomonkey's preferred setup has both Overclocked invocations on, preparing you for Insanity, and he does not think you should do 150s without both of them, though many early invocations are preference-based."},
+        {"t": 960, "kind": "tip", "text": "In his 150 setup the trickiest invocations are Aerial Assault and On a Diet, since you cannot eat the crunchy bugs on death, but with Moon (blue moon) hybrid gear you have plenty of space for supplies."},
+        {"t": 994, "kind": "tip", "text": "For 200s Gnomonkey adds more Warden invocations because they are fairly simple and speed up the fight, and suggests learning Mind the Gap early since it is required at higher invocation levels and only requires staying near the room edges."},
+        {"t": 1029, "kind": "tip", "text": "By 300s Gnomonkey says you should be comfortable with a faster Warden and that Insanity is a must, being 50 points to avoid higher boss invocations or fewer supplies; he highly recommends his first Insanity 300 preset."},
+        {"t": 1050, "kind": "tip", "text": "As an alternative to Insanity at 300, Gnomonkey says you can keep Walk the Path on, but the bosses will be stronger and you will have to turn on many Warden invocations and Baba and Aerial Assault."},
+        {"t": 1057, "kind": "tip", "text": "For 350s, Gnomonkey's standard setup has Insanity and Walk the Path on, a timer on, Softcore on and all Warden invocations on, adding more boss invocations."},
+        {"t": 1139, "kind": "tip", "text": "For 450s Gnomonkey adds Pathfinder (so some level 4 bosses appear), turns on both Baba invocations and all Warden invocations, and in a second example uses Pathseeker and adds Keep Back."},
+        {"t": 1169, "kind": "tip", "text": "At 450 with a yellow Keris, Gnomonkey says you could use Dehydration (worth 30 points) and take off annoying boss invocations like Boulder Dash."},
+        {"t": 1178, "kind": "tip", "text": "His typical 500 setup has Dehydration on as a must, the timer off, and Double Trouble on; a second setup without Double Trouble uses Overly Draining instead, which makes raids much longer and loses a Keris at phase 4 Warden."},
+        {"t": 1198, "kind": "tip", "text": "For a 500 without a yellow Keris, Gnomonkey says you can do it without Dehydration, but you must have everything else on including Overly Draining and Keep Back."}
+      ]
+    },
+    {
+      "name": "Gnomonkey",
+      "kind": "person",
+      "claims": [
+        {"t": 1236, "kind": "event", "text": "At the end of this video Gnomonkey says he is working on a 300 ironman Tombs of Amascut guide, a bunch of 500 guides and potentially transmog guides."},
+        {"t": 0, "kind": "opinion", "text": "In the description Gnomonkey says he cannot tell people how to go from a 150 to 175 raid level and that invocation choices depend heavily on skill and gear, since he cannot make a guide for 10,000 different people."}
+      ]
+    }
+  ]
+}

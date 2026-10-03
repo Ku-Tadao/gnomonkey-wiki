@@ -1,0 +1,219 @@
+{
+  "id": "tTn3JmSD4fI",
+  "title": "HCIM SCUFFED = STUFFED TBOW (OSRS)",
+  "date": "2025-03-20",
+  "type": "challenge",
+  "summary": "Gnomonkey and his wife Hedron duo a Chambers of Xeric raid as Ironmen on the Hardcore Ironman and its backup account, using twin flame staves and a lot of chaotic prep. After a long, death-filled raid they get a Twisted bow drop on the HCIM at 115 kill count, skipping the Bofa grind and not needing Confliction gauntlets.",
+  "outline": [
+    {
+      "t": 0,
+      "text": "Raid preparation and splitting supplies, brews and the enhance potion"
+    },
+    {
+      "t": 149,
+      "text": "Tekton encounter"
+    },
+    {
+      "t": 366,
+      "text": "Ice Demon battle"
+    },
+    {
+      "t": 627,
+      "text": "Vespula challenge and prayer potion shortage"
+    },
+    {
+      "t": 862,
+      "text": "Vasa and prep work: farming, raid potions and herb patches as Ironmen"
+    },
+    {
+      "t": 1193,
+      "text": "Refilling supplies and planning for the Great Olm"
+    },
+    {
+      "t": 1621,
+      "text": "Head phase mechanics, hands and the twin flame staff in a duo"
+    },
+    {
+      "t": 2115,
+      "text": "Overcoming obstacles: deaths, supply shortage and the long Olm kill"
+    },
+    {
+      "t": 2523,
+      "text": "Final boss and rewards: purple chest and the Twisted bow drop"
+    }
+  ],
+  "topics": [
+    {
+      "name": "Twisted bow",
+      "kind": "item",
+      "claims": [
+        {
+          "t": 2662,
+          "kind": "record",
+          "text": "Gnomonkey received a Twisted bow from Chambers of Xeric on his Hardcore Ironman (HCIM) in a duo raid, at 115 kill count, which he considers his first Twisted bow."
+        },
+        {
+          "t": 0,
+          "kind": "record",
+          "text": "In the video description Gnomonkey says he got the Twisted bow on the HCIM and skipped the Bofa grind, with no Confliction gauntlets required."
+        },
+        {
+          "t": 0,
+          "kind": "event",
+          "text": "The video description says Hedron was 60 kill count dry at Chambers of Xeric in general and gave Gnomonkey all her RNG for the drop."
+        },
+        {
+          "t": 2756,
+          "kind": "event",
+          "text": "Gnomonkey said he did not even have a Xeric's talisman to put the Twisted bow on, and viewers reacted in chat that sending a raid with his wife may have been the key."
+        }
+      ]
+    },
+    {
+      "name": "Chambers of Xeric",
+      "kind": "raid",
+      "claims": [
+        {
+          "t": 0,
+          "kind": "event",
+          "text": "Gnomonkey and Hedron do a duo Chambers of Xeric raid as Ironmen, each on a Hardcore Ironman account, to celebrate the Fire cape on the backup HCIM with what Gnomonkey calls the ultimate friendship raid."
+        },
+        {
+          "t": 0,
+          "kind": "event",
+          "text": "The video description says Gnomonkey had a few deaths and Hedron about 7 deaths total, with her playing on the backup HCIM."
+        },
+        {
+          "t": 84,
+          "kind": "method",
+          "text": "Because they are Ironmen, the duo split the enhance potions: the Tekton and Vespula rooms each give one enhance potion, so they plan who takes each and when the other joins briefly."
+        },
+        {
+          "t": 2662,
+          "kind": "event",
+          "text": "The raid ends with a purple in the chest, the Twisted bow, after both players had died repeatedly; Gnomonkey said he died about seven times and had about 1.5k points."
+        },
+        {
+          "t": 2409,
+          "kind": "event",
+          "text": "Gnomonkey says it was the longest Great Olm fight he had ever done, partly because he had no stamina and few restores left."
+        },
+        {
+          "t": 2662,
+          "kind": "event",
+          "text": "Gnomonkey says the raid was the freest of his life despite the many deaths and a lot of pre-raid dithering."
+        }
+      ]
+    },
+    {
+      "name": "Ironman raid supplies",
+      "kind": "mechanic",
+      "claims": [
+        {
+          "t": 634,
+          "kind": "opinion",
+          "text": "Gnomonkey complains that as an Ironman, being unable to share raid potions with his partner is a pain, saying Jagex should just let people have the raid potions."
+        },
+        {
+          "t": 664,
+          "kind": "opinion",
+          "text": "Gnomonkey says you cannot get a rake from the prep room scavengers, so you have to go to the farming room to rake the herb patches, which he finds frustrating."
+        },
+        {
+          "t": 1297,
+          "kind": "tip",
+          "text": "Gnomonkey says Ironmen can make weaker minus-tier raid potions at 52 Herblore (transcribed as 'Xerx minus') to make their own supplies."
+        },
+        {
+          "t": 1329,
+          "kind": "opinion",
+          "text": "Gnomonkey says the herb patches in the raid give good herb XP, and complains that as an Ironman you cannot take items from your party members or share raid supplies."
+        },
+        {
+          "t": 2442,
+          "kind": "event",
+          "text": "During the Olm phase, one of the duo says they lack the Farming level to plant a Buchu and are told to plant anyway, after Gnomonkey says he broke the plant."
+        }
+      ]
+    },
+    {
+      "name": "Vespula",
+      "kind": "boss",
+      "claims": [
+        {
+          "t": 902,
+          "kind": "event",
+          "text": "Gnomonkey does the whole Vespula fight with a crystal bow and needs the three prayer potions he brought, with Hedron noting that it is not many."
+        },
+        {
+          "t": 873,
+          "kind": "tip",
+          "text": "Gnomonkey tells Hedron during the Vespula fight that you have to stall two ticks."
+        },
+        {
+          "t": 994,
+          "kind": "event",
+          "text": "Vespula drops an enhance potion in the raid, so the enhance is available immediately after the kill."
+        }
+      ]
+    },
+    {
+      "name": "Great Olm",
+      "kind": "boss",
+      "claims": [
+        {
+          "t": 1610,
+          "kind": "tip",
+          "text": "Gnomonkey asks if he can cripple the Great Olm's hand and is told probably; later he says the twin flame staff 'goes hard' in the duo, hitting seventeens."
+        },
+        {
+          "t": 2291,
+          "kind": "event",
+          "text": "At the head phase Gnomonkey and Hedron could not make the Olm turn, the heal and defense levels kept resetting, and Gnomonkey says this is what the twin flame staff does in a duo."
+        },
+        {
+          "t": 2523,
+          "kind": "event",
+          "text": "After Gnomonkey died at the head phase to a flame wall with 6 HP, the pair still finished the kill after a long head phase, and the drop was a Twisted bow."
+        }
+      ]
+    },
+    {
+      "name": "Hardcore Ironman",
+      "kind": "account",
+      "claims": [
+        {
+          "t": 0,
+          "kind": "event",
+          "text": "Gnomonkey says the Twisted bow was received on the HCIM unlocked account at 115 kill count, and that they were heading to the Colosseum the next day with gold body paint."
+        },
+        {
+          "t": 0,
+          "kind": "event",
+          "text": "The raid was run on Hedron's backup HCIM to celebrate it earning its Fire cape."
+        },
+        {
+          "t": 1444,
+          "kind": "opinion",
+          "text": "Gnomonkey says Chambers of Xeric is a really good group raid as an Ironman, and that it could not be any better if Jagex tried."
+        }
+      ]
+    },
+    {
+      "name": "Hedron",
+      "kind": "person",
+      "claims": [
+        {
+          "t": 0,
+          "kind": "event",
+          "text": "Gnomonkey refers to Hedron as his wife and the two duo the raid together."
+        },
+        {
+          "t": 2756,
+          "kind": "event",
+          "text": "Gnomonkey says Hedron gave him all her RNG and viewers suggested sending a raid with his wife was the key to the Twisted bow drop."
+        }
+      ]
+    }
+  ]
+}

@@ -1,147 +1,442 @@
 {
-  "id": "8JxarzSiiME",
-  "title": "COX CM Solo Teaching Stream OSRS",
-  "date": "2023-06-14",
-  "type": "guide",
-  "summary": "Gnomonkey narrates a speed-oriented solo Chambers of Xeric Challenge Mode run, room by room, covering Tekton, Ice Demon, Vanguards, Thieving, the Tightrope skip, Vasa, Muttadiles and Olm. He describes his gear setups and says it took him about five attempts to get a decent Olm for the stream; his personal best is 27:04.20.",
-  "outline": [
-    {"t": 0, "text": "Tekton and early game setup"},
-    {"t": 132, "text": "Ice Demon strategy: kindling, axe trick and the five-minute cutoff"},
-    {"t": 308, "text": "Vanguards encounter: reset numbers, weapon styles and flicking"},
-    {"t": 448, "text": "Vespula and thieving room, light bearer versus thieving cape"},
-    {"t": 621, "text": "Tightrope skip with redemption and tick eating"},
-    {"t": 816, "text": "Vasa and Vasa crystals, brewing on the 15s"},
-    {"t": 986, "text": "Muttadiles and movement, tendril skip"},
-    {"t": 1251, "text": "Olm final battle: attack cycles, three-to-one, four-to-one"},
-    {"t": 1925, "text": "Setups discussion: beginner and advanced gear and light bearer"}
-  ],
-  "topics": [
+ "id": "8JxarzSiiME",
+ "title": "COX CM Solo Teaching Stream OSRS",
+ "date": "2023-06-14",
+ "type": "guide",
+ "summary": "Gnomonkey narrates a speed-oriented solo Chambers of Xeric Challenge Mode run, room by room, covering Tekton, Ice Demon, Vanguards, Thieving, the Tightrope skip, Vasa, Muttadiles and Olm. He describes his gear setups and says it took him about five attempts to get a decent Olm for the stream; his personal best is 27:04.20.",
+ "outline": [
+  {
+   "t": 0,
+   "text": "Tekton and early game setup"
+  },
+  {
+   "t": 132,
+   "text": "Ice Demon strategy: kindling, axe trick and the five-minute cutoff"
+  },
+  {
+   "t": 308,
+   "text": "Vanguards encounter: reset numbers, weapon styles and flicking"
+  },
+  {
+   "t": 448,
+   "text": "Vespula and thieving room, light bearer versus thieving cape"
+  },
+  {
+   "t": 621,
+   "text": "Tightrope skip with redemption and tick eating"
+  },
+  {
+   "t": 816,
+   "text": "Vasa and Vasa crystals, brewing on the 15s"
+  },
+  {
+   "t": 986,
+   "text": "Muttadiles and movement, tendril skip"
+  },
+  {
+   "t": 1251,
+   "text": "Olm final battle: attack cycles, three-to-one, four-to-one"
+  },
+  {
+   "t": 1925,
+   "text": "Setups discussion: beginner and advanced gear and light bearer"
+  }
+ ],
+ "topics": [
+  {
+   "name": "Chambers of Xeric",
+   "kind": "raid",
+   "claims": [
     {
-      "name": "Chambers of Xeric",
-      "kind": "raid",
-      "claims": [
-        {"t": 0, "kind": "record", "text": "Gnomonkey's personal best for a solo Chambers of Xeric Challenge Mode is 27:04.20, and the record is 26:38 by Rot Salad (per the video description)."},
-        {"t": 0, "kind": "requirement", "text": "Gnomonkey says Challenge Mode has the highest gear requirements of any content in the game; it is doable without an Inquisitor's mace but he highly recommends having everything else, and calls Twisted bow, Tumeken's Shadow and Inquisitor's mace all incredibly important."},
-        {"t": 0, "kind": "event", "text": "Gnomonkey says it took him about five attempts to get a decent Olm for this teaching stream and that he kept putting the stream off because he felt it was not a good showcase."},
-        {"t": 7224, "kind": "tip", "text": "Gnomonkey uses the Entity Hider plugin with the 'hide dead monsters' option so monsters vanish as soon as you kill them."},
-        {"t": 15, "kind": "tip", "text": "Gnomonkey uses True Tile markers on all the crabs and orbs at Tekton so he can tell exactly what is happening."},
-        {"t": 1912, "kind": "opinion", "text": "Gnomonkey considers Challenge Mode as an Ironman some of the worst content ever, though it is doable; he mentions people do tightrope with a locator orb."}
-      ]
+     "t": 0,
+     "kind": "record",
+     "text": "Gnomonkey's personal best for a solo Chambers of Xeric Challenge Mode is 27:04.20, and the record is 26:38 by Rot Salad (per the video description)."
     },
     {
-      "name": "Tekton",
-      "kind": "boss",
-      "claims": [
-        {"t": 88, "kind": "tip", "text": "Gnomonkey says he stays on Tekton for anything under 250 and that doing the hits in an exact order lets everything fit perfectly."},
-        {"t": 88, "kind": "tip", "text": "At Tekton, Gnomonkey says you make him swing twice on each side."},
-        {"t": 117, "kind": "stat", "text": "Gnomonkey notes hits of 46 for 3 hits and 46 for 2 hits on Tekton as a good result."},
-        {"t": 147, "kind": "tip", "text": "Gnomonkey says if the crystal despawns late, you can wait a tick outside the crystal to get the right crab spawn every single time."},
-        {"t": 147, "kind": "tip", "text": "Gnomonkey eats a sweet to delay his Twisted bow shot so it attacks at the right time, otherwise it can unlight the crab, then does hammer, cast, hammer, cast."},
-        {"t": 150, "kind": "tip", "text": "Gnomonkey says the south pillar falling on wave 50 plus is not ideal but not a big deal; the only pillar you care about is the north one."}
-      ]
+     "t": 0,
+     "kind": "requirement",
+     "text": "Gnomonkey says Challenge Mode has the highest gear requirements of any content in the game; it is doable without an Inquisitor's mace but he highly recommends having everything else, and calls Twisted bow, Tumeken's Shadow and Inquisitor's mace all incredibly important."
     },
     {
-      "name": "Ice Demon",
-      "kind": "boss",
-      "claims": [
-        {"t": 210, "kind": "tip", "text": "At Ice Demon, Gnomonkey drops his tinderbox and equips an axe in a particular inventory corner, which keeps the inventory in place for banking afterwards."},
-        {"t": 210, "kind": "tip", "text": "Chopping the Ice Demon roots/trees happens every five ticks; you can move between trees as long as you are at the tree when you chop, which gives a lower chance of chopping the sapling you want to keep up."},
-        {"t": 242, "kind": "tip", "text": "Gnomonkey says you need all but three kindling before you go, so it is roughly two and a half braziers' worth."},
-        {"t": 274, "kind": "opinion", "text": "Gnomonkey says in a speedrun it is better to have the south pillar gone and optimal to have both pillars gone."},
-        {"t": 308, "kind": "tip", "text": "Gnomonkey wants the Ice Demon to spawn at around low four minutes, and he uses the light bearer to spec twice or until he hits."},
-        {"t": 339, "kind": "tip", "text": "Gnomonkey's cutoff out of Ice Demon is five minutes when going for a record; if it is slower he would normally reset."},
-        {"t": 2064, "kind": "opinion", "text": "Gnomonkey runs Lightbearer partly because it gives an extra Ice Demon spec, and many of his runs end because he does not hit a hammer on Ice Demon."}
-      ]
+     "t": 0,
+     "kind": "event",
+     "text": "Gnomonkey says it took him about five attempts to get a decent Olm for this teaching stream and that he kept putting the stream off because he felt it was not a good showcase."
     },
     {
-      "name": "Vanguards",
-      "kind": "boss",
-      "claims": [
-        {"t": 370, "kind": "tip", "text": "Gnomonkey says to flick Rigour a little at Vanguards because you only need a little prayer; it is not an exact science."},
-        {"t": 434, "kind": "stat", "text": "Gnomonkey says anything below about 110 on Vanguards is really fast and his fastest is about 50 seconds."},
-        {"t": 461, "kind": "tip", "text": "Gnomonkey spams sweets on the way to Vanguards because you need all the health you can get."},
-        {"t": 461, "kind": "tip", "text": "For Vanguards, Gnomonkey sets his staff on long range, bow on accurate and scythe on aggressive; with Blood Fury and Brimstone ring instead of Berserker ring (torture) you want it on accurate."},
-        {"t": 462, "kind": "tip", "text": "Gnomonkey says to take your boots off for the first hits at Vanguards, and normally to cast at the melee Vanguard."},
-        {"t": 491, "kind": "stat", "text": "Gnomonkey's maximum Twisted bow hit on Vanguards is 83."},
-        {"t": 491, "kind": "tip", "text": "Gnomonkey says you typically follow the ranger through the whole room and like swinging at a Vanguard when it is below 50."},
-        {"t": 525, "kind": "mechanic", "text": "The numbers above the Vanguards are the health they reset at: if you hit past that number it resets, and once both are at reset the numbers disappear and you just kill them."},
-        {"t": 525, "kind": "tip", "text": "At the end of Vanguards, once they are at reset, Gnomonkey follows the melee Vanguard because he can safespot it and be completely safe."},
-        {"t": 559, "kind": "tip", "text": "Gnomonkey flicks Masori in Vanguards because Ink (Vanguard) has no defence out of the armour."},
-        {"t": 576, "kind": "stat", "text": "Gnomonkey notes his Vanguards time here was 230, calling it the most average Vanguards of his life."},
-        {"t": 1925, "kind": "tip", "text": "Gnomonkey recommends the Light bearer for an extra claw spec on Vanguards, on Muttadiles and a bunch of hammers at Olm."}
-      ]
+     "t": 7224,
+     "kind": "tip",
+     "text": "Gnomonkey uses the Entity Hider plugin with the 'hide dead monsters' option so monsters vanish as soon as you kill them."
     },
     {
-      "name": "Vespula and thieving",
-      "kind": "mechanic",
-      "claims": [
-        {"t": 619, "kind": "tip", "text": "In the Thieving room, Gnomonkey runs Light bearer for consistency but says you can swap it for a Thieving cape, which at 100 gives a chance at four grubs because it boosts your Thieving level."},
-        {"t": 650, "kind": "tip", "text": "In the Thieving room, you need to get the grubs as quickly as possible and keep feeding the Vespula; whenever she is not eating grubs she heals slowly over time."},
-        {"t": 680, "kind": "stat", "text": "Gnomonkey says the Thieving room needs 30 grubs total to finish Vespula, and a counter shows how many you still need."},
-        {"t": 714, "kind": "tip", "text": "Gnomonkey stresses being fast banking in the Thieving room, because bad thieving luck can lose a lot of time."},
-        {"t": 2034, "kind": "stat", "text": "Gnomonkey says a Thieving cape is maybe a 20-30 second time save and can boost Thieving to 110-120 if you are lucky, or give no help at all."}
-      ]
+     "t": 15,
+     "kind": "tip",
+     "text": "Gnomonkey uses True Tile markers on all the crabs and orbs at Tekton so he can tell exactly what is happening."
     },
     {
-      "name": "Tightrope skip",
-      "kind": "mechanic",
-      "claims": [
-        {"t": 805, "kind": "method", "text": "The basic and most common tightrope skip uses Redemption, low defence gear and tick eating: you click to the crystal, pick it up, click back, next sweep click back across."},
-        {"t": 838, "kind": "method", "text": "On the tightrope skip you use the heal from your health to tick eat on the way there and proc Redemption, which gives enough health to survive the barrage of hits."},
-        {"t": 838, "kind": "tip", "text": "Gnomonkey recommends Kirby's guide for tightrope skips because it covers every type of skip thoroughly."},
-        {"t": 838, "kind": "method", "text": "Gnomonkey tick eats a peanut on the way back so it procs; the peanut gnaws all the damage in the queue."}
-      ]
-    },
-    {
-      "name": "Vasa Nistirio",
-      "kind": "boss",
-      "claims": [
-        {"t": 1003, "kind": "tip", "text": "Gnomonkey says a really good Vasa is anything below a two-crystal; a one-crystal Vasa is great, and killing it before the second crystal makes it about a minute Vasa."},
-        {"t": 1003, "kind": "tip", "text": "At Vasa, Gnomonkey says to always be moving when on cooldown; the red tiles he marked are where you get dragged."},
-        {"t": 1086, "kind": "opinion", "text": "Gnomonkey says Void Waker is reduced on Vasa crystals, which makes it bad there, though it would be great on Vanguards."},
-        {"t": 1086, "kind": "tip", "text": "At Vasa, you drag it over and can flick Masori prayer in between for some defence; between casts you can equip Masori to avoid some damage."},
-        {"t": 1147, "kind": "tip", "text": "Gnomonkey says to drink brew whenever your overload is about to refresh, every 15 seconds, so you are full health; brewing on the 15s is really important."},
-        {"t": 889, "kind": "tip", "text": "Gnomonkey says Bofa at Vasa is not the play at all and the rune crossbow is better."},
-        {"t": 969, "kind": "tip", "text": "Gnomonkey says you have one Revite for the Vasa floor and that is all you get; if you did not get a revite at Vanguards you only get one from Muttadiles."}
-      ]
-    },
-    {
-      "name": "Muttadiles",
-      "kind": "boss",
-      "claims": [
-        {"t": 1180, "kind": "tip", "text": "Gnomonkey uses a tendril skip at Muttadiles by clicking to a spot so the tendril spawns behind him and he runs straight past it."},
-        {"t": 1180, "kind": "tip", "text": "The Muttadiles trees work the same as Ice Demon trees: every five ticks, as long as you are chopping when it gets red."},
-        {"t": 1239, "kind": "tip", "text": "Gnomonkey says Muttadiles is four-tick, so you five-tick step under it exactly like Nex."},
-        {"t": 1268, "kind": "stat", "text": "Gnomonkey says Muttadiles max hit is 38."}
-      ]
-    },
-    {
-      "name": "Great Olm",
-      "kind": "boss",
-      "claims": [
-        {"t": 1327, "kind": "stat", "text": "Gnomonkey says the Great Olm in his run was one hand at 100 HP with the Muttadiles floor first, and that normally Muttadiles would look more painful."},
-        {"t": 1357, "kind": "mechanic", "text": "At Olm's hand, the numbers show the number of the attack cycle; Gnomonkey hits on three, long range cast on four, then hits on five and resets, a five attack cycle."},
-        {"t": 1413, "kind": "tip", "text": "At Olm, the big thing with four-to-one is reading two attacks and reacting to what he does; if he does two auto attacks you do a three-to-one."},
-        {"t": 1475, "kind": "tip", "text": "At Olm, you can tick eat the teleport if you click right after it teleports you."},
-        {"t": 1530, "kind": "tip", "text": "At Olm's melee hand, Gnomonkey tanks a hit in the middle because that nulls the flame wall."},
-        {"t": 1557, "kind": "tip", "text": "At Olm, make sure you attack the tick after he attacks."},
-        {"t": 1502, "kind": "stat", "text": "Gnomonkey says a low two-minute Olm hand phase is good, he has had a couple of 150s and 140s, and his stream phases ran 230, 211 and 230."},
-        {"t": 1789, "kind": "tip", "text": "Gnomonkey flicks the melee hand's prayer because you want prayer for Vile Vigor; he uses prayer points for run energy and ended the Olm with 50 prayer points to spare."},
-        {"t": 1779, "kind": "opinion", "text": "Gnomonkey called this stream's Olm about as bad as Olm can go, saying every phase was probably 20 to 30 seconds longer than it should have been."},
-        {"t": 1779, "kind": "tip", "text": "Gnomonkey uncharges his Tumeken's Shadow to get the runes he needs for Vile Vigor at Olm."}
-      ]
-    },
-    {
-      "name": "Challenge Mode setups",
-      "kind": "item",
-      "claims": [
-        {"t": 1945, "kind": "method", "text": "Gnomonkey's beginner-to-intermediate speed setup uses Brimstone ring and Blood Fury, which helps survive Vanguards and Olm, plus a stamina potion."},
-        {"t": 1972, "kind": "tip", "text": "Gnomonkey says to use one stamina dose at Vespula and keep the three other doses for Olm."},
-        {"t": 1972, "kind": "tip", "text": "Gnomonkey says Brimstone plus Blood Fury is a max hit threshold setup, and with it you put the scythe on accurate instead of aggressive; he says Brimstone is a little better than Berserker ring with Blood Fury."},
-        {"t": 2002, "kind": "method", "text": "An advanced setup skips the stamina: torture plus Brimstone (with Berserker ring) gets to 60 max hit on guardians, and Gnomonkey says you want the accuracy from torture and the max hits from Berserker ring."},
-        {"t": 2034, "kind": "opinion", "text": "Gnomonkey says he used to run a Thieving cape but now runs the Lightbearer because it gets an extra Ice Demon spec, an extra claw at Vanguards and Muttadiles and a bunch of hammers at Olm."},
-        {"t": 2091, "kind": "opinion", "text": "Gnomonkey does not like camping the Light bearer with Blood Fury, saying it costs a lot of max hit on the scythe for little gain; bringing it as a switch makes sense."}
-      ]
+     "t": 1912,
+     "kind": "opinion",
+     "text": "Gnomonkey considers Challenge Mode as an Ironman some of the worst content ever, though it is doable; he mentions people do tightrope with a locator orb."
     }
-  ]
+   ]
+  },
+  {
+   "name": "Tekton",
+   "kind": "boss",
+   "claims": [
+    {
+     "t": 88,
+     "kind": "tip",
+     "text": "Gnomonkey says he stays on Tekton for anything under 250 and that doing the hits in an exact order lets everything fit perfectly."
+    },
+    {
+     "t": 88,
+     "kind": "tip",
+     "text": "At Tekton, Gnomonkey says you make him swing twice on each side."
+    },
+    {
+     "t": 117,
+     "kind": "stat",
+     "text": "Gnomonkey notes hits of 46 for 3 hits and 46 for 2 hits on Tekton as a good result."
+    },
+    {
+     "t": 147,
+     "kind": "tip",
+     "text": "Gnomonkey says if the crystal despawns late, you can wait a tick outside the crystal to get the right crab spawn every single time."
+    },
+    {
+     "t": 147,
+     "kind": "tip",
+     "text": "Gnomonkey eats a sweet to delay his Twisted bow shot so it attacks at the right time, otherwise it can unlight the crab, then does hammer, cast, hammer, cast."
+    },
+    {
+     "t": 150,
+     "kind": "tip",
+     "text": "Gnomonkey says the south pillar falling on wave 50 plus is not ideal but not a big deal; the only pillar you care about is the north one."
+    }
+   ]
+  },
+  {
+   "name": "Ice Demon",
+   "kind": "boss",
+   "claims": [
+    {
+     "t": 210,
+     "kind": "tip",
+     "text": "At Ice Demon, Gnomonkey drops his tinderbox and equips an axe in a particular inventory corner, which keeps the inventory in place for banking afterwards."
+    },
+    {
+     "t": 210,
+     "kind": "tip",
+     "text": "Chopping the Ice Demon roots/trees happens every five ticks; you can move between trees as long as you are at the tree when you chop, which gives a lower chance of chopping the sapling you want to keep up."
+    },
+    {
+     "t": 242,
+     "kind": "tip",
+     "text": "Gnomonkey says you need all but three kindling before you go, so it is roughly two and a half braziers' worth."
+    },
+    {
+     "t": 274,
+     "kind": "opinion",
+     "text": "Gnomonkey says in a speedrun it is better to have the south pillar gone and optimal to have both pillars gone."
+    },
+    {
+     "t": 308,
+     "kind": "tip",
+     "text": "Gnomonkey wants the Ice Demon to spawn at around low four minutes, and he uses the light bearer to spec twice or until he hits."
+    },
+    {
+     "t": 339,
+     "kind": "tip",
+     "text": "Gnomonkey's cutoff out of Ice Demon is five minutes when going for a record; if it is slower he would normally reset."
+    },
+    {
+     "t": 2064,
+     "kind": "opinion",
+     "text": "Gnomonkey runs Lightbearer partly because it gives an extra Ice Demon spec, and many of his runs end because he does not hit a hammer on Ice Demon."
+    }
+   ]
+  },
+  {
+   "name": "Vanguards",
+   "kind": "boss",
+   "claims": [
+    {
+     "t": 370,
+     "kind": "tip",
+     "text": "Gnomonkey says to flick Rigour a little at Vanguards because you only need a little prayer; it is not an exact science."
+    },
+    {
+     "t": 434,
+     "kind": "stat",
+     "text": "Gnomonkey says anything below about 110 on Vanguards is really fast and his fastest is about 50 seconds."
+    },
+    {
+     "t": 461,
+     "kind": "tip",
+     "text": "Gnomonkey spams sweets on the way to Vanguards because you need all the health you can get."
+    },
+    {
+     "t": 461,
+     "kind": "tip",
+     "text": "For Vanguards, Gnomonkey sets his staff on long range, bow on accurate and scythe on aggressive; with Blood Fury and Brimstone ring instead of Berserker ring (torture) you want it on accurate."
+    },
+    {
+     "t": 462,
+     "kind": "tip",
+     "text": "Gnomonkey says to take your boots off for the first hits at Vanguards, and normally to cast at the melee Vanguard."
+    },
+    {
+     "t": 491,
+     "kind": "stat",
+     "text": "Gnomonkey's maximum Twisted bow hit on Vanguards is 83."
+    },
+    {
+     "t": 491,
+     "kind": "tip",
+     "text": "Gnomonkey says you typically follow the ranger through the whole room and like swinging at a Vanguard when it is below 50."
+    },
+    {
+     "t": 525,
+     "kind": "method",
+     "text": "The numbers above the Vanguards are the health they reset at: if you hit past that number it resets, and once both are at reset the numbers disappear and you just kill them."
+    },
+    {
+     "t": 525,
+     "kind": "tip",
+     "text": "At the end of Vanguards, once they are at reset, Gnomonkey follows the melee Vanguard because he can safespot it and be completely safe."
+    },
+    {
+     "t": 559,
+     "kind": "tip",
+     "text": "Gnomonkey flicks Masori in Vanguards because Ink (Vanguard) has no defence out of the armour."
+    },
+    {
+     "t": 576,
+     "kind": "stat",
+     "text": "Gnomonkey notes his Vanguards time here was 230, calling it the most average Vanguards of his life."
+    },
+    {
+     "t": 1925,
+     "kind": "tip",
+     "text": "Gnomonkey recommends the Light bearer for an extra claw spec on Vanguards, on Muttadiles and a bunch of hammers at Olm."
+    }
+   ]
+  },
+  {
+   "name": "Vespula and thieving",
+   "kind": "mechanic",
+   "claims": [
+    {
+     "t": 619,
+     "kind": "tip",
+     "text": "In the Thieving room, Gnomonkey runs Light bearer for consistency but says you can swap it for a Thieving cape, which at 100 gives a chance at four grubs because it boosts your Thieving level."
+    },
+    {
+     "t": 650,
+     "kind": "tip",
+     "text": "In the Thieving room, you need to get the grubs as quickly as possible and keep feeding the Vespula; whenever she is not eating grubs she heals slowly over time."
+    },
+    {
+     "t": 680,
+     "kind": "stat",
+     "text": "Gnomonkey says the Thieving room needs 30 grubs total to finish Vespula, and a counter shows how many you still need."
+    },
+    {
+     "t": 714,
+     "kind": "tip",
+     "text": "Gnomonkey stresses being fast banking in the Thieving room, because bad thieving luck can lose a lot of time."
+    },
+    {
+     "t": 2034,
+     "kind": "stat",
+     "text": "Gnomonkey says a Thieving cape is maybe a 20-30 second time save and can boost Thieving to 110-120 if you are lucky, or give no help at all."
+    }
+   ]
+  },
+  {
+   "name": "Tightrope skip",
+   "kind": "mechanic",
+   "claims": [
+    {
+     "t": 805,
+     "kind": "method",
+     "text": "The basic and most common tightrope skip uses Redemption, low defence gear and tick eating: you click to the crystal, pick it up, click back, next sweep click back across."
+    },
+    {
+     "t": 838,
+     "kind": "method",
+     "text": "On the tightrope skip you use the heal from your health to tick eat on the way there and proc Redemption, which gives enough health to survive the barrage of hits."
+    },
+    {
+     "t": 838,
+     "kind": "tip",
+     "text": "Gnomonkey recommends Kirby's guide for tightrope skips because it covers every type of skip thoroughly."
+    },
+    {
+     "t": 838,
+     "kind": "method",
+     "text": "Gnomonkey tick eats a peanut on the way back so it procs; the peanut gnaws all the damage in the queue."
+    }
+   ]
+  },
+  {
+   "name": "Vasa Nistirio",
+   "kind": "boss",
+   "claims": [
+    {
+     "t": 1003,
+     "kind": "tip",
+     "text": "Gnomonkey says a really good Vasa is anything below a two-crystal; a one-crystal Vasa is great, and killing it before the second crystal makes it about a minute Vasa."
+    },
+    {
+     "t": 1003,
+     "kind": "tip",
+     "text": "At Vasa, Gnomonkey says to always be moving when on cooldown; the red tiles he marked are where you get dragged."
+    },
+    {
+     "t": 1086,
+     "kind": "opinion",
+     "text": "Gnomonkey says Void Waker is reduced on Vasa crystals, which makes it bad there, though it would be great on Vanguards."
+    },
+    {
+     "t": 1086,
+     "kind": "tip",
+     "text": "At Vasa, you drag it over and can flick Masori prayer in between for some defence; between casts you can equip Masori to avoid some damage."
+    },
+    {
+     "t": 1147,
+     "kind": "tip",
+     "text": "Gnomonkey says to drink brew whenever your overload is about to refresh, every 15 seconds, so you are full health; brewing on the 15s is really important."
+    },
+    {
+     "t": 889,
+     "kind": "tip",
+     "text": "Gnomonkey says Bofa at Vasa is not the play at all and the rune crossbow is better."
+    },
+    {
+     "t": 969,
+     "kind": "tip",
+     "text": "Gnomonkey says you have one Revite for the Vasa floor and that is all you get; if you did not get a revite at Vanguards you only get one from Muttadiles."
+    }
+   ]
+  },
+  {
+   "name": "Muttadiles",
+   "kind": "boss",
+   "claims": [
+    {
+     "t": 1180,
+     "kind": "tip",
+     "text": "Gnomonkey uses a tendril skip at Muttadiles by clicking to a spot so the tendril spawns behind him and he runs straight past it."
+    },
+    {
+     "t": 1180,
+     "kind": "tip",
+     "text": "The Muttadiles trees work the same as Ice Demon trees: every five ticks, as long as you are chopping when it gets red."
+    },
+    {
+     "t": 1239,
+     "kind": "tip",
+     "text": "Gnomonkey says Muttadiles is four-tick, so you five-tick step under it exactly like Nex."
+    },
+    {
+     "t": 1268,
+     "kind": "stat",
+     "text": "Gnomonkey says Muttadiles max hit is 38."
+    }
+   ]
+  },
+  {
+   "name": "Great Olm",
+   "kind": "boss",
+   "claims": [
+    {
+     "t": 1327,
+     "kind": "stat",
+     "text": "Gnomonkey says the Great Olm in his run was one hand at 100 HP with the Muttadiles floor first, and that normally Muttadiles would look more painful."
+    },
+    {
+     "t": 1357,
+     "kind": "method",
+     "text": "At Olm's hand, the numbers show the number of the attack cycle; Gnomonkey hits on three, long range cast on four, then hits on five and resets, a five attack cycle."
+    },
+    {
+     "t": 1413,
+     "kind": "tip",
+     "text": "At Olm, the big thing with four-to-one is reading two attacks and reacting to what he does; if he does two auto attacks you do a three-to-one."
+    },
+    {
+     "t": 1475,
+     "kind": "tip",
+     "text": "At Olm, you can tick eat the teleport if you click right after it teleports you."
+    },
+    {
+     "t": 1530,
+     "kind": "tip",
+     "text": "At Olm's melee hand, Gnomonkey tanks a hit in the middle because that nulls the flame wall."
+    },
+    {
+     "t": 1557,
+     "kind": "tip",
+     "text": "At Olm, make sure you attack the tick after he attacks."
+    },
+    {
+     "t": 1502,
+     "kind": "stat",
+     "text": "Gnomonkey says a low two-minute Olm hand phase is good, he has had a couple of 150s and 140s, and his stream phases ran 230, 211 and 230."
+    },
+    {
+     "t": 1789,
+     "kind": "tip",
+     "text": "Gnomonkey flicks the melee hand's prayer because you want prayer for Vile Vigor; he uses prayer points for run energy and ended the Olm with 50 prayer points to spare."
+    },
+    {
+     "t": 1779,
+     "kind": "opinion",
+     "text": "Gnomonkey called this stream's Olm about as bad as Olm can go, saying every phase was probably 20 to 30 seconds longer than it should have been."
+    },
+    {
+     "t": 1779,
+     "kind": "tip",
+     "text": "Gnomonkey uncharges his Tumeken's Shadow to get the runes he needs for Vile Vigor at Olm."
+    }
+   ]
+  },
+  {
+   "name": "Challenge Mode setups",
+   "kind": "item",
+   "claims": [
+    {
+     "t": 1945,
+     "kind": "method",
+     "text": "Gnomonkey's beginner-to-intermediate speed setup uses Brimstone ring and Blood Fury, which helps survive Vanguards and Olm, plus a stamina potion."
+    },
+    {
+     "t": 1972,
+     "kind": "tip",
+     "text": "Gnomonkey says to use one stamina dose at Vespula and keep the three other doses for Olm."
+    },
+    {
+     "t": 1972,
+     "kind": "tip",
+     "text": "Gnomonkey says Brimstone plus Blood Fury is a max hit threshold setup, and with it you put the scythe on accurate instead of aggressive; he says Brimstone is a little better than Berserker ring with Blood Fury."
+    },
+    {
+     "t": 2002,
+     "kind": "method",
+     "text": "An advanced setup skips the stamina: torture plus Brimstone (with Berserker ring) gets to 60 max hit on guardians, and Gnomonkey says you want the accuracy from torture and the max hits from Berserker ring."
+    },
+    {
+     "t": 2034,
+     "kind": "opinion",
+     "text": "Gnomonkey says he used to run a Thieving cape but now runs the Lightbearer because it gets an extra Ice Demon spec, an extra claw at Vanguards and Muttadiles and a bunch of hammers at Olm."
+    },
+    {
+     "t": 2091,
+     "kind": "opinion",
+     "text": "Gnomonkey does not like camping the Light bearer with Blood Fury, saying it costs a lot of max hit on the scythe for little gain; bringing it as a switch makes sense."
+    }
+   ]
+  }
+ ]
 }

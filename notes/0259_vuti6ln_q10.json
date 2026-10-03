@@ -1,0 +1,176 @@
+{
+  "id": "vuti6ln_q10",
+  "title": "WIKI GUIDES - MELEE MUSPAH (OSRS)",
+  "date": "2025-09-03",
+  "type": "challenge",
+  "summary": "In another Wiki Guides episode, Gnomonkey kills the Phantom Muspah using the worst melee downgrade from the OSRS Wiki setup table (Inquisitor's armour with a Soulreaper axe on slash and a Voidwaker spec), then redoes it with a budget setup chosen via Gearscape and finds Void Knight melee with the Soulreaper axe surprisingly good.",
+  "outline": [
+    {
+      "t": 0,
+      "text": "Introduction and the wiki's worst melee downgrade for Phantom Muspah"
+    },
+    {
+      "t": 94,
+      "text": "Reading the wiki notes on Inquisitor's armour and Soulreaper axe style"
+    },
+    {
+      "t": 164,
+      "text": "Initial melee run in Inquisitor's armour"
+    },
+    {
+      "t": 403,
+      "text": "Optimizing the melee gear with Gearscape"
+    },
+    {
+      "t": 601,
+      "text": "Final melee attempt with Void Knight melee and review"
+    },
+    {
+      "t": 715,
+      "text": "Why void melee works on inaccurate-defence bosses"
+    }
+  ],
+  "topics": [
+    {
+      "name": "Phantom Muspah",
+      "kind": "boss",
+      "claims": [
+        {
+          "t": 29,
+          "kind": "event",
+          "text": "For the Wiki Guides episode on Phantom Muspah, the wiki's setup table had very bad mage and ranged downgrades and a worst-case melee downgrade; Gnomonkey chose the melee option as the most bad-faith interpretation."
+        },
+        {
+          "t": 61,
+          "kind": "requirement",
+          "text": "The wiki's worst melee downgrade for Muspah is Inquisitor's armour, torture, fire cape, Soulreaper axe, pharaoh gloves, dragon boots and Lightbearer, with Voidwaker listed as the worst spec weapon instead of the Dragon warhammer."
+        },
+        {
+          "t": 61,
+          "kind": "tip",
+          "text": "Gnomonkey says if you can drain Muspah's defence with the Dragon warhammer, melee becomes usable; it is worse than switching to something like a ranged weapon, but not horrible. With only a Voidwaker spec to use, the fight is much harder."
+        },
+        {
+          "t": 322,
+          "kind": "tip",
+          "text": "Gnomonkey says you can definitely get multiple hits in during the Muspah teleport phase and that he was bad at it."
+        },
+        {
+          "t": 270,
+          "kind": "tip",
+          "text": "On Phantom Muspah, melee has to be used during the clone and smite phase, which Gnomonkey notes adds to the difficulty of a melee kill."
+        },
+        {
+          "t": 379,
+          "kind": "stat",
+          "text": "The wiki-gear melee kill of Phantom Muspah (Inquisitor's armour, Soulreaper axe) took about 3 minutes 50 seconds in the video; Gnomonkey called it surprisingly not that bad and noted it was faster than a lot of crossbow camps."
+        },
+        {
+          "t": 650,
+          "kind": "stat",
+          "text": "Gnomonkey's improved Void Knight melee kill of Phantom Muspah took about 2 minutes 30 seconds, which he described as not bad at all."
+        },
+        {
+          "t": 379,
+          "kind": "tip",
+          "text": "If spikes appear all around the boss during the Muspah fight, Gnomonkey thinks you are 'just screwed'."
+        },
+        {
+          "t": 620,
+          "kind": "opinion",
+          "text": "Gnomonkey thought the Void Knight melee setup dodged the spike phase noticeably faster than the Inquisitor setup."
+        }
+      ]
+    },
+    {
+      "name": "Wiki gear setup template",
+      "kind": "opinion",
+      "claims": [
+        {
+          "t": 94,
+          "kind": "opinion",
+          "text": "Gnomonkey says he interprets the wiki's Muspah notes as literally as possible: the note that Inquisitor's armour is to be used only with a crush weapon applies to the Soulreaper axe because it has a crush option, while the Soulreaper axe is also noted to be used on slash."
+        },
+        {
+          "t": 121,
+          "kind": "stat",
+          "text": "Gnomonkey notes the Soulreaper axe has only a 66 crush attack bonus versus 134 slash, and that Inquisitor's armour reduces slash by 3 on one piece and 2 on the helmet, for a total of -8 slash bonus in the setup."
+        },
+        {
+          "t": 0,
+          "kind": "opinion",
+          "text": "Gnomonkey says the wiki's setup tables are the only black mark on the otherwise best wiki in all of gaming, and that they typically get better after he releases an episode of this series."
+        }
+      ]
+    },
+    {
+      "name": "Inquisitor's armour",
+      "kind": "item",
+      "claims": [
+        {
+          "t": 153,
+          "kind": "stat",
+          "text": "Gnomonkey says Inquisitor's armour gives only about 0.05 better DPS than being naked in the Soulreaper axe slash setup for Muspah, because its strength bonus raises the max hit but it reduces accuracy."
+        },
+        {
+          "t": 153,
+          "kind": "tip",
+          "text": "Gnomonkey notes that Inquisitor's armour still has a strength bonus, so it increases the max hit, which keeps it slightly better than being naked even though it lowers accuracy."
+        }
+      ]
+    },
+    {
+      "name": "Soulreaper axe",
+      "kind": "item",
+      "claims": [
+        {
+          "t": 153,
+          "kind": "opinion",
+          "text": "Gnomonkey considers the Soulreaper axe a good weapon, and says that on Phantom Muspah the wiki-gear setup using it was not as bad as expected."
+        },
+        {
+          "t": 686,
+          "kind": "opinion",
+          "text": "Gnomonkey notes the Soulreaper axe is extremely expensive, so he does not know who would use this setup, but he is impressed it works better than expected."
+        }
+      ]
+    },
+    {
+      "name": "Void Knight equipment",
+      "kind": "item",
+      "claims": [
+        {
+          "t": 436,
+          "kind": "opinion",
+          "text": "Gnomonkey says void melee is normally terrible but is the only melee armour, besides something like Oathplate, with good accuracy, so it can be a decent budget option on bosses like Vardorvis, Muspah, or sometimes Duke Sucellus if you are very inaccurate."
+        },
+        {
+          "t": 715,
+          "kind": "tip",
+          "text": "Void melee works on very tanky or high-defence bosses such as Vardorvis, Duke Sucellus and Tekton, because its accuracy matters more than the strength bonus it lacks."
+        },
+        {
+          "t": 744,
+          "kind": "tip",
+          "text": "Gnomonkey says void melee's lack of a cost means you can take extra accuracy from other slots, for example rings such as Bellator or Rancour; he says it makes sense that void is decent on Tekton while being bad everywhere else in the raid."
+        }
+      ]
+    },
+    {
+      "name": "Gearscape",
+      "kind": "other",
+      "claims": [
+        {
+          "t": 403,
+          "kind": "method",
+          "text": "Gnomonkey priced the wiki's worst Muspah setup and found it cost 443 million GP; he fed that budget into Gearscape to find a melee setup."
+        },
+        {
+          "t": 471,
+          "kind": "stat",
+          "text": "Gearscape suggested basically full max Inquisitor's armour (missing only a Venator ring and Ultor ring); a surprisingly close option was the Soulreaper axe on slash with Void melee, about 0.4 worse."
+        }
+      ]
+    }
+  ]
+}

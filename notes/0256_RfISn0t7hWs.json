@@ -1,0 +1,82 @@
+{
+  "id": "RfISn0t7hWs",
+  "title": "PILLARLESS MAGE TANK INFERNO (OSRS)",
+  "date": "2025-08-26",
+  "type": "challenge",
+  "summary": "Gnomonkey does a pillarless Inferno run using Reynolds's mage tank method, wearing full plate armour with the new Confliction gauntlets and freezing and healing off monsters instead of alternating prayers. He completes it with the Accursed sceptre and shadow on TzKal-Zuk, calls it the most disgusting cheese in the game, and says you should still learn Inferno properly for your first cape.",
+  "outline": [
+    {"t": 0, "text": "Intro: Confliction gauntlets let you mage tank in full plate, credit to Reynolds"},
+    {"t": 113, "text": "Can it be patched? Mage bonus around 78 to 80 and why it works"},
+    {"t": 225, "text": "Should you do this instead of learning Inferno?"},
+    {"t": 255, "text": "Early waves: freezing, killing nibblers and bats, healing off monsters"},
+    {"t": 427, "text": "Mid waves and a hard stacked wave"},
+    {"t": 767, "text": "Wave 48 and the Jad wave"},
+    {"t": 854, "text": "Wave 56 and hard mage and ranger pairings"},
+    {"t": 1162, "text": "Discovery that the respawn animation unfreezes the mage"},
+    {"t": 1229, "text": "Wave 62 and 63, the hardest waves"},
+    {"t": 1602, "text": "Wave 65 and finishing pillarless"},
+    {"t": 1684, "text": "TzKal-Zuk: Accursed sceptre spec drains mage"},
+    {"t": 2105, "text": "Zuk spec sequence with shadow and final kill"},
+    {"t": 2500, "text": "Run time, closing thoughts on the cheese"}
+  ],
+  "topics": [
+    {
+      "name": "Pillarless mage tank Inferno",
+      "kind": "challenge",
+      "claims": [
+        {"t": 0, "kind": "method", "text": "Gnomonkey does a pillarless Inferno run in what he calls pristine best-in-slot gear, using Reynolds's mage tank method, with the Confliction gauntlets that let you mage while wearing full plate armour."},
+        {"t": 26, "kind": "opinion", "text": "Gnomonkey credits Reynolds with inventing the mage tank Inferno method and says he hates it but that it works."},
+        {"t": 83, "kind": "stat", "text": "In the mage tank Inferno method nibblers are guaranteed accurate so they remain a concern since they will just hit you."},
+        {"t": 83, "kind": "opinion", "text": "Gnomonkey says a pillarless Inferno without alternating prayers was unthinkable even a week before this video, but he thinks the method makes it doable."},
+        {"t": 113, "kind": "opinion", "text": "Gnomonkey wonders how Jagex could patch the Confliction gauntlets mage-tank method, saying disabling their passive below a mage bonus threshold would be unfair to players, as he has 78 to 80 mage bonus in his setup."},
+        {"t": 173, "kind": "tip", "text": "Gnomonkey notes you do not need a stamina potion for Zuk anymore."},
+        {"t": 255, "kind": "tip", "text": "In the mage tank Inferno method, freeze monsters, kill the bats and nibblers, and heal off the remaining monsters rather than alternating prayers; Gnomonkey says freeze is not normally usable this freely in Inferno."},
+        {"t": 339, "kind": "tip", "text": "On mage-and-ranger waves Gnomonkey tries to get the mage and ranger close together so he can freeze the mage and kill the ranger from underneath it, and if all else fails kills the ranger."},
+        {"t": 540, "kind": "tip", "text": "Gnomonkey freezes the melee before it digs; a frozen melee cannot dig to him, so he can keep casting until it dies."},
+        {"t": 1162, "kind": "tip", "text": "Gnomonkey discovers that a frozen mage becomes unfrozen when its respawn animation ends, which he says he never knew."},
+        {"t": 1088, "kind": "tip", "text": "Gnomonkey says cornering a mage traps it, and he freezes it only to make it aware it cannot reach him, then heals off the ranger and slowly pushes the mage until it dies."}
+      ]
+    },
+    {
+      "name": "Inferno",
+      "kind": "activity",
+      "claims": [
+        {"t": 225, "kind": "opinion", "text": "Gnomonkey says learning Inferno is one of the most fun things he has done in the game and that doing the mage tank method cheats you out of your first Inferno experience."},
+        {"t": 2587, "kind": "opinion", "text": "Per the video description, Gnomonkey says you can absolutely get a fire cape-style first cape with the mage tank method but says it depends on what kind of player you want to be; if you want to learn PvM, do Inferno properly."},
+        {"t": 1229, "kind": "opinion", "text": "Gnomonkey says wave 62 is the hardest wave of the entire Inferno."},
+        {"t": 1602, "kind": "opinion", "text": "Gnomonkey says wave 65 (double ranger) is the worst wave for pillarless."},
+        {"t": 2500, "kind": "stat", "text": "Gnomonkey says a pillarless run wastes about five minutes at the start, so subtracting that his run would be about 1 hour 32 minutes, which he says is faster than most people's first cave."},
+        {"t": 1949, "kind": "stat", "text": "Gnomonkey says if he had not milked specs the run would have been a sub-90 pillarless, which he considers an impressive feat."},
+        {"t": 2587, "kind": "opinion", "text": "Gnomonkey calls Reynolds's mage tank method the most disgusting cheese ever to enter the game, but says he understands using it for a first cape while begging people not to cheat themselves out of the fun."},
+        {"t": 0, "kind": "stat", "text": "Per the video description, the Doom of Mokhaiotl delve boss dropping the new Gauntlets and Treads was already giving normal Inferno runs a huge buff."}
+      ]
+    },
+    {
+      "name": "Confliction gauntlets",
+      "kind": "item",
+      "claims": [
+        {"t": 26, "kind": "stat", "text": "Gnomonkey says the Confliction gauntlets enable mage attacks while wearing full plate armour, which is what allows the Inferno mage tank method to work."},
+        {"t": 113, "kind": "opinion", "text": "Gnomonkey considers it hard for Jagex to patch the Confliction gauntlets passive in Inferno without simply disabling it, which he says would unfairly hit players who do not have a high mage bonus."}
+      ]
+    },
+    {
+      "name": "TzKal-Zuk",
+      "kind": "boss",
+      "claims": [
+        {"t": 1684, "kind": "method", "text": "On Zuk, Gnomonkey uses the Accursed sceptre special attack because it drains 15% magic and Zuk has 480 magic, which he says is very high; he thinks it may be the best application of that spec in the game, though it is hard to land."},
+        {"t": 1806, "kind": "tip", "text": "Gnomonkey says that when Zuk's projectiles are on screen, you can swap to your rare gear."},
+        {"t": 2105, "kind": "stat", "text": "Gnomonkey notes Zuk has 350 magic defence, which is why draining it with Accursed sceptre specs matters."},
+        {"t": 2105, "kind": "method", "text": "Gnomonkey waits to spam Accursed sceptre specs on Zuk until his magic is drained, waiting for full spec energy and sending single specs until it sends both, then using shadow."},
+        {"t": 2235, "kind": "stat", "text": "After the drains Gnomonkey says the shadow is about 10% better than a Twisted bow against Zuk, but notes shadow casts are slow so he casts early."},
+        {"t": 2105, "kind": "stat", "text": "Gnomonkey lands a 34 and a max 53 spec on Zuk during the drain and hits another spec for plus ten percent."}
+      ]
+    },
+    {
+      "name": "Accursed sceptre",
+      "kind": "item",
+      "claims": [
+        {"t": 1684, "kind": "stat", "text": "The Accursed sceptre special attack drains 15% of the target's magic level, according to Gnomonkey, and he prefers it over Eye of Ayak for draining Zuk."}
+      ]
+    }
+  ]
+}

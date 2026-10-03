@@ -1,0 +1,81 @@
+{
+  "id": "BShbhmfpnZE",
+  "title": "WIKI GUIDES - Corporeal Beast (OSRS)",
+  "date": "2024-05-16",
+  "type": "challenge",
+  "summary": "Gnomonkey tries the OSRS Wiki's low-budget, low-stat-drain Corporeal Beast setup and concludes it is practically impossible: it needs hundreds of death-piled food, which cannot be done in a private instance, and public lobbies get ragged. He then kills Corp with a roughly 35 million gp setup of Bandos godsword and Arclight stat draining in about 25 minutes, and warns low-level Ironmen and budget accounts not to attempt Corp.",
+  "outline": [
+    {"t": 0, "text": "The wiki's low stat drain Corp setup and its recommended spec downgrades"},
+    {"t": 108, "text": "Testing the setup with no stat drain to see how far it gets"},
+    {"t": 205, "text": "Deciding to death pile food to out-damage Corp"},
+    {"t": 285, "text": "Executing the death pile with Anglerfish and a delayed-heal food"},
+    {"t": 420, "text": "Running out of food; death piles do not work in private instances"},
+    {"t": 475, "text": "Verdict that the setup is stupid and nearly impossible"},
+    {"t": 508, "text": "Switching to a ~35 million gp setup with BGS and Arclight draining"},
+    {"t": 622, "text": "The long fight: draining Corp's defence and mage to zero"},
+    {"t": 805, "text": "Corp dies after roughly 25 minutes"},
+    {"t": 866, "text": "Final verdict and advice for low-level Ironmen"}
+  ],
+  "topics": [
+    {
+      "name": "Corporeal Beast",
+      "kind": "boss",
+      "claims": [
+        {"t": 0, "kind": "opinion", "text": "Gnomonkey says the wiki's low stat drain Corporeal Beast setup is genuinely not possible and is the funniest setup in the series, though he tries it anyway."},
+        {"t": 27, "kind": "method", "text": "The wiki's low-drain Corp setup says to use three warhammer specs and four to six Arclight specs before equipping it, aiming to bring Corp's defence to 1."},
+        {"t": 27, "kind": "tip", "text": "The wiki's Corp setup lists spec downgrades from Arclight to Bandos godsword to Osmumten's fang, which Gnomonkey mocks as irrelevant."},
+        {"t": 155, "kind": "stat", "text": "In the low-drain setup Gnomonkey did about 427 damage on one inventory of food, which he estimates is about 10% of Corp's health, and says one inventory of food is about 15% of his health."},
+        {"t": 170, "kind": "stat", "text": "Gnomonkey reads Corp's stomp as happening on seven tick intervals, so there is no guarantee you can step under him in time."},
+        {"t": 229, "kind": "tip", "text": "Corp heals when you leave the room, so Gnomonkey says repeatedly leaving and re-entering to flinch him would not work."},
+        {"t": 233, "kind": "tip", "text": "Gnomonkey says Corp randomly moves, so a death pile can end up out of position and the boss gets farther from the pile over time."},
+        {"t": 423, "kind": "stat", "text": "Even after death piling 180 food Gnomonkey says he did not have enough, and he estimates the low-drain Corp kill needs about 300 food with nobody ragging."},
+        {"t": 470, "kind": "opinion", "text": "Gnomonkey says Corp is such a bad boss, and notes the mods have talked about adding a Phosani's-style Corp at some point."},
+        {"t": 905, "kind": "opinion", "text": "Gnomonkey says the boss drops nothing useful aside from the arcane sigil, and there is no reason to kill Corp early on an account."},
+        {"t": 934, "kind": "opinion", "text": "Gnomonkey considers killing Corp on a budget feasible only for ironmen and says any main would get crashed on a public Corp world."}
+      ]
+    },
+    {
+      "name": "Death piling",
+      "kind": "mechanic",
+      "claims": [
+        {"t": 233, "kind": "method", "text": "Gnomonkey death piles food near the Corporeal Beast door by dying with a stack of Anglerfish and picking it up while on cooldown to out-heal Corp's damage."},
+        {"t": 265, "kind": "tip", "text": "Gnomonkey describes a food that heals 14 initially and then heals again after a short delay, which heals more than Anglerfish in total."},
+        {"t": 453, "kind": "stat", "text": "Death piles do not work in private instances, according to Gnomonkey's test, and food cannot be dropped in Corp private instances, which makes the solo low stat drain wiki setup impossible there."},
+        {"t": 475, "kind": "opinion", "text": "Gnomonkey says the low-drain Corp kill would take about half an hour, so with a public instance someone would eventually rag the lobby."}
+      ]
+    },
+    {
+      "name": "Corporeal Beast low-budget setup",
+      "kind": "other",
+      "claims": [
+        {"t": 508, "kind": "stat", "text": "The wiki's alternative Corp setup Gnomonkey tries costs about 35 million gp, which he reduces to about 33 million with a Blood fury, then further to around 16 million."},
+        {"t": 536, "kind": "method", "text": "Gnomonkey says Arclight drains Corp's strength, attack and defence, while a Bandos godsword drains defence, so he alternates the two and goes back to BGS to drain Corp's mage."},
+        {"t": 568, "kind": "opinion", "text": "Gnomonkey says you should not do Corp solo with a 35 million gp setup, but that if you have to get a kill with that little money you should fully drain Corp."},
+        {"t": 568, "kind": "opinion", "text": "Gnomonkey says the low drain setup has become meta for accounts with maximum gear who death pile, or use Narda-style teleports as he understands it."},
+        {"t": 646, "kind": "stat", "text": "Corp at zero defence is almost never missed, and Corp at zero melee stats means the next goal is to BGS repeatedly to drain mage."},
+        {"t": 810, "kind": "record", "text": "Gnomonkey's 35 million gp Corp kill took about 25 minutes, including about 20 minutes of draining at the start, and used about 300 Anglerfish worth of supplies."},
+        {"t": 930, "kind": "opinion", "text": "Gnomonkey says that if you have only 35 million gp and want to solo Corp, don't, and a low-level Ironman consulting the wiki for Corp should go do anything else."},
+        {"t": 934, "kind": "tip", "text": "Gnomonkey notes a hammer would make the kill much faster even in the crappy setup, so an early attempt for a shield is not the worst idea."}
+      ]
+    },
+    {
+      "name": "Special attack restoration",
+      "kind": "mechanic",
+      "claims": [
+        {"t": 968, "kind": "tip", "text": "Gnomonkey says that a character doing Corp with 30 million gp gear probably lacks the elite Desert diary and a house pool, so they cannot restore special attack."},
+        {"t": 968, "kind": "tip", "text": "Gnomonkey notes an Ironman can use Rimmington house teleports, but he does not think Ironmen can use another player's house, and there is no way to get spec back without a pool."}
+      ]
+    },
+    {
+      "name": "Wiki Guides challenge series",
+      "kind": "challenge",
+      "claims": [
+        {"t": 0, "kind": "event", "text": "In the Corporeal Beast episode Gnomonkey follows the wiki's low-price-range setup, which he describes as horrendous and not worth it even for an Ironman."},
+        {"t": 27, "kind": "event", "text": "Gnomonkey says he has mostly ignored the wiki's text descriptions earlier in the series but follows the Corp one because it matters."},
+        {"t": 60, "kind": "event", "text": "Gnomonkey says the most anticipated wiki setup left is the Tombs of Amascut one, which he already did on stream but is saving for later, plus maybe a Challenge Mode Chambers of Xeric one."},
+        {"t": 342, "kind": "opinion", "text": "Gnomonkey says he asks why the wiki suggests a leaf-bladed spear for Corp and that nobody knows."},
+        {"t": 475, "kind": "event", "text": "Gnomonkey says he failed to get a kill in the original low-drain setup and so stamps it as technically possible but stupid before trying a real setup."}
+      ]
+    }
+  ]
+}

@@ -1,0 +1,101 @@
+{
+  "id": "RkCY5EW5uoc",
+  "title": "OSRS Threatened By Corporate Greed",
+  "date": "2025-01-16",
+  "type": "news-opinion",
+  "summary": "Gnomonkey rants about Jagex's OSRS conjoint membership survey, which floated paid tiers for things like RuneLite and plugin access, account security and recovery, mobile-only access, AFK timers, API access and ad removal. He walks through the survey options and Jagex's blog response, calls the response terrible, and demands these features be added with no increase in membership cost.",
+  "outline": [
+    {"t": 0, "text": "Introduction: Jagex's survey asking what monetization players are okay with"},
+    {"t": 34, "text": "Analysing the survey package features: mobile-only access, complimentary bond, enhanced support, pause membership"},
+    {"t": 98, "text": "Monetising basic services: community worlds, name reservations, pre-verified account recovery"},
+    {"t": 201, "text": "Controversial proposals: shorter AFK timers, no plugins or third-party clients, mobile-only, ads"},
+    {"t": 284, "text": "Data access and security: API access, passkeys, TOTP, character cloning, ID-based recovery"},
+    {"t": 464, "text": "Reading and reacting to Jagex's blog response to the survey backlash"},
+    {"t": 701, "text": "Addressing community concerns: the community quit before and will again, player cap, unsubscribing"},
+    {"t": 989, "text": "Final thoughts: demand a plan to add these features at no increased cost"}
+  ],
+  "topics": [
+    {
+      "name": "Opinion: Conjoint membership survey",
+      "kind": "opinion",
+      "claims": [
+        {"t": 0, "kind": "event", "text": "In January 2025 Jagex published a conjoint membership survey for Old School RuneScape asking players what membership monetization options they would be okay with."},
+        {"t": 27, "kind": "event", "text": "The survey showed respondents randomised test packages of membership features to see what they would and would not accept."},
+        {"t": 27, "kind": "opinion", "text": "Gnomonkey first assumed Jagex was just asking questions, but after looking at the survey details he concluded that what Jagex was asking about was really bad."},
+        {"t": 413, "kind": "opinion", "text": "Gnomonkey says that after seeing the video clips of what Jagex was willing to cut off and sell back, he concluded that Jagex is willing to monetize everything players do, including features they enjoy."},
+        {"t": 1022, "kind": "opinion", "text": "Gnomonkey says Jagex should write a plan of action to add features such as account recovery, account security and API access to the game at no increased cost, since Jagex's own post claims to care about players."},
+        {"t": 1089, "kind": "opinion", "text": "Gnomonkey suggests that giving players a couple of free extra characters might go a long way toward mending the damage."},
+        {"t": 1267, "kind": "opinion", "text": "Gnomonkey says he hopes that the next time he returns the issue is buried because Jagex has stepped up and the community no longer has to think about it."}
+      ]
+    },
+    {
+      "name": "Membership",
+      "kind": "mechanic",
+      "claims": [
+        {"t": 27, "kind": "event", "text": "Survey features offered as part of different membership packages included mobile-only access (a cheaper tier), a complimentary bond, enhanced player support, a pause membership option, community worlds, character name reservations, pre-verified account recovery, and improved data access."},
+        {"t": 54, "kind": "opinion", "text": "Gnomonkey assumes the complimentary bond in the survey would be a cash-only, Grand Exchange-tradable bond, and finds it kind of weird."},
+        {"t": 81, "kind": "opinion", "text": "Gnomonkey says a pause membership option, where you keep your remaining days when taking a break, should simply exist already and not be sold as a perk."},
+        {"t": 117, "kind": "opinion", "text": "Gnomonkey says everything Jagex is trying to sell as a membership perk should just be part of what players already pay for."},
+        {"t": 126, "kind": "opinion", "text": "Gnomonkey says the community worlds option, a more expensive membership giving access to private servers like Project Xanorous, is one of the few things on the survey that he considers okay."},
+        {"t": 146, "kind": "opinion", "text": "Gnomonkey likes character name reservations, which would let a player lock in a name when changing it so nobody else can take it, and thinks it should just be in the game to prevent name sniping."},
+        {"t": 770, "kind": "event", "text": "In its blog response, Jagex said it is exploring cheaper memberships or expanded packages that offer more for more, intended to complement the current base membership, and that it is evaluating how players value access to both Old School RuneScape and RuneScape 3."}
+      ]
+    },
+    {
+      "name": "RuneLite",
+      "kind": "other",
+      "claims": [
+        {"t": 201, "kind": "event", "text": "One of the survey's cheaper-membership limitations was not being able to use plugins or third-party clients, which would mean paying for the premium tier to use RuneLite."},
+        {"t": 233, "kind": "opinion", "text": "Gnomonkey says the plugins Jagex would restrict are basically required to play the game."},
+        {"t": 288, "kind": "event", "text": "The survey included an API for improved data availability and tools, for example pulling friends' data for custom highscores, tracking achievements over time, or using custom trackers developed by other players."},
+        {"t": 288, "kind": "opinion", "text": "Gnomonkey says gating the API behind payment would amount to blocking plugins from pulling highscore data unless players pay."}
+      ]
+    },
+    {
+      "name": "AFK timer",
+      "kind": "mechanic",
+      "claims": [
+        {"t": 201, "kind": "event", "text": "The survey included limitations on lower cost membership options such as a shorter AFK timer, so players could pay to AFK for longer."},
+        {"t": 201, "kind": "trivia", "text": "Gnomonkey says he was told RuneScape 3 already has this, with the AFK allowance going from 10 minutes to 15 minutes."},
+        {"t": 912, "kind": "event", "text": "In its blog response Jagex said suggestions like shorter AFK timers for non-premium players were widely criticized and were included to understand player preferences, not as concrete plans."}
+      ]
+    },
+    {
+      "name": "Account security",
+      "kind": "mechanic",
+      "claims": [
+        {"t": 306, "kind": "event", "text": "The survey's additional account security features included passkeys, time-based one-time passwords for logging in, and the option of account recovery via character cloning."},
+        {"t": 329, "kind": "opinion", "text": "Gnomonkey says players have asked for character cloning after bugs or hacks for a long time and Jagex has refused, and he objects to it being offered only for money."},
+        {"t": 376, "kind": "event", "text": "The survey's pre-verified account recovery option would guarantee recovery of a Jagex account if compromised, for example via a system using the player's real-world ID to verify them."},
+        {"t": 1171, "kind": "opinion", "text": "Gnomonkey says players have been asking for better account security, better account recovery options and better API access for years, and it is outrageous that Jagex is offering to sell them."},
+        {"t": 1203, "kind": "opinion", "text": "Gnomonkey says getting a response within two weeks from email customer support and being able to talk to a real person should not be something sold."},
+        {"t": 938, "kind": "event", "text": "In its blog response Jagex said robust customer support is a baseline expectation that should remain a standard part of membership, so it would not be sold."}
+      ]
+    },
+    {
+      "name": "Advertising",
+      "kind": "other",
+      "claims": [
+        {"t": 260, "kind": "event", "text": "The survey included cheaper membership options with ads included in non-gameplay areas in a non-intrusive manner."},
+        {"t": 260, "kind": "opinion", "text": "Gnomonkey sarcastically describes such ads as, for example, a 30-second ad replacing the Vardorvis capture."},
+        {"t": 852, "kind": "event", "text": "In its blog response Jagex said there are no plans to include ads in the base membership or to make ad-supported options a significant part of the game."},
+        {"t": 852, "kind": "opinion", "text": "Gnomonkey interprets Jagex's wording about ads as meaning ads are coming eventually."}
+      ]
+    },
+    {
+      "name": "Jagex",
+      "kind": "other",
+      "claims": [
+        {"t": 464, "kind": "event", "text": "Jagex's blog response said the survey is a research tool, not a list of planned changes, and that no final decisions have been made, with prices shown in the survey generated at random as part of the conjoint analysis."},
+        {"t": 464, "kind": "event", "text": "Jagex's blog response was signed by the Old School team rather than named developers, which Gnomonkey asks viewers to keep in mind."},
+        {"t": 464, "kind": "opinion", "text": "Gnomonkey considers Jagex's blog response the worst response he has seen to anything, calling it impressively bad."},
+        {"t": 590, "kind": "opinion", "text": "Gnomonkey says Jagex had just hit an all-time player cap of the game's 20-year history and is now trying to capitalise on it."},
+        {"t": 1033, "kind": "opinion", "text": "Gnomonkey says he has played since he was nine years old and does not want to be just dollar signs to Jagex."},
+        {"t": 1050, "kind": "opinion", "text": "Gnomonkey says the community quit once, over RuneScape's Evolution of Combat, and asked for 2007scape, which is how Old School RuneScape came to be, and suggests the new owners do not know this history."},
+        {"t": 1050, "kind": "opinion", "text": "Gnomonkey says the Old School community does not put up with microtransactions or selling ads or security, which is why the game succeeded."},
+        {"t": 1081, "kind": "stat", "text": "Gnomonkey cites the recent Leagues as pushing Old School RuneScape to an all-time concurrent player high of about 260,000 players."},
+        {"t": 1081, "kind": "opinion", "text": "Gnomonkey predicts that many players will unsubscribe and not come back if these changes happen, saying this is how you burn a game down as fast as possible."}
+      ]
+    }
+  ]
+}

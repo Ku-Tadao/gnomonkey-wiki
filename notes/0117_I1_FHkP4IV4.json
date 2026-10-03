@@ -1,0 +1,255 @@
+{
+ "id": "I1_FHkP4IV4",
+ "title": "Duo Nex BUDGET Guide (15M GP/HR)",
+ "date": "2023-07-04",
+ "type": "guide",
+ "summary": "Gnomonkey demonstrates a bare-minimum budget gear setup for duo Nex (Karil's with a Fang and crossbow), explaining five-ticking, resets, phase-by-phase tactics and brewing discipline, with a gp/hr calculation of about 14m (up to about 20m at max gear). He also lays out an upgrade path from Masori to Voidwaker to ZCB to Twisted bow.",
+ "outline": [
+  {
+   "t": 0,
+   "text": "Budget setup: Karil's, Fang specs, crossbow and pipe"
+  },
+  {
+   "t": 87,
+   "text": "Potions and supplies: Menaphite remedy, thralls"
+  },
+  {
+   "t": 182,
+   "text": "Combat mechanics: five-tick step unders and prayer"
+  },
+  {
+   "t": 308,
+   "text": "Phases and resetting Nex with a far-away player"
+  },
+  {
+   "t": 438,
+   "text": "Phase 2, Umbra tank and Reaver management"
+  },
+  {
+   "t": 648,
+   "text": "Last phase: brewing while crossbowing, Contain This and Ice Prison"
+  },
+  {
+   "t": 755,
+   "text": "Profitability: kills per hour and gp per hour calculation"
+  },
+  {
+   "t": 852,
+   "text": "Gear progression and upgrades"
+  },
+  {
+   "t": 966,
+   "text": "Absolute peak setup: eight-way with Twisted bow and Torva"
+  }
+ ],
+ "topics": [
+  {
+   "name": "Nex",
+   "kind": "boss",
+   "claims": [
+    {
+     "t": 0,
+     "kind": "requirement",
+     "text": "The video description says the budget duo Nex setup shown is the absolute bare minimum gear Gnomonkey would go for, any lower would be incredibly difficult; thralls are a must, as is completion of the Kandarin hard diary for the increased bolt chance."
+    },
+    {
+     "t": 0,
+     "kind": "opinion",
+     "text": "Gnomonkey says Nex is much harder than people give her credit for and there is a lot of nuance to resetting her properly."
+    },
+    {
+     "t": 150,
+     "kind": "tip",
+     "text": "Gnomonkey says thralls are extremely important for Nex because her defence is so high and thralls punch straight through defence; he calls Nex probably the most important place in the game to have thralls."
+    },
+    {
+     "t": 177,
+     "kind": "tip",
+     "text": "Against Nex you can do a step under every fifth tick, which makes her attack a tick slower than her normal four-tick attack so she hits you less; this is very important."
+    },
+    {
+     "t": 209,
+     "kind": "tip",
+     "text": "When Nex is targeting you in the first phase pray melee, and when she switches to the other person pray mage; she typically does three attacks and then switches, though she can pick you twice."
+    },
+    {
+     "t": 236,
+     "kind": "tip",
+     "text": "In a duo with poor gear, one player has to stay far away and crossbow to reset Nex: every time she runs up, he resets her by stepping under and she goes back, while the other player pipes."
+    },
+    {
+     "t": 302,
+     "kind": "tip",
+     "text": "In the phase where Nex's damage depends on distance, the closer you are the more damage it does, so Gnomonkey flinches in and out every five ticks with the ACB; he calls this the slowest, worst part of the fight."
+    },
+    {
+     "t": 336,
+     "kind": "tip",
+     "text": "Gnomonkey says Torva is really good for Nex because it lets you actually melee in the distance-based phase, which you cannot tank without it."
+    },
+    {
+     "t": 367,
+     "kind": "opinion",
+     "text": "Gnomonkey says if you mess up a reset at Nex you will die, which is what makes Nex hard."
+    },
+    {
+     "t": 398,
+     "kind": "tip",
+     "text": "On the Umbra phase, one player gets out of range and goes up to Umbra, called the Umbra tank, praying mage because Umbra hits 29s when you are praying range; the other player resets Nex repeatedly while crossbowing."
+    },
+    {
+     "t": 431,
+     "kind": "tip",
+     "text": "To reset Nex in the Umbra phase, let her touch you and then drag her as close to the altar as possible, and put your bracers on to hit the altar."
+    },
+    {
+     "t": 450,
+     "kind": "tip",
+     "text": "Gnomonkey says to kill the Reavers as fast as possible because they heal each time they hit you, and not to leave them up."
+    },
+    {
+     "t": 460,
+     "kind": "tip",
+     "text": "In the blood phase Gnomonkey prays mage the whole time because her mage attack is guaranteed to hit and the melee is not, and her melee heals her the full amount."
+    },
+    {
+     "t": 520,
+     "kind": "tip",
+     "text": "With a Twisted bow you can run back and forth hitting the boss and resetting her repeatedly, but without a ranged weapon you cannot do that without losing DPS."
+    },
+    {
+     "t": 577,
+     "kind": "tip",
+     "text": "Gnomonkey says the best time to brew is when you are crossbowing because it does not affect your bolt proc chance, so brewing then costs little DPS; brewing while fanging hurts DPS a lot."
+    },
+    {
+     "t": 606,
+     "kind": "tip",
+     "text": "On Contain This, get out of range and Nex just sits there so you avoid a lot of damage; if you need to brew you should crossbow camp there as well."
+    },
+    {
+     "t": 636,
+     "kind": "tip",
+     "text": "Do not be on top of the other player when Ice Prison happens or you will both get hit by it."
+    },
+    {
+     "t": 665,
+     "kind": "tip",
+     "text": "In the last phase you need to crossbow for four hits while Nex has melee prayer on, and Gnomonkey says to brew there; he calls this the hardest part of the fight."
+    },
+    {
+     "t": 665,
+     "kind": "tip",
+     "text": "Gnomonkey says to pray melee any time Nex is attacking you in the last phase because she heavily weights melee."
+    },
+    {
+     "t": 694,
+     "kind": "opinion",
+     "text": "Gnomonkey says the big mistake he sees from learners is not brewing as quickly as possible, sitting five ticks to brew and forgetting their brew-down and attacking about 20 seconds unpotted; he says to brew, brew, brew, restore, pot every time."
+    },
+    {
+     "t": 754,
+     "kind": "stat",
+     "text": "Gnomonkey says it takes about 10 to 15 kills to learn five-ticking the step under and understand everything, and that Nex is way harder than people make it out to be."
+    }
+   ]
+  },
+  {
+   "name": "Nex budget gear and upgrade path",
+   "kind": "item",
+   "claims": [
+    {
+     "t": 0,
+     "kind": "method",
+     "text": "Gnomonkey's budget duo Nex setup camps Karil's armour because it has good mage defence and no negative melee stats, with the best melee gear otherwise, a Fang, a four-way range switch and an ACB, with a pipe for minions and Reavers."
+    },
+    {
+     "t": 27,
+     "kind": "tip",
+     "text": "In the budget setup Gnomonkey does not wear the Light bearer because there is no good special attack weapon besides Fang specs; he skips death charge as the specs are bad anyway."
+    },
+    {
+     "t": 27,
+     "kind": "tip",
+     "text": "Gnomonkey says the first upgrade is Masori top and bottom, the most important thing, since it has better mage defence, a good ranged bonus and no negative melee, so it is way better than Karil's."
+    },
+    {
+     "t": 56,
+     "kind": "method",
+     "text": "Gnomonkey says to bring some kind of Zaros item (such as ancient bracers) to hit the Ultar altar: without one it only restores prayer, with one it gives full health, prayer, spec and energy; a ZCB counts as a Zaros item."
+    },
+    {
+     "t": 90,
+     "kind": "tip",
+     "text": "Gnomonkey says to drink Menaphite remedy first before other potions, because it restores your stats every 15 seconds like an overload if you are brewed down, and it cancels divine potions if drunk after them."
+    },
+    {
+     "t": 935,
+     "kind": "tip",
+     "text": "Gnomonkey says to upgrade in this order: Masori top and bottom first, then Voidwaker, then sell the Voidwaker to afford a ZCB, then sell the ZCB to buy a Twisted bow; he says not to buy Dragon claws (about 90m) because claws are bad."
+    },
+    {
+     "t": 935,
+     "kind": "tip",
+     "text": "Gnomonkey says there is no good special weapon before ZCB or Voidwaker, so use Fang specs until then."
+    },
+    {
+     "t": 986,
+     "kind": "opinion",
+     "text": "Gnomonkey says Voidwaker is a better spec than ZCB on Nex, roughly 15% more efficient per spec."
+    },
+    {
+     "t": 1017,
+     "kind": "opinion",
+     "text": "Gnomonkey says an eight-way Twisted bow setup with Assembler is within 2% of just a ZCB on Nex, so you do not even need to buy a ZCB."
+    },
+    {
+     "t": 1017,
+     "kind": "tip",
+     "text": "At peak, Gnomonkey says Torva is really good because you can melee on phase 2, and it makes you take less damage so you use about the same or slightly less brew over the kill even though you carry two extra swaps."
+    },
+    {
+     "t": 1138,
+     "kind": "tip",
+     "text": "Gnomonkey says the Light bearer is better once you have a good spec weapon like ZCB or Voidwaker, because Fang max hits do not matter too much since it is so accurate."
+    },
+    {
+     "t": 1138,
+     "kind": "opinion",
+     "text": "Gnomonkey says you cannot do duo Nex with Karil's alone at the high end; without Masori and better you will get shredded."
+    }
+   ]
+  },
+  {
+   "name": "Duo Nex profitability",
+   "kind": "activity",
+   "claims": [
+    {
+     "t": 781,
+     "kind": "stat",
+     "text": "Gnomonkey says the kill in the video took 9 minutes 54 seconds in budget gear, while in max gear he averages about a 7 minute 30 second kill; he suggests assuming about 12 minutes per kill for learners including gearing time."
+    },
+    {
+     "t": 841,
+     "kind": "stat",
+     "text": "Gnomonkey's average Nex purple is worth about 28 million with a purple chance of roughly one in 43, giving about 5.5 million per kill per player, and with five kills an hour about 14m gp/hr in the worst-case budget gear."
+    },
+    {
+     "t": 900,
+     "kind": "stat",
+     "text": "Gnomonkey says with better gear you approach six kills per hour and can get close to 20 million gp per hour."
+    },
+    {
+     "t": 906,
+     "kind": "opinion",
+     "text": "Gnomonkey says duos are always the best money for Nex, better than trios, no matter what."
+    },
+    {
+     "t": 0,
+     "kind": "stat",
+     "text": "The video title and description frame the budget duo Nex setup as 15M gp/hr money making."
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,407 @@
+{
+  "id": "BBd0ViAfZRI",
+  "title": "Phosani's Nightmare Max and Budget Guide (OSRS)",
+  "date": "2025-07-04",
+  "type": "guide",
+  "summary": "A guide to Phosani's Nightmare after the summer update, which removed an entire phase and made the sleepy tablet a 1 in 25 drop. Gnomonkey covers max and budget gear, how to get to the boss, the phase structure, every special attack and how to deal with it. His takeaway is that the fight is much more approachable and can reach roughly 8m gp/hr at max, up from about 3m.",
+  "outline": [
+    {
+      "t": 0,
+      "text": "Introduction: summer update changes and expected kills per hour"
+    },
+    {
+      "t": 25,
+      "text": "Gear: weapons, armour, spec options and magic setup"
+    },
+    {
+      "t": 191,
+      "text": "Getting to the Nightmare and the sleepy tablet"
+    },
+    {
+      "t": 221,
+      "text": "Phases and prayers: shield, totems, sleepwalkers, final phase and attack styles"
+    },
+    {
+      "t": 328,
+      "text": "Special attacks: grasping claws, spores, husks, sleepwalkers, parasites, flowers, curse, surge, prayer deactivation"
+    },
+    {
+      "t": 604,
+      "text": "Full budget kill count"
+    },
+    {
+      "t": 1021,
+      "text": "Full max kill count"
+    }
+  ],
+  "topics": [
+    {
+      "name": "Phosani's Nightmare",
+      "kind": "boss",
+      "claims": [
+        {
+          "t": 0,
+          "kind": "opinion",
+          "text": "Gnomonkey says he is not a Phosani's Nightmare expert and honestly hates the boss, but with the new summer update she is much more tolerable, and viewers voted for this to be the next guide."
+        },
+        {
+          "t": 0,
+          "kind": "event",
+          "text": "The summer update removed an entire phase of Phosani's Nightmare while leaving the loot the exact same."
+        },
+        {
+          "t": 0,
+          "kind": "record",
+          "text": "Gnomonkey found about 5.5 kills per hour in max gear fairly consistent after the summer update, which is just under GM time and means upwards of 8 million gp/hr with good gear, versus about 3 million gp/hr before."
+        },
+        {
+          "t": 26,
+          "kind": "requirement",
+          "text": "Phosani's Nightmare needs pretty high stats, at least 90s, and the Attack level matters much more than usual because of her very high defence."
+        },
+        {
+          "t": 26,
+          "kind": "stat",
+          "text": "Phosani's Nightmare has a heavy weakness to crush, so you basically need to use a crush weapon, and you use both melee and magic in the fight."
+        },
+        {
+          "t": 213,
+          "kind": "event",
+          "text": "After the summer update, Phosani's Nightmare kill times are similar to a solo Yama; kills are quick, deadly and completely solo."
+        },
+        {
+          "t": 213,
+          "kind": "stat",
+          "text": "Almost any mistake in Phosani's Nightmare is punished by 60 to 80 damage, so any two mistakes will kill you almost instantly."
+        },
+        {
+          "t": 213,
+          "kind": "opinion",
+          "text": "Gnomonkey contrasts the regular Nightmare, a slow group boss that does not punish mistakes hard but has constant chip damage, with Phosani's Nightmare, which is the opposite."
+        },
+        {
+          "t": 611,
+          "kind": "record",
+          "text": "With the lowest recommended budget setup, Gnomonkey's Phosani's Nightmare kills took around six and a half to seven minutes, while his max setup averaged around five and a half minutes."
+        },
+        {
+          "t": 611,
+          "kind": "opinion",
+          "text": "Gnomonkey says the Phosani's Nightmare fight feels a lot better, more approachable and less of a slog after the sleepy tablet and phase removal, and recommends trying it even if the rewards have kept you away."
+        }
+      ]
+    },
+    {
+      "name": "Phosani's Nightmare gear",
+      "kind": "item",
+      "claims": [
+        {
+          "t": 26,
+          "kind": "opinion",
+          "text": "Gnomonkey says the three weapons at the top for Phosani's Nightmare are the Scythe of Vitur (slightly ahead), the Inquisitor's mace (transcribed as Inkmace) and the Soul Reaper axe."
+        },
+        {
+          "t": 54,
+          "kind": "tip",
+          "text": "The Soul Reaper axe needs constant recharging after maging, but there are a couple of transition cutscenes where you can begin charging it early by hitting Phosani's Nightmare for zeros."
+        },
+        {
+          "t": 54,
+          "kind": "opinion",
+          "text": "Gnomonkey says the next best weapons are close between the Osmumten's fang, the Bludgeon and the Blood Moon set; he prefers the fang even though the bludgeon beats it by about 2% DPS, because the fang lets you five-tick the shadow phases."
+        },
+        {
+          "t": 88,
+          "kind": "opinion",
+          "text": "Gnomonkey says Inquisitor's armour is the best-in-slot melee armour for Phosani's Nightmare, then Torva, and then Oathplate, Bandos and Blood Moon are acceptable downgrades with identical strength bonus."
+        },
+        {
+          "t": 88,
+          "kind": "tip",
+          "text": "Gnomonkey says Blood Fury can be nice while learning, but the accuracy and max hit boost of the Ring of Rancor is incredibly important here."
+        },
+        {
+          "t": 88,
+          "kind": "tip",
+          "text": "Gnomonkey says it is incredibly important to get a Void Waker before Phosani's Nightmare if possible, because it is over two times better than other spec options."
+        },
+        {
+          "t": 119,
+          "kind": "opinion",
+          "text": "Gnomonkey says Lightbearer is a much better option than people give it credit for: by his maths camping it while maging saves over double the time of a Magus ring, and camping it with a Scythe only loses around 3 seconds over the whole kill despite the 6 max hit loss."
+        },
+        {
+          "t": 153,
+          "kind": "tip",
+          "text": "If you do not have a Void Waker and use a worse spec weapon such as claws, or your melee ring, Gnomonkey says Dinh's (bulwark spec) is also a good option for specing husks when she spawns them, as it instantly kills them."
+        },
+        {
+          "t": 153,
+          "kind": "requirement",
+          "text": "For mage gear in Phosani's Nightmare, only your max hit matters because you are guaranteed to hit with magic."
+        },
+        {
+          "t": 153,
+          "kind": "opinion",
+          "text": "Gnomonkey says Harmonised nightmare staff is technically best in slot with Sunfire runes, but losing double death charge and thralls makes it slightly worse than the Tumeken's shadow; a four-weight Trident of the Swamp is plenty good at about 20% worse than the shadow setup."
+        },
+        {
+          "t": 185,
+          "kind": "tip",
+          "text": "Gnomonkey highly recommends getting Mystic Vigor from the Royal Titans before Phosani's Nightmare, as it is the same as Augury in almost every case and maxes the same at half the prayer drain while maging."
+        }
+      ]
+    },
+    {
+      "name": "Sleepy tablet",
+      "kind": "item",
+      "claims": [
+        {
+          "t": 185,
+          "kind": "method",
+          "text": "Without the tablet, getting to the Nightmare means starting with a Drakan's medallion at Tobbs bank, then running to Sleep, down the stairs and around, taking about two minutes."
+        },
+        {
+          "t": 213,
+          "kind": "event",
+          "text": "After the summer update the sleepy tablet, which can be used on your Drakan's medallion to teleport you straight to the Nightmare, is a 1 in 25 drop and cannot go dry: on your 25th kill you are guaranteed to receive the tablet."
+        }
+      ]
+    },
+    {
+      "name": "Phosani's Nightmare phases",
+      "kind": "mechanic",
+      "claims": [
+        {
+          "t": 243,
+          "kind": "method",
+          "text": "In Phosani's Nightmare you damage her shield to zero, then kill all four totems in the corners with magic; the totems then hit Phosani's Nightmare for chunks of her health bar and a set of sleepwalkers spawns."
+        },
+        {
+          "t": 243,
+          "kind": "tip",
+          "text": "Sleepwalkers in Phosani's Nightmare must be killed before they reach her or you take massive or even lethal damage; the cycle is repeated three times in total."
+        },
+        {
+          "t": 270,
+          "kind": "method",
+          "text": "After the final set of four sleepwalkers, Phosani's Nightmare spawns in the middle of the room, heals 150 health and constantly spams shadow claws while sleepwalkers walk toward her, each chipping you 15 health when it reaches her; depleting her remaining 150 health finishes the kill."
+        },
+        {
+          "t": 270,
+          "kind": "stat",
+          "text": "Phosani's Nightmare has three attack styles that must be prayed after the animation, and all of them max over 70 damage; game sounds give clear cues for each."
+        },
+        {
+          "t": 270,
+          "kind": "method",
+          "text": "Her ranged attack is a repeated back snap before hurling a spike, her magic attack is red particles with arms swung in a circle, and her melee attack, the most dangerous and fastest, has her place her arms behind her and swing toward you."
+        },
+        {
+          "t": 296,
+          "kind": "tip",
+          "text": "Phosani's Nightmare melee attack can also be avoided by simply stepping away, causing it to miss."
+        },
+        {
+          "t": 324,
+          "kind": "stat",
+          "text": "Phosani's Nightmare can only use two special attacks per phase and then uses two new specials next phase, cycling through them; they are amped-up versions of regular Nightmare specials and can one-shot you if you blink more than once in a row."
+        }
+      ]
+    },
+    {
+      "name": "Grasping Claws",
+      "kind": "mechanic",
+      "claims": [
+        {
+          "t": 324,
+          "kind": "stat",
+          "text": "Grasping Claws, the shadow puddle ability, happens constantly throughout all phases of Phosani's Nightmare, deals 55 to 65 damage, and there are far more of them than in the standard fight."
+        },
+        {
+          "t": 324,
+          "kind": "tip",
+          "text": "Grasping Claws is often accompanied by one of her other specials, and she spams huge amounts of them."
+        },
+        {
+          "t": 352,
+          "kind": "trivia",
+          "text": "Going underneath Phosani's Nightmare damages you, but the exact corners underneath her are completely safe from claws, unless you are standing there as she spawns her next set, in which case they appear underneath you."
+        },
+        {
+          "t": 352,
+          "kind": "method",
+          "text": "A five-tick walk cycle completely negates Grasping Claws, similar to the jaguars at Blood Moon; most claws spawn around your character, so moving around the room while maging totems avoids the bulk of them."
+        }
+      ]
+    },
+    {
+      "name": "Spores",
+      "kind": "mechanic",
+      "claims": [
+        {
+          "t": 378,
+          "kind": "opinion",
+          "text": "Gnomonkey considers spores the hardest special attack in Phosani's Nightmare to deal with."
+        },
+        {
+          "t": 378,
+          "kind": "stat",
+          "text": "During spores, mushrooms appear in a grid pattern affecting a 3x3 area; going near one disables your run energy, makes you attack 2 ticks slower for the duration, and rapidly drains your prayer points, while she spams grasping claws."
+        },
+        {
+          "t": 378,
+          "kind": "method",
+          "text": "Gnomonkey says the best way to deal with spores is the 5-tick corner walk while meleeing and carefully moving constantly while maging."
+        }
+      ]
+    },
+    {
+      "name": "Husks",
+      "kind": "mechanic",
+      "claims": [
+        {
+          "t": 406,
+          "kind": "stat",
+          "text": "The husks special spawns two husks that trap you in place and use magic and ranged on you; you must kill them to get free, and they have 20 HP."
+        },
+        {
+          "t": 406,
+          "kind": "tip",
+          "text": "A weapon set to crush guarantees max hits on husks; a ham joint kills them rapidly, or a bulwark spec aimed at Nightmare instantly deals with them while damaging her."
+        },
+        {
+          "t": 406,
+          "kind": "tip",
+          "text": "Husks are a free double death charge whenever they spawn."
+        },
+        {
+          "t": 406,
+          "kind": "method",
+          "text": "You can and probably should pray against the husks since they hit over 20 damage: the fat husk is ranged and the lanky skinny husk is magic."
+        },
+        {
+          "t": 437,
+          "kind": "method",
+          "text": "If you target the ranged husk first, you can always flick both Nightmare and the mage husk's attacks, completely negating the damage."
+        }
+      ]
+    },
+    {
+      "name": "Sleepwalkers",
+      "kind": "mechanic",
+      "claims": [
+        {
+          "t": 437,
+          "kind": "stat",
+          "text": "Sleepwalkers are one-shot by any damage directed at them; a blowpipe or a long-ranged three-tick bow like a webweaver or hunter's crossbow is typically best."
+        },
+        {
+          "t": 437,
+          "kind": "tip",
+          "text": "To guarantee finishing sleepwalkers, target the final walker with a melee weapon to avoid arrow travel time, allowing them to go in."
+        },
+        {
+          "t": 465,
+          "kind": "stat",
+          "text": "The number of sleepwalkers depends on the phase: 2 at the end of phase 1, 3 at the end of phase 2, and 4 at the end of phase 3."
+        }
+      ]
+    },
+    {
+      "name": "Parasites",
+      "kind": "mechanic",
+      "claims": [
+        {
+          "t": 465,
+          "kind": "stat",
+          "text": "Phosani's Nightmare impregnates you with a parasite, and after 18 ticks it explodes out and deals a lot of damage."
+        },
+        {
+          "t": 465,
+          "kind": "tip",
+          "text": "A dose of sanfew serum clears the parasite, or a Relicym's balm makes you take reduced damage when the parasite pops out and weakens it."
+        },
+        {
+          "t": 491,
+          "kind": "stat",
+          "text": "A live parasite rapidly heals Nightmare or any damaged totems, so it must be killed as fast as possible; an Elder maul or godsword on crush one-shots its 55 HP, and a ham joint two-shots it in the same number of ticks."
+        },
+        {
+          "t": 491,
+          "kind": "tip",
+          "text": "If you step under Nightmare when the parasite pops out, it wanders around under her and cannot heal her, giving you time to deal with it."
+        },
+        {
+          "t": 491,
+          "kind": "method",
+          "text": "If the parasite cannot heal anything it simply attacks you; it always starts with a ranged attack and then alternates mage and range every attack like the Jad phase, letting you block all of its damage."
+        }
+      ]
+    },
+    {
+      "name": "Flowers",
+      "kind": "mechanic",
+      "claims": [
+        {
+          "t": 519,
+          "kind": "method",
+          "text": "In the flowers special, Nightmare spawns flowers in four quadrants, two lines dead and two thriving; stand in the quadrant surrounded by living flowers, because the dead areas rapidly tick your HP away and she heals for twice the damage done."
+        },
+        {
+          "t": 519,
+          "kind": "tip",
+          "text": "During the flowers special she spams grasping claws like in spores, so corner stepping is ideal, and in a pinch you can reach totems outside the safe area by standing on the lines of living flowers."
+        }
+      ]
+    },
+    {
+      "name": "Curse",
+      "kind": "mechanic",
+      "claims": [
+        {
+          "t": 551,
+          "kind": "stat",
+          "text": "Curse is Phosani's Nightmare's prayer-shuffle mechanic: melee becomes mage, mage becomes ranged and ranged becomes melee for five attacks before it goes back to normal."
+        },
+        {
+          "t": 551,
+          "kind": "tip",
+          "text": "You know the curse has ended when your prayers swap back to normal and she does a single grasping claw special; be ready to pray ranged to block incoming melee attacks during the curse."
+        }
+      ]
+    },
+    {
+      "name": "Surge",
+      "kind": "mechanic",
+      "claims": [
+        {
+          "t": 551,
+          "kind": "stat",
+          "text": "In the surge special Nightmare jumps into the ground and appears on an edge of the arena, then after a few ticks instantly jumps to the other side; standing in the area she runs through deals around 85 damage."
+        },
+        {
+          "t": 579,
+          "kind": "tip",
+          "text": "During surge you can still hit Nightmare from her sides, or quickly get a hit in and step out of the way."
+        }
+      ]
+    },
+    {
+      "name": "Prayer deactivation",
+      "kind": "mechanic",
+      "claims": [
+        {
+          "t": 579,
+          "kind": "stat",
+          "text": "In Nightmare's last phase, if you are camping a prayer as she attacks and it is already the correct style, she turns it off to trip you up so you have to catch the prayer instead of holding a style."
+        },
+        {
+          "t": 579,
+          "kind": "opinion",
+          "text": "Gnomonkey says prayer deactivation hits him every time and is super annoying, and advises remembering when the last phase starts."
+        }
+      ]
+    }
+  ]
+}

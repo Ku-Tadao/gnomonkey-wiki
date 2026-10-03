@@ -1,0 +1,818 @@
+{
+ "id": "2r5Wlx2BiI0",
+ "title": "SOLO CM COX GUIDE + Shadow Running! (OSRS)",
+ "date": "2024-11-08",
+ "type": "guide",
+ "summary": "A teaching-stream guide to solo Chambers of Xeric: Challenge Mode, walking through gear, stats and every room in order with a Twisted bow, then a second run showing Shadow running at Olm. Gnomonkey's main message is that a Twisted bow is the entry requirement and that CM is much more approachable than it looks once you plan each room.",
+ "outline": [
+  {
+   "t": 0,
+   "text": "Gear, stats and requirements overview for solo CM"
+  },
+  {
+   "t": 511,
+   "text": "Tekton"
+  },
+  {
+   "t": 706,
+   "text": "How to 1 cycle the Crabs room"
+  },
+  {
+   "t": 1240,
+   "text": "Ice Demon"
+  },
+  {
+   "t": 1420,
+   "text": "Shamans"
+  },
+  {
+   "t": 1495,
+   "text": "Prep and deciding between prep and no-prep"
+  },
+  {
+   "t": 1623,
+   "text": "How to do Vanguards"
+  },
+  {
+   "t": 2089,
+   "text": "Thieving"
+  },
+  {
+   "t": 2179,
+   "text": "Vespula"
+  },
+  {
+   "t": 2232,
+   "text": "Tightrope"
+  },
+  {
+   "t": 2329,
+   "text": "Guardians"
+  },
+  {
+   "t": 2382,
+   "text": "Vasa"
+  },
+  {
+   "t": 2607,
+   "text": "Mystics"
+  },
+  {
+   "t": 2735,
+   "text": "Muttadile"
+  },
+  {
+   "t": 2870,
+   "text": "Olm with Sanguinesti staff and 4:1 explanations"
+  },
+  {
+   "t": 4350,
+   "text": "Shadow running Olm explained and a second run with Tumeken's shadow"
+  }
+ ],
+ "topics": [
+  {
+   "name": "Chambers of Xeric: Challenge Mode",
+   "kind": "raid",
+   "claims": [
+    {
+     "t": 0,
+     "kind": "tip",
+     "text": "Gnomonkey describes Chambers of Xeric Challenge Mode (CM) as a regular Chambers of Xeric with every room's stats cranked: everything hits harder, is tankier and has more health."
+    },
+    {
+     "t": 0,
+     "kind": "trivia",
+     "text": "Challenge Mode gives extra kits at the end of the raid and bonus points if you make the time; in solo, Gnomonkey says the time to beat is about 1 hour 15 minutes."
+    },
+    {
+     "t": 31,
+     "kind": "opinion",
+     "text": "Gnomonkey notes the benefit of CM over regular Chambers is that there is no scouting and you always do the same raid, but that it is harder."
+    },
+    {
+     "t": 60,
+     "kind": "opinion",
+     "text": "Gnomonkey says you should not enter Challenge Mode without a Twisted bow; with only a Bow of Faerdhinen he says you will have a bad time and should do regular Chambers instead, which gives more loot per hour."
+    },
+    {
+     "t": 60,
+     "kind": "stat",
+     "text": "In Challenge Mode the Twisted bow's damage cap is even higher than in regular Chambers because enemy stats are higher; Gnomonkey says it maxes around 96 on quite a few bosses."
+    },
+    {
+     "t": 105,
+     "kind": "opinion",
+     "text": "Gnomonkey says you do not need a Scythe of Vitur for CM: because everything is so tanky, the Abyssal tentacle-style comparison is that a Osmumten's fang is effectively the same as a scythe, and a Lance is basically the same as a scythe at Olm."
+    },
+    {
+     "t": 147,
+     "kind": "tip",
+     "text": "In CM the boss order and layout are always identical, and each room (starting with Tekton) drops supplies such as overload, prayer enhance and restore, so you can bring few potions and farm more as you go."
+    },
+    {
+     "t": 4093,
+     "kind": "opinion",
+     "text": "Gnomonkey says CM is similar to regular Chambers, and the difference is whether you can quickly fix problems when Olm throws a lot of garbage at you; in CM you get hit much harder when things go wrong."
+    },
+    {
+     "t": 4160,
+     "kind": "tip",
+     "text": "Gnomonkey says that with the Twisted bow loadout from his first run he made time (the solo CM time) even while AFK-ing about 20-30 minutes explaining rooms, and that the Grandmaster time of 38:30 is feasible with this setup."
+    },
+    {
+     "t": 4143,
+     "kind": "opinion",
+     "text": "Gnomonkey says without at least a Twisted bow, Sanguinesti staff and a decent mage setup you should just farm regular Chambers, because the only reason to do CM is the kit chance and normal raids give better purples even factoring in scouting time."
+    }
+   ]
+  },
+  {
+   "name": "Twisted bow",
+   "kind": "item",
+   "claims": [
+    {
+     "t": 60,
+     "kind": "opinion",
+     "text": "Gnomonkey says the Twisted bow is the ground floor for getting into Challenge Mode Chambers of Xeric and is the most important item for the raid."
+    },
+    {
+     "t": 60,
+     "kind": "stat",
+     "text": "Because Challenge Mode monsters have higher stats, the Twisted bow hits harder there; Gnomonkey says it maxes about 96 on many bosses."
+    },
+    {
+     "t": 3490,
+     "kind": "tip",
+     "text": "Gnomonkey says that the Twisted bow shots on the Mage Vanguard can do around 80-90, so you must watch the Vanguard's reset threshold to avoid over-damaging it."
+    },
+    {
+     "t": 2607,
+     "kind": "tip",
+     "text": "At Vasa, Gnomonkey picks up Twisted items dropped in the room and says having the Twisted bow makes the Vasa fight extremely fast; he calls his minute-long kill basically a world-record Vasa."
+    },
+    {
+     "t": 4143,
+     "kind": "opinion",
+     "text": "Gnomonkey says that without a Twisted bow you effectively cannot do CM sensibly, since the gear requirement is high."
+    }
+   ]
+  },
+  {
+   "name": "Tekton",
+   "kind": "boss",
+   "claims": [
+    {
+     "t": 149,
+     "kind": "event",
+     "text": "Tekton is the first boss in Challenge Mode and always comes first; he drops overload, prayer enhance and restore."
+    },
+    {
+     "t": 495,
+     "kind": "tip",
+     "text": "Gnomonkey enters Tekton with the Cox Editions timer over his head so Tekton immediately leaves the anvil and comes to him, and notes the first hammer hit is guaranteed after a recent update but the second is not."
+    },
+    {
+     "t": 495,
+     "kind": "tip",
+     "text": "If you miss the second hammer on Tekton, Gnomonkey says to just leave the raid, since you can get back in fairly quickly."
+    },
+    {
+     "t": 515,
+     "kind": "method",
+     "text": "Gnomonkey kills CM Tekton with the Osmumten's fang, saying it is almost the same as a Scythe there because Tekton has a ridiculous amount of health and defence; he does two hammers into a fang hit for a better cycle."
+    },
+    {
+     "t": 495,
+     "kind": "stat",
+     "text": "Gnomonkey says Tekton's max hit in CM is 87, so a Vengeance cast on you from an alt can give a lot of value."
+    },
+    {
+     "t": 585,
+     "kind": "tip",
+     "text": "When Tekton is orange (enraged phase) he is much tankier and harder to hit, which is why the fang's ability to cut through defence is so good."
+    },
+    {
+     "t": 4216,
+     "kind": "stat",
+     "text": "Gnomonkey says Tekton has 246 defence and that a Dragon warhammer special drains one third of current defence, so hitting a hammer is very important for Tekton."
+    }
+   ]
+  },
+  {
+   "name": "Crabs (Chambers of Xeric)",
+   "kind": "mechanic",
+   "claims": [
+    {
+     "t": 706,
+     "kind": "method",
+     "text": "In solo CM Crabs there are four crabs; they load as soon as you cross the loading line and wander around, so Gnomonkey loads the room without entering and then runs in with mage gear."
+    },
+    {
+     "t": 764,
+     "kind": "method",
+     "text": "Gnomonkey clicks roughly the middle crab first, since a crab near the crystal can wander behind it and get blocked, then lures it toward himself and shoots it with the Twisted bow before switching back to mage."
+    },
+    {
+     "t": 856,
+     "kind": "method",
+     "text": "The Crabs sequence he teaches is: run in, mage the first crab, step, Twisted bow the crab, step, mage, step down, mage, step, smash a crab in place, mage, smash, mage, then bounce the light off three crabs into the yellow crystal."
+    },
+    {
+     "t": 977,
+     "kind": "tip",
+     "text": "To stop a fourth crab lining up with another crab and wandering randomly (which ruins the light bounce), Gnomonkey steps so the crabs sit in an arc around him; he says lines of crabs cause problems."
+    },
+    {
+     "t": 1050,
+     "kind": "tip",
+     "text": "After bouncing the light into the last crystals, walk (not run) the last crab slowly with unleash, because running makes the crab wander and puts the crystal in the wrong spot."
+    },
+    {
+     "t": 1050,
+     "kind": "opinion",
+     "text": "Gnomonkey says Crabs is harder than people give it credit for, and that a two-minute Crabs while learning is normal."
+    },
+    {
+     "t": 1237,
+     "kind": "tip",
+     "text": "A wasteful option Gnomonkey mentions is spamming Sanguinesti staff on the crabs every tick to heal."
+    }
+   ]
+  },
+  {
+   "name": "Ice Demon",
+   "kind": "boss",
+   "claims": [
+    {
+     "t": 1240,
+     "kind": "method",
+     "text": "For Ice Demon, Gnomonkey drops a few potions on the ground and starts chopping immediately, aiming for 24-28 kindling before depositing, with at least 10 kindling needed."
+    },
+    {
+     "t": 1240,
+     "kind": "tip",
+     "text": "You receive kindling every five ticks while chopping, even if you move between trees, so Gnomonkey moves between trees to avoid chopping down the one that would block the exit."
+    },
+    {
+     "t": 1301,
+     "kind": "method",
+     "text": "Gnomonkey uses an Elder maul on Ice Demon and lures it by standing two tiles from the exit and flinching in and out, which is the same cycle as Vespula and uses almost no prayer because the 3x3 mage AoE misses."
+    },
+    {
+     "t": 1357,
+     "kind": "stat",
+     "text": "Against Ice Demon all damage is one-third effective, and fire spells deal 1.5 times normal damage, so Gnomonkey says using Surge saves about a minute."
+    },
+    {
+     "t": 1397,
+     "kind": "tip",
+     "text": "Ice Demon drops enough supplies for prepping, so you do not need to farm the crabs room for supplies."
+    },
+    {
+     "t": 1217,
+     "kind": "tip",
+     "text": "Surge saves about a minute at Ice Demon but means using daily cape swaps (to switch to thralls after Ice Demon); Gnomonkey says you can use up the capes and still do this setup."
+    }
+   ]
+  },
+  {
+   "name": "Woodcutting",
+   "kind": "skill",
+   "claims": [
+    {
+     "t": 379,
+     "kind": "requirement",
+     "text": "Gnomonkey says Woodcutting is probably the most important non-combat stat for CM: at Ice Demon it determines kindling per chop, up to 8, and it also affects the Muttadile tree."
+    },
+    {
+     "t": 406,
+     "kind": "stat",
+     "text": "Gnomonkey gives the Ice Demon kindling breakpoints as 96 Woodcutting for 8 kindling per chop, 84 for 7, and roughly 72 for 6; 96 is the last breakpoint."
+    }
+   ]
+  },
+  {
+   "name": "Thieving",
+   "kind": "skill",
+   "claims": [
+    {
+     "t": 379,
+     "kind": "requirement",
+     "text": "Gnomonkey says Thieving, Woodcutting and Mining levels close to 99 help in CM."
+    },
+    {
+     "t": 435,
+     "kind": "stat",
+     "text": "Gnomonkey says the Thieving breakpoint is 95, giving a chance for three grubs per chest and saving roughly 30 seconds in the Thieving room."
+    },
+    {
+     "t": 2089,
+     "kind": "method",
+     "text": "In the Thieving room the optimised route is opening three or four chests in a set order then dumping the grubs; you need 30 grubs to finish the room, and you should keep the creature fed because it heals slowly if it stops eating."
+    }
+   ]
+  },
+  {
+   "name": "Mining",
+   "kind": "skill",
+   "claims": [
+    {
+     "t": 435,
+     "kind": "stat",
+     "text": "Gnomonkey says Mining increases your max hit against the Guardians in CM, but it matters less than the other skills and around level 90 you are very close to maximum efficiency."
+    },
+    {
+     "t": 379,
+     "kind": "opinion",
+     "text": "Gnomonkey calls Mining one of the worst stats to level but says near-99 helps in Challenge Mode."
+    }
+   ]
+  },
+  {
+   "name": "Shamans",
+   "kind": "boss",
+   "claims": [
+    {
+     "t": 1420,
+     "kind": "tip",
+     "text": "At the Shamans in CM, kill the left one first because it wanders closer to the entrance, and stay at the lower area so the other cannot reach you."
+    },
+    {
+     "t": 1453,
+     "kind": "tip",
+     "text": "Always stay next to a wall at Shamans, because they cannot use the jump attack when you are against a wall."
+    },
+    {
+     "t": 1453,
+     "kind": "method",
+     "text": "To avoid the Shamans' AoE, Gnomonkey moves three tiles every time they do their attack animation, since they read the tile he was standing on."
+    },
+    {
+     "t": 1152,
+     "kind": "tip",
+     "text": "Gnomonkey warns that Shamans poisoning you for around 16 once poison wears off can end the raid, so bring antidote."
+    }
+   ]
+  },
+  {
+   "name": "Prep (Chambers of Xeric)",
+   "kind": "mechanic",
+   "claims": [
+    {
+     "t": 177,
+     "kind": "tip",
+     "text": "In CM you can prep potions after about the third boss, or do a no-prep CM; Gnomonkey says you can fill your inventory with switches and not worry about supplies because rooms drop so many."
+    },
+    {
+     "t": 1515,
+     "kind": "opinion",
+     "text": "Gnomonkey says no-prep CM is not impossible, since boss drops give plenty of potions to reach Olm, but prep gives you a cushion while learning if you die in rooms or at Olm."
+    },
+    {
+     "t": 1541,
+     "kind": "stat",
+     "text": "Gnomonkey says the minimum you can enter Olm with for a no-prep CM is about four brews, and if you can consistently do CM Olm with four brews you are fine to no-prep."
+    },
+    {
+     "t": 1495,
+     "kind": "tip",
+     "text": "Gnomonkey says to grab vials from the Shaman area if prepping, to make a handful of brews and about two restores."
+    }
+   ]
+  },
+  {
+   "name": "Vanguards",
+   "kind": "boss",
+   "claims": [
+    {
+     "t": 1623,
+     "kind": "opinion",
+     "text": "Gnomonkey says Vanguards is the hardest room in a Chambers of Xeric raid other than Olm; they hit very hard and are very tanky."
+    },
+    {
+     "t": 1668,
+     "kind": "method",
+     "text": "There are three Vanguards (ranged, mage, melee) spawning at fixed spots in random order; each is weak to the combat-triangle style: melee the ranged one, range the mage one, and mage the melee one."
+    },
+    {
+     "t": 1668,
+     "kind": "method",
+     "text": "If you do too much damage to a single Vanguard, all of them heal to full and the room resets."
+    },
+    {
+     "t": 1697,
+     "kind": "tip",
+     "text": "Gnomonkey uses a Cox Editions plugin that shows a number over each Vanguard indicating how much damage you can do before it resets, and you need to know the max hit of each weapon."
+    },
+    {
+     "t": 1697,
+     "kind": "method",
+     "text": "Gnomonkey fangs the ranged Vanguard, Twisted bows the mage Vanguard and Sanguinesti-staffs the melee Vanguard."
+    },
+    {
+     "t": 1729,
+     "kind": "stat",
+     "text": "Gnomonkey says the mage Vanguard is the one you reset on, because the Twisted bow can hit around 90 and the number only updates after the projectile lands, and his reset threshold in that run was 110."
+    },
+    {
+     "t": 1783,
+     "kind": "method",
+     "text": "Gnomonkey's Vanguard plan: use the ranged Vanguard as an anchor (it cannot move and stops attacking you if you stand under it), get it below the threshold with the fang (his max about 49), bow the mage Vanguard below 90, then mage the melee Vanguard."
+    },
+    {
+     "t": 1815,
+     "kind": "stat",
+     "text": "The melee Vanguard hits up to 16 through prayer three times per attack (potentially 48 damage) on a four-tick attack speed, so it is the last priority."
+    },
+    {
+     "t": 1847,
+     "kind": "tip",
+     "text": "There are safe spots against the melee Vanguard: get it stuck on a lip, in a cave slot, or corner-trap it against a crystal and step down."
+    },
+    {
+     "t": 1907,
+     "kind": "tip",
+     "text": "The mage Vanguard does one guaranteed projectile plus two splats that are not guaranteed to hit; Gnomonkey says to keep your health high in this room."
+    },
+    {
+     "t": 2057,
+     "kind": "tip",
+     "text": "After Vanguards, pick up as much brew and revitalisation as you can, sip and drop the prayer enhance (it lasts through Vespula), and bank what you do not need."
+    }
+   ]
+  },
+  {
+   "name": "Vespula",
+   "kind": "boss",
+   "claims": [
+    {
+     "t": 2161,
+     "kind": "tip",
+     "text": "Gnomonkey says to bank most brew, revitalisation and mage switches after Thieving and keep Sanguinesti staff, salve, pickaxe and a fresh stamina for Vespula."
+    },
+    {
+     "t": 2189,
+     "kind": "method",
+     "text": "At Vespula he takes a shot from the corner, then cycles by waiting one tick on the tile and going back in; Cox Editions can show a tick timer on prayer enhance that helps use it."
+    },
+    {
+     "t": 2216,
+     "kind": "method",
+     "text": "Gnomonkey runs in as soon as he gets the XP drop and deactivates Rigor so he is never smited while running."
+    }
+   ]
+  },
+  {
+   "name": "Tightrope",
+   "kind": "boss",
+   "claims": [
+    {
+     "t": 2232,
+     "kind": "tip",
+     "text": "Gnomonkey says there is a way to skip the Tightrope room but it is difficult and switch-heavy, so while learning he recommends just killing them."
+    },
+    {
+     "t": 2247,
+     "kind": "tip",
+     "text": "Against the Deathly mage at Tightrope, flinch in because it attacks every four ticks while the bow is five ticks, making it attack slower."
+    },
+    {
+     "t": 2247,
+     "kind": "tip",
+     "text": "Gnomonkey says to try to brew every fifteen seconds on your overload timing so brewing costs no stat drain, and to swap into melee armour at Tightrope to take less damage."
+    },
+    {
+     "t": 4511,
+     "kind": "tip",
+     "text": "Gnomonkey says in a no-prep run killing the rope wastes a lot of brew, so skipping rope in a no-prep CM makes it a lot safer."
+    }
+   ]
+  },
+  {
+   "name": "Guardians",
+   "kind": "boss",
+   "claims": [
+    {
+     "t": 2310,
+     "kind": "tip",
+     "text": "Gnomonkey says Guardians in CM is basically a zero-damage room and your Blood Fury heals you, so brewing beforehand is a complete waste."
+    },
+    {
+     "t": 2310,
+     "kind": "stat",
+     "text": "The one difference at Guardians from regular to CM is that they max quite high."
+    },
+    {
+     "t": 2340,
+     "kind": "opinion",
+     "text": "Gnomonkey says using a pickaxe special or an Elder maul on Guardians is never worth it, since specs are saved for Vasa."
+    }
+   ]
+  },
+  {
+   "name": "Vasa Nistirio",
+   "kind": "boss",
+   "claims": [
+    {
+     "t": 2352,
+     "kind": "opinion",
+     "text": "Gnomonkey calls Vasa the second hardest room in CM and the most switch-heavy room."
+    },
+    {
+     "t": 2352,
+     "kind": "method",
+     "text": "Vasa teleports you at the start and bombs you, dealing your health at the time of the teleport minus five, so he leaves you with five health regardless; Gnomonkey therefore does not heal before it."
+    },
+    {
+     "t": 2400,
+     "kind": "tip",
+     "text": "Gnomonkey says to have a decent overload timer before entering Vasa, sipping a new one early if needed, since he has to re-overload right after the bomb."
+    },
+    {
+     "t": 2434,
+     "kind": "method",
+     "text": "Vasa throws 3x3 AoE rocks, so Gnomonkey shoots, then moves four times, then shoots again, and says you must keep moving constantly to be completely safe."
+    },
+    {
+     "t": 2490,
+     "kind": "method",
+     "text": "When Vasa reaches a crystal, Gnomonkey quickly switches to Void waker on stab, kills the crystal, then switches back to ranged; after the first crystal Vasa never walks back to the crystal just killed, so that is a safe place to spec."
+    },
+    {
+     "t": 2552,
+     "kind": "tip",
+     "text": "Gnomonkey puts Rigor on before the switches, saying getting prayer on matters more than completing all seven switches."
+    },
+    {
+     "t": 2332,
+     "kind": "tip",
+     "text": "Void waker doubles as a defence-ignoring spec weapon and the stab weapon for Vasa's crystals."
+    }
+   ]
+  },
+  {
+   "name": "Mystics",
+   "kind": "boss",
+   "claims": [
+    {
+     "t": 2607,
+     "kind": "tip",
+     "text": "Gnomonkey enters Mystics with a salve amulet on and first shoots the one that always spawns close."
+    },
+    {
+     "t": 2645,
+     "kind": "method",
+     "text": "Mystics have a 50-50 chance when you are in line of sight to stop maging and walk up to punch you, staying in that mode until you attack them."
+    },
+    {
+     "t": 2645,
+     "kind": "method",
+     "text": "Gnomonkey runs through the room at very high health to get the Mystics into punch mode, then corner-traps them one by one and shoots them."
+    }
+   ]
+  },
+  {
+   "name": "Muttadile",
+   "kind": "boss",
+   "claims": [
+    {
+     "t": 2705,
+     "kind": "opinion",
+     "text": "Gnomonkey calls Muttadile the worst boss in the entire game."
+    },
+    {
+     "t": 2723,
+     "kind": "tip",
+     "text": "Before Muttadile Gnomonkey equips tank (melee) armour and just the Sanguinesti staff, and brews a lot, since Muttadile can hit for 70 damage at any moment."
+    },
+    {
+     "t": 2764,
+     "kind": "method",
+     "text": "Pray melee when near Muttadile and range when far; every XP drop he casts at it, since chopping and attacking share the same five-tick cycle, and he tries to get it near 50% health before chopping the tree down, as below 50% it eats the tree."
+    },
+    {
+     "t": 2764,
+     "kind": "tip",
+     "text": "When re-overloading in the Muttadile room, spam brew."
+    },
+    {
+     "t": 2750,
+     "kind": "tip",
+     "text": "Gnomonkey mentions Tendril skip as an option but does not demonstrate it in this run."
+    }
+   ]
+  },
+  {
+   "name": "Great Olm",
+   "kind": "boss",
+   "claims": [
+    {
+     "t": 2870,
+     "kind": "opinion",
+     "text": "Gnomonkey says a solid understanding of Olm in solo Chambers is really all you want before starting CM, and that managing inventory and what you need for each room is the hardest part."
+    },
+    {
+     "t": 3000,
+     "kind": "method",
+     "text": "Against the mage hand, if you splash with a thrall out Olm will not turn to the centre because your thrall hits instead, so thralls make Olm easier."
+    },
+    {
+     "t": 3043,
+     "kind": "tip",
+     "text": "Gnomonkey says 4:1 (four-to-one) is really important to do well in a CM, and that if you are good at it you can do a CM."
+    },
+    {
+     "t": 3399,
+     "kind": "tip",
+     "text": "For 4:1, hover by default and click as soon as the XP drop appears; if you realise you are off by a tick, go back to the thumb (3:0 setup) and do it again until on the right tick rather than tanking hits."
+    },
+    {
+     "t": 3499,
+     "kind": "method",
+     "text": "Setting up mage running means dragging from the first tile on the same tick Olm does; a 3-0 followed by a hit sets up 4-1, where Olm attacks then stares at you."
+    },
+    {
+     "t": 3828,
+     "kind": "method",
+     "text": "For acid, Gnomonkey steps to a set tile and uses the lance cooldown, doing the fourth hit over there so the acid disappears as you arrive, attacking every tick you can."
+    },
+    {
+     "t": 3870,
+     "kind": "tip",
+     "text": "In the third phase Olm's hand does not cripple, so Gnomonkey starts with the melee hand to get an instant 4:1 at the end, and flinching from the side nulls flame walls."
+    },
+    {
+     "t": 4033,
+     "kind": "tip",
+     "text": "To save prayer with two restores, keep prayer around 30, because an orb at that level drains 10 prayer instead of 15."
+    },
+    {
+     "t": 4064,
+     "kind": "method",
+     "text": "In Olm's final phase he moves as the head turns and attacks whenever off cooldown, so the attack lands in the middle only and flame walls there get nulled."
+    },
+    {
+     "t": 4300,
+     "kind": "tip",
+     "text": "Gnomonkey says to heal at least once between phases if below about 40 health, and to be full health before the melee hand because it hits hard."
+    },
+    {
+     "t": 4393,
+     "kind": "tip",
+     "text": "Gnomonkey says Muttadile and Olm aside, Olm's health bar kill threshold phases are about getting back into cycle quickly after being pulled out."
+    }
+   ]
+  },
+  {
+   "name": "Tumeken's shadow",
+   "kind": "item",
+   "claims": [
+    {
+     "t": 4310,
+     "kind": "opinion",
+     "text": "Gnomonkey says Tumeken's shadow is roughly a five-minute time save in CM and is insanely strong in addition to the Twisted bow, but is not a replacement for it."
+    },
+    {
+     "t": 4330,
+     "kind": "tip",
+     "text": "Shadow is useful on very tanky bosses such as Abyssal portal and Mystics in CM."
+    },
+    {
+     "t": 4360,
+     "kind": "tip",
+     "text": "Gnomonkey says you can bring Sanguinesti staff in addition to the shadow to make Olm easier if you have not learned Shadow running, but the shadow is much faster on Olm."
+    },
+    {
+     "t": 4400,
+     "kind": "opinion",
+     "text": "Gnomonkey says to use Sang at Crabs rather than shadow, since the shadow is really slow there."
+    }
+   ]
+  },
+  {
+   "name": "Shadow running",
+   "kind": "mechanic",
+   "claims": [
+    {
+     "t": 4350,
+     "kind": "opinion",
+     "text": "Gnomonkey says Shadow running looks complicated but is less hard than it looks, and recommends first trying it on regular Chambers."
+    },
+    {
+     "t": 4350,
+     "kind": "method",
+     "text": "Shadow running differs on each side of Olm; the 12-0 side uses numbered tiles: start on tile one and drag to the mage hand, hit, then run left, hit from tile two, drag from tile three, long-range hit on tile four, then drag from tile five and repeat."
+    },
+    {
+     "t": 4424,
+     "kind": "method",
+     "text": "On the 12-0 side the fourth hit of the cycle is a long-range hit, so swap the shadow to long range for it and then run."
+    },
+    {
+     "t": 4400,
+     "kind": "method",
+     "text": "The harder 8-1 side takes one hit per eight attacks: start with the shadow on long range, hit, then tank the hit in the middle tile (two) because flame walls in the dead centre get nulled, then hit from three after dragging."
+    },
+    {
+     "t": 4483,
+     "kind": "tip",
+     "text": "On the 8-1 side the cycle is: long range hit, run, hit, hit, hit, drag from three, tank a hit in the middle on the two tile, hit, hit, hit, one more hit, step down on three, drag and repeat."
+    },
+    {
+     "t": 4543,
+     "kind": "tip",
+     "text": "When acid appears while shadow running, Gnomonkey says there is no good acid run; just come up and do long range hits when off cooldown and then get back into the cycle."
+    },
+    {
+     "t": 5174,
+     "kind": "tip",
+     "text": "Shadow running works when it works, but as soon as you drop a tick or get pulled out, things go wrong, so you need to go back and set it up again from tile one and stick to the plan."
+    },
+    {
+     "t": 5018,
+     "kind": "tip",
+     "text": "Gnomonkey says 1-0 on the final head is way slower than the other methods but a safe option if you are out of supplies."
+    },
+    {
+     "t": 5174,
+     "kind": "record",
+     "text": "In the second run, with a no-prep Shadow setup, Gnomonkey says he beat the time by two minutes while also fully explaining Shadow running."
+    }
+   ]
+  },
+  {
+   "name": "Gear for Challenge Mode",
+   "kind": "item",
+   "claims": [
+    {
+     "t": 177,
+     "kind": "tip",
+     "text": "Gnomonkey says Dragon pegs (Pegasian boots) are quite good in CM because they add three to four percent DPS with the Twisted bow."
+    },
+    {
+     "t": 238,
+     "kind": "tip",
+     "text": "Gnomonkey says Void waker is a really good all-round spec weapon in CM because it goes through defence, and it doubles as the stab weapon for Vasa's crystals."
+    },
+    {
+     "t": 265,
+     "kind": "opinion",
+     "text": "Gnomonkey does not use a Lightbearer in CM because you recharge spec running between rooms and cannot spec Vespula, Tightrope or Guardians, so it just sits in your inventory."
+    },
+    {
+     "t": 322,
+     "kind": "opinion",
+     "text": "Gnomonkey recommends a melee strength ring such as Ultor ring; without it he suggests Berserker ring or Brimstone ring (for its accuracy for maging)."
+    },
+    {
+     "t": 351,
+     "kind": "opinion",
+     "text": "Gnomonkey recommends using Amulet of blood fury at first rather than Amulet of torture or Necklace of anguish-style Rancor options, because the healing lets you brew less; torture or Rancor become good once you can time brewing perfectly."
+    },
+    {
+     "t": 238,
+     "kind": "opinion",
+     "text": "Gnomonkey says Eternal boots are only worth bringing if you are using a shadow."
+    },
+    {
+     "t": 3500,
+     "kind": "tip",
+     "text": "Gnomonkey says you can get away with two stamina potions in solo CM."
+    },
+    {
+     "t": 4207,
+     "kind": "opinion",
+     "text": "Gnomonkey would not bring a Bandos godsword in CM or even regular Chambers, saying a Dragon warhammer is really important."
+    }
+   ]
+  },
+  {
+   "name": "Combat stats",
+   "kind": "skill",
+   "claims": [
+    {
+     "t": 461,
+     "kind": "opinion",
+     "text": "Gnomonkey says to max all combat stats before doing CM: attack, strength, ranged and magic levels matter more than usual because everything is so tanky, and mage levels help you not splash at Olm."
+    }
+   ]
+  },
+  {
+   "name": "Gnomonkey",
+   "kind": "person",
+   "claims": [
+    {
+     "t": 0,
+     "kind": "event",
+     "text": "This video is a CM teaching stream by Gnomonkey, who runs a solo Challenge Mode run with a Twisted bow and then another with Tumeken's shadow."
+    },
+    {
+     "t": 5313,
+     "kind": "trivia",
+     "text": "At the end of the video Gnomonkey plugs his merch."
+    }
+   ]
+  }
+ ]
+}

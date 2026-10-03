@@ -1,0 +1,74 @@
+{
+ "id": "Xfrnx3sHmzY",
+ "title": "Is This Good For Runescape? - Project Zanaris - OSRS",
+ "date": "2024-12-29",
+ "type": "news-opinion",
+ "summary": "Gnomonkey reads through Jagex's December 2024 Project Zanaris update (paid private servers for Old School RuneScape) and gives a neutral-to-critical take. He argues that Jagex's focus on adding individual parameters is the wrong approach and that Zanaris will only succeed long term if the community gets real modding or scripting tools.",
+ "outline": [
+  {"t": 0, "text": "Introduction to Project Zanaris and the December update blog"},
+  {"t": 96, "text": "Feedback form, Discord stage call and parameter concerns"},
+  {"t": 163, "text": "Region locking feature"},
+  {"t": 204, "text": "Monetization, pay-to-win and Jagex's stated goals"},
+  {"t": 322, "text": "Parameters versus custom content"},
+  {"t": 478, "text": "Zanaris being kept separate from the main game"},
+  {"t": 567, "text": "Gnomonkey's take: community modding tools are needed"},
+  {"t": 664, "text": "Custom game mode ideas: Bronzeman, randomizer, anarchy servers"},
+  {"t": 826, "text": "Benefits for Jagex: new talent, bugs, bringing players back"},
+  {"t": 986, "text": "Risks of opening the floodgates"},
+  {"t": 1145, "text": "The opportunity: modding platforms like Minecraft and Roblox"},
+  {"t": 1225, "text": "The case for community modding and final thoughts"}
+ ],
+ "topics": [
+  {
+   "name": "Project Zanaris",
+   "kind": "update",
+   "claims": [
+    {"t": 28, "kind": "event", "text": "Project Zanaris is Jagex's planned system letting players create and customise their own Old School RuneScape worlds as paid private servers that hosts pay for and other members can join."},
+    {"t": 28, "kind": "event", "text": "As of the December 2024 update, Jagex's team was working on the groundwork of basic parameters so hosts can mess around with settings on a private server."},
+    {"t": 0, "kind": "event", "text": "Gnomonkey says the Project Zanaris news post and its Reddit thread were met with mostly negative feedback, with the Reddit post in negative karma, and he describes his own position as neutral."},
+    {"t": 87, "kind": "event", "text": "Jagex sent a feedback form asking what one parameter players would want at launch, asking people not to include XP multipliers, drop rate modifiers or custom content like quests, bosses or NPCs."},
+    {"t": 118, "kind": "stat", "text": "Gnomonkey says a roughly two-hour Discord stage Q&A about Project Zanaris mostly consisted of 'can you do this' and 'hopefully yes', and that Jagex mentioned no scripting, modding or custom content, only features they can implement."},
+    {"t": 204, "kind": "event", "text": "Jagex stated in the December update that it was not ready to discuss monetization, including server costs, and that it would not allow pay to win or features breaking the rules of RuneScape."},
+    {"t": 204, "kind": "opinion", "text": "Gnomonkey says the servers need some form of monetization to survive long term and that completely disallowing it would not work, and he is unsure whether 'no pay to win' means no monetization at all."},
+    {"t": 322, "kind": "event", "text": "Jagex said in the update that one of its biggest priorities is parameters, that some parameters reconfigure numbers or redirect code while others need engine or game systems updates, and that choosing which parameters to include first is one of the team's biggest next steps."},
+    {"t": 415, "kind": "event", "text": "Jagex said that custom content such as brand new bosses, areas or editing core systems is its highest aspiration but it cannot yet say how it would proceed, with its immediate focus on parameters."},
+    {"t": 505, "kind": "event", "text": "Jagex said Project Zanaris worlds will not be hosted in the same areas as Old School worlds and will not allow any interaction with the main game, and that an idea touched on previously is under investigation and not guaranteed."},
+    {"t": 322, "kind": "event", "text": "Jagex said Project Zanaris tinkering will not directly affect main game content but could provide benefits to systems and tech; Gnomonkey considers that a huge missed opportunity."}
+   ]
+  },
+  {
+   "name": "Opinion: Community modding tools for Project Zanaris",
+   "kind": "opinion",
+   "claims": [
+    {"t": 567, "kind": "opinion", "text": "Gnomonkey believes Jagex is going about Project Zanaris the wrong way: it needs to give the community engine access or a scripting language such as Lua so players can make things, as Jagex cannot be adding parameters long term because it will not devote the dev time."},
+    {"t": 593, "kind": "opinion", "text": "Gnomonkey points to RuneLite plugins such as Bronzeman mode and Prop Hunt as examples of community game modes that work really well, and says Jagex cannot be expected to code things like Bronzeman mode into private servers."},
+    {"t": 654, "kind": "opinion", "text": "Gnomonkey says that if Jagex hands the community the keys, players could port Bronzeman mode server-side so items must be found and unlocked before they can be bought from other players, running a full server off it."},
+    {"t": 654, "kind": "opinion", "text": "Gnomonkey compares Zanaris to Garry's Mod, which grew huge servers such as roleplay, jailbreak, prop hunt and randomizer servers from purely community-made ideas."},
+    {"t": 704, "kind": "opinion", "text": "Gnomonkey suggests a randomizer server where drops of similar rarity are swapped, for example the Dragon platebody drop from Mithril dragons swapped with a Twisted bow, as a server-wide scavenger hunt lasting a week or two; he says a basic randomizer was one of the game jam projects mentioned on the modcast."},
+    {"t": 764, "kind": "opinion", "text": "Gnomonkey would love to see an anarchy server like Minecraft's 2b2t where botting, cheating and manipulation are allowed, to see an economy run by bots, and hopes Jagex leaves rule enforcement to the server host."},
+    {"t": 826, "kind": "opinion", "text": "Gnomonkey says high-quality community mods and bosses could be refined and added to the main game, citing Binding of Isaac, where a huge overhaul mod became DLC after the developers hired the team."},
+    {"t": 886, "kind": "opinion", "text": "Gnomonkey argues private servers would let Jagex find new talent, collect bug and exploit data, and possibly bring lapsed players back for a custom game mode, as many return for Leagues for a RuneScape twist."},
+    {"t": 986, "kind": "opinion", "text": "Gnomonkey lists risks of opening the engine to the community: players finding severe exploits such as dupes, invincibility or crash bugs; more bot problems; and Jagex's inability to police rule breakers, gold selling, scams or bans on private servers."},
+    {"t": 1145, "kind": "opinion", "text": "Gnomonkey argues that platforms built around modding such as Minecraft, Roblox, Garry's Mod and GTA V roleplay servers have huge playerbases, so Zanaris is Jagex's chance to reach far more than players from back in the day."},
+    {"t": 1225, "kind": "opinion", "text": "Gnomonkey argues that private servers will be dead within six months if Jagex alone provides updates, as popular randomizers such as the Ocarina of Time one stay alive because the community updates them roughly weekly."},
+    {"t": 1289, "kind": "opinion", "text": "Gnomonkey says Jagex's talk of removing the sandbox walls is not true freedom since parameters just change the walls, and concludes 'do it right or don't do it', saying community modding tools are the single most important thing."},
+    {"t": 1380, "kind": "opinion", "text": "Gnomonkey says Jagex needs a clear plan for monetization and policing before building basic infrastructure, and he considers policing servers itself not feasible for Jagex."}
+   ]
+  },
+  {
+   "name": "Region locking",
+   "kind": "mechanic",
+   "claims": [
+    {"t": 163, "kind": "event", "text": "In the December 2024 Project Zanaris update, Jagex said region locking is one of the most exciting features it is investigating, mentioning self-restricted rule sets like Saddled's Swamplytics, Jepparite's Northern UIM and X-Rakines' Deserted series, and official modes like Leagues."},
+    {"t": 163, "kind": "event", "text": "Jagex said allowing hosts to deploy region restrictions would enable some of the most interesting community world ideas, from servers for those rule sets to ideas not yet seen."}
+   ]
+  },
+  {
+   "name": "Gnomonkey",
+   "kind": "person",
+   "claims": [
+    {"t": 1412, "kind": "event", "text": "Gnomonkey says this Project Zanaris video is the first unscripted video he has ever made, and asks viewers whether they want more unscripted videos."}
+   ]
+  }
+ ]
+}

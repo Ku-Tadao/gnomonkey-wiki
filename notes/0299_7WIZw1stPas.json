@@ -1,0 +1,139 @@
+{
+  "id": "7WIZw1stPas",
+  "title": "FINALLY FIXING SAILING! (OSRS)",
+  "date": "2026-05-11",
+  "type": "news-opinion",
+  "summary": "Gnomonkey goes through Jagex's new Sailing blog, which shifts focus to buffing basic training methods and quality of life and shelves pirate encounters and the next Barracuda trial. He mostly approves, matching what he asked for in his last video, but argues deep sea trawling still gives a token amount of Sailing XP and that Sailing needs more reasons to train it.",
+  "outline": [
+    {"t": 0, "text": "Introduction: Jagex changes Sailing direction toward basic buffs"},
+    {"t": 36, "text": "Port tasks: courier and bounty task changes"},
+    {"t": 99, "text": "Boat combat and creatures: drop rates, solo spawns, cannon auto-retaliate"},
+    {"t": 160, "text": "Interface and QoL changes: repair facility, movable facilities"},
+    {"t": 240, "text": "Equipment and PvM buffs: Aqua Knight Hopper, Bell's Folly, Medallion of the Deep"},
+    {"t": 305, "text": "Deep sea trawling improvements"},
+    {"t": 362, "text": "Skill progression and Gnomonkey's feedback on reasons to train Sailing"},
+    {"t": 483, "text": "Wind mode spec button and movable interfaces"},
+    {"t": 560, "text": "Content roadmap: pirate encounters and Barracuda trial shelved"},
+    {"t": 625, "text": "Jagex's reasoning on fishing rewards and trawling"},
+    {"t": 772, "text": "New sea fishing opportunities"},
+    {"t": 827, "text": "Future direction, Red Reef quest and conclusion"}
+  ],
+  "topics": [
+    {
+      "name": "Update: Sailing direction blog",
+      "kind": "update",
+      "claims": [
+        {"t": 0, "kind": "event", "text": "Jagex posted a new blog on the direction of Sailing, saying some of the combat changes it was making did not live up to player standards, so it is targeting more basic buffs across the board to bring Sailing up to par with other skills."},
+        {"t": 0, "kind": "opinion", "text": "Gnomonkey says the new Sailing direction is pretty much exactly what he asked for in his last video, so he cannot complain."},
+        {"t": 872, "kind": "event", "text": "Jagex said that as it prioritises improving combat foundations, pirate encounters will no longer launch as part of the Red Reef update, though boat-to-boat combat will still feature within the quest."},
+        {"t": 842, "kind": "event", "text": "Jagex said the next Barracuda trial is no longer a priority for this year as it focuses on core improvements, alongside community-led projects like Worms Craig and a sequel quest."},
+        {"t": 872, "kind": "opinion", "text": "Gnomonkey thinks it is much smarter to put boat-to-boat combat in the quest first and only move it into the game if people really want it, as a healthier approach than adding new things."},
+        {"t": 876, "kind": "opinion", "text": "Gnomonkey says Jagex should build a solid foundation for Sailing instead of adding new stuff on top, because if the base is rough and the training methods are not doable, anything added later will struggle."},
+        {"t": 912, "kind": "opinion", "text": "Gnomonkey says he is glad Jagex is taking the safer, healthier long-term direction of fixing Sailing's foundation, though it is less fun and exciting than new content, and notes some people complained about losing pirates."}
+      ]
+    },
+    {
+      "name": "Sailing",
+      "kind": "skill",
+      "claims": [
+        {"t": 28, "kind": "event", "text": "Port tasks, both courier and bounty, are getting a 10 to 15% Sailing XP boost in the Sailing blog changes."},
+        {"t": 28, "kind": "event", "text": "Courier tasks will get loot sacks containing materials used for shipbuilding to increase their GP per hour, which Gnomonkey says he suggested a long time ago, and a bug preventing players from taking two cargoes of the same type for different tasks is being fixed."},
+        {"t": 62, "kind": "event", "text": "Bounty tasks will have a higher chance of Sailing-specific drops, will be longer on average to reduce travel time, and every sea creature will have a dedicated port offering a fixed, permanent bounty task for that creature."},
+        {"t": 62, "kind": "opinion", "text": "Gnomonkey says the permanent bounty ports turn bounty tasks into Slayer where you get to pick the task, which makes it distinct from Slayer and a more interesting Sailing training method."},
+        {"t": 99, "kind": "event", "text": "Sailing-specific items will drop more frequently from armoured Kraken, Vampire Kraken, Failed Kraken and Great White Shark, and dragon cheats will be added to the loot table of orcas."},
+        {"t": 99, "kind": "opinion", "text": "Gnomonkey hopes the Kraken and Great White Shark drop buffs are sizable, in the 20 to 40% range, because they take a very long time to kill and have very rare drops."},
+        {"t": 124, "kind": "event", "text": "Jagex is adding an auto-retaliate feature for cannons while you are on them, and mapping various solo spawns of high-level sea creatures such as Vampire Kraken and Great White Shark."},
+        {"t": 124, "kind": "opinion", "text": "Gnomonkey says solo spawns will make the ocean feel less empty and let players with lower level cannons kill one creature without entering a pile of aggressive monsters."},
+        {"t": 156, "kind": "event", "text": "Jagex is exploring looting improvements such as crewmates, visual displays or AoE loot options."},
+        {"t": 210, "kind": "event", "text": "Jagex is making facilities movable within the Sailing side panel, which Gnomonkey says is much needed to remove clunkiness."},
+        {"t": 483, "kind": "event", "text": "Jagex is adding functionality to the special attack button while on a boat attached to the helm, allowing wind modes to be released with the spec button or spec bar, which Gnomonkey says is a great change."},
+        {"t": 509, "kind": "event", "text": "Jagex is letting players move any interface anywhere, such as moving a crew button or trawling nets and hooks to the top; Gnomonkey hopes it can be tied to each boat individually, since he has separate boats for salvage and fishing."}
+      ]
+    },
+    {
+      "name": "Bosun's bench",
+      "kind": "item",
+      "claims": [
+        {"t": 156, "kind": "event", "text": "Jagex is adding the bosun's bench, a dedicated repair facility, as part of the Red Reef update."},
+        {"t": 156, "kind": "opinion", "text": "Gnomonkey is unsure about the repair facility; he says it would be okay as a side thing like the inoculation station or something that installs into the ship's hull and frees up space, but a big clunky table in the middle of the boat would be annoying."},
+        {"t": 542, "kind": "opinion", "text": "After seeing it can be built in any existing slot that supports it, Gnomonkey says he personally votes no because he does not want even more stations on his boat."}
+      ]
+    },
+    {
+      "name": "Slayer",
+      "kind": "skill",
+      "claims": [
+        {"t": 210, "kind": "event", "text": "Jagex is adding a task extension and a weighting increase for frost dragons, and dragon cheats will drop more frequently from frost dragons and lava strikeworms."},
+        {"t": 210, "kind": "opinion", "text": "Gnomonkey says the frost dragon task extension is much needed since you have to kill literally tens of thousands of them, and the dragon cheats were far too rare."}
+      ]
+    },
+    {
+      "name": "Aqua Knight Hopper",
+      "kind": "item",
+      "claims": [
+        {"t": 241, "kind": "event", "text": "Potential buffs for the Aqua Knight Hopper and Bell's Folly are being considered as part of the next summer sweep-up, though nothing is confirmed."},
+        {"t": 241, "kind": "opinion", "text": "Gnomonkey calls the Aqua Knight Hopper complete trash that no one uses for any reason, and says it definitely needs help."},
+        {"t": 422, "kind": "opinion", "text": "Gnomonkey says he would not bring the Aqua Knight Hopper anywhere even if he had it, and that the Antler guard would be a faster way of getting effectively the same DPS."}
+      ]
+    },
+    {
+      "name": "Bell's Folly",
+      "kind": "item",
+      "claims": [
+        {"t": 241, "kind": "opinion", "text": "Gnomonkey says Bell's Folly is already fairly powerful and is just annoying to get hold of, and wonders whether a buff would make it stronger than a rapier."},
+        {"t": 395, "kind": "tip", "text": "On his hardcore account Gnomonkey skipped getting Bell's Folly by grinding Tormented Demons for a Scorching bow and killing K'ril early for a Zamorakian hasta, which he says is way faster because of K'ril's fairly fast drop rate."}
+      ]
+    },
+    {
+      "name": "Medallion of the Deep",
+      "kind": "item",
+      "claims": [
+        {"t": 273, "kind": "event", "text": "Jagex is buffing the Medallion of the Deep, used in the Fossil Island underwater Thieving and Agility section, to reduce oxygen consumption by 80%."},
+        {"t": 273, "kind": "opinion", "text": "Gnomonkey says he has only ever done the Fossil Island underwater method in Leagues, and is curious whether the buff makes it a relevant Thieving and Agility training method."}
+      ]
+    },
+    {
+      "name": "Deep sea trawling",
+      "kind": "activity",
+      "claims": [
+        {"t": 305, "kind": "event", "text": "Sailing XP from deep sea trawling will be roughly double what it currently is, and Gnomonkey estimates it is currently at most 30 to 40k XP per hour, rising to a max of around 80k."},
+        {"t": 305, "kind": "opinion", "text": "Gnomonkey says even doubled trawling Sailing XP is only a token amount, and even quadrupled it would be worse than other Sailing methods, but it would at least give useful fish, perhaps for an Ironman."},
+        {"t": 334, "kind": "event", "text": "Jagex is reducing the default gather rate in trawling from four ticks to three ticks, and fixing a bug with baited shoals so the 20% catch rate applies and players get more fish in their nets."},
+        {"t": 334, "kind": "opinion", "text": "Gnomonkey wonders whether the chum station was effectively doing nothing before the baited shoal fix."},
+        {"t": 630, "kind": "event", "text": "Jagex said the three-tick gather rate keeps the one-tick method alive for those who love it while making things smoother for players who prefer a more relaxed playstyle."},
+        {"t": 661, "kind": "event", "text": "Jagex said it looks at intensity, GP per hour and XP per hour when evaluating scaling content, and that trawling is meant to be a profitable fishing activity requiring high Fishing and Sailing, higher tier bait, a high-level boat and active gameplay."},
+        {"t": 691, "kind": "event", "text": "Jagex said it will not buff the Fishing XP from deep sea trawling because it risks becoming the best non-AFK fishing option overall and more players engaging with it would cut into the price of the fish."},
+        {"t": 719, "kind": "stat", "text": "Gnomonkey says the earliest level to catch marlin by trawling is 78 Sailing, and after the buff trawling would give about 60 to 80k Sailing XP per hour."},
+        {"t": 719, "kind": "opinion", "text": "Gnomonkey says he would use trawling more if it gave Sailing XP at least equal to salvaging, since the intense grind would then be worth it over AFK salvaging while also getting useful fish; as it is, it is just a way to acquire fish very slowly."}
+      ]
+    },
+    {
+      "name": "Opinion: Sailing needs reasons to train",
+      "kind": "opinion",
+      "claims": [
+        {"t": 362, "kind": "opinion", "text": "Gnomonkey says he wants Jagex to give more reason to train Sailing in the future, such as more islands with useful resources or items for combat, and more Slayer monsters with competitive XP."},
+        {"t": 395, "kind": "opinion", "text": "Gnomonkey says that on his hardcore he has found ways around everything potentially useful from Sailing, including skipping Bell's Folly by getting a Zamorakian hasta from K'ril early."},
+        {"t": 422, "kind": "opinion", "text": "Gnomonkey says the Sailing fish are useful and heal a lot but he has found he can get around them, with anglerfish being the only ones he needed since they overheal, and he managed to do the Inferno without the Sailing potions even though they would be useful."},
+        {"t": 450, "kind": "tip", "text": "Gnomonkey says he found a Dark bow tech that lets you spec at three-tick speed at Doom, making it better than getting a rosewood pipe from Sailing."},
+        {"t": 450, "kind": "opinion", "text": "Gnomonkey would love a push such as reaching 70 Sailing unlocking a Slayer monster, a Slayer item or faster training methods, because currently he finds very little reason to interact with Sailing."}
+      ]
+    },
+    {
+      "name": "Sea fishing",
+      "kind": "activity",
+      "claims": [
+        {"t": 533, "kind": "event", "text": "Jagex is adding various standard fishing spots at sea, which Gnomonkey says makes the ocean feel more alive."},
+        {"t": 772, "kind": "event", "text": "The blog lists fishing spots catchable off your boat, including anglerfish, and one entry that specifies a quest requirement rather than a request requirement, with the vessel received from doing that quest."},
+        {"t": 782, "kind": "opinion", "text": "Gnomonkey says fishing from the boat acts like a giant storage system holding theoretically around 200 fish that you could sail back to a bank, which he thinks could be a decent improvement over the default way of training Fishing, especially for slowly caught anglerfish."}
+      ]
+    },
+    {
+      "name": "Gnomonkey",
+      "kind": "person",
+      "claims": [
+        {"t": 395, "kind": "trivia", "text": "Gnomonkey has not interacted with Sailing since it came out, and on his hardcore account he trained it purely through Tears of Guthix and nothing else."},
+        {"t": 241, "kind": "trivia", "text": "Gnomonkey plans to make a video soon on what he wants from the summer sweep-up, mainly Theatre of Blood rewards getting a buff."}
+      ]
+    }
+  ]
+}

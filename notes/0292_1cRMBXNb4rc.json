@@ -1,0 +1,142 @@
+{
+  "id": "1cRMBXNb4rc",
+  "title": "Membership Price Increased AGAIN (OSRS)",
+  "date": "2026-03-10",
+  "type": "news-opinion",
+  "summary": "Gnomonkey reacts to Jagex's blog announcing another Old School RuneScape membership price increase and its justification. He argues the past year of updates (Sailing, Varlamore, Leagues, Yama, Doom), player support and anti-cheat do not justify a higher price, objects to funding RuneScape 3 changes, and proposes adding an extra character slot to the 12-month membership.",
+  "outline": [
+    {"t": 0, "text": "Jagex's blog on why membership is going up"},
+    {"t": 26, "text": "Reviewing the claimed value: Sailing, Varlamore, Leagues, Yama"},
+    {"t": 148, "text": "Doom of Mokhaiotl's buggy launch and QA concerns"},
+    {"t": 271, "text": "Player support and anti-cheat claims"},
+    {"t": 407, "text": "What the price changes actually are"},
+    {"t": 504, "text": "RuneScape 3 comparison and the CEO interview clip"},
+    {"t": 739, "text": "Comparisons to other MMOs and the character slot proposal"},
+    {"t": 942, "text": "Concerns about future update quality"},
+    {"t": 1074, "text": "Player support and communication improvements wanted"},
+    {"t": 1285, "text": "Discontinued projects, accountability and closing thoughts"}
+  ],
+  "topics": [
+    {
+      "name": "Update: Membership price increase",
+      "kind": "update",
+      "claims": [
+        {"t": 0, "kind": "event", "text": "Jagex raised Old School RuneScape membership prices again and published a blog explaining the reasons; the news caused a big reaction on Reddit."},
+        {"t": 416, "kind": "stat", "text": "Standard membership went up one dollar, which Gnomonkey says is the typical size of increase when Jagex raises prices."},
+        {"t": 444, "kind": "stat", "text": "Jagex removed the three-month and six-month membership options, leaving monthly, bonds and yearly (12-month) membership as the only choices."},
+        {"t": 472, "kind": "stat", "text": "Jagex's blog says 12-month membership provides 12 months for the price of nine on average; Gnomonkey says before this change the yearly value was about the cost of seven and a half months, so the value has gotten worse."},
+        {"t": 475, "kind": "opinion", "text": "Gnomonkey says the 12-month membership remaining the 'best annual value' is only because it is now the only long-term option, and considers the wording scummy."},
+        {"t": 504, "kind": "stat", "text": "The blog FAQ says prices are changing to support ongoing investment across both games, infrastructure, upgraded systems, new content and player support, and to keep RuneScape and Old School RuneScape sustainable for the next 25 years."},
+        {"t": 1058, "kind": "opinion", "text": "Gnomonkey does not think this reaction is as bad as last year's player survey controversy, though many Reddit users posted pictures of unsubscribing."},
+        {"t": 1344, "kind": "opinion", "text": "Gnomonkey says he personally will not cancel his membership, but understands players who do, and wants Jagex held accountable for buggy updates, lack of player support and unclear plans."}
+      ]
+    },
+    {
+      "name": "Opinion: Old School membership funding RuneScape 3",
+      "kind": "opinion",
+      "claims": [
+        {"t": 504, "kind": "opinion", "text": "Gnomonkey believes the price rise is largely meant to fund Jagex's remodelling of RuneScape 3 and its microtransaction model, and says it is unfair to make Old School players cover RuneScape 3's mistakes."},
+        {"t": 536, "kind": "event", "text": "Gnomonkey played a clip of the Jagex CEO admitting the company probably will not maintain its current revenue while making the RuneScape 3 changes, but saying short-term pain is worth it on a 10, 15 or 25-year view."},
+        {"t": 594, "kind": "opinion", "text": "Gnomonkey says RuneScape 3 has not removed microtransactions but made them less predatory, and he credits it as much better; he mentions bonus XP stars that let players train a skill at double speed until the bonus XP is used up."},
+        {"t": 655, "kind": "opinion", "text": "Gnomonkey says the final reward of last year's RuneScape 3 battle pass was 15 percent (he thinks) damage reduction in the hardest boss content, Zamorak, and finds it surprising Jagex still mentions battle passes."},
+        {"t": 712, "kind": "opinion", "text": "Gnomonkey points out that an Old School subscription lets you log into RuneScape 3 but not play both games at the same time, so if players are funding both they should at least be allowed to log into both."}
+      ]
+    },
+    {
+      "name": "Opinion: Character slots with yearly membership",
+      "kind": "opinion",
+      "claims": [
+        {"t": 739, "kind": "opinion", "text": "Gnomonkey says Jagex opened itself to MMO comparisons by claiming one of the largest yearly discounts in the MMO category, and that many Reddit users compare Old School to WoW, which offers many character slots."},
+        {"t": 797, "kind": "opinion", "text": "Gnomonkey says Old School does not offer multiple character slots because WoW time-gates content so players hop characters, while in Old School you can do something like Chambers of Xeric all day on one account."},
+        {"t": 829, "kind": "opinion", "text": "Gnomonkey says Jagex would lose a lot of money from character slots because many players have a main and an Ironman, or alts for pet hunting, who would no longer pay for separate memberships, and bots would also get slots."},
+        {"t": 851, "kind": "tip", "text": "Gnomonkey proposes giving a main slot plus an extra slot as a perk of the 12-month membership, arguing the most dedicated players buy long-term membership and bots mostly buy short bond membership because they will be banned."},
+        {"t": 918, "kind": "opinion", "text": "Gnomonkey says the 12-month membership is a worse value than before and is now the only long-term option, so adding extra value like a second character slot would make sense."},
+        {"t": 1415, "kind": "tip", "text": "Gnomonkey asks viewers for their own ideas for extra membership value and for feedback on his extra character slot idea."}
+      ]
+    },
+    {
+      "name": "Sailing",
+      "kind": "update",
+      "claims": [
+        {"t": 26, "kind": "opinion", "text": "Gnomonkey considers Sailing, Old School RuneScape's first new skill, one of the better major update releases, but says it had major issues, including balancing problems and mechanical features like combat feeling really weak."},
+        {"t": 58, "kind": "opinion", "text": "Gnomonkey says Sailing needed a lot of work and he does not agree it was a solid release worthy of making players pay more."}
+      ]
+    },
+    {
+      "name": "Varlamore",
+      "kind": "update",
+      "claims": [
+        {"t": 58, "kind": "opinion", "text": "Gnomonkey calls Varlamore a big expansion with an overall very solid set of updates, with solid skilling content, popular Vale Totems and a fairly solid Mastering Mixology."},
+        {"t": 58, "kind": "opinion", "text": "Gnomonkey has gripes with some Varlamore content such as Mocha and the Colosseum, calling them not perfect but generally good additions."}
+      ]
+    },
+    {
+      "name": "Leagues",
+      "kind": "update",
+      "claims": [
+        {"t": 86, "kind": "opinion", "text": "Gnomonkey says he likes Leagues a lot and has fun with it, but argues that if a temporary game mode is cited as a reason to raise membership then Jagex should not have done it, since it does not affect the long-term health of the game."},
+        {"t": 1074, "kind": "opinion", "text": "Gnomonkey says many players were bummed that Leagues was on the roadmap because it is a temporary mode, and that if modes like Leagues or Deadman require more staff and funding that drives price increases, Jagex should hold off on them."}
+      ]
+    },
+    {
+      "name": "Yama",
+      "kind": "boss",
+      "claims": [
+        {"t": 90, "kind": "event", "text": "After Yama released, two of the five Yama contracts were impossible to complete, so the world-first race for the contracts was effectively cancelled."},
+        {"t": 118, "kind": "opinion", "text": "Gnomonkey says many players were disappointed that Yama is not a true duo boss, but more of a solo boss done together with no real teamwork mechanics beyond one player tanking, which is a minuscule amount of work."},
+        {"t": 1005, "kind": "opinion", "text": "Gnomonkey says Yama and Doom came out in an unacceptable state and that he would have been happy for Yama to release polished and Doom to come a year later, with the contract system tested in betas."},
+        {"t": 1011, "kind": "opinion", "text": "Gnomonkey says players should not be able to buy a contract from another player and find it is impossible to complete."}
+      ]
+    },
+    {
+      "name": "Doom of Mokhaiotl",
+      "kind": "boss",
+      "claims": [
+        {"t": 148, "kind": "event", "text": "Doom of Mokhaiotl launched in a very buggy state, including a bug that stopped players continuing to the next cave."},
+        {"t": 148, "kind": "event", "text": "Gnomonkey says a bug carried over from Leviathan still stalls your character in place for about ten seconds when you log out, which can kill a hardcore Ironman on a long Doom run."},
+        {"t": 178, "kind": "event", "text": "At launch the Doom holy water trigger only worked on the first hit splat, so if a special attack's second hit splat killed the boss it would not trigger, and Gnomonkey could not tell what was intended."},
+        {"t": 209, "kind": "event", "text": "At launch leeches could spawn melee grubs during the orb phase, and Gnomonkey says he posted a YouTube short showing he one-shot the boss by staying on the shield phase a long time."},
+        {"t": 209, "kind": "event", "text": "At launch Doom boulder projectiles could line up depending on where you meleed the boss from, giving guaranteed damage, and for a while it kept hitting you after the cave ended."},
+        {"t": 241, "kind": "opinion", "text": "Gnomonkey says playing a hardcore Ironman during these updates meant gambling with your life, because you cannot tell what is a bug and what is a feature in Jagex updates."}
+      ]
+    },
+    {
+      "name": "Player support",
+      "kind": "mechanic",
+      "claims": [
+        {"t": 268, "kind": "opinion", "text": "Gnomonkey says Jagex player support has been replaced with an AI that responds, which is arguably better than no response, but support does not feel any better and lost hardcore accounts or items from bugs and disconnects are generally not recovered."},
+        {"t": 297, "kind": "opinion", "text": "Gnomonkey says other games like WoW will return your items if you are hacked, whereas Jagex will not, and even simple requests like transferring membership to another account can take a couple of weeks."},
+        {"t": 1154, "kind": "opinion", "text": "Gnomonkey says even content creators do not get a hardcore back after a server disconnect, and he has seen more posts about false bans, though more get appealed."},
+        {"t": 1197, "kind": "tip", "text": "Gnomonkey wants status updates about server problems and updates posted in one obvious place on every platform (in game, Twitter, Reddit), instead of only a single line from a Jagex moderator in Discord, which also enables photoshopped fake mod quotes."},
+        {"t": 1285, "kind": "opinion", "text": "Gnomonkey says player support was replaced with an AI chatbot while PvM update quality remained as buggy as ever, so the previous roadmap does not justify the increase."}
+      ]
+    },
+    {
+      "name": "Botting",
+      "kind": "mechanic",
+      "claims": [
+        {"t": 327, "kind": "opinion", "text": "Gnomonkey says botting rose massively during the last year, among the worst in many years, and that although ban waves have improved things and botted item prices are recovering, it is not better than prior years."},
+        {"t": 357, "kind": "stat", "text": "Gnomonkey cites botted items with very low prices such as Burning claw under 5 million, Avernic treads under 200 million, and Sunfire splinters so low that the Colosseum is not worth doing on a main."},
+        {"t": 1285, "kind": "opinion", "text": "Gnomonkey says real world trading and botting remain big problems, and that Jagex's anti-cheat improvements are not a strong reason to raise prices."}
+      ]
+    },
+    {
+      "name": "Opinion: Update quality and QA",
+      "kind": "opinion",
+      "claims": [
+        {"t": 241, "kind": "opinion", "text": "Gnomonkey argues Jagex releases updates with very little QA, with obvious bugs that minor testing would catch, such as impossible Yama contracts."},
+        {"t": 942, "kind": "opinion", "text": "Gnomonkey says he, who once begged for more updates, now wants Jagex to slow down and release fewer, higher-quality updates with extensive QA so they do not come out buggy and kill hardcores on release."},
+        {"t": 1074, "kind": "opinion", "text": "Gnomonkey says he would prefer more updates that go back and fix old content, like the Summer Sweep, which he lists among his favourite updates of the year."},
+        {"t": 1285, "kind": "event", "text": "Gnomonkey lists dropped projects: Jagex removed HD plug-in support, shut down Project Xanaris, and still has not added region support for places like Asia (Brazil was mentioned but is not yet in the game)."},
+        {"t": 1368, "kind": "opinion", "text": "Gnomonkey says the blog reads as if it comes from shareholders, not the developers, and that devs need more QA staff and support because they have fixed deadlines, so he is not blaming any particular mod."}
+      ]
+    },
+    {
+      "name": "Gnomonkey",
+      "kind": "person",
+      "claims": [
+        {"t": 0, "kind": "trivia", "text": "Gnomonkey recorded this video while trying to enjoy his anniversary, because Jagex kept putting out blogs he felt he had to cover."}
+      ]
+    }
+  ]
+}

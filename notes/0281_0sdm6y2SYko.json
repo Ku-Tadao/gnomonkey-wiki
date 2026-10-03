@@ -1,0 +1,85 @@
+{
+  "id": "0sdm6y2SYko",
+  "title": "NEW OSRS BOSS Player Island Design - The Maw of Whispers (OSRS)",
+  "date": "2026-01-02",
+  "type": "showcase",
+  "summary": "Gnomonkey showcases the Maw of Whispers, a player-designed Sailing island entry by his wife Hedron_Archmage for Jagex's Player Island Competition. The island features a duo endgame boss with a three-phase fight and hard mode, and the Q&A covers her design reasoning, loot ideas and why she wants a PvM island to win.",
+  "outline": [
+    {"t": 0, "text": "Intro: Player Island Competition and Hedron's Maw of Whispers entry"},
+    {"t": 94, "text": "Lore and island location between Varlamore and Corrend; Sailing level recommendation"},
+    {"t": 158, "text": "Duo boss design and why teamwork mechanics matter"},
+    {"t": 191, "text": "The unnamed boss, three phases and hard mode variant"},
+    {"t": 281, "text": "Loot philosophy, the new rapier design and reward ideas"},
+    {"t": 431, "text": "Loot system, GP/hr hopes and bot concerns"},
+    {"t": 462, "text": "Why a PvM island fits Sailing, and islands she does not want to see win"},
+    {"t": 528, "text": "Dev time and community ideas"},
+    {"t": 554, "text": "Thoughts on the open-ended competition rules"},
+    {"t": 582, "text": "Winter Summit top submissions and voting process"}
+  ],
+  "topics": [
+    {
+      "name": "Maw of Whispers",
+      "kind": "other",
+      "claims": [
+        {"t": 0, "kind": "event", "text": "Hedron designed a Player Island Competition entry called the Maw of Whispers: a Sailing island containing a new endgame duo boss with a darker theme and ties to Whisperer's Blackstone."},
+        {"t": 94, "kind": "trivia", "text": "In the Maw of Whispers lore, the island was created by Doom digging around and causing earthquakes, which floated a piece of the ocean floor up to the surface."},
+        {"t": 127, "kind": "trivia", "text": "The Maw of Whispers island is located between Varlamore and Corrend and is reached by sailing."},
+        {"t": 127, "kind": "requirement", "text": "Hedron recommends a Sailing level of 80 to 85 for the Maw of Whispers island, because it is tied to an endgame boss and she wanted something for players who had levelled Sailing that high."},
+        {"t": 127, "kind": "trivia", "text": "The goal of the Maw of Whispers island was to be a new one-off boss, since Jagex is extremely busy with Raids 4."},
+        {"t": 158, "kind": "trivia", "text": "The Maw of Whispers boss is a duo encounter designed as an endgame fight and requires two people; soloing it would be like soloing Theatre of Blood, not intended but doable with enough skill."},
+        {"t": 191, "kind": "trivia", "text": "The Maw of Whispers boss has no name; in lore it is just a sea creature corrupted by Blackstone. Hedron calls it Fred or simply the Maw."},
+        {"t": 191, "kind": "trivia", "text": "Hedron left the boss unnamed and unsentient so that Jagex has room to tie it into lore or not, and because the player island rules say entries should not create new metas or questlines that hinder Jagex's progression."},
+        {"t": 224, "kind": "trivia", "text": "The Maw is a three-phase encounter with a hard mode variant; each phase is linear and has a different theme of mechanics, such as bleed and corrosion, plus an escape sequence."},
+        {"t": 251, "kind": "trivia", "text": "In the Maw's escape sequence, the party may have to escape the boss or may be able to kill it, depending on how they manage their resources during the fight."},
+        {"t": 251, "kind": "trivia", "text": "In the Maw of Whispers hard mode, all three linear phases are active at once and players must handle all of the mechanics together."},
+        {"t": 251, "kind": "opinion", "text": "Hedron made the hard mode variant so that more of the community could do a normal mode boss and still feel rewarded."},
+        {"t": 281, "kind": "opinion", "text": "Hedron deliberately did not detail the Maw's mechanics publicly, so that if Jagex used the boss there would be mystery and a day-one scramble to figure it out; she did submit a document fleshing out the phases with the island."},
+        {"t": 344, "kind": "trivia", "text": "Hedron designed a new rapier for the Maw of Whispers because the boss fight involves a lot of stabbing, and the boss stabs itself."},
+        {"t": 372, "kind": "opinion", "text": "Hedron suggests Jagex could either attach a coral handle to the existing Ghrazi rapier to keep it relevant, or retire the Ghrazi rapier and make the Maw rapier the new rapier; she hoped it would have a bleed mechanic."},
+        {"t": 405, "kind": "opinion", "text": "Hedron says the reward space did not have to be special: ideas include permanent character buffs such as a crystal that increases water elemental damage, or a new magic amulet."},
+        {"t": 431, "kind": "method", "text": "Hedron proposes that loot at the Maw of Whispers be per player, with everyone getting their own loot to pick up, like the Titans."},
+        {"t": 431, "kind": "opinion", "text": "Hedron hopes the Maw of Whispers is a decent moneymaker, perhaps dropping Sailing items such as dragon plates, without uniques carrying it the way they do on the boss she calls Mocha."},
+        {"t": 431, "kind": "opinion", "text": "Hedron notes the Maw of Whispers would be locked behind high Sailing, so she hopes bots stay away from it for a while."}
+      ]
+    },
+    {
+      "name": "Player Island Competition",
+      "kind": "update",
+      "claims": [
+        {"t": 0, "kind": "event", "text": "Jagex put out a Player Island Competition in which the community designs a new Sailing island; Hedron's Maw of Whispers is her entry."},
+        {"t": 0, "kind": "event", "text": "Entries to the Player Island Competition end January 7th, and designs are picked at the Winter Summit later in January."},
+        {"t": 582, "kind": "event", "text": "Jagex plans to pick the top four submissions, present them on the Winter Summit stream, and let the community vote on which they want."},
+        {"t": 616, "kind": "event", "text": "After the community vote, the chosen player island goes to a 70% pass or fail poll."},
+        {"t": 554, "kind": "opinion", "text": "Gnomonkey likes that Jagex made the competition open-ended: AI is banned and entrants can submit a write-up without art, so people who are not artistically inclined get a fair chance."},
+        {"t": 582, "kind": "opinion", "text": "Gnomonkey was afraid his ideas would be stolen and did not let Gnome leak them much on stream, and he is curious what ideas people did not post publicly because others had the same fear."}
+      ]
+    },
+    {
+      "name": "Sailing",
+      "kind": "skill",
+      "claims": [
+        {"t": 462, "kind": "opinion", "text": "Hedron believes Sailing failed on its combat half, and that waiting for a boat combat rework will take a long time; she thinks a PvM island can soften that."},
+        {"t": 496, "kind": "opinion", "text": "Hedron does not want another Chinchompa 2 style island win, and has seen crafting islands giving about 800k XP an hour; she feels many entries are like private-server islands and hopes Jagex does not pick those or tones them down."},
+        {"t": 496, "kind": "opinion", "text": "Hedron prefers a PvM island because the new Sailing map gives Jagex open space to place content instead of squeezing it into the existing map."},
+        {"t": 528, "kind": "opinion", "text": "Hedron acknowledges any PvM island takes more dev time than a skilling island, and hopes Jagex picks something worth the dev time rather than slapping something in, to show they care about community ideas."}
+      ]
+    },
+    {
+      "name": "Opinion: Teamwork mechanics in OSRS bosses",
+      "kind": "opinion",
+      "claims": [
+        {"t": 158, "kind": "opinion", "text": "Hedron thinks Old School RuneScape, as an MMO, lacks teamwork and mechanics designed for group gameplay compared to other MMOs, while liking how Tombs of Amascut, other encounters and even spellbooks help out your team."},
+        {"t": 191, "kind": "opinion", "text": "Hedron designed the Maw as a dual boss that actually requires two people to complete mechanics, to bring teamwork elements back to Old School RuneScape."}
+      ]
+    },
+    {
+      "name": "Ghrazi rapier",
+      "kind": "item",
+      "claims": [
+        {"t": 344, "kind": "opinion", "text": "Hedron notes people argue that the Theatre of Blood rapier is not used anywhere and has been overshadowed by the Osmumten's fang, and she understands that from a game design view."},
+        {"t": 372, "kind": "opinion", "text": "Hedron thinks everything in the game has a dying point and that one day the Twisted bow will no longer be the best mega rare ranged weapon, simply because of how long the game has been alive."},
+        {"t": 372, "kind": "opinion", "text": "Hedron thinks affliction mechanics like bleed, burn and poison help Jagex flesh out niches in weapon design without adding power creep."}
+      ]
+    }
+  ]
+}

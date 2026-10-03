@@ -1,0 +1,116 @@
+{
+  "id": "W1OX5PVaPxs",
+  "title": "Why Surge Potions Aren't OP (OSRS)",
+  "date": "2025-03-29",
+  "type": "news-opinion",
+  "summary": "Gnomonkey argues that the upcoming Surge potion (restores 25% special attack energy once every five minutes) is much weaker than Reddit and Twitter claim, running DPS numbers that show it adds roughly 0.08 DPS in a best case and is far less impactful than Thralls. He identifies where it is genuinely useful (Tombs of Amascut, Theatre of Blood, spec-tab bosses), is more excited about the double death charge buff and the Soulflame horn, and says special attacks are the best way to add power creep.",
+  "outline": [
+    {"t": 0, "text": "Introduction: Surge potions passed with only about 73% of the vote"},
+    {"t": 87, "text": "Surge potion mechanics: ingredients and 25% spec every five minutes"},
+    {"t": 148, "text": "Reddit's complaints: comparisons to Thralls, inventory and balance worries"},
+    {"t": 263, "text": "Analyzing potion power: Surge versus claws and ZCB spec"},
+    {"t": 391, "text": "Comparison with Thralls and the primordial boots upgrade"},
+    {"t": 515, "text": "Practical use cases: Tombs of Amascut, Theatre of Blood, spec-tab bosses"},
+    {"t": 625, "text": "Why other content (Colosseum, Chambers) is not a good fit; combat achievements"},
+    {"t": 748, "text": "Double death charge buff"},
+    {"t": 813, "text": "Final thoughts on balance and special attacks as power creep"},
+    {"t": 974, "text": "Soulflame horn and wrap-up"}
+  ],
+  "topics": [
+    {
+      "name": "Surge potion",
+      "kind": "item",
+      "claims": [
+        {"t": 87, "kind": "stat", "text": "A Surge potion lets you sip once every five minutes to restore 25% of your special attack energy."},
+        {"t": 87, "kind": "stat", "text": "Jagex's blog suggests Surge potions would help during rage phases, clutch moments on low hit points, speedrunning, or to start every kill with a defence-reducing special attack."},
+        {"t": 123, "kind": "requirement", "text": "Making a Surge potion needs level 81 Herblore, demonic tallow (a new drop from the new boss), a Torstol, and a drop of your own blood, which makes it an untradeable potion."},
+        {"t": 0, "kind": "event", "text": "Surge potions passed their poll with only about 73% of the vote, whereas most updates get around 85 to 95%."},
+        {"t": 28, "kind": "opinion", "text": "Gnomonkey says Surge potions are fairly weak, not broken, and that people are scared of them because potions that give damage carry the stigma of overloads and RS3 adrenaline potions."},
+        {"t": 123, "kind": "opinion", "text": "Gnomonkey disagrees with a claim that another player could make Surge potions for you in bulk, noting the recipe requires your own blood."},
+        {"t": 148, "kind": "opinion", "text": "Gnomonkey says the 'rule that every future boss and combat achievement will be balanced around Surge potions' worry is a combat-achievement design problem, not a reason the potion should not exist."},
+        {"t": 888, "kind": "opinion", "text": "Gnomonkey guesses Surge potions would be expensive, at least a few thousand gp and possibly over 10k per dose, because the tallow should not drop in massive quantities, though he stresses he is only guessing."},
+        {"t": 945, "kind": "opinion", "text": "Gnomonkey says he finds the fearmongering around Surge potions weird, that in many cases it will not be worth the slot over other items, and that people should check the numbers."}
+      ]
+    },
+    {
+      "name": "Opinion: Surge potion DPS maths",
+      "kind": "opinion",
+      "claims": [
+        {"t": 263, "kind": "stat", "text": "Gnomonkey compares a Zaryte crossbow (ZCB) spec to a max gear Dragon claws spec at Maiden drained to zero defence and finds the ZCB does around 8 DPS more during the spec."},
+        {"t": 304, "kind": "stat", "text": "A ZCB spec takes about three seconds, so over a 300-second Surge cooldown the extra 8 DPS applies for 3 seconds, giving about 0.08 DPS gained on average (best case, drinking exactly every five minutes)."},
+        {"t": 361, "kind": "opinion", "text": "Gnomonkey says realistically players will wait six to eight minutes between sips, so the real gain is even smaller than 0.08 DPS."},
+        {"t": 396, "kind": "stat", "text": "A Thrall hits 0 to 3 for an average of 1.5 every four ticks (2.4 seconds), adding about 0.625 DPS, which Gnomonkey says is about 8 times more than the Surge potion's 0.08 DPS in the best case and realistically 10 to 15 times more."},
+        {"t": 451, "kind": "stat", "text": "For comparison, Gnomonkey says swapping dragon boots for primordial boots (one extra strength bonus) at Maiden raises max-gear melee DPS from 14.42 to 14.59, a 0.17 gain, which is about 2.125 times the 0.08 DPS from a Surge potion."},
+        {"t": 421, "kind": "opinion", "text": "Gnomonkey says the Surge potion is much weaker than the Thralls comparison on Reddit suggests, and that it is not the same as Thrall DPS."}
+      ]
+    },
+    {
+      "name": "Tombs of Amascut",
+      "kind": "raid",
+      "claims": [
+        {"t": 515, "kind": "tip", "text": "Gnomonkey says Tombs of Amascut is the obvious use for Surge potions because an adrenaline potion makes it double effective for spec energy there, giving about two-thirds of a ZCB spec per dose and roughly three doses of value with ZCB uptime."},
+        {"t": 515, "kind": "stat", "text": "A Zaryte crossbow spec costs 37.5% special attack energy, per Gnomonkey."},
+        {"t": 548, "kind": "opinion", "text": "Gnomonkey says Surge potions are quite good in Tombs of Amascut for very good players who can spare the inventory slot, but not mandatory and not better value than a Bandos godsword, which some players choose not to bring."}
+      ]
+    },
+    {
+      "name": "Theatre of Blood",
+      "kind": "raid",
+      "claims": [
+        {"t": 578, "kind": "tip", "text": "Gnomonkey says the claw plus ZCB use case from Surge potions is very useful at Maiden for stacking the crabs in team speed runs."},
+        {"t": 578, "kind": "tip", "text": "Gnomonkey says Surge potions are also very good on P2 Verzik for skipping the last red crabs and in other spots in Theatre of Blood that need DPS pushed hard."},
+        {"t": 578, "kind": "opinion", "text": "Gnomonkey says Surge potions are for people pushing content to the limits in Tombs of Amascut and Theatre of Blood, not the average player."},
+        {"t": 759, "kind": "tip", "text": "Gnomonkey says Maiden's large pile of crabs makes a double death charge easy to get on most scales, and in duo Theatre of Blood there are exactly two crabs."}
+      ]
+    },
+    {
+      "name": "Special attack energy",
+      "kind": "mechanic",
+      "claims": [
+        {"t": 610, "kind": "tip", "text": "Gnomonkey says sipping from a spec pool removes the Surge potion cooldown immediately, so at any boss you spec-tab you can use a dose every kill (for example Vorkath, Zulrah with scrolls or Sire)."},
+        {"t": 638, "kind": "opinion", "text": "Gnomonkey notes there are not many spec-tab bosses now because recent design places bosses far from teleports, so the potion gives bonus value only in a limited number of cases."},
+        {"t": 638, "kind": "opinion", "text": "Gnomonkey says he does not think Surge potions are worth an inventory slot at the Colosseum, where inventories are crammed, as it is only an extra half a claw."},
+        {"t": 669, "kind": "opinion", "text": "Gnomonkey says Chambers of Xeric has so much downtime that Surge potions would only matter for hammers at Ice demon-style spec rooms like Ulm-adjacent rooms or extreme speed runs, and he does not see them being brought for normal Chambers, calling them utter min-maxing."},
+        {"t": 813, "kind": "opinion", "text": "Gnomonkey says special attacks are some of the best forms of skill expression because they often require bringing multiple items, and that if Jagex adds power creep, spec weapons are a good way to do it."},
+        {"t": 844, "kind": "opinion", "text": "Gnomonkey says he would rather have interesting spec weapons than weapons that simply hit hard like Tumeken's shadow or the Twisted bow."},
+        {"t": 974, "kind": "opinion", "text": "Gnomonkey says a wide variety of spec weapons makes it easier to design interesting encounters and he wants Jagex to keep adding unique spec weapons and ways to restore or boost spec energy."}
+      ]
+    },
+    {
+      "name": "Death charge",
+      "kind": "mechanic",
+      "claims": [
+        {"t": 748, "kind": "event", "text": "The new double death charge gives an extra 15% special attack energy every minute, assuming there are things to kill."},
+        {"t": 761, "kind": "opinion", "text": "Gnomonkey calls the double death charge buff cracked and super good, and says he is more excited about it than about the Surge potion."},
+        {"t": 761, "kind": "tip", "text": "Gnomonkey says double death charge would be very strong in the Colosseum, the Inferno, and any boss with adds, plus raid rooms with multiple lizardmen shamans or mystics, and at Kephri with swarms and adds."},
+        {"t": 788, "kind": "tip", "text": "Gnomonkey notes Akkha's shadows also give death charge, so in certain scales you may kill two within a death charge."}
+      ]
+    },
+    {
+      "name": "Soulflame horn",
+      "kind": "item",
+      "claims": [
+        {"t": 976, "kind": "opinion", "text": "Gnomonkey considers the Soulflame horn an amazing addition that will be very strong with unique use cases only in team content, and he is already coming up with ideas for Nex with it."},
+        {"t": 976, "kind": "opinion", "text": "Gnomonkey says he is really excited for the Soulflame horn and plans to make a video when it comes out."}
+      ]
+    },
+    {
+      "name": "Opinion: Power creep and potions",
+      "kind": "opinion",
+      "claims": [
+        {"t": 888, "kind": "opinion", "text": "Gnomonkey says RS3 has similar potions and a lot of power creep, but resembling RS3 is not a reason to keep Surge potions out of the game."},
+        {"t": 852, "kind": "opinion", "text": "Gnomonkey says he got criticized in comments by people who want Tumeken's shadow to be ultra powerful, and questions why Shadow overtaking ZCB at Nex is fine but a potion that gives 25% spec every five minutes is not."},
+        {"t": 945, "kind": "opinion", "text": "Gnomonkey says he likes that players are concerned about powerful things that benefit them, but wishes they would check the numbers."},
+        {"t": 148, "kind": "trivia", "text": "A Reddit post cited by Gnomonkey claims Thralls at the Colosseum do enough damage to kill three javelin Colossi by themselves over an 18-minute run."}
+      ]
+    },
+    {
+      "name": "Thralls",
+      "kind": "mechanic",
+      "claims": [
+        {"t": 396, "kind": "stat", "text": "Thralls hit 0 to 3 (average 1.5) every 4 ticks, adding about 0.625 DPS according to Gnomonkey."},
+        {"t": 148, "kind": "opinion", "text": "A Reddit post Gnomonkey reads says Thralls are in a state where you lose DPS if you do not bring them, and compares Surge potions to them; Gnomonkey disagrees and says Surge potions are not the same."}
+      ]
+    }
+  ]
+}

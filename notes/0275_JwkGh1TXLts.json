@@ -1,0 +1,94 @@
+{
+  "id": "JwkGh1TXLts",
+  "title": "Shellbane Gryphon Guide (OSRS)",
+  "date": "2025-11-19",
+  "type": "guide",
+  "summary": "A day-one guide to the Shellbane Gryphon, the new mid-level Slayer boss added with Sailing, which Gnomonkey calls possibly the easiest boss ever added, easier than Scurrius. He covers gear (including the weight-based knockback mechanic), the unlock requirements, the attack mechanics and the two unique drops, the Gryphon horn and the new rapier.",
+  "outline": [
+    {"t": 0, "text": "Introduction: the new Slayer boss and basic Iron Man-style gear"},
+    {"t": 28, "text": "Gear: Arkan blade, steel ring, Tortugan shield, black mask and the 45 kg weight mechanic"},
+    {"t": 128, "text": "Inventory and preparation: fairy ring access and supplies"},
+    {"t": 182, "text": "Requirements and location: Slayer unlock, 51 Slayer, 45 Sailing, Troubled Tortugans"},
+    {"t": 236, "text": "Boss fight mechanics: tornadoes, acid corrosion, weight stun"},
+    {"t": 353, "text": "Advanced tips: stacked tornado danger, weight demonstration, removing armour for corrosion"},
+    {"t": 456, "text": "Rewards: Gryphon horn and the new rapier, and who should farm the boss"}
+  ],
+  "topics": [
+    {
+      "name": "Shellbane Gryphon",
+      "kind": "boss",
+      "claims": [
+        {"t": 0, "kind": "opinion", "text": "Gnomonkey considers the Shellbane Gryphon, the new mid-level Slayer boss added with Sailing, maybe the easiest boss ever added to the game, easier than Scurrius."},
+        {"t": 0, "kind": "stat", "text": "The Shellbane Gryphon is weak to stab, so Gnomonkey brings an Arkan blade."},
+        {"t": 182, "kind": "requirement", "text": "The Shellbane Gryphon requires 51 Slayer and 45 Sailing, and you must also complete the quest Troubled Tortugans, which unlocks at 45 Sailing."},
+        {"t": 182, "kind": "requirement", "text": "To fight the Shellbane Gryphon you must unlock it as a Slayer task (Gnomonkey thinks it costs 80 Slayer points) and get it as a task; it can only be killed on task."},
+        {"t": 182, "kind": "method", "text": "To reach the Shellbane Gryphon, use fairy ring CJQ, which takes you very close to the cave entrance just north of it; a Dramen staff is needed unless the diary is done."},
+        {"t": 236, "kind": "stat", "text": "The Shellbane Gryphon alternates between an occasional ranged attack and a melee attack, and performs a special attack every seven attacks."},
+        {"t": 236, "kind": "tip", "text": "Wearing the Tortugan shield means the Shellbane Gryphon's regular attacks do almost no damage, so trips can be tremendously longer."},
+        {"t": 236, "kind": "opinion", "text": "Gnomonkey says there is very little going on with the Shellbane Gryphon: you basically just move occasionally and dodge everything while you attack."},
+        {"t": 456, "kind": "tip", "text": "Gnomonkey says as a main the Shellbane Gryphon drops are probably not worth it, but as an Iron Man there are some really good drops."}
+      ]
+    },
+    {
+      "name": "Shellbane Gryphon weight mechanic",
+      "kind": "mechanic",
+      "claims": [
+        {"t": 119, "kind": "stat", "text": "The Shellbane Gryphon has a mechanic where, if you have more than 45 kilograms of weight equipped, you block its knockback attack."},
+        {"t": 119, "kind": "stat", "text": "If you are under 45 kg equipped, the Shellbane Gryphon's knockback attack hits for roughly 10 to 30 damage and throws you backwards."},
+        {"t": 145, "kind": "stat", "text": "If you have over 45 kg equipped, the Shellbane Gryphon is stunned instead, you block the damage and you get a bonus hit (two swings) on the boss."},
+        {"t": 337, "kind": "stat", "text": "Only equipped weight counts for the Shellbane Gryphon mechanic, not the weight of your inventory; Gnomonkey demonstrated taking off his body armour and being knocked back, taking a 28."},
+        {"t": 119, "kind": "tip", "text": "Gnomonkey says to disassemble your Slayer helmet with the right-click disassemble option and wear a black mask instead for the Shellbane Gryphon, because the black mask is heavier."},
+        {"t": 63, "kind": "tip", "text": "Gnomonkey notes a steel ring (a drop from the Deranged archaeologist on Fossil Island) is really heavy and useful for reaching the weight threshold, and mixed hide boots are a little heavier than climbing boots."},
+        {"t": 145, "kind": "tip", "text": "If you cannot get over 45 kg equipped you can still easily kill the Shellbane Gryphon; you just take a little extra damage."}
+      ]
+    },
+    {
+      "name": "Shellbane Gryphon attacks",
+      "kind": "mechanic",
+      "claims": [
+        {"t": 236, "kind": "stat", "text": "As one of its specials, the Shellbane Gryphon places tornadoes on the ground near your feet roughly every five ticks (Gnomonkey is unsure of the exact timing); they grow into larger tornadoes, hurt you every tick if you stand on them, and explode if you are next to them."},
+        {"t": 266, "kind": "stat", "text": "The Shellbane Gryphon's acid attack is easy to dodge by stepping out of the way; if it hits you it applies a status effect called corrosion that hits you for 3s with a new hit splat."},
+        {"t": 266, "kind": "tip", "text": "To stop the corrosion damage from the Shellbane Gryphon's acid, take off all armour that gives defensive bonuses (including the ring); Gnomonkey notes this is awkward because you may have to drop items to make inventory space."},
+        {"t": 340, "kind": "stat", "text": "If you ignore the Shellbane Gryphon's tornadoes and five stack on top of you, they explode for about 70 damage (Gnomonkey saw hits of 60 and 70); this is the only thing that can really hurt or kill you in the fight."},
+        {"t": 400, "kind": "tip", "text": "Gnomonkey says the stacked tornadoes only hurt you if you fall asleep; moving a little bit avoids them entirely."}
+      ]
+    },
+    {
+      "name": "Shellbane Gryphon gear and supplies",
+      "kind": "item",
+      "claims": [
+        {"t": 0, "kind": "tip", "text": "Gnomonkey approaches the Shellbane Gryphon from the perspective of an Iron Man starting bossing, using an Arkan blade, Barrows gloves, mixed hide boots, a steel ring, and tank armour from Barrows (or Rune platebody and legs are fine)."},
+        {"t": 0, "kind": "opinion", "text": "Gnomonkey considers the Arkan blade, a spec weapon from the quest that unlocks Mocha, a decent stab weapon and decent spec that works okay at the Shellbane Gryphon."},
+        {"t": 63, "kind": "tip", "text": "A Berserker ring is really good for the Shellbane Gryphon, but running no ring is also fine."},
+        {"t": 92, "kind": "stat", "text": "The Tortugan shield, a quest item from the quest that unlocks the Shellbane Gryphon, blocks almost all of the damage the Gryphon does; Gnomonkey says without it melee hits are basically guaranteed and with it they do not hit at all."},
+        {"t": 128, "kind": "tip", "text": "For supplies Gnomonkey brings supers, some prayer potions, and food, saying lower tier food is fine, plus a teleport away."}
+      ]
+    },
+    {
+      "name": "Gryphon horn",
+      "kind": "item",
+      "claims": [
+        {"t": 474, "kind": "stat", "text": "The Shellbane Gryphon drops feathers that charge its horn; the horn gives a passive Hunter boost and a 10% chance to double Hunter catches."},
+        {"t": 474, "kind": "opinion", "text": "Gnomonkey says the horn is very solid for hunting chinchompas and similar creatures, such as cotton-type catches."}
+      ]
+    },
+    {
+      "name": "Belle's folly",
+      "kind": "item",
+      "claims": [
+        {"t": 502, "kind": "stat", "text": "Gnomonkey describes the new rapier, Belle's folly, as a very slow, heavy-hitting stab weapon, basically the Zombie axe but for stab."},
+        {"t": 503, "kind": "opinion", "text": "Gnomonkey considers the rapier an excellent option for Tombs of Amascut and very good for killing Eclipse Moon, a really good mid-level stab weapon."},
+        {"t": 503, "kind": "tip", "text": "Gnomonkey suggests Irons planning to do Moons and then Tombs of Amascut can use the rapier to skip getting a Hasta; he says it is almost as good as a Hasta in Tombs of Amascut and very accurate."},
+        {"t": 533, "kind": "opinion", "text": "Gnomonkey says the Black Kirus (as transcribed) exists and is better than the rapier but takes a while to obtain, so get the rapier first and swap to the Black Kirus later, or to a Fang if you get one."}
+      ]
+    },
+    {
+      "name": "Update: Sailing launch",
+      "kind": "update",
+      "claims": [
+        {"t": 0, "kind": "event", "text": "Sailing launched with a new mid-level Slayer boss, the Shellbane Gryphon, and this guide was made on release day."},
+        {"t": 0, "kind": "tip", "text": "Gnomonkey describes this as a Day 1 guide in which some things may change and a better meta may appear in a few weeks."}
+      ]
+    }
+  ]
+}

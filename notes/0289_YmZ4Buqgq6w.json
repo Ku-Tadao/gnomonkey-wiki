@@ -1,0 +1,220 @@
+{
+  "id": "YmZ4Buqgq6w",
+  "title": "Hardmode Cow Boss Guide (OSRS)",
+  "date": "2026-02-26",
+  "type": "guide",
+  "summary": "Guide to the new hardmode cow boss (Demonic Brutus), released the day before. Gnomonkey covers gear, access requirements, the dash and stomp special cycles, a tile set for the diamond dodge, a max-gear kill example, and a budget method that avoids flicking every prayer orb in phase two.",
+  "outline": [
+    {
+      "t": 0,
+      "text": "Boss requirements, access and prep, gear and spec weapons"
+    },
+    {
+      "t": 60,
+      "text": "Understanding mechanics: melee, dash and stomp specials, health thresholds"
+    },
+    {
+      "t": 129,
+      "text": "Tile set and positioning for clockwise and counterclockwise rotations"
+    },
+    {
+      "t": 250,
+      "text": "Max gear combat example"
+    },
+    {
+      "t": 410,
+      "text": "Budget kill and prayer cheese"
+    },
+    {
+      "t": 513,
+      "text": "Rewards and conclusion"
+    }
+  ],
+  "topics": [
+    {
+      "name": "Demonic Brutus",
+      "kind": "boss",
+      "claims": [
+        {
+          "t": 0,
+          "kind": "record",
+          "text": "Gnomonkey got the world's second kill of the Cow Boss on the day of its release."
+        },
+        {
+          "t": 0,
+          "kind": "opinion",
+          "text": "Gnomonkey says the hardmode cow boss is similar in difficulty to Awakened Leviathan, probably a bit easier with these tile sets."
+        },
+        {
+          "t": 0,
+          "kind": "requirement",
+          "text": "Gnomonkey's best-in-slot setup for the hardmode cow boss is Scythe with full Oathplate and Bellator ring; spec weapons are Burning claws and Chally, and the boss is weak to slash."
+        },
+        {
+          "t": 0,
+          "kind": "opinion",
+          "text": "Gnomonkey thinks Burning claws are the best spec weapon because the burn does not clear on phase transition, though Void Waker could be better and Gearscape was not updated when the video was made."
+        },
+        {
+          "t": 0,
+          "kind": "stat",
+          "text": "The hardmode cow boss cannot be drained, venomed, poisoned or thralled."
+        },
+        {
+          "t": 32,
+          "kind": "requirement",
+          "text": "Brutus is in the Lumbridge Cowpen after completing the short free-to-play quest Ides of Milk."
+        },
+        {
+          "t": 32,
+          "kind": "requirement",
+          "text": "To fight the hard mode variant you must pick potatoes at the Scar near the tent seen during Desert Treasure 2, which is a requirement to fight the boss; they regrow every few seconds and one must be fed to the cow per attempt, like Awakener's orbs."
+        },
+        {
+          "t": 60,
+          "kind": "stat",
+          "text": "The hardmode cow boss is mechanically simple but extremely punishing, with bursts of 50 damage on mistakes."
+        },
+        {
+          "t": 513,
+          "kind": "trivia",
+          "text": "The cow boss was designed purely for fun; its only reward is a pair of cosmetic bull slippers to show off the clear."
+        },
+        {
+          "t": 513,
+          "kind": "trivia",
+          "text": "Gnomonkey did challenge runs of the cow boss such as blindfolded and Dharok bombing."
+        }
+      ]
+    },
+    {
+      "name": "Demonic Brutus mechanics",
+      "kind": "mechanic",
+      "claims": [
+        {
+          "t": 60,
+          "kind": "method",
+          "text": "The hardmode cow boss melees for two to three attacks, which chip for very small amounts through melee prayer, and then chooses a special attack."
+        },
+        {
+          "t": 60,
+          "kind": "method",
+          "text": "The dash special: the cow creates three clones and then charges you from a different direction, rotating clockwise every game tick."
+        },
+        {
+          "t": 88,
+          "kind": "method",
+          "text": "The stomp special has three clones that stomp you in a clockwise pattern each tick; the dash and stomp specials always alternate."
+        },
+        {
+          "t": 88,
+          "kind": "method",
+          "text": "At 67 percent HP the boss starts special attacks a tick faster and reveals the clones one at a time instead of all at once."
+        },
+        {
+          "t": 88,
+          "kind": "method",
+          "text": "At 34 percent health or lower the boss's special patterns reverse to counterclockwise."
+        },
+        {
+          "t": 88,
+          "kind": "method",
+          "text": "After you fully kill the boss, phase two starts with it healing to 65 percent health and going back to clockwise rotations; each special now also attacks with a protection prayer orb which must be prayed against while dodging, like the Manticore in the Colosseum, and at 34 percent it reverses to counterclockwise again."
+        },
+        {
+          "t": 331,
+          "kind": "method",
+          "text": "In phase two the boss always does three melee attacks first, and the orbs seen in the example were mage, range, mage, melee then mage, melee, ranged, ranged; missing an orb does not hit hard, but the stomps hurt."
+        }
+      ]
+    },
+    {
+      "name": "Demonic Brutus tile set",
+      "kind": "mechanic",
+      "claims": [
+        {
+          "t": 119,
+          "kind": "method",
+          "text": "A tile set (credit to Wide) marks the dodge positions: if the boss starts its first special with a stomp over blue one you have the blue rotation, and if it starts with a dash over pink two you have the pink rotation; the dodge patterns are the same either way, just rotate the camera so tile four is at the top."
+        },
+        {
+          "t": 151,
+          "kind": "method",
+          "text": "Stay on the middle tile of the plus sign and dodge all specials in a clockwise diamond; for a dash special starting on pink tile two, click to tile one as it rears up then click through two, three and four every game tick."
+        },
+        {
+          "t": 182,
+          "kind": "method",
+          "text": "For the pink-start stomp (starts on tile three, then goes clockwise), click away to tile one immediately, click tile two when he rears up, wait an extra tick to dodge the three stomp, then click back to four."
+        },
+        {
+          "t": 212,
+          "kind": "method",
+          "text": "Dash and stomp cycles alternate, so after a stomp starting on three the next dash starts on tile four; you need to be tick perfect."
+        },
+        {
+          "t": 212,
+          "kind": "method",
+          "text": "For the reverse (counterclockwise) dash starting on pink two, click to tile one, then toward the boss onto tiles two, three and four every tick."
+        },
+        {
+          "t": 239,
+          "kind": "method",
+          "text": "For the reverse stomp starting on pink three, dodge straight to tile one, wait there for two cow cycles, then swap to tile three and wait there for the final two stomps."
+        }
+      ]
+    },
+    {
+      "name": "Demonic Brutus max gear kill",
+      "kind": "mechanic",
+      "claims": [
+        {
+          "t": 250,
+          "kind": "tip",
+          "text": "Gnomonkey opens kills with Scythe, then Burning claws, then Chally, which he says always works well."
+        },
+        {
+          "t": 271,
+          "kind": "tip",
+          "text": "Dodge in a straight line away from the boss first, then do the diamond; Gnomonkey lands three hits and fits a Chally spec as the final hit right before the boss's fourth attack because it is really good damage."
+        },
+        {
+          "t": 305,
+          "kind": "tip",
+          "text": "Below 33 percent health the dodge goes away from the boss then toward the boss, counterclockwise instead of clockwise."
+        },
+        {
+          "t": 330,
+          "kind": "stat",
+          "text": "Gnomonkey's example max gear kill of the hardmode cow boss took 2 minutes 22 seconds."
+        },
+        {
+          "t": 366,
+          "kind": "tip",
+          "text": "If you need to eat, do one more swing and then combo before eating, so food is not wasted during the specials."
+        }
+      ]
+    },
+    {
+      "name": "Demonic Brutus budget kill",
+      "kind": "mechanic",
+      "claims": [
+        {
+          "t": 420,
+          "kind": "method",
+          "text": "Budget cheese: in phase two the first orb is always mage, so pray mage for the first orb and then swap to ranged no matter what you see, instead of reading each orb, while dodging away from the boss."
+        },
+        {
+          "t": 456,
+          "kind": "method",
+          "text": "With the ranged-prayer cheese, eat a piece of food (such as an angler) right as each special attack starts so no attack ticks are wasted; praying range only takes you down from full to around 54 to 72 HP, orb hits max around 20."
+        },
+        {
+          "t": 485,
+          "kind": "tip",
+          "text": "As long as you dodge the stomps, you can brute force phase two this way and use a combo eat to heal if needed."
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,740 @@
+{
+  "id": "BVZEAFBsj10",
+  "title": "TOA 300 IRONMAN/BUDGET Guide (OSRS)",
+  "date": "2025-06-28",
+  "type": "guide",
+  "summary": "A Tombs of Amascut 300 invocation guide for ironmen and budget players built around Atlatl (Eclipse Atlatl), burning claws, a Keris Partisan or Zamorakian hasta, minimal switches and unlimited restore/brew supplies. Gnomonkey walks through every room (monkeys, Baba, Kephri, Zebak, Akkha, Warden P1-P4) and finishes with upgrade paths away from the Atlatl. The main takeaway is that a cheap hybrid setup with unlimited supplies clears 300s in about 35 minutes without needing Bofa, yellow Keris or mage switches.",
+  "outline": [
+    {
+      "t": 0,
+      "text": "Introduction, the new black Keris Partisan gem and why to get a Zamorakian hasta first"
+    },
+    {
+      "t": 103,
+      "text": "Atlatl guide: why it is strong mid-game, gear setup, Eclipse armour and special weapons"
+    },
+    {
+      "t": 448,
+      "text": "Monkey puzzle room with Atlatl"
+    },
+    {
+      "t": 605,
+      "text": "Baba boss fight"
+    },
+    {
+      "t": 764,
+      "text": "Kephri boss fight and puzzle room"
+    },
+    {
+      "t": 986,
+      "text": "Zebak boss fight"
+    },
+    {
+      "t": 1066,
+      "text": "Raid order and potion preparation rationale"
+    },
+    {
+      "t": 1263,
+      "text": "Akkha puzzle room"
+    },
+    {
+      "t": 1304,
+      "text": "Akkha boss fight"
+    },
+    {
+      "t": 1547,
+      "text": "Warden preparation: resupply bag and slash style"
+    },
+    {
+      "t": 1606,
+      "text": "Warden phases 1 and 2"
+    },
+    {
+      "t": 1845,
+      "text": "Warden phase 3 and skull skip"
+    },
+    {
+      "t": 2043,
+      "text": "Warden phase 4 lightning dodging"
+    },
+    {
+      "t": 2246,
+      "text": "Conclusion and loot"
+    },
+    {
+      "t": 2404,
+      "text": "Upgrade paths beyond the Atlatl setup"
+    }
+  ],
+  "topics": [
+    {
+      "name": "Tombs of Amascut",
+      "kind": "raid",
+      "claims": [
+        {
+          "t": 0,
+          "kind": "event",
+          "text": "Gnomonkey made this Tombs of Amascut guide because viewers asked for a 300 invocation level Ironman/budget guide; it focuses on moons gear, Atlatl, minimal switches and unlimited supplies."
+        },
+        {
+          "t": 2364,
+          "kind": "record",
+          "text": "In this guide Gnomonkey completed a 300 Tombs of Amascut raid in about 35 minutes while bringing six brews and about 87 restores."
+        },
+        {
+          "t": 2364,
+          "kind": "tip",
+          "text": "Before starting Tombs of Amascut on an Ironman, Gnomonkey recommends doing a few grinds first: getting burning claws, a Zamorakian hasta, an Atlatl and full Eclipse armour."
+        },
+        {
+          "t": 2425,
+          "kind": "tip",
+          "text": "For a 300 Tombs of Amascut raid Gnomonkey recommends staying at roughly 300 invocation level until you get an Osmumten's fang, which he says is one of the most common purples and the biggest upgrade."
+        },
+        {
+          "t": 362,
+          "kind": "tip",
+          "text": "In Tombs of Amascut, a sand fuse (Sepulchre potion) acts as a super anti-poison and a restore in one slot, so you can skip bringing a separate anti-poison; if you have no sand fuse, a normal anti-poison is fine."
+        },
+        {
+          "t": 395,
+          "kind": "tip",
+          "text": "Gnomonkey runs the insanity invocation and turns off invocations that slow you down or make things harder; he refers viewers to his separate invocation guide for details."
+        },
+        {
+          "t": 395,
+          "kind": "tip",
+          "text": "When entering the raid, Gnomonkey drinks only melee pre-potions and skips a ranging potion because the Atlatl's max hit is only affected by the strength potion."
+        },
+        {
+          "t": 330,
+          "kind": "opinion",
+          "text": "Gnomonkey says learning Tombs of Amascut for the first time on an Ironman is one of the few things that is not bad to learn on an iron, because the Atlatl setup gives you effectively unlimited supplies to make mistakes with."
+        },
+        {
+          "t": 2578,
+          "kind": "tip",
+          "text": "Gnomonkey says the Warhammer is good on Warden but nearly impossible to land on Baba and Zebak, which have about 300 crush defence, so solo players should bring a bone dagger or Bandos godsword instead."
+        }
+      ]
+    },
+    {
+      "name": "Atlatl",
+      "kind": "item",
+      "claims": [
+        {
+          "t": 86,
+          "kind": "opinion",
+          "text": "Gnomonkey calls the Eclipse Atlatl an insanely powerful mid-game weapon, especially when using lower-tier hybrid gear, and builds this entire 300 Tombs of Amascut guide around it."
+        },
+        {
+          "t": 120,
+          "kind": "stat",
+          "text": "The Eclipse Atlatl scales with ranged accuracy and melee strength; once you upgrade to gear giving pure melee stats instead of hybrid stats (for example pharaoh's gloves) its DPS drops off."
+        },
+        {
+          "t": 120,
+          "kind": "stat",
+          "text": "According to Gnomonkey, the Atlatl beats a crossbow on Zebak at the point in the game when an Ironman first accesses Tombs of Amascut."
+        },
+        {
+          "t": 146,
+          "kind": "stat",
+          "text": "Gnomonkey says the Atlatl beats a blowpipe with low-tier darts against Akkha's shadows."
+        },
+        {
+          "t": 146,
+          "kind": "opinion",
+          "text": "Gnomonkey says a Bow of Faerdhinen is a better option than the Atlatl if you already have it, but that you do not need it."
+        },
+        {
+          "t": 178,
+          "kind": "requirement",
+          "text": "The Atlatl needs a melee ring such as the berserker ring to be good; Gnomonkey says if you have a lightbearer you should bring it as a switch rather than camp it."
+        },
+        {
+          "t": 178,
+          "kind": "method",
+          "text": "In Gnomonkey's 300 setup the range switch is just an assembler (Ava's assembler) and the Atlatl, because Fury is the best DPS amulet with the Atlatl."
+        },
+        {
+          "t": 2396,
+          "kind": "requirement",
+          "text": "Full Eclipse armour is important for the Atlatl because it lets the Atlatl proc burn damage like burning claws do, adding roughly one DPS whenever you throw it."
+        },
+        {
+          "t": 429,
+          "kind": "stat",
+          "text": "The Atlatl maxes very high and is a three-tick weapon, which lets it easily kill the monkeys in the Tombs of Amascut monkey room."
+        },
+        {
+          "t": 1189,
+          "kind": "method",
+          "text": "The Atlatl has a special attack that consumes all burn stacks on Zebak and gives a huge max hit, so it hits harder if Zebak has more burn damage on him; Gnomonkey tried it with no burn stacks and got a very low hit."
+        },
+        {
+          "t": 1047,
+          "kind": "tip",
+          "text": "Atlatl range is limited, so while attacking Zebak during the waves you must only attack when in range and be careful not to get dragged into his mouth."
+        },
+        {
+          "t": 1997,
+          "kind": "tip",
+          "text": "On Warden phase 3 the Atlatl's attack speed matches Warden's attack speed, so insanity is simple to handle: you just move, attack, move, attack, without losing ticks as you can with slower weapons."
+        },
+        {
+          "t": 2517,
+          "kind": "opinion",
+          "text": "Gnomonkey says the Atlatl locks you into mid-level hybrid armour, so as you upgrade gear you move away from it, typically to a blowpipe."
+        },
+        {
+          "t": 2456,
+          "kind": "stat",
+          "text": "Gnomonkey says a blowpipe is usually slightly worse than an Atlatl, but with a blowpipe weak darts lose to the Atlatl, and the blowpipe lets you wear full ranged gear instead of hybrid pieces."
+        }
+      ]
+    },
+    {
+      "name": "Keris Partisan",
+      "kind": "item",
+      "claims": [
+        {
+          "t": 0,
+          "kind": "event",
+          "text": "The Tombs of Amascut update added a fourth gem drop, a black gem that can be added to the Keris Partisan for extra stab bonus and stats; Gnomonkey got the black Keris Partisan in his previous raid, and notes in the description that it is typically about 5% better than a Zamorakian hasta but only great until you get an Osmumten's fang, and that you can push up to 400s now."
+        },
+        {
+          "t": 29,
+          "kind": "opinion",
+          "text": "Gnomonkey considers the black Keris Partisan a good option for an Ironman until you have an Osmumten's fang, and the second best option until then."
+        },
+        {
+          "t": 56,
+          "kind": "tip",
+          "text": "The black gem does not let you skip the Zamorakian hasta because you still need to get a black gem; Gnomonkey recommends doing your Tormented Demon grind to get a Scobo (as transcribed) and then killing some 6-0 Zammy to get a Zamorakian hasta, which is a very common early drop."
+        },
+        {
+          "t": 86,
+          "kind": "stat",
+          "text": "The Keris Partisan has a 15% damage bonus against scarabs and the ability to crit, with a max hit of 150 shown in Gearscape, making it much better on Kephri than on Baba."
+        },
+        {
+          "t": 898,
+          "kind": "tip",
+          "text": "On Kephri, the Keris Partisan is the best DPS weapon against every scarab, and Gnomonkey says you can still throw the Atlatl while running up to a scarab before switching."
+        },
+        {
+          "t": 928,
+          "kind": "opinion",
+          "text": "Gnomonkey says the black Keris Partisan hits very well on Baba and would be very similar in kill time to a Zamorakian hasta."
+        },
+        {
+          "t": 1491,
+          "kind": "opinion",
+          "text": "Gnomonkey says you do not need a yellow-gem (healing) Keris Partisan to do a 300 raid, and recommends not bringing one if you get it early because it wastes your special attack bar; it only becomes useful at very high raid levels."
+        }
+      ]
+    },
+    {
+      "name": "Burning claws",
+      "kind": "item",
+      "claims": [
+        {
+          "t": 206,
+          "kind": "trivia",
+          "text": "Gnomonkey notes a quirk of burning claws: they can go on stab, and their special attack cannot have its style affected because it only uses one style; the Tormented Demon grind also gets you the burning claws."
+        },
+        {
+          "t": 264,
+          "kind": "opinion",
+          "text": "Gnomonkey calls burning claws an amazing special attack weapon against Baba, Kephri and Akkha, and your best possible spec DPS until you get above 375 raid level, where you avoid Akkha."
+        },
+        {
+          "t": 768,
+          "kind": "tip",
+          "text": "At the start of Kephri's room, Gnomonkey drops a brew, instantly specs with burning claws, then summons a thrall; he notes the claws hit well even on Kephri's fairly high defence."
+        },
+        {
+          "t": 1547,
+          "kind": "tip",
+          "text": "Burning claws are an amazing spec against Akkha, but as soon as you spec with them Akkha jumps, so Gnomonkey recommends two Keris pokes first and then burning claws, which makes him jump around the room less."
+        },
+        {
+          "t": 1668,
+          "kind": "method",
+          "text": "For Warden, Gnomonkey swaps burning claws to the slash style because Warden has no weakness to any style and the claws have more slash bonus (95) than stab (83), making them more accurate and hit harder."
+        },
+        {
+          "t": 1698,
+          "kind": "tip",
+          "text": "Burning claws combined with adrenaline potions let you use many special attacks on Warden; Gnomonkey calls it incredibly strong."
+        }
+      ]
+    },
+    {
+      "name": "Bone dagger",
+      "kind": "item",
+      "claims": [
+        {
+          "t": 264,
+          "kind": "method",
+          "text": "Gnomonkey brings a bone dagger to lower boss defence in Tombs of Amascut; if you spec at the start of the room it is a guaranteed hit, except on Kephri where it is still bugged, and it lowers defence based on what you hit, like a Bandos godsword."
+        },
+        {
+          "t": 581,
+          "kind": "tip",
+          "text": "Before speccing Baba with the bone dagger, brew up and repot stats to max strength, because the dagger's spec hits low and more strength increases the drain; the defence drain cap is 20."
+        },
+        {
+          "t": 1698,
+          "kind": "opinion",
+          "text": "Gnomonkey says it is not worth bone daggering the Warden obelisk because it has too little health to make use of the defence drain, but it is worth it on phase 3 Warden if you have enough health."
+        },
+        {
+          "t": 1997,
+          "kind": "tip",
+          "text": "To get a guaranteed hit with the bone dagger at the start of Warden phase 3, it has to be the very first hit you do."
+        },
+        {
+          "t": 2547,
+          "kind": "opinion",
+          "text": "Gnomonkey says a Bandos godsword is better than a bone dagger because Jagex did not patch the Kephri bug, so it is a straight upgrade if you have one."
+        }
+      ]
+    },
+    {
+      "name": "Thrall",
+      "kind": "mechanic",
+      "claims": [
+        {
+          "t": 296,
+          "kind": "tip",
+          "text": "Gnomonkey says thralls speed up a Tombs of Amascut raid by one to two minutes, and he uses death charge because many things give it: monkeys at Baba, Kephri's swarms and adds, Akkha's shadows and the core on Warden P2."
+        },
+        {
+          "t": 296,
+          "kind": "opinion",
+          "text": "Gnomonkey explains he does not run Blood Barrage in the Atlatl setup because thralls and death charge give more specs and DPS and he considers Blood Barrage unnecessary."
+        },
+        {
+          "t": 1318,
+          "kind": "tip",
+          "text": "Gnomonkey summons a zombie thrall for the last phase of Akkha."
+        }
+      ]
+    },
+    {
+      "name": "Monkey room",
+      "kind": "mechanic",
+      "claims": [
+        {
+          "t": 296,
+          "kind": "opinion",
+          "text": "Gnomonkey says the Tombs of Amascut monkey room is now a joke, even though Reddit says it is impossible with this setup, and thanks Jagex for making it easier."
+        },
+        {
+          "t": 429,
+          "kind": "method",
+          "text": "With the Atlatl, the shamans in the monkey room are a two-shot and are now guaranteed to be ranged; with range prayer, even Eagle Eye, the Atlatl one-shots the cursed baboons if you do not have Rigor."
+        },
+        {
+          "t": 458,
+          "kind": "method",
+          "text": "In the first wave of the monkey room there are melee monkeys that you tag with a trident; you do not need to pray against shamans, and you need Piety to one-shot the big monkeys."
+        },
+        {
+          "t": 458,
+          "kind": "requirement",
+          "text": "The only thing in the Atlatl monkey room that needs Rigor (or any range prayer) is the cursed baboons."
+        },
+        {
+          "t": 518,
+          "kind": "tip",
+          "text": "In the monkey room always kill the shamans first, then the ranged baboon, and leave the melee baboon; use the volleys to clean up the last wave, which is helpful when you do not have chinchompas."
+        },
+        {
+          "t": 548,
+          "kind": "trivia",
+          "text": "In the monkey room, the small blue monkey thralls that melee you drain a little prayer if they hit, so avoid tanking a whole pile of them."
+        },
+        {
+          "t": 581,
+          "kind": "tip",
+          "text": "Gnomonkey brews up before going into Baba after the monkey room, over-brewing, then repots stats."
+        }
+      ]
+    },
+    {
+      "name": "Baba",
+      "kind": "boss",
+      "claims": [
+        {
+          "t": 613,
+          "kind": "stat",
+          "text": "After the update Baba has no chip damage anymore, so the fight can be done normally."
+        },
+        {
+          "t": 613,
+          "kind": "trivia",
+          "text": "The monkeys that spawn in Baba's room are one tick, so you can quickly run, tag them and then start hitting Baba."
+        },
+        {
+          "t": 643,
+          "kind": "tip",
+          "text": "When doing Baba's boulders, always stand on the corner of the boulders: when she does the shadow AoE underneath you, you have room to run to the other side of the boulder."
+        },
+        {
+          "t": 736,
+          "kind": "tip",
+          "text": "If Baba's monkeys spawn with low health you can skip them because they despawn."
+        },
+        {
+          "t": 736,
+          "kind": "opinion",
+          "text": "Gnomonkey says you should not range Baba while the boulders are rolling because its DPS is much worse than meleeing, so you want to get that phase done by just hitting Baba."
+        },
+        {
+          "t": 1220,
+          "kind": "tip",
+          "text": "Baba is always done first in the raid so that you can use your pre-pot for the monkey room, which wants ranging and strength boosts."
+        }
+      ]
+    },
+    {
+      "name": "Kephri",
+      "kind": "boss",
+      "claims": [
+        {
+          "t": 799,
+          "kind": "method",
+          "text": "At the start of Kephri, Gnomonkey places a dung line so it acts as a barricade from the melee scarab, letting him kill the spitting scarab before the melee scarab gets to him."
+        },
+        {
+          "t": 832,
+          "kind": "tip",
+          "text": "On Kephri you will be poisoned, so sip a sand fuse (or an anti-poison if you do not have one)."
+        },
+        {
+          "t": 865,
+          "kind": "opinion",
+          "text": "Gnomonkey says the Atlatl is not worth using on Kephri's swarms because it is too slow to make a meaningful difference."
+        },
+        {
+          "t": 865,
+          "kind": "stat",
+          "text": "After the update, overlords on Kephri have had their defence reduced dramatically at all raid levels, so Gnomonkey says they are no longer an issue and rips through them with the Keris."
+        },
+        {
+          "t": 865,
+          "kind": "tip",
+          "text": "On Kephri you need the second dung line, so if you get a Keris crit make sure you get the dung line off first, or the melee scarab that spawns will kill you."
+        },
+        {
+          "t": 898,
+          "kind": "tip",
+          "text": "Gnomonkey kills the arcane scarab first, then the spitting scarab, then the melee scarab."
+        },
+        {
+          "t": 898,
+          "kind": "tip",
+          "text": "Kill the stuck melee scarab on Kephri because it heals Kephri."
+        },
+        {
+          "t": 928,
+          "kind": "opinion",
+          "text": "Gnomonkey says you can run Kephri with poor mage gear such as a warped sceptre instead of a trident, because that is one of the few things you mage in the raid."
+        },
+        {
+          "t": 959,
+          "kind": "tip",
+          "text": "If you have a blowpipe it is worth tagging Kephri's swarms; otherwise let Kephri heal, which gives you more points if she heals, though doing the raid slower is not ideal."
+        },
+        {
+          "t": 768,
+          "kind": "tip",
+          "text": "The Kephri puzzle room is solved by tagging four tiles on both sides, and the puzzle solver plugin tells you exactly what to do."
+        }
+      ]
+    },
+    {
+      "name": "Zebak",
+      "kind": "boss",
+      "claims": [
+        {
+          "t": 987,
+          "kind": "tip",
+          "text": "Gnomonkey always takes power at the option between rooms before Warden, because he needs two salts to take life later and power lets him have more supplies for Warden; he banks leftover super potions to make room."
+        },
+        {
+          "t": 1017,
+          "kind": "method",
+          "text": "In Zebak's puzzle room run through the spikes while moving and you will not be hit, but the gas will still hit you, so click to the side of the water without poison."
+        },
+        {
+          "t": 1047,
+          "kind": "method",
+          "text": "Before entering Zebak, hit salt for a huge stat boost; Gnomonkey runs up to Zebak's mouth, pokes him and runs away."
+        },
+        {
+          "t": 1073,
+          "kind": "tip",
+          "text": "Gnomonkey stands at the start of Zebak's room in a spot with a guaranteed jug solve every time, which also helps if you are running upset stomach."
+        },
+        {
+          "t": 1103,
+          "kind": "trivia",
+          "text": "Gnomonkey notes the update seems to have changed Zebak's jug patterns; there used to always be a solve in the middle of the room but he has seen examples where there is not."
+        },
+        {
+          "t": 1129,
+          "kind": "tip",
+          "text": "Standing on the opposite red side tiles of Zebak's room means the blood spawns will reach you and just die, so it is guaranteed safe."
+        },
+        {
+          "t": 1159,
+          "kind": "tip",
+          "text": "You can pull Zebak jugs as well as push them, using right-click pull."
+        },
+        {
+          "t": 1189,
+          "kind": "opinion",
+          "text": "Gnomonkey says burning claws are not great against Zebak and he does not spec in his mouth range."
+        }
+      ]
+    },
+    {
+      "name": "Raid order",
+      "kind": "mechanic",
+      "claims": [
+        {
+          "t": 1220,
+          "kind": "method",
+          "text": "Gnomonkey always does Baba first so his pre-pot covers the monkey room, then Kephri second."
+        },
+        {
+          "t": 1220,
+          "kind": "method",
+          "text": "Gnomonkey does the two melee rooms (Baba and Kephri) first because melee stats are boosted more by regular potions than other stats, which salt boosts equally."
+        },
+        {
+          "t": 1253,
+          "kind": "method",
+          "text": "The ranged and mage rooms, Zebak and Akkha, are done last with salt because ranged caps at about 12 and mage boost is about four without a heart; the order of the last two depends on what specs you have."
+        }
+      ]
+    },
+    {
+      "name": "Akkha",
+      "kind": "boss",
+      "claims": [
+        {
+          "t": 1286,
+          "kind": "event",
+          "text": "After the update, a Rune pickaxe with 85 Mining is enough to one-down the Akkha puzzle room, without a Dragon pickaxe, if you click on green with the right timing when you are a step away."
+        },
+        {
+          "t": 1318,
+          "kind": "tip",
+          "text": "Gnomonkey says you can butterfly Akkha with the Atlatl but you do not need to; with six brews available he skips it."
+        },
+        {
+          "t": 1318,
+          "kind": "opinion",
+          "text": "Gnomonkey says the Atlatl is the best DPS in this setup against Akkha and his shadows, using it two-thirds of the time and the Keris one-third of the time."
+        },
+        {
+          "t": 1345,
+          "kind": "tip",
+          "text": "Do not waste a special on Akkha when he is invincible, which Gnomonkey did in practice; also never spec when he is red because the hits will not land."
+        },
+        {
+          "t": 1345,
+          "kind": "tip",
+          "text": "Turning to the shadow immediately and throwing Atlatl darts at it kills it every time."
+        },
+        {
+          "t": 1372,
+          "kind": "tip",
+          "text": "At raid level over two, Akkha's Simon Says has five to remember, and four if the room is level one or two; check the room level so you are not caught off guard."
+        },
+        {
+          "t": 1404,
+          "kind": "tip",
+          "text": "When your character turns black, start dropping orbs by not moving while you have the border around your character."
+        },
+        {
+          "t": 1404,
+          "kind": "tip",
+          "text": "Gnomonkey drinks two doses of salt at a time to put stats back near full boost; he re-brews and re-salts when salt runs out."
+        },
+        {
+          "t": 1431,
+          "kind": "event",
+          "text": "After the update Akkha only swaps combat styles when he does a special attack, so you can predict and no longer risk a random swap when speccing."
+        },
+        {
+          "t": 1431,
+          "kind": "tip",
+          "text": "You do not have to hit during Simon Says; it is just an optimization, and you will never get DPS checked in this setup."
+        },
+        {
+          "t": 1464,
+          "kind": "tip",
+          "text": "Gnomonkey's rule of thumb on Akkha is to Atlatl whenever you can, and use the Keris or specs when you cannot; the style change is always the same, so you can predict what comes next."
+        },
+        {
+          "t": 1575,
+          "kind": "event",
+          "text": "After the update, Akkha's last-phase orbs hit about 25 at 300 and are fairly easy to dodge; you can shift-right-click tag them, and the final part used to be a very hard part of the raid but now is not."
+        }
+      ]
+    },
+    {
+      "name": "Warden",
+      "kind": "boss",
+      "claims": [
+        {
+          "t": 1608,
+          "kind": "method",
+          "text": "Gnomonkey pulls out one of each potion and sets his potion bag shift click to resupply, so using a dose then pressing resupply refills your potions from the bag without opening the interface in a fight."
+        },
+        {
+          "t": 1668,
+          "kind": "method",
+          "text": "For Warden phase 1, Gnomonkey sips adrenaline, summons a thrall, and dumps every special while tanking down to roughly 75 health before brewing his stats back up."
+        },
+        {
+          "t": 1698,
+          "kind": "stat",
+          "text": "On Warden phase 1 the Atlatl is the best DPS of Gnomonkey's styles, with the Keris about 10% worse."
+        },
+        {
+          "t": 1730,
+          "kind": "tip",
+          "text": "For the Warden phase 1 mechanic you just tank it and brew up; if you are not doing much DPS you may get a second set of orbs, which is fine."
+        },
+        {
+          "t": 1730,
+          "kind": "tip",
+          "text": "Before Warden phase 2 mage damage, take off the bird helmet and boots because your minimum hit is affected by your accuracy bonus, so removing negative pieces increases damage."
+        },
+        {
+          "t": 1762,
+          "kind": "trivia",
+          "text": "On Warden, red skulls are mage and white skulls are ranged, and the skull bomb is probably his most dangerous attack, dropping in a cross pattern with a safe area around them."
+        },
+        {
+          "t": 1791,
+          "kind": "tip",
+          "text": "On Warden phase 2 you can sip two doses of brew every time and your salt restores the stats about every 15 seconds; make sure you are not brewed down when the core pops up."
+        },
+        {
+          "t": 1818,
+          "kind": "method",
+          "text": "On the Warden phase 2 core do six hits and as many dragon dagger specs as possible; the dragon dagger is the best DPS on the core, and the aim is to kill it in three downs."
+        },
+        {
+          "t": 1845,
+          "kind": "opinion",
+          "text": "Gnomonkey says to always aim for a three-down core on Warden P2, because P2 is extremely good for points and the game keeps giving points through the third down but stops after it, which also helps money and purple chance."
+        },
+        {
+          "t": 1879,
+          "kind": "stat",
+          "text": "On the Warden phase 2 core, getting it below 80% gives eight hits and below 60% gives ten hits; this matters at higher raid levels but not at 300."
+        },
+        {
+          "t": 1938,
+          "kind": "tip",
+          "text": "In Warden's P2, if you mess up (take damage or miss a prayer) sip the Reddit potion (as transcribed), which erases mistakes: you have four of them, and it is a safe time to use them."
+        },
+        {
+          "t": 1971,
+          "kind": "method",
+          "text": "At the start of Warden phase 3, dump any specs you have; the bone dagger spec must be the first hit to be guaranteed."
+        },
+        {
+          "t": 2026,
+          "kind": "method",
+          "text": "To skull skip on Warden phase 3, go to the red line, pull out your trident and spam click one of the skulls, then stand one tile below to dodge Warden's attacks without reacting."
+        },
+        {
+          "t": 2026,
+          "kind": "opinion",
+          "text": "Gnomonkey says killing the skulls is worse for points than skull skipping, so you want to skull skip to get the most points."
+        },
+        {
+          "t": 2087,
+          "kind": "tip",
+          "text": "When Zebak spawns during Warden, he just shoots jugs or rocks at you so you only pray against him, and you can pop scarabs for roughly 30 seconds of unlimited prayer whenever you are low."
+        },
+        {
+          "t": 2121,
+          "kind": "opinion",
+          "text": "Gnomonkey says skull skipping is easier than doing the Warden skull mechanic normally and highly recommends learning it right away, even before completing Tombs of Amascut."
+        },
+        {
+          "t": 2155,
+          "kind": "method",
+          "text": "Gnomonkey uses the trident for skull skip because the Atlatl has short range and the trident prevents range issues."
+        },
+        {
+          "t": 2182,
+          "kind": "tip",
+          "text": "As long as you dodge Warden's attacks you will never be hit by a Baba boulder in Warden, because the boulders only damage the area Warden is hitting."
+        },
+        {
+          "t": 2215,
+          "kind": "tip",
+          "text": "When skull skipping, spam click a skull that is far away; clicking the skull closest to you does not work and can get you killed, which happened to Gnomonkey."
+        },
+        {
+          "t": 2243,
+          "kind": "tip",
+          "text": "Before Warden phase 4 starts (below 5% health), pop one scarab so you do not need to think about prayer for most of P4, and drink an overheal."
+        },
+        {
+          "t": 2269,
+          "kind": "method",
+          "text": "On Warden P4 the lightning appears in three sets over three ticks and then strikes over three ticks in a six-tick cycle, and you dodge it all by stepping on the first shadow as it strikes."
+        },
+        {
+          "t": 2334,
+          "kind": "tip",
+          "text": "Gnomonkey says on Warden P4 you can spam the Reddit potion (as transcribed): you have four of them that heal you from 1 health to 125, so you could just tank the boulders the whole time and be fine."
+        }
+      ]
+    },
+    {
+      "name": "Upgrade paths",
+      "kind": "opinion",
+      "claims": [
+        {
+          "t": 2425,
+          "kind": "tip",
+          "text": "After getting an Osmumten's fang you can get a blowpipe, pieces of Masori and Anguish upgrades, and bring melee upgrades alongside ranged ones to run blowpipe instead of the Atlatl."
+        },
+        {
+          "t": 2456,
+          "kind": "opinion",
+          "text": "Gnomonkey says boot switches are not worth it: with a Shadow camp the mage boots and without it camp the melee boots, with the melee boots the most important."
+        },
+        {
+          "t": 2487,
+          "kind": "stat",
+          "text": "Arania boots have the same strength as dragon boots plus hybrid stats and are amazing with the Atlatl, if your Slayer is high enough; Gnomonkey says primordial boots are better and recommends bringing them."
+        },
+        {
+          "t": 2517,
+          "kind": "tip",
+          "text": "A blowpipe lets you ditch the berserker ring and camp a lightbearer instead."
+        },
+        {
+          "t": 2517,
+          "kind": "tip",
+          "text": "For what to bring with a Bofa, Gnomonkey points to his 300 budget guide for mains, in which he used a fang, a Bofa and the setup."
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,226 @@
+{
+  "id": "qCsJAdpSeTU",
+  "title": "WIKI GUIDES - VORKATH V2 (OSRS)",
+  "date": "2025-09-06",
+  "type": "challenge",
+  "summary": "Using the OSRS Wiki's revision history, Gnomonkey finds an old, extremely poor Vorkath gear setup (missing slots, Armadyl godsword spec, Leaf-bladed sword) and kills Vorkath with it, then compares a roughly 53M budget setup built in Gearscape (Fang, Burning claws) and a 1k budget ruby-bolt/chaotic knives setup. He notes the table format is unhelpful outside Max/Mid/Min/Iron/Pure tiers.",
+  "outline": [
+    {
+      "t": 0,
+      "text": "Introduction: revision history reveals a worse Vorkath wiki setup"
+    },
+    {
+      "t": 26,
+      "text": "Breaking down the old setup, empty slots and odd downgrades"
+    },
+    {
+      "t": 178,
+      "text": "Combat test with AGS specs and the poor setup"
+    },
+    {
+      "t": 560,
+      "text": "Budget setup analysis in Gearscape"
+    },
+    {
+      "t": 759,
+      "text": "Budget setup attempt with Fang and Burning claws"
+    },
+    {
+      "t": 934,
+      "text": "Extreme 1k budget showdown with ruby bolts"
+    },
+    {
+      "t": 1296,
+      "text": "Conclusions on the 1k setup beating the old wiki guide"
+    }
+  ],
+  "topics": [
+    {
+      "name": "Wiki Guides series",
+      "kind": "challenge",
+      "claims": [
+        {
+          "t": 0,
+          "kind": "event",
+          "text": "A viewer called Toma showed Gnomonkey that the OSRS Wiki revision history contains very old, terrible Vorkath setups, which led to this second Wiki Guides Vorkath episode using an even worse variant."
+        },
+        {
+          "t": 26,
+          "kind": "method",
+          "text": "On old wiki setups slots are often missing; Gnomonkey's rule for this episode was that any empty slot stays empty, so he wore nothing in his glove, boot and helmet slots."
+        },
+        {
+          "t": 0,
+          "kind": "opinion",
+          "text": "Gnomonkey says digging through revision history for the worst page variant would make any wiki page look bad, so this is just a fun concept for an easy-to-find boss challenge and not a criticism of the wiki."
+        },
+        {
+          "t": 0,
+          "kind": "opinion",
+          "text": "Gnomonkey says he will not revise the wiki himself because it takes a lot of time and people would revert anything he adds out of spite, and he finds the table format unhelpful outside of Max, Mid, Min, Iron and Pure tiers."
+        }
+      ]
+    },
+    {
+      "name": "Vorkath",
+      "kind": "boss",
+      "claims": [
+        {
+          "t": 26,
+          "kind": "requirement",
+          "text": "The old wiki Vorkath setup Gnomonkey used had downgrades from a salve amulet to an amulet of power, Infernal cape to a skill cape (he wore a thieving cape), Bandos chestplate to Ink hauberk, Tassets to a Fremennik kilt, a Leaf-bladed sword and Toktz-ket-xil shield, a ring of life, and an Armadyl godsword spec."
+        },
+        {
+          "t": 53,
+          "kind": "opinion",
+          "text": "Gnomonkey notes the Fremennik kilt downgrade is a pure item and that a pure cannot complete Dragon Slayer 2, so he says the downgrade never has a use case for Vorkath."
+        },
+        {
+          "t": 83,
+          "kind": "stat",
+          "text": "With the Toktz-ket-xil shield, the old wiki setup gives about 125 ranged defence even with empty slots (about 60 without it), compared with 105 in the Fremennik-way max gear, according to Gearscape."
+        },
+        {
+          "t": 115,
+          "kind": "opinion",
+          "text": "Gnomonkey says the old wiki setup is surprisingly slightly easier than the Fremennik way of killing Vorkath because the shield also gives a strength bonus and is decently tanky."
+        },
+        {
+          "t": 147,
+          "kind": "opinion",
+          "text": "Gnomonkey questions the wiki listing a Ring of the gods for Vorkath, since the trip is always the same length and you barely need prayer potions."
+        },
+        {
+          "t": 147,
+          "kind": "opinion",
+          "text": "Gnomonkey says the specs listed for the old setup were not the worst except the Armadyl godsword, which he called absurd."
+        },
+        {
+          "t": 293,
+          "kind": "tip",
+          "text": "Gnomonkey notes that your damage is halved while standing in Vorkath's acid, so that is a good time to brew."
+        },
+        {
+          "t": 265,
+          "kind": "tip",
+          "text": "Gnomonkey tries to brew only on Vorkath's specials in this setup because it wastes less DPS."
+        },
+        {
+          "t": 510,
+          "kind": "stat",
+          "text": "Gnomonkey's kill of Vorkath with the old wiki setup (empty helm/glove/boot slots, Leaf-bladed sword, AGS) took 5 minutes 40 seconds; he called it not that bad."
+        },
+        {
+          "t": 863,
+          "kind": "opinion",
+          "text": "Gnomonkey says Fang is so good on Vorkath."
+        },
+        {
+          "t": 894,
+          "kind": "stat",
+          "text": "Gnomonkey's later Fang and Burning claws kill of Vorkath took roughly two minutes (the transcript renders the time as '2016'), which he said was a bit better than the 5:40 old wiki setup kill."
+        },
+        {
+          "t": 1264,
+          "kind": "stat",
+          "text": "Gnomonkey's 1k setup kill of Vorkath took about four minutes, which he said was slow versus the expectation, and used 40 knives worth about 8k GP in total."
+        }
+      ]
+    },
+    {
+      "name": "Gearscape",
+      "kind": "other",
+      "claims": [
+        {
+          "t": 568,
+          "kind": "method",
+          "text": "Gnomonkey priced the old wiki Vorkath setup at about 400M at the time, then used a budget of 53M in Gearscape with stab only, gear limited to 2020 and no salve exclusion to find a better setup."
+        },
+        {
+          "t": 626,
+          "kind": "opinion",
+          "text": "Gnomonkey says the 50M Vorkath setup from Gearscape, with a fire cape and Burning claws, is basically a typical budget meta main setup that looks like his own."
+        },
+        {
+          "t": 714,
+          "kind": "stat",
+          "text": "Gearscape's time to kill for the budget Fang and Burning claws Vorkath setup is about 73 to 76 seconds, plus Vorkath being immune to specials, roughly 90 seconds in total, not counting Burning claws specs."
+        },
+        {
+          "t": 652,
+          "kind": "opinion",
+          "text": "Gnomonkey says a good melee Vorkath setup is crazy cheap these days."
+        }
+      ]
+    },
+    {
+      "name": "Burning claws",
+      "kind": "item",
+      "claims": [
+        {
+          "t": 652,
+          "kind": "opinion",
+          "text": "Gnomonkey calls the Burning claws an amazing spec weapon for Vorkath in the 50M budget setup."
+        },
+        {
+          "t": 894,
+          "kind": "tip",
+          "text": "Gnomonkey described Burning claws as basically a max claw spec on Vorkath."
+        }
+      ]
+    },
+    {
+      "name": "Osmumten's fang",
+      "kind": "item",
+      "claims": [
+        {
+          "t": 686,
+          "kind": "tip",
+          "text": "Gnomonkey notes the Fang kit adds 20 DPS (to slash), but because he was using stab on the Fang he set it to stab and avoided putting the kit on."
+        },
+        {
+          "t": 863,
+          "kind": "opinion",
+          "text": "Gnomonkey says the Osmumten's fang is extremely good against Vorkath."
+        }
+      ]
+    },
+    {
+      "name": "1k budget setup",
+      "kind": "challenge",
+      "claims": [
+        {
+          "t": 921,
+          "kind": "method",
+          "text": "Gnomonkey's bonus 1k budget Vorkath setup was ruby bolts or rune knives with otherwise cheap gear (an accumulator and a hard leather shield, which gives two ranged accuracy, plus Chazian armour as transcribed)."
+        },
+        {
+          "t": 955,
+          "kind": "stat",
+          "text": "Gnomonkey says the 1k budget setup gives about twice the DPS of the roughly 60M setup (the old wiki setup) according to Gearscape."
+        },
+        {
+          "t": 1131,
+          "kind": "stat",
+          "text": "Gnomonkey's 1k setup hit a max of about 24 on Vorkath, which he said was not bad at all; he prayed mage because he lacked the protection he wanted."
+        },
+        {
+          "t": 1380,
+          "kind": "opinion",
+          "text": "Gnomonkey says a 1k setup beating the old wiki guide is ridiculous, pointing out that any single consumable costs more than the whole setup."
+        }
+      ]
+    },
+    {
+      "name": "Ring of life",
+      "kind": "item",
+      "claims": [
+        {
+          "t": 742,
+          "kind": "opinion",
+          "text": "After disconnecting during the Fang and Burning claws attempt, Gnomonkey said in hindsight he should have kept the Ring of life on, and that he now understood what the wiki was doing by suggesting it."
+        }
+      ]
+    }
+  ]
+}

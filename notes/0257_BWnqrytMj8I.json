@@ -1,0 +1,98 @@
+{
+  "id": "BWnqrytMj8I",
+  "title": "NEW SLAYER BLOCK LIST GUIDE (OSRS)",
+  "date": "2025-08-28",
+  "type": "guide",
+  "summary": "A guide to building new Slayer block lists after the August 2025 Slayer update, which wiped block lists and refunded reduced-cost unlocks. Gnomonkey gives block lists for Turael (point boosting and cancelling), Duradel (best XP), Nieve/Steve and Konar, and shows the Skilling Discord Slayer spreadsheet and the new in-game view list interface.",
+  "outline": [
+    {"t": 0, "text": "Slayer update overview and why block lists need redoing"},
+    {"t": 27, "text": "Reptile freezer now 10 points, refunds, task storage cost halved to 500"},
+    {"t": 142, "text": "What Turael point boosting and cancelling mean"},
+    {"t": 173, "text": "Turael block list: lizards, dogs, skeletons, bats, dwarves, wolves, Kalphite"},
+    {"t": 383, "text": "Best Slayer master for XP: Duradel and its block list, metal dragons"},
+    {"t": 558, "text": "Nieve/Steve block list for Inferno and Fight Caves tasks"},
+    {"t": 610, "text": "Konar block list for Hydra"},
+    {"t": 632, "text": "Skilling Discord Slayer spreadsheet walkthrough"},
+    {"t": 735, "text": "Points per task close to zero and spreadsheet corrections"},
+    {"t": 911, "text": "New in-game view list interface for blocking"},
+    {"t": 969, "text": "Closing thoughts and Subtember on stream"}
+  ],
+  "topics": [
+    {
+      "name": "Slayer",
+      "kind": "skill",
+      "claims": [
+        {"t": 0, "kind": "event", "text": "The big Slayer update arrived in August 2025, and because every Slayer master has a separate block list, players wanted new updated block lists."},
+        {"t": 84, "kind": "event", "text": "After the Slayer update, players received a refund in the mail: block lists were wiped and any unlock that became cheaper refunded points; Gnomonkey logged in with about 700 points on his hardcore, and others could have up to about 1000."},
+        {"t": 27, "kind": "stat", "text": "After the update, the reptile freezer unlock costs only 10 points (Gnomonkey recalls it was around 100 before) and automatically finishes lizards at zero HP, though auto-finish unlocks waste one tick per kill."},
+        {"t": 113, "kind": "stat", "text": "Slayer task storage now costs 500 points instead of 1000, which Gnomonkey calls a massive change and worth getting early if you want to save bosses for later or do Turael with the new block list."},
+        {"t": 969, "kind": "opinion", "text": "Gnomonkey says the Slayer changes are great and have made Turael tremendously faster and getting the task you want much easier, with much less friction."},
+        {"t": 911, "kind": "tip", "text": "Gnomonkey says the Slayer master interface now has a new 'view list' button that shows exact task odds and lets you block tasks directly, without first getting the task; it also shows quantities based on your extends, though it is only sortable alphabetically, not by weight."},
+        {"t": 872, "kind": "tip", "text": "Gnomonkey says to block tasks efficiently rather than blocking whatever you dislike, because otherwise you finish Slayer with leftover points; once you have all the unlocks you need you do not need points."}
+      ]
+    },
+    {
+      "name": "Turael",
+      "kind": "other",
+      "claims": [
+        {"t": 142, "kind": "method", "text": "Turael point boosting means doing nine tasks with Turael, the easiest Slayer master, and then every tenth task with your best possible master to boost points."},
+        {"t": 142, "kind": "method", "text": "Turael cancelling means asking Turael for a task you do not like so he resets it with one of his own, which resets your streak."},
+        {"t": 173, "kind": "method", "text": "Gnomonkey's Turael block list is lizards, dogs and skeletons plus (if you have the slots) bats, dwarves and wolves, and then Kalphite if you plan to cancel tasks."},
+        {"t": 173, "kind": "opinion", "text": "Gnomonkey says to block lizards on Turael because they have 50-something health, require ice coolers or the reptile freezer, and are slow; the alternative is cannoning sulfur lizards in Mount Karuulm."},
+        {"t": 194, "kind": "opinion", "text": "Gnomonkey says bats are the Turael block he would leave unblocked if short on slots, since they are spread out near the Dig Site and need long range, but are only barely cannonable and slow."},
+        {"t": 233, "kind": "opinion", "text": "Gnomonkey says dogs on Turael are very slow because few spawns exist (best near the Agility Pyramid), they have a lot of health and waste time attacking you, so blocking is great."},
+        {"t": 260, "kind": "opinion", "text": "Gnomonkey says dwarves (killed in White Wolf Tunnel with about 30 health) and wolves are the least impactful Turael blocks and can be left unblocked if short on slots; wolves are multi so a Venator bow kills them fairly quickly."},
+        {"t": 289, "kind": "opinion", "text": "Gnomonkey says skeletons on Turael are extremely slow even with a method of Padawa-teleporting to Edgeville Dungeon, cannoning and running through, so they are a great block."},
+        {"t": 317, "kind": "tip", "text": "Gnomonkey says to block Kalphite on Turael if you cancel tasks: Turael refuses to cancel a task he can give you, but if you block it he forgets it and will skip it, so you need not block Kalphite on other masters."},
+        {"t": 317, "kind": "stat", "text": "Kalphite is the lowest-weight Turael task and a fast, multi task, so Gnomonkey would otherwise leave it unblocked, but blocking lets you cancel a huge Kalphite task from another master, such as 180 Kalphite."}
+      ]
+    },
+    {
+      "name": "Duradel",
+      "kind": "other",
+      "claims": [
+        {"t": 383, "kind": "opinion", "text": "Gnomonkey says Duradel has become the meta Slayer master for XP, far better than Nieve/Steve, who has many bad tasks such as Minions of Scabaras."},
+        {"t": 417, "kind": "stat", "text": "After the update all metal dragons are lumped into one task with a weight of 14, which Gnomonkey calls the highest weight he has seen on any Slayer master."},
+        {"t": 417, "kind": "tip", "text": "Gnomonkey says to always block metal dragons on every Slayer master since the weight is ridiculous, and he thinks a weight of 9 or 10 would have been better than 14."},
+        {"t": 444, "kind": "method", "text": "For Duradel XP, Gnomonkey leaves unblocked tasks that are good XP or quick: Abyssal demons (especially with a teleblock-based block scroll from zombie pirates), Dark beasts (about 15 per task, finished in five minutes), anything done by bursting or in multi-combat that gives good XP."},
+        {"t": 479, "kind": "method", "text": "Gnomonkey's Duradel XP block list: metal dragons, hellhounds (unblock for Cerberus), kraken (unblock for pet), greater demons (since high weight), plus three bad eight-weight tasks such as black demons, gargoyles, Suqah, drakes or worms."},
+        {"t": 503, "kind": "stat", "text": "Gnomonkey says Tormented demons give about 80k XP per hour and are good XP, but the long task makes overall XP worse than good burst tasks, so greater demons are blocked."}
+      ]
+    },
+    {
+      "name": "Nieve",
+      "kind": "other",
+      "claims": [
+        {"t": 558, "kind": "method", "text": "Gnomonkey says the main reason to use Nieve (Steve) is for Inferno or Fight Caves tasks (TzHaar), blocking the highest weight non-TzHaar tasks: metal dragons, abyssal demons, black demons, bloodveld, fire giants and Kalphite."},
+        {"t": 583, "kind": "tip", "text": "Gnomonkey says if you use Turael specifically for Inferno, you might block Kalphite on Nieve rather than Turael because it is high weight on Nieve and fast on Turael."}
+      ]
+    },
+    {
+      "name": "Konar quo Maten",
+      "kind": "other",
+      "claims": [
+        {"t": 583, "kind": "opinion", "text": "Gnomonkey says the only reasons to use Konar are a very late task streak (50 plus) or Alchemical Hydra tasks."},
+        {"t": 610, "kind": "method", "text": "For Konar Hydra tasks Gnomonkey blocks the highest weight tasks and leaves Hydra: metal dragons, drakes, worms, abyssal demons, black demons, bloodveld and cave kraken."}
+      ]
+    },
+    {
+      "name": "Slayer spreadsheet",
+      "kind": "other",
+      "claims": [
+        {"t": 632, "kind": "tip", "text": "Gnomonkey recommends the Skilling Discord Slayer spreadsheet by Kodakkid, a customisable tool where you make your own copy and enter goals and level to see which tasks to block or unlock, including toggles for alts and equipment."},
+        {"t": 691, "kind": "tip", "text": "Gnomonkey says the spreadsheet should be toggled to remove alts you do not have, such as a catacombs alt or a smoke devil alt, since defaults assume some sweaty alts."},
+        {"t": 735, "kind": "tip", "text": "Gnomonkey says in the spreadsheet you should check that you want points per task near zero but not negative: his Duradel example reads 0.32, meaning you are not gaining points and are using them efficiently."},
+        {"t": 766, "kind": "tip", "text": "In the spreadsheet, switching the task to Cave kraken for a pet changes points per task from 0.32 to 2.63, letting you block extra tasks until the number is back near zero."},
+        {"t": 711, "kind": "tip", "text": "Gnomonkey notes the spreadsheet had not yet been updated for the lumped metal dragon task, so you must manually set metal dragons to blocked, and that it wrongly spent points to skip warped creatures, which should be set to not unlocked."},
+        {"t": 793, "kind": "tip", "text": "The spreadsheet shows total tasks by weight, XP per hour and options like bracelet use, extends and combat style, and also covers Wilderness Slayer and other masters."}
+      ]
+    },
+    {
+      "name": "Gnomonkey",
+      "kind": "person",
+      "claims": [
+        {"t": 969, "kind": "event", "text": "In September 2025 Gnomonkey ran Subtember on his Twitch streams with sub incentives, including a No Pillar Colosseum run and a PvP collab with Mr. Odablock if an incentive is reached."}
+      ]
+    }
+  ]
+}

@@ -1,0 +1,322 @@
+{
+  "id": "R6F2mWXa_fM",
+  "title": "Tier 3 Corrupted Gauntlet Guide for HCIM (OSRS)",
+  "date": "2026-02-07",
+  "type": "guide",
+  "summary": "A guide to tier 3 armor prep in the Corrupted Gauntlet, aimed at Hardcore Ironmen who want a safe boss fight (for the Bow of Faerdhinen grind) and players chasing the tier 3 combat achievement. Gnomonkey breaks the prep into three phases, shows an example run with tick tricks and routing, and covers demi-boss spawns, fish, and time management.",
+  "outline": [
+    {
+      "t": 0,
+      "text": "Introduction: when and why to tier 3 prep Corrupted Gauntlet"
+    },
+    {
+      "t": 33,
+      "text": "Plugin setup: Gauntlet plugin, true tile, CG Recolor, attack timer metronome"
+    },
+    {
+      "t": 78,
+      "text": "Sponsor segment"
+    },
+    {
+      "t": 126,
+      "text": "Resource totals and phase one of prep"
+    },
+    {
+      "t": 181,
+      "text": "Phase two: demi hunting for tier 3 weapon upgrades"
+    },
+    {
+      "t": 208,
+      "text": "Phase three: flexible cleanup"
+    },
+    {
+      "t": 265,
+      "text": "Example run: harvesting while attacking, kicking vs scepter"
+    },
+    {
+      "t": 396,
+      "text": "Processing and inventory management"
+    },
+    {
+      "t": 416,
+      "text": "Secondary resource gathering and finding the last demi"
+    },
+    {
+      "t": 626,
+      "text": "Final processing and fish"
+    },
+    {
+      "t": 655,
+      "text": "Boss fight tips for hardcore HP"
+    },
+    {
+      "t": 703,
+      "text": "Common problems: demi spawns, fish, time"
+    },
+    {
+      "t": 777,
+      "text": "Final thoughts on Bow of Faerdhinen"
+    }
+  ],
+  "topics": [
+    {
+      "name": "Corrupted Gauntlet",
+      "kind": "boss",
+      "claims": [
+        {
+          "t": 0,
+          "kind": "opinion",
+          "text": "Gnomonkey says tier 3 Corrupted Gauntlet is a harder prep for an easier, safer boss fight, mainly for Hardcore Ironmen who want to stay safe and for players chasing the combat achievement."
+        },
+        {
+          "t": 0,
+          "kind": "opinion",
+          "text": "Gnomonkey says the tier 3 prep is so tight it is not worth doing for regular players, and every run will be mind-numbingly slow and difficult."
+        },
+        {
+          "t": 33,
+          "kind": "tip",
+          "text": "Gnomonkey says tier 3 prep keeps Hardcore Ironmen safe from disconnecting during tornadoes, and for the combat achievement it can be done one-and-done."
+        },
+        {
+          "t": 655,
+          "kind": "tip",
+          "text": "Gnomonkey says tier 3 armor makes the Corrupted Gauntlet boss a standard fight where you take significantly less damage."
+        },
+        {
+          "t": 659,
+          "kind": "requirement",
+          "text": "On a hardcore, Gnomonkey says to keep HP at 65 to 70 or higher in the Corrupted Gauntlet boss to survive one tick of all four tornadoes, which can max 60, plus possibly the auto that triggers your crystal."
+        }
+      ]
+    },
+    {
+      "name": "Corrupted Gauntlet tier 3 prep",
+      "kind": "mechanic",
+      "claims": [
+        {
+          "t": 126,
+          "kind": "requirement",
+          "text": "A tier 3 Corrupted Gauntlet run needs a minimum of 13 of each resource, two vials with two herbs, a bowstring, an orb, 740 crystal shards, and eight fish; more can always be gathered."
+        },
+        {
+          "t": 154,
+          "kind": "method",
+          "text": "Phase one of tier 3 prep: go in a C pattern around the starting area, open basic rooms near the resources you are grabbing, and check side demi rooms; you open any room with a demi but skip rooms with nothing near the door."
+        },
+        {
+          "t": 181,
+          "kind": "requirement",
+          "text": "Phase one requires 220 total shards for a tier 2 staff, tier 1 armor and two empty vials, which includes three of each resource for the armor and one weapon frame."
+        },
+        {
+          "t": 181,
+          "kind": "tip",
+          "text": "In phase one, drop extra resources on the ground for later and keep track of resources left behind that you can return to in case phase two fails."
+        },
+        {
+          "t": 181,
+          "kind": "method",
+          "text": "Phase two is demi hunting to get tier 3 weapon upgrades (a bow and staff): you collect the last 10 of every resource, a second weapon frame, 520 more shards for a total of 740, two completed potions, the orb and bowstring from demis, and eight fish."
+        },
+        {
+          "t": 181,
+          "kind": "opinion",
+          "text": "Gnomonkey says the halberd is good but is an unnecessary risk for hardcores, especially if you disconnect, so he would not bother unless going for the combat achievement."
+        },
+        {
+          "t": 208,
+          "kind": "method",
+          "text": "Phase three is a flexible cleanup phase based on what resources you lack after phase two; you grab anything useful from phase one areas or scout the opposite side of the phase two area."
+        },
+        {
+          "t": 239,
+          "kind": "tip",
+          "text": "If you must run far for resources in phase three, make another teleport crystal for 40 shards to save time; you will likely get it back from harvesting or fishing."
+        },
+        {
+          "t": 239,
+          "kind": "tip",
+          "text": "Gnomonkey says phase three can mean a failed run due to bad rooms, but if you manage time well in phases one and two you can still reach the boss on time."
+        }
+      ]
+    },
+    {
+      "name": "Corrupted Gauntlet plugins",
+      "kind": "other",
+      "claims": [
+        {
+          "t": 33,
+          "kind": "tip",
+          "text": "Gnomonkey recommends the RuneLite Gauntlet plugin for Corrupted Gauntlet, which has resource tracking, resource overlays, and tornado true tile."
+        },
+        {
+          "t": 33,
+          "kind": "tip",
+          "text": "True tile for tornadoes is found in the Tile Indicators plugin and helps harvest resources at the right time."
+        },
+        {
+          "t": 64,
+          "kind": "tip",
+          "text": "The CG Recolor plugin helps the eyes but does not work if you are using HD."
+        },
+        {
+          "t": 64,
+          "kind": "tip",
+          "text": "The attack timer metronome plugin tells you when your attack comes off cooldown so you can instantly harvest resources after attacking."
+        },
+        {
+          "t": 303,
+          "kind": "tip",
+          "text": "The Gauntlet plugin tracks the 740 shards, but if you miss a floor drop the plugin still thinks you got it, so be careful about missing drops."
+        },
+        {
+          "t": 703,
+          "kind": "tip",
+          "text": "Gnomonkey suggests the Gauntlet Performance Tracker plugin if runs are not going well, or recording runs and posting them in Discord."
+        }
+      ]
+    },
+    {
+      "name": "Corrupted Gauntlet demi-bosses",
+      "kind": "mechanic",
+      "claims": [
+        {
+          "t": 703,
+          "kind": "stat",
+          "text": "Corrupted Gauntlet has 12 rooms and always six demi-bosses (two of each demi spawn), which always spawn on the three edge sides of the room."
+        },
+        {
+          "t": 718,
+          "kind": "method",
+          "text": "If you already have a demi's item and kill the second of that demi, it drops a new unique piece you do not yet have; once all three are killed they stop dropping items entirely."
+        },
+        {
+          "t": 718,
+          "kind": "tip",
+          "text": "Using a pestle and mortar on a demi drop breaks it into 80 shards, so you can do this with a spike drop for extra shards."
+        },
+        {
+          "t": 361,
+          "kind": "tip",
+          "text": "In the example run, Gnomonkey scouts bears and a dark beast as fallback shard sources, since breaking down the halberd piece gives 80 shards."
+        },
+        {
+          "t": 541,
+          "kind": "event",
+          "text": "In his example run the last demi he found was a dragon, found by cutting across the map after phase three; he attacked the dragon while harvesting the rocks around it."
+        }
+      ]
+    },
+    {
+      "name": "Corrupted Gauntlet resource harvesting tricks",
+      "kind": "other",
+      "claims": [
+        {
+          "t": 265,
+          "kind": "tip",
+          "text": "While harvesting, Gnomonkey flexes to the side to peek into rooms, and aggroes enemies so he can harvest and kill at the same time without wasting ticks."
+        },
+        {
+          "t": 272,
+          "kind": "tip",
+          "text": "Gnomonkey says to harvest with a kick (unarmed) instead of the scepter, since kick is four tick and makes you harvest faster, while wielding the scepter makes tree harvesting five tick."
+        },
+        {
+          "t": 303,
+          "kind": "tip",
+          "text": "Gnomonkey uses the scepter to gain another tick while running across a room to a tree; it is not necessary but useful for good clear times."
+        },
+        {
+          "t": 334,
+          "kind": "tip",
+          "text": "Gnomonkey says to multitask while opening rooms, such as processing a potion in the inventory or attacking a creature, and not stand still."
+        },
+        {
+          "t": 360,
+          "kind": "tip",
+          "text": "He drops the pestle and harpoon early, since they are not needed at the start, to free inventory space."
+        },
+        {
+          "t": 396,
+          "kind": "tip",
+          "text": "After the first processing, hit number six at the middle podium to grab all the tools you need, and fill vials immediately to save inventory space."
+        }
+      ]
+    },
+    {
+      "name": "Corrupted Gauntlet fish",
+      "kind": "other",
+      "claims": [
+        {
+          "t": 626,
+          "kind": "tip",
+          "text": "Gnomonkey always tries to enter the Corrupted Gauntlet boss with at least eight fish."
+        },
+        {
+          "t": 758,
+          "kind": "tip",
+          "text": "There will always be a triple fish spawn in one of the rooms adjacent to the boss, and there are lots of fish near the boss."
+        }
+      ]
+    },
+    {
+      "name": "Corrupted Gauntlet time management",
+      "kind": "other",
+      "claims": [
+        {
+          "t": 748,
+          "kind": "opinion",
+          "text": "Gnomonkey says time is the biggest problem in tier 3 prep, and you will fail a lot while learning if not managing time well."
+        },
+        {
+          "t": 748,
+          "kind": "tip",
+          "text": "He says the best ways to make time are to always be doing something while harvesting, like scouting or attacking, and to know which resources you do and do not need."
+        },
+        {
+          "t": 777,
+          "kind": "tip",
+          "text": "Processing loses time if you forget to grab tools back, forget to drop things to clear inventory for phase two, or forget to craft everything such as vials; he suggests labelling a tile."
+        },
+        {
+          "t": 334,
+          "kind": "trivia",
+          "text": "In his example run Gnomonkey reached the boss with only 30 seconds left and says he could have run out of time wasting moments."
+        }
+      ]
+    },
+    {
+      "name": "Bow of Faerdhinen",
+      "kind": "item",
+      "claims": [
+        {
+          "t": 777,
+          "kind": "opinion",
+          "text": "Gnomonkey says he has always been a proponent of avoiding the Bow of Faerdhinen grind immediately, but it is worth getting on a hardcore at some point because it saves so much time on many grinds."
+        },
+        {
+          "t": 777,
+          "kind": "opinion",
+          "text": "Gnomonkey recommends getting a Nightmare-style Faerdhinen later (in his words 'a NALI') and not also going for Sailedor, but if you enjoy Corrupted Gauntlet you can go for a second enhanced crystal weapon."
+        }
+      ]
+    },
+    {
+      "name": "Hardcore Ironman",
+      "kind": "account",
+      "claims": [
+        {
+          "t": 0,
+          "kind": "opinion",
+          "text": "Gnomonkey says Corrupted Gauntlet is incredibly dangerous for Hardcore Ironmen but a necessary grind for the Bow of Faerdhinen, and tier 3 armor with a fast escape crystal makes it basically safe."
+        },
+        {
+          "t": 33,
+          "kind": "tip",
+          "text": "Gnomonkey says tier 3 prep protects hardcores from disconnecting during tornadoes in the Corrupted Gauntlet."
+        }
+      ]
+    }
+  ]
+}

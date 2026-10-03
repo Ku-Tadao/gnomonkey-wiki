@@ -1,0 +1,94 @@
+{
+  "id": "I1NgO3f61yE",
+  "title": "Melee Inferno Guide OSRS",
+  "date": "2023-07-12",
+  "type": "guide",
+  "summary": "Gnomonkey does a melee-only Inferno run on stream with Voidwaker, full Torva and Blood Fury, explaining gear, inventory, wave tips, the triple Jad strategy and the Zuk setup. He says that off-task it is not a cakewalk, but getting a Slayer task would make it one, and he stresses needing two stamina doses for Zuk.",
+  "outline": [
+    {"t": 0, "text": "Gear setup: Voidwaker, Torva, Blood Fury and an offhand"},
+    {"t": 60, "text": "Inventory and supplies: Sanfew serums, switches, stamina"},
+    {"t": 156, "text": "Early wave strategy with Scythe"},
+    {"t": 660, "text": "Mid-wave combat tips: rangers and tanking punches"},
+    {"t": 1320, "text": "Wave 60+ challenges: mage and melee positioning"},
+    {"t": 1597, "text": "Task restrictions: the combat achievement and healers"},
+    {"t": 1763, "text": "Positioning a Scythe against a mage and melee"},
+    {"t": 3201, "text": "Triple Jad strategy: two Scythe swings into one"},
+    {"t": 3693, "text": "Healer management at Jad"},
+    {"t": 3910, "text": "Zuk preparations: three-way switch and logging out"},
+    {"t": 4168, "text": "Zuk encounter"}
+  ],
+  "topics": [
+    {
+      "name": "Inferno",
+      "kind": "activity",
+      "claims": [
+        {"t": 0, "kind": "method", "text": "Gnomonkey's melee-only Inferno setup uses Voidwaker, max melee with full Torva, and an offhand of Elysian spirit shield, Falador shield or a ward; the video description says Ancestral top is used for magic bonus."},
+        {"t": 0, "kind": "opinion", "text": "Gnomonkey says Torva and Blood Fury make this combat achievement pretty easy, and that getting a Slayer task would make it a cakewalk (he was off-task because he did not bother with Turael)."},
+        {"t": 26, "kind": "opinion", "text": "Gnomonkey says Crystal shield is way too much negative for this setup because it has a magic attack of negative 10, putting you at negative eight at all times."},
+        {"t": 58, "kind": "opinion", "text": "Gnomonkey says Blood Fury is insane for this setup and recommends bringing it."},
+        {"t": 87, "kind": "method", "text": "Gnomonkey's melee Inferno inventory is 12 Sanfew serums, a three-way range switch with a blowpipe for Zuk, one Bastion potion for Zuk, two stamina potions because you are at the weight cap (80 kilos), three divine potions and only two brews."},
+        {"t": 87, "kind": "tip", "text": "Gnomonkey says you can ditch some divine potions for more restores if you are not comfortable flicking, and that Falador shield is great if you have it because Sanfew space is a little tight."},
+        {"t": 121, "kind": "tip", "text": "Gnomonkey says to bring a bulwark for the special attack (that is all he uses it for) and not to bring a halberd; if you know how to five-tick on Tzhaar, you can do Jad the same way."},
+        {"t": 187, "kind": "opinion", "text": "Gnomonkey says early waves are much easier in melee-only Inferno than normal Inferno, because the Scythe is best in slot on most things early and significantly better than a blowpipe on rangers."},
+        {"t": 661, "kind": "tip", "text": "Gnomonkey says you can technically avoid the rangers' punches but they do almost nothing so you can fully tank them; they still occasionally hit."},
+        {"t": 720, "kind": "stat", "text": "Gnomonkey says the Ranger punch max is nineteen, which is extremely low, and that Blood Fury heals it back immediately."},
+        {"t": 2640, "kind": "opinion", "text": "Gnomonkey says the waves in the late sixties are pretty bad and probably the hardest waves in this melee run."},
+        {"t": 1380, "kind": "stat", "text": "Gnomonkey says a mage's melee attack in Inferno maxes in the 50s (about 56) which is much less dangerous than its mage attack, and it is only fifty-fifty whether they use it on you."},
+        {"t": 1741, "kind": "tip", "text": "When a Scythe fight faces a mage and a melee, Gnomonkey stands where the melee digs and takes longer to get out, giving more time to finish the mage; and with Torva you are immortal to the melee if you keep praying mage."},
+        {"t": 1830, "kind": "tip", "text": "Gnomonkey says if you kill the mage as it hits you, it will not hit you, so you can go for it at low health."},
+        {"t": 1570, "kind": "tip", "text": "Gnomonkey says Zuk's healers do not count as attacking you, but if a set spawn hits a zero after you are below fifty HP, you fail the no-damage-type task."},
+        {"t": 2204, "kind": "tip", "text": "Gnomonkey says to bring Elysian on if you have a hit spot on you below fifty."}
+      ]
+    },
+    {
+      "name": "Nibblers",
+      "kind": "mechanic",
+      "claims": [
+        {"t": 58, "kind": "stat", "text": "Gnomonkey says nibblers have 15 magic level and negative 20 magic defence, so you can cast freeze spells on them no matter what even without much magic bonus."},
+        {"t": 58, "kind": "tip", "text": "Gnomonkey notes you can cast spells in a melee-only Inferno and that the magic bonus is only needed to catch the nibblers."}
+      ]
+    },
+    {
+      "name": "Voidwaker",
+      "kind": "item",
+      "claims": [
+        {"t": 0, "kind": "stat", "text": "Gnomonkey says the Voidwaker provides 5 mage bonus, which he finds very nice for the melee Inferno setup."},
+        {"t": 1033, "kind": "opinion", "text": "Gnomonkey says he thinks the Voidwaker would fry a Barbarian-type enemy and would be strong at Nex."}
+      ]
+    },
+    {
+      "name": "Bulwark",
+      "kind": "item",
+      "claims": [
+        {"t": 121, "kind": "tip", "text": "Gnomonkey says the Dinh's bulwark is great for the special attack and that is about all he uses it for in the melee Inferno."},
+        {"t": 3199, "kind": "opinion", "text": "Gnomonkey says the bulwark typically kills things at Inferno and is really good at it, and you can expect it to do that the majority of the time."}
+      ]
+    },
+    {
+      "name": "Jad",
+      "kind": "boss",
+      "claims": [
+        {"t": 3649, "kind": "tip", "text": "For a single Jad, Gnomonkey sits in melee range and, with healers, stays in a corner to corner-trap the healers and keep them off you."},
+        {"t": 3679, "kind": "method", "text": "For triple Jad in melee, Gnomonkey does two Scythe hits into one Scythe hit; you must attack the same tick that Jad attacks, though he thinks it is about a two-tick window."},
+        {"t": 3710, "kind": "tip", "text": "At the Jads, Gnomonkey tries tanking the healers instead of luring them, and says to be safe above all else and not get meleed."}
+      ]
+    },
+    {
+      "name": "Zuk",
+      "kind": "boss",
+      "claims": [
+        {"t": 0, "kind": "requirement", "text": "The video description says Gnomonkey used a three-way switch for Zuk of Twisted bow, Masori top and Anguish, and that you absolutely need 2 stamina doses for Zuk."},
+        {"t": 4066, "kind": "tip", "text": "Gnomonkey logs out on full health before Zuk to be sure he does not equip his Twisted bow at the wrong time."},
+        {"t": 4291, "kind": "opinion", "text": "Gnomonkey says Zuk in melee Inferno is the exact same as normal Zuk, you just have fewer switches."},
+        {"t": 4436, "kind": "tip", "text": "Gnomonkey says after the Zuk fight that you need two stamina doses, not one."}
+      ]
+    },
+    {
+      "name": "Jangerberries",
+      "kind": "item",
+      "claims": [
+        {"t": 154, "kind": "stat", "text": "Gnomonkey says Jangerberries boost Attack by two and Strength by one, restore one prayer point and reduce Defence by one."}
+      ]
+    }
+  ]
+}

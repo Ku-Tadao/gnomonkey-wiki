@@ -1,0 +1,449 @@
+{
+ "id": "eIAkPiQivJk",
+ "title": "Tormented Demons Guide + Triple KC CA (OSRS)",
+ "date": "2024-07-15",
+ "type": "guide",
+ "summary": "Gnomonkey's guide to the new Tormented Demons Slayer monsters unlocked by the quest While Guthix Sleeps' follow-up, covering their shield and punish mechanics, the best weapons at different budgets, how to get the three-demon Combat Achievement, the new demon bane weapons, and a long boss-by-boss evaluation of the Burning claws. He ends by defending his Burning claws testing against criticism from another creator.",
+ "outline": [
+  {
+   "t": 0,
+   "text": "Introduction to the new Tormented Demons, their RS3 origin and the bugs around them"
+  },
+  {
+   "t": 85,
+   "text": "How the shield, roar punish and guaranteed-accuracy mechanics work"
+  },
+  {
+   "t": 206,
+   "text": "Weapon choices: blowpipe, Arclight, bludgeon, ballista or crossbow punish, Dharok's greataxe"
+  },
+  {
+   "t": 262,
+   "text": "Best-budget options (Twisted bow, Emberlight), bugged Scorching bow and Purging staff, abyssal dagger spec"
+  },
+  {
+   "t": 358,
+   "text": "Triple Tormented Demon kill Combat Achievement walkthrough"
+  },
+  {
+   "t": 566,
+   "text": "Loot table opinion and the three new demon bane weapons"
+  },
+  {
+   "t": 633,
+   "text": "Burning claws: spec stats and uses in Tombs of Amascut"
+  },
+  {
+   "t": 688,
+   "text": "Burning claws in Theatre of Blood and Chambers of Xeric"
+  },
+  {
+   "t": 796,
+   "text": "Burning claws in Inferno, Colosseum, Nex, Corp, Vardorvis, Vorkath and overall verdict"
+  },
+  {
+   "t": 911,
+   "text": "Response to the controversy over Burning claws testing and community drama"
+  }
+ ],
+ "topics": [
+  {
+   "name": "Tormented Demon",
+   "kind": "boss",
+   "claims": [
+    {
+     "t": 0,
+     "kind": "trivia",
+     "text": "Gnomonkey says the new Tormented Demons are Slayer monsters unlocked by completing the new quest, and are the exact mobs Jagex took the idea for demonic gorillas from, so they were completely changed mechanically from their RS3 counterpart."
+    },
+    {
+     "t": 0,
+     "kind": "opinion",
+     "text": "Gnomonkey enjoys the Tormented Demons and says they offer a lot more depth than their RS3 counterpart, and that he loves Old School taking something from RS3 and making it enjoyable."
+    },
+    {
+     "t": 28,
+     "kind": "tip",
+     "text": "Gnomonkey says Tormented Demons have a huge aggro radius, so people on other sides of the room or in tunnels can aggro your demons, making them de-aggro completely or mess up their prayer and special rotations."
+    },
+    {
+     "t": 58,
+     "kind": "tip",
+     "text": "Gnomonkey says Tormented Demons sometimes bug out and stop completely so you cannot attack them, and they can aggro people on entirely different planes; because worlds are packed you can get extra aggro or lose aggro when others are around."
+    },
+    {
+     "t": 85,
+     "kind": "method",
+     "text": "Gnomonkey says Tormented Demons have a shield giving a permanent 20% damage reduction against all non-abyssal and non-demon bane weapons, so only things like the new demon weapons, Arclight, Dragon... bludgeon and the abyssal dagger do their full max hit."
+    },
+    {
+     "t": 114,
+     "kind": "method",
+     "text": "Gnomonkey says Tormented Demons have two mechanics that make specific items good: a punish mechanic for super slow weapons, and guaranteed accuracy rolls."
+    },
+    {
+     "t": 114,
+     "kind": "method",
+     "text": "Gnomonkey says at the start of almost every kill the Tormented Demon does a roar, which means your next attack, whatever it is, bypasses their damage reduction; a crush weapon or a ballista or crossbow on slash/accurate gets a huge bonus damage with its attack speed slowed, and the slower the weapon the more damage."
+    },
+    {
+     "t": 147,
+     "kind": "method",
+     "text": "Gnomonkey says after the punish a timer runs, and after 25 game ticks, roughly 4 Tormented Demon attacks, all of your attacks become unable to miss, continuing until the demon has done 10 total attacks."
+    },
+    {
+     "t": 147,
+     "kind": "method",
+     "text": "Gnomonkey says at the end of that cycle the Tormented Demon snares you in place and drops fireballs, which you can dodge by control-clicking away or walking in a specific pattern, and it then does another roar allowing another punish and repeating the cycle."
+    },
+    {
+     "t": 176,
+     "kind": "method",
+     "text": "Gnomonkey says Tormented Demons change combat style like demonic gorillas, every 150 damage dealt, swapping to the last style used against them."
+    }
+   ]
+  },
+  {
+   "name": "Tormented Demon weapon choices",
+   "kind": "mechanic",
+   "claims": [
+    {
+     "t": 176,
+     "kind": "tip",
+     "text": "Gnomonkey explains that a 100% accurate Toxic blowpipe is some of the best DPS in the game but is bad when it actually rolls against the Tormented Demon's large defence, which is why it feels strangely good during the guaranteed-accuracy window."
+    },
+    {
+     "t": 206,
+     "kind": "stat",
+     "text": "Gnomonkey says to calculate a weapon's true DPS against Tormented Demons you take 13 of its hits against the demon's normal defence and 17 hits against zero defence and average those 30 hits, which is roughly how many you get per roar."
+    },
+    {
+     "t": 206,
+     "kind": "tip",
+     "text": "Gnomonkey says Arclight is a great budget option that costs nothing and is basically the second-best weapon for Tormented Demons, as long as it is on stab, with a bludgeon about 5% worse if you do not want to use Arclight's charges."
+    },
+    {
+     "t": 233,
+     "kind": "opinion",
+     "text": "Gnomonkey says the Toxic blowpipe is awful before it ramps up but then deletes Tormented Demons, and is directly better than the Bow of Faerdhinen or any crossbow as the main weapon."
+    },
+    {
+     "t": 233,
+     "kind": "tip",
+     "text": "Gnomonkey says for the punish you absolutely need a ballista or a crossbow on accurate, because a slower weapon deals more damage; he is not sure whether the Zaryte crossbow or heavy ballista is better but calls both similar, with the ballista a great cheap option."
+    },
+    {
+     "t": 233,
+     "kind": "tip",
+     "text": "Gnomonkey says you also want a melee punish option for when the demons pray ranged, and that Dharok's greataxe on crush is the clear winner, with Dragon 2H sword or Abyssal maul a close second."
+    },
+    {
+     "t": 263,
+     "kind": "tip",
+     "text": "Gnomonkey says with all the cash you need the best options are the Twisted bow and Emberlight, and that when not 100% accurate the Twisted bow is directly better than the blowpipe, and even at 100% accuracy it is the same DPS."
+    },
+    {
+     "t": 263,
+     "kind": "event",
+     "text": "Gnomonkey says the Scorching bow would be the superior option but is currently bugged with a reduced max hit, and if it was patched the next Wednesday it would be better than the Twisted bow."
+    },
+    {
+     "t": 263,
+     "kind": "event",
+     "text": "Gnomonkey says the Purging staff is also bugged and should be 5% better DPS than the Scorching bow, but since it cannot punish with a weapon like other styles he thinks it is probably worse than the Scorching bow."
+    },
+    {
+     "t": 294,
+     "kind": "tip",
+     "text": "Gnomonkey says he brings a Toxic blowpipe as a switch to inflict venom when the demon cannot be missed, but calls that pretty marginal."
+    },
+    {
+     "t": 294,
+     "kind": "tip",
+     "text": "Gnomonkey says the best spec option against Tormented Demons is, against all odds, the abyssal dagger: it bypasses their shield so it maxes higher than a Dragon dagger special, and costs only 25% spec."
+    },
+    {
+     "t": 327,
+     "kind": "stat",
+     "text": "Gnomonkey says the abyssal dagger special is a 4-tick, 25% spec weapon that maxes 98 in max melee gear with Blood fury, and its Blood fury procs should outweigh any sustain the Saradomin godsword provides."
+    }
+   ]
+  },
+  {
+   "name": "Combat Achievements",
+   "kind": "activity",
+   "claims": [
+    {
+     "t": 361,
+     "kind": "tip",
+     "text": "Gnomonkey says you can get every new Tormented Demon Combat Achievement in a single trip kill, which requires killing three at once."
+    },
+    {
+     "t": 361,
+     "kind": "method",
+     "text": "Gnomonkey says when multiple Tormented Demons are on you, one launches AoE attacks, one melees you, and one either mages or ranges you, all automatically off-ticked, and you must finish all three with a final punish special."
+    },
+    {
+     "t": 361,
+     "kind": "method",
+     "text": "Gnomonkey's method for the triple Tormented Demon kill is to get all three below 10% health, wait for the special roar, keep prayers flicking, and then finish all three with a punish using a ballista."
+    },
+    {
+     "t": 414,
+     "kind": "tip",
+     "text": "Gnomonkey says that when a Tormented Demon changes prayers it delays its attack slightly, and that he stares at the mage demon while praying melee."
+    },
+    {
+     "t": 504,
+     "kind": "tip",
+     "text": "Gnomonkey says to be careful what you punish so you do not kill a demon early, and he uses a blowpipe to chip a demon down before the final punish."
+    },
+    {
+     "t": 533,
+     "kind": "opinion",
+     "text": "Gnomonkey says the Tormented Demon Combat Achievements have a very clear intended method, and says people cheesing it with venom and similar are not using the clear intended way."
+    },
+    {
+     "t": 0,
+     "kind": "opinion",
+     "text": "Gnomonkey says in the video description that the Triple Kill Combat Achievement is not too hard, but everywhere is crowded; it takes a few tries and is easy if you are comfortable flicking and fighting one demon at a time."
+    },
+    {
+     "t": 25,
+     "kind": "event",
+     "text": "Gnomonkey says his worst experience with the aggro bug was while completing the three Tormented Demon Combat Achievement and someone came into the room."
+    }
+   ]
+  },
+  {
+   "name": "Tormented Demon drop table",
+   "kind": "update",
+   "claims": [
+    {
+     "t": 563,
+     "kind": "opinion",
+     "text": "Gnomonkey says Tormented Demons' base loot table is non-existent, a common community complaint, and he would like Jagex to keep very bad drops with sparse good drops to prevent inventory clogging, with a buff to the occasional good drops being enough."
+    },
+    {
+     "t": 563,
+     "kind": "opinion",
+     "text": "Gnomonkey says a loot table like the Desert Treasure 2 bosses would work really well for Tormented Demons."
+    }
+   ]
+  },
+  {
+   "name": "Demon bane weapons",
+   "kind": "item",
+   "claims": [
+    {
+     "t": 563,
+     "kind": "event",
+     "text": "Gnomonkey says there are three new demon bane weapons, a bow, a staff and a sword, made by getting a synapse drop from Tormented Demons and infusing it into your weapon."
+    },
+    {
+     "t": 590,
+     "kind": "opinion",
+     "text": "Gnomonkey says Emberlight is an extremely good demon bane melee weapon, nearly as good as the Scythe on Cerberus and the new best-in-slot at Sire."
+    },
+    {
+     "t": 590,
+     "kind": "opinion",
+     "text": "Gnomonkey says the Scorching bow is a big mention for those who want to essentially AFK Zamorak (K'ril Tsutsaroth) because it snares him and does a lot of damage, but it is only really good there, where it is absolutely disgusting."
+    },
+    {
+     "t": 590,
+     "kind": "opinion",
+     "text": "Gnomonkey says the Purging staff seems by far the weakest of the three, and he would like Jagex to have it give all non-demon bane spells at least a small damage buff so it could be used to barrage other demons."
+    },
+    {
+     "t": 621,
+     "kind": "opinion",
+     "text": "Gnomonkey says the demon bane weapons are not a bridge to anything in normal content but are best in slot for demons."
+    },
+    {
+     "t": 621,
+     "kind": "event",
+     "text": "Gnomonkey says the Purging staff and Scorching bow are bugged at the time of the video, having a 20% lower max hit than they should against Tormented Demons."
+    },
+    {
+     "t": 0,
+     "kind": "opinion",
+     "text": "In the video description Gnomonkey says he hopes to see Jagex pull more ideas from RS3 and refine them to better suit OSRS."
+    }
+   ]
+  },
+  {
+   "name": "Burning claws",
+   "kind": "item",
+   "claims": [
+    {
+     "t": 621,
+     "kind": "requirement",
+     "text": "Gnomonkey says Ironmen need to get two Burning claws to combine them into the full set."
+    },
+    {
+     "t": 621,
+     "kind": "stat",
+     "text": "Gnomonkey says Burning claws apply a burn and are similar to Dragon claws but with only a 30% special attack cost, and that he tested them extensively on stream with Mo Goat Kirby to find where they are good."
+    },
+    {
+     "t": 633,
+     "kind": "method",
+     "text": "Gnomonkey says Burning claws are unique among spec weapons in that they can spec on either stab or slash, which makes them good in some unusual situations."
+    },
+    {
+     "t": 633,
+     "kind": "stat",
+     "text": "Gnomonkey says Burning claws get a slight 5% damage buff against demon-type monsters, which usually equates to about two max hits."
+    },
+    {
+     "t": 633,
+     "kind": "opinion",
+     "text": "Gnomonkey says overall Burning claws are 2-6% better than the places Dragon claws would be used, unless the target has low HP or extremely low defence."
+    },
+    {
+     "t": 882,
+     "kind": "stat",
+     "text": "Gnomonkey says Burning claws take longer to spec with than normal claws because of the low spec cost, so you swing your main-hand weapon a bit less, and Dragon claws equal out when your main hand is around 14 DPS."
+    },
+    {
+     "t": 882,
+     "kind": "tip",
+     "text": "Gnomonkey says Burning claws are a good spec if you do not have the Voidwaker yet or are an Ironman who does not want to grind Wilderness content for Voidwaker pieces, but anywhere you currently use a Zaryte crossbow they will not beat it."
+    },
+    {
+     "t": 911,
+     "kind": "opinion",
+     "text": "Gnomonkey says Burning claws had controversy after release, with some calling them bad and some good, and that any item at the beginning of an update that has not been tested is volatile."
+    },
+    {
+     "t": 911,
+     "kind": "event",
+     "text": "Gnomonkey says he spent every day, eight plus hours each day, testing Burning claws in every location he could, outside of calcs because calcs were not yet updated, lacked proper formulas or were bugged, and with Mo Goat Kirby concluded Burning claws are good."
+    }
+   ]
+  },
+  {
+   "name": "Burning claws at raid and boss locations",
+   "kind": "activity",
+   "claims": [
+    {
+     "t": 633,
+     "kind": "tip",
+     "text": "Gnomonkey says Burning claws will be good in Tombs of Amascut anything under a 400 invocation with defence drain, on Ba-Ba and Kephri, and on Zebak if you do not have a Zaryte crossbow though not great there."
+    },
+    {
+     "t": 664,
+     "kind": "tip",
+     "text": "Gnomonkey says Burning claws are good on Akkha's shadows but not on Akkha's final phase, because the burn actually makes him jump."
+    },
+    {
+     "t": 664,
+     "kind": "tip",
+     "text": "Gnomonkey says Burning claws are not great on Tombs of Amascut's Warden because of his extremely high defence breakpoints, and are significantly worse on the core than a Dragon dagger special because of a lower max hit and the burn not applying to the core."
+    },
+    {
+     "t": 664,
+     "kind": "tip",
+     "text": "Gnomonkey says in Chambers of Xeric the Zaryte crossbow and Voidwaker are still king because of the high defences in that raid, nothing in Chambers is really weak to slash or stab, and Burning claws were awful on Vasa Cristallus."
+    },
+    {
+     "t": 688,
+     "kind": "event",
+     "text": "Gnomonkey says Burning claws are technically better at Theatre of Blood but are bugged there: the burn gets halved and rounded down to zero when Bloat stands up and runs around, and the Nylocas Vasilias is completely immune to burn."
+    },
+    {
+     "t": 688,
+     "kind": "tip",
+     "text": "Gnomonkey says Burning claws are very good on Sotetseg at all drains and will beat Dragon claws, since you usually have leftover spec at the end and Chally is god-awful at finishing Sotetseg."
+    },
+    {
+     "t": 728,
+     "kind": "tip",
+     "text": "Gnomonkey says Burning claws are bugged on Xarpus because the burn triggers his turn and he kills you after Screech, so you should not use them there, and they only match regular Dragon claws' DPS if the team fully drains him."
+    },
+    {
+     "t": 728,
+     "kind": "tip",
+     "text": "Gnomonkey says on Verzik, Burning claws should not be used in P1 even though the burn hits her, in P2 she heals the burn damage when dealing with red crabs so spec timing matters, and in P3 they are really good, especially post-tornadoes."
+    },
+    {
+     "t": 748,
+     "kind": "opinion",
+     "text": "Gnomonkey says that currently Burning claws are worth bringing in addition to Dragon claws in Theatre of Blood but not replacing them, and that they absolutely do not replace Chally because of its huge last-hit value."
+    },
+    {
+     "t": 796,
+     "kind": "tip",
+     "text": "Gnomonkey says Burning claws are not as good in the Inferno because nothing lives long enough for the burn to apply, and the point of claws is to finish targets quickly."
+    },
+    {
+     "t": 796,
+     "kind": "tip",
+     "text": "Gnomonkey says Burning claws are best in slot in the Colosseum by about 5% over Dragon claws, especially on Soul where you have leftover spec at the end, and all Colosseum mobs have gigantic health pools allowing the burn to tick."
+    },
+    {
+     "t": 828,
+     "kind": "tip",
+     "text": "Gnomonkey says Nex's defence is too high and she heals too much for Burning claws to be good, ranking them below the Voidwaker and far below the Zaryte crossbow as a spec, and that Bloodveld-style testing at Nex dragged on far longer than it should have."
+    },
+    {
+     "t": 828,
+     "kind": "tip",
+     "text": "Gnomonkey says at Corporeal Beast you should still use a Voidwaker spec as it is the only thing not reduced due to his weird mechanics, and that Sarachnis is completely immune to burn despite being a demon, which he calls an oversight."
+    },
+    {
+     "t": 855,
+     "kind": "tip",
+     "text": "Gnomonkey says Burning claws are best in slot at Vardorvis, with the spec best used around the beginning and middle of the kill to maximise burn DPS."
+    },
+    {
+     "t": 855,
+     "kind": "record",
+     "text": "Gnomonkey says he walked Vorkath on stream with Burning claws and on his very first attempt got a Grandmaster time with a simple melee camp, a 53.4 second personal best, where the typical time was a 60."
+    },
+    {
+     "t": 855,
+     "kind": "tip",
+     "text": "Gnomonkey says at Vorkath you can triple spec and stack the burn, though the burn damage is halved during the acid phase and nullified during the freeze, and Burning claws are still the best option."
+    }
+   ]
+  },
+  {
+   "name": "Gnomonkey",
+   "kind": "person",
+   "claims": [
+    {
+     "t": 928,
+     "kind": "opinion",
+     "text": "Gnomonkey says he was disappointed that another creator, whom he names as Addy, criticised his Burning claws testing and fed into rumours of merching, which Gnomonkey calls an unfounded lie."
+    },
+    {
+     "t": 928,
+     "kind": "stat",
+     "text": "Gnomonkey says according to Twitch Analytics his channel and the other creator's share over 78% of the same viewer base."
+    },
+    {
+     "t": 928,
+     "kind": "event",
+     "text": "Gnomonkey says the other creator later released a video using Gnomonkey's calcs and concluding that Burning claws are good, without apologising."
+    },
+    {
+     "t": 968,
+     "kind": "opinion",
+     "text": "Gnomonkey says GP means nothing to him and he cares about teaching, which is why he makes guides and built the Nex Finder channel in his Discord for people to grow with strong mentors like Hedron, Connor and SyFi."
+    },
+    {
+     "t": 998,
+     "kind": "opinion",
+     "text": "Gnomonkey says disagreement about calcs is fine, but attacking each other's communities is not, and that trying to create a place where voices are heard is how Thralls got into the Inferno and how Chambers of Xeric got its massive quality-of-life update."
+    },
+    {
+     "t": 1028,
+     "kind": "trivia",
+     "text": "Gnomonkey says the new Nex learner section in his Discord has been doing well."
+    }
+   ]
+  }
+ ]
+}

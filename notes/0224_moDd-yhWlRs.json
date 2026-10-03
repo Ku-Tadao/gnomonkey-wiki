@@ -1,0 +1,130 @@
+{
+  "id": "moDd-yhWlRs",
+  "title": "Problem with Yama Contracts and Awakeners' Orbs (OSRS)",
+  "date": "2025-05-09",
+  "type": "news-opinion",
+  "summary": "Gnomonkey reacts to Mod Goblin's Twitch-chat leak that Yama contracts will be a tradable drop consumed on entry, which he sees as very similar to Awakener's Orbs. He argues that this kind of system gatekeeps high-level players and ironmen from content, would be toxic in a duo boss, and that Jagex should have communicated it before release because tradable items cannot be fixed afterwards. He stresses he is still hyped for Yama and that players should not attack Jmods.",
+  "outline": [
+    {"t": 0, "text": "Intro: disclaimer not to attack Jmods, still hyped for Yama"},
+    {"t": 53, "text": "Goblin's leak: Yama contracts are tradable and used on entry"},
+    {"t": 142, "text": "Explaining Awakener's Orbs and the Blorva ornament kit"},
+    {"t": 256, "text": "Cost of awakened boss attempts: orb counts and GP spent by various players"},
+    {"t": 489, "text": "Gatekeeping of high-level players and ironmen by orb drop rates"},
+    {"t": 602, "text": "Suggested fix for orbs and the duo-boss problems with contracts"},
+    {"t": 803, "text": "Why high-level updates should avoid friction; Inferno and CM cape swaps as examples"},
+    {"t": 899, "text": "Goblin's Twitch message and the lack of communication in Yama blogs"},
+    {"t": 1016, "text": "Chromium ingots and jar of dirt as examples of unfixable market items"},
+    {"t": 1163, "text": "Mystery versus transparency, and how polls are affected"},
+    {"t": 1316, "text": "Hope for Jagex to clarify before release; be nice to Goblin"}
+  ],
+  "topics": [
+    {
+      "name": "Update: Yama",
+      "kind": "update",
+      "claims": [
+        {"t": 0, "kind": "opinion", "text": "Gnomonkey says he is still very excited for the Yama boss and will do it on release despite his concerns about its drop system."},
+        {"t": 53, "kind": "event", "text": "In Gnomonkey's Twitch chat, Mod Goblin answered a question about Yama contracts by saying they are tradable and used on entry, so players should hope they can finish the fight or lose the GP they spent on the contract."},
+        {"t": 84, "kind": "event", "text": "Per Gnomonkey, it is confirmed that Yama contracts are a drop and are tradable, but full details of how the system works have not been released."},
+        {"t": 111, "kind": "event", "text": "Mod Goblin confirmed in the Reddit thread that Yama contracts are not a pay-GP-for-better-drop-rates system, i.e. people are not meant to use them to get better loot, the same stated goal as Awakener's Orbs."},
+        {"t": 142, "kind": "event", "text": "Mod Goblin said in the thread that Yama contracts will mechanically change the boss, and they are used to unlock the white variant of Oathplate, an ornament kit for the new armor."},
+        {"t": 142, "kind": "opinion", "text": "Gnomonkey compares the Yama contract to the Awakener's Orb system, where unlocking Blorva requires doing the four awakened bosses."},
+        {"t": 84, "kind": "event", "text": "Mod Goblin said he feels the contract system is a lot better than the Awakener's Orb system, which Gnomonkey says could be true but cannot be judged without full details."},
+        {"t": 1396, "kind": "event", "text": "Gnomonkey says he will stream Yama as soon as it is released."},
+        {"t": 1316, "kind": "opinion", "text": "Gnomonkey says that by release there will be no way to remove contracts from people's banks, so he wants Jagex to explain exactly how they work before release while there is still time to fix the system."},
+        {"t": 1396, "kind": "event", "text": "Gnomonkey notes that Yama is one of two high-level updates this year, alongside Mocha, and that Coliseum, the previous one, was roughly a year earlier."}
+      ]
+    },
+    {
+      "name": "Awakened bosses",
+      "kind": "mechanic",
+      "claims": [
+        {"t": 171, "kind": "stat", "text": "Awakener's Orbs are a fairly rare drop from the Desert Treasure 2 bosses, with drop rates varying by boss; taking one to its boss lets the player attempt the awakened version once."},
+        {"t": 200, "kind": "requirement", "text": "An Awakener's Orb is consumed on entering the boss room whether the player dies or kills the boss; it is gone either way."},
+        {"t": 200, "kind": "stat", "text": "At the time of the video Awakener's Orbs cost roughly 900k each, varying a lot, whereas on release they cost around 3-4 million."},
+        {"t": 200, "kind": "requirement", "text": "Killing all four awakened bosses makes the fourth drop the ancient blood ornament kit, which with a lot of blood runes converts Torva into its Blorva variant."},
+        {"t": 256, "kind": "stat", "text": "According to people Gnomonkey asked in his Discord, getting Blorva usually takes around 100 to 200 orbs, with many players using 200 to 300 and some spending over 100 orbs on Vardorvis or Leviathan, or both."},
+        {"t": 316, "kind": "stat", "text": "At 900k per orb, Gnomonkey calculates 300 orbs is 270 million GP and a lucky 100 orbs is 90 million GP."},
+        {"t": 523, "kind": "stat", "text": "Gnomonkey estimates the Awakener's Orb drop rate at roughly an hour to an hour and a half per orb on average, so 100-200 orbs is 100-200+ hours and realistically 500-600 hours for most players, which gates ironmen from the content."},
+        {"t": 250, "kind": "opinion", "text": "Gnomonkey considers Awakener's Orbs one of the biggest mistakes, maybe the biggest, Jagex has made with high-level content."},
+        {"t": 256, "kind": "opinion", "text": "Gnomonkey says that once Blorva is unlocked, players can still buy orbs and enter, but no longer have any affordable way to engage with the content, such as speedruns or challenges, unless they are one of a select few very wealthy players."},
+        {"t": 602, "kind": "opinion", "text": "Gnomonkey's suggested fix is making the Sanguine kit work like the Echo Orbs from Leagues, giving permanent unlimited access to awakened bosses once earned."},
+        {"t": 523, "kind": "opinion", "text": "Gnomonkey considers the awakened bosses content that actively dissuades people from engaging with it, which he says is bad design."}
+      ]
+    },
+    {
+      "name": "Awakened bosses: spending examples",
+      "kind": "other",
+      "claims": [
+        {"t": 344, "kind": "record", "text": "Gnomonkey says he spent roughly 1.5 billion GP on orbs trying for a no-stun awakened boss attempt and never got it, at a time when orbs cost 3-4 million each; he likens it to buying a Twisted bow."},
+        {"t": 374, "kind": "record", "text": "Gnomonkey says Noobtype spent roughly 4 billion GP on the 27-orb Leviathan challenge and around 6 billion going for no stun the first time, a total of about 10 billion."},
+        {"t": 405, "kind": "stat", "text": "Gnomonkey says 10 billion GP is enough to buy every equippable item in the game that would be cool to use at a boss, including the harm staff, volatile staff, eldritch staff, scythe, shadow, Tumeken's Shadow items and full Torva."},
+        {"t": 395, "kind": "record", "text": "Gnomonkey says Saks spent 3-4 billion GP trying for a world record Vardorvis without achieving it, and spent roughly 7 to 10 billion GP on Whisperer and Duke."},
+        {"t": 434, "kind": "record", "text": "Gnomonkey says Porkazar did the 54 Awakened Leviathan challenge and stated in his video that he spent over 3 billion GP on it."},
+        {"t": 463, "kind": "opinion", "text": "Gnomonkey says he has soloed seven shadows yet cannot afford awakened bosses and will never kill them, because only players who sell services or leeches can afford them, not players making GP through methods like PvM."},
+        {"t": 488, "kind": "opinion", "text": "Gnomonkey says Awakened Leviathan is in his top five bosses in the game, but he cannot afford to do the challenges or speedruns on it."}
+      ]
+    },
+    {
+      "name": "Opinion: Tradable contracts and duo boss design",
+      "kind": "opinion",
+      "claims": [
+        {"t": 625, "kind": "opinion", "text": "Gnomonkey is concerned about how Yama's contracts would work in a duo: it is unclear whether both players need a contract or just one."},
+        {"t": 625, "kind": "opinion", "text": "Gnomonkey argues that if one player brings a contract, a teammate dying and wasting it would be toxic, and if both need contracts, both losing GP up front still creates toxicity."},
+        {"t": 686, "kind": "opinion", "text": "Gnomonkey compares the potential toxicity to Perfect Theatre of Blood attempts, where one player repeatedly wiping at Verzik or ruining a Verzik combat achievement attempt causes tension in the team."},
+        {"t": 716, "kind": "opinion", "text": "Gnomonkey asks whether a player holding a contract would be stuck in limbo waiting for an ironman duo partner to get the drop, even if the unlock became permanent after completion."},
+        {"t": 744, "kind": "opinion", "text": "Gnomonkey asks what happens if a teammate dies during a contract fight, whether they can still receive the kit if the other player clears it, and notes Jagex has said the system will heavily disincentivize boosting."},
+        {"t": 803, "kind": "opinion", "text": "Gnomonkey says the contract system does not feel like it works for a duo boss, though he admits Jagex may have a solution he is not seeing."},
+        {"t": 1396, "kind": "opinion", "text": "Gnomonkey says he is wary of high-level content being gated by a GP barricade because there are so few such updates and he has been waiting a long time for one."}
+      ]
+    },
+    {
+      "name": "Opinion: Friction in high-level content",
+      "kind": "opinion",
+      "claims": [
+        {"t": 803, "kind": "opinion", "text": "Gnomonkey says Jagex needs to get a lot of mileage out of high-level updates because they take a lot of dev time and come roughly once a year, so they should not add friction that prevents people from engaging with them."},
+        {"t": 830, "kind": "opinion", "text": "Gnomonkey gives Inferno as an example of tolerable friction, since players must grind Slayer tasks to get a speedrun attempt."},
+        {"t": 830, "kind": "event", "text": "In Chambers of Xeric Challenge Mode speedruns, players use fire surge on the third boss Ice Demon and then cape swaps with thralls for the rest of the raid; once they run out of the five daily cape swaps, they cannot compete any more that day."},
+        {"t": 867, "kind": "opinion", "text": "Gnomonkey says awakened bosses have the worst friction of all, calling it a shackle: it is practically impossible to interact with them unless you are Noobtype, Port Crusader or Saks and have huge GP from services."}
+      ]
+    },
+    {
+      "name": "Opinion: Developer communication and polls",
+      "kind": "opinion",
+      "claims": [
+        {"t": 899, "kind": "event", "text": "Mod Goblin said he had replied in Twitch chat believing the contract details had already been covered in a blog, called it a misstep, and said things are explained in more detail in the post for the following week."},
+        {"t": 956, "kind": "opinion", "text": "Gnomonkey asks why the fact that Yama contracts are tradable drops was not in any Yama blog, saying whether something is tradable is a big enough detail to belong in a poll."},
+        {"t": 1016, "kind": "opinion", "text": "Gnomonkey says that because contracts are tied to the market, a bad system cannot easily be fixed after release without compensating players, removing items from banks and the Grand Exchange."},
+        {"t": 1074, "kind": "opinion", "text": "Gnomonkey says Jagex's poll system exists to prevent major accidents that cannot be fixed, and lack of communication leads to bad decisions."},
+        {"t": 1163, "kind": "opinion", "text": "Gnomonkey says that omitting that contracts are tradable and how they work in a duo likely would have affected people's yes/no votes on the boss, and that leaving it out feels scummy, like sneaking it in."},
+        {"t": 1163, "kind": "opinion", "text": "Gnomonkey says there is a line between mystery, which is fine, and basic information the community should give input on, such as whether a drop is tradable, whether both duo players need one, and how many types exist."},
+        {"t": 1319, "kind": "opinion", "text": "Gnomonkey wants Jagex to be transparent and let players vote on systems, especially those tied into the market where nothing can be fixed once something is on the Grand Exchange."},
+        {"t": 1396, "kind": "tip", "text": "Gnomonkey urges viewers to give constructive feedback to Jagex through comments, talking with mods and joining their Discords, but not to make personal attacks against Jmods, and calls Goblin an amazing community manager."}
+      ]
+    },
+    {
+      "name": "Chromium ingot",
+      "kind": "item",
+      "claims": [
+        {"t": 1016, "kind": "event", "text": "Chromium ingots were mentioned in passing in one sentence of one blog, with no indication of how they would work."},
+        {"t": 1016, "kind": "stat", "text": "Chromium ingots are required to combine a Desert Treasure 2 vestige drop with a ring to make items such as Ultor ring and Bellator ring."},
+        {"t": 1042, "kind": "opinion", "text": "Gnomonkey considers the Chromium ingot a useless item that should not have been added, saying there was no reason they could not have let players combine the vestige directly with the ring, and calling the iron-account ingot workaround an overly complicated duct-tape fix that exists to torment ironmen."}
+      ]
+    },
+    {
+      "name": "Jar of dirt",
+      "kind": "item",
+      "claims": [
+        {"t": 1100, "kind": "event", "text": "Gnomonkey says a Jmod effectively accidentally made the Jar of dirt, a Kraken drop, tradable, and Jagex had to keep it that way."},
+        {"t": 1115, "kind": "event", "text": "According to Gnomonkey, the tradable Jar of dirt set a precedent that all jars from then on were tradable, and Jagex has started to move away from this, with Araxxor's jar now untradable."}
+      ]
+    },
+    {
+      "name": "Gnomonkey",
+      "kind": "person",
+      "claims": [
+        {"t": 2, "kind": "opinion", "text": "Gnomonkey says he does not want to play Hardcore Ironman any more and wants to return to a main account to kill hard bosses and do difficult things again."},
+        {"t": 463, "kind": "record", "text": "Gnomonkey says he has soloed seven Tumeken's Shadow drops."}
+      ]
+    }
+  ]
+}

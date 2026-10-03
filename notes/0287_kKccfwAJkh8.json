@@ -1,0 +1,348 @@
+{
+  "id": "kKccfwAJkh8",
+  "title": "Power creep in OSRS - Blood moon Rises Rewards Blog",
+  "date": "2026-02-17",
+  "type": "news-opinion",
+  "summary": "Gnomonkey reacts to Jagex's revised Blood Moon Rises rewards blog: the buffed Crimson Kisten crush spec, the scaled-back Seeker arrows and Necklace of Rupture, the Leechfin sandwich, and Vampyrium drops. He then argues that some power creep is healthy as long as Jagex keeps adding bosses and mechanics that give new items a use, and that raids are where meta-shifting rewards belong.",
+  "outline": [
+    {
+      "t": 0,
+      "text": "Introduction: Blood Moon Rises reward tweaks and power creep"
+    },
+    {
+      "t": 29,
+      "text": "Crimson Kisten crush spec buff and where it is usable"
+    },
+    {
+      "t": 182,
+      "text": "Ranged balance changes to Seeker arrows and Necklace of Rupture"
+    },
+    {
+      "t": 240,
+      "text": "Necklace naming and design"
+    },
+    {
+      "t": 269,
+      "text": "Why Jagex nerfed the ranged items: roughly 8 percent DPS with the Twisted bow"
+    },
+    {
+      "t": 331,
+      "text": "Seeker arrows and the minimum hit clarification"
+    },
+    {
+      "t": 417,
+      "text": "Impact on Twisted bow, Scythe in Colosseum, Venator bow, Scorching bow"
+    },
+    {
+      "t": 583,
+      "text": "Leechfin sandwich review"
+    },
+    {
+      "t": 692,
+      "text": "Vampyrium drop table: Venator fangs and dulled equipment"
+    },
+    {
+      "t": 726,
+      "text": "Power creep discussion: horizontal versus vertical progression"
+    },
+    {
+      "t": 1085,
+      "text": "More bosses and mechanics needed to justify new gear"
+    },
+    {
+      "t": 1117,
+      "text": "Future raid rewards and the Maggot King"
+    }
+  ],
+  "topics": [
+    {
+      "name": "Update: Blood Moon Rises rewards revision",
+      "kind": "update",
+      "claims": [
+        {
+          "t": 0,
+          "kind": "event",
+          "text": "Jagex revisited the proposed Blood Moon Rises rewards, buffing some items and nerfing others relative to the original proposals."
+        },
+        {
+          "t": 29,
+          "kind": "opinion",
+          "text": "Gnomonkey considers the tweaks to the Blood Moon Rises rewards, which curb power creep slightly, generally good changes for the game."
+        },
+        {
+          "t": 1117,
+          "kind": "opinion",
+          "text": "Gnomonkey says he is really excited for the Blood Moon Rises update, loves killing new bosses on release, and expects the rewards to be very strong."
+        },
+        {
+          "t": 1117,
+          "kind": "event",
+          "text": "Gnomonkey says the cow boss is coming out on the 25th and he will be live on Twitch going for the world's first completion, which he expects to be insanely hard."
+        }
+      ]
+    },
+    {
+      "name": "Crimson Kisten",
+      "kind": "item",
+      "claims": [
+        {
+          "t": 29,
+          "kind": "event",
+          "text": "The Crimson Bludgeon (crush claws) is being renamed the Crimson Kisten and buffed with an extra 23 crush accuracy bonus, to plus 80 total crush bonus."
+        },
+        {
+          "t": 57,
+          "kind": "stat",
+          "text": "In Gnomonkey's calcs, the Crimson Kisten goes from 21 percent worse than Burning claws on phase 2 Verzik to 16 percent worse, so it is still not good in Theatre of Blood."
+        },
+        {
+          "t": 86,
+          "kind": "opinion",
+          "text": "Gnomonkey expects the Crimson Kisten to be the new best special attack weapon at Phosani's Nightmare, probably at Araxxor, and likely at Sarachnis because she is weak to crush."
+        },
+        {
+          "t": 86,
+          "kind": "opinion",
+          "text": "Gnomonkey says the Crimson Kisten has few uses since there are not many crush-weak bosses, nothing in raids is really weak to crush, and for Tekton you want a Warhammer; it is still slightly worse than Void Waker at Kephri."
+        },
+        {
+          "t": 116,
+          "kind": "opinion",
+          "text": "Gnomonkey says an Ironman without Burning claws could use the Crimson Kisten in place of them, but not as well; he considers it the least usable of the existing special-attack DPS weapons, a niche rather than bad addition."
+        },
+        {
+          "t": 149,
+          "kind": "opinion",
+          "text": "Gnomonkey would not be surprised if the Crimson Kisten is the best special attack at the Maggot King."
+        }
+      ]
+    },
+    {
+      "name": "Seeker arrows",
+      "kind": "item",
+      "claims": [
+        {
+          "t": 182,
+          "kind": "event",
+          "text": "Jagex reduced the accuracy bonus of both Seeker arrows and the Necklace of Pursuit (renamed Rupture) to plus 20, to reduce their combined power."
+        },
+        {
+          "t": 331,
+          "kind": "trivia",
+          "text": "Seeker arrows have a minimum hit of three, which Jagex clarified is applied after all damage modifiers: damage is rolled normally and only raised to three if it would be lower."
+        },
+        {
+          "t": 358,
+          "kind": "opinion",
+          "text": "Gnomonkey says the minimum hit clarification is a lot worse than assumed (rolls of 1 or 2 are just raised to 3 rather than rolling 3 to max), so his Gearscape calcs assumed the minimum hit was better than it is."
+        },
+        {
+          "t": 389,
+          "kind": "stat",
+          "text": "After the Seeker arrow change, at bosses where Shadow was close to or slightly better than the Twisted bow (for example Zilyana or Giant Mole), the Twisted bow becomes significantly better than Shadow."
+        },
+        {
+          "t": 417,
+          "kind": "opinion",
+          "text": "Gnomonkey dislikes that before the nerf the Twisted bow with Seeker arrows overtook Scythe on almost every mob in the Colosseum except Soul, since it makes Colosseum more boring when the safer ranged option does more damage."
+        },
+        {
+          "t": 449,
+          "kind": "opinion",
+          "text": "Gnomonkey believes that after the nerf plus the minimum hit clarification Scythe should still be slightly better than the Twisted bow in the Colosseum, so Scythe remains the best style there."
+        },
+        {
+          "t": 480,
+          "kind": "opinion",
+          "text": "Gnomonkey says the Venator bow gets a huge buff from Seeker arrows because each ricochet rolls accuracy and gets the minimum hit, making it much faster."
+        },
+        {
+          "t": 508,
+          "kind": "stat",
+          "text": "Gnomonkey says the Scorching bow is roughly 20 percent worse than Bow of Faerdhinen at all times even with the arrow buff, so Scorching bow will not overtake it."
+        },
+        {
+          "t": 539,
+          "kind": "opinion",
+          "text": "Gnomonkey says Seeker arrows massively buff the Scorching bow where it is already good, such as at Mokhaiotl with Void armor, since accuracy is pure benefit to armor with little accuracy."
+        }
+      ]
+    },
+    {
+      "name": "Necklace of Rupture",
+      "kind": "item",
+      "claims": [
+        {
+          "t": 182,
+          "kind": "event",
+          "text": "The Necklace of Pursuit has its accuracy lowered to plus 20 and is being renamed either the Necklace of Rupture or the Necklace of Paroxysm."
+        },
+        {
+          "t": 212,
+          "kind": "opinion",
+          "text": "Gnomonkey prefers the name Rupture over Paroxysm."
+        },
+        {
+          "t": 241,
+          "kind": "opinion",
+          "text": "Gnomonkey prefers a Reddit mock-up design in the Maggot King colour theme over Jagex's design, which he says looks like a kitted Berserker necklace."
+        },
+        {
+          "t": 269,
+          "kind": "stat",
+          "text": "Before the changes, the Necklace of Rupture with Seeker arrows was roughly an 8 percent DPS increase with the Twisted bow, but it did not buff other ranged weapons like the Toxic blowpipe or Bow of Faerdhinen much."
+        },
+        {
+          "t": 301,
+          "kind": "opinion",
+          "text": "Jagex states it does not see balance as static and aims for no single combat style to be the obvious choice everywhere; Gnomonkey says the change is just enough that the arrows do not overtake items where they should not."
+        }
+      ]
+    },
+    {
+      "name": "Leechfin sandwich",
+      "kind": "item",
+      "claims": [
+        {
+          "t": 583,
+          "kind": "stat",
+          "text": "The Leechfin sandwich is a two-tick food that heals 16 HP and heals an additional 16 HP when you melee, but you must wait a full nine ticks before eating another."
+        },
+        {
+          "t": 624,
+          "kind": "event",
+          "text": "Jagex said it is keeping the Leechfin sandwich's quirky design because it gives flexibility to differentiate food effects by combat style in future."
+        },
+        {
+          "t": 636,
+          "kind": "opinion",
+          "text": "Gnomonkey does not think the Leechfin sandwich adds anything to the game, says it just rewards melee-specific bosses such as Vardorvis, and thinks combat-style-specific foods would confuse new players, though it is not the end of the world; he would not vote yes."
+        }
+      ]
+    },
+    {
+      "name": "Vampyrium",
+      "kind": "mechanic",
+      "claims": [
+        {
+          "t": 692,
+          "kind": "event",
+          "text": "Vampyrium monsters will drop Venator fangs and teeth, which can be used to make dragon arrows and darts."
+        },
+        {
+          "t": 699,
+          "kind": "opinion",
+          "text": "Gnomonkey likes dragon arrow and dart materials dropping since large quantities are a big problem for Ironmen."
+        },
+        {
+          "t": 706,
+          "kind": "event",
+          "text": "Vampyrium monsters will also drop dulled armor and weapons that can be restored with Crafting, giving Crafting XP; Gnomonkey would be interested in this as a new passive training method if the XP is reasonable."
+        }
+      ]
+    },
+    {
+      "name": "Opinion: Power creep in OSRS",
+      "kind": "opinion",
+      "claims": [
+        {
+          "t": 24,
+          "kind": "opinion",
+          "text": "Gnomonkey says a little power creep is actually good for the game."
+        },
+        {
+          "t": 726,
+          "kind": "opinion",
+          "text": "Gnomonkey says OSRS needs a bit of both horizontal progression and power creep, and does not do what RuneScape 3 did by adding new best weapons for every style with each piece of content and making everything else irrelevant; for example the Abyssal whip is still used in OSRS."
+        },
+        {
+          "t": 789,
+          "kind": "opinion",
+          "text": "Gnomonkey says older weapons that were end game 10 years ago can be mid game weapons now, as long as they remain in the meta somewhere."
+        },
+        {
+          "t": 789,
+          "kind": "opinion",
+          "text": "Gnomonkey says bosses need good rewards; Phosani's Nightmare is a difficult boss but nothing it drops matters that much."
+        },
+        {
+          "t": 810,
+          "kind": "opinion",
+          "text": "Gnomonkey thinks the Oathplate from Yama was a little too much, as it is best-in-slot melee armor at most places over Torva, from a boss that is not insanely difficult to access or beat."
+        },
+        {
+          "t": 851,
+          "kind": "opinion",
+          "text": "Gnomonkey thinks Blood Moon Rises is in a good spot because it pushes one style's power but does not massively shift balance or change weapon choice at many bosses; he says raids are the place to turn the game upside down."
+        },
+        {
+          "t": 970,
+          "kind": "opinion",
+          "text": "Gnomonkey says nearly every item Jagex adds now devalues something else (like Seeker arrows devaluing Scythe in the Colosseum) because there are so many items, and it is time to push the game to a new level."
+        },
+        {
+          "t": 1085,
+          "kind": "opinion",
+          "text": "Gnomonkey says the two problems are that Jagex has added too many items and has not raised the ceiling on bosses enough, so more bosses where gear matters are needed."
+        },
+        {
+          "t": 1088,
+          "kind": "opinion",
+          "text": "Gnomonkey says power creep is only a problem if the PvM ecosystem does not support it; as long as Jagex keeps adding bosses at all levels that give new items use cases, it works fine."
+        }
+      ]
+    },
+    {
+      "name": "Opinion: Boss design should reward varied weapons",
+      "kind": "opinion",
+      "claims": [
+        {
+          "t": 965,
+          "kind": "opinion",
+          "text": "Gnomonkey says bosses with an obvious weakness, like Phosani's Nightmare being weak to crush, let niche items shine, and wants more high-level bosses like that."
+        },
+        {
+          "t": 1034,
+          "kind": "opinion",
+          "text": "Gnomonkey cites Tormented Demons as a good example where weapons like a Dharok's axe, Obsidian maul and ballista get used because of the boss's weird mechanic."
+        },
+        {
+          "t": 1062,
+          "kind": "opinion",
+          "text": "Gnomonkey says he finds it boring that each new boss comes down to Twisted bow, Shadow, or Scythe, and suggests at the Maggot King you might use Twisted bow but also hit a weakness with a crush weapon behind it."
+        },
+        {
+          "t": 1002,
+          "kind": "opinion",
+          "text": "Gnomonkey would be bummed if the Maggot King is like Yama where very accessible weapons such as demonbane are very good."
+        }
+      ]
+    },
+    {
+      "name": "Opinion: Raid rewards should shake up the meta",
+      "kind": "opinion",
+      "claims": [
+        {
+          "t": 854,
+          "kind": "opinion",
+          "text": "Gnomonkey says raids should be the place Jagex goes crazy with rewards, citing the Tumeken's shadow, Masori and the Osmumten's fang as items that changed what is used across the game."
+        },
+        {
+          "t": 878,
+          "kind": "opinion",
+          "text": "Gnomonkey says everything from raids should be meta-defining since raids are the most complex content in the game and should require teams."
+        },
+        {
+          "t": 1117,
+          "kind": "opinion",
+          "text": "Gnomonkey says raid rewards should be interesting and shake things up, not a boring mega rare that is a side-grade to Scythe; he wants one that is over the top, fun, and simple enough that a new player knows what it does, like the Twisted bow."
+        },
+        {
+          "t": 1117,
+          "kind": "trivia",
+          "text": "Gnomonkey visited Jagex HQ and says he is under NDA about what he saw, and plans a future video on what raid rewards should look like."
+        }
+      ]
+    }
+  ]
+}

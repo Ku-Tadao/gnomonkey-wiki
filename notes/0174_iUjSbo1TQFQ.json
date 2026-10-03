@@ -1,0 +1,215 @@
+{
+  "id": "iUjSbo1TQFQ",
+  "title": "Journey to the Colosseum - GNOMONKEY DEATH (OSRS)",
+  "date": "2024-08-17",
+  "type": "series-episode",
+  "summary": "A stream-highlight episode of Gnomonkey's group hardcore ironman run, covering a couple of weeks of Barrows grinding for tank armour ahead of Perilous Moons and the Colosseum. He gets a zombie axe at one kill count, a stretch of Tithe Farm skilling, and an Atlatl plus a Blood moon chestplate at 12 Moons kill count, while the group loses another member to a disconnect.",
+  "outline": [
+    {
+      "t": 0,
+      "text": "Stream interactions and viewer banter"
+    },
+    {
+      "t": 160,
+      "text": "Barrows and group prep, group storage lore"
+    },
+    {
+      "t": 353,
+      "text": "Zombie axe drop at one kill count"
+    },
+    {
+      "t": 508,
+      "text": "Toughening up for the Colosseum: Barrows hits and drops"
+    },
+    {
+      "t": 604,
+      "text": "Colosseum prep, wave drop chances and close calls"
+    },
+    {
+      "t": 874,
+      "text": "Tithe Farm and skilling"
+    },
+    {
+      "t": 1151,
+      "text": "Perilous Moons strategy"
+    },
+    {
+      "t": 1287,
+      "text": "Moons loot, Atlatl and Blood moon chestplate, finale"
+    }
+  ],
+  "topics": [
+    {
+      "name": "Group Hardcore Ironman: Big Dawgs V1",
+      "kind": "challenge",
+      "claims": [
+        {
+          "t": 0,
+          "kind": "event",
+          "text": "In the video description Gnomonkey says the group spent a couple of weeks grinding Barrows for tank top and bottom to move on to Perilous Moons, where they were spooned an Atlatl and a Blood moon chestplate."
+        },
+        {
+          "t": 0,
+          "kind": "event",
+          "text": "Per the video description, the group lost a life near the end of the week when Gnomonkey's internet disconnected for 14 hours and he had no teleport crystal; he says Scurrius has taken another homie."
+        },
+        {
+          "t": 1171,
+          "kind": "event",
+          "text": "At the start of the Perilous Moons section of the stream a hardcore death occurs and the group's count is given as three out of five remaining; it is repeated at the end of the stream."
+        },
+        {
+          "t": 1230,
+          "kind": "opinion",
+          "text": "Gnomonkey says the problem with playing a hardcore account is that when content is boring your brain shuts off, you stop paying attention, and then you die."
+        },
+        {
+          "t": 180,
+          "kind": "event",
+          "text": "Gnomonkey recounts that the group storage was emptied after Sebe received roughly 20 gifted subs to remove everything from it, and that he then put about 20% of it back, so it is almost where it was."
+        },
+        {
+          "t": 0,
+          "kind": "requirement",
+          "text": "Per the description, Gnomonkey says he needs 75 Ranged and some Magic levels so the group can use thralls, and that they would be sending the Colosseum within a week."
+        }
+      ]
+    },
+    {
+      "name": "Barrows",
+      "kind": "activity",
+      "claims": [
+        {
+          "t": 394,
+          "kind": "event",
+          "text": "Gnomonkey says the group is trying to get Barrows tank armour before going to Perilous Moons and that they are basically set apart from the Barrows armour; Barrows gloves would also be nice."
+        },
+        {
+          "t": 353,
+          "kind": "event",
+          "text": "Gnomonkey received a zombie axe, a one in 800 drop, on his first Barrows kill count after the quest."
+        },
+        {
+          "t": 518,
+          "kind": "event",
+          "text": "Gnomonkey says he survived a Barrows hit at one health (he calls it his first chance on the account), noting the max hit was 29 and he lasted by one HP."
+        },
+        {
+          "t": 546,
+          "kind": "event",
+          "text": "Gnomonkey completed the Barrows collection log during this stream."
+        },
+        {
+          "t": 633,
+          "kind": "stat",
+          "text": "Gnomonkey says he wants D-plate legs for Moons, quotes a one in seven chance from wave five and six, and says if he sees them on wave six he will send it."
+        }
+      ]
+    },
+    {
+      "name": "Zombie axe",
+      "kind": "item",
+      "claims": [
+        {
+          "t": 353,
+          "kind": "event",
+          "text": "Gnomonkey received a zombie axe on his first Barrows kill count after the quest and says it is a one in 800 drop."
+        },
+        {
+          "t": 394,
+          "kind": "opinion",
+          "text": "Gnomonkey says the zombie axe is good because it is fairly accurate compared to a dragon scimitar, so it is very strong against high defence targets."
+        },
+        {
+          "t": 486,
+          "kind": "event",
+          "text": "Gnomonkey says he will high alch the zombie axe as an RNG sacrifice for the rest of the group."
+        }
+      ]
+    },
+    {
+      "name": "Fortis Colosseum",
+      "kind": "activity",
+      "claims": [
+        {
+          "t": 1348,
+          "kind": "requirement",
+          "text": "Gnomonkey says that if he had 75 Ranged right now he would send the Colosseum, but he does not and so is prevented from doing it."
+        },
+        {
+          "t": 0,
+          "kind": "event",
+          "text": "Per the description, the plan is to collect butterflies and other supplies and stats for the Colosseum and then do the Colosseum run itself in the next video."
+        },
+        {
+          "t": 0,
+          "kind": "requirement",
+          "text": "Per the description, Gnomonkey needs 75 Ranged and some Magic levels in order to use thralls before the Colosseum."
+        }
+      ]
+    },
+    {
+      "name": "Tithe Farm",
+      "kind": "activity",
+      "claims": [
+        {
+          "t": 874,
+          "kind": "opinion",
+          "text": "Gnomonkey complains that Tithe Farm, the first skilling minigame added, is not instanced and can be interfered with by other players, that you must plant, water and go back repeatedly, and that you get punished if you turn in early."
+        },
+        {
+          "t": 907,
+          "kind": "tip",
+          "text": "Gnomonkey says he never has to go back to Tithe Farm again except to get the herb sack, which he expects to need very soon."
+        },
+        {
+          "t": 148,
+          "kind": "tip",
+          "text": "A chat suggestion that Gnomonkey agrees with: hold off on barrels until 72 Agility and get hard combat achievements for no prayer drain, the herb sack, and humidify to make prayer potions."
+        }
+      ]
+    },
+    {
+      "name": "Perilous Moons",
+      "kind": "activity",
+      "claims": [
+        {
+          "t": 1287,
+          "kind": "event",
+          "text": "On his first Perilous Moons stream, at 12 kill count, Gnomonkey received an Atlatl and a Blood moon chestplate, which a viewer calls essentially a Bandos chestplate."
+        },
+        {
+          "t": 1496,
+          "kind": "opinion",
+          "text": "Gnomonkey says the Perilous Moons are coded, and that one of the Moons drops he got is now his best helmet for Tombs of Amascut for now."
+        },
+        {
+          "t": 1320,
+          "kind": "tip",
+          "text": "Gnomonkey says bone shards are always the best Moons drop, and that 300 bone shards from a combat achievement is really good XP."
+        },
+        {
+          "t": 1287,
+          "kind": "tip",
+          "text": "Gnomonkey says the plan for the rest of that stream is going to 75 Ranged to reach the Colosseum."
+        }
+      ]
+    },
+    {
+      "name": "Gnomonkey",
+      "kind": "person",
+      "claims": [
+        {
+          "t": 0,
+          "kind": "event",
+          "text": "At the start of the stream viewers gifted subs that forced Gnomonkey to wear a silly face overlay, and he planned to try to wash it off after the stream."
+        },
+        {
+          "t": 1287,
+          "kind": "event",
+          "text": "Gnomonkey says his plan after the Moons session is to collect butterflies and other supplies and stats for the Colosseum."
+        }
+      ]
+    }
+  ]
+}

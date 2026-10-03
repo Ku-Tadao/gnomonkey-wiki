@@ -1,0 +1,101 @@
+{
+  "id": "f1Y2Pd6dQoA",
+  "title": "Naked Man Triathlon (OSRS)",
+  "date": "2023-09-12",
+  "type": "challenge",
+  "summary": "Gnomonkey completes a Naked Man Mode triathlon of the three major OSRS raids with no armour (jewellery allowed) and nearly every weapon from his bank: a 500 invocation Tombs of Amascut, Challenge Mode Chambers of Xeric and Theatre of Blood Entry Mode. The video is mostly live stream footage with chat banter; the ToA run took about 46:51, the Challenge Mode Chambers run 1:01:12, and the Theatre of Blood Entry run about 17 minutes. It was part of his Subtember event for reaching 200 subs.",
+  "outline": [
+    {"t": 0, "text": "Introduction to the Naked Man challenge and start of the 500 invocation Tombs of Amascut run"},
+    {"t": 271, "text": "Resource management and gear/weapon choices in the early ToA rooms"},
+    {"t": 753, "text": "ToA combat: the first bosses and the gear-less damage taken"},
+    {"t": 1593, "text": "Mid-raid progression into the Warden-era rooms"},
+    {"t": 2102, "text": "ToA final boss (Warden) preparation and phases"},
+    {"t": 2850, "text": "ToA raid conclusion: total time of 46:51 and room times analysis"},
+    {"t": 3437, "text": "Challenge Mode Chambers of Xeric begins"},
+    {"t": 4000, "text": "CM Chambers mid-raid: Vespula, Tightrope and supplies"},
+    {"t": 5050, "text": "CM Chambers: Mystics, Guardians, Tekton preparation"},
+    {"t": 6343, "text": "CM Chambers finish: Tekton and Olm-room splits, total 1:01:12"},
+    {"t": 6712, "text": "Theatre of Blood Entry Mode naked with chicken outfit"},
+    {"t": 7450, "text": "Verzik, loot and outro"}
+  ],
+  "topics": [
+    {
+      "name": "Naked Man Triathlon",
+      "kind": "challenge",
+      "claims": [
+        {"t": 0, "kind": "event", "text": "The Naked Man Mode Triathlon is a challenge featuring all three of the major OSRS raids: Tombs of Amascut at 500 invocation level, Challenge Mode Chambers of Xeric, and Theatre of Blood Entry Mode (which Gnomonkey says is not possible in normal mode)."},
+        {"t": 0, "kind": "event", "text": "Gnomonkey did the runs with no armour but allowed himself jewellery, and brought about every weapon in his bank."},
+        {"t": 0, "kind": "event", "text": "Gnomonkey describes this challenge as part of Subtember, a series featured on his Twitch for the month of September for hitting 200 subs, with more challenges to follow as chat picks them."},
+        {"t": 2850, "kind": "record", "text": "Gnomonkey says the naked 500 invocation Tombs of Amascut run took 46:51 total raid time with no armour whatsoever, and that it was much easier than he thought it would be."},
+        {"t": 2850, "kind": "stat", "text": "In the naked ToA run Gnomonkey notes room times of about 7:30 for Akkha, 5:18 for Baba and 4:12 for the Monkey (Zebak/Kephri-area) room, and says all the times are basically the same as doing the raid solo."},
+        {"t": 2882, "kind": "tip", "text": "Gnomonkey says that if you want the experience of a solo Tombs of Amascut raid but do not have an alt, you can just go in naked, probably with an Osmumten's fang."},
+        {"t": 6712, "kind": "record", "text": "Gnomonkey finished the Naked Man Challenge Mode Chambers of Xeric run in 1 hour 1 minute 12 seconds, beating the challenge target time for an extra 5,000 points."},
+        {"t": 6712, "kind": "opinion", "text": "After the naked Challenge Mode Chambers run, Gnomonkey says he could easily do a naked Entry Mode Theatre of Blood but that a naked no-armour solo Theatre of Blood (normal mode) is something he cannot do."},
+        {"t": 7450, "kind": "record", "text": "Gnomonkey says his naked Theatre of Blood Entry Mode run took about 17 minutes overall, which he estimates is about a three-minute time loss from wearing the chicken outfit."}
+      ]
+    },
+    {
+      "name": "Tombs of Amascut",
+      "kind": "raid",
+      "claims": [
+        {"t": 696, "kind": "tip", "text": "Gnomonkey says that because he wears no gear he is extremely lightweight in the naked Tombs of Amascut run, so he does not run out of run energy; at one point he still had 40 run energy left where he would normally be out."},
+        {"t": 1093, "kind": "tip", "text": "In the naked 500 invocation Tombs of Amascut, Gnomonkey says a Warden-phase orb hits for 45 normally but hit him for 22 because that was his remaining health, and he must tick-eat in Warden P1 to survive."},
+        {"t": 2250, "kind": "stat", "text": "Gnomonkey estimates a Warden room maximum hit in the naked ToA run, noting a hit of 35 and a mace hit of 43 as the damage he was seeing."},
+        {"t": 1093, "kind": "opinion", "text": "Gnomonkey says level three Akkha does not matter for this naked run but level four Zebak definitely does."},
+        {"t": 1812, "kind": "opinion", "text": "Gnomonkey says he would rather have his naked-run inventory than some inventories he has seen for first-time 500 invocation raiders, who he says have brought an Eldritch nightmare staff or Justiciar items."},
+        {"t": 2570, "kind": "tip", "text": "Gnomonkey says at the Warden he tested various weapons in the naked run, finding Osmumten's fang probably best, with a crush scythe with only about 30 crush bonus not being any good."}
+      ]
+    },
+    {
+      "name": "Chambers of Xeric",
+      "kind": "raid",
+      "claims": [
+        {"t": 3437, "kind": "event", "text": "Gnomonkey did the naked Challenge Mode Chambers of Xeric run solo, bringing many potions and brews and aiming to beat the challenge time while wearing no armour."},
+        {"t": 6712, "kind": "stat", "text": "In the naked Challenge Mode Chambers run, Gnomonkey lists room times: Muttadiles about 2:30, Mystics about 4:00, Vasa about 6:00, Guardians about 3:00, Vespula about 6:00, Thieving 2:39, Vanguards 3:45, Shamans 2:15, Ice Demon 6:39, and Tekton 2:00."},
+        {"t": 6712, "kind": "record", "text": "Gnomonkey says he died once in the naked Challenge Mode Chambers run (a 'stupid death') and that the early rooms came to almost 15 and a half minutes."},
+        {"t": 4440, "kind": "tip", "text": "Gnomonkey says at Vespula the question was whether Twisted bow or Tumeken's shadow was better with no gear; chat gave about eight different calculator numbers, and he settled on his own calculator results of roughly 20 to 55 percent improvements."},
+        {"t": 4800, "kind": "tip", "text": "Gnomonkey says he brings a thieving cape and lockpick for the thieving room and notes that wielding it counts as armour if equipped, so he just had it in his inventory."},
+        {"t": 5360, "kind": "tip", "text": "At Mystics Gnomonkey considered using the blowpipe to venom them, then used Tumeken's shadow after trying a Venator bow with poor accuracy (about 50%)."},
+        {"t": 6343, "kind": "tip", "text": "Gnomonkey says Osmumten's fang was 69.42 percent better than the scythe for Tekton in the naked run, and that he brought a hammer for Tekton's defence reduction."},
+        {"t": 6343, "kind": "trivia", "text": "While comparing gear weights, Gnomonkey notes that Inquisitor's armour weighs 21 kg, the same as Torva, which he finds absurd, and that he rarely needs stamina in the naked run due to the low weight."},
+        {"t": 7250, "kind": "event", "text": "Gnomonkey says at the end of the naked CM run the game told him his team beat the challenge target time, giving 5,000 extra points."}
+      ]
+    },
+    {
+      "name": "Theatre of Blood",
+      "kind": "raid",
+      "claims": [
+        {"t": 6712, "kind": "event", "text": "Gnomonkey chose Theatre of Blood Entry Mode for the third leg of the naked triathlon after considering a naked normal mode solo, which he says he cannot do."},
+        {"t": 6712, "kind": "opinion", "text": "Gnomonkey says Entry Mode Theatre of Blood without armour is unbelievably hard, and that he forgot to bring a melee weapon for one room."},
+        {"t": 7080, "kind": "opinion", "text": "Gnomonkey says the Nylocas room in the naked Entry Mode run is the worst room, as the waves just never end and the cap is such that it is impossible to send the next wave."},
+        {"t": 7388, "kind": "event", "text": "At Verzik P1 Gnomonkey notes the boss appeared to AFK because she could not see him ('Shadow Tag'), and he recalls that players Twisted-bowed her from there on release before it was hotfixed."},
+        {"t": 7790, "kind": "event", "text": "Gnomonkey's Entry Mode run ended with a MVP check that gave a herb pack as loot rather than a purple, and he joked he would never do the run again."}
+      ]
+    },
+    {
+      "name": "Osmumten's fang",
+      "kind": "item",
+      "claims": [
+        {"t": 2882, "kind": "tip", "text": "Gnomonkey says that when going into Tombs of Amascut naked, Osmumten's fang is probably the best weapon."},
+        {"t": 6343, "kind": "stat", "text": "In the naked Challenge Mode Chambers run, Gnomonkey calculated Osmumten's fang as 69.42 percent better than the scythe for Tekton, and 55 percent better than the rapier at another room."},
+        {"t": 5050, "kind": "tip", "text": "Gnomonkey says the Fang might be better than the Ghrazi rapier in that naked setup."}
+      ]
+    },
+    {
+      "name": "Tumeken's shadow",
+      "kind": "item",
+      "claims": [
+        {"t": 4440, "kind": "opinion", "text": "Gnomonkey says no one in chat could calculate Tumeken's shadow versus Twisted bow properly during the naked run, mentioning the shadow being 20-55 percent better depending on the calculator."},
+        {"t": 5050, "kind": "tip", "text": "Gnomonkey says he used Tumeken's shadow against several Chambers bosses in the naked run, such as Mystics, because of the accuracy and damage without any gear."}
+      ]
+    },
+    {
+      "name": "Gnomonkey",
+      "kind": "person",
+      "claims": [
+        {"t": 0, "kind": "event", "text": "Gnomonkey says the Naked Man challenge was part of Subtember, tied to hitting 200 subs on Twitch in September 2023."},
+        {"t": 7450, "kind": "trivia", "text": "At the end of the stream Gnomonkey answers a viewer question that RS3 is easier to AFK than OSRS because pretty much every skill has a majorly AFK method."}
+      ]
+    }
+  ]
+}

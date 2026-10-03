@@ -1,0 +1,144 @@
+{
+  "id": "Kzc2e6H8i7o",
+  "title": "REBALANCE DISASTER (OSRS)",
+  "date": "2024-04-17",
+  "type": "news-opinion",
+  "summary": "Gnomonkey reacts to Jagex's Project Rebalance blog: mage damage redistribution, Soul Reaper axe, Elder maul, Ink armour and mace, the Voidwaker special nerf, Dragon warhammer and Nightmare drop buffs, minimum hit changes, autocast delay, Theatre of Blood and Monkey Room changes. He praises the Soul Reaper axe, loot, solo ToB and Monkey Room changes but calls many item changes, especially the Voidwaker and minimum hit formula, dumb, and hopes Jagex refines them in the beta.",
+  "outline": [
+    {"t": 0, "text": "Intro to the Project Rebalance blog"},
+    {"t": 10, "text": "Magic gear damage redistribution (Occult necklace, Augury)"},
+    {"t": 92, "text": "Soul Reaper axe buffs"},
+    {"t": 174, "text": "Elder maul special attack"},
+    {"t": 293, "text": "Ink armour and Ink mace"},
+    {"t": 412, "text": "Voidwaker special attack nerf"},
+    {"t": 540, "text": "Ancient godsword and overall item changes"},
+    {"t": 663, "text": "Dragon warhammer and Nightmare drop rates"},
+    {"t": 717, "text": "Minimum hit adjustments"},
+    {"t": 925, "text": "Early game combat prayers and autocast delay"},
+    {"t": 1019, "text": "Theatre of Blood Verzik red crabs"},
+    {"t": 1068, "text": "Monkey room and Baba changes"},
+    {"t": 1170, "text": "Mage damage in Colosseum and closing thoughts"}
+  ],
+  "topics": [
+    {
+      "name": "Update: Project Rebalance",
+      "kind": "update",
+      "claims": [
+        {"t": 0, "kind": "event", "text": "Jagex recently put up a blog for Project Rebalance with a bunch of major changes to combat and items, which Gnomonkey goes through in this video."},
+        {"t": 603, "kind": "opinion", "text": "Gnomonkey thinks the majority of the Project Rebalance item changes either do not succeed at what they are trying to do or are bizarre and out of left field, and hopes Jagex refines them."},
+        {"t": 634, "kind": "opinion", "text": "Gnomonkey says giving Jagex the out that a change will be good with future content does not make sense; if a change does not make sense now it should be made when that future content comes out."},
+        {"t": 1220, "kind": "opinion", "text": "Gnomonkey is glad Project Rebalance is in a beta and not thrown into the game hastily, and says that since it is a completely unpolled change Jagex needs to listen to the community and rebalance for the content we have now, not just future content."},
+        {"t": 0, "kind": "opinion", "text": "Gnomonkey's description says he is all for constant updates and rebalances to older content, with a few great changes in here such as the loot tables, Soul Reaper axe, solo ToB and Monkey Room changes, but that the Voidwaker nerf is dumb."}
+      ]
+    },
+    {
+      "name": "Mage damage redistribution",
+      "kind": "mechanic",
+      "claims": [
+        {"t": 0, "kind": "stat", "text": "In the first Project Rebalance blog, the Occult necklace lost 10 percent magic damage and was reduced to 4 percent, with 2 percent each added to the Ancestral hat, robe top and robe bottom, and smaller amounts to Virtus robes, Infinity robes and Dagon'hai."},
+        {"t": 30, "kind": "stat", "text": "The first Project Rebalance blog also gave Augury 4 percent magic damage, which Gnomonkey thinks is a really good change that encourages using the prayer where players often did not bother."},
+        {"t": 30, "kind": "opinion", "text": "Gnomonkey says shadow users rejoice since they already needed all that gear, but in places like Theatre of Blood where you bring a Sanguinesti staff with fewer switches you will now need more switches for the same damage."},
+        {"t": 57, "kind": "opinion", "text": "Gnomonkey thinks the change probably needed to happen but, because magic is almost always the weakest style, making it without a buff to magic is rough, especially for mid-level gear in places like ToB."},
+        {"t": 57, "kind": "opinion", "text": "Gnomonkey says the Augury damage is also a small buff to Corrupted Gauntlet, where you will get some max hits from Augury that you normally would not."},
+        {"t": 1170, "kind": "tip", "text": "Gnomonkey says that if you have Shadow, Occult, Torm and Heart, using Augury still one-shots the Fremennik in Colosseum with the same number of slots, so the change is not a big deal for Colosseum."}
+      ]
+    },
+    {
+      "name": "Soul Reaper axe",
+      "kind": "item",
+      "claims": [
+        {"t": 92, "kind": "stat", "text": "In Project Rebalance the Soul Reaper axe stacks are no longer lost instantly upon switching weapons, and stacks start decrementing after 20 ticks (12 seconds) without attacking, up from 10 ticks (6 seconds)."},
+        {"t": 119, "kind": "stat", "text": "When Soul Reaper axe stacks naturally degrade, they will heal the player for the damage taken while building the stacks."},
+        {"t": 119, "kind": "opinion", "text": "Gnomonkey thinks the Soul Reaper axe changes are massive, make it usable in almost every location, and open interesting tick-eating setups such as one axe swing on the P1 obelisk to tick eat the orbs."},
+        {"t": 150, "kind": "tip", "text": "With the previous update the Soul Reaper axe no longer triggers Blasphemy or Doom in Colosseum, so Gnomonkey says it becomes completely usable there as a second fist."}
+      ]
+    },
+    {
+      "name": "Elder maul",
+      "kind": "item",
+      "claims": [
+        {"t": 150, "kind": "stat", "text": "Project Rebalance gives the Elder maul a special attack costing 50 percent spec energy that reduces the target's defence by 35 percent, compared to 30 percent for the Dragon warhammer."},
+        {"t": 179, "kind": "opinion", "text": "Gnomonkey says this makes the Elder maul a direct upgrade to the Dragon warhammer: more accurate, drains more defence and does not need an off-hand like an Avernic defender."},
+        {"t": 179, "kind": "event", "text": "In the beta the Elder maul can smash crabs and build the chest but the Tekton first special was not a guaranteed hit, which Gnomonkey assumes is a bug."},
+        {"t": 212, "kind": "opinion", "text": "Gnomonkey says that since Colosseum's rarest drop, the Glaive, also drains defence but is garbage, the Elder maul as the new BIS warhammer is nonsensical; he thinks the Glaive should drain 20 percent per splat instead of 10 percent."},
+        {"t": 4291, "kind": "tip", "text": "Gnomonkey says Elder maul is really strong at Tekton so Ink mace would probably not be brought there."}
+      ]
+    },
+    {
+      "name": "Ink armour and Ink mace",
+      "kind": "item",
+      "claims": [
+        {"t": 293, "kind": "stat", "text": "Project Rebalance makes damage and accuracy bonuses from Ink armour, including the set bonus, triple while using the Ink mace, raising a full set's bonus from 2.5 percent to 7.5 percent total damage and accuracy."},
+        {"t": 293, "kind": "opinion", "text": "Gnomonkey says nobody wanted this change; people wanted a much higher hammer chance, higher crush bonus and tankier Ink armour, which is currently at the level of Adamant armour; effectively the mace is now best in slot at Nightmare and that is it."},
+        {"t": 330, "kind": "opinion", "text": "Gnomonkey does not understand trying to make the Ink mace a gap filler up to the scythe, since a full Ink set and mace is probably as rare as a scythe or rarer."}
+      ]
+    },
+    {
+      "name": "Voidwaker",
+      "kind": "item",
+      "claims": [
+        {"t": 412, "kind": "stat", "text": "The proposed Voidwaker special no longer ignores accuracy but rolls with plus 200 percent increased accuracy against the target's slash or magic defence, whichever is lower."},
+        {"t": 420, "kind": "opinion", "text": "Gnomonkey says the change makes the Voidwaker completely useless at all locations, effectively replacing it with Dragon claws, which are worse in no way; it is good only against very tanky things like Kephri and Nex that have high magic and slash defence."},
+        {"t": 447, "kind": "tip", "text": "Gnomonkey still uses the Voidwaker at Chambers of Xeric Challenge Mode because things have high mage level and slash defence there, and it bypasses that."},
+        {"t": 487, "kind": "opinion", "text": "Gnomonkey argues the Voidwaker deserves to be good since it drops in pieces from the Wilderness bosses at a very rare rate, and if it is useless no one will kill those bosses any more, not even the bots."},
+        {"t": 502, "kind": "opinion", "text": "Gnomonkey says the Voidwaker change is probably the most questionable on the entire blog and that feedback from Mod Goblin showed they were unsure about it."}
+      ]
+    },
+    {
+      "name": "Ancient godsword",
+      "kind": "item",
+      "claims": [
+        {"t": 540, "kind": "stat", "text": "Project Rebalance changes the Ancient godsword's Blood Sacrifice to heal 15 percent of the target's maximum HP up to a 25 HP cap instead of a flat 25."},
+        {"t": 540, "kind": "opinion", "text": "Gnomonkey says this is a PvP-only change that does not affect PvM."}
+      ]
+    },
+    {
+      "name": "Drop rate changes",
+      "kind": "update",
+      "claims": [
+        {"t": 663, "kind": "stat", "text": "Project Rebalance buffs the Dragon warhammer drop rate dramatically from 1 in 5,000 to 1 in 3,000."},
+        {"t": 674, "kind": "stat", "text": "Nightmare drops were made roughly 33 percent more common (the blog says 50 percent) across the board."},
+        {"t": 674, "kind": "opinion", "text": "Gnomonkey likes both loot changes, saying the Nightmare is known as one of the worst bosses to complete on an Ironman with absurdly rare drops and the change probably should have been this way from the start."}
+      ]
+    },
+    {
+      "name": "Minimum hit adjustments",
+      "kind": "mechanic",
+      "claims": [
+        {"t": 717, "kind": "stat", "text": "Gnomonkey explains that the game rolls accuracy, then rolls damage from zero to max hit; the change as originally expected would roll from one to max hit, roughly a 5 percent DPS buff on zero-defence targets."},
+        {"t": 756, "kind": "stat", "text": "The actual Project Rebalance proposal made damage roll between 1 and the current max hit minus one, so with a max hit of 58 you roll 1 to 57."},
+        {"t": 787, "kind": "opinion", "text": "Gnomonkey does not like this change as it complicates every weapon for no reason, giving the example that Fang, which rolls accuracy twice, would get a minimum hit of 10 instead of 8, and the Venator bow would lose two max hits on ricochets."},
+        {"t": 818, "kind": "stat", "text": "Gnomonkey found that the scythe works properly with the change since it uses the true max hit to make its splats, so it only drops 1 max hit but is not hurt as he feared."},
+        {"t": 900, "kind": "opinion", "text": "Gnomonkey says Jagex should either make zeros not exist while keeping the normal max hit, or not do the change at all, calling it complicated for no benefit."},
+        {"t": 1200, "kind": "tip", "text": "Gnomonkey says with the minimum hit change as proposed you will not one-shot the Fremennik ranger with a scythe in Colosseum."}
+      ]
+    },
+    {
+      "name": "Autocast delay",
+      "kind": "mechanic",
+      "claims": [
+        {"t": 958, "kind": "stat", "text": "Project Rebalance removes the autocast delay completely, so autocasting is no longer a tick slower than manual casting, which Gnomonkey calls a really good change."},
+        {"t": 985, "kind": "opinion", "text": "Gnomonkey says the Myopia change in Colosseum (affecting autocast but not manual casts) is silly, and Myopia should always affect spells because spells should not behave differently with autocast versus manual."},
+        {"t": 925, "kind": "stat", "text": "Project Rebalance dramatically reduces the prayer drain of the super-early-level combat prayers and gives them some bonus damage, which Gnomonkey calls a good change."}
+      ]
+    },
+    {
+      "name": "Theatre of Blood",
+      "kind": "raid",
+      "claims": [
+        {"t": 1019, "kind": "stat", "text": "Project Rebalance changes Verzik Phase 2 so that if one player is left at the red crab part, only one red crab spawns, allowing the last player to out-DPS it and kill Verzik."},
+        {"t": 1019, "kind": "opinion", "text": "Gnomonkey says this is a great change for solos but Jagex forgot to lower the lightning damage, which is still 50 so a lone player dies instantly; in hard mode the lightning is scaled down properly, and he wants that applied."}
+      ]
+    },
+    {
+      "name": "Tombs of Amascut",
+      "kind": "raid",
+      "claims": [
+        {"t": 1068, "kind": "stat", "text": "Project Rebalance increases the hit points of all style-based enemies in the Monkey Room, and they now always take max damage when attacked with the opposing combat style; their health scales with raid level."},
+        {"t": 1068, "kind": "opinion", "text": "Gnomonkey considers the Monkey Room change great and intuitive, and expects it to speed up the Monkey Room dramatically, since it is by far the longest puzzle room."},
+        {"t": 1110, "kind": "stat", "text": "Baba now only hits for 25 percent of damage through protect from melee, down from 33 percent, which reduces the damage by around 24 percent."},
+        {"t": 1110, "kind": "opinion", "text": "Gnomonkey says the Baba change is basically a non-change that does not stop red-xing at high raid levels, but is kind of nice at sub-400 raid level."}
+      ]
+    }
+  ]
+}

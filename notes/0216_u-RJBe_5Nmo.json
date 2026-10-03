@@ -1,0 +1,96 @@
+{
+  "id": "u-RJBe_5Nmo",
+  "title": "Final Reward Blog - Delve Boss Mokha (OSRS)",
+  "date": "2025-03-28",
+  "type": "news-opinion",
+  "summary": "A live reaction to Jagex's final reward blog for the Doom of Mokhaiotl (Delve boss). Gnomonkey is pleased that Jagex held its ground: the Demonic Spade is shelved, the Confliction Gauntlets are limited to one-handed weapons, and Jagex promises to fix Tumeken's shadow before proposing any more best-in-slot magic rewards.",
+  "outline": [
+    {"t": 0, "text": "Initial reaction: another Delve boss blog, expecting a shovel change"},
+    {"t": 33, "text": "Jagex's key takeaways: difficulty comparisons, screening rewards, balancing blockades"},
+    {"t": 209, "text": "Tumeken's shadow commitment: Jagex promises to adjust it before new best-in-slot magic rewards"},
+    {"t": 298, "text": "Confliction Gauntlets adjusted to one-handed weapons only"},
+    {"t": 363, "text": "Demonic Spade removed and shelved"},
+    {"t": 433, "text": "Rewards conclusion: Eye of Ayak, Avernic Treads, gauntlets"},
+    {"t": 525, "text": "Gnomonkey's in-depth thoughts on where the spade could come from"},
+    {"t": 579, "text": "Closing blog thanks and Gnomonkey's overall verdict"},
+    {"t": 629, "text": "Why Shadow plus gauntlets would be broken at six locations"},
+    {"t": 655, "text": "Passives and damage caps (Shadow cap, Ice Demon, Zalcano-style caps)"}
+  ],
+  "topics": [
+    {
+      "name": "Update: Doom of Mokhaiotl final rewards",
+      "kind": "update",
+      "claims": [
+        {"t": 32, "kind": "event", "text": "Jagex's final Delve boss (Doom of Mokhaiotl) reward blog begins with Jagex reflecting on how the rewards have been handled, calling nailing them a challenge and the understatement of the year."},
+        {"t": 210, "kind": "event", "text": "Jagex announced polls for the Doom of Mokhaiotl rewards would open the following Monday, March 31st."},
+        {"t": 463, "kind": "event", "text": "Jagex said it believes the Eye of Ayak, Avernic Treads (gauntlets and consumable tiers) make a tight and impactful set of rewards that should stay in high demand and give players an incentive to risk it all at deeper delve levels."},
+        {"t": 0, "kind": "opinion", "text": "Gnomonkey was happy with the update before the blog and expected the new blog to make things worse, guessing they would change the spade."},
+        {"t": 598, "kind": "opinion", "text": "Gnomonkey says he was expecting the worst from the blog, that Reddit would win, and is surprised it turned out pretty good."},
+        {"t": 607, "kind": "opinion", "text": "Gnomonkey says he loves the commitment to looking at Tumeken's shadow and Jagex's general design philosophy going forward."},
+        {"t": 568, "kind": "opinion", "text": "Gnomonkey finds Jagex's closing thanks to the community for the rewards roller coaster very based and says Reddit did not win this time."}
+      ]
+    },
+    {
+      "name": "Update: Demonic Spade",
+      "kind": "update",
+      "claims": [
+        {"t": 363, "kind": "event", "text": "Jagex said the Demonic Spade as initially proposed was too strong, and that the version it was comfortable releasing did not feel right for this level of content."},
+        {"t": 363, "kind": "event", "text": "Jagex said it is responsible for stewarding the game's long-term health and evaluates feedback on its merits, and that it was keeping its decision on the spade despite the reaction."},
+        {"t": 425, "kind": "event", "text": "Jagex decided to remove (shelve) the Demonic Spade entirely, saying a nerfed version would have to be very common to make sense from this tier of content and would have negligible impact on the profitability of the Eye of Ayak."},
+        {"t": 450, "kind": "event", "text": "Jagex said it understands the want for something that benefits Farming, a skill with no impactful unique upgrade since the bottomless compost bucket, and believes it will offer similar functionality from a more fitting piece of content in the future."},
+        {"t": 480, "kind": "opinion", "text": "Gnomonkey says he would be okay with something like the spade dropping from a Slayer monster and that he does not mind quest rewards being interesting, but he feels the spade is too powerful to be a quest reward and should drop from something."},
+        {"t": 525, "kind": "opinion", "text": "Gnomonkey says the spade as originally designed was broken: snape grass would have effectively added eight yew tree patches on a 70-minute cooldown, which he did not think was a fun training method."},
+        {"t": 525, "kind": "opinion", "text": "Gnomonkey says he did not want any more birdhouse-style runs and appreciates that Jagex mentioned Daily Scape in its blog; he dislikes hourly and daily content."},
+        {"t": 539, "kind": "opinion", "text": "Gnomonkey says he would still like a faster way to harvest herbs at some point."},
+        {"t": 539, "kind": "opinion", "text": "Gnomonkey says it is odd for a Farming upgrade to drop from an endgame PvM boss, comparing it to a hypothetical dragon harpoon being strictly worse than a boss-dropped item."},
+        {"t": 567, "kind": "opinion", "text": "Gnomonkey says he was okay with the spade dropping from Mokhaiotl but thinks shelving it is fair."},
+        {"t": 774, "kind": "opinion", "text": "Gnomonkey jokes that he personally killed the spade, taunting Redditors."}
+      ]
+    },
+    {
+      "name": "Confliction Gauntlets",
+      "kind": "item",
+      "claims": [
+        {"t": 0, "kind": "opinion", "text": "Gnomonkey says the original Confliction Gauntlets design was kind of dumb and definitely a band-aid fix."},
+        {"t": 298, "kind": "event", "text": "Jagex said that restricting the gauntlets' effect to attacks within the next four ticks was meant to avoid issues with freezes, PvP and blood spell healing, and was not an oversight, but it would now remove the four-tick restriction."},
+        {"t": 330, "kind": "event", "text": "Jagex changed the Confliction Gauntlets' passive effect so that it removes the four-tick restriction and benefits one-handed weapons only."},
+        {"t": 298, "kind": "event", "text": "Jagex acknowledged the gauntlets are a band-aid fix that can be pulled off whenever changes to Tumeken's shadow are implemented."},
+        {"t": 330, "kind": "opinion", "text": "Gnomonkey says he would still prefer the gauntlets only work with Tumeken's shadow and then be removed afterwards, but he finds the one-handed fix fine and notes few two-handed items are affected (such as the Blue moon spear)."},
+        {"t": 629, "kind": "opinion", "text": "Gnomonkey argues the gauntlets would displace other weapons at six locations, including Nex and Tombs of Amascut, two of the best moneymakers, which he says would be broken for weapon prices."},
+        {"t": 655, "kind": "opinion", "text": "Gnomonkey says it feels bad that the best mage gloves do not get their effect on the best mage weapon and questions whether passives like this are good for the game, since they cause long-term balance issues like with the Osmumten's fang."}
+      ]
+    },
+    {
+      "name": "Tumeken's shadow",
+      "kind": "item",
+      "claims": [
+        {"t": 239, "kind": "event", "text": "Jagex said there are fundamental issues with Tumeken's shadow that dictate what it can do around magic rewards, but it could not adjust the weapon alongside its other Varlamore work."},
+        {"t": 270, "kind": "event", "text": "Jagex committed to making adjustments to Tumeken's shadow before discussing any future best-in-slot magic reward space, without a firm timeline."},
+        {"t": 183, "kind": "opinion", "text": "Gnomonkey says Shadow definitely needs help and that it holds magic in a vice grip, and he is glad Jagex says so."},
+        {"t": 655, "kind": "opinion", "text": "Gnomonkey says it is lame that Tumeken's shadow has a damage cap, because mage upgrades stop helping once it hits the cap, and he would prefer it scaled properly."},
+        {"t": 717, "kind": "stat", "text": "Gnomonkey says Tumeken's shadow has a 100% cap from gear, so gear cannot provide more than a 100% damage bonus."},
+        {"t": 689, "kind": "opinion", "text": "Gnomonkey says people bring up the Shadow cap as if it solves everything, but once new mage upgrades do nothing for Shadow it will feel bad."}
+      ]
+    },
+    {
+      "name": "Opinion: Damage caps",
+      "kind": "opinion",
+      "claims": [
+        {"t": 717, "kind": "opinion", "text": "Gnomonkey says he would like damage caps removed entirely and that they make weapons feel like they do not work for an arbitrary reason."},
+        {"t": 747, "kind": "stat", "text": "Gnomonkey says the highest hit possible on Ice Demon is 73 with max mage, which you already reach with a harm staff."},
+        {"t": 747, "kind": "trivia", "text": "Gnomonkey says when the Magus ring came out he brought it to Ice Demon expecting better hits and found he hit the same numbers because of a damage cap he did not know existed."},
+        {"t": 747, "kind": "opinion", "text": "Gnomonkey says nobody likes that Zulrah has a damage cap either."}
+      ]
+    },
+    {
+      "name": "Opinion: Comparing bosses' difficulty",
+      "kind": "opinion",
+      "claims": [
+        {"t": 32, "kind": "event", "text": "Jagex listed as a takeaway that it should find better ways of discussing difficulty and target audiences so expectations are properly set."},
+        {"t": 62, "kind": "opinion", "text": "Gnomonkey says comparing a boss to another boss backfires: when Jagex called Muspah a Vorkath-level boss, Reddit exploded, even though he thinks the comparison was fair."},
+        {"t": 92, "kind": "opinion", "text": "Gnomonkey says it is a pet peeve that as soon as Jagex compares content, people form their own idea, and that he blames the community, not Jagex, for Reddit melting down."},
+        {"t": 180, "kind": "opinion", "text": "Gnomonkey says difficulty is a nebulous term in OSRS and comparators depend on perspective, giving examples like Awakened Leviathan versus Inferno and duo Nex versus Inferno as unfair comparisons."}
+      ]
+    }
+  ]
+}

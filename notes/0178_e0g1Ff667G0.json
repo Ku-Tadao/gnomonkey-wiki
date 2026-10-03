@@ -1,0 +1,275 @@
+{
+  "id": "e0g1Ff667G0",
+  "title": "HUEYCOATYL GUIDE - Release Day (OSRS)",
+  "date": "2024-09-25",
+  "type": "guide",
+  "summary": "A release-day guide to The Hueycoatl: use crush weapons throughout, scythe on the head and Lance or dual maces on the tail, and bring a group of three or more. Gnomonkey explains the pillar prayer mechanic, tail damage cap, wave dodging and loot, and concludes the rewards are weak except for the herb seeds and pet.",
+  "outline": [
+    {
+      "t": 0,
+      "text": "Boss intro and best gear: everything is crush"
+    },
+    {
+      "t": 63,
+      "text": "Weapon options and budget alternatives (Bopper maces, glacial hammers)"
+    },
+    {
+      "t": 122,
+      "text": "Spec weapons and thrall/death charge notes"
+    },
+    {
+      "t": 153,
+      "text": "Team size requirement: trio or larger"
+    },
+    {
+      "t": 182,
+      "text": "Fight mechanics: lightning, prayer projectiles, pillars"
+    },
+    {
+      "t": 238,
+      "text": "Tail mechanics: damage cap of 9 and guaranteed hits"
+    },
+    {
+      "t": 301,
+      "text": "Budget kill demonstration and wave dodging"
+    },
+    {
+      "t": 371,
+      "text": "Loot mechanics and team tips"
+    },
+    {
+      "t": 442,
+      "text": "Kill demonstration and summary"
+    },
+    {
+      "t": 477,
+      "text": "Rewards analysis: Dragon hunter wand, hide, tome"
+    },
+    {
+      "t": 527,
+      "text": "Herb seeds and Prayer enhance potions"
+    },
+    {
+      "t": 580,
+      "text": "Boss evaluation and gear check"
+    }
+  ],
+  "topics": [
+    {
+      "name": "The Hueycoatl",
+      "kind": "boss",
+      "claims": [
+        {
+          "t": 0,
+          "kind": "tip",
+          "text": "Gnomonkey says everything at The Hueycoatl is crush: there are no style switches, and Inquisitor's gear is better than Torva here because the boss is weak to crush."
+        },
+        {
+          "t": 27,
+          "kind": "method",
+          "text": "The Hueycoatl kill flow: climb the mountain hitting the body segments one by one (Lance works, scythe does not), then run up to the head, scythe it to 50% health, kill the tail out of its cave, then finish the head."
+        },
+        {
+          "t": 153,
+          "kind": "requirement",
+          "text": "Gnomonkey says you do not want to solo or duo The Hueycoatl; you need a trio or larger because a mechanic reduces your damage in a solo or duo, and you can make your own instance by hitting the flag on the mountain."
+        },
+        {
+          "t": 182,
+          "kind": "stat",
+          "text": "The Hueycoatl's lightning splotches on the ground hit three ticks after they appear, and its colour-coded prayer projectiles come extremely slowly."
+        },
+        {
+          "t": 208,
+          "kind": "method",
+          "text": "At The Hueycoatl pillars on the side fill a bar when three different protection prayers are active at all times (for example one person melee, two ranged, one mage), which dings and increases damage; Gnomonkey was hitting 93 with claws after it triggered."
+        },
+        {
+          "t": 329,
+          "kind": "requirement",
+          "text": "Gnomonkey says you can never charge the Hueycoatl pillar bonus in a solo or duo because you cannot have three protection prayers up, which is why those scales are bad."
+        },
+        {
+          "t": 297,
+          "kind": "tip",
+          "text": "Gnomonkey recommends holding the special attack at The Hueycoatl until you hear the ding, because you then do more damage."
+        },
+        {
+          "t": 297,
+          "kind": "tip",
+          "text": "The Hueycoatl hits nothing if you stand on a particular tile during the tail out of the cave wave, so Gnomonkey says you can just AFK there."
+        },
+        {
+          "t": 321,
+          "kind": "tip",
+          "text": "To dodge a tail wave at The Hueycoatl, step off the tail early and if you see the wave particle in the corner of the tail box, click back on; two green tile markers also let you auto-dodge by waiting a second and then clicking."
+        },
+        {
+          "t": 440,
+          "kind": "stat",
+          "text": "Gnomonkey says the punishment for messing up a mechanic at The Hueycoatl is at worst around a 20 hit and there is really no risk of dying."
+        },
+        {
+          "t": 370,
+          "kind": "method",
+          "text": "Loot at The Hueycoatl works like the Nex loot split: everyone gets the same drop but the more damage you deal the more of the loot you receive; Gnomonkey joined a four-man late and received two rune maces of the 16 dropped."
+        },
+        {
+          "t": 579,
+          "kind": "opinion",
+          "text": "Gnomonkey says he is not very impressed with The Hueycoatl, having expected a Moons-tier boss with tutorial-style mechanics and okay regular loot."
+        },
+        {
+          "t": 600,
+          "kind": "opinion",
+          "text": "Gnomonkey says the new bosses need more gear switches and wonders why Jagex never tries to teach switches."
+        }
+      ]
+    },
+    {
+      "name": "Tail phase (The Hueycoatl)",
+      "kind": "mechanic",
+      "claims": [
+        {
+          "t": 237,
+          "kind": "stat",
+          "text": "The Hueycoatl's tail has a damage cap of nine, so you cannot hit higher than nine."
+        },
+        {
+          "t": 237,
+          "kind": "method",
+          "text": "On The Hueycoatl's tail you are guaranteed to hit if crush is your highest attack style, so primarily-crush weapons like the Bopper maces always hit while a scythe, whose highest style is slash, does not."
+        },
+        {
+          "t": 237,
+          "kind": "tip",
+          "text": "Gnomonkey says double-hit weapons are very good on The Hueycoatl's tail because of the damage cap of nine, which he calls counterintuitive but true."
+        },
+        {
+          "t": 426,
+          "kind": "method",
+          "text": "After the head reaches 50% health, tail waves come out of caves that you must dodge; Gnomonkey kills the tail while meleeing, and then finishes the head."
+        }
+      ]
+    },
+    {
+      "name": "Dual Macuahuitl",
+      "kind": "item",
+      "claims": [
+        {
+          "t": 54,
+          "kind": "opinion",
+          "text": "Gnomonkey calls the Dual macuahuitl (Bopper) maces best in slot on The Hueycoatl's tail, saying they are not optional for the body parts."
+        },
+        {
+          "t": 395,
+          "kind": "stat",
+          "text": "Gnomonkey says the Bopper set is only good with the full Blood moon set because the set effect makes it a three-tick attack, boosting damage a lot."
+        },
+        {
+          "t": 85,
+          "kind": "stat",
+          "text": "Gnomonkey says the Bopper maces are about 20% worse than a scythe on The Hueycoatl, which he calls not that much worse."
+        },
+        {
+          "t": 414,
+          "kind": "opinion",
+          "text": "Gnomonkey says the new frost nagas' glacial hammers are a lot better on the tail than a Lance, that he bought a pair on day one for 1 million gp, and that they should be cheap in general."
+        },
+        {
+          "t": 36,
+          "kind": "tip",
+          "text": "Gnomonkey says if you do not have Bopper maces but have glacial hammers, they are very similar and a solid alternative; Boppers alone can be used for the whole kill."
+        }
+      ]
+    },
+    {
+      "name": "Scythe of Vitur",
+      "kind": "item",
+      "claims": [
+        {
+          "t": 27,
+          "kind": "opinion",
+          "text": "Gnomonkey says the scythe, used on crush, is best in slot on The Hueycoatl's head, but does not work on the one-by-one targets at the start and is not good on the tail."
+        },
+        {
+          "t": 54,
+          "kind": "opinion",
+          "text": "Gnomonkey says Lance is the second best weapon for The Hueycoatl, good for the first section of one-by-one body targets, and Boppers are next best if you have no Lance."
+        },
+        {
+          "t": 237,
+          "kind": "tip",
+          "text": "Gnomonkey says a scythe is not very good on the tail because crush is not its highest style, even though you would think it would be good with a damage cap."
+        }
+      ]
+    },
+    {
+      "name": "Special attack weapons",
+      "kind": "other",
+      "claims": [
+        {
+          "t": 122,
+          "kind": "opinion",
+          "text": "Gnomonkey believes Dragon claws are the best special attack weapon for The Hueycoatl, with Burning claws a cheap alternative that has issues because the burn is removed when the boss reaches 50% and does not work on the body segments."
+        },
+        {
+          "t": 122,
+          "kind": "tip",
+          "text": "At The Hueycoatl Death charge works on the body segments at the start, so you can drop a special attack and grab a death charge off them."
+        },
+        {
+          "t": 149,
+          "kind": "tip",
+          "text": "Gnomonkey says the Voidwaker is decent for The Hueycoatl if you have it, but a Zaryte crossbow is no good because the boss has over 300 ranged defence."
+        }
+      ]
+    },
+    {
+      "name": "The Hueycoatl rewards",
+      "kind": "item",
+      "claims": [
+        {
+          "t": 472,
+          "kind": "opinion",
+          "text": "Gnomonkey says there is no real reason to kill The Hueycoatl for rewards; the Dragon hunter wand's Dragon Hunter 1 effect is incredibly weak and is basically only for killing Steel dragons early in an ironman."
+        },
+        {
+          "t": 500,
+          "kind": "stat",
+          "text": "Gnomonkey says the Dragon hunter wand sits between a regular trident and the Trident of the swamp on Olm and is not good anywhere."
+        },
+        {
+          "t": 500,
+          "kind": "stat",
+          "text": "The Hueycoatl hide creates an improved blessed dragonhide, essentially the same as blessed dragonhide but with two extra prayer bonus; the Tome of Earth only boosts earth spells, useful only on Steel dragons."
+        },
+        {
+          "t": 531,
+          "kind": "opinion",
+          "text": "Gnomonkey says the regular drops from The Hueycoatl are just not very good and that Moons bosses are way better in general."
+        },
+        {
+          "t": 531,
+          "kind": "stat",
+          "text": "The Hueycoatl drops herb seeds for a new herb, Huasca, used to create Prayer enhance potions; these potions were selling for between 30k and 500k on day one."
+        },
+        {
+          "t": 531,
+          "kind": "opinion",
+          "text": "Gnomonkey says on an ironman he would only use Prayer enhances in extremely difficult challenges such as Colosseum and Inferno where prayer is an issue, because the potions are so hard to get."
+        },
+        {
+          "t": 560,
+          "kind": "opinion",
+          "text": "Gnomonkey says the herb seeds are fairly rare from the boss and the secondary needed from the herb minigame is fairly hard to get; the other reason to come is the pet, for pet hunters."
+        },
+        {
+          "t": 580,
+          "kind": "tip",
+          "text": "Gnomonkey says Max mage with Ward and Magus is only about 1% better in a huge switch and much worse on the tail, so he says not to use magic or ranged on The Hueycoatl."
+        }
+      ]
+    }
+  ]
+}

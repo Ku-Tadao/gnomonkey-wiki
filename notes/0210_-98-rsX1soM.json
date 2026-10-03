@@ -1,0 +1,166 @@
+{
+  "id": "-98-rsX1soM",
+  "title": "Shadow EVERYTHING - Mohka Rewards #4 (OSRS)",
+  "date": "2025-03-11",
+  "type": "news-opinion",
+  "summary": "Gnomonkey reacts to Mokha blog #47 (the Varlamore delve boss rewards), covering the revised boots, the new three-tick Eye of Ayak staff, the Confliction gauntlets and the instant-harvest shovel. He likes the boots and shovel but considers the staff's spec and range flawed and the gauntlets so broken for the Tumeken's shadow that everything will be shadowed.",
+  "outline": [
+    {"t": 0, "text": "Intro to Mokha blog #47 and the revised boots design"},
+    {"t": 27, "text": "Boots now drop wearable and upgrade with Cerberus boots; stat changes"},
+    {"t": 114, "text": "Demon tiers currency and the Eye of Ayak announcement"},
+    {"t": 176, "text": "Gnomonkey's own submitted staff idea compared with the Eye of Ayak"},
+    {"t": 233, "text": "Eye of Ayak stats, charging and the magic rending special attack"},
+    {"t": 380, "text": "Why draining magic defense is weak: defence roll formula and examples"},
+    {"t": 645, "text": "The spec as flavor, and how he would fix it"},
+    {"t": 705, "text": "Three-tick speed and range six problems, especially Ulm's mage hand"},
+    {"t": 1033, "text": "Confliction gauntlets: double accuracy roll and the accuracy chart"},
+    {"t": 1150, "text": "How the gauntlets buff shadow: Zebak, Zulrah, Inferno, Nex"},
+    {"t": 1370, "text": "Proposed fix: make it an offhand shield, and alternative Torm upgrade idea"},
+    {"t": 1480, "text": "Gauntlets summary: broken, would vote no"},
+    {"t": 1680, "text": "Demonic digger shovel for instant herb harvesting"},
+    {"t": 1747, "text": "Overall take on blog #47 and demon tiers"},
+    {"t": 2050, "text": "Honeymoon, in-game wedding and gold-painting plans"}
+  ],
+  "topics": [
+    {
+      "name": "Update: Mokha rewards blog #47",
+      "kind": "update",
+      "claims": [
+        {"t": 0, "kind": "event", "text": "Mokha blog number 47 was released while Gnomonkey was on his honeymoon, and he reacted to it in this video (video title: Mohka Rewards #4)."},
+        {"t": 0, "kind": "event", "text": "Jagex said the earlier rewards were not strong or interesting enough, so the new designs were built with that in mind; content-specific rewards such as a teleport item and a pet are still planned, but this blog focuses on the rewards players will vote on."},
+        {"t": 2056, "kind": "event", "text": "Gnomonkey describes the blog's four rewards as revised boots, a new mage staff (Eye of Ayak), Confliction gauntlets (a tormented bracelet upgrade) and a shovel that instantly harvests herbs."},
+        {"t": 1747, "kind": "opinion", "text": "Gnomonkey's overall verdict on blog #47 is that the boots and shovel are good, the staff has major issues that need changes, and the gauntlets are utterly broken."},
+        {"t": 2007, "kind": "opinion", "text": "Gnomonkey worries players are exhausted by this many rewards blogs and will not read them any more, so if the poll goes ahead the gauntlets will pass and break the game in half."},
+        {"t": 2052, "kind": "opinion", "text": "Gnomonkey hopes Jagex will pull the gauntlets as it did with the Nightmare's super high mage damage tome, which was dropped even though it passed its vote."},
+        {"t": 1747, "kind": "opinion", "text": "Gnomonkey says the items for Yama were much better than these after blog after blog of this process."},
+        {"t": 1827, "kind": "opinion", "text": "Gnomonkey compares the swing from the earlier 1% mage damage and negative prayer on the cape to the gauntlets as sliding from one end of the boat to the other, and wants a happy medium."}
+      ]
+    },
+    {
+      "name": "Mokha boots",
+      "kind": "item",
+      "claims": [
+        {"t": 27, "kind": "event", "text": "In blog #47 the Mokha boots now drop in a form that can be worn immediately and are upgraded by using Cerberus boots one at a time, rather than requiring Pegasian boots (pegs) up front."},
+        {"t": 27, "kind": "opinion", "text": "Gnomonkey likes the change that lets players add Cerberus boots slowly over time, because being required to obtain all the crystals immediately was really annoying; he says they definitely needed to do that."},
+        {"t": 54, "kind": "stat", "text": "The base boots start with 1% damage, 2 ranged strength and 4 melee strength, rising to 6 melee strength, 3 ranged strength and 2% mage damage when fully upgraded; each Cerberus boot adds roughly +2 melee, +1 ranged strength and +1% mage damage."},
+        {"t": 54, "kind": "opinion", "text": "Gnomonkey notes that 4 melee strength by default is worse than primordial boots and the same as dragon boots, but the boots are very good for ranging and are best in slot for ranged strength as soon as they drop."},
+        {"t": 83, "kind": "event", "text": "Jagex said the new design removes the outright requirement to own Pegasian boots, which should relieve economic pressure on ranger boots."},
+        {"t": 83, "kind": "event", "text": "The base boots are tradable but become untradable once upgrading starts, and they can be reverted to their component parts."},
+        {"t": 83, "kind": "event", "text": "Upgrading the boots takes a number of demon tiers per step, and three sets of Cerberus boots are needed for fully maxed boots."},
+        {"t": 114, "kind": "event", "text": "Jagex said the three planned aesthetic options (kits) for the boots are dropped because the new design complicates that work, so only one look will exist."},
+        {"t": 114, "kind": "opinion", "text": "Gnomonkey would have liked getting kits for the boots but accepts it, and says the boots look sick."},
+        {"t": 29, "kind": "opinion", "text": "Gnomonkey thinks the stat buff to the boots was not necessary but is not necessarily bad, and says the boots were always fine and Jagex should stop touching them."}
+      ]
+    },
+    {
+      "name": "Demon tiers",
+      "kind": "item",
+      "claims": [
+        {"t": 143, "kind": "event", "text": "Demon tiers are a new tradable, consumable resource drop that Jagex intends to be common enough that crafting rewards with them is not a big grind; all the reward proposals require some number of them, with amounts not yet settled."},
+        {"t": 143, "kind": "event", "text": "Demon tiers are mostly used to craft upgrades, but the Eye of Ayak uses them as charges, and Jagex believes recent charge systems strike a good balance."},
+        {"t": 260, "kind": "event", "text": "Duplicate unique drops from the Doom boss can be broken down into demon tiers, similar to the Zulrah system."},
+        {"t": 2250, "kind": "opinion", "text": "Gnomonkey likes adding some kind of currency like demon tiers and does not think they will be sunk out of the game in massive quantities; their value will depend on how many are needed for crafting and how much the staff is used."},
+        {"t": 2287, "kind": "opinion", "text": "Gnomonkey thinks that in theory demon tiers should keep the boss relatively profitable."}
+      ]
+    },
+    {
+      "name": "Eye of Ayak",
+      "kind": "item",
+      "claims": [
+        {"t": 176, "kind": "event", "text": "Jagex describes the Eye of Ayak as a one-handed mage weapon with a rapid three-tick attack speed that speeds the grind towards the Tumeken's shadow and keeps giving utility afterwards, with DPS stated to be between the Sanguinesti staff and the shadow."},
+        {"t": 233, "kind": "stat", "text": "The Eye of Ayak's special attack, magic rending, is a five-tick attack with doubled accuracy, 30% higher max hit, and drains the target's magic defense equal to the damage dealt; it costs 100% special energy."},
+        {"t": 260, "kind": "event", "text": "The Eye of Ayak charges passively while in your inventory when defeating the Doom, uncharging returns what was put in, demon tiers are consumed before runes, and the staff is tradable when uncharged."},
+        {"t": 289, "kind": "stat", "text": "The Eye of Ayak has three-tick attack speed, a 2 prayer bonus and a range of 6, compared with the Sanguinesti staff's 7 (nine on long range), so the Eye would be eight on long range; each attack costs two death runes and one chaos rune."},
+        {"t": 320, "kind": "opinion", "text": "Gnomonkey finds it odd that Jagex tied demon tiers to runes for charging and thinks the staff should simply require tiers, but guesses they avoided that because players dislike the scythe requiring vials of blood."},
+        {"t": 350, "kind": "opinion", "text": "Gnomonkey thinks a good weapon used for DPS does not need a spec on top, and that dumping everything on one item is strange when the rewards could be split across different bosses like the blowpipe could have been."},
+        {"t": 705, "kind": "opinion", "text": "Gnomonkey says the three-tick speed makes the Eye awkward, for example for maging Vespula, because it takes four ticks to run in and out of the portal."},
+        {"t": 735, "kind": "opinion", "text": "Gnomonkey's main problem with the range of 6 is Ulm: on the melee safe-spot tile you cannot hit Ulm's mage hand with the Eye, and a solo Ulm would lose one or two ticks per mage cycle when dragging."},
+        {"t": 810, "kind": "opinion", "text": "Gnomonkey says the Eye is an uninspired 'scrambled egg' item and is strangely harder to use than the Sanguinesti staff, even though it is meant to be the mage Bofa equivalent that should be easy and forgiving."},
+        {"t": 960, "kind": "opinion", "text": "Gnomonkey says at the very least the Eye's range should be 7, which would solve many problems and let it be used on Ulm's mage hand, and he would like to see the spec removed."},
+        {"t": 960, "kind": "opinion", "text": "Gnomonkey likes the idea of a mage Bofa but is unsure that making the mage Bofa the Nylocas room killer through three-tick speed is the right design; a slower weapon might make more sense."},
+        {"t": 1807, "kind": "opinion", "text": "Gnomonkey thinks the Eye as designed could be added and would not be horrible, but wants range and spec changes and thinks it is trying to fit into a weird slot."}
+      ]
+    },
+    {
+      "name": "Magic rending special attack",
+      "kind": "mechanic",
+      "claims": [
+        {"t": 233, "kind": "stat", "text": "Magic rending drains the opponent's magic defense (not magic level) by the damage dealt, unlike a Seercull or the Curse Scepter, which drain magic level."},
+        {"t": 380, "kind": "opinion", "text": "Gnomonkey explains that NPC magic defence roll is roughly (9 + magic level) x (magic defence bonus + 64), so draining magic defence usually matters much less than draining magic level because NPCs typically have a low magic level and a high defence bonus."},
+        {"t": 464, "kind": "opinion", "text": "Gnomonkey notes it is unknown whether magic defence can be drained into the negatives or whether NPCs would regenerate it, since a style defence has never been drainable before."},
+        {"t": 523, "kind": "stat", "text": "On Zebak, draining about 30 magic defense with a shadow raises accuracy from 87.89% to 89.26% in Gearscape calcs, which Gnomonkey considers a small gain."},
+        {"t": 580, "kind": "opinion", "text": "Gnomonkey says the spec is basically the same as a Curse Scepter's spec but costs 100% energy rather than 50%, so nobody would use it; he compares it to the Noxious halberd spec being never used."},
+        {"t": 641, "kind": "opinion", "text": "Gnomonkey argues the spec would only be useful if magic defence could drain into the negatives, for example against Zulrah, and suggests draining two defence per damage dealt to make it worth considering."},
+        {"t": 1000, "kind": "opinion", "text": "Gnomonkey fears the spec will trick Redditors into thinking it is good, and that if it is added Jagex will not add a good mage spec in the future, leaving only this and the Curse Scepter spec which are never used."}
+      ]
+    },
+    {
+      "name": "Confliction gauntlets",
+      "kind": "item",
+      "claims": [
+        {"t": 1033, "kind": "stat", "text": "The Confliction gauntlets are an upgrade to the tormented bracelet with 7% mage damage; after missing a magic attack, your next magic attack of the same type, same weapon or spell against the same enemy rolls accuracy twice."},
+        {"t": 1033, "kind": "requirement", "text": "The Confliction gauntlets are crafted by using Mokha cloth on a tormented bracelet, requiring 83 Crafting and 70 Smithing, and are tradable once crafted."},
+        {"t": 1065, "kind": "stat", "text": "In a chart by Gnomonkey's Discord mod sci-fi, the double accuracy roll gives the biggest boost below about 60% base accuracy, a buff of around 5% or more, peaking at about 8% around 34-35% accuracy, and effectively no change above about 80%."},
+        {"t": 1153, "kind": "stat", "text": "At around 60% accuracy, such as Akkha with a Sanguinesti staff in non-max mage gear, the gauntlets give about 5% accuracy, taking 60% to roughly 65%."},
+        {"t": 1181, "kind": "stat", "text": "Gnomonkey calculates the gauntlets give about a 10% DPS increase against Zebak (about 64% accuracy in max mage with the double-roll), which he says would make the Twisted bow on Zebak dead."},
+        {"t": 1215, "kind": "stat", "text": "At Zilyana, with about 70% accuracy, the gauntlets give about a 4% accuracy increase; against Zulrah's blue phase at about 40% accuracy it is around 7%."},
+        {"t": 1250, "kind": "stat", "text": "With the new gear, a shadow at Nex beats a Zaryte crossbow camp, and in the Tombs of Amascut Baba shows 51% accuracy and Kephri 54% with the effect."},
+        {"t": 1300, "kind": "stat", "text": "With the effect included, Gnomonkey says a shadow beats the Twisted bow on the Nex mages (shadow is 6.5% worse before the bonus), so the Nex meta would be to drop ranged and bring max mage."},
+        {"t": 1320, "kind": "opinion", "text": "Gnomonkey says the gauntlets buff the Tumeken's shadow a lot despite Jagex saying it won't benefit much, because many bosses with high defence are mageable, and he does not agree that it avoids buffing shadow."},
+        {"t": 1360, "kind": "opinion", "text": "Gnomonkey says the gauntlets turn 'shadow everything' into truly everything, with shadow camping Zulrah, the Inferno and Tombs of Amascut becoming viable instead of trolling, and he would not vote yes."},
+        {"t": 1370, "kind": "opinion", "text": "Gnomonkey says the gauntlets would also hugely buff barrage in the Inferno (50-60% to hit, making freezes land on melee NPCs) and one-way or two-way Sanguinesti staff at Nylocas Vasilias in the Theatre of Blood (about 60% accuracy)."},
+        {"t": 1370, "kind": "opinion", "text": "Gnomonkey says the gauntlets are far more broken than the earlier minimum-hit necklace concern and is concerned they will break the game, calling them utterly broken."}
+      ]
+    },
+    {
+      "name": "Opinion: Shadow dominance",
+      "kind": "opinion",
+      "claims": [
+        {"t": 1518, "kind": "opinion", "text": "Gnomonkey says the Tumeken's shadow is the most used mega-rare in the game, with the broadest range of use cases, working on almost everything, similar to the Fang, which is good almost everywhere."},
+        {"t": 1518, "kind": "opinion", "text": "Gnomonkey argues shadow does not need more places to be used, and the gauntlets would make it the thing you use everywhere."},
+        {"t": 1368, "kind": "opinion", "text": "Gnomonkey says the 'Shadow EVERYTHING' meta in the title refers to power creep concentrated in one item; he fears things that previously came close to not being shadow will become shadow."},
+        {"t": 1570, "kind": "opinion", "text": "Gnomonkey says bringing fewer mage switches became really bad with the mage rebalance because the occult damage was removed, so some bonus for one-way mage is reasonable but not via this item."}
+      ]
+    },
+    {
+      "name": "Opinion: Confliction gauntlets should be a shield",
+      "kind": "opinion",
+      "claims": [
+        {"t": 1370, "kind": "opinion", "text": "Gnomonkey says the double-accuracy effect should be moved to an offhand shield instead of gloves, because a shadow is two-handed and so cannot equip a shield, making the effect unable to buff shadow."},
+        {"t": 1400, "kind": "tip", "text": "Gnomonkey's own submitted idea to Jagex was the Heart of Mokaiotil, an offhand talisman with very high accuracy and less damage than a ward, giving roughly a 5% DPS increase on tanky targets such as Chambers of Xeric Vanguards or Ulm."},
+        {"t": 1428, "kind": "tip", "text": "Gnomonkey's other submitted idea was the hand wraps of renewal, a Torm upgrade with 7% mage damage that adds a flat bonus to elemental spell weakness (such as 30% air weakness becoming 50%), making fire surge on the Abyssal Portal beat the Twisted bow."},
+        {"t": 1485, "kind": "opinion", "text": "Gnomonkey suggests Jagex make the gauntlets a basic Torm upgrade and add the effect separately as a shield that only buffs one-handed items such as the new wand."},
+        {"t": 1485, "kind": "opinion", "text": "Gnomonkey says the effect would be broken in PvP and suggests making it not work in PvP."}
+      ]
+    },
+    {
+      "name": "Demonic digger",
+      "kind": "item",
+      "claims": [
+        {"t": 1680, "kind": "event", "text": "Jagex's fourth reward is a shovel that is crafted from a burrowing appendage drop from the new boss with a small number of demonic tears and a spade, at a one-time demonic tears cost."},
+        {"t": 1694, "kind": "event", "text": "The burrowing appendage is untradable, but the crafted demonic digger is tradable; when used for farming, any spade actions are processed instantly, so you can one-tick herb patches."},
+        {"t": 1694, "kind": "opinion", "text": "Gnomonkey likes the shovel because picking herbs sucks, calls it a good if slightly weird addition like the abyssal worm for Yama, and only dislikes the funny name."},
+        {"t": 1680, "kind": "trivia", "text": "Gnomonkey says the shovel was apparently a Reddit idea."}
+      ]
+    },
+    {
+      "name": "Gnomonkey",
+      "kind": "person",
+      "claims": [
+        {"t": 0, "kind": "event", "text": "Gnomonkey was on his honeymoon when blog #47 dropped."},
+        {"t": 2050, "kind": "event", "text": "Gnomonkey says he got married and planned an in-game wedding on the following Saturday at 5 p.m. PST on World 378 at the cosmic entity plane."},
+        {"t": 2074, "kind": "event", "text": "Gnomonkey planned to paint himself gold, probably the following Sunday, because he won the golden gnome."},
+        {"t": 140, "kind": "event", "text": "Gnomonkey says he sent Jagex ideas for items which were not used, with a staff idea designed by Kedron, who made the design and rough idea; he says all the items are now added to the Gearscape DPS calculator."}
+      ]
+    },
+    {
+      "name": "Tumeken's shadow",
+      "kind": "item",
+      "claims": [
+        {"t": 233, "kind": "event", "text": "Jagex says the Tumeken's shadow is good across the entire game but its slow attack speed means it is not always the right tool, which the Eye of Ayak is meant to complement."},
+        {"t": 1518, "kind": "opinion", "text": "Gnomonkey calls the Tumeken's shadow the most used mega rare in the game, though he says the scythe is the most useful and expensive."},
+        {"t": 810, "kind": "opinion", "text": "Gnomonkey says the Tumeken's shadow is a hard-to-use weapon with a learning curve at Ulm, like Butterfly Akkha, which makes sense for an extremely expensive item, in contrast to the forgiving Sanguinesti staff."}
+      ]
+    }
+  ]
+}

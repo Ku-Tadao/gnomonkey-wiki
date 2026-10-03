@@ -1,0 +1,59 @@
+{
+  "id": "PaJs_xLnNwc",
+  "title": "RCB Inferno NO SCUFFED SHIELD (OSRS)",
+  "date": "2023-09-17",
+  "type": "challenge",
+  "summary": "Stream footage of Gnomonkey completing an Inferno using a ranged crossbow (RCB) with Ruby bolts (e) instead of his usual Twisted bow, as a reward for hitting the 150 sub goal during Subtember. He did not bother scuffing the shield, wore Blessed d'hide and random bank gear, and finished in two seconds under 70 minutes without a slayer task, with Zuk taking 3:58.",
+  "outline": [
+    {"t": 0, "text": "Starting the Inferno run for the 150 sub goal"},
+    {"t": 178, "text": "Early waves and chat challenges (saving a tick)"},
+    {"t": 543, "text": "Mid-wave progress"},
+    {"t": 864, "text": "Jad fight preparation and chat banter"},
+    {"t": 1121, "text": "Navigating difficult waves"},
+    {"t": 1522, "text": "Corner trapping techniques explained"},
+    {"t": 1858, "text": "Late wave tense moments"},
+    {"t": 2156, "text": "Final preparations for TzKal-Zuk"},
+    {"t": 2730, "text": "TzKal-Zuk boss battle and splits"}
+  ],
+  "topics": [
+    {
+      "name": "Inferno",
+      "kind": "boss",
+      "claims": [
+        {"t": 0, "kind": "event", "text": "Gnomonkey did an Inferno with a crossbow as a reward for the stream reaching its 150 sub goal in Subtember, without bothering to scuff the shield and failing a couple of attempts before succeeding."},
+        {"t": 2847, "kind": "record", "text": "Gnomonkey completed this ranged crossbow Inferno in two seconds under 70 minutes, which he calls a sub-70 RCB run off task (he had no slayer task for it)."},
+        {"t": 2893, "kind": "record", "text": "In this Inferno run, TzKal-Zuk took 3 minutes 58 seconds, which Gnomonkey says was almost as fast as his average Twisted bow runs thanks to Ruby bolt (e) procs; he says he has had worse Zuk times on task."},
+        {"t": 0, "kind": "tip", "text": "Gnomonkey says the Jad fights in this run were buttery smooth, and that he used the Toxic blowpipe for much of the wave clearing while taking out the crossbow a few times within the waves."},
+        {"t": 1522, "kind": "method", "text": "Gnomonkey explains that a corner breaking line of sight is called a corner trap, and that a monster will always move west or east before moving north or south, and if it cannot it will sit there."},
+        {"t": 2111, "kind": "tip", "text": "Gnomonkey notes that you cannot tick-eat two rangers shooting at once; at 41 health both could have hit 41 and dealt 82 in a single hit."},
+        {"t": 395, "kind": "opinion", "text": "Gnomonkey says he had never cleared an Inferno without Justiciar-style gear (as transcribed 'Justy') before and felt this was the day he finally could."},
+        {"t": 2640, "kind": "tip", "text": "Gnomonkey keeps his Zuk final-phase approach simple, killing the sets at long range to be safe and then finishing Zuk."}
+      ]
+    },
+    {
+      "name": "Ruby bolts (e)",
+      "kind": "item",
+      "claims": [
+        {"t": 0, "kind": "tip", "text": "Gnomonkey says Ruby bolt (e) procs carried this crossbow Inferno, making TzKal-Zuk nearly as fast as his average Twisted bow runs."},
+        {"t": 2440, "kind": "opinion", "text": "Gnomonkey says that in this run he is pretty sure the bolt procs at Zuk were diamond-level or better, and notes a missed damage chance where a ruby proc would have been big."}
+      ]
+    },
+    {
+      "name": "Subtember",
+      "kind": "challenge",
+      "claims": [
+        {"t": 0, "kind": "event", "text": "The RCB Inferno was a reward the stream earned for reaching the 150 sub goal during Gnomonkey's Subtember event on Twitch."},
+        {"t": 0, "kind": "event", "text": "Gnomonkey says the armour setup for this run was Blessed d'hide and other random bank gear plus a Volatile weapon and Crystal helm for the memes, and that he did not plan it out and just sent it."},
+        {"t": 0, "kind": "trivia", "text": "Gnomonkey's description says further Subtember challenges would be announced on his Twitch and Discord."}
+      ]
+    },
+    {
+      "name": "Gnomonkey",
+      "kind": "person",
+      "claims": [
+        {"t": 864, "kind": "record", "text": "Gnomonkey says he failed the Fight Kiln-style (Fight Caves equivalent) challenge on RS3, being unable to flick prayers against the orange mage before Jad even with a death touch start."},
+        {"t": 1210, "kind": "opinion", "text": "Gnomonkey says he found the Path of Glouphrie quest hard to handle despite using Quest Swapper, tile markers, ground markers and Sound Swapper."}
+      ]
+    }
+  ]
+}

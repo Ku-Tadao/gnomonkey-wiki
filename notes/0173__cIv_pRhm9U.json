@@ -1,0 +1,214 @@
+{
+  "id": "_cIv_pRhm9U",
+  "title": "HIGH RISK PVP FIRECAPE ON GHCIM (OSRS)",
+  "date": "2024-08-08",
+  "type": "series-episode",
+  "summary": "Gnomonkey gets his Fire cape on the Big Dawgs V1 group hardcore ironman, covering the whole journey: Soul Wars for GP and supplies, Prayer training, Barrows, Monkey Madness I, a 236 kill Temple Spider grind for weapon poison, the Cyclops defender grind, and then a low-level melee Fight Caves. The key trick, suggested by chat, was starting the caves on a high-risk PvP world to use blighted supplies and logging out at wave 62 to kill TzTok-Jad on a normal world.",
+  "outline": [
+    {"t": 0, "text": "Plan for the day: make money, Soul Wars, Monkey Madness, combat levels, defender grind, melee Fight Caves"},
+    {"t": 117, "text": "Engagement story and a Soul Wars crate opening"},
+    {"t": 331, "text": "Colosseum and Prayer training (Varlamore bones)"},
+    {"t": 675, "text": "Barrows brothers for Prayer experience"},
+    {"t": 1020, "text": "Monkey Madness I"},
+    {"t": 1704, "text": "Temple Spiders grind for weapon poison"},
+    {"t": 2025, "text": "Dragon defender grind at the Cyclopes in the Warriors' Guild"},
+    {"t": 2345, "text": "Sub Wars: Soul Wars crates driven by gifted subs"},
+    {"t": 2904, "text": "PvP world Fight Caves prep: blighted supplies, safety plan, strawberries"},
+    {"t": 3053, "text": "Skulled Fight Caves waves on high-risk world 579"},
+    {"t": 3438, "text": "Explaining one ticking and pulling/safe-spot techniques"},
+    {"t": 3983, "text": "Weapon poison pays off; wave techniques and northeast tech"},
+    {"t": 4936, "text": "Comparing his setup to the wiki's recommended lowest melee setup"},
+    {"t": 5630, "text": "Approaching Jad: DPS calculations and late waves"},
+    {"t": 6900, "text": "Logging out at wave 62, changing world, and the Jad fight"},
+    {"t": 7179, "text": "Fire cape obtained before any group death"}
+  ],
+  "topics": [
+    {
+      "name": "Fight Caves",
+      "kind": "activity",
+      "claims": [
+        {"t": 0, "kind": "method", "text": "Gnomonkey's plan for the day on the group hardcore ironman was to make money from Soul Wars, do Monkey Madness, get a few combat levels, do the defender grind, and then do a melee Fight Caves."},
+        {"t": 0, "kind": "tip", "text": "The description lists what Gnomonkey needed before the Fight Caves on a hardcore group ironman: GP and supplies from Soul Wars, a Prayer training method (Varlamore and Barrows brothers), weapon poison (the hard part), a dragon defender, and food."},
+        {"t": 1819, "kind": "tip", "text": "Gnomonkey says weapon poison only helps minorly for the defender grind and for the Fight Caves, not massively."},
+        {"t": 3013, "kind": "stat", "text": "Gnomonkey's Hitpoints are 64 when starting the Fight Caves, and he notes nothing other than TzTok-Jad can one-shot him."},
+        {"t": 3105, "kind": "tip", "text": "Gnomonkey's safety plan in the Fight Caves is that only Jad can one-shot him, so he must not make a prayer mistake there, while everything else he can survive."},
+        {"t": 3135, "kind": "tip", "text": "Manta rays heal 22, so Gnomonkey says he needs to be at 42 Hitpoints to get full efficiency out of the food when his max is 64."},
+        {"t": 3228, "kind": "stat", "text": "Gnomonkey says the mage monsters in the caves max 52 with magic and 54 if they melee him."},
+        {"t": 3438, "kind": "tip", "text": "Gnomonkey says walking monsters out and pulling them to safe spots, such as the northeast corner, lets the ranger and mage get stuck behind other monsters so he can fight them one at a time."},
+        {"t": 3950, "kind": "stat", "text": "Gnomonkey says regular Attack potions add about 0.1 DPS against Jad, roughly a 10% increase, but he considers them not worth it."},
+        {"t": 3736, "kind": "opinion", "text": "Gnomonkey says the 250 Temple Spiders he had to kill for weapon poison were worth it because the poison also works on Jad and on the caves' monsters."},
+        {"t": 4462, "kind": "tip", "text": "Gnomonkey estimated about forty minutes to reach Jad, with 21 or 22 mage monsters left to kill at wave 63."},
+        {"t": 4936, "kind": "stat", "text": "Gnomonkey reads the OSRS Wiki's recommended lowest melee gear for the Fight Caves (including a regular whip, crystal shield, adamant gloves and a ring of suffering) and says his own setup has roughly half the strength bonus."},
+        {"t": 5996, "kind": "record", "text": "Gnomonkey says he has never done a low-level Fight Caves before and believes this may be the first no-scythe melee Fight Caves."},
+        {"t": 6867, "kind": "event", "text": "Gnomonkey reaches TzTok-Jad about 1 hour 54 minutes into the video, having begun the waves at about 51 minutes."}
+      ]
+    },
+    {
+      "name": "TzTok-Jad",
+      "kind": "boss",
+      "claims": [
+        {"t": 5630, "kind": "stat", "text": "Gnomonkey calculates his DPS against Jad as 0.9 without weapon poison, and thinks closer to 1 with poison, which he says will take a small eternity."},
+        {"t": 3470, "kind": "stat", "text": "Gnomonkey says he only has one DPS against Jad and that this will be a slow and nervous fight."},
+        {"t": 6900, "kind": "event", "text": "Gnomonkey logs out at Jad to switch to a normal world, saying this is not a safe death and that if he dies it is over for the hardcore group."},
+        {"t": 7089, "kind": "method", "text": "On the Jad fight Gnomonkey kills the healers first, and needs to be damaged by the healers because at full health he could die to Jad; he steps out with ranged prayer then waits for a mage hit before tick eating."},
+        {"t": 7089, "kind": "tip", "text": "Gnomonkey uses tick eating with strength brews against Jad and keeps strength potions for Jad specifically, wanting one or two doses."},
+        {"t": 7179, "kind": "event", "text": "Gnomonkey kills TzTok-Jad and receives his Fire cape, with chat celebrating after Jad hit a 6 on him."}
+      ]
+    },
+    {
+      "name": "Fire cape",
+      "kind": "item",
+      "claims": [
+        {"t": 7179, "kind": "record", "text": "Gnomonkey gets his Fire cape on the Big Dawgs V1 group hardcore ironman account, using a low-level melee setup."},
+        {"t": 7267, "kind": "opinion", "text": "Gnomonkey says getting a Fire cape before any death is better than a rival group's progress, noting they died to Monkey Madness, so they are better than the farmers."},
+        {"t": 0, "kind": "tip", "text": "Gnomonkey notes a Fire cape cannot be worn in Soul Wars."}
+      ]
+    },
+    {
+      "name": "PvP World",
+      "kind": "mechanic",
+      "claims": [
+        {"t": 2893, "kind": "tip", "text": "A chat member suggested doing the Fight Caves on a PvP world so he could use blighted food, logging in at wave one and logging out at wave 62."},
+        {"t": 2979, "kind": "method", "text": "Gnomonkey's PvP world plan was to log in to a high-risk PvP world, run the caves skulled with blighted supplies, log out at wave 62, and log back in on a normal world to kill Jad."},
+        {"t": 3041, "kind": "event", "text": "Gnomonkey starts the Fight Caves on PvP world 579, a high-risk world, and gets skulled."},
+        {"t": 3135, "kind": "tip", "text": "Gnomonkey custom-swapped a ring of dueling so he can teleport to Ferox Enclave in one click, which is a safe zone on a PvP world, as an escape method."},
+        {"t": 3290, "kind": "stat", "text": "Gnomonkey says 50 ping is not ideal but acceptable, and that high-risk worlds have very few players so the ping is the only issue."},
+        {"t": 3262, "kind": "opinion", "text": "Gnomonkey stresses that this is not a safe death: dying on the PvP world would cost him a life, even though normally he would not lose one on a hardcore."},
+        {"t": 3524, "kind": "event", "text": "Gnomonkey says his teammates stood guard outside protecting him on the PvP world."},
+        {"t": 5148, "kind": "opinion", "text": "Gnomonkey hopes Jagex does not patch out the PvP world trick, noting the Sepulchre bug was left for a week while this would be patched instantly."},
+        {"t": 5181, "kind": "tip", "text": "Gnomonkey says the same technique could be used for the Colosseum, since its bank is a safe zone, and for the Inferno to save prayer potions."}
+      ]
+    },
+    {
+      "name": "Blighted supplies",
+      "kind": "item",
+      "claims": [
+        {"t": 2893, "kind": "tip", "text": "A chat member suggested using blighted food in the Fight Caves via a PvP world; blighted supplies cannot otherwise be used safely in the caves."},
+        {"t": 3041, "kind": "method", "text": "Gnomonkey brought blighted supplies for the Fight Caves waves, with strawberries and normal supplies reserved for Jad, so he could heal quickly."},
+        {"t": 5148, "kind": "tip", "text": "Gnomonkey says obtaining blighted supplies would require doing extra Soul Wars games, and he did not want to waste his precious supplies when his teammates would need them to do the same."}
+      ]
+    },
+    {
+      "name": "Weapon poison",
+      "kind": "item",
+      "claims": [
+        {"t": 1779, "kind": "method", "text": "Gnomonkey kills Temple Spiders for weapon poison, described as the hard part of the Fight Caves preparation, for use on his dragon dagger."},
+        {"t": 1931, "kind": "stat", "text": "Gnomonkey notes weapon poison from Temple Spiders is a 1 in 50 drop and he reaches 50 kills with no drop."},
+        {"t": 1962, "kind": "opinion", "text": "Gnomonkey says he stops believing someone has gone dry at about 12 times the drop rate, and says this might be the driest he has ever gone on something."},
+        {"t": 2017, "kind": "record", "text": "Gnomonkey finally gets weapon poison at 236 kills, just under five times the drop rate."},
+        {"t": 2464, "kind": "event", "text": "In exchange for gifted subs, Gnomonkey promised to go back to Temple Spiders for four more weapon poison drops for his team."},
+        {"t": 3709, "kind": "tip", "text": "Gnomonkey says poisoned dragon dagger stabs add around five poison damage, so poisoning is worth it against slow monsters in the caves, and he stabs until poison lands then returns to dragon scimitar."}
+      ]
+    },
+    {
+      "name": "Temple Spider",
+      "kind": "other",
+      "claims": [
+        {"t": 1695, "kind": "event", "text": "Gnomonkey kills Temple Spiders from around 28 minutes in, getting five red spider eggs early but no weapon poison."},
+        {"t": 1899, "kind": "method", "text": "Gnomonkey kills Temple Spiders to get weapon poison for his dragon dagger rather than for keys."},
+        {"t": 1931, "kind": "event", "text": "Gnomonkey passes 200 kills at the Temple Spiders without weapon poison and updates his chat nickname for the spiders at 200."},
+        {"t": 2017, "kind": "record", "text": "Weapon poison finally dropped at Temple Spider kill 236."}
+      ]
+    },
+    {
+      "name": "Dragon defender",
+      "kind": "item",
+      "claims": [
+        {"t": 1779, "kind": "method", "text": "Gnomonkey says he is almost at the Attack level needed to go get defenders in the Warriors' Guild."},
+        {"t": 2025, "kind": "event", "text": "After the Temple Spiders, Gnomonkey begins the defender grind on the Cyclopes in the Warriors' Guild, starting with bronze defenders."},
+        {"t": 2079, "kind": "opinion", "text": "Chat bet that if Gnomonkey got a dragon defender in under 200 kills a streamer would owe him 200 subs; chat estimated about a 2% chance of a dragon defender under 200 kills and about a 10% chance of a rune defender."},
+        {"t": 2204, "kind": "stat", "text": "Gnomonkey reaches 109 Cyclops kills with a black defender, 142 kills later still possible, and 202 kills later."},
+        {"t": 2318, "kind": "event", "text": "Gnomonkey ends the defender grind around 38 minutes in and says he is now good to do the Fight Caves."}
+      ]
+    },
+    {
+      "name": "Soul Wars",
+      "kind": "activity",
+      "claims": [
+        {"t": 0, "kind": "method", "text": "Gnomonkey did a lot of Soul Wars to get the GP and supplies needed for the Fight Caves, as the group hardcore had no GP."},
+        {"t": 2349, "kind": "event", "text": "Gnomonkey planned a brief Soul Wars warm-up before the Fight Caves, but gifted subs each added or removed crates to his total, turning it into a long session (Sub Wars)."},
+        {"t": 2491, "kind": "event", "text": "Gifted subs pushed the Soul Wars crate target up through 20, 30, 50 and 100 crates, with some gifts subtracting from the total, until about 30 crates remained near the end."},
+        {"t": 2520, "kind": "tip", "text": "Gnomonkey says he has an old Soul Wars guide that is still accurate, with the only change being that a salve amulet now works."},
+        {"t": 2866, "kind": "stat", "text": "Opening the final Soul Wars crates gave loot including bolts, around 30k GP, soul runes, rune arrows and adamant bolts, which he describes as a very solid first ten."}
+      ]
+    },
+    {
+      "name": "Barrows",
+      "kind": "activity",
+      "claims": [
+        {"t": 662, "kind": "tip", "text": "Gnomonkey brings Jangerberries to Barrows because they restore one prayer point each."},
+        {"t": 662, "kind": "method", "text": "For Prayer experience, Gnomonkey does a Barrows task requiring him to kill all six brothers and recover an icon from the chest in their crypt."},
+        {"t": 695, "kind": "tip", "text": "Gnomonkey tried to spec Ahrim with his dragon dagger and missed every special attack, and notes Ahrim drains strength and that he has ten less slash defence than stab defence, then decides to mage all of the brothers."},
+        {"t": 754, "kind": "method", "text": "Gnomonkey kills only one brother per trip and takes the melee brothers without praying, saving his prayer for Karil, whom he must fight early so he does not run out of prayer."},
+        {"t": 962, "kind": "event", "text": "Gnomonkey recovers the strange icon from the chest and receives a lamp worth 20,000 Prayer experience."}
+      ]
+    },
+    {
+      "name": "Prayer",
+      "kind": "skill",
+      "claims": [
+        {"t": 331, "kind": "method", "text": "Gnomonkey trains Prayer using Varlamore methods: chiselling bones and adding them to wine in the libation bowl, ideally with sunfire splinters."},
+        {"t": 392, "kind": "requirement", "text": "Gnomonkey says reaching 35 Thieving should give the group the ability to do Varlamore Prayer training."},
+        {"t": 424, "kind": "requirement", "text": "Gnomonkey says mining bone shards requires 49 Slayer, which he does not have."},
+        {"t": 452, "kind": "opinion", "text": "Gnomonkey says the Varlamore libation bowl method is slightly better than the Ectofuntus for Prayer experience, just barely."},
+        {"t": 540, "kind": "tip", "text": "A chat suggestion was to farm wave one and two of the Colosseum for quick GP and Prayer experience, but he says he needs protection prayers for that."},
+        {"t": 962, "kind": "event", "text": "After the Barrows icon, Gnomonkey gets a 20,000 Prayer experience lamp."}
+      ]
+    },
+    {
+      "name": "Colosseum",
+      "kind": "activity",
+      "claims": [
+        {"t": 331, "kind": "event", "text": "Gnomonkey enters the Colosseum on the group hardcore account and completes it, receiving the quiver."},
+        {"t": 540, "kind": "tip", "text": "Gnomonkey says he could do Colosseum wave one without Protect from Melee, only needing Protect from Magic."},
+        {"t": 599, "kind": "stat", "text": "Gnomonkey finishes wave one of the Colosseum in five minutes."}
+      ]
+    },
+    {
+      "name": "Monkey Madness I",
+      "kind": "quest",
+      "claims": [
+        {"t": 0, "kind": "tip", "text": "Gnomonkey says he is capable of doing Monkey Madness I right now, and a dragon scimitar costs 100k, so Tpapa and Tasty also doing it that day means they need 300k for scimitars."},
+        {"t": 513, "kind": "opinion", "text": "Chat advised Gnomonkey to do Monkey Madness and equip a dragon scimitar to reach 60 Attack faster before getting a whip."},
+        {"t": 1377, "kind": "tip", "text": "During Monkey Madness I Gnomonkey warns not to pull a monster and be dragged by the demon and die, noting he has 60 Hitpoints so it should be impossible, and prays mage with flicking to be safe."}
+      ]
+    },
+    {
+      "name": "Dragon dagger",
+      "kind": "item",
+      "claims": [
+        {"t": 484, "kind": "tip", "text": "Gnomonkey says a dragon dagger costs around 30k and that dragon dagger poking is better, but he needs the Attack level to wield it."},
+        {"t": 1899, "kind": "method", "text": "Gnomonkey wants weapon poison specifically for his dragon dagger."},
+        {"t": 3709, "kind": "method", "text": "In the Fight Caves, Gnomonkey stabs with the poisoned dragon dagger until poison lands, then switches back to his dragon scimitar."}
+      ]
+    },
+    {
+      "name": "Prayer flicking",
+      "kind": "mechanic",
+      "claims": [
+        {"t": 3438, "kind": "tip", "text": "Gnomonkey describes one ticking as clicking twice per game tick, so you turn prayers on and off and get the effect without draining any prayer."},
+        {"t": 3470, "kind": "tip", "text": "Gnomonkey says he wears a compression glove because he hurt his hand from too much one-ticking."},
+        {"t": 3496, "kind": "tip", "text": "Gnomonkey says he one tick flicks in the Fight Caves when mages approach and keeps prayer on during dangerous waves."}
+      ]
+    },
+    {
+      "name": "Group Hardcore Ironman: Big Dawgs V1",
+      "kind": "challenge",
+      "claims": [
+        {"t": 0, "kind": "event", "text": "The Fire cape was obtained by the Big Dawgs V1 group hardcore ironman team, with Tpapa and Tasty also due to do Monkey Madness that day."},
+        {"t": 2318, "kind": "opinion", "text": "Gnomonkey says the group's own paths include Tasty doing Hunter rumours for the rest of the team."},
+        {"t": 1837, "kind": "opinion", "text": "Gnomonkey says he does not mind early game Ironman and would rather be doing endgame content, but is excited to approach Inferno and Chambers of Xeric in a different, actually difficult way compared to his usual chance-every-hit approach."},
+        {"t": 5119, "kind": "event", "text": "Gnomonkey says Tpapa was on board with the PvP world Fight Caves trick instantly and that the team will probably also do it."}
+      ]
+    },
+    {
+      "name": "Gnomonkey",
+      "kind": "person",
+      "claims": [
+        {"t": 117, "kind": "event", "text": "Gnomonkey tells chat he got engaged: he proposed on one knee on hot asphalt after an ice cream shop visit, and she said yes quickly; he had chocolate Reese's and she cookie dough."},
+        {"t": 1899, "kind": "trivia", "text": "Gnomonkey says he met his fiancée, referred to as Hedron in chat, in the monkey room."},
+        {"t": 0, "kind": "event", "text": "The video description thanks viewers for supporting the group hardcore series in streams and off-stream."}
+      ]
+    }
+  ]
+}

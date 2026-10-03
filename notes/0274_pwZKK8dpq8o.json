@@ -1,0 +1,192 @@
+{
+  "id": "pwZKK8dpq8o",
+  "title": "SAILING PREP BLOG (OSRS)",
+  "date": "2025-11-04",
+  "type": "guide",
+  "summary": "Gnomonkey goes through Jagex's \"Prepare for Sailing\" blog two weeks before Sailing launches on November 19th, explaining which items, quests and skill levels are worth preparing and which can be skipped. He also covers the launch-day process, the launch training methods, his own plans for streaming Sailing on his main, and his worries about bugs and the need for early feedback.",
+  "outline": [
+    {"t": 0, "text": "Introduction: Jagex's Sailing prep blog and video"},
+    {"t": 46, "text": "Launch day expectations: worlds pulled down and restarted without Sailing, then the update goes live"},
+    {"t": 116, "text": "Resource and item preparation: logs, planks, flax, cannonballs, nails, plus launch advice for mains and irons"},
+    {"t": 250, "text": "Skill level requirements: Woodcutting, Fletching, Construction, Smithing"},
+    {"t": 373, "text": "Fishing, Herblore, Thieving, Hunter, combat, Slayer and Farming requirements"},
+    {"t": 563, "text": "Casual players do not need 99 Sailing quickly"},
+    {"t": 604, "text": "Training methods: charting, port tasks, salvaging with tick manipulation, Barracuda Trials"},
+    {"t": 714, "text": "Account-specific advice: Gnomonkey's plan to start on his main, hardcore ironman risks"},
+    {"t": 838, "text": "Launch outlook: expected bugs, importance of feedback, advice to wait if you dislike it"}
+  ],
+  "topics": [
+    {
+      "name": "Update: Sailing launch",
+      "kind": "update",
+      "claims": [
+        {"t": 0, "kind": "event", "text": "Jagex released a blog and a video starring Gnomonkey two weeks before the Sailing skill launched, explaining how to prepare for Sailing."},
+        {"t": 32, "kind": "event", "text": "Sailing is set to launch at 7:15 AM UTC on November 19th."},
+        {"t": 32, "kind": "method", "text": "For the Sailing launch, Jagex pulls the worlds down and puts them back up without Sailing, as was done for the Group Ironman (Gridmaster) release, then adds the update in a buffer window and Sailing goes live."},
+        {"t": 61, "kind": "opinion", "text": "Gnomonkey considers the pull-down-and-buffer launch approach much better than the usual one-to-two hour delay on major releases; it worked well for the Gridmaster update, which was ready exactly when Jagex said."},
+        {"t": 92, "kind": "tip", "text": "Gnomonkey advises paying attention to the Sailing introduction quest, which explains the skill and its methods; in the beta he remembers it taking about 10 to 15 minutes."},
+        {"t": 960, "kind": "event", "text": "Gnomonkey planned to go live on stream at 3 AM on November 19th the instant Sailing appeared and train it immediately."}
+      ]
+    },
+    {
+      "name": "Sailing",
+      "kind": "skill",
+      "claims": [
+        {"t": 118, "kind": "requirement", "text": "Jagex's Sailing preparation list covers items, quests and skills; the items include various logs and planks, swamp tar, flax, cannonballs, rope, swamp paste, coins and several types of nails."},
+        {"t": 118, "kind": "method", "text": "Many of the prepared items (logs, planks, nails and so on) are used to upgrade your ship into better versions of itself, and flax is used to make sails."},
+        {"t": 146, "kind": "tip", "text": "Gnomonkey relays advice attributed to Modelena, whom he describes as the lead of the Sailing project: mains must decide whether to make or spend money at release, because many new resources enter the game and rushing 99 will be costly until prices settle."},
+        {"t": 175, "kind": "tip", "text": "Modelena's launch advice for mains who want to make money is to get Sailing high enough to farm the resources that rushers will need, because they will never be as valuable as on launch day."},
+        {"t": 175, "kind": "tip", "text": "Modelena's launch advice for ironmen is to expect to do much more than Sailing, since upgrading the boat is key and requires new resources; Gnomonkey infers this means hundreds, maybe thousands, of planks and other resources."},
+        {"t": 204, "kind": "requirement", "text": "The prep blog lists quests to unlock, which Gnomonkey assumes are for docks at different ports around the game, such as the dock off Prifddinas (Song of the Elves) and a Lunar Isle dock."},
+        {"t": 536, "kind": "requirement", "text": "Crafting at 73 is needed for Sailing ship upgrades such as the fishing nets and sails."},
+        {"t": 563, "kind": "tip", "text": "Gnomonkey says casual players do not need to rush 99 Sailing; getting Sailing into the 70s or 80s unlocks almost all of the content, and rushing to 99 will be expensive and gains little."},
+        {"t": 563, "kind": "opinion", "text": "Gnomonkey believes the players who benefit most from Sailing are those who go slower and take advantage of the content unlocked in the 70s and 80s rather than racing to 99."}
+      ]
+    },
+    {
+      "name": "Woodcutting",
+      "kind": "skill",
+      "claims": [
+        {"t": 230, "kind": "requirement", "text": "Gnomonkey says 92 Woodcutting is important for Sailing because it is needed for the new rosewood logs."},
+        {"t": 257, "kind": "tip", "text": "Gnomonkey says you do not need any of the new log levels to do Sailing, but to train efficiently he suggests pushing to 80 Woodcutting for ironwood logs before release."},
+        {"t": 257, "kind": "requirement", "text": "92 Woodcutting, a bit higher than redwoods, gets rosewood logs; each new log type makes its own planks used to upgrade ships."},
+        {"t": 379, "kind": "tip", "text": "Gnomonkey expects Mining and Woodcutting to be very useful on launch because players rushing Sailing will not chop trees, creating huge demand for logs and planks."}
+      ]
+    },
+    {
+      "name": "Fletching",
+      "kind": "skill",
+      "claims": [
+        {"t": 257, "kind": "stat", "text": "The new logs from Sailing can be made into new mid-tier blowpipes that Gnomonkey says compete with the Magic shortbow but are not new best in slot."},
+        {"t": 289, "kind": "requirement", "text": "The 84 Fletching requirement listed in the Sailing prep blog is just for the new blowpipes."},
+        {"t": 289, "kind": "tip", "text": "Gnomonkey says Fletching can probably be skipped for Sailing prep, especially if you already have a blowpipe, because the new blowpipes will not be very useful to you."}
+      ]
+    },
+    {
+      "name": "Construction",
+      "kind": "skill",
+      "claims": [
+        {"t": 289, "kind": "requirement", "text": "Construction is the skill used to build with rosewood planks on your ship, and Gnomonkey calls it very important for Sailing."},
+        {"t": 316, "kind": "opinion", "text": "Gnomonkey hopes a crystal saw will work for Sailing builds, which in theory would allow 84 Construction with a +5 boost; he notes Jagex had not confirmed this."},
+        {"t": 316, "kind": "tip", "text": "Gnomonkey says 84 Construction is a good target for ship upgrades, but if there is a huge bulk of things to construct, getting +5 boosts repeatedly would be a nightmare."}
+      ]
+    },
+    {
+      "name": "Smithing",
+      "kind": "skill",
+      "claims": [
+        {"t": 316, "kind": "requirement", "text": "Sailing adds brand new ores and bars, which require Smithing."},
+        {"t": 345, "kind": "stat", "text": "The new bars are mostly used for cannonballs but are also used to upgrade the hull of the ship."},
+        {"t": 345, "kind": "opinion", "text": "Gnomonkey thinks Construction is probably more important than Smithing for ship upgrades, but Smithing will still matter."},
+        {"t": 345, "kind": "tip", "text": "Gnomonkey notes that on a main account the new Sailing resources will be tradable, so you can bypass the levels, but they will probably be expensive because few players have the stats and max players will be training Sailing rather than chopping logs."}
+      ]
+    },
+    {
+      "name": "Fishing",
+      "kind": "skill",
+      "claims": [
+        {"t": 379, "kind": "stat", "text": "Sailing adds a new best healing fish that restores 24 health per bite, which Gnomonkey calls the new best single-bite food in the game."},
+        {"t": 379, "kind": "requirement", "text": "The new fish requires 91 Fishing, and Gnomonkey believes 93 Cooking to cook it; he considers it a little better than anglerfish."}
+      ]
+    },
+    {
+      "name": "Herblore",
+      "kind": "skill",
+      "claims": [
+        {"t": 412, "kind": "requirement", "text": "The Herblore level listed in the Sailing prep is the level required for the new Armadillo brew; Gnomonkey says it needs 77 Hunter for the crab used to make it."},
+        {"t": 412, "kind": "stat", "text": "Gnomonkey says Armadillo brew gives a little less health than a normal brew but drains every combat stat except Ranged, and boosts Ranged by the same amount as a normal ranging potion."},
+        {"t": 412, "kind": "opinion", "text": "Gnomonkey expects Armadillo brews to be very strong in the Inferno, against Zulrah, and at Doom of Mokhaiotl (which he calls Mocha), among other places."},
+        {"t": 412, "kind": "event", "text": "An extended stamina potion is also coming with Sailing, and Gnomonkey says getting Herblore up will be very helpful."}
+      ]
+    },
+    {
+      "name": "Hunter",
+      "kind": "skill",
+      "claims": [
+        {"t": 445, "kind": "stat", "text": "The Hunter level in the Sailing prep is used to catch crabs, which are ground into crab meat used in potions."},
+        {"t": 445, "kind": "requirement", "text": "Armadillo brew requires 77 Hunter to catch the crab needed for it."}
+      ]
+    },
+    {
+      "name": "Thieving",
+      "kind": "skill",
+      "claims": [
+        {"t": 445, "kind": "opinion", "text": "Gnomonkey does not think the Sailing Thieving requirement gives access to any important single resource, so you probably do not need it."},
+        {"t": 445, "kind": "stat", "text": "Jagex has said Thieving will be a decent source of things like cannonballs and certain upgrade parts."}
+      ]
+    },
+    {
+      "name": "Farming",
+      "kind": "skill",
+      "claims": [
+        {"t": 505, "kind": "requirement", "text": "The very high Farming level in the Sailing prep (92) is needed to plant the new rosewood hardwood trees."},
+        {"t": 505, "kind": "stat", "text": "A lot of new Farming content for Sailing sits in the 70s, including potion materials, new coral to farm for new potions, and cotton-like flax crops used to upgrade sails."},
+        {"t": 536, "kind": "tip", "text": "Gnomonkey says Farming, Woodcutting and Construction together are needed to get the full upgrades out of your ship; pushing Farming to 92 lets you plant rosewood trees."}
+      ]
+    },
+    {
+      "name": "Slayer",
+      "kind": "skill",
+      "claims": [
+        {"t": 472, "kind": "stat", "text": "Combat levels in the Sailing prep are only for the new gear such as the new blowpipes and the new rapier, and the Slayer level is for the new monsters, which Gnomonkey says drop dragon parts for your ship."},
+        {"t": 505, "kind": "tip", "text": "Gnomonkey thinks getting to the new Slayer monsters quickly could be a good source of money, and notes the griffins are only around the 50 Slayer range so mid-level players can access them immediately."}
+      ]
+    },
+    {
+      "name": "Salvaging",
+      "kind": "mechanic",
+      "claims": [
+        {"t": 624, "kind": "method", "text": "Shipwreck salvaging is a Sailing training method that can be tick manipulated, as shown in the beta by the player Hebox."},
+        {"t": 651, "kind": "method", "text": "To tick manipulate salvaging, bring a knife and a log (mahogany or teak), step away from the winch, then step back in with the knife and log; this gives two harvest actions in a four-tick process, effectively two-tick salvaging."},
+        {"t": 679, "kind": "stat", "text": "In the Hebox footage, salvaging gave 30 XP drops, with a 60 XP drop when he got two rolls at once."},
+        {"t": 679, "kind": "method", "text": "Salvaging can also be done AFK for XP, with the tick-manipulated method being the sweaty fast option."}
+      ]
+    },
+    {
+      "name": "Charting",
+      "kind": "mechanic",
+      "claims": [
+        {"t": 604, "kind": "method", "text": "Charting a new area gives one-off XP, like an XP lamp for finding a new area; it is not a consistent training method."},
+        {"t": 624, "kind": "method", "text": "Port tasks send you on back-and-forth missions such as killing sharks at sea or delivering cargo, giving XP."}
+      ]
+    },
+    {
+      "name": "Barracuda Trials",
+      "kind": "activity",
+      "claims": [
+        {"t": 679, "kind": "requirement", "text": "Barracuda Trials unlock at 30 Sailing."},
+        {"t": 679, "kind": "method", "text": "Barracuda Trials are described as like Hallowed Sepulchre for boats: you race a route picking up cargo as fast as possible and are given a chunk of XP at the end."}
+      ]
+    },
+    {
+      "name": "Hardcore Ironman Mode",
+      "kind": "account",
+      "claims": [
+        {"t": 740, "kind": "tip", "text": "Gnomonkey warns hardcore ironman players that large areas of the sea are multi-combat, so your boat can be attacked by many sources."},
+        {"t": 740, "kind": "stat", "text": "If your boat dies you wash up at the port on 1 HP, and since you can also be poisoned at sea, you could die the instant you return to shore."},
+        {"t": 767, "kind": "opinion", "text": "Gnomonkey thinks it is silly to touch Sailing on a hardcore ironman on day one because of the dangers and the bugs he expects, and does not think Jagex will return hardcore status on anything."},
+        {"t": 767, "kind": "event", "text": "Gnomonkey plans to attempt Sailing on his hardcore ironman only after a week or two, once things are ironed out."}
+      ]
+    },
+    {
+      "name": "Gnomonkey",
+      "kind": "person",
+      "claims": [
+        {"t": 711, "kind": "event", "text": "Gnomonkey planned to start Sailing on his main account to rush getting his max cape back quickly, streaming it the instant Sailing came out."},
+        {"t": 797, "kind": "event", "text": "Gnomonkey wanted to make a day-one guide on the new Griffin slayer boss, which he expects to be a very low-level boss, and possibly Barracuda Trial guides."},
+        {"t": 797, "kind": "opinion", "text": "Gnomonkey says skilling guides have not been his forte for a long time and many others will make them, so he may not make Sailing skilling guides; he plans to stream the process and post the VODs."},
+        {"t": 861, "kind": "opinion", "text": "Gnomonkey says he will try to stay neutral on Sailing and give feedback when things are not working right, including XP rates that are too slow or too fast and bugs."}
+      ]
+    },
+    {
+      "name": "Opinion: Sailing launch feedback",
+      "kind": "opinion",
+      "claims": [
+        {"t": 829, "kind": "opinion", "text": "Gnomonkey expects Sailing's launch to be buggy and a total mess."},
+        {"t": 829, "kind": "opinion", "text": "Gnomonkey predicts that early on players will wear rose-tinted glasses and bugs will not be attacked quickly by Jagex because everyone is absorbed in the new content."},
+        {"t": 888, "kind": "opinion", "text": "Gnomonkey says Jagex needs feedback ASAP on Sailing or they will lose people, and expects a honeymoon phase of about a week after which players will swing to hating Sailing."},
+        {"t": 916, "kind": "tip", "text": "Gnomonkey advises players who dislike Sailing to simply not train it, wait for Jagex to iron out the issues and the economy to settle, and mains can buy what they need instead."}
+      ]
+    }
+  ]
+}

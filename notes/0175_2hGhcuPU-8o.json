@@ -1,0 +1,357 @@
+{
+  "id": "2hGhcuPU-8o",
+  "title": "ARAXXOR BUDGET GUIDE - Release Day - OSRS",
+  "date": "2024-08-28",
+  "type": "guide",
+  "summary": "A release-day budget guide to Araxxor that ranks crush weapons, lists the inventory and teleports, and demonstrates the fight's mechanics (venge timing, acid, mirrorbacks, enrage). Gnomonkey considers it a very easy and underwhelming Slayer boss and gives design suggestions at the end.",
+  "outline": [
+    {
+      "t": 0,
+      "text": "Gear setup and weapon ranking"
+    },
+    {
+      "t": 86,
+      "text": "Inventory and spellbook"
+    },
+    {
+      "t": 137,
+      "text": "Teleports and preparation"
+    },
+    {
+      "t": 180,
+      "text": "Boss mechanics and the fight"
+    },
+    {
+      "t": 281,
+      "text": "Advanced kill techniques and egg types"
+    },
+    {
+      "t": 540,
+      "text": "Drops and rewards"
+    },
+    {
+      "t": 675,
+      "text": "Final thoughts and review of the boss design"
+    }
+  ],
+  "topics": [
+    {
+      "name": "Araxxor",
+      "kind": "boss",
+      "claims": [
+        {
+          "t": 0,
+          "kind": "event",
+          "text": "In the video description Gnomonkey says Araxxor needs a Slayer task to be done and that Spider tasks do count towards Araxxor, even though originally that was not going to be the case."
+        },
+        {
+          "t": 181,
+          "kind": "stat",
+          "text": "Gnomonkey says Araxxor is giga weak to crush, has a fairly low defence level, and is giga defensive against stab; slash defence is not too bad, so burning claws still work."
+        },
+        {
+          "t": 206,
+          "kind": "tip",
+          "text": "Gnomonkey recommends prepotting stamina, divine and anglers before going to Araxxor, and says not to fang the boss."
+        },
+        {
+          "t": 212,
+          "kind": "stat",
+          "text": "Araxxor's specials come every three attacks, and the new spiders spawn every three attacks after that, so the fight alternates between special and spiders."
+        },
+        {
+          "t": 295,
+          "kind": "stat",
+          "text": "Which special attack Araxxor uses depends on which egg comes first, and there are a handful of different specials."
+        },
+        {
+          "t": 354,
+          "kind": "tip",
+          "text": "When Araxxor curls up his hands he is enraged and targets where you were standing when the animation starts, doing three splats, so you move each time he puts his hands up to avoid all of the damage."
+        },
+        {
+          "t": 351,
+          "kind": "tip",
+          "text": "Gnomonkey says you can avoid all damage from the spiders by praying ranged, and that the ranged-spitting spider can basically be ignored since it maxes 15 and does not hit often."
+        },
+        {
+          "t": 369,
+          "kind": "stat",
+          "text": "Gnomonkey says if you get stuck on the boss you do not get your damage in, which he calls new knowledge."
+        },
+        {
+          "t": 405,
+          "kind": "tip",
+          "text": "Gnomonkey says Araxxor's magic attack must be caught before the animation starts, and that otherwise you just tank a lot of damage; the enraged boss has about 250 health to go through."
+        },
+        {
+          "t": 462,
+          "kind": "tip",
+          "text": "Gnomonkey says the ball special has an area-of-effect on each splat, so you need to move two tiles away, and it is very easy to dodge."
+        },
+        {
+          "t": 423,
+          "kind": "tip",
+          "text": "Gnomonkey says the special that puts acid in a corner is very, very easy to avoid."
+        },
+        {
+          "t": 530,
+          "kind": "tip",
+          "text": "Gnomonkey says every kill is done the same way: venge plus thrall, bring your best crush weapon, and he would recommend it."
+        }
+      ]
+    },
+    {
+      "name": "Araxxor mechanics",
+      "kind": "mechanic",
+      "claims": [
+        {
+          "t": 119,
+          "kind": "stat",
+          "text": "Gnomonkey says there is a mechanic where Vengeance nullifies damage, which makes venge worth bringing; the venge needs to be timed so the minions do not pop it first."
+        },
+        {
+          "t": 207,
+          "kind": "tip",
+          "text": "Gnomonkey says not to spam venge because the mirrorback minions will hit you and pop it; time it with them instead."
+        },
+        {
+          "t": 207,
+          "kind": "stat",
+          "text": "An orange explosive spider is described by Gnomonkey as like the Tombs of Amascut volley baboon: if it pops directly under the boss it does 80 damage, and if it is on the edge it does less, such as 64."
+        },
+        {
+          "t": 236,
+          "kind": "tip",
+          "text": "Gnomonkey says the acid is the same as Ulm acid: it lasts a short time but if you step under the boss before you attack you avoid the acid damage."
+        },
+        {
+          "t": 267,
+          "kind": "stat",
+          "text": "Gnomonkey says the white spider egg's mirrorback is the worst one: it reflects your own damage back at you (he took 11 to 13), but venging at the right time avoids that damage completely."
+        },
+        {
+          "t": 340,
+          "kind": "tip",
+          "text": "Gnomonkey says you can drag the boss towards the mirrorback and go under the boss each time before you attack."
+        },
+        {
+          "t": 365,
+          "kind": "tip",
+          "text": "Gnomonkey says you can venge as the XP drop appears and it works; you just do not want anything else to pop it."
+        },
+        {
+          "t": 295,
+          "kind": "tip",
+          "text": "Gnomonkey says you cannot death charge off the boss but you can death charge off the eggs, so killing a mirrorback gives you death charge."
+        },
+        {
+          "t": 520,
+          "kind": "tip",
+          "text": "Gnomonkey says to leave the explosive spiders alone because killing them explodes into acid."
+        },
+        {
+          "t": 552,
+          "kind": "tip",
+          "text": "Gnomonkey says it is really bad to ignore mirrorbacks because it reduces your damage against the boss by 25%, so you want to kill them."
+        },
+        {
+          "t": 722,
+          "kind": "opinion",
+          "text": "Gnomonkey says the only spiders worth killing are mirrorbacks: run up, one-shot the mirrorback, and go back to the boss; the explosive ones just do damage for you and the green ones can be ignored."
+        },
+        {
+          "t": 770,
+          "kind": "stat",
+          "text": "Gnomonkey says you always max hit the mirrorback as long as you use a primary crush weapon such as the bludgeon, Maracas or a mace, and a scythe will not work because it is primary slash."
+        }
+      ]
+    },
+    {
+      "name": "Araxxor gear setup",
+      "kind": "mechanic",
+      "claims": [
+        {
+          "t": 0,
+          "kind": "opinion",
+          "text": "Gnomonkey ranks Araxxor weapons: the Scythe of Vitur is better than everything else by quite a bit (about 6% better than the Soulreaper axe), the Soulreaper axe is next and better than the mace (transcribed 'Ink Mace'), and a Twisted bow is the next best option if you own none of those."
+        },
+        {
+          "t": 26,
+          "kind": "opinion",
+          "text": "Gnomonkey says the Elder maul is the best spec and a big time save, with burning claws the second best spec, followed by the Dragon warhammer, and says the Elder maul is straight better than the Bandos godsword."
+        },
+        {
+          "t": 56,
+          "kind": "tip",
+          "text": "Gnomonkey says the weapons Maracas, Zamorakian hasta and Ursine chainmace are roughly equal slight upgrades and the Bludgeon is slightly better than those; until you reach actually good weapons everything is about the same."
+        },
+        {
+          "t": 86,
+          "kind": "tip",
+          "text": "A typical setup per Gnomonkey brings a Ring of shadows and a Book of the Dead, with runes (lava, astral, cosmic, death) pulled from a rune pouch, and dropping four items at the cave entrance, which gives vengeance and spellbook swap with thrall and death charge in two inventory slots."
+        },
+        {
+          "t": 119,
+          "kind": "opinion",
+          "text": "Gnomonkey says losing two inventory slots to bring both venge and thrall plus death charge is pretty worth it for much faster kills, though not a huge deal if you cannot venge."
+        },
+        {
+          "t": 519,
+          "kind": "opinion",
+          "text": "Gnomonkey says a ballista is worse than using his normal setup because it is slower and needs a range potion, so he is not a fan."
+        },
+        {
+          "t": 530,
+          "kind": "opinion",
+          "text": "Gnomonkey says the Elder maul is good because it is very accurate and the boss has a ton of health, so draining defence is still quite good."
+        },
+        {
+          "t": 0,
+          "kind": "opinion",
+          "text": "In the video description Gnomonkey says overall Crush is best-in-slot, with the Elder maul into burning claws for spec, and to use Gearscape because it is updated with Araxxor."
+        },
+        {
+          "t": 624,
+          "kind": "opinion",
+          "text": "Gnomonkey says a Twisted bow is a bit better than a Bludgeon and much worse than a mace, so it is your next best option if you own none of the mace, Soulreaper axe or scythe."
+        },
+        {
+          "t": 399,
+          "kind": "opinion",
+          "text": "Gnomonkey says the zombie axe is worse than Maracas, so get Maracas if you can."
+        },
+        {
+          "t": 626,
+          "kind": "opinion",
+          "text": "Gnomonkey says not having a Blood fury at the Colosseum is really bad, so the amulet of rancour would have to be a switch there, and it cannot be used at Nex."
+        }
+      ]
+    },
+    {
+      "name": "Araxxor teleports",
+      "kind": "other",
+      "claims": [
+        {
+          "t": 119,
+          "kind": "tip",
+          "text": "Gnomonkey says the best teleport to Araxxor is the Spider Cave teleport, but it cost about 70k at the time, so he did not use it."
+        },
+        {
+          "t": 148,
+          "kind": "tip",
+          "text": "Gnomonkey says the second best teleport is the Hallowed Sepulchre teleport, which needs a shortcut that requires two long ropes at 50k each, 100k total, to permanently open."
+        },
+        {
+          "t": 170,
+          "kind": "tip",
+          "text": "Gnomonkey says Sepulchre teleports are incredibly cheap and very worth getting by running some Sepulchre."
+        }
+      ]
+    },
+    {
+      "name": "Amulet of rancour",
+      "kind": "item",
+      "claims": [
+        {
+          "t": 596,
+          "kind": "opinion",
+          "text": "Gnomonkey says the amulet of rancour (transcribed 'Rancor') is really good against tanky bosses such as Challenge Mode bosses, but against targets with zero defence it does basically nothing and is not good over Blood fury."
+        },
+        {
+          "t": 596,
+          "kind": "stat",
+          "text": "Gnomonkey says at Theatre of Blood against a fully drained Maiden the amulet of rancour is barely any different from Blood fury, and that it is great on phase 2 of a fight he mentions."
+        }
+      ]
+    },
+    {
+      "name": "Araxxor drops",
+      "kind": "item",
+      "claims": [
+        {
+          "t": 523,
+          "kind": "stat",
+          "text": "Araxxor drops pieces of a halberd, and you need three pieces to create it; Gnomonkey says it is basically a Sail door, like a bludgeon."
+        },
+        {
+          "t": 560,
+          "kind": "opinion",
+          "text": "Gnomonkey says the halberd is basically a five-tick weapon like a Sail door and not very good; its one use is that it is the only melee weapon that can venom without a Serpentine helm, making it useful for venoming Tormented Demons and a new best-in-slot melee DPS on Jads, especially for a melee Inferno."
+        },
+        {
+          "t": 526,
+          "kind": "opinion",
+          "text": "Gnomonkey says it may be worth going for the halberd on an ironman depending on how rare it is, but for mains he thinks nobody will care."
+        },
+        {
+          "t": 626,
+          "kind": "opinion",
+          "text": "Gnomonkey dislikes the loot system, where you can loot or right click destroy the loot to get a doubled pet chance, and says it feels really lame to go pet hunting that way."
+        },
+        {
+          "t": 653,
+          "kind": "opinion",
+          "text": "Gnomonkey says he would prefer a system where you can still get the rare drops, similar to Zalcano, noting RS3 has a similar system but lets you see the loot first."
+        }
+      ]
+    },
+    {
+      "name": "Opinion: Araxxor Slayer boss design",
+      "kind": "opinion",
+      "claims": [
+        {
+          "t": 0,
+          "kind": "opinion",
+          "text": "In the video description Gnomonkey calls Araxxor a very easy Slayer boss, easier than the recently released Tormented Demons, and calls it a let down: basically a copy-pasted low level spider boss with a 92 Slayer requirement, Spindel."
+        },
+        {
+          "t": 677,
+          "kind": "opinion",
+          "text": "Gnomonkey considers Araxxor somewhere in the middle of existing Slayer bosses: not complex and not interesting, and says Cerberus is honestly a better boss fight and the growth tests are more interesting."
+        },
+        {
+          "t": 706,
+          "kind": "opinion",
+          "text": "Gnomonkey says the ranged spiders currently have huge negatives for killing them, so there is no reason to do so, and suggests they leave a trail of acid or something that makes you want to deal with them."
+        },
+        {
+          "t": 736,
+          "kind": "opinion",
+          "text": "Gnomonkey says the intended risk-reward of killing or not killing eggs does not really exist, since you always kill it the same way at any gear or skill level."
+        },
+        {
+          "t": 766,
+          "kind": "opinion",
+          "text": "Gnomonkey says that if it were a 75 Slayer boss that would be fine, and that the 92 Slayer requirement is what makes it not great."
+        },
+        {
+          "t": 766,
+          "kind": "stat",
+          "text": "Gnomonkey estimates Araxxor gives about 70k Slayer XP an hour in max gear, and about 65k with bank trips, which he says is better than any other Slayer boss; he notes Hydra is only about 30k XP an hour."
+        },
+        {
+          "t": 766,
+          "kind": "opinion",
+          "text": "Gnomonkey says Araxxor is honestly probably worth killing just for the Slayer XP."
+        }
+      ]
+    },
+    {
+      "name": "Gnomonkey",
+      "kind": "person",
+      "claims": [
+        {
+          "t": 0,
+          "kind": "event",
+          "text": "Gnomonkey refers viewers with gear questions to Gearscape, which he says is updated with Araxxor."
+        },
+        {
+          "t": 0,
+          "kind": "opinion",
+          "text": "Gnomonkey says he and some others had little issue with Tormented Demons even at first, and that he considers Araxxor even easier than that."
+        }
+      ]
+    }
+  ]
+}
